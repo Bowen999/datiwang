@@ -2,18 +2,52 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  /* 刘海屏 / 全面屏安全区 */
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+}
+
 @layer base {
   html {
     -webkit-tap-highlight-color: transparent;
+    /* 游戏页面：禁止浏览器自带的 overscroll 回弹/下拉刷新干扰点按 */
+    overscroll-behavior: none;
   }
   body {
     @apply bg-paper text-ink font-display antialiased;
     background-image: radial-gradient(#14141414 1.5px, transparent 1.5px);
     background-size: 22px 22px;
+    overscroll-behavior: none;
   }
   ::selection {
     background: #ffc800;
     color: #141414;
+  }
+  /* 触屏优化：取消双击缩放延迟、防止长按选中文字/图片 */
+  button,
+  a,
+  [role='button'],
+  input,
+  select,
+  textarea {
+    touch-action: manipulation;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+  }
+  input,
+  textarea {
+    -webkit-user-select: auto;
+    user-select: auto;
+  }
+}
+
+@layer utilities {
+  /* 页面骨架：老浏览器回退 100vh，支持动态视口高度时用 100dvh（地址栏缩放不跳动） */
+  .app-screen {
+    min-height: 100vh;
+    min-height: 100dvh;
   }
 }
 

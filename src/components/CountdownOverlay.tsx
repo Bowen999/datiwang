@@ -6,7 +6,7 @@ export function CountdownOverlay({ endsAt, round, total, now }: { endsAt: number
   const n = Math.ceil(remain / 1000);
   return (
     <motion.div
-      className="fixed inset-0 z-40 flex flex-col items-center justify-center bg-paper/90 backdrop-blur-sm"
+      className="fixed inset-0 z-40 flex flex-col items-center justify-center bg-paper/95"
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       exit={{ opacity: 0 }}

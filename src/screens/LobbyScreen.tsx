@@ -64,7 +64,7 @@ export function LobbyScreen({ room, selfId, isHost, categories, onUpdateSettings
   };
 
   return (
-    <div className="relative z-10 mx-auto flex min-h-dvh w-full max-w-md flex-col gap-4 px-5 py-6 landscape:py-3 md:max-w-5xl lg:max-w-6xl">
+    <div className="relative z-10 mx-auto flex app-screen w-full max-w-md flex-col gap-4 px-5 py-6 landscape:py-3 md:max-w-5xl lg:max-w-6xl">
       {/* 顶部：房间名 + 房间码 */}
       <motion.div initial={{ y: -40, opacity: 0 }} animate={{ y: 0, opacity: 1 }}>
         <NeoCard className="bg-neo-purple p-4 text-white md:p-5">

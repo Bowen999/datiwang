@@ -6,12 +6,10 @@ export function TimerBar({ progress, urgent }: { progress: number; urgent: boole
   const color = pct > 0.5 ? '#3ECF8E' : pct > 0.25 ? '#FFC800' : '#FF3B3B';
   return (
     <div className="h-5 w-full overflow-hidden rounded-neo border-4 border-ink bg-white shadow-neo-sm">
-      <motion.div
+      {/* 用 CSS width + transition 驱动进度，避免每帧触发 React 重渲染（手机端更顺滑） */}
+      <div
         className="h-full"
-        style={{ background: color }}
-        initial={false}
-        animate={{ width: `${pct * 100}%` }}
-        transition={{ duration: 0.2, ease: 'linear' }}
+        style={{ background: color, width: `${pct * 100}%`, transition: 'width 1s linear' }}
       >
         {urgent && (
           <motion.div
@@ -20,7 +18,7 @@ export function TimerBar({ progress, urgent }: { progress: number; urgent: boole
             transition={{ duration: 0.5, repeat: Infinity }}
           />
         )}
-      </motion.div>
+      </div>
     </div>
   );
 }
