@@ -464,781 +464,309 @@
   {
     "id": "geography-034",
     "category": "geography",
-    "difficulty": "medium",
-    "question": "有关季⻛的正确叙述是",
+    "difficulty": "easy",
+    "question": "冰岛国名意为「冰之地」，格陵兰岛（Greenland）名字却意为「绿色之地」，但实际上哪一个被冰川覆盖的面积更大？",
     "options": [
-      "我国只受东南季⻛的影响",
-      "季⻛⽓候都是夏季⾼温多⾬，冬季寒冷⼲燥。",
-      "季⻛环流不属于⼤⽓环流",
-      "海陆热⼒性质的差异是形成季⻛的重要因素"
+      "冰岛",
+      "格陵兰岛",
+      "两者被冰川覆盖的面积其实差不多",
+      "两者几乎都没有冰川"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 1,
+    "explanation": "格陵兰岛约八成面积常年被厚厚的冰盖覆盖，反倒是「冰岛」因地热和暖流影响，绿地和温泉不少。传说中世纪探险家红胡子埃里克为吸引移民，故意把冰封的岛屿取了个好听的绿色名字，堪称「广告文案鼻祖」。"
   },
   {
     "id": "geography-035",
     "category": "geography",
-    "difficulty": "medium",
-    "question": "世界桥梁最多的城市是",
+    "difficulty": "easy",
+    "question": "世界上面积最小的独立国家是哪一个？",
     "options": [
-      "威尼斯",
-      "杭州",
-      "巴黎",
-      "东京"
+      "摩纳哥",
+      "梵蒂冈",
+      "圣马力诺",
+      "列支敦士登"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 1,
+    "explanation": "梵蒂冈全境仅约0.44平方公里，整个国家完全「嵌」在意大利罗马城里，比不少城市公园还小，绕国境走一圈用不了一个小时。"
   },
   {
     "id": "geography-036",
     "category": "geography",
-    "difficulty": "medium",
-    "question": "下列关于⼤洲的叙述正确的是",
+    "difficulty": "easy",
+    "question": "世界上唯一一面不是长方形的国旗，属于哪个国家？",
     "options": [
-      "非洲的中部和南部是⿊种⼈的故乡",
-      "南美洲⽓候南北对称分布",
-      "北美洲是世界三⼤宗教的发源地",
-      "巴拿⻢运河是亚洲与非洲的分界线"
+      "不丹",
+      "斯里兰卡",
+      "缅甸",
+      "尼泊尔"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 3,
+    "explanation": "尼泊尔国旗由两个叠放的三角形组成，代表连绵的喜马拉雅山峰，也象征当地的印度教与佛教信仰。这独特造型让统一规定国旗尺寸的国际标准着实费了一番脑筋。"
   },
   {
     "id": "geography-037",
     "category": "geography",
-    "difficulty": "medium",
-    "question": "世界最深的河谷是",
+    "difficulty": "easy",
+    "question": "领土同时横跨亚洲和欧洲两大洲的国家是哪一个？",
     "options": [
-      "卡利甘达基峡谷",
-      "雅鲁藏布江河谷",
-      "塔拉河峡谷",
-      "淡水河谷"
+      "埃及",
+      "伊朗",
+      "沙特阿拉伯",
+      "土耳其"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 3,
+    "explanation": "土耳其绝大部分领土（安纳托利亚）位于亚洲，只有伊斯坦布尔附近一小块（色雷斯）属于欧洲。跨过博斯普鲁斯海峡上的大桥，几分钟就能从亚洲「走」到欧洲。"
   },
   {
     "id": "geography-038",
     "category": "geography",
-    "difficulty": "medium",
-    "question": "导致⽔资源不⾜和⽤⽔紧张的原因是多⽅⾯的，下列说法中与此⽆关的是",
+    "difficulty": "easy",
+    "question": "南美洲面积最大的国家巴西，国名来源于什么？",
     "options": [
-      "兴修⽔利⼯程",
-      "⽔污染、⽔浪费严重",
-      "⽔资源时空分布不均",
-      "⼈类对淡⽔的需求量增⼤"
+      "一种能提取红色染料的木材",
+      "当地盛产黄金的传说",
+      "首位登陆的葡萄牙探险家的姓氏",
+      "当地土著部落的自称"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "巴西得名于「巴西木」（pau-brasil），这种能提取红色染料的木材是殖民地早期最重要的出口商品，比后来让巴西闻名世界的咖啡和足球都要早得多。"
   },
   {
     "id": "geography-039",
     "category": "geography",
     "difficulty": "medium",
-    "question": "下列诗句中，描述⽓候的是",
+    "question": "赤道横穿了非洲、亚洲和南美洲的部分国家，却唯独没有经过下列哪个大洲？",
     "options": [
-      "忽如⼀夜春⻛来，千树万树梨花开",
-      "夜来⻛⾬声，花落知多少",
-      "⼈间四⽉芳菲尽，⼭寺桃花始盛开",
-      "东边⽇出⻄边⾬，道是⽆晴却有晴"
+      "非洲",
+      "亚洲",
+      "南美洲",
+      "欧洲"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 3,
+    "explanation": "赤道一共穿过十几个国家的领土，横跨非洲、亚洲（印度尼西亚）和南美洲，却从未踏入欧洲大陆一步。"
   },
   {
     "id": "geography-040",
     "category": "geography",
     "difficulty": "medium",
-    "question": "资源型城市是以矿产、森林等⾃然资源开采与加⼯为主导产业的城市，往往会经历从兴起到衰退的过程。资源型城市的共性特点是",
+    "question": "论陆上邻国数量，中国与哪个国家并列世界第一（都是14个）？",
     "options": [
-      "资源枯竭，产业效益下降",
-      "经济总量不⾜，地⽅财⼒薄弱",
-      "产业结构单⼀，资源产业萎缩",
-      "采掘业产值占⼯业总产值⽐重较⼤"
+      "巴西",
+      "印度",
+      "俄罗斯",
+      "美国"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 2,
+    "explanation": "中国和俄罗斯都拥有14个陆上邻国，并列世界最多。俄罗斯横跨欧亚，邻居从挪威一路排到朝鲜；中国的邻居则从俄罗斯排到越南，凑一桌麻将都不够坐。"
   },
   {
     "id": "geography-041",
     "category": "geography",
     "difficulty": "medium",
-    "question": "新疆优质煤源储量相对不⾜，为保证稳定供给⻄南地区优质煤炭的合理措施是",
+    "question": "非洲国家莱索托（Lesotho）的地理位置有什么特别之处？",
     "options": [
-      "发展燃⽓电⼒，节省优质煤炭资源",
-      "促进煤炭加⼯转换，提⾼附加值",
-      "实施疆内“北煤南运”，置换输出",
-      "发展集装箱运煤，减少运输损耗"
+      "全境被南非一个国家完全包围",
+      "全境正好位于赤道正下方",
+      "是撒哈拉沙漠腹地的一部分",
+      "全境海拔低于海平面"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 0,
+    "explanation": "莱索托是被单一国家完全包围的「国中国」，四周全是南非领土。全世界只有三个国家被完全包围在另一国境内：莱索托、圣马力诺和梵蒂冈（后两者被意大利包围）。"
   },
   {
     "id": "geography-042",
     "category": "geography",
     "difficulty": "medium",
-    "question": "21世纪初期波兰纺织业向现代化转型主要体现在",
+    "question": "永久中立国瑞士，官方语言一共有几种？",
     "options": [
-      "淘汰纺织业基础产业部⻔",
-      "专注纺织业链条⾼端环节",
-      "国际市场拓展和品牌建设",
-      "产业结构调整和技术升级"
+      "2种",
+      "3种",
+      "4种",
+      "1种"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 2,
+    "explanation": "瑞士有德语、法语、意大利语、罗曼什语四种官方语言，一张瑞士法郎纸币上常常同时印着好几种文字，堪称「小国大语言库」。"
   },
   {
     "id": "geography-043",
     "category": "geography",
     "difficulty": "medium",
-    "question": "河西走廊和柴达木盆地界线是",
+    "question": "直布罗陀海峡把哪两个大洲隔开？",
     "options": [
-      "祁连山脉",
-      "太行山脉",
-      "天山山脉",
-      "横断山脉"
+      "欧洲和非洲",
+      "欧洲和亚洲",
+      "亚洲和非洲",
+      "北美洲和南美洲"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "直布罗陀海峡最窄处不到15公里，天气晴朗时，站在西班牙一侧甚至能用肉眼望见对岸的摩洛哥，一眼望两洲。"
   },
   {
     "id": "geography-044",
     "category": "geography",
     "difficulty": "medium",
-    "question": "历史上，苏州⼈利⽤当地砚瓦⼭的岩⽯做原料⽣产优质砚台。这种岩⽯岩性致密，呈薄板状。该岩⽯可能是",
+    "question": "巴拿马运河连接了哪两个大洋？",
     "options": [
-      "变质岩",
-      "喷出岩",
-      "沉积岩",
-      "侵⼊岩"
+      "太平洋和大西洋",
+      "太平洋和印度洋",
+      "大西洋和印度洋",
+      "北冰洋和太平洋"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "巴拿马运河凿穿中美洲地峡，让船只不必绕行南美洲最南端的合恩角，把往返两大洋的航程一下缩短了数千公里。"
   },
   {
     "id": "geography-045",
     "category": "geography",
     "difficulty": "medium",
-    "question": "世界最小的海是",
+    "question": "南美洲国家阿根廷（Argentina）的名字，来源于拉丁语中的哪个词？",
     "options": [
-      "波罗的海",
-      "马尔马拉海",
-      "里海",
-      "地中海"
+      "黄金",
+      "白银",
+      "太阳",
+      "高山"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "explanation": "阿根廷得名于拉丁语「argentum」（白银），当年欧洲探险家误以为这片土地蕴藏大量银矿。流经布宜诺斯艾利斯的「拉普拉塔河」，名字也是「白银之河」的意思。"
   },
   {
     "id": "geography-046",
     "category": "geography",
     "difficulty": "medium",
-    "question": "⼀直被视为中国南⽅地区和北⽅地区分界线的⼭脉是",
+    "question": "世界上规模最大的珊瑚礁群「大堡礁」，分布在哪个国家附近的海域？",
     "options": [
-      "大兴安岭",
-      "天山山脉",
-      "秦岭",
-      "巫山"
+      "印度尼西亚",
+      "菲律宾",
+      "澳大利亚",
+      "马尔代夫"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "explanation": "大堡礁绵延在澳大利亚东北海岸外，由数千个独立礁体组成，是地球上最大的生物结构，从太空中都能辨认出它的轮廓。"
   },
   {
     "id": "geography-047",
     "category": "geography",
     "difficulty": "medium",
-    "question": "世界盐度最低的海是",
+    "question": "非洲著名的维多利亚瀑布，位于赞比亚和哪个国家的交界处？",
     "options": [
-      "死海",
-      "东海",
-      "波罗的海",
-      "黄海"
+      "坦桑尼亚",
+      "肯尼亚",
+      "南非",
+      "津巴布韦"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 3,
+    "explanation": "维多利亚瀑布横跨赞比西河，是赞比亚与津巴布韦的界河瀑布。当地原名意为「雷鸣的烟雾」，飞溅的水花能腾起数百米高的水雾，几公里外都能看见。"
   },
   {
     "id": "geography-048",
     "category": "geography",
-    "difficulty": "medium",
-    "question": "“塞上江南”是宁夏的主要农业区，其发展农业的优势条件是 a地势平坦；b光照资源丰富；c降⽔丰沛；d灌溉⽔源充⾜",
+    "difficulty": "hard",
+    "question": "世界上仅有的两个「双重内陆国」（本国及所有邻国都没有海岸线）是列支敦士登和哪个国家？",
     "options": [
-      "bcd",
-      "abc",
-      "acd",
-      "abd"
+      "蒙古国",
+      "哈萨克斯坦",
+      "乌兹别克斯坦",
+      "白俄罗斯"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 2,
+    "explanation": "乌兹别克斯坦周边邻国清一色都是内陆国，想从这里出海，至少要连续穿越两个国家。列支敦士登同理，被瑞士和奥地利这两个内陆国夹在中间，是全世界仅有的两个「双重内陆国」。"
   },
   {
     "id": "geography-049",
     "category": "geography",
-    "difficulty": "medium",
-    "question": "地球环境中最活跃的圈层是",
+    "difficulty": "hard",
+    "question": "南美洲国家玻利维亚（Bolivia）的国名，是为了纪念哪位历史人物？",
     "options": [
-      "岩⽯圈",
-      "⽔圈",
-      "⼤⽓圈",
-      "⽣物圈"
+      "哥伦布",
+      "西蒙·玻利瓦尔",
+      "麦哲伦",
+      "圣马丁"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 1,
+    "explanation": "玻利维亚以南美独立运动领袖西蒙·玻利瓦尔命名，他领导多国摆脱西班牙殖民统治。委内瑞拉的正式国名「玻利瓦尔共和国」同样是为了致敬他。"
   },
   {
     "id": "geography-050",
     "category": "geography",
-    "difficulty": "medium",
-    "question": "宁夏地理环境⾃南向北的变化不能体现",
+    "difficulty": "hard",
+    "question": "地球海洋中离任何陆地都最远的一点，被称为「尼莫点」（Point Nemo），它位于哪个大洋？",
     "options": [
-      "季⻛区向⾮季⻛区过渡",
-      "半湿润区、半⼲旱区向⼲旱区过渡",
-      "⻓江流域向⻩河流域过渡",
-      "农耕区向游牧区过渡"
+      "印度洋",
+      "大西洋",
+      "太平洋",
+      "北冰洋"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "explanation": "尼莫点周围两千多公里内没有陆地，距离最近的人类往往是国际空间站上的宇航员——因为空间站的轨道高度比附近陆地还要近。"
   },
   {
     "id": "geography-051",
     "category": "geography",
-    "difficulty": "medium",
-    "question": "世界面积最大的平原是",
+    "difficulty": "hard",
+    "question": "大西洋中的马尾藻海（萨尔加索海）有一项特殊之处：它是世界上唯一——",
     "options": [
-      "图兰平原",
-      "西西伯利亚平原",
-      "亚马逊平原",
-      "东欧平原"
+      "完全由洋流而非陆地圈定边界的海",
+      "终年结冰的海",
+      "位于赤道正下方的海",
+      "盐度低于淡水湖的海"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 0,
+    "explanation": "马尾藻海四周被墨西哥湾流等四条洋流环绕，没有任何一段海岸线，是名副其实「没有岸」的海。海面大片漂浮的马尾藻，也让百慕大三角的传说更添几分神秘。"
   },
   {
     "id": "geography-052",
     "category": "geography",
-    "difficulty": "medium",
-    "question": "世界领土最狭长的国家是",
+    "difficulty": "hard",
+    "question": "世界上唯一在国旗图案中画有枪械（一支AK-47突击步枪）的国家是？",
     "options": [
-      "墨西哥",
-      "阿根廷",
-      "智利",
-      "秘鲁"
+      "安哥拉",
+      "津巴布韦",
+      "厄立特里亚",
+      "莫桑比克"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 3,
+    "explanation": "莫桑比克国旗上的AK-47与锄头、书本交叉出现，分别象征保卫国家、发展农业和重视教育，用来纪念其艰苦漫长的独立战争历史。"
   },
   {
     "id": "geography-053",
     "category": "geography",
-    "difficulty": "medium",
-    "question": "下列⾏为或观点符合可持续发展理念的是",
+    "difficulty": "hard",
+    "question": "巴西国土辽阔，几乎与南美洲所有国家接壤，只有两个国家例外，是哪两个？",
     "options": [
-      "推⼴使⽤⼀次性⽊筷",
-      "留得⻘⼭在，不怕没柴烧",
-      "洗⾐服时⼀直开着⽔⻰头",
-      "涸泽⽽渔"
+      "秘鲁和委内瑞拉",
+      "智利和厄瓜多尔",
+      "乌拉圭和圭亚那",
+      "哥伦比亚和苏里南"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "explanation": "巴西一国就接壤10个邻国，南美洲其余12个国家里，只有智利和厄瓜多尔跟它不搭界——这两国恰好都被安第斯山脉和其他国家挡在了外面。"
   },
   {
     "id": "geography-054",
     "category": "geography",
-    "difficulty": "medium",
-    "question": "亚洲与非洲分界线不包括",
+    "difficulty": "hard",
+    "question": "世界上面积最大的半岛是哪一个？",
     "options": [
-      "红海",
-      "曼德海峡",
-      "马六甲海峡",
-      "苏伊士运河"
+      "中南半岛",
+      "斯堪的纳维亚半岛",
+      "印度半岛",
+      "阿拉伯半岛"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 3,
+    "explanation": "阿拉伯半岛面积超过300万平方公里，比整个印度还要大，沙特阿拉伯一国就占据了其中的大部分。"
   },
   {
     "id": "geography-055",
     "category": "geography",
-    "difficulty": "medium",
-    "question": "从投⼊—产出的⼯业联系看，应集聚的⼯⼚是",
+    "difficulty": "hard",
+    "question": "世界上岛屿数量最多的国家是哪一个？",
     "options": [
-      "汽⻋⼚——化纤⼚",
-      "⾃⾏⻋⼚——电视机⼚",
-      "印染⼚——织布⼚",
-      "钢铁⼚——印染⼚"
+      "挪威",
+      "菲律宾",
+      "印度尼西亚",
+      "日本"
     ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "geography-056",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "相对原有的发展，资源型城市新⽣期的发展主要着眼于",
-    "options": [
-      "延⻓原有产业链",
-      "拓宽资源进⼝通道",
-      "关闭重污染企业",
-      "培育新经济增⻓点"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "geography-057",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "长江中下游平原与华北平原界线是",
-    "options": [
-      "淮河",
-      "黄河",
-      "长江",
-      "海河"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "geography-058",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "经过熟化，⽔稻⼟的结构特点及功能发⽣的变化表现为",
-    "options": [
-      "耕作层浅薄疏松，受⼈类活动影响⼤",
-      "表⼟层软糊，提供了农作物扎根⽴⾜的条件",
-      "⺟岩层较薄，阻断了有机界与⽆机界的联系",
-      "犁底层紧实，提⾼了保⽔、保肥能⼒"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "geography-059",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "以下天体系统中，不包含⽕星的是",
-    "options": [
-      "银河系",
-      "总星系",
-      "太阳系",
-      "河外星系"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "geography-060",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "世界上一天中最早迎来旭日东升的国家是",
-    "options": [
-      "中国",
-      "美国",
-      "斐济",
-      "冰岛"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "geography-061",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "“新丝绸之路”横贯亚欧⼤陆，⾃东向⻄依次经过的世界⽂化圈是东亚⽂化圈与",
-    "options": [
-      "伊斯兰⽂化圈、东欧⽂化圈、⻄欧⽂化圈",
-      "伊斯兰⽂化圈、⻄欧⽂化圈、东欧⽂化圈",
-      "东欧⽂化圈、伊斯兰⽂化圈、⻄欧⽂化圈",
-      "⻄欧⽂化圈、东欧⽂化圈、伊斯兰⽂化圈"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "geography-062",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "成因与⻛带、⽓压带位置的季节移动有关的⽓候类型是",
-    "options": [
-      "地中海⽓候",
-      "温带海洋性⽓候",
-      "亚热带季⻛⽓候",
-      "热带⾬林⽓候"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "geography-063",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "制约环境承载⼒的⾸要因素是",
-    "options": [
-      "⼈均物质消费量",
-      "科技⽔平",
-      "⼈⼝数量",
-      "资源总量"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "geography-064",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "下列不属于天体的是",
-    "options": [
-      "太空试验站",
-      "陨星",
-      "星云",
-      "织女星"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "geography-065",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "世界含沙量最大的河流是",
-    "options": [
-      "松花江",
-      "黄河",
-      "海河",
-      "长江"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "geography-066",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "下列关于地球圈层结构的叙述，正确的是",
-    "options": [
-      "岩⽯圈包括地壳和整个地幔",
-      "⽣物圈是地球上所有⽣物的总称",
-      "⼤⽓圈的主要成分是氮和氧",
-      "⽔圈是连续⽽⼜规则的圈层"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "geography-067",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "喀⻨隆",
-    "options": [
-      "铁路线贯穿南北，与⼭脉平⾏",
-      "地处东⾮⾼原，最⾼峰超过4000⽶",
-      "沿岸主要受寒流影响，多海雾",
-      "禁猎区数量多，加强物种保护"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "geography-068",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "亚⻢孙河⼝",
-    "options": [
-      "受亚⻢孙河年径流量⼤影响，盐度低",
-      "受蒸发与降⽔影响，盐度季节变化⼤",
-      "潮涌⼩于阿拉⽠利河⼝，因为⻛⼒⼩",
-      "潮涌⼤于阿拉⽠利河⼝，因为多沙洲"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "geography-069",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "400毫米等降水量线不经过",
-    "options": [
-      "兰州",
-      "大兴安岭",
-      "广州",
-      "张家口"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "geography-070",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "世界上海外华⼈最集中的地区是",
-    "options": [
-      "南亚",
-      "欧洲⻄部",
-      "东南亚",
-      "西亚"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "geography-071",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "我国沿海⾚潮⼀般发⽣在",
-    "options": [
-      "6⽉到8⽉",
-      "12⽉到2⽉",
-      "9⽉到11⽉",
-      "3⽉到5⽉"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "geography-072",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "促使欧洲制造业⽣产向东转移的主要原因是",
-    "options": [
-      "寻求完善的配套设施",
-      "降低⽣产成本",
-      "⼈才向东流动",
-      "受⾼科技产业的吸引"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "geography-073",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "与⾃然⼟壤相⽐，⽔稻⼟",
-    "options": [
-      "结构更复杂",
-      "不含腐殖质",
-      "枯枝落叶层增厚",
-      "肥⼒⽔平下降"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "geography-074",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "我国“坚持计划⽣育基本国策不动摇”的根本原因是",
-    "options": [
-      "我国⼈⼝东多⻄少",
-      "我国⼈⼝基数⼤",
-      "我国⼈⼝出现负增⻓",
-      "我国⼈⼝基数⼩"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "geography-075",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "下列叙述与安徽省南部地域⽂化特征相符的是",
-    "options": [
-      "评剧、秦腔为传统地⽅戏曲",
-      "农业以种植茶、⽵等为特⾊",
-      "敬奉妈祖，盛⾏妈祖⽂化",
-      "泥草房和吊脚楼是传统⺠居"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "geography-076",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "以下能源的形成与太阳辐射能有关的是",
-    "options": [
-      "地热能",
-      "核能",
-      "煤炭石油",
-      "潮汐能"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "geography-077",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "关于⽔平⽓压梯度⼒，下列说法正确的是",
-    "options": [
-      "平⾏于等压线，指向⾼压区",
-      "垂直于等压线，指向低压区",
-      "垂直于等压线，指向⾼压区",
-      "平⾏于等压线，指向低压区"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "geography-078",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "港珠澳⼤桥海底沉管隧道铺设难度⼤的原因是",
-    "options": [
-      "海⽔含盐⾼，腐蚀性强",
-      "海底沉积物深厚，流动性强",
-      "需经过海⽔较深的海沟",
-      "位于环太平洋地震带上"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "geography-079",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "6⽉22⽇，正午太阳⾼度达到⼀年中最⼤值的地区是",
-    "options": [
-      "北回归线及其以北地区",
-      "⾚道以北地区",
-      "⾚道附近地区",
-      "南北回归线之间地区"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "geography-080",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "洋脊的形成主要是由于",
-    "options": [
-      "海底扩张处沉积物⼤量堆积",
-      "地震导致海底中间凹陷",
-      "海底扩张处岩浆涌出",
-      "地震使海底抬升"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "geography-081",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "正午时，地球上垂直的物体始终有影⼦且其影⼦只朝南的地区在",
-    "options": [
-      "⾚道以南的地区",
-      "北回归线以北的地区",
-      "南回归线以南⾄南极圈以北之间的地区",
-      "北回归线以北⾄北极圈以南之间的地区"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "geography-082",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "地球表⾯能量主要来源于",
-    "options": [
-      "⼤⽓反射",
-      "地球内部",
-      "太阳辐射",
-      "⼤⽓辐射"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "geography-083",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "近年来，我国迅速发展的⼤棚蔬菜⽣产，主要改变的⽣产条件是",
-    "options": [
-      "市场条件",
-      "地形条件",
-      "光热条件",
-      "⼟壤条件"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "geography-084",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "欧洲的主要地形是",
-    "options": [
-      "丘陵",
-      "平原",
-      "⾼原",
-      "⼭地"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "geography-085",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "2015年地球⽇活动主题为：“珍惜地球资源转变发展⽅式﹣﹣提⾼资源利⽤效益”，下列做法与该主题思想不符合的是",
-    "options": [
-      "⼤⼒推⼴⼀次性餐具⽤品",
-      "逐步关停⾼耗能重污染的⼯⼚",
-      "垃圾分类，资源再利⽤",
-      "⼤⼒发展节⽔农业和节⽔⼯业"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "geography-086",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "两个⼤陆板块碰撞的地区，⼀般出现的地壳运动现象是",
-    "options": [
-      "地震和⽕⼭",
-      "地震和断裂",
-      "⽕⼭和断裂",
-      "⽕⼭和褶皱"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "geography-087",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "2012年5⽉，我国⾸座深⽔钻井平台在南海⾸钻成功，其重要意义不包括",
-    "options": [
-      "⾏使对钻井平台周边我国海域的管辖权",
-      "宣示我国对南海的主权",
-      "解决我国⽬前⽯油对外依存度过⾼的问题",
-      "标志我国能够独⽴进⾏深海油⽓资源开发"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "geography-088",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "太阳能量来源于",
-    "options": [
-      "⿊⼦和耀斑的强烈活动",
-      "太阳内部的核聚变反应",
-      "太阳内部的核裂变反应",
-      "放射性元素衰变产⽣的热能"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "geography-089",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "19世纪20年代罗兹市纺织⼯业快速发展的重要条件是",
-    "options": [
-      "⼯业制造技术先进",
-      "廉价劳动⼒丰富",
-      "波兰纺织市场⼴阔",
-      "市政基础设施完善"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "geography-090",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "热⼒环流的形成过程为 a近地⾯空⽓受热或冷却；b同⼀⽔平⾯上产⽣⽓压差异；c形成⼤⽓的⽔平运动；d⽓流的上升或下降运动",
-    "options": [
-      "dbac",
-      "abcd",
-      "adbc",
-      "acbd"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "geography-091",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "除⼆氧化碳以外，甲烷、氟氯烃、⼀氧化碳等都被称为温室⽓体，其共同的原因是",
-    "options": [
-      "通过光化学反应向⼤⽓中释放能量",
-      "强烈吸收地⾯放出的红外线⻓波辐射",
-      "吸收太阳辐射，使⼤⽓增温",
-      "温室⽓体相互反应放出能量"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "geography-092",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "与地球上出现⽣命⽆关的条件是",
-    "options": [
-      "地球只有⼀颗卫星",
-      "地球与太阳的距离适中",
-      "地球的体积和质量适中",
-      "太阳的光照条件⽐较稳定"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "geography-093",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "为了探测莫霍⾯的情况，在下⾯四点同时进⾏了地震波的测定，其中最迟接收到从莫霍⾯传来的地震波的地点是",
-    "options": [
-      "⻓江中下游平原",
-      "⻘藏⾼原",
-      "华北平原",
-      "四川盆地"
-    ],
-    "correctAnswer": 1
+    "correctAnswer": 2,
+    "explanation": "印度尼西亚由超过一万七千个岛屿组成，领土横跨三个时区，其中有常住人口的岛屿约六千个，堪称名副其实的「千岛之国」。"
   }
 ]

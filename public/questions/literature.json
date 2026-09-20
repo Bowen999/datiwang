@@ -464,1561 +464,309 @@
   {
     "id": "literature-034",
     "category": "literature",
-    "difficulty": "medium",
-    "question": "《日出》的结构采用的是",
+    "difficulty": "easy",
+    "question": "西班牙作家塞万提斯笔下，堂吉诃德那位忠心耿耿、骑着毛驴一路跟随的随从叫什么名字？",
     "options": [
-      "散点透视法",
-      "回溯法",
-      "拴桩法",
-      "心理分析法"
+      "罗西南多",
+      "杜尔西内娅",
+      "桑丘·潘沙",
+      "阿隆索"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 2,
+    "explanation": "桑丘·潘沙是堂吉诃德的随从，一路陪着主人「大战风车」。罗西南多其实是堂吉诃德那匹瘦马的名字，杜尔西内娅则是他幻想出来的意中人，两个都是很会「蹭名字」的干扰项。"
   },
   {
     "id": "literature-035",
     "category": "literature",
-    "difficulty": "medium",
-    "question": "以眉间尺为父报仇作为中心线索的小说是",
+    "difficulty": "easy",
+    "question": "柯南·道尔笔下，大侦探福尔摩斯身边那位忠实的医生搭档叫什么名字？",
     "options": [
-      "《九十九度中》",
-      "《蜗牛在荆棘上》",
-      "《铸剑》",
-      "《山峡中》"
+      "莫里亚蒂",
+      "华生",
+      "雷斯垂德",
+      "哈德森太太"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 1,
+    "explanation": "华生医生是福尔摩斯的搭档兼案件记录者。莫里亚蒂是福尔摩斯的头号劲敌，雷斯垂德是苏格兰场探长，哈德森太太则是贝克街221B的房东，都是原著里如假包换的角色。"
   },
   {
     "id": "literature-036",
     "category": "literature",
-    "difficulty": "medium",
-    "question": "“他只是遗憾／他的祖先没有像他一样想过／不然，见到大海的该是他了”。以此作为结尾的诗歌是",
+    "difficulty": "easy",
+    "question": "被誉为「侦探小说女王」的英国作家是谁？",
     "options": [
-      "韩东的《山民》",
-      "曾卓的《悬崖边的树》",
-      "骆一禾的《岁月》",
-      "绿原的《重读<圣经>》"
+      "阿加莎·克里斯蒂",
+      "柯南·道尔",
+      "埃德加·爱伦·坡",
+      "雷蒙德·钱德勒"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "阿加莎·克里斯蒂被誉为「侦探小说女王」，她笔下的大侦探波洛和马普尔小姐家喻户晓。她的作品销量据称仅次于《圣经》和莎士比亚全集。"
   },
   {
     "id": "literature-037",
     "category": "literature",
-    "difficulty": "medium",
-    "question": "下列含有小说《伤逝》的鲁迅作品集是",
+    "difficulty": "easy",
+    "question": "「轻轻的我走了，正如我轻轻的来」的下一句是？",
     "options": [
-      "《朝花夕拾》",
-      "《呐喊》",
-      "《故事新编》",
-      "《彷徨》"
+      "面朝大海，春暖花开",
+      "我轻轻的招手，作别西天的云彩",
+      "撑着油纸伞，独自彷徨在悠长的雨巷",
+      "你站在桥上看风景，看风景人在楼上看你"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 1,
+    "explanation": "出自徐志摩《再别康桥》，写的是他重游英国剑桥的离别情绪。「康桥」就是今天的剑桥大学，徐志摩曾在那里游学，对这片校园感情极深。"
   },
   {
     "id": "literature-038",
     "category": "literature",
-    "difficulty": "medium",
-    "question": "汪静之属于",
+    "difficulty": "easy",
+    "question": "在J.K.罗琳的《哈利·波特》系列中，哈利就读的魔法学校叫什么名字？",
     "options": [
-      "现代派诗人",
-      "象征诗派诗人",
-      "湖畔诗人",
-      "小诗诗人"
+      "伊尔弗莫尼",
+      "达姆斯特朗",
+      "布斯巴顿",
+      "霍格沃茨"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 3,
+    "explanation": "哈利·波特就读的是霍格沃茨魔法学校。达姆斯特朗和布斯巴顿是书中另外两所欧洲魔法学校，曾在《哈利·波特与火焰杯》的三强争霸赛里登场。"
   },
   {
     "id": "literature-039",
     "category": "literature",
     "difficulty": "medium",
-    "question": "杂文《春末闲谈》中，细腰蜂的故事所要表达的是",
+    "question": "简·奥斯汀《傲慢与偏见》中，女主角伊丽莎白最终嫁给了谁？",
     "options": [
-      "歌颂人类的科学精神",
-      "揭示统治阶级麻痹和禁锢人民思想的方法",
-      "批判螟蛉的懦弱无能",
-      "赞美细腰蜂的聪明"
+      "达西先生",
+      "宾利先生",
+      "威克姆",
+      "柯林斯牧师"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0,
+    "explanation": "伊丽莎白最终嫁给了达西先生，两人从互相看不顺眼到互生情愫，是文学史上最经典的欢喜冤家。宾利先生娶的是伊丽莎白的姐姐简，柯林斯牧师则被伊丽莎白拒婚，转头娶了她的好友夏洛特。"
   },
   {
     "id": "literature-040",
     "category": "literature",
     "difficulty": "medium",
-    "question": "臧克家的第一部诗集是",
+    "question": "狄更斯《双城记》开篇名句「这是最好的时代，也是最坏的时代」，故事的背景横跨哪两座城市？",
     "options": [
-      "《罪恶的黑手》",
-      "《我底记忆》",
-      "《未明集》",
-      "《烙印》"
+      "巴黎与柏林",
+      "伦敦与巴黎",
+      "伦敦与罗马",
+      "巴黎与维也纳"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 1,
+    "explanation": "《双城记》以法国大革命为背景，故事在伦敦与巴黎两地展开。开篇那句「这是最好的时代，也是最坏的时代」，如今几乎成了万能的时代感叹句式。"
   },
   {
     "id": "literature-041",
     "category": "literature",
     "difficulty": "medium",
-    "question": "下列小说中运用了“戏剧穿插法”的是",
+    "question": "雨果《巴黎圣母院》中，那位相貌丑陋却心地善良的敲钟人叫什么名字？",
     "options": [
-      "《百合花》",
-      "《哦，香雪》",
-      "《游园惊梦》",
-      "《高女人和她的矮丈夫》"
+      "弗罗洛",
+      "腓比斯",
+      "卡西莫多",
+      "甘果瓦"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "explanation": "卡西莫多是巴黎圣母院里相貌丑陋却心地善良的敲钟人。弗罗洛是道貌岸然的副主教，腓比斯是英俊却薄情的卫队长，两人都爱慕吉普赛女郎爱斯梅拉达。"
   },
   {
     "id": "literature-042",
     "category": "literature",
     "difficulty": "medium",
-    "question": "台静农的《记波外翁》中波外翁的性格是",
+    "question": "作家三毛在《撒哈拉的故事》里写下与丈夫的沙漠生活，她丈夫的名字是？",
     "options": [
-      "唯唯诺诺，毫无主见",
-      "随和质朴，热情开朗好动",
-      "狂放不拘，目空一切",
-      "孤傲嫉俗，重情义轻生死"
+      "米格尔",
+      "保罗",
+      "安东尼",
+      "荷西"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 3,
+    "explanation": "荷西是三毛的西班牙丈夫，两人在撒哈拉沙漠结婚定居，成就了《撒哈拉的故事》里那些浪漫又艰苦的生活片段。荷西后来潜水意外去世，成了三毛一生难以走出的伤痛。"
   },
   {
     "id": "literature-043",
     "category": "literature",
     "difficulty": "medium",
-    "question": "下列哪一项不属于巴金的短篇小说集",
+    "question": "钱钟书的夫人杨绛晚年写下一部回忆录，记述与丈夫、女儿一家三口的生活，书名是？",
     "options": [
-      "《光明集》",
-      "《神鬼人》",
-      "《将军集》",
-      "《寒夜》"
+      "《我们仨》",
+      "《干校六记》",
+      "《洗澡》",
+      "《走到人生边上》"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "《我们仨》是杨绛在女儿钱瑗和丈夫钱钟书相继去世后写下的回忆录，用近乎梦境的笔法追忆一家三口的寻常岁月，朴素却催泪。"
   },
   {
     "id": "literature-044",
     "category": "literature",
     "difficulty": "medium",
-    "question": "《太阳下的风景》以两代人所走过的人生历程的对照为叙述线索，这两代人是",
+    "question": "路遥的长篇小说《平凡的世界》获得了第几届茅盾文学奖？",
     "options": [
-      "胡适、沈从文",
-      "郁达夫、沈从文",
-      "徐志摩、沈从文",
-      "黄永玉、沈从文"
+      "第一届",
+      "第三届",
+      "第五届",
+      "第七届"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 1,
+    "explanation": "《平凡的世界》获得第三届茅盾文学奖。路遥写这部百万字小说时几乎住在煤矿和窑洞里，几年后他也因肝硬化英年早逝，年仅42岁。"
   },
   {
     "id": "literature-045",
     "category": "literature",
     "difficulty": "medium",
-    "question": "小说《小二黑结婚》中，在区氏面前反复说“恩典恩典”的人物是",
+    "question": "日本推理作家东野圭吾在成为职业作家之前，做过什么工作？",
     "options": [
-      "小二黑",
-      "二诸葛",
-      "金旺",
-      "大黑"
+      "中学教师",
+      "报社记者",
+      "电机工程师",
+      "律师"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 2,
+    "explanation": "东野圭吾大学学的是电气工程，毕业后在汽车零部件公司当了好几年工程师，直到凭借《放学后》获得江户川乱步奖，才辞职专心写作。"
   },
   {
     "id": "literature-046",
     "category": "literature",
     "difficulty": "medium",
-    "question": "下列属于王安忆作品的是",
+    "question": "郭沫若的第一部新诗集，也是中国新诗的奠基之作，叫什么名字？",
     "options": [
-      "《小鲍庄》",
-      "《与往事干杯》",
-      "《少女小渔》",
-      "《无处告别》"
+      "《星空》",
+      "《瓶》",
+      "《凤凰涅槃》",
+      "《女神》"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 3,
+    "explanation": "《女神》是郭沫若的第一部新诗集，也是中国新诗的奠基之作，收录了《凤凰涅槃》等名篇。他早年留学日本学的其实是医学，后来才转向文学。"
   },
   {
     "id": "literature-047",
     "category": "literature",
     "difficulty": "medium",
-    "question": "小说《在其香居茶馆里》的作者是",
+    "question": "日本作家夏目漱石的头像，曾经印在面值多少的日元纸币上？",
     "options": [
-      "艾芜",
-      "张天翼",
-      "沈从文",
-      "沙汀"
+      "500日元",
+      "1000日元",
+      "5000日元",
+      "10000日元"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 1,
+    "explanation": "夏目漱石的头像曾印在1984年至2004年间流通的日本千元纸币上，后来才被细菌学家野口英世取代。能上纸币的作家，放眼世界文坛也不多见。"
   },
   {
     "id": "literature-048",
     "category": "literature",
-    "difficulty": "medium",
-    "question": "丰子恺的散文《给我的孩子们》是",
+    "difficulty": "hard",
+    "question": "黑泽明的经典电影《罗生门》，情节其实主要改编自芥川龙之介的哪篇小说，而非同名短篇《罗生门》？",
     "options": [
-      "《子恺随笔录》的后记",
-      "《缘缘堂随笔》的序",
-      "《缘缘堂再笔》的跋",
-      "《子恺画集》的代序"
+      "《竹林中》",
+      "《地狱变》",
+      "《河童》",
+      "《鼻子》"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "电影《罗生门》的多视角叙事情节其实取自芥川的《竹林中》，只是借用了他另一篇短篇《罗生门》的篇名和开场氛围。两篇小说，一个片名，堪称影史最著名的「移花接木」之一。"
   },
   {
     "id": "literature-049",
     "category": "literature",
-    "difficulty": "medium",
-    "question": "《非攻》与《理水》是",
+    "difficulty": "hard",
+    "question": "1964年，哪位法国哲学家兼作家获得诺贝尔文学奖后公开拒绝领奖？",
     "options": [
-      "哲理性小说",
-      "批判性小说",
-      "歌颂性小说",
-      "抒情性小说"
+      "阿尔贝·加缪",
+      "让-保罗·萨特",
+      "安德烈·纪德",
+      "弗朗索瓦·莫里亚克"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 1,
+    "explanation": "萨特拒绝领取1964年的诺贝尔文学奖，理由之一是作家不该被任何机构体制化。他也因此成为历史上唯一主动拒绝该奖的得主——帕斯捷尔纳克当年是被苏联当局逼迫拒绝，性质完全不同。"
   },
   {
     "id": "literature-050",
     "category": "literature",
-    "difficulty": "medium",
-    "question": "郭沫若创作的《屈原》是",
+    "difficulty": "hard",
+    "question": "法国作家加缪虽常与萨特相提并论，但他本人拒绝「存在主义者」的标签，更愿意把自己的思想称为什么？",
     "options": [
-      "富有现实主义色彩的悲剧",
-      "融诗、歌、舞于一体的民族新歌剧",
-      "富有浪漫主义色彩的喜剧",
-      "富有浪漫主义色彩的诗剧"
+      "虚无主义",
+      "结构主义",
+      "荒诞哲学",
+      "解构主义"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 2,
+    "explanation": "加缪始终拒绝被归为存在主义者，更愿意用「荒诞」来概括自己的思考，代表作《局外人》《西西弗神话》都是这一哲学的文学呈现。他和萨特后来也因思想分歧公开决裂。"
   },
   {
     "id": "literature-051",
     "category": "literature",
-    "difficulty": "medium",
-    "question": "中篇小说《短裤党》的作者是",
+    "difficulty": "hard",
+    "question": "陀思妥耶夫斯基《罪与罚》中，主人公拉斯柯尔尼科夫用斧头杀害的第一个人是谁？",
     "options": [
-      "郭沫若",
-      "蒋光慈",
-      "许杰",
-      "王统照"
+      "他的房东",
+      "大学同学",
+      "妹妹的未婚夫",
+      "放高利贷的老太婆"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 3,
+    "explanation": "拉斯柯尔尼科夫杀害的是一个放高利贷的老太婆，还误杀了闯进来的她的妹妹丽扎维塔。小说随后几百页写的都是他杀人后如何被良心一点点碾碎。"
   },
   {
     "id": "literature-052",
     "category": "literature",
-    "difficulty": "medium",
-    "question": "诗句“在人道恶浊的涧水里流着，浮荇似的，五具残缺的尸体，它们是仁义礼智信，向着时间无尽的海澜里流去”感自",
+    "difficulty": "hard",
+    "question": "大仲马《基督山伯爵》中，男主角在复仇前的本名是？",
     "options": [
-      "《毒药》",
-      "《婴儿》",
-      "《我用残损的手掌》",
-      "《白旗》"
+      "埃德蒙·唐泰斯",
+      "阿尔贝·马尔塞夫",
+      "卡德鲁斯",
+      "费尔南·蒙台哥"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "男主角本名埃德蒙·唐泰斯，蒙冤入狱十四年后越狱，靠意外获得的宝藏化身「基督山伯爵」展开复仇。阿尔贝和费尔南都是曾经害他入狱的仇人及其后代。"
   },
   {
     "id": "literature-053",
     "category": "literature",
-    "difficulty": "medium",
-    "question": "全景式反映了抗战胜利前后光明与黑暗，正义与邪恶搏斗的艰苦岁月的剧作是田汉的",
+    "difficulty": "hard",
+    "question": "川端康成《雪国》开篇名句「穿过县界长长的隧道，便是雪国」，主人公当时乘坐的是什么交通工具？",
     "options": [
-      "《武松》",
-      "《丽人行》",
-      "《风云儿女》",
-      "《一致》"
+      "马车",
+      "火车",
+      "汽车",
+      "雪橇"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "explanation": "主人公岛村乘坐的是一列火车，穿过隧道后眼前豁然变成一片银白世界，这也是日本近代文学里公认最经典的开篇场景之一。"
   },
   {
     "id": "literature-054",
     "category": "literature",
-    "difficulty": "medium",
-    "question": "刊载《本志罪案之答辩书》的杂志是",
+    "difficulty": "hard",
+    "question": "《简·爱》的作者夏洛蒂·勃朗特和两个妹妹都是作家，三姐妹最初发表作品时，用的是什么样的笔名？",
     "options": [
-      "《新青年》",
-      "《论语》",
-      "《小说月报》",
-      "《七月》"
+      "母亲的姓氏",
+      "完全匿名",
+      "男性化的笔名",
+      "法语化的笔名"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 2,
+    "explanation": "夏洛蒂、艾米莉、安妮三姐妹最初以「柯勒·贝尔」「埃利斯·贝尔」「阿克顿·贝尔」这样中性偏男性化的笔名合出诗集，因为当时的出版界对女性作家普遍带有偏见。"
   },
   {
     "id": "literature-055",
     "category": "literature",
-    "difficulty": "medium",
-    "question": "《组织部来了个年轻人》中，“就是那么回事”是谁的处世哲学？",
-    "options": [
-      "王清泉",
-      "刘世吾",
-      "韩常新",
-      "林震"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-056",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "下列不属于左翼作家群的是",
-    "options": [
-      "艾芜",
-      "华汉",
-      "芦焚",
-      "萧红"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "literature-057",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "诗集《鱼目集》的作者是",
-    "options": [
-      "陈敬容",
-      "卞之琳",
-      "何其芳",
-      "辛笛"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-058",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "下列以“刑天”的传说和陶渊明诗句来说明人民的斗争精神的作品是",
-    "options": [
-      "《蛇与塔》",
-      "《春末闲谈》",
-      "《秋夜》",
-      "《春之子》"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-059",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "《中国，我的钥匙丢了》主要采用象征手法表达主题意蕴，诗中构成象征系列的意象是",
-    "options": [
-      "钥匙、桅杆、画片、三叶草、《海涅歌谣》",
-      "钥匙、书橱、抽屉、画片、三叶草",
-      "钥匙、门、抽屉、三叶草、书藉",
-      "钥匙、家、画片、三叶草、《海涅歌谣》"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "literature-060",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "虚拟的啤酒店主妇这一形象出自",
-    "options": [
-      "《归来的歌》",
-      "《慕尼黑》",
-      "《浮躁》",
-      "《与李贺共饮》"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-061",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "下列作品中，作者不是铁凝的是",
-    "options": [
-      "《没有纽扣的红衬衫》",
-      "《树王》",
-      "《玫瑰门》",
-      "《无雨之城》"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-062",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "四凤这一人物形象出自于",
-    "options": [
-      "《雷雨》",
-      "《北京人》",
-      "《日出》",
-      "《原野》"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "literature-063",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "方罗兰、章秋柳这两个人物形象出现于茅盾的哪一部小说",
-    "options": [
-      "《虹》",
-      "《野蔷薇》",
-      "《蚀》",
-      "《三人行》"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "literature-064",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "《茶花赋》中的“茶花”象征着",
-    "options": [
-      "祖国的面貌",
-      "战士的鲜血",
-      "美好的童年",
-      "热烈的爱情"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "literature-065",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "茅盾的长篇小说代表作是",
-    "options": [
-      "《子夜》",
-      "《虹》",
-      "《林家铺子》",
-      "《蚀》"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "literature-066",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "《红旗谱》生动描写了中国农村三代农民不同的斗争道路和命运，其中第三代农民的代表是",
-    "options": [
-      "严老祥",
-      "严运涛",
-      "朱老明",
-      "朱老忠"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-067",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "小说《绣枕》中，大小姐精心绣出凤凰和翠鸟，其用意是",
-    "options": [
-      "赠予友人",
-      "求得亲事",
-      "作为婚庆贺礼",
-      "用于出售"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-068",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "中国现代第一部新诗集《尝试集》出版于",
-    "options": [
-      "1915年",
-      "1920年",
-      "1921年",
-      "1919年"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-069",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "贾平凹在《秦腔》中说，八百里秦川农民视为生命“五大要素”的，除秦腔外，还有",
-    "options": [
-      "西河大鼓、“西凤”白酒、大叶卷烟、牛肉泡馍",
-      "黄土高原、“西凤”白酒、大叶卷烟、羊肉泡馍",
-      "“西风”白酒、长线辣子、大叶卷烟、牛肉泡馍",
-      "“西凤”白酒、长线辣子、大叶卷烟、羊肉泡馍"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "literature-070",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "小说《棋王》的主人公是",
-    "options": [
-      "王医生",
-      "王一生",
-      "阿成",
-      "阿城"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-071",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "下列诗集中收录了《凤凰涅檗》的是",
-    "options": [
-      "《云游》",
-      "《星空》",
-      "《旷野》",
-      "《女神》"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "literature-072",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "郭沫若在话剧《屈原》中，虚构的一个为屈原而死的女性人物是",
-    "options": [
-      "婵娟",
-      "南后",
-      "宋玉",
-      "靳尚"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "literature-073",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "“我爱咱们的国家，可是谁爱我呢?”《茶馆》中，说这句台词的人物是",
-    "options": [
-      "秦仲义",
-      "常四爷",
-      "王利发",
-      "松二爷"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-074",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "下列具有“诚”与“雅”完满结合艺术特色的小说是",
-    "options": [
-      "《游园惊梦》",
-      "《鲁鲁》",
-      "《红旗谱》",
-      "《我的第一个上级》"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-075",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "话剧《茶馆》的结构方式是",
-    "options": [
-      "冰糖葫芦式",
-      "锁闭式",
-      "一人一事式",
-      "人像展览式"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "literature-076",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "《哎，大森林》的情绪基调是",
-    "options": [
-      "冷漠",
-      "平静",
-      "激愤",
-      "喜悦"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "literature-077",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "小说《游园惊梦》反映的是台湾20世纪",
-    "options": [
-      "七十年代的现实",
-      "八十年代的现实",
-      "九十年代的现实",
-      "五、六十年代的现实"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "literature-078",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "《哦，香雪》故事发生的地点是",
-    "options": [
-      "周庄",
-      "台儿沟",
-      "白洋淀",
-      "平型关"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-079",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "巴金的小说《家》最初发表于",
-    "options": [
-      "20世纪20年代后期",
-      "20世纪30年代后期",
-      "20世纪30年代初期",
-      "20世纪20年代初期"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "literature-080",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "诗歌《雨巷》中借用“雨巷”和“丁香”等意象所表达的“我”的情绪是",
-    "options": [
-      "沉闷绝望",
-      "乐观开朗",
-      "孤独伤感",
-      "平和淡泊"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "literature-081",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "歌剧《白毛女》塑造的压迫阶级的人物形象有",
-    "options": [
-      "黄世仁和杨白劳",
-      "黄世仁和穆仁智",
-      "穆仁智和大春",
-      "杨白劳和大春"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-082",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "小说《在山区收购站》主要揭示了",
-    "options": [
-      "农村家庭矛盾",
-      "农村青年、老年两代人之间的矛盾",
-      "农民利益和农村政策之间的矛盾",
-      "农村个别干部与群众之间的矛盾"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "literature-083",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "《四世同堂》采用的结构方式是",
-    "options": [
-      "冰糖葫芦式",
-      "长河奔流式",
-      "双线交叉式",
-      "并列式"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-084",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "小说《活动变人形》的作者是",
-    "options": [
-      "马烽",
-      "冯骥才",
-      "白先勇",
-      "王蒙"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "literature-085",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "关于《日出》中陈白露这个人物的准确概括是",
-    "options": [
-      "骄横自尊，堕落放荡，但善良富有同情心",
-      "被压迫被损害的下层贫民",
-      "追求个性自由与解放的时代女性",
-      "自作多情、俗不可耐的富孀"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "literature-086",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "散文《雅舍》中，“雅舍”是指作者梁实秋的",
-    "options": [
-      "乡间别墅",
-      "简陋宿舍",
-      "书房",
-      "友人的乡间别墅"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-087",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "小说《桃园》中，种桃人王老大给生病的女儿买的物品是",
-    "options": [
-      "绒线鞋",
-      "绣枕",
-      "玻璃桃子",
-      "红头绳"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "literature-088",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "《游园惊梦》中，失意急怒之下而哑嗓的人物是",
-    "options": [
-      "窦夫人",
-      "钱夫人",
-      "蒋碧月",
-      "赖夫人"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-089",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "小说《小城三月》中翠姨的结局是",
-    "options": [
-      "贫病丽死",
-      "不能嫁给相爱者丽抑郁致死",
-      "难产而死",
-      "陪伴楣爱者的亡灵孤老终身"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-090",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "散文《童年二题》的作者是",
-    "options": [
-      "牛汉",
-      "周涛",
-      "琦君",
-      "杨绛"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "literature-091",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "叙述了留学归来的“我”与女工陈二妹由相遇、猜忌到互相了解、同情的小说是",
-    "options": [
-      "《春风沉醉的晚上》",
-      "《送报夫》",
-      "《金锁记》",
-      "《荷花淀》"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "literature-092",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "《浓得化不开》《北戴河海滨的幻想》《翡冷翠山居闲话》《我所知道的康桥》的作者是",
-    "options": [
-      "闻一多",
-      "郭沫若",
-      "冰心",
-      "徐志摩"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "literature-093",
-    "category": "literature",
-    "difficulty": "medium",
-    "question": "新文化运动中的第一部白话新诗集是",
-    "options": [
-      "《女神》",
-      "《昨日之歌》",
-      "《尝试集》",
-      "《死水》"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "literature-094",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "在下面的例句中，表示“经历”意义、轻读的“过”是",
-    "options": [
-      "喝过了汤再吃饭",
-      "见过周恩来总理的人非常都尊重他",
-      "过了一天又一天",
-      "小李吃过饭就走了"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-095",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "由⼀般原理推导出关于个别情况的结论，这种论证⽅法是",
-    "options": [
-      "归纳法",
-      "对⽐法",
-      "类⽐法",
-      "演绎法"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "literature-096",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "根据句法结构二重性理论，下面关于主语、宾语的正确的说法是",
-    "options": [
-      "主语一定是施事，宾语一定是受事",
-      "主语一定是施事，但是宾语不一定是受事",
-      "主语不一定是施事，但宾语一定是受事",
-      "主语不一定是施事，宾语也不一字是受事"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "literature-097",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "在“我买的书”这个结构中，共包含",
-    "options": [
-      "两种结构",
-      "四种结构",
-      "一种结构",
-      "三种结构"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "literature-098",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "“花儿”的正确拼音应写成",
-    "options": [
-      "huār",
-      "huāer",
-      "huā-er",
-      "huā"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "literature-099",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "由于汉语词类具有多功能的特点，所以在划分汉语的词类应该",
-    "options": [
-      "根据词意义",
-      "根据词的形态变化",
-      "在词组平面划分",
-      "根据词同句子成分之间的对应"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "literature-100",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "我国早期进行的系统的汉语语法研究的一个主要缺点是",
-    "options": [
-      "方法不够完善",
-      "术语不够严密",
-      "没有充分注意到汉语语法自身的特点",
-      "描写不够细致"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "literature-101",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "“脑袋”和“头颅”之间的差异是",
-    "options": [
-      "语体色彩",
-      "感情色彩",
-      "范围大小",
-      "语义轻重"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "literature-102",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "在《郑伯克段于鄢》中，“多⾏不义必⾃毙”⼀语指斥的对象是",
-    "options": [
-      "京城⼤叔",
-      "郑庄公",
-      "武姜",
-      "公⼦吕"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-103",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "几个性别相同、年龄相仿的熟人在隔壁说话，能听得出说话人是张三还是李四，这主要是由于各人的",
-    "options": [
-      "音色不同",
-      "音强不同",
-      "音长不同",
-      "音高不同"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "literature-104",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "发音时候两个部位完全闭合，阻住气流，然后突然打开，让气流迸裂而出，爆发成声的音是",
-    "options": [
-      "塞擦音",
-      "塞音",
-      "边音",
-      "擦音"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-105",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "下面几点中，对汉语语法具有全局性的影响的一个特点是",
-    "options": [
-      "词组构造和单句构造采取同一套原则",
-      "量词丰富多彩",
-      "句子成分常常省略",
-      "词没有形态变化"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "literature-106",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "下列汉字都是象形字的是",
-    "options": [
-      "马、水、火",
-      "亦、日、寸",
-      "从、本、木",
-      "北、刃、月"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "literature-107",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "下列名法结构中，主语是当事性质的是",
-    "options": [
-      "小李收到一封信",
-      "小李写了一封信",
-      "张三打李四",
-      "小梅洗衣服"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "literature-108",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "叙事性作品中情节的基本组成部分(或称情节的基本阶段)是",
-    "options": [
-      "序幕、发展、⾼潮、结局",
-      "开端、发展、结局、尾声",
-      "序幕、⾼潮、结局、尾声",
-      "开端、发展、⾼潮、结局"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "literature-109",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "在下面的例子中，“大学”无指的一项是",
-    "options": [
-      "这个城市有三所大学",
-      "小王只读了两年大学",
-      "教学楼是大学里最重要的建筑",
-      "他年轻时读过三个大学"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-110",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "下列各句中，“则”表示转折关系，可以译为“却”的是",
-    "options": [
-      "到则披草⽽垒，倾壶⽽醉",
-      "兵强则⼠勇",
-      "既来之，则安之",
-      "苟有能反是者，则⼜爱之太殷"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "literature-111",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "下列句子中没有语病的一项是",
-    "options": [
-      "父亲爱看足球的习气好像有所改变。",
-      "每个人都应该努力改正并找出自己身上的缺点。",
-      "语句是否通顺是衡量一篇文章优劣的重要标准之一。",
-      "这次语文考试，我们班不及格的人数减少了一倍。"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "literature-112",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "赣方言的代表话是",
-    "options": [
-      "长沙",
-      "广东",
-      "南昌",
-      "江西"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "literature-113",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "zh、ch、sh、r四个辅音的发音部位是",
-    "options": [
-      "舌尖后",
-      "舌尖前",
-      "舌面",
-      "舌尖中"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "literature-114",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "下列各成语注音全部正确的是",
-    "options": [
-      "驾轻就熟 jiàqīn-jiùshú",
-      "亘古未有 hénɡɡǔ-wèiyǒu",
-      "忍俊不禁 rěnjùn-bùjīn",
-      "茅塞顿开 máosài-dùnkāi"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "literature-115",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "在巴⾦的笔下，“爱尔克的灯光”所象征的是",
-    "options": [
-      "新的⽣活道路",
-      "旧家庭的冷落",
-      "希望的破灭",
-      "对礼教的憎恶"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "literature-116",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "现代主义文学思潮中的第一个文学流派是",
-    "options": [
-      "达达主义",
-      "黑色幽默",
-      "表现主义",
-      "象征主义"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "literature-117",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "声韵相拼时，声韵之间",
-    "options": [
-      "必须停顿",
-      "不能停顿",
-      "有时可以停顿",
-      "停顿不停顿要根据具体音节而定"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-118",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "普通话音节最多可以有",
-    "options": [
-      "五个音素",
-      "三个音素",
-      "六个音素",
-      "四个音素"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "literature-119",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "下列四组短语中，全是述宾短语的是",
-    "options": [
-      "刺刹总统、刺杀计划",
-      "搜查毒品、搜查房间",
-      "管理企业、管理人员",
-      "建设祖国、建设规模"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-120",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "下列词语中有错别字的⼀项是",
-    "options": [
-      "嘹亮 ⻔槛 菩提树 道听途说",
-      "嫉妒 ⽆辜 霓虹灯 鸦雀⽆声",
-      "承诺 桑梓 闭⻔羹 抑扬顿挫",
-      "嶙峋 惘然 经伟线 登峰造极"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "literature-121",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "下列选项中括号中的词古今意义相同的一项是（）",
-    "options": [
-      "圣人无（常）师",
-      "君子（博学）而日参省乎己",
-      "古之（学者）必有师",
-      "不如（须臾）之所学也"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "literature-122",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "下列词语中没有错别字的一项是( )",
-    "options": [
-      "沧茫 急燥 嬉戏 粗制滥造",
-      "犀利 篷勃 愚钝 翻来覆去",
-      "翡翠 滞留 迁徙 不可明状",
-      "羞愧 凄惨 奥秘 拖泥带水"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "literature-123",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "“明亮”在“光线充足”意思上的反义词是",
-    "options": [
-      "暗淡",
-      "模糊",
-      "黝黑",
-      "昏暗"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "literature-124",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "下列例子中，不全是自主动词的有",
-    "options": [
-      "走、笑",
-      "吃、睡",
-      "写、洗",
-      "知道、想"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "literature-125",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "在屠格涅夫《⻔槛》中，“⻔槛”的象征意义是",
-    "options": [
-      "⾰命征途上的艰难险阻",
-      "⾰命者的献身精神",
-      "参加⾰命的条件",
-      "⾰命事业"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "literature-126",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "下列句法结构中，宾语是结果性质的是",
-    "options": [
-      "打毛衣",
-      "打新式样",
-      "打棒针",
-      "打毛线"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "literature-127",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "下列各项中，两个音节的声母按清浊音顺序排列的是",
-    "options": [
-      "医生",
-      "酷热",
-      "诗歌",
-      "美丽"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-128",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "下列句子中，不表示“转移”意义的是",
-    "options": [
-      "小李去了北京",
-      "小王送给我一支笔",
-      "里给我寄来一封信",
-      "张三赢了李四一百块钱"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "literature-129",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "下列各组中都是主谓式合成词的是",
-    "options": [
-      "性急、日食、年迈",
-      "冬至、笔直、民主",
-      "雪白、情感、将领",
-      "革命、粉饰、函授"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "literature-130",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "一般的说，确定一个实词是名词的依据是",
-    "options": [
-      "不能受副词“不”修饰",
-      "能受数量短语的修饰",
-      "能够做主语和宾语",
-      "不受副词“不”修饰并且能受数量短语修饰"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "literature-131",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "“虚心”和“虚伪”的区别是",
-    "options": [
-      "范围大小不同",
-      "感情色彩不同",
-      "语义轻重不同",
-      "语体色彩不同"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-132",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "对汉语语法特点提示得最深刻的著作是",
-    "options": [
-      "《新著国语文法》",
-      "《马氏通文》",
-      "《现代汉语语法讲话》",
-      "《语法答问》"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "literature-133",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "下列例子中，不是区别词的有",
-    "options": [
-      "急性",
-      "酸性",
-      "暂时",
-      "野生"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-134",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "下列词语中没有错别字的⼀项是",
-    "options": [
-      "⽪肤⽩皙 ⻬⼼协⼒ 恩宠荣碌 博学多识",
-      "牵强附会 张冠李戴 以德报怨 辨别是⾮",
-      "家喻户晓 不知所措 妇孺皆知 ⼀返既往",
-      "⼀泻千⾥ 园满结束 义愤填膺 低回婉转"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-135",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "对于“这个人我不认识”这个句子，不正确的理解是",
-    "options": [
-      "我不认识”是全句的谓语",
-      "主谓谓语句",
-      "“这个人”是句中的大主语",
-      "宾语前置句"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "literature-136",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "“我很想详细地知道这故事，但阿⻓是不知道的，因为她毕竟不渊博。”对上⾯复句关系的判断正确的⼀项是",
-    "options": [
-      "⼀重复句，转折关系。",
-      "⼆重复句，第⼀重是因果关系，第⼆重也是因果关系",
-      "⼆重复句，第⼀重是转折关系，第⼆重是因果关系",
-      "⼀重复句，因果关系。"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "literature-137",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "在下面的例子中，“书”有指的一项是",
-    "options": [
-      "从小学到大学他一共读了十六年书",
-      "过去穷人的孩子读不起书",
-      "他喜欢读侦探破案的书",
-      "他读了一肚子书，却考不上进士"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "literature-138",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "“玻、泼、摸、佛”应该拼写成",
-    "options": [
-      "buo、puo、muo、fuo",
-      "be、pe、me、fe",
-      "bo、po、mo、fo",
-      "bu、pu、mu、fu"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "literature-139",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "在下面的例子中，“鸡”通指的一项是",
-    "options": [
-      "小明从小就喜欢鸡",
-      "养鸡场里有许多只鸡",
-      "王奶奶养了二十只鸡",
-      "张三一个人吃了一只鸡"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "literature-140",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "发音器官中起共鸣作用的是",
-    "options": [
-      "肺和气管",
-      "喉头和声带",
-      "口腔和鼻腔",
-      "胸腔"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "literature-141",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "在“女式飞鸽自行车”这个结构中，共包含",
-    "options": [
-      "一种结构",
-      "四种结构",
-      "三种结构",
-      "两种结构"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "literature-142",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "“一对花瓶”、“你说的对”、“面对未来”中三个“对”代表",
-    "options": [
-      "三个词",
-      "只代表音节，不代表词",
-      "两个词",
-      "一个词"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "literature-143",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "在下面的例子中，“衣服”不定指的一项是",
-    "options": [
-      "我的衣服呢？",
-      "小心，别把衣服弄脏了",
-      "衣服洗好晾出去了",
-      "奶奶送给小梅两件衣服"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "literature-144",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "下列词语中，不是状态词的是",
-    "options": [
-      "白白的",
-      "白",
-      "洁白",
-      "雪白"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-145",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "语⾔艺术的最显著、最突出的特点是艺术形象的",
-    "options": [
-      "模糊性",
-      "间接性",
-      "直观性",
-      "意象性"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-146",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "下面的句子中，补语同宾语发生语义联系的是",
-    "options": [
-      "小李吃饱了饭",
-      "老刘走出了房间",
-      "小张喊哑了嗓子",
-      "老王喝醉了酒"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "literature-147",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "叙事文本中最明显的叙述标记就是它的",
-    "options": [
-      "主题",
-      "标题",
-      "题材",
-      "情节"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": "literature-148",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "下列句法结构中，主语是领事性质的是",
-    "options": [
-      "小梅长着一双大眼睛",
-      "妈妈领小红去公园",
-      "小梅领了一套教材",
-      "共产党领导我们向前进"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": "literature-149",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "“我买的蓝色的上衣”的正确的切分是",
-    "options": [
-      "我买的蓝色/的上衣",
-      "我/买的蓝色的上衣",
-      "我买的/蓝色的上衣",
-      "我买的蓝色的/上衣"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "literature-150",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "“边疆”和“边境”的区别是",
-    "options": [
-      "语体色彩不同",
-      "性状特征不同",
-      "范围大小不同",
-      "集体与个体的不同"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "literature-151",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "“一定”中的“一”应读",
-    "options": [
-      "上声",
-      "去声",
-      "阳平",
-      "阴平"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": "literature-152",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "《再别康桥》中，“夕阳中的新娘”⽐喻的是",
-    "options": [
-      "⻄天的云彩",
-      "康河的柔波",
-      "软泥上的⻘荇",
-      "河畔的⾦柳"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": "literature-153",
-    "category": "literature",
-    "difficulty": "easy",
-    "question": "“易安居⼠”是指",
-    "options": [
-      "王安⽯",
-      "⾟弃疾",
-      "李清照",
-      "苏东坡"
-    ],
-    "correctAnswer": 2
+    "difficulty": "hard",
+    "question": "被誉为「俄罗斯诗歌的太阳」的普希金，最终是因为什么原因英年早逝的？",
+    "options": [
+      "流亡途中病逝",
+      "遭沙皇处决",
+      "参加西伯利亚起义牺牲",
+      "为妻子的名誉与人决斗身亡"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1837年，普希金为妻子的名誉与一名法国军官决斗，腹部中弹，两天后不治身亡，年仅37岁。这位「俄罗斯诗歌的太阳」，竟是这样戏剧性地陨落的。"
   }
 ]
