@@ -460,5 +460,313 @@
     ],
     "correctAnswer": 3,
     "explanation": "干冰是固态二氧化碳，约 -78.5℃ 时直接升华为气体并大量吸热，使空气中的水蒸气凝结成白雾——所以干冰其实根本不是「冰」。"
+  },
+  {
+    "id": "science-037",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "被誉为『化学元素周期表之父』，首先提出元素周期律的科学家是？",
+    "options": [
+      "门捷列夫",
+      "居里夫人",
+      "拉瓦锡",
+      "波义耳"
+    ],
+    "correctAnswer": 0,
+    "explanation": "俄国化学家门捷列夫在1869年按原子量规律排列元素，还大胆留出空格预言了当时尚未被发现的新元素，后来一一被证实。"
+  },
+  {
+    "id": "science-038",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "人体主要负责与外界进行气体交换（吸入氧气、呼出二氧化碳）的器官是？",
+    "options": [
+      "心脏",
+      "肺",
+      "肝脏",
+      "肾脏"
+    ],
+    "correctAnswer": 1,
+    "explanation": "肺部有数亿个肺泡，展开面积可达几十平方米，专门负责氧气和二氧化碳的交换工作。"
+  },
+  {
+    "id": "science-039",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "蝙蝠在漆黑的夜里飞行捕食，主要依靠什么方式来判断周围环境？",
+    "options": [
+      "超强的夜视能力",
+      "灵敏的嗅觉",
+      "回声定位（发出超声波再接收回波）",
+      "感知磁场方向"
+    ],
+    "correctAnswer": 2,
+    "explanation": "蝙蝠发出人耳听不到的超声波，通过回声判断障碍物和猎物的位置，这套本领后来启发了声呐技术的发明。"
+  },
+  {
+    "id": "science-040",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "人们习惯上把彩虹描述成有几种颜色？",
+    "options": [
+      "五种",
+      "六种",
+      "八种",
+      "七种"
+    ],
+    "correctAnswer": 3,
+    "explanation": "彩虹其实是连续变化的光谱，『七种颜色』的说法源自牛顿当年为了呼应音乐七音阶，人为把光谱划分成赤橙黄绿蓝靛紫。"
+  },
+  {
+    "id": "science-041",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "铁制品长时间暴露在潮湿空气中会生锈，这属于哪种变化？",
+    "options": [
+      "化学变化",
+      "物理变化",
+      "核变化",
+      "没有发生变化"
+    ],
+    "correctAnswer": 0,
+    "explanation": "生锈是铁与空气中的氧气、水分发生反应生成氧化铁的化学变化，一旦生锈就无法简单地『变回』原来的铁。"
+  },
+  {
+    "id": "science-042",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "牛顿三大运动定律中的第一定律，也被称为什么定律？",
+    "options": [
+      "作用力定律",
+      "惯性定律",
+      "万有引力定律",
+      "能量守恒定律"
+    ],
+    "correctAnswer": 1,
+    "explanation": "牛顿第一定律说明物体在不受外力时会保持静止或匀速直线运动，所以也叫惯性定律；『力是维持运动的原因』其实是常见的错误直觉。"
+  },
+  {
+    "id": "science-043",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "细胞内被称为『能量工厂』，负责生产ATP为细胞供能的细胞器是？",
+    "options": [
+      "细胞核",
+      "高尔基体",
+      "线粒体",
+      "核糖体"
+    ],
+    "correctAnswer": 2,
+    "explanation": "线粒体通过有氧呼吸把葡萄糖中的能量转化成ATP，肌肉细胞等耗能大户的细胞里线粒体数量格外多。"
+  },
+  {
+    "id": "science-044",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "在元素周期表中，原子序数为1、也是宇宙中含量最丰富的元素是？",
+    "options": [
+      "氦",
+      "锂",
+      "氧",
+      "氢"
+    ],
+    "correctAnswer": 3,
+    "explanation": "氢原子只有一个质子和一个电子，结构最简单，也是宇宙中数量最多的元素，恒星燃烧的燃料主要就是它。"
+  },
+  {
+    "id": "science-045",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "蛋白质是由许多个什么基本单位通过化学键连接而成的长链？",
+    "options": [
+      "氨基酸",
+      "核苷酸",
+      "葡萄糖",
+      "脂肪酸"
+    ],
+    "correctAnswer": 0,
+    "explanation": "组成人体蛋白质的氨基酸一共有20种左右，不同的排列顺序决定了蛋白质千变万化的结构和功能。"
+  },
+  {
+    "id": "science-046",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "石蕊试纸遇到酸性溶液时会变成什么颜色？",
+    "options": [
+      "蓝色",
+      "红色",
+      "黄色",
+      "紫色"
+    ],
+    "correctAnswer": 1,
+    "explanation": "石蕊试纸『遇酸变红，遇碱变蓝』，是中学化学实验室里最常用的酸碱快速检测工具之一。"
+  },
+  {
+    "id": "science-047",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "1996年诞生的克隆羊『多莉』，是世界上第一只用成年体细胞成功克隆出的哺乳动物，它是哪种动物？",
+    "options": [
+      "山羊",
+      "奶牛",
+      "绵羊",
+      "兔子"
+    ],
+    "correctAnswer": 2,
+    "explanation": "多莉由苏格兰罗斯林研究所培育，取自一只成年母绵羊的乳腺细胞，证明了成熟细胞也能『重启』发育成完整个体。"
+  },
+  {
+    "id": "science-048",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "达尔文系统提出『自然选择』进化理论的经典著作，书名是？",
+    "options": [
+      "《人类的由来》",
+      "《基因的自私》",
+      "《物种的奥秘》",
+      "《物种起源》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《物种起源》出版于1859年，一经问世便引发巨大争议，如今被公认为生物学史上最重要的著作之一。"
+  },
+  {
+    "id": "science-049",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "地球大气层中，含量占比最高的气体其实是？",
+    "options": [
+      "氮气",
+      "氧气",
+      "二氧化碳",
+      "氩气"
+    ],
+    "correctAnswer": 0,
+    "explanation": "很多人以为氧气最多，其实氮气才是大气中的『大多数』，占比约78%，氧气只占约21%左右。"
+  },
+  {
+    "id": "science-050",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "咀嚼米饭时间稍长会尝出一丝甜味，这是因为唾液中的什么物质开始分解淀粉？",
+    "options": [
+      "胃蛋白酶",
+      "唾液淀粉酶",
+      "胆汁",
+      "脂肪酶"
+    ],
+    "correctAnswer": 1,
+    "explanation": "唾液淀粉酶能把淀粉初步分解成麦芽糖，嚼久了自然带出甜味；胃蛋白酶要到胃里才开始工作，主要负责分解蛋白质。"
+  },
+  {
+    "id": "science-051",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "量子力学中，指出『粒子的位置和动量不可能同时被精确测量』的『不确定性原理』，是哪位物理学家提出的？",
+    "options": [
+      "普朗克",
+      "狄拉克",
+      "海森堡",
+      "泡利"
+    ],
+    "correctAnswer": 2,
+    "explanation": "海森堡在1927年提出不确定性原理，这不是仪器精度不够，而是微观世界本身的基本属性，颠覆了经典物理『一切皆可精确预测』的信念。"
+  },
+  {
+    "id": "science-052",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "青霉素的发现堪称科学史上最著名的意外之一，发现者弗莱明当时观察到了什么现象？",
+    "options": [
+      "一种细菌在显微镜下自动排列成规律图案",
+      "实验室老鼠注射后体重明显增加",
+      "某种霉菌在紫外线下会发出荧光",
+      "培养皿中被污染的霉菌周围，细菌都被杀死了"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1928年，弗莱明度假回来发现培养皿意外混入了青霉菌，菌落周围的葡萄球菌竟然都被抑制了，这个意外开启了抗生素时代。"
+  },
+  {
+    "id": "science-053",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "微积分这一强大的数学工具，历史上是由牛顿和另一位科学家各自独立发明，并引发了一场旷日持久的发明权之争，这位科学家是？",
+    "options": [
+      "莱布尼茨",
+      "欧拉",
+      "高斯",
+      "帕斯卡"
+    ],
+    "correctAnswer": 0,
+    "explanation": "牛顿和德国学者莱布尼茨在17世纪几乎同时独立发展出微积分，两人的支持者为『谁是第一发明人』争论了上百年，如今学界普遍认为二人各自独立完成。"
+  },
+  {
+    "id": "science-054",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "法国科学家巴斯德著名的『鹅颈瓶』实验，有力地反驳了当时流行的哪种错误观念？",
+    "options": [
+      "地心说",
+      "生物可以从无生命物质中自然产生（自然发生说）",
+      "血液循环由心脏推动",
+      "细菌不会致病"
+    ],
+    "correctAnswer": 1,
+    "explanation": "巴斯德用弯曲细长的鹅颈瓶挡住空气中的微生物落入营养液，证明肉汤不会无故腐败长菌，从而终结了『生命可以凭空产生』的自然发生说。"
+  },
+  {
+    "id": "science-055",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "地质学家魏格纳观察到南美洲和非洲海岸线能像拼图一样吻合，由此提出了哪项影响深远的学说？",
+    "options": [
+      "地心引力说",
+      "冰川侵蚀说",
+      "大陆漂移说",
+      "地球膨胀说"
+    ],
+    "correctAnswer": 2,
+    "explanation": "魏格纳1912年提出大陆漂移说时曾被主流学界嘲笑，直到几十年后海底扩张等证据出现，他的想法才被追认为板块构造理论的先驱。"
+  },
+  {
+    "id": "science-056",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "1895年意外发现X射线、并因此获得首届诺贝尔物理学奖的科学家是？",
+    "options": [
+      "贝克勒尔",
+      "汤姆孙",
+      "卢瑟福",
+      "伦琴"
+    ],
+    "correctAnswer": 3,
+    "explanation": "伦琴在做阴极射线实验时发现一种能穿透纸张、让荧光屏发光的神秘射线，因不了解其本质便以数学中的未知数命名为『X射线』。"
+  },
+  {
+    "id": "science-057",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "『细胞』（cell）这个名称，最早是由哪位科学家在观察软木塞切片时命名的？",
+    "options": [
+      "罗伯特·胡克",
+      "安东尼·列文虎克",
+      "路易·巴斯德",
+      "罗伯特·布朗"
+    ],
+    "correctAnswer": 0,
+    "explanation": "胡克1665年用自制显微镜观察软木塞薄片，看到一格格小空间，觉得很像修道院的『小房间』（cellula），『细胞』这个名字就这样流传下来。"
+  },
+  {
+    "id": "science-058",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "太阳系八大行星中，自转速度最慢的一颗，转一圈所需时间比它绕太阳公转一年还要长，它是？",
+    "options": [
+      "水星",
+      "金星",
+      "天王星",
+      "海王星"
+    ],
+    "correctAnswer": 1,
+    "explanation": "金星自转一周约需243个地球日，比它绕太阳公转一圈（约225天）还慢，『金星的一天』比『金星的一年』还长；它和天王星一样都属于逆行自转的行星。"
   }
 ]

@@ -460,5 +460,355 @@
     ],
     "correctAnswer": 2,
     "explanation": "浓烟上升聚集在上部，弯腰低姿加湿毛巾捂口鼻能减少吸入有毒烟气；火灾时电梯可能断电或成为「烟囱」，千万别坐。"
+  },
+  {
+    "id": "general-037",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "在中国传统计量习惯里，1公斤大约等于多少市斤？",
+    "options": [
+      "2市斤",
+      "2.5市斤",
+      "1.5市斤",
+      "1市斤"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1市斤=500克，所以1公斤（1000克）正好等于2市斤，这也是为什么菜市场称重时常听老板说『一公斤两斤』。"
+  },
+  {
+    "id": "general-038",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "有人被食物卡住喉咙、呼吸困难时，常用的急救法『海姆立克法』主要是通过什么方式帮助排出异物？",
+    "options": [
+      "用力拍打背部让异物自然咳出",
+      "让患者趴下拍打胸口",
+      "从背后环抱、快速用力冲击上腹部",
+      "立刻喂水帮助吞咽"
+    ],
+    "correctAnswer": 2,
+    "explanation": "海姆立克法从背后环抱患者，用拳头快速冲击上腹部，瞬间挤压膈肌制造出人工『咳嗽』气流，把卡住的异物顶出气道。"
+  },
+  {
+    "id": "general-039",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "根据我国现行标准，驾驶人血液酒精含量达到或超过多少，会被认定为『醉酒驾驶』？",
+    "options": [
+      "20毫克/100毫升",
+      "50毫克/100毫升",
+      "100毫克/100毫升",
+      "80毫克/100毫升"
+    ],
+    "correctAnswer": 3,
+    "explanation": "国标规定血液酒精含量20~80毫克/100毫升属于饮酒驾驶，达到或超过80毫克/100毫升即构成醉驾，已经涉嫌刑事犯罪。"
+  },
+  {
+    "id": "general-040",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "由于红细胞表面几乎不含A、B抗原，紧急情况下可输给绝大多数患者、因此常被称为『万能供血者』的血型是？",
+    "options": [
+      "A型",
+      "O型",
+      "AB型",
+      "B型"
+    ],
+    "correctAnswer": 1,
+    "explanation": "O型红细胞缺少A、B抗原，紧急抢救时常被当作通用血源；不过严格配血仍需同时核对Rh因子，『万能』只是通俗说法，并非绝对安全。"
+  },
+  {
+    "id": "general-041",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "国际通用的长度单位『英寸』，换算成公制大约是多少厘米？（常用于电视、手机屏幕尺寸标注）",
+    "options": [
+      "2.54厘米",
+      "1.54厘米",
+      "3.54厘米",
+      "4.54厘米"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1英寸精确等于2.54厘米，所以『55英寸』电视对角线约140厘米；这个换算值是1959年英美等国统一敲定的国际英寸标准。"
+  },
+  {
+    "id": "general-042",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "现代学界普遍认为，世界上最早的纸币诞生于中国哪个朝代？",
+    "options": [
+      "唐朝",
+      "元朝",
+      "北宋",
+      "明朝"
+    ],
+    "correctAnswer": 2,
+    "explanation": "北宋初年四川成都的商人发行了『交子』，被公认为世界最早的纸币，比欧洲最早的纸币早了六百多年。"
+  },
+  {
+    "id": "general-043",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "在公共场合咳嗽或打喷嚏时，更推荐用身体哪个部位遮挡，而不是直接用手掌接住？",
+    "options": [
+      "衣领",
+      "脚踝",
+      "后脑勺",
+      "手肘内侧"
+    ],
+    "correctAnswer": 3,
+    "explanation": "用手肘内侧遮挡能避免手掌沾上飞沫后到处摸东西、传播病菌，是国际通行的『咳嗽礼仪』推荐动作。"
+  },
+  {
+    "id": "general-044",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "商家常说的售后『三包』服务，具体指的是哪三包？",
+    "options": [
+      "包修、包邮、包退",
+      "包修、包换、包退",
+      "包修、包换、包赔",
+      "包邮、包换、包退"
+    ],
+    "correctAnswer": 1,
+    "explanation": "『三包』即包修、包换、包退，是产品出现质量问题时经营者应承担的售后责任，法律依据主要来自《消费者权益保护法》和《产品质量法》。"
+  },
+  {
+    "id": "general-045",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "拳击比赛中，裁判或队医因一方选手明显无法安全继续比赛而叫停、判对方获胜，这种结果被称为？",
+    "options": [
+      "TKO（技术性击倒）",
+      "KO（击倒）",
+      "点数判负",
+      "犯规判负"
+    ],
+    "correctAnswer": 0,
+    "explanation": "TKO即Technical Knockout（技术性击倒），选手并没有被真正数秒倒地，而是裁判或医生出于安全考虑主动终止了比赛；被数满10秒未能起身的才叫KO。"
+  },
+  {
+    "id": "general-046",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "厨房里油锅突然起火，最应该避免做的事情是什么？",
+    "options": [
+      "立刻盖上锅盖",
+      "关掉燃气灶阀门",
+      "往锅里泼水",
+      "用湿抹布捂灭"
+    ],
+    "correctAnswer": 2,
+    "explanation": "油的密度比水小，泼水会让沸油瞬间飞溅甚至形成一片『火雨』，正确做法是先关火，再用锅盖或湿抹布盖住锅口隔绝空气灭火。"
+  },
+  {
+    "id": "general-047",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "体检前抽血化验，通常建议提前空腹多长时间，才能保证检测结果准确？",
+    "options": [
+      "1~2小时",
+      "8~12小时",
+      "4~6小时",
+      "24小时以上"
+    ],
+    "correctAnswer": 1,
+    "explanation": "血糖、血脂等常见血液检测一般要求空腹8~12小时，时间太短食物残留会干扰数值，空腹太久又可能因为低血糖影响结果。"
+  },
+  {
+    "id": "general-048",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "人体全身最小的一块骨头，藏在身体的哪个部位？",
+    "options": [
+      "手指关节",
+      "脚趾末端",
+      "鼻腔深处",
+      "耳朵中耳内"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这块骨头叫『镫骨』，位于中耳，长度只有约3毫米，负责把声音震动传给内耳，别看它小，是听觉传导链条上的最后一棒。"
+  },
+  {
+    "id": "general-049",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "根据我国法律，未成年人是指未满多少周岁的公民？",
+    "options": [
+      "十六周岁",
+      "十四周岁",
+      "十八周岁",
+      "二十周岁"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《未成年人保护法》和《民法典》均规定，未满十八周岁的公民为未成年人，年满十八周岁即成为完全民事行为能力人。"
+  },
+  {
+    "id": "general-050",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "普通感冒大多由病毒引起，这种情况下吃抗生素（消炎药）对治好感冒有没有用？",
+    "options": [
+      "没用，抗生素只对细菌感染有效",
+      "有用，能直接杀死感冒病毒",
+      "有用，但只对儿童有效",
+      "没用，只有输液才有效"
+    ],
+    "correctAnswer": 0,
+    "explanation": "抗生素只能对付细菌，对病毒完全无能为力，而九成以上的普通感冒都是病毒引起的；滥用抗生素不仅没用，还可能带来耐药性问题。"
+  },
+  {
+    "id": "general-051",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "健康成年人在空腹状态下，血糖的正常参考范围大约是多少？",
+    "options": [
+      "1.5~3.5 mmol/L",
+      "3.9~6.1 mmol/L",
+      "7.0~9.0 mmol/L",
+      "10.0~12.0 mmol/L"
+    ],
+    "correctAnswer": 1,
+    "explanation": "空腹血糖正常范围一般是3.9~6.1 mmol/L，超过7.0 mmol/L就需要警惕糖尿病了，这也是体检报告里最常被圈出来提醒的一项指标。"
+  },
+  {
+    "id": "general-052",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "我国现行居民身份证号码由多少位数字（含末位校验码）组成？",
+    "options": [
+      "15位",
+      "16位",
+      "18位",
+      "17位"
+    ],
+    "correctAnswer": 2,
+    "explanation": "现行第二代身份证号码为18位，最后一位是根据前17位数字算出来的校验码，偶尔会用字母X表示；老式第一代身份证曾是15位。"
+  },
+  {
+    "id": "general-053",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "在网球比赛的计分规则里，一局比赛中0分通常被称为什么？",
+    "options": [
+      "Zero",
+      "Nil",
+      "Nothing",
+      "Love"
+    ],
+    "correctAnswer": 3,
+    "explanation": "网球计分里0分说成『Love』，据说源自法语『l'œuf』（鸡蛋），因为『0』的形状像颗鸡蛋——算是网球赛场上最浪漫的一个数字。"
+  },
+  {
+    "id": "general-054",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "运动后一两天才出现的『延迟性肌肉酸痛』，现代运动生理学认为主要是由什么引起的？",
+    "options": [
+      "乳酸在肌肉中大量堆积",
+      "肌纤维微损伤引发的炎症反应",
+      "身体严重脱水",
+      "血糖浓度过低"
+    ],
+    "correctAnswer": 1,
+    "explanation": "『乳酸堆积导致酸痛』是流传很广的误解，乳酸其实运动后一小时左右就代谢掉了；真正的酸痛感来自肌纤维微损伤后修复过程中的炎症反应。"
+  },
+  {
+    "id": "general-055",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "根据国际乒联规则，比赛用球拍两面胶皮必须是什么颜色组合？",
+    "options": [
+      "一面红色、一面黑色",
+      "两面都是红色",
+      "两面都是黑色",
+      "颜色不限，选手自定"
+    ],
+    "correctAnswer": 0,
+    "explanation": "国际乒联规定球拍两面必须一红一黑，方便对手和裁判分辨不同胶皮的旋转特性，这项规则从1980年代沿用至今。"
+  },
+  {
+    "id": "general-056",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "用微波炉加热牛奶或纯净水等液体时，为什么专家提醒要小心『突然剧烈喷溅』？",
+    "options": [
+      "微波炉会让液体结冰",
+      "液体会自动分层",
+      "容器一定会破裂",
+      "液体可能达到『过热』状态，看似平静实则一碰就爆沸"
+    ],
+    "correctAnswer": 3,
+    "explanation": "光滑容器里缺少气泡形成的『核心』，液体温度可能悄悄超过沸点却看不出冒泡（过热现象），一晃动或放入东西就会瞬间剧烈沸腾喷出，加热后最好先静置片刻再取出搅拌。"
+  },
+  {
+    "id": "general-057",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "铁人三项比赛的三个项目，标准比赛顺序是？",
+    "options": [
+      "跑步→自行车→游泳",
+      "自行车→游泳→跑步",
+      "游泳→自行车→跑步",
+      "游泳→跑步→自行车"
+    ],
+    "correctAnswer": 2,
+    "explanation": "铁人三项固定顺序是游泳、自行车、跑步，选手要在换项区快速脱下泳装换装备，这段换项时间同样会计入最终比赛成绩。"
+  },
+  {
+    "id": "general-058",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "世界上第一枚正式发行的邮票，是1840年英国发行的哪一枚？",
+    "options": [
+      "蓝便士",
+      "黑便士",
+      "红便士",
+      "金便士"
+    ],
+    "correctAnswer": 1,
+    "explanation": "『黑便士』（Penny Black）1840年在英国发行，票面印着维多利亚女王头像，开创了『先购票、后寄信』的现代邮政制度，如今是集邮界的传奇藏品。"
+  },
+  {
+    "id": "general-059",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "NBA正式比赛通常分为几节，每节比赛时间是多少分钟？",
+    "options": [
+      "4节，每节12分钟",
+      "4节，每节10分钟",
+      "2节，每节24分钟",
+      "3节，每节15分钟"
+    ],
+    "correctAnswer": 0,
+    "explanation": "NBA比赛为4节、每节12分钟，总时长48分钟；国际篮联（FIBA）比赛则是每节10分钟，这也是国际比赛和NBA节奏看起来不太一样的原因之一。"
+  },
+  {
+    "id": "general-060",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "按母语使用人数统计，全世界使用人数最多的语言是？",
+    "options": [
+      "英语",
+      "西班牙语",
+      "汉语（普通话）",
+      "印地语"
+    ],
+    "correctAnswer": 2,
+    "explanation": "按母语人数排名，汉语普通话长期位居世界第一；但如果按『会说的总人数』（含第二语言使用者）统计，英语常常反超，两种统计口径经常被人混为一谈。"
+  },
+  {
+    "id": "general-061",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "奥运会举重比赛的两个比赛项目分别叫什么？",
+    "options": [
+      "推举和卧举",
+      "硬拉和深蹲",
+      "抓举和卧举",
+      "抓举和挺举"
+    ],
+    "correctAnswer": 3,
+    "explanation": "举重比赛由抓举（一把举过头顶）和挺举（先提到肩再举过头）两个动作组成，最终成绩取两项动作中各自的最好成绩相加。"
   }
 ]

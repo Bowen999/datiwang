@@ -460,5 +460,355 @@
     ],
     "correctAnswer": 0,
     "explanation": "清代曹雪芹「披阅十载，增删五次」写成《红楼梦》前八十回，后四十回一般认为是高鹗续写。研究这本书甚至形成了一门专门的学问——「红学」。"
+  },
+  {
+    "id": "cnhistory-034",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "「王侯将相宁有种乎」这句气势十足的口号，出自哪次农民起义？",
+    "options": [
+      "黄巾起义",
+      "黄巢起义",
+      "瓦岗军起义",
+      "陈胜吴广起义"
+    ],
+    "correctAnswer": 3,
+    "explanation": "公元前209年陈胜、吴广在大泽乡起义，喊出「王侯将相宁有种乎」，是中国历史上第一次大规模农民起义，虽然很快失败，却给了秦朝致命一击。"
+  },
+  {
+    "id": "cnhistory-035",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "楚汉之争中，项羽在鸿门设宴，本想借机除掉的对手是谁？",
+    "options": [
+      "韩信",
+      "刘邦",
+      "英布",
+      "彭越"
+    ],
+    "correctAnswer": 1,
+    "explanation": "鸿门宴上项羽本有机会除掉刘邦，却因谋士范增的计策未能果断执行，刘邦借故脱身。后世常用「鸿门宴」比喻暗藏杀机的宴席。"
+  },
+  {
+    "id": "cnhistory-036",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "楚汉相争的最后一战「垓下之战」中，兵败后自刎于乌江边的是谁？",
+    "options": [
+      "项羽",
+      "刘邦",
+      "韩信",
+      "范增"
+    ],
+    "correctAnswer": 0,
+    "explanation": "公元前202年，项羽在垓下被汉军重重包围，四面楚歌之下率残部突围至乌江，自觉无颜见江东父老，最终自刎而死，楚汉之争至此落幕。"
+  },
+  {
+    "id": "cnhistory-037",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "公元9年篡夺西汉皇位、建立「新」朝的外戚是谁？",
+    "options": [
+      "霍光",
+      "窦宪",
+      "梁冀",
+      "王莽"
+    ],
+    "correctAnswer": 3,
+    "explanation": "王莽以外戚身份长期掌权，最终逼迫孺子婴禅位，建立新朝并推行了一系列复古改制，但因政策混乱失民心，仅十几年就被绿林、赤眉起义推翻。"
+  },
+  {
+    "id": "cnhistory-038",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "推翻王莽新朝、重建汉朝（史称东汉）的开国皇帝是谁？",
+    "options": [
+      "刘秀",
+      "刘邦",
+      "刘备",
+      "刘协"
+    ],
+    "correctAnswer": 0,
+    "explanation": "刘秀在新朝末年的乱局中起兵，25年称帝定都洛阳，史称东汉，其在位期间休养生息、恢复国力，史称「光武中兴」。"
+  },
+  {
+    "id": "cnhistory-039",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "东汉末年提出「苍天已死，黄天当立」口号、发动黄巾起义的是谁？",
+    "options": [
+      "张角",
+      "董卓",
+      "曹操",
+      "黄巢"
+    ],
+    "correctAnswer": 0,
+    "explanation": "张角自称「大贤良师」，以「太平道」为号召，184年发动黄巾起义。起义几个月内就被镇压，却直接动摇了东汉统治根基，各地军阀由此崛起。"
+  },
+  {
+    "id": "cnhistory-040",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "三国时期孙刘联军用火攻大败曹操大军的著名战役是？",
+    "options": [
+      "官渡之战",
+      "夷陵之战",
+      "赤壁之战",
+      "淝水之战"
+    ],
+    "correctAnswer": 2,
+    "explanation": "208年孙权、刘备联军在长江赤壁一带用火攻击溃曹操大军，奠定了此后三国鼎立的基本格局。演义里「借东风」「草船借箭」的桥段就出自这场战役。"
+  },
+  {
+    "id": "cnhistory-041",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "西晋时期司马氏宗室诸王为争夺中央政权而爆发的长期内乱，史称什么？",
+    "options": [
+      "七国之乱",
+      "靖难之役",
+      "安史之乱",
+      "八王之乱"
+    ],
+    "correctAnswer": 3,
+    "explanation": "291年到306年间，西晋多位宗室王爷混战不休，史称「八王之乱」，严重耗损了国力，也给北方少数民族政权南下提供了可乘之机，直接引发了此后的五胡乱华。"
+  },
+  {
+    "id": "cnhistory-042",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "结束魏晋南北朝近三百年分裂局面、重新统一中国的隋朝皇帝是谁？",
+    "options": [
+      "隋炀帝杨广",
+      "隋文帝杨坚",
+      "隋恭帝杨侑",
+      "北周武帝宇文邕"
+    ],
+    "correctAnswer": 1,
+    "explanation": "隋文帝杨坚581年代北周称帝，589年挥师灭陈，结束了自西晋末年以来近三百年的分裂局面，他还创立了影响深远的三省六部制。北周武帝宇文邕是杨坚篡位前的北周皇帝，和统一全国没关系，纯属混淆项。"
+  },
+  {
+    "id": "cnhistory-043",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "隋炀帝在位期间大举征发民力开凿、以洛阳为中心沟通南北的水利工程是什么？",
+    "options": [
+      "都江堰",
+      "郑国渠",
+      "隋唐大运河",
+      "灵渠"
+    ],
+    "correctAnswer": 2,
+    "explanation": "隋炀帝下令开凿沟通南北的大运河，北至涿郡、南至余杭，工程浩大也耗尽民力，是隋朝速亡的原因之一，却也为此后千年的南北漕运打下了基础。"
+  },
+  {
+    "id": "cnhistory-044",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "唐太宗曾感叹「以人为镜，可以明得失」，这位去世后让他深感失去一面镜子的直臣是谁？",
+    "options": [
+      "房玄龄",
+      "长孙无忌",
+      "杜如晦",
+      "魏征"
+    ],
+    "correctAnswer": 3,
+    "explanation": "魏征一生犯颜直谏两百多次，去世后唐太宗痛惜地说从此少了一面能照见自己得失的镜子。他原本还是太子李建成的旧部，被李世民不计前嫌重用。"
+  },
+  {
+    "id": "cnhistory-045",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "唐玄宗开元初年，被后世并称「救时宰相」、辅佐开创「开元盛世」的两位名相是谁？",
+    "options": [
+      "房玄龄与杜如晦",
+      "姚崇与宋璟",
+      "狄仁杰与张柬之",
+      "李林甫与杨国忠"
+    ],
+    "correctAnswer": 1,
+    "explanation": "姚崇、宋璟先后担任唐玄宗前期宰相，整顿吏治、抑制奢靡，为开元盛世打下基础。后期唐玄宗任用李林甫、杨国忠，朝政急转直下，最终酿成安史之乱。"
+  },
+  {
+    "id": "cnhistory-046",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "晚唐时期写下「待到秋来九月八，我花开后百花杀」、后来发动大规模起义并一度攻占长安的人物是谁？",
+    "options": [
+      "黄巢",
+      "朱温",
+      "王仙芝",
+      "李克用"
+    ],
+    "correctAnswer": 0,
+    "explanation": "黄巢屡试不第，愤而起兵，875年发动大起义，880年一度攻入长安称帝，国号「大齐」。这场起义虽最终失败，却给已经风雨飘摇的唐王朝致命一击。"
+  },
+  {
+    "id": "cnhistory-047",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "907年废黜唐哀帝、自立为帝并建立后梁的人物是谁？",
+    "options": [
+      "黄巢",
+      "李克用",
+      "石敬瑭",
+      "朱温"
+    ],
+    "correctAnswer": 3,
+    "explanation": "朱温本是黄巢起义军旧将，后投降唐朝并逐渐掌握大权，907年逼迫唐哀帝禅位，建立后梁，唐朝就此灭亡，中国历史进入五代十国的分裂时期。"
+  },
+  {
+    "id": "cnhistory-048",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "960年赵匡胤在陈桥驿被部下拥立、「黄袍加身」而建立的朝代是？",
+    "options": [
+      "后周",
+      "南唐",
+      "北宋",
+      "北汉"
+    ],
+    "correctAnswer": 2,
+    "explanation": "960年赵匡胤奉命出征时在陈桥驿被部将披上黄袍拥立为帝，随后回师夺取后周政权，建立北宋。这场兵变几乎兵不血刃，赵匡胤本人也算是「被逼」当上了皇帝。"
+  },
+  {
+    "id": "cnhistory-049",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "北宋宋神宗时期，主持推行青苗法、募役法等一系列改革的宰相是谁？",
+    "options": [
+      "司马光",
+      "范仲淹",
+      "王安石",
+      "欧阳修"
+    ],
+    "correctAnswer": 2,
+    "explanation": "王安石于1069年起推行变法，涉及财政、军事、科举等多个领域，史称「王安石变法」或「熙宁变法」。反对他最力的司马光后来当上宰相，又把这些新法基本废除了。"
+  },
+  {
+    "id": "cnhistory-050",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "南宋抗金名将岳飞，最终被秦桧以什么罪名陷害致死？",
+    "options": [
+      "通敌叛国",
+      "莫须有",
+      "结党营私",
+      "图谋篡位"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1142年岳飞被以「莫须有」（也许有）这种毫无实证的罪名杀害于风波亭。这个词后来成了「欲加之罪，何患无辞」的代名词，专指毫无根据的诬陷。"
+  },
+  {
+    "id": "cnhistory-051",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "1279年南宋最后的抵抗力量在崖山海战中溃败，大臣陆秀夫背着谁跳海殉国？",
+    "options": [
+      "宋恭帝赵㬎",
+      "宋端宗赵昰",
+      "宋少帝赵昺",
+      "宋理宗赵昀"
+    ],
+    "correctAnswer": 2,
+    "explanation": "崖山海战后，南宋大臣陆秀夫见大势已去，背着年仅八岁的末帝赵昺跳海殉国，随行军民也纷纷跳海殉国，南宋至此彻底灭亡。"
+  },
+  {
+    "id": "cnhistory-052",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "1206年在斡难河源头被推举为大汗、统一蒙古草原各部的是谁？",
+    "options": [
+      "忽必烈",
+      "拖雷",
+      "铁木真（成吉思汗）",
+      "窝阔台"
+    ],
+    "correctAnswer": 2,
+    "explanation": "铁木真历经多年征战统一蒙古各部，1206年被推举为大汗，尊号「成吉思汗」。他的孙子忽必烈后来才建立元朝，二者常被弄混。"
+  },
+  {
+    "id": "cnhistory-053",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "1271年将国号定为「大元」、随后又灭南宋统一全国的蒙古大汗是谁？",
+    "options": [
+      "成吉思汗",
+      "窝阔台",
+      "忽必烈",
+      "蒙哥"
+    ],
+    "correctAnswer": 2,
+    "explanation": "忽必烈取《易经》「大哉乾元」之意，将国号定为「大元」，1279年灭南宋，建立起疆域空前辽阔的元朝，他也是元朝的开国皇帝元世祖。"
+  },
+  {
+    "id": "cnhistory-054",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "出身贫苦、当过和尚，后来加入红巾军并最终建立明朝的皇帝是谁？",
+    "options": [
+      "朱棣",
+      "朱允炆",
+      "陈友谅",
+      "朱元璋"
+    ],
+    "correctAnswer": 3,
+    "explanation": "朱元璋早年当过放牛娃和游方和尚，后投奔郭子兴的红巾军，一路征战，1368年在应天府称帝，建立明朝，年号洪武。"
+  },
+  {
+    "id": "cnhistory-055",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "明朝「靖难之役」中，燕王朱棣以「清君侧」为名起兵，最终夺取了谁的皇位？",
+    "options": [
+      "明太祖朱元璋",
+      "建文帝朱允炆",
+      "明仁宗朱高炽",
+      "明代宗朱祁钰"
+    ],
+    "correctAnswer": 1,
+    "explanation": "朱元璋去世后传位给皇孙朱允炆，燕王朱棣以「清君侧」为名起兵靖难，历时三年攻入南京，建文帝下落成谜，朱棣随后登基即明成祖。"
+  },
+  {
+    "id": "cnhistory-056",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "1616年在赫图阿拉建立「大金」（史称后金）政权的女真首领是谁？",
+    "options": [
+      "皇太极",
+      "努尔哈赤",
+      "多尔衮",
+      "多铎"
+    ],
+    "correctAnswer": 1,
+    "explanation": "努尔哈赤统一女真各部后，1616年称汗建立后金政权。他的儿子皇太极后来才将国号改为「大清」，族名也从「女真」改为「满洲」。"
+  },
+  {
+    "id": "cnhistory-057",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "1636年将国号由「大金」改为「大清」的清朝统治者是谁？",
+    "options": [
+      "努尔哈赤",
+      "顺治帝",
+      "多尔衮",
+      "皇太极"
+    ],
+    "correctAnswer": 3,
+    "explanation": "皇太极1636年在盛京称帝，改国号为「大清」，并将族名「女真」改为「满洲」。此时清朝尚未入关，真正入主中原要到他儿子顺治帝在位时。"
+  },
+  {
+    "id": "cnhistory-058",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "康熙年间以吴三桂为首、最终被朝廷平定的地方割据势力叛乱，史称什么？",
+    "options": [
+      "三藩之乱",
+      "七国之乱",
+      "八王之乱",
+      "靖难之役"
+    ],
+    "correctAnswer": 0,
+    "explanation": "清初分封的三位藩王吴三桂、尚可喜、耿精忠拥兵自重，1673年吴三桂起兵反清，史称「三藩之乱」，历时八年才被年轻的康熙帝彻底平定。"
   }
 ]

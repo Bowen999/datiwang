@@ -460,5 +460,313 @@
     ],
     "correctAnswer": 0,
     "explanation": "俄罗斯面积约 1700 多万平方公里，横跨欧亚两大洲，比第二名加拿大了将近一倍，坐火车横穿全国要七天七夜。"
+  },
+  {
+    "id": "geography-034",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "冰岛国名意为「冰之地」，格陵兰岛（Greenland）名字却意为「绿色之地」，但实际上哪一个被冰川覆盖的面积更大？",
+    "options": [
+      "冰岛",
+      "格陵兰岛",
+      "两者被冰川覆盖的面积其实差不多",
+      "两者几乎都没有冰川"
+    ],
+    "correctAnswer": 1,
+    "explanation": "格陵兰岛约八成面积常年被厚厚的冰盖覆盖，反倒是「冰岛」因地热和暖流影响，绿地和温泉不少。传说中世纪探险家红胡子埃里克为吸引移民，故意把冰封的岛屿取了个好听的绿色名字，堪称「广告文案鼻祖」。"
+  },
+  {
+    "id": "geography-035",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "世界上面积最小的独立国家是哪一个？",
+    "options": [
+      "摩纳哥",
+      "梵蒂冈",
+      "圣马力诺",
+      "列支敦士登"
+    ],
+    "correctAnswer": 1,
+    "explanation": "梵蒂冈全境仅约0.44平方公里，整个国家完全「嵌」在意大利罗马城里，比不少城市公园还小，绕国境走一圈用不了一个小时。"
+  },
+  {
+    "id": "geography-036",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "世界上唯一一面不是长方形的国旗，属于哪个国家？",
+    "options": [
+      "不丹",
+      "斯里兰卡",
+      "缅甸",
+      "尼泊尔"
+    ],
+    "correctAnswer": 3,
+    "explanation": "尼泊尔国旗由两个叠放的三角形组成，代表连绵的喜马拉雅山峰，也象征当地的印度教与佛教信仰。这独特造型让统一规定国旗尺寸的国际标准着实费了一番脑筋。"
+  },
+  {
+    "id": "geography-037",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "领土同时横跨亚洲和欧洲两大洲的国家是哪一个？",
+    "options": [
+      "埃及",
+      "伊朗",
+      "沙特阿拉伯",
+      "土耳其"
+    ],
+    "correctAnswer": 3,
+    "explanation": "土耳其绝大部分领土（安纳托利亚）位于亚洲，只有伊斯坦布尔附近一小块（色雷斯）属于欧洲。跨过博斯普鲁斯海峡上的大桥，几分钟就能从亚洲「走」到欧洲。"
+  },
+  {
+    "id": "geography-038",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "南美洲面积最大的国家巴西，国名来源于什么？",
+    "options": [
+      "一种能提取红色染料的木材",
+      "当地盛产黄金的传说",
+      "首位登陆的葡萄牙探险家的姓氏",
+      "当地土著部落的自称"
+    ],
+    "correctAnswer": 0,
+    "explanation": "巴西得名于「巴西木」（pau-brasil），这种能提取红色染料的木材是殖民地早期最重要的出口商品，比后来让巴西闻名世界的咖啡和足球都要早得多。"
+  },
+  {
+    "id": "geography-039",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "赤道横穿了非洲、亚洲和南美洲的部分国家，却唯独没有经过下列哪个大洲？",
+    "options": [
+      "非洲",
+      "亚洲",
+      "南美洲",
+      "欧洲"
+    ],
+    "correctAnswer": 3,
+    "explanation": "赤道一共穿过十几个国家的领土，横跨非洲、亚洲（印度尼西亚）和南美洲，却从未踏入欧洲大陆一步。"
+  },
+  {
+    "id": "geography-040",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "论陆上邻国数量，中国与哪个国家并列世界第一（都是14个）？",
+    "options": [
+      "巴西",
+      "印度",
+      "俄罗斯",
+      "美国"
+    ],
+    "correctAnswer": 2,
+    "explanation": "中国和俄罗斯都拥有14个陆上邻国，并列世界最多。俄罗斯横跨欧亚，邻居从挪威一路排到朝鲜；中国的邻居则从俄罗斯排到越南，凑一桌麻将都不够坐。"
+  },
+  {
+    "id": "geography-041",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "非洲国家莱索托（Lesotho）的地理位置有什么特别之处？",
+    "options": [
+      "全境被南非一个国家完全包围",
+      "全境正好位于赤道正下方",
+      "是撒哈拉沙漠腹地的一部分",
+      "全境海拔低于海平面"
+    ],
+    "correctAnswer": 0,
+    "explanation": "莱索托是被单一国家完全包围的「国中国」，四周全是南非领土。全世界只有三个国家被完全包围在另一国境内：莱索托、圣马力诺和梵蒂冈（后两者被意大利包围）。"
+  },
+  {
+    "id": "geography-042",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "永久中立国瑞士，官方语言一共有几种？",
+    "options": [
+      "2种",
+      "3种",
+      "4种",
+      "1种"
+    ],
+    "correctAnswer": 2,
+    "explanation": "瑞士有德语、法语、意大利语、罗曼什语四种官方语言，一张瑞士法郎纸币上常常同时印着好几种文字，堪称「小国大语言库」。"
+  },
+  {
+    "id": "geography-043",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "直布罗陀海峡把哪两个大洲隔开？",
+    "options": [
+      "欧洲和非洲",
+      "欧洲和亚洲",
+      "亚洲和非洲",
+      "北美洲和南美洲"
+    ],
+    "correctAnswer": 0,
+    "explanation": "直布罗陀海峡最窄处不到15公里，天气晴朗时，站在西班牙一侧甚至能用肉眼望见对岸的摩洛哥，一眼望两洲。"
+  },
+  {
+    "id": "geography-044",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "巴拿马运河连接了哪两个大洋？",
+    "options": [
+      "太平洋和大西洋",
+      "太平洋和印度洋",
+      "大西洋和印度洋",
+      "北冰洋和太平洋"
+    ],
+    "correctAnswer": 0,
+    "explanation": "巴拿马运河凿穿中美洲地峡，让船只不必绕行南美洲最南端的合恩角，把往返两大洋的航程一下缩短了数千公里。"
+  },
+  {
+    "id": "geography-045",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "南美洲国家阿根廷（Argentina）的名字，来源于拉丁语中的哪个词？",
+    "options": [
+      "黄金",
+      "白银",
+      "太阳",
+      "高山"
+    ],
+    "correctAnswer": 1,
+    "explanation": "阿根廷得名于拉丁语「argentum」（白银），当年欧洲探险家误以为这片土地蕴藏大量银矿。流经布宜诺斯艾利斯的「拉普拉塔河」，名字也是「白银之河」的意思。"
+  },
+  {
+    "id": "geography-046",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "世界上规模最大的珊瑚礁群「大堡礁」，分布在哪个国家附近的海域？",
+    "options": [
+      "印度尼西亚",
+      "菲律宾",
+      "澳大利亚",
+      "马尔代夫"
+    ],
+    "correctAnswer": 2,
+    "explanation": "大堡礁绵延在澳大利亚东北海岸外，由数千个独立礁体组成，是地球上最大的生物结构，从太空中都能辨认出它的轮廓。"
+  },
+  {
+    "id": "geography-047",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "非洲著名的维多利亚瀑布，位于赞比亚和哪个国家的交界处？",
+    "options": [
+      "坦桑尼亚",
+      "肯尼亚",
+      "南非",
+      "津巴布韦"
+    ],
+    "correctAnswer": 3,
+    "explanation": "维多利亚瀑布横跨赞比西河，是赞比亚与津巴布韦的界河瀑布。当地原名意为「雷鸣的烟雾」，飞溅的水花能腾起数百米高的水雾，几公里外都能看见。"
+  },
+  {
+    "id": "geography-048",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "世界上仅有的两个「双重内陆国」（本国及所有邻国都没有海岸线）是列支敦士登和哪个国家？",
+    "options": [
+      "蒙古国",
+      "哈萨克斯坦",
+      "乌兹别克斯坦",
+      "白俄罗斯"
+    ],
+    "correctAnswer": 2,
+    "explanation": "乌兹别克斯坦周边邻国清一色都是内陆国，想从这里出海，至少要连续穿越两个国家。列支敦士登同理，被瑞士和奥地利这两个内陆国夹在中间，是全世界仅有的两个「双重内陆国」。"
+  },
+  {
+    "id": "geography-049",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "南美洲国家玻利维亚（Bolivia）的国名，是为了纪念哪位历史人物？",
+    "options": [
+      "哥伦布",
+      "西蒙·玻利瓦尔",
+      "麦哲伦",
+      "圣马丁"
+    ],
+    "correctAnswer": 1,
+    "explanation": "玻利维亚以南美独立运动领袖西蒙·玻利瓦尔命名，他领导多国摆脱西班牙殖民统治。委内瑞拉的正式国名「玻利瓦尔共和国」同样是为了致敬他。"
+  },
+  {
+    "id": "geography-050",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "地球海洋中离任何陆地都最远的一点，被称为「尼莫点」（Point Nemo），它位于哪个大洋？",
+    "options": [
+      "印度洋",
+      "大西洋",
+      "太平洋",
+      "北冰洋"
+    ],
+    "correctAnswer": 2,
+    "explanation": "尼莫点周围两千多公里内没有陆地，距离最近的人类往往是国际空间站上的宇航员——因为空间站的轨道高度比附近陆地还要近。"
+  },
+  {
+    "id": "geography-051",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "大西洋中的马尾藻海（萨尔加索海）有一项特殊之处：它是世界上唯一——",
+    "options": [
+      "完全由洋流而非陆地圈定边界的海",
+      "终年结冰的海",
+      "位于赤道正下方的海",
+      "盐度低于淡水湖的海"
+    ],
+    "correctAnswer": 0,
+    "explanation": "马尾藻海四周被墨西哥湾流等四条洋流环绕，没有任何一段海岸线，是名副其实「没有岸」的海。海面大片漂浮的马尾藻，也让百慕大三角的传说更添几分神秘。"
+  },
+  {
+    "id": "geography-052",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "世界上唯一在国旗图案中画有枪械（一支AK-47突击步枪）的国家是？",
+    "options": [
+      "安哥拉",
+      "津巴布韦",
+      "厄立特里亚",
+      "莫桑比克"
+    ],
+    "correctAnswer": 3,
+    "explanation": "莫桑比克国旗上的AK-47与锄头、书本交叉出现，分别象征保卫国家、发展农业和重视教育，用来纪念其艰苦漫长的独立战争历史。"
+  },
+  {
+    "id": "geography-053",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "巴西国土辽阔，几乎与南美洲所有国家接壤，只有两个国家例外，是哪两个？",
+    "options": [
+      "秘鲁和委内瑞拉",
+      "智利和厄瓜多尔",
+      "乌拉圭和圭亚那",
+      "哥伦比亚和苏里南"
+    ],
+    "correctAnswer": 1,
+    "explanation": "巴西一国就接壤10个邻国，南美洲其余12个国家里，只有智利和厄瓜多尔跟它不搭界——这两国恰好都被安第斯山脉和其他国家挡在了外面。"
+  },
+  {
+    "id": "geography-054",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "世界上面积最大的半岛是哪一个？",
+    "options": [
+      "中南半岛",
+      "斯堪的纳维亚半岛",
+      "印度半岛",
+      "阿拉伯半岛"
+    ],
+    "correctAnswer": 3,
+    "explanation": "阿拉伯半岛面积超过300万平方公里，比整个印度还要大，沙特阿拉伯一国就占据了其中的大部分。"
+  },
+  {
+    "id": "geography-055",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "世界上岛屿数量最多的国家是哪一个？",
+    "options": [
+      "挪威",
+      "菲律宾",
+      "印度尼西亚",
+      "日本"
+    ],
+    "correctAnswer": 2,
+    "explanation": "印度尼西亚由超过一万七千个岛屿组成，领土横跨三个时区，其中有常住人口的岛屿约六千个，堪称名副其实的「千岛之国」。"
   }
 ]
