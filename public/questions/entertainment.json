@@ -1,0 +1,299 @@
+[
+  {
+    "id": "entertainment-004",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "电影《流浪地球》改编自哪位作家的同名小说？",
+    "options": ["王晋康", "刘慈欣", "何夕", "韩松"],
+    "correctAnswer": 1,
+    "explanation": "《流浪地球》改编自刘慈欣的同名短篇科幻小说，他也是《三体》的作者。"
+  },
+  {
+    "id": "entertainment-005",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "周杰伦的哪张专辑收录了歌曲《七里香》？",
+    "options": ["《范特西》", "《叶惠美》", "《七里香》", "《十一月的萧邦》"],
+    "correctAnswer": 2,
+    "explanation": "《七里香》是周杰伦 2004 年同名专辑的主打歌，前奏的吉他声一响就是青春。"
+  },
+  {
+    "id": "entertainment-006",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "宫崎骏执导、获得奥斯卡最佳动画长片的电影是？",
+    "options": ["《龙猫》", "《千与千寻》", "《天空之城》", "《幽灵公主》"],
+    "correctAnswer": 1,
+    "explanation": "《千与千寻》获 2003 年奥斯卡最佳动画长片，是日本影史票房传奇。"
+  },
+  {
+    "id": "entertainment-007",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "获得华语电影戛纳电影节最高奖「金棕榈奖」的影片是？",
+    "options": ["《花样年华》", "《霸王别姬》", "《卧虎藏龙》", "《一一》"],
+    "correctAnswer": 1,
+    "explanation": "陈凯歌执导的《霸王别姬》于 1993 年获得金棕榈奖，迄今仍是唯一获此殊荣的华语电影。"
+  },
+  {
+    "id": "entertainment-008",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "被称为「中国说唱元年」的综艺《中国有嘻哈》首播于哪一年？",
+    "options": ["2015 年", "2016 年", "2017 年", "2018 年"],
+    "correctAnswer": 2,
+    "explanation": "《中国有嘻哈》2017 年播出后引爆全网，「Freestyle」成为年度流行语。"
+  },
+  {
+    "id": "entertainment-009",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "《大话西游》里至尊宝说「如果非要在这份爱上加上一个期限」，他希望是多久？",
+    "options": ["一千年", "一万年", "十万年", "三生三世"],
+    "correctAnswer": 1,
+    "explanation": "经典台词原句是「我希望是……一万年」，这段告白在片中出现了两次，第二次已是物是人非。"
+  },
+  {
+    "id": "entertainment-010",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "电影《让子弹飞》中，葛优饰演的角色是？",
+    "options": ["马邦德", "黄四郎", "张麻子", "胡万"],
+    "correctAnswer": 0,
+    "explanation": "葛优饰演骗子师爷马邦德（老汤）。张麻子是姜文，黄四郎是周润发，胡万是陈坤。"
+  },
+  {
+    "id": "entertainment-011",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "刷爆表情包的名台词「臣妾做不到啊」，出自《甄嬛传》中谁之口？",
+    "options": ["甄嬛", "华妃", "皇后", "安陵容"],
+    "correctAnswer": 2,
+    "explanation": "这句台词出自蔡少芬饰演的皇后乌拉那拉·宜修，在真相败露时崩溃喊出，很多人误记成甄嬛说的。"
+  },
+  {
+    "id": "entertainment-012",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "湖南卫视长寿综艺《快乐大本营》首播于哪一年？",
+    "options": ["1994 年", "1995 年", "1996 年", "1997 年"],
+    "correctAnswer": 3,
+    "explanation": "《快乐大本营》1997 年 7 月开播，李湘、何炅先后主持，是国内最长寿的棚内综艺之一。"
+  },
+  {
+    "id": "entertainment-013",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Beyond 乐队的经典歌曲《光辉岁月》，是黄家驹为哪位人物创作的？",
+    "options": ["纳尔逊·曼德拉", "马丁·路德·金", "甘地", "特蕾莎修女"],
+    "correctAnswer": 0,
+    "explanation": "黄家驹 1990 年随香港电台赴巴布亚新几内亚探访后，读到曼德拉的事迹深受触动，写下《光辉岁月》致敬这位反种族隔离斗士。"
+  },
+  {
+    "id": "entertainment-014",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "香港「四大天王」中，最早获得金马奖最佳男主角的是谁？",
+    "options": ["刘德华", "张学友", "黎明", "郭富城"],
+    "correctAnswer": 2,
+    "explanation": "黎明 2002 年凭《三更之回家》拿下金马影帝，是四人中最早的。有趣的是，演技公认的张学友从未拿过金马影帝。"
+  },
+  {
+    "id": "entertainment-015",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "《灌篮高手》中，樱木花道在湘北篮球队穿的球衣号码是？",
+    "options": ["4 号", "10 号", "7 号", "11 号"],
+    "correctAnswer": 1,
+    "explanation": "樱木花道穿 10 号。4 号是赤木刚宪，7 号是宫城良田，11 号则是他的一生之敌流川枫。"
+  },
+  {
+    "id": "entertainment-016",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "《灌篮高手》全国大赛篇中，湘北险胜卫冕冠军山王工业后，输给了哪支队伍？",
+    "options": ["爱和学院", "陵南高中", "海南大附属", "翔阳高中"],
+    "correctAnswer": 0,
+    "explanation": "湘北拼尽全队之力击败山王后元气大伤，第三轮惨败给爱和学院。井上雄彦说「不完美的结局才是青春」。"
+  },
+  {
+    "id": "entertainment-017",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "爆款游戏《原神》的开发商米哈游，总部位于哪座城市？",
+    "options": ["北京", "上海", "广州", "深圳"],
+    "correctAnswer": 1,
+    "explanation": "米哈游 2011 年由三位上海交通大学学生创立，总部一直设在上海，《崩坏》系列和《原神》都出自这里。"
+  },
+  {
+    "id": "entertainment-018",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "国产单机经典《仙剑奇侠传》初代（DOS 版）发行于哪一年？",
+    "options": ["1992 年", "1993 年", "1994 年", "1995 年"],
+    "correctAnswer": 3,
+    "explanation": "《仙剑奇侠传》1995 年 7 月由大宇资讯发行，李逍遥与赵灵儿的故事成为一代玩家的集体回忆。"
+  },
+  {
+    "id": "entertainment-019",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "「做人如果没有梦想，那跟咸鱼有什么分别？」这句台词出自哪部电影？",
+    "options": ["《食神》", "《喜剧之王》", "《功夫》", "《少林足球》"],
+    "correctAnswer": 3,
+    "explanation": "这句鸡汤味十足的台词出自周星驰 2001 年的《少林足球》，如今「咸鱼」梗已经火出了圈。"
+  },
+  {
+    "id": "entertainment-020",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "《无间道》天台对峙戏中，说出「对不起，我是警察」的角色是？",
+    "options": ["刘建明", "黄志诚", "陈永仁", "韩琛"],
+    "correctAnswer": 2,
+    "explanation": "梁朝伟饰演的卧底陈永仁在天台对刘建明说出这句影史名台词，该片后来还被马丁·斯科塞斯翻拍为《无间行者》。"
+  },
+  {
+    "id": "entertainment-021",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "《武林外传》中，掌柜佟湘玉的经典口头禅是？",
+    "options": ["额滴神啊", "子曾经曰过", "葵花点穴手", "排山倒海"],
+    "correctAnswer": 0,
+    "explanation": "佟湘玉一口陕西腔的「额滴神啊」深入人心。「子曾经曰过」是吕秀才，「葵花点穴手」是白展堂，「排山倒海」是郭芙蓉。"
+  },
+  {
+    "id": "entertainment-022",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "《武林外传》的故事发生在一个虚构的小镇，这个镇叫？",
+    "options": ["同福镇", "七侠镇", "平谷镇", "广阳镇"],
+    "correctAnswer": 1,
+    "explanation": "故事发生在七侠镇的同福客栈——很多人记成「同福镇」，其实同福只是客栈的名字。"
+  },
+  {
+    "id": "entertainment-023",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "先后执导 2008 年北京夏奥会和 2022 年北京冬奥会开闭幕式的导演是？",
+    "options": ["陈凯歌", "张艺谋", "冯小刚", "李安"],
+    "correctAnswer": 1,
+    "explanation": "张艺谋是世界上第一位执导过夏奥和冬奥开闭幕式的「双奥」导演，两场盛典相隔 14 年。"
+  },
+  {
+    "id": "entertainment-024",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "「哥哥」张国荣于哪一年的 4 月 1 日离世？",
+    "options": ["2003 年", "2001 年", "2002 年", "2004 年"],
+    "correctAnswer": 0,
+    "explanation": "张国荣 2003 年 4 月 1 日在香港离世，因为恰逢愚人节，很多歌迷一度不愿相信这个消息。"
+  },
+  {
+    "id": "entertainment-025",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "下列周杰伦的歌曲中，由周杰伦本人作词的是？",
+    "options": ["《青花瓷》", "《东风破》", "《晴天》", "《菊花台》"],
+    "correctAnswer": 2,
+    "explanation": "《晴天》由周杰伦亲自作词作曲。另外三首都是方文山的词——「文山啊等你写完词，我都出下张专辑喽」。"
+  },
+  {
+    "id": "entertainment-026",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "「我命由我不由天」这句燃爆的台词出自哪部国产动画电影？",
+    "options": ["《西游记之大圣归来》", "《白蛇：缘起》", "《姜子牙》", "《哪吒之魔童降世》"],
+    "correctAnswer": 3,
+    "explanation": "这句台词出自 2019 年饺子执导的《哪吒之魔童降世》，该片以超 50 亿票房登顶当时的国产动画影史第一。"
+  },
+  {
+    "id": "entertainment-027",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "上海美术电影制片厂的经典动画长片《大闹天宫》，上下集完成于哪个年代？",
+    "options": ["40 年代", "50 年代", "60 年代", "70 年代"],
+    "correctAnswer": 2,
+    "explanation": "《大闹天宫》上集 1961 年、下集 1964 年完成，由万籁鸣执导，手绘原画超过 10 万张，是中国动画的巅峰之作。"
+  },
+  {
+    "id": "entertainment-028",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "电影《英雄本色》中，风衣墨镜、用美钞点烟的「小马哥」是谁饰演的？",
+    "options": ["狄龙", "周润发", "张国荣", "李子雄"],
+    "correctAnswer": 1,
+    "explanation": "周润发凭小马哥一角红遍亚洲并拿下金像奖影帝。狄龙演宋子豪，张国荣演弟弟宋子杰，李子雄演反派谭成。"
+  },
+  {
+    "id": "entertainment-029",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "86 版电视剧《西游记》中，孙悟空的扮演者是？",
+    "options": ["六小龄童", "周星驰", "张卫健", "曹荣"],
+    "correctAnswer": 0,
+    "explanation": "六小龄童本名章金莱，出身「猴王世家」。周星驰演过至尊宝，张卫健演过港版齐天大圣，曹荣则是《西游记后传》的孙悟空。"
+  },
+  {
+    "id": "entertainment-030",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "经典电视剧《还珠格格》里，古灵精怪的「小燕子」是谁演的？",
+    "options": ["林心如", "范冰冰", "王艳", "赵薇"],
+    "correctAnswer": 3,
+    "explanation": "赵薇凭小燕子一角红遍大江南北。林心如演紫薇，范冰冰演金锁，王艳演晴儿。"
+  },
+  {
+    "id": "entertainment-031",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "「池塘边的榕树上，知了在声声叫着夏天」——校园民谣《童年》的词曲作者是？",
+    "options": ["李宗盛", "罗大佑", "周华健", "张雨生"],
+    "correctAnswer": 1,
+    "explanation": "《童年》由罗大佑词曲创作，最早由张艾嘉演唱，罗大佑自己的版本也成了几代人的下课铃。"
+  },
+  {
+    "id": "entertainment-032",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "《名侦探柯南》中，身体变小之前的柯南，真实身份是哪位高中生侦探？",
+    "options": ["服部平次", "毛利小五郎", "工藤新一", "黑羽快斗"],
+    "correctAnswer": 2,
+    "explanation": "工藤新一被黑衣组织灌下毒药后身体缩小，化名江户川柯南。黑羽快斗则是怪盗基德的真身。"
+  },
+  {
+    "id": "entertainment-033",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "游戏界的顶流「超级马里奥」，官方设定里他的本职工作是？",
+    "options": ["水管工", "厨师", "快递员", "电工"],
+    "correctAnswer": 0,
+    "explanation": "马里奥的官方职业是水管工。不过他在 1981 年《大金刚》里初登场时其实是个木匠，当时还叫「Jumpman」。"
+  },
+  {
+    "id": "entertainment-034",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "每年春晚一上台就喊「观众朋友们，我想死你们了」的相声演员是？",
+    "options": ["赵本山", "潘长江", "郭冬临", "冯巩"],
+    "correctAnswer": 3,
+    "explanation": "这句开场白是冯巩的招牌，从 1995 年春晚沿用至今，成了比节目本身更让人期待的仪式感。"
+  },
+  {
+    "id": "entertainment-035",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "2005 年现象级选秀《超级女声》的全国总冠军是？",
+    "options": ["周笔畅", "张靓颖", "李宇春", "何洁"],
+    "correctAnswer": 2,
+    "explanation": "李宇春以 352 万条短信投票夺冠，掀起全民选秀热潮。周笔畅、张靓颖分获亚军和季军。"
+  },
+  {
+    "id": "entertainment-036",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "火遍全国的「撕名牌」综艺《奔跑吧兄弟》，原版引进自韩国哪档节目？",
+    "options": ["《无限挑战》", "《Running Man》", "《两天一夜》", "《家族诞生》"],
+    "correctAnswer": 1,
+    "explanation": "《奔跑吧兄弟》2014 年引进自韩国 SBS 的《Running Man》，撕名牌环节从此成了公司团建的保留项目。"
+  }
+]

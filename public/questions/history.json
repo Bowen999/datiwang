@@ -1,0 +1,2154 @@
+[
+  {
+    "id": "history-004",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "唐朝的都城长安是今天的哪座城市？",
+    "options": [
+      "洛阳",
+      "西安",
+      "南京",
+      "开封"
+    ],
+    "correctAnswer": 1,
+    "explanation": "长安即今天的西安，是十三朝古都，唐代时为世界第一大都会。"
+  },
+  {
+    "id": "history-005",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "郑和下西洋发生在哪个朝代？",
+    "options": [
+      "宋朝",
+      "元朝",
+      "明朝",
+      "清朝"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1405 年起，郑和奉明成祖之命七下西洋，最远到达非洲东海岸。"
+  },
+  {
+    "id": "history-006",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "成语「卧薪尝胆」讲述的是哪位君主的故事？",
+    "options": [
+      "吴王夫差",
+      "越王勾践",
+      "齐桓公",
+      "楚庄王"
+    ],
+    "correctAnswer": 1,
+    "explanation": "越王勾践战败后睡柴草、尝苦胆以自励，最终灭吴复国。"
+  },
+  {
+    "id": "history-007",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "中国科举制度正式创立于哪个朝代？",
+    "options": [
+      "汉朝",
+      "隋朝",
+      "唐朝",
+      "宋朝"
+    ],
+    "correctAnswer": 1,
+    "explanation": "隋炀帝时期设进士科，标志科举制度正式形成，一直延续到清末 1905 年废除。"
+  },
+  {
+    "id": "history-008",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "《史记》的体例属于下列哪一种？",
+    "options": [
+      "编年体",
+      "纪传体",
+      "国别体",
+      "纪事本末体"
+    ],
+    "correctAnswer": 1,
+    "explanation": "司马迁的《史记》是中国第一部纪传体通史，被鲁迅誉为「史家之绝唱，无韵之离骚」。"
+  },
+  {
+    "id": "history-009",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "清明前一两天的寒食节有禁火吃冷食的习俗，相传这是为了纪念谁？",
+    "options": [
+      "屈原",
+      "伍子胥",
+      "伯夷",
+      "介子推"
+    ],
+    "correctAnswer": 3,
+    "explanation": "相传春秋时介子推抱木而死，晋文公重耳下令在其忌日禁火寒食以示纪念。寒食节后来逐渐与清明节合并。"
+  },
+  {
+    "id": "history-010",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "青铜器何尊的铭文中出现了目前所知最早的「中国」一词（「宅兹中国」），这件国宝铸造于什么时期？",
+    "options": [
+      "商代晚期",
+      "西周早期",
+      "春秋时期",
+      "战国中期"
+    ],
+    "correctAnswer": 1,
+    "explanation": "何尊铸造于西周周成王时期，铭文中「宅兹中国」是「中国」一词最早的实物见证，现藏宝鸡青铜器博物院。"
+  },
+  {
+    "id": "history-011",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "北宋毕昇发明的活字印刷术，使用的是什么材质的活字？",
+    "options": [
+      "木活字",
+      "铜活字",
+      "泥活字",
+      "铅活字"
+    ],
+    "correctAnswer": 2,
+    "explanation": "毕昇在北宋庆历年间发明胶泥活字，沈括《梦溪笔谈》详细记录了其制法。木活字要到元代王祯手中才大规模推广。"
+  },
+  {
+    "id": "history-012",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "元代黄公望的《富春山居图》在明末险些被烧殉葬，断为两段，其中较长的一段《无用师卷》现藏于哪里？",
+    "options": [
+      "北京故宫博物院",
+      "浙江省博物馆",
+      "台北故宫博物院",
+      "上海博物馆"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《无用师卷》藏于台北故宫博物院，较小的《剩山图》藏于浙江省博物馆，两段曾于 2011 年在台北合璧展出。"
+  },
+  {
+    "id": "history-013",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "2016 年被列入联合国人类非物质文化遗产的二十四节气，最早起源于哪个流域？",
+    "options": [
+      "黄河流域",
+      "长江流域",
+      "珠江流域",
+      "辽河流域"
+    ],
+    "correctAnswer": 0,
+    "explanation": "二十四节气起源于黄河中下游地区，是古人观察太阳周年运动总结出的时令体系，汉代《淮南子》中已有完整记载。"
+  },
+  {
+    "id": "history-014",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "世界上现存最早标有确切纪年的雕版印刷品《金刚经》（咸通九年，868 年），刻印于哪个朝代？",
+    "options": [
+      "隋朝",
+      "唐朝",
+      "五代十国",
+      "北宋"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这部唐咸通九年《金刚经》出自敦煌藏经洞，卷首版画精美，现藏大英图书馆，是雕版印刷成熟于唐代的铁证。"
+  },
+  {
+    "id": "history-015",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "改写世界音乐史的曾侯乙编钟，出土于今天的哪个省？",
+    "options": [
+      "湖南省",
+      "河南省",
+      "陕西省",
+      "湖北省"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1978 年曾侯乙编钟出土于湖北随州，全套 65 件，音域跨五个八度，还能「一钟双音」，是战国早期的青铜奇迹。"
+  },
+  {
+    "id": "history-016",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "宋代书法四大家「苏黄米蔡」中的「蔡」，今天通行的说法是指谁？",
+    "options": [
+      "蔡京",
+      "蔡襄",
+      "蔡邕",
+      "蔡卞"
+    ],
+    "correctAnswer": 1,
+    "explanation": "通行指蔡襄；一说原指蔡京，因其为人口碑太差而被替换。蔡邕是东汉人，蔡卞则是蔡京的弟弟。"
+  },
+  {
+    "id": "history-017",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "传统端午节习俗中，古人会饮用哪种酒来驱虫避邪？《白蛇传》里白娘子就是喝了它现出原形。",
+    "options": [
+      "屠苏酒",
+      "菊花酒",
+      "雄黄酒",
+      "桂花酒"
+    ],
+    "correctAnswer": 2,
+    "explanation": "端午饮雄黄酒、涂抹雄黄以避蛇虫；屠苏酒属春节，菊花酒属重阳，桂花酒属中秋。"
+  },
+  {
+    "id": "history-018",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "1900 年，敦煌莫高窟藏经洞（第 17 窟）重见天日，数万件文书震惊世界。发现它的人是谁？",
+    "options": [
+      "王圆箓",
+      "斯坦因",
+      "伯希和",
+      "张大千"
+    ],
+    "correctAnswer": 0,
+    "explanation": "道士王圆箓在清理积沙时偶然发现藏经洞。斯坦因、伯希和是后来闻风而至、大量购取文书的外国探险家。"
+  },
+  {
+    "id": "history-019",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "世界上现存最早的敞肩石拱桥赵州桥，由哪位工匠主持修建？",
+    "options": [
+      "鲁班",
+      "李冰",
+      "宇文恺",
+      "李春"
+    ],
+    "correctAnswer": 3,
+    "explanation": "赵州桥（安济桥）由隋朝工匠李春设计建造，已有 1400 多年历史，其敞肩拱设计比欧洲早了七百多年。"
+  },
+  {
+    "id": "history-020",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "殷墟考古中，唯一保存完整、未被盗掘且墓主身份明确的商代王室墓葬是哪一座？",
+    "options": [
+      "妇好墓",
+      "武官村大墓",
+      "侯家庄王陵",
+      "郭家庄墓"
+    ],
+    "correctAnswer": 0,
+    "explanation": "妇好墓 1976 年发掘，出土随葬品 1928 件。妇好是商王武丁的妻子，也是甲骨文记载中领兵打仗的第一位女将军。"
+  },
+  {
+    "id": "history-021",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "北宋张择端的传世名画《清明上河图》，描绘的是哪座城市的繁华景象？",
+    "options": [
+      "长安",
+      "洛阳",
+      "汴京（今开封）",
+      "临安（今杭州）"
+    ],
+    "correctAnswer": 2,
+    "explanation": "画卷描绘北宋都城东京（汴京，今河南开封）的城市生活，全卷画有 800 多个人物，被誉为「中华第一神品」。"
+  },
+  {
+    "id": "history-022",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "指南针的前身「司南」，其名称最早见于哪一部典籍？",
+    "options": [
+      "《梦溪笔谈》",
+      "《山海经》",
+      "《淮南子》",
+      "《韩非子》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《韩非子·有度》记载「先王立司南以端朝夕」。而《梦溪笔谈》则是首次记录人工磁化指南针法和磁偏角的著作。"
+  },
+  {
+    "id": "history-023",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "王羲之写下「天下第一行书」《兰亭集序》的那场曲水流觞雅集，发生在哪个传统节日？",
+    "options": [
+      "上巳节（三月三）",
+      "寒食节",
+      "重阳节",
+      "中秋节"
+    ],
+    "correctAnswer": 0,
+    "explanation": "东晋永和九年三月初三上巳节，王羲之与谢安等 42 人在兰亭修禊雅集，乘着酒兴写下《兰亭集序》。"
+  },
+  {
+    "id": "history-024",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "现存青铜器中铭文最长的是哪一件？铭文近五百字，被称为「抵得上一篇《尚书》」。",
+    "options": [
+      "后母戊鼎",
+      "毛公鼎",
+      "大盂鼎",
+      "散氏盘"
+    ],
+    "correctAnswer": 1,
+    "explanation": "西周毛公鼎铭文 497 字，是青铜器铭文之最，现藏台北故宫博物院。后母戊鼎铭文只有「后母戊」三个字。"
+  },
+  {
+    "id": "history-025",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "长沙马王堆汉墓出土的素纱襌衣轻薄得可以塞进火柴盒，它的重量大约只有多少？",
+    "options": [
+      "约 49 克",
+      "约 150 克",
+      "约 300 克",
+      "约 500 克"
+    ],
+    "correctAnswer": 0,
+    "explanation": "直裾素纱襌衣仅重 49 克，折叠后可放入火柴盒，代表了汉代养蚕缫丝和织造技术的巅峰，现藏湖南博物院。"
+  },
+  {
+    "id": "history-026",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "京杭大运河历史上最早开凿的一段「邗沟」，是春秋时期哪个诸侯国主持修建的？",
+    "options": [
+      "齐国",
+      "楚国",
+      "吴国",
+      "越国"
+    ],
+    "correctAnswer": 2,
+    "explanation": "公元前 486 年，吴王夫差为北上争霸开凿邗沟，连通长江与淮河，这一年也被视为中国大运河的开端之年。"
+  },
+  {
+    "id": "history-027",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "宋代五大名窑「汝、官、哥、钧、定」中，以「雨过天青」釉色闻名、窑址在今河南宝丰清凉寺的是哪个？",
+    "options": [
+      "钧窑",
+      "定窑",
+      "哥窑",
+      "汝窑"
+    ],
+    "correctAnswer": 3,
+    "explanation": "汝窑为五大名窑之首，传世品不足百件，天青釉色据说源自宋徽宗「雨过天青云破处」的审美要求。"
+  },
+  {
+    "id": "history-028",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "2019 年列入《世界遗产名录》、实证中华五千多年文明史的良渚古城遗址，位于今天的哪座城市？",
+    "options": [
+      "杭州",
+      "南京",
+      "苏州",
+      "宁波"
+    ],
+    "correctAnswer": 0,
+    "explanation": "良渚古城遗址位于杭州市余杭区，距今约 5300—4300 年，拥有大型水利系统和精美的玉琮，被誉为「中华第一城」。"
+  },
+  {
+    "id": "history-029",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "中秋节一家人围在一起赏月时，按传统要吃哪种圆滚滚的点心？",
+    "options": [
+      "粽子",
+      "月饼",
+      "汤圆",
+      "饺子"
+    ],
+    "correctAnswer": 1,
+    "explanation": "中秋吃月饼寓意团圆美满。粽子属于端午节，汤圆是元宵节的标配，饺子则是北方过年的主角。"
+  },
+  {
+    "id": "history-030",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "端午节吃粽子、赛龙舟的习俗，最广为人知是为了纪念哪位历史人物？",
+    "options": [
+      "李白",
+      "杜甫",
+      "屈原",
+      "白居易"
+    ],
+    "correctAnswer": 2,
+    "explanation": "相传战国诗人屈原于五月初五投汨罗江，百姓划船捞救、投粽喂鱼，演变成赛龙舟和吃粽子的习俗。"
+  },
+  {
+    "id": "history-031",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "春节时很多人家喜欢把「福」字倒过来贴，这么贴的寓意是什么？",
+    "options": [
+      "福到了",
+      "福气倒光了",
+      "福要迟到了",
+      "福星睡着了"
+    ],
+    "correctAnswer": 0,
+    "explanation": "「倒」与「到」谐音，倒贴福字取「福到了」的彩头，是春节最受欢迎的谐音梗之一。"
+  },
+  {
+    "id": "history-032",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "古人书房里离不开的「文房四宝」，指的是哪四样东西？",
+    "options": [
+      "琴棋书画",
+      "梅兰竹菊",
+      "诗词歌赋",
+      "笔墨纸砚"
+    ],
+    "correctAnswer": 3,
+    "explanation": "文房四宝即笔、墨、纸、砚，其中以湖笔、徽墨、宣纸、端砚最为出名。琴棋书画则是古代文人的「四艺」。"
+  },
+  {
+    "id": "history-033",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "造纸术、印刷术、火药、指南针并称中国古代「四大发明」，下列哪一项不在其中？",
+    "options": [
+      "造纸术",
+      "地动仪",
+      "印刷术",
+      "火药"
+    ],
+    "correctAnswer": 1,
+    "explanation": "地动仪是东汉张衡发明的测震仪器，虽很厉害但不属于四大发明。「四大发明」的说法由英国学者李约瑟大力宣扬而定型。"
+  },
+  {
+    "id": "history-034",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "汉代时奉命出使西域、为丝绸之路的开辟立下大功的使者是谁？",
+    "options": [
+      "玄奘",
+      "鉴真",
+      "张骞",
+      "郑和"
+    ],
+    "correctAnswer": 2,
+    "explanation": "汉武帝派张骞两次出使西域，史称「凿空之旅」。玄奘西行取经、鉴真东渡日本、郑和下西洋，都是后来的故事。"
+  },
+  {
+    "id": "history-035",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "万里长城沿线关隘众多，其中被誉为「天下第一关」的是哪一座？",
+    "options": [
+      "山海关",
+      "嘉峪关",
+      "居庸关",
+      "雁门关"
+    ],
+    "correctAnswer": 0,
+    "explanation": "山海关位于河北秦皇岛，是明长城的东北起点，匾额上「天下第一关」五个大字相传为明代书法家萧显所写。"
+  },
+  {
+    "id": "history-036",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "明清两代皇帝居住的北京故宫，还有一个更气派的名字叫什么？",
+    "options": [
+      "大明宫",
+      "阿房宫",
+      "未央宫",
+      "紫禁城"
+    ],
+    "correctAnswer": 3,
+    "explanation": "故宫旧称紫禁城，因古代以紫微星垣比喻天帝居所而得名。大明宫在唐代长安，阿房宫属秦，未央宫属汉。"
+  },
+  {
+    "id": "history-037",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "在古代雅典城邦，陪审法庭几乎可以审查当时政治生活中的所有问题，甚至包括公民大会和议事会通过的法令，并进行最终判决。这说明",
+    "options": [
+      "判决体现权力来源",
+      "法律服从民众意愿",
+      "法律面前人人平等",
+      "全体公民参与政治"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-038",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "恩格斯在评价某一文学艺术流派时说：“除细节的真实外，还要真实地再现典型环境中的典型人物。”属于这一流派的作品是",
+    "options": [
+      "《西风颂》",
+      "《哈姆雷特》",
+      "《等待戈多》",
+      "《人间喜剧》"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-039",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "古代雅典法律规定：如果公民试图自杀，必须事先提出申请，以获得批准；未经允许的自杀被视为犯罪行为。这反映出在古代雅典",
+    "options": [
+      "法律体系已达到完备的程度",
+      "自杀有违崇尚自然法则的理性精神",
+      "法律具有尊重生命价值的人文精神",
+      "公民个人自由受到严格限制"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-040",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "宗教改革时出现的新教，英文为Protestantism，直译“抗议宗”。这里的“抗议”是指",
+    "options": [
+      "抗议贵族的权威",
+      "抗议国王的权威",
+      "抗议《圣经》的权威",
+      "抗议天主教会的权威"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-041",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "“‘分裂之家不能持久。’我相信我们的政府不能永远忍受一半奴役一半自由的状况。”此言论应出自",
+    "options": [
+      "亚历山大二世",
+      "明治天皇",
+      "俾斯麦",
+      "林肯"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-042",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "贝多芬历经法国大革命前后欧洲社会剧变，给后人留下震撼人心的音乐史诗。对其《第三（英雄）交响曲》解读有误的是",
+    "options": [
+      "作品有田园风光般的抒情",
+      "作品充满时代气息",
+      "作品具有英雄史诗般的雄伟气势",
+      "作品含蓄地献给一位无名英雄"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-043",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "“一般的法律是人类的理性，各国的法律是人类理性在特殊场合的适用”。持以上观点的启蒙思想家是",
+    "options": [
+      "孟德斯鸠",
+      "卢梭",
+      "伏尔泰",
+      "狄德罗"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-044",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "1952年到1964年，苏联政府收购谷物的平均价格指数提高了7.48倍，收购畜产品的价格指数提高了15.69倍。这是",
+    "options": [
+      "适应“加速发展战略”的需要",
+      "推行农业集体化导致的变化",
+      "调整农业政策的结果",
+      "应对世界农产品价格波动的措施"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-045",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "德国19世纪中期仍处于分裂状态．促成德国实现统一的人物是",
+    "options": [
+      "歌德",
+      "俾斯麦",
+      "马丁·路德",
+      "加尔文"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-046",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "中世纪后期位于东西方之间的某个军事强国，占据了重要的地理位置，控制了亚欧商路。这个国家是",
+    "options": [
+      "法兰克王国",
+      "奥斯曼帝国",
+      "拜占庭帝国",
+      "西罗马帝国"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-047",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "在文学上积极鼓吹\"小说界革命\"的是",
+    "options": [
+      "蔡元培",
+      "黄遵宪",
+      "胡适",
+      "梁启超"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-048",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "挪威剧作家易卜生的《玩偶之家》从题材内容来看属于",
+    "options": [
+      "社会问题剧",
+      "史诗剧",
+      "童话剧",
+      "宗教剧"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-049",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "《红字》的作者是美国作家",
+    "options": [
+      "奥尼尔",
+      "福克纳",
+      "爱默生",
+      "霍桑"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-050",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "艺术作品通过广播、网络等形式进行传播，属于",
+    "options": [
+      "现场表演传播",
+      "展览性传播",
+      "口头传播",
+      "大众传播"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-051",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "在西方，首次较有系统地阐述艺术起源于模仿的理论家是",
+    "options": [
+      "苏格拉底",
+      "康德",
+      "贺拉斯",
+      "亚里士多德"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-052",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "在我国近代，提出我手写我口、'我口写我心，提倡诗界革命的人是",
+    "options": [
+      "黄遵宪",
+      "龚自珍",
+      "魏源",
+      "蔡元培"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-053",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "电视剧《京华烟云》根据同名小说改编，原作作者是",
+    "options": [
+      "沈从文",
+      "林语堂",
+      "周作人",
+      "老舍"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-054",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "梵高是哪个国家著名画家。",
+    "options": [
+      "英国",
+      "丹麦",
+      "荷兰",
+      "法国"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-055",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "提出境界论的近代文艺理论家是",
+    "options": [
+      "鲁迅",
+      "曹雪芹",
+      "王国维",
+      "刘熙载"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-056",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "被定义为“主体感受生活、欣赏艺术、体验和孕育意象的敏锐性和悟性”的是",
+    "options": [
+      "艺术敏感",
+      "艺术想象力",
+      "艺术灵感",
+      "艺术技巧"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-057",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "长鼓舞是下列哪一个民族的舞蹈",
+    "options": [
+      "鄂伦春族",
+      "满族",
+      "蒙古族",
+      "朝鲜族"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-058",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "《巴黎圣母院》的建筑形式属于",
+    "options": [
+      "拜占庭式建筑",
+      "哥特式建筑",
+      "罗马式建筑",
+      "拉丁式建筑"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-059",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "我国著名的瓷都是",
+    "options": [
+      "山东淄博",
+      "江苏宜兴",
+      "江西景德镇",
+      "广东石湾"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-060",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "模仿说的合理性在于",
+    "options": [
+      "始终注重艺术的情感性因素",
+      "始终抓住艺术与现实世界的关系",
+      "始终肯定人的主体因素",
+      "始终强调艺术的形式因素"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-061",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "齐白石的中国画《蛙声十里出山泉》描写的是",
+    "options": [
+      "树蛙",
+      "牛蛙",
+      "青蛙",
+      "蝌蚪"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-062",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "民族舞剧《丝路花雨》中“反弹琵琶”的动作设计来源于",
+    "options": [
+      "阿细跳月",
+      "维吾尔舞蹈",
+      "秧歌",
+      "敦煌壁画"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-063",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "贺拉斯最重要的美学著作是",
+    "options": [
+      "《诗学》",
+      "《诗品》",
+      "《美学》",
+      "《诗艺》"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-064",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "《人间喜剧》的作者是",
+    "options": [
+      "巴尔扎克",
+      "狄更斯",
+      "托尔斯泰",
+      "雨果"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-065",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "《亚威农少女》是（）绘画的代表作品。",
+    "options": [
+      "野兽派",
+      "立体主义",
+      "达达主义",
+      "抽象主义"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-066",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "1886年创作的青铜圆雕《加莱义民》的作者是",
+    "options": [
+      "意大利多纳太罗",
+      "法国罗丹",
+      "法国贝尼尼",
+      "意大利米开朗基罗"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-067",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "我国古代著名绘画作品《洛神赋图》的作者是",
+    "options": [
+      "张择端",
+      "展子虔",
+      "顾恺之",
+      "阎立本"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-068",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "《蓝色多瑙河圆舞曲》的作者是是奥地利作曲家",
+    "options": [
+      "李斯特",
+      "贝多芬",
+      "约翰•施特劳斯",
+      "巴赫"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-069",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "立体派的人物是",
+    "options": [
+      "马蒂斯",
+      "梵•高",
+      "高更",
+      "毕加索"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-070",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "何占豪、陈钢创作的《梁山伯与祝英台》是一部",
+    "options": [
+      "二胡独奏曲",
+      "大提琴独奏曲",
+      "小提琴协奏曲",
+      "交响曲"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-071",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "在艺术的定义问题上，提出“集体无意识说”的美学家是",
+    "options": [
+      "洛克",
+      "荣格",
+      "弗洛伊德",
+      "苏珊·朗格"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-072",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "下列选项中，属于接受美学代表人物的是",
+    "options": [
+      "海德格尔",
+      "尧斯",
+      "罗兰·巴尔特",
+      "苏珊·朗格"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-073",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "艺术创作的思维方式是",
+    "options": [
+      "形象思维排斥思维",
+      "抽象思维为主导",
+      "形象思维和抽象思维起同样作用",
+      "形象思维为主体"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-074",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "哲学主要通过()这一中介对艺术产生影响。",
+    "options": [
+      "宗教",
+      "政治",
+      "美学",
+      "伦理学"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-075",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "艺术本体论从根本上讲就是艺术",
+    "options": [
+      "行为论",
+      "功能论",
+      "存在论",
+      "形式论"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-076",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "世界文化遗产泰姬陵位于",
+    "options": [
+      "柬埔寨",
+      "印度",
+      "越南",
+      "缅甸"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-077",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "影片《战舰波将金号》是20世纪20年代哪一个国家的重要作品",
+    "options": [
+      "法国",
+      "美国",
+      "意大利",
+      "苏联"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-078",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "拍摄人像时，最好使用",
+    "options": [
+      "侧光",
+      "顶光",
+      "顺光",
+      "逆光"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-079",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "艺术概论研究的对象是人类的",
+    "options": [
+      "情感活动",
+      "审美活动",
+      "精神活动",
+      "艺术活动"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-080",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "楷书最早产生于",
+    "options": [
+      "魏晋",
+      "汉代",
+      "宋代",
+      "唐代"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-081",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "艺术品的直接性物质存在是",
+    "options": [
+      "意境超验层",
+      "形式符号层",
+      "物质实在层",
+      "意象世界层"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-082",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "《洛神赋图》相传为东晋大画家()的作品。",
+    "options": [
+      "王羲之",
+      "顾恺之",
+      "张芝",
+      "钟繇"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-083",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "文艺复兴时期不在画坛三杰之列的画家是",
+    "options": [
+      "达•芬奇",
+      "米开朗基罗",
+      "拉斐尔",
+      "伦勃朗"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-084",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "梅特林克的《青鸟》、《不速之客》等作品是哪个流派戏剧的典型之作。",
+    "options": [
+      "荒诞派",
+      "象征派",
+      "写实派",
+      "印象派"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-085",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "《自由女神引导人民》是法国（）绘画垢代表作品。",
+    "options": [
+      "浪漫主义",
+      "现实主义",
+      "古典主义",
+      "印象主义"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-086",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "唐三彩常用的颜色主要是",
+    "options": [
+      "红、绿、白",
+      "绿、黄、紫",
+      "红、黄、蓝",
+      "黄、绿、白"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-087",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "《套中人》是我俄国作家（）的重要作品。",
+    "options": [
+      "托尔斯泰",
+      "契诃夫",
+      "果戈里",
+      "高尔基"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-088",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "亚里士多德最重要的美学著作是",
+    "options": [
+      "《诗品》",
+      "《诗艺》",
+      "《诗学》",
+      "《论崇高》"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-089",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "《西厢记》的作者是",
+    "options": [
+      "关汉卿",
+      "白朴",
+      "王实甫",
+      "马致远"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-090",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "《阿细跳月》是我国哪一个民族的民族舞蹈。",
+    "options": [
+      "傣族",
+      "彝族",
+      "苗族",
+      "白族"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-091",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "电视剧《围城》是根据谁的同名小说改编的。",
+    "options": [
+      "沈从文",
+      "张爱玲",
+      "巴金",
+      "钱钟书"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-092",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "19世纪法国画家大卫的代表是",
+    "options": [
+      "《日出印象》",
+      "《马拉之死》",
+      "《向日葵》",
+      "《夜巡》"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-093",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "由些可夫斯基作曲的古典芭蕾舞剧（）达到了古典浪漫主义舞剧的光辉顶点。",
+    "options": [
+      "《天鹅湖》",
+      "《浮士德》",
+      "《罗密欧与朱丽叶》",
+      "《天鹅之死》"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-094",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "艺术活动产生于人类的哪一时期",
+    "options": [
+      "奴隶制后期",
+      "奴隶制前期",
+      "原始社会",
+      "封建社会"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-095",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "影片《远山的呼唤》的作者是",
+    "options": [
+      "苏联",
+      "美国",
+      "日本",
+      "法国"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-096",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "海勒《第二十二条军规》是哪个流派代表作品之一。",
+    "options": [
+      "黑色幽默",
+      "魔幻现实主义",
+      "意识流",
+      "荒诞派"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-097",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "诗句“感时花溅泪，恨别鸟惊心”的作者是",
+    "options": [
+      "李商隐",
+      "李白",
+      "杜牧",
+      "杜甫"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-098",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "“吾家洗砚池头树，个个花开淡墨痕，不要人夸好颜色，只留清气满乾坤”。此诗作者是",
+    "options": [
+      "苏东坡",
+      "齐白石",
+      "金农",
+      "王冕"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-099",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "文学的主要表现手段是",
+    "options": [
+      "情节",
+      "结构",
+      "故事",
+      "语言"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-100",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "扬州八怪是指在哪个朝代朝活跃在扬州的8位风格相近的革新派画家。",
+    "options": [
+      "清",
+      "元",
+      "宋",
+      "明"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-101",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "《良宵》、《光明行》是音乐家刘天华创作的（）独奏曲。",
+    "options": [
+      "扬琴",
+      "二胡",
+      "筝",
+      "京胡"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-102",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "《小二黑结婚》是我国文学史上()的代表作之一。",
+    "options": [
+      "山药蛋派",
+      "鸳鸯蝴蝶派",
+      "创造社",
+      "新月派"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-103",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "艺术品赖以在时空中存在的实体和媒介是指",
+    "options": [
+      "意象世界层",
+      "意境超验层",
+      "物质实在层",
+      "形式符号层"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-104",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "在中国戏剧史上塑造了蘩漪这一重要形象的剧目是",
+    "options": [
+      "《上海屋檐下》",
+      "《茶馆》",
+      "《雷雨》",
+      "《日出》"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-105",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "30年代赵丹和周璇主演的影片（）是我国电影艺术基本成熟的最重要的标志。",
+    "options": [
+      "《小城之春》",
+      "《马路天使》",
+      "《一江春水向东流》",
+      "《渔光曲》"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-106",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "康德最著名的学论著是",
+    "options": [
+      "《判断力批判》",
+      "《拉奥在孔》",
+      "《汉堡剧评》",
+      "《美学》"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-107",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "到目前为止，我国少数民族自治地方的数量是",
+    "options": [
+      "125个",
+      "155个",
+      "124个",
+      "145个"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-108",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "个人的民族成份，只能依据（）的民族成份确定",
+    "options": [
+      "父亲",
+      "不能确定",
+      "母亲",
+      "父亲或母亲"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-109",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "在社会主义初级阶段，我国的民族问题主要集中表现为",
+    "options": [
+      "少数民族和民族地区要求加快发展经济文化事业",
+      "各民族间由于某些思想观念引起的现实的矛盾和纠纷",
+      "国家怎样向民族地区给予更多公共财政支持的问题",
+      "解决东部地区与西部少数民族地区间的经济差距问题"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-110",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "到目前为止，我国已经实行民族区域自治制度的民族有",
+    "options": [
+      "46个",
+      "44个",
+      "45个",
+      "47个"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-111",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "新中国的民族平等主张直接来源于：",
+    "options": [
+      "封建社会的一般平等观",
+      "资产阶级的民族平等观",
+      "马克思主义的民族平等观",
+      "工人阶级的民族平等观"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-112",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "把民族划分为奴隶制民族、封建主义民族、资本主义民族、社会主义民族，主要是侧重与民族的",
+    "options": [
+      "自然属性",
+      "社会属性",
+      "特征属性",
+      "生物属性"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-113",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "马克思和恩格斯在1844年合著的一文中，对唯心主义民族理论进行了批判，此文是",
+    "options": [
+      "《神圣家族，或对批判所作的批判》",
+      "《1844年经济学哲学手稿》",
+      "《家庭、私有制和国家的起源》",
+      "《神圣家族，或对批判的批判所作的批判》"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-114",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "民族形成的时间是",
+    "options": [
+      "原始社会初期",
+      "奴隶社会末期封建社会初期",
+      "原始社会末期进入阶级社会时",
+      "人类产生时"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-115",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "除特殊情况外，构成民族自治地方名称的顺序是",
+    "options": [
+      "地名、行政级别名、族名",
+      "族名、地名、行政级别名",
+      "地名、族名、行政级别名",
+      "族名、行政级别名、地名"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-116",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "与民族最近似的人们共同体的是",
+    "options": [
+      "胞族",
+      "部落联盟",
+      "氏族",
+      "部落"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-117",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "在中国第一个比较完整的翻译介绍西方的民族定义的是谁",
+    "options": [
+      "梁启超",
+      "汪兆铭",
+      "王明",
+      "李大钊"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-118",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "在马克思主义民族理论发展史上，提出第一个完整的科学的民族定义的人是",
+    "options": [
+      "斯大林",
+      "恩格斯",
+      "列宁",
+      "马克思"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-119",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "马克思主义的中国民族理论具有（）和科学性统一的特点。",
+    "options": [
+      "理论性",
+      "政治性",
+      "学术性",
+      "实用性"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-120",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "人类社会人们共同体的发展序列是",
+    "options": [
+      "氏族-部落-民族",
+      "部落-胞族-民族",
+      "胞族-氏族-民族",
+      "胞族-部落-民族"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-121",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "民族教育政策、法制是民族教育发展的",
+    "options": [
+      "必然要求和必然结果",
+      "基本前提",
+      "必然结果",
+      "必然要求"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-122",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "民族关系的基本表现形式是",
+    "options": [
+      "民族群体之间的关系",
+      "民族自治地方与国家之间的关系",
+      "民族自治地方与个人之间的关系",
+      "民族个体之间的关系"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-123",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "《批判大汉族主义》一文的作者是",
+    "options": [
+      "刘少奇",
+      "李维汉",
+      "周恩来",
+      "毛泽东"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-124",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "我国少数民族有1亿多人口，占全国总人口百分之（）以上",
+    "options": [
+      "六",
+      "七",
+      "八",
+      "五"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-125",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "史传黄帝居于“昆仑之丘”，其祖先活动于羌戎民族居住的地方，那里是",
+    "options": [
+      "青藏高原东部",
+      "长江流域",
+      "陕甘宁一带",
+      "黄河流域"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-126",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "我国少数民族中人口最多的是",
+    "options": [
+      "蒙古族",
+      "回族",
+      "藏族",
+      "壮族"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-127",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "《要使各民族真正实行民族区域自治》一文的作者是",
+    "options": [
+      "胡耀邦",
+      "邓小平",
+      "胡锦涛",
+      "江泽民"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-128",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "《关于处理带有歧视或者侮辱少数民族性质的称谓、地名、碑碣、匾联的指示》是在（）年颁布的。",
+    "options": [
+      "1950",
+      "1979",
+      "1978",
+      "1951"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-129",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "（）是民族理论学科的一大特点。",
+    "options": [
+      "重视政策的运用",
+      "基础理论和应用理论并容，理论和政策兼纳",
+      "基础理论和应用理论并容",
+      "理论和政策兼纳"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-130",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "少数民族传统体育运动会每多少年举办一次",
+    "options": [
+      "4年",
+      "5年",
+      "3年",
+      "2年"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-131",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "完善民族区域自治的核心问题是",
+    "options": [
+      "培养、选拔和任用少数民族干部",
+      "加强民族团结",
+      "大力发展少数民族地区的经济",
+      "巩固民族关系"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-132",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "氏族与民族的根本区别是",
+    "options": [
+      "利益关系",
+      "经济关系",
+      "地域关系",
+      "血缘关系"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-133",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "西兰卡普是（）具有代表性的民间织品",
+    "options": [
+      "土家族",
+      "侗族",
+      "壮族",
+      "苗族"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-134",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "俗称的“披星戴月”是（）妇女的传统服饰",
+    "options": [
+      "蒙古族",
+      "白族",
+      "纳西族",
+      "苗族"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-135",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "不同部落结成民族的主要因素是",
+    "options": [
+      "共同反抗外来侵略",
+      "共同族源",
+      "共同心理认同",
+      "物质关系和利益"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-136",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "在哪个时期，周边的各族开始以“汉人”称呼中原人",
+    "options": [
+      "唐朝",
+      "汉代",
+      "炎帝和黄帝时期",
+      "春秋和战国时期"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-137",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "___发出了“中华人民共和国各民族团结起来”的伟大号召",
+    "options": [
+      "胡锦涛",
+      "邓小平",
+      "毛泽东",
+      "江泽民"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-138",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "私有制社会里产生民族问题的主要根源是",
+    "options": [
+      "社会因素",
+      "自然因素",
+      "文化因素",
+      "经济因素"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-139",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "在彝族家里做客，要坐在火塘的（）",
+    "options": [
+      "下方或左方",
+      "下方或右方",
+      "上方或右方",
+      "上方或左方"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-140",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "在社会主义时期，民族问题长期存在的主要原因是",
+    "options": [
+      "各民族的文化差异仍然存在",
+      "民族间的差异和发展差距不可能在短时期内消灭",
+      "各民族间在经济生活中还未实现共同富裕",
+      "社会主义时期阶级斗争在一定时期一定范围内仍然存在"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-141",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "下列哪个民族几乎全民信仰佛教",
+    "options": [
+      "赫哲族",
+      "藏族",
+      "东乡族",
+      "满族"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-142",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "我国社会主义制度的最大优势，同时也是解决我国民族问题的政治和思想保障就是",
+    "options": [
+      "坚持中国共产党的核心领导和马克思主义的指导思想",
+      "保证工人阶级的领导地位",
+      "坚持社会主义市场经济制度",
+      "坚持改革开放，坚持“两个文明一起抓”"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-143",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "下列民族中哪个是国务院确认的第55个少数民族？",
+    "options": [
+      "珞巴族",
+      "仫佬族",
+      "门巴族",
+      "基诺族"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-144",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "傣族竹楼是属于（）结构的建筑形式",
+    "options": [
+      "抬梁式",
+      "穿斗式",
+      "干栏式",
+      "井干式"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-145",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "民族问题产生的基本原因",
+    "options": [
+      "民族交往",
+      "民族差异",
+      "民族矛盾",
+      "民族的社会原因"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-146",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "马克思主义的平等思想是在批判地吸取了（）的平等和民族平等思想的合理内核，并对其进行了根本性的改造之后的产物。",
+    "options": [
+      "资产阶级",
+      "奴隶主阶级",
+      "封建地主阶级",
+      "无产阶级"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-147",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "内蒙古自治区成立于",
+    "options": [
+      "1947年",
+      "1950年",
+      "1949年",
+      "1948年"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-148",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "马克思和恩格斯合著的《神圣家族，或对批判的批判所作的批判》一文中，对唯心主义民族理论进行了批判，出版于",
+    "options": [
+      "1855",
+      "1840",
+      "1844",
+      "1848"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-149",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "在民族发展中，“同源异流”现象属于",
+    "options": [
+      "民族分化",
+      "民族强迫同化",
+      "民族自然同化",
+      "民族组合"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-150",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "火把节是（）的传统节日",
+    "options": [
+      "藏族",
+      "彝族",
+      "壮族",
+      "傣族"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-151",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "现阶段民族工作的主要任务，解决民族问题的根本途径是",
+    "options": [
+      "发展社会事业，提高民族素质",
+      "培养少数民族干部和人才资源开发",
+      "发展民族团结进步事业，维护国家统一",
+      "加快少数民族和民族地区经济社会发展"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-152",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "孙中山认为，造成民族的根本原因在于",
+    "options": [
+      "风俗习惯",
+      "自然力",
+      "血统",
+      "语言"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-153",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "三朵节是（）举行的祭拜三朵的传统节日",
+    "options": [
+      "白族",
+      "纳西族",
+      "苗族",
+      "黎族"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-154",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "黎族主要分布在我国的（）",
+    "options": [
+      "贵州省",
+      "四川省",
+      "云南省",
+      "海南省"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-155",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "民族平等团结是马克思主义处理民族问题的",
+    "options": [
+      "总政策",
+      "前提",
+      "根本原则",
+      "基本出发点"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-156",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "马克思主义的民族团结，具有特定的阶级内容，其核心是",
+    "options": [
+      "同一民族的无产阶级和资产阶级的团结",
+      "各民族的无产阶级和劳动人民的团结",
+      "同一民族的无产阶级的团结",
+      "各民族的无产阶级和资产阶级的团结"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-157",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "满族建立了一统全国将近三百年的清王朝，对祖国疆域的开拓和巩固做了的历史贡献除了下列哪项",
+    "options": [
+      "改革开放",
+      "统一了西南地区的行政管理体系",
+      "对西藏的社会进行了改革",
+      "统一台湾"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-158",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "我国民族众多，各民族都有自己的风俗习惯，以下民族节日与所属民族搭配不正确的是",
+    "options": [
+      "赛龙舟—汉族",
+      "泼水节—维吾尔族",
+      "那达慕大会—蒙古族",
+      "芦笙节—侗族、苗族"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-159",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "实行民族区域自治的关键是",
+    "options": [
+      "自治机关的设立和建设",
+      "自治权的行使",
+      "自治机关的民主化",
+      "自治机关的民族化"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-160",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "民族自治地方地广物博，面积占全国总面积的",
+    "options": [
+      "44%",
+      "64%",
+      "74%",
+      "54%"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-161",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "我国人口最多的少数民族是",
+    "options": [
+      "回族",
+      "满族",
+      "壮族",
+      "蒙古族"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-162",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "以下选项中不属于民族基本特征的是",
+    "options": [
+      "共同风俗习惯",
+      "共同地域",
+      "共同血统",
+      "共同语言"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "history-163",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "在少数民族的传统民居中，船形屋是（）的特色民居",
+    "options": [
+      "朝鲜族",
+      "黎族",
+      "土家族",
+      "壮族"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "history-164",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "东巴教为（）所信仰",
+    "options": [
+      "满族",
+      "白族",
+      "蒙古族",
+      "纳西族"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "history-165",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "首次将社会主义民族关系表述为“平等、团结、互助、和谐”的民族关系的是",
+    "options": [
+      "胡锦涛",
+      "邓小平",
+      "毛泽东",
+      "江泽民"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "history-166",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "下列少数民族中主要生活在我国四大牧区的是",
+    "options": [
+      "藏族、朝鲜族、高山族",
+      "哈萨克族、蒙古族、藏族",
+      "维吾尔族、壮族、侗族",
+      "蒙古族、土家族、苗族"
+    ],
+    "correctAnswer": 1
+  }
+]

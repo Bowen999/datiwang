@@ -1,0 +1,2024 @@
+[
+  {
+    "id": "food-001",
+    "category": "food",
+    "difficulty": "medium",
+    "question": "正宗兰州牛肉面讲究「一清二白三红四绿五黄」，其中「三红」指的是什么？",
+    "options": [
+      "番茄要红",
+      "枸杞要红",
+      "辣椒油要红",
+      "红枣要红"
+    ],
+    "correctAnswer": 2,
+    "explanation": "「三红」指的是油泼辣子红亮诱人。整套口诀是：汤清、萝卜白、辣子红、香菜蒜苗绿、面条黄亮，堪称牛肉面的「质检标准」。"
+  },
+  {
+    "id": "food-002",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "如今风行世界的寿司，最初发明时的主要作用是什么？",
+    "options": [
+      "利用米饭发酵产生的乳酸来保存鱼肉",
+      "方便渔民在船上快速用餐",
+      "作为祭祀海神的供品",
+      "掩盖不新鲜鱼肉的腥味"
+    ],
+    "correctAnswer": 0,
+    "explanation": "寿司的雏形是东南亚的「熟寿司」（なれずし）：鱼和盐、米饭层层叠放发酵，靠乳酸防腐。当时人们只吃鱼，发酵发酸的米饭直接扔掉。"
+  },
+  {
+    "id": "food-003",
+    "category": "food",
+    "difficulty": "medium",
+    "question": "以鲍鱼、海参、花胶等数十种食材煨于一坛的名菜「佛跳墙」，属于哪个菜系？",
+    "options": [
+      "粤菜",
+      "浙菜",
+      "鲁菜",
+      "闽菜"
+    ],
+    "correctAnswer": 3,
+    "explanation": "佛跳墙是闽菜头牌，诞生于清代福州聚春园。原名「福寿全」，因「坛启荤香飘四邻，佛闻弃禅跳墙来」的诗句而得此雅名。"
+  },
+  {
+    "id": "food-004",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "日本高级料理「怀石料理」中的「怀石」一词，最初是什么意思？",
+    "options": [
+      "在宴席中央摆放观赏名石",
+      "禅僧把温热的石头抱在怀里暖胃忍饥",
+      "厨师怀抱石臼捣磨食材",
+      "用石板作为盛放料理的器皿"
+    ],
+    "correctAnswer": 1,
+    "explanation": "据说古代禅僧修行时腹饥难耐，便把烤温的石头裹布抱在怀里暖胃，称为「温石」或「怀石」。怀石料理最初就是茶道前垫肚子的简朴餐食，分量点到为止。"
+  },
+  {
+    "id": "food-005",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "苏东坡写下「慢著火，少著水，火候足时它自美」的《猪肉颂》时，正被贬在哪里？",
+    "options": [
+      "杭州",
+      "惠州",
+      "黄州",
+      "儋州"
+    ],
+    "correctAnswer": 2,
+    "explanation": "苏轼被贬黄州时写下《猪肉颂》，开篇就是「黄州好猪肉，价贱如泥土」。他在杭州疏浚西湖时也以红烧肉犒劳民工，两地都与「东坡肉」渊源颇深。"
+  },
+  {
+    "id": "food-006",
+    "category": "food",
+    "difficulty": "medium",
+    "question": "汤色清澈如开水、实则用老母鸡火腿等吊出高汤的国宴名菜「开水白菜」，属于哪个菜系？",
+    "options": [
+      "川菜",
+      "淮扬菜",
+      "粤菜",
+      "鲁菜"
+    ],
+    "correctAnswer": 0,
+    "explanation": "别被清淡外表骗了——开水白菜是川菜名厨黄敬临的杰作，用鸡鸭火腿肘子反复「扫汤」吊出清澈高汤。川菜二十四味型里，一大半都不辣。"
+  },
+  {
+    "id": "food-007",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "闽菜有一道雅名「西施舌」的名菜，它的主料其实是什么？",
+    "options": [
+      "鸭舌",
+      "鲥鱼",
+      "蛏子",
+      "海蚌"
+    ],
+    "correctAnswer": 3,
+    "explanation": "「西施舌」用的是福建长乐漳港出产的海蚌，因蚌肉洁白柔嫩、形似人舌而得名。郁达夫曾盛赞它是福州菜中「色、香、味、形俱佳的神品」。"
+  },
+  {
+    "id": "food-008",
+    "category": "food",
+    "difficulty": "medium",
+    "question": "美食界常说的「世界三大菜系」，除了中国菜和法国菜，还有哪一个？",
+    "options": [
+      "意大利菜",
+      "土耳其菜",
+      "西班牙菜",
+      "印度菜"
+    ],
+    "correctAnswer": 1,
+    "explanation": "公认的说法是中餐、法餐、土耳其菜并称世界三大菜系。奥斯曼帝国横跨欧亚，宫廷御膳融会各方风味，烤肉、软糖、酸奶皆是其遗产。"
+  },
+  {
+    "id": "food-009",
+    "category": "food",
+    "difficulty": "medium",
+    "question": "能把豆腐切成细如发丝、穿针入水的「文思豆腐」，是哪个菜系的刀工代表作？",
+    "options": [
+      "鲁菜",
+      "川菜",
+      "淮扬菜",
+      "徽菜"
+    ],
+    "correctAnswer": 2,
+    "explanation": "文思豆腐是淮扬菜刀工的「天花板」，相传由清代扬州天宁寺文思和尚创制。一块嫩豆腐横竖各切近百刀，入汤后如菊花散开。"
+  },
+  {
+    "id": "food-010",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "日本的代表性料理「天妇罗」，其炸制技法最早是从哪个国家传入的？",
+    "options": [
+      "葡萄牙",
+      "中国",
+      "荷兰",
+      "西班牙"
+    ],
+    "correctAnswer": 0,
+    "explanation": "16 世纪葡萄牙传教士把裹面油炸的做法带到长崎，名称一般认为源自拉丁语「tempora」（斋戒期），当时守斋不能吃红肉，便油炸鱼虾蔬菜。"
+  },
+  {
+    "id": "food-011",
+    "category": "food",
+    "difficulty": "medium",
+    "question": "让川菜湘菜「无辣不欢」的辣椒，最早原产于哪里？",
+    "options": [
+      "中国西南地区",
+      "印度",
+      "地中海沿岸",
+      "美洲"
+    ],
+    "correctAnswer": 3,
+    "explanation": "辣椒原产于中南美洲，明代末年才经海路传入中国，最初还被当作观赏植物。换句话说，明代以前的四川人一辈子没吃过辣椒。"
+  },
+  {
+    "id": "food-012",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "日本科学家池田菊苗从海带汤中首次提炼出「鲜味」（umami），他发现的关键鲜味物质是什么？",
+    "options": [
+      "肌苷酸",
+      "谷氨酸",
+      "鸟苷酸",
+      "柠檬酸"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1908 年池田菊苗从昆布汤中提取出谷氨酸，并将这种味道命名为「鲜味」。顺带一提：鲣鱼干的鲜味主力是肌苷酸，香菇则是鸟苷酸。"
+  },
+  {
+    "id": "food-013",
+    "category": "food",
+    "difficulty": "medium",
+    "question": "云南名吃「过桥米线」的名字，据说源自一个怎样的故事？",
+    "options": [
+      "妻子给湖心岛上苦读的丈夫送饭，发现鸡汤表面的油膜能保温",
+      "米线细长如桥面，吃的时候要从碗上「过桥」",
+      "商人挑担过桥时不小心把汤面混在一起，意外美味",
+      "赶考书生必须在过桥之前吃完才能中举"
+    ],
+    "correctAnswer": 0,
+    "explanation": "相传蒙自南湖有位秀才在湖心岛苦读，妻子送饭要过一座桥，发现鸡汤表面的鸡油像「锅盖」一样锁住了热气，米线、肉片现烫现吃，「过桥米线」由此得名。"
+  },
+  {
+    "id": "food-014",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "如今被视为法国国民面包的可颂（牛角包），其新月形前身最早诞生于哪里？",
+    "options": [
+      "法国巴黎",
+      "比利时布鲁塞尔",
+      "意大利威尼斯",
+      "奥地利维也纳"
+    ],
+    "correctAnswer": 3,
+    "explanation": "可颂的祖师爷是奥地利的 Kipferl（新月面包），相传与维也纳击退奥斯曼帝国有关——新月正是奥斯曼旗帜上的图案。后来它传入法国，才进化成今天层层起酥的模样。"
+  },
+  {
+    "id": "food-015",
+    "category": "food",
+    "difficulty": "medium",
+    "question": "中国传统「八大菜系」名声在外，下面哪个菜系并不在八大菜系之列？",
+    "options": [
+      "湘菜",
+      "徽菜",
+      "赣菜",
+      "浙菜"
+    ],
+    "correctAnswer": 2,
+    "explanation": "八大菜系是鲁、川、粤、苏、闽、浙、湘、徽，江西菜（赣菜）不在其中。其实赣菜嗜辣程度不输川湘，只是一直比较低调。"
+  },
+  {
+    "id": "food-016",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "川菜名菜「宫保鸡丁」里的「宫保」二字，指的到底是什么？",
+    "options": [
+      "清代名臣丁宝桢的荣誉官衔「太子少保」",
+      "宫中御膳房主管的职位名",
+      "一种四川特产的干辣椒品种",
+      "对太监总管的尊称"
+    ],
+    "correctAnswer": 0,
+    "explanation": "丁宝桢曾任山东巡抚、四川总督，因功勋被追赠「太子少保」，人称「丁宫保」。他酷爱的炒鸡丁随其名号流传，写作「宫保鸡丁」，常被误写成「宫爆」。"
+  },
+  {
+    "id": "food-017",
+    "category": "food",
+    "difficulty": "medium",
+    "question": "成都名菜「夫妻肺片」里通常不包含下列哪种原料？",
+    "options": [
+      "牛头皮",
+      "牛舌",
+      "牛肚",
+      "牛肺"
+    ],
+    "correctAnswer": 3,
+    "explanation": "夫妻肺片里根本没有肺！它原名「夫妻废片」，用的是牛头皮、牛心、牛舌、牛肚等边角料切片拌制，因「废」字不雅才谐音改成「肺」。"
+  },
+  {
+    "id": "food-018",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "广式早茶的虾饺有着晶莹剔透的外皮，这层面皮主要用什么原料制成？",
+    "options": [
+      "糯米粉",
+      "木薯粉",
+      "澄面（小麦淀粉）",
+      "大米粉"
+    ],
+    "correctAnswer": 2,
+    "explanation": "虾饺皮的主角是澄面——把小麦面粉洗去面筋后剩下的纯淀粉，烫熟擀皮后蒸出来透明如玉，常掺少量生粉增加韧性。这也是它半透明口感的来源。"
+  },
+  {
+    "id": "food-019",
+    "category": "food",
+    "difficulty": "medium",
+    "question": "煎牛排、烤面包时那层诱人的焦香和金黄色外壳，主要来自哪种化学反应？",
+    "options": [
+      "美拉德反应",
+      "蛋白质凝固反应",
+      "淀粉糊化反应",
+      "乳酸发酵反应"
+    ],
+    "correctAnswer": 0,
+    "explanation": "食物中的氨基酸与还原糖在高温下发生美拉德反应，产生上百种香气物质和褐色外壳。这也是烤肉比水煮肉香的科学原因。"
+  },
+  {
+    "id": "food-020",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "最正宗的瓦伦西亚 Paella（俗称西班牙海鲜饭），传统配方里的主角其实是什么？",
+    "options": [
+      "大虾和青口贝",
+      "兔肉、鸡肉和豆角",
+      "龙虾和鱿鱼",
+      "墨鱼汁和鱼肉"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Paella 本是瓦伦西亚农夫在田间的户外饭，传统配方用兔肉、鸡肉、豆角和利马豆，压根没有海鲜。海鲜版是后来在沿海地区的「魔改」，西班牙人对「正宗」之争至今不休。"
+  },
+  {
+    "id": "food-021",
+    "category": "food",
+    "difficulty": "medium",
+    "question": "相传由乞丐用泥土裹鸡煨烤发明的「叫花鸡」，是哪里的传统名菜？",
+    "options": [
+      "山东德州",
+      "江苏常熟",
+      "广东梅州",
+      "河南开封"
+    ],
+    "correctAnswer": 1,
+    "explanation": "叫花鸡是江苏常熟名菜，属苏菜。做法讲究用荷叶包好嫩鸡、外裹酒坛泥煨烤数小时，敲开泥壳香气四溢，连金庸都在《射雕英雄传》里让它出了名。"
+  },
+  {
+    "id": "food-022",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "顶级金华火腿讲究选用一种特定本土猪种的后腿，它是哪种猪？",
+    "options": [
+      "藏香猪",
+      "金华两头乌",
+      "宁乡花猪",
+      "巴马香猪"
+    ],
+    "correctAnswer": 1,
+    "explanation": "金华火腿的传统原料是「两头乌」——头和臀黑、躯干白，皮薄骨细、肌肉间脂肪均匀，被称为「中华熊猫猪」。它可是有上千年养殖历史的名贵猪种。"
+  },
+  {
+    "id": "food-023",
+    "category": "food",
+    "difficulty": "medium",
+    "question": "如今被视为日本饮食名片的拉面，追根溯源最早来自哪里？",
+    "options": [
+      "日本本土原创",
+      "朝鲜半岛",
+      "东南亚群岛",
+      "中国"
+    ],
+    "correctAnswer": 3,
+    "explanation": "拉面源自中国面食，近代经横滨等地的中华街传入日本，早期就叫「中华面」。后来日本各地发展出豚骨、味噌、酱油等流派，又火回了全世界。"
+  },
+  {
+    "id": "food-024",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "今天超市货架上常见的瓶装「咖喱粉」，其实最早是哪国人发明的产品？",
+    "options": [
+      "印度人",
+      "英国人",
+      "日本人",
+      "泰国人"
+    ],
+    "correctAnswer": 1,
+    "explanation": "印度家庭做菜讲究按菜现配现磨香料，本没有固定的「咖喱粉」。是英国殖民者为了把印度风味方便地带回国，把混合香料制成粉末商品化；日式咖喱块走的又是从英国传入的海军路线。"
+  },
+  {
+    "id": "food-025",
+    "category": "food",
+    "difficulty": "medium",
+    "question": "巧克力的原料可可豆原产中美洲，当地的玛雅人、阿兹特克人最初是怎么享用它的？",
+    "options": [
+      "烤熟磨粉做成甜点蛋糕",
+      "加糖凝固成块状零食",
+      "磨碎后加水和辣椒打成苦味饮料",
+      "发酵后酿成烈酒"
+    ],
+    "correctAnswer": 2,
+    "explanation": "古代中美洲人把可可豆磨碎，加水、辣椒和玉米粉打成起泡的苦味饮料，纳瓦特尔语称「xocolatl」，意为「苦水」——加糖做成固体甜食，那是欧洲人后来的发明。"
+  },
+  {
+    "id": "food-026",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "麻婆豆腐、回锅肉这些下饭神器，是哪个菜系的招牌菜？",
+    "options": [
+      "湘菜",
+      "徽菜",
+      "川菜",
+      "鲁菜"
+    ],
+    "correctAnswer": 2,
+    "explanation": "麻婆豆腐是川菜头牌，相传由清代成都「陈麻婆」创制，讲究麻、辣、烫、香、酥、嫩、鲜、活八大特点，一勺下去米饭遭殃。"
+  },
+  {
+    "id": "food-027",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "始创于清代、以「挂炉烤鸭」闻名全国的北京老字号是哪家？",
+    "options": [
+      "便宜坊",
+      "全聚德",
+      "同仁堂",
+      "内联升"
+    ],
+    "correctAnswer": 1,
+    "explanation": "全聚德创立于清同治三年（1864 年），主打挂炉烤鸭；同为烤鸭名店的便宜坊走的是焖炉路线。同仁堂卖药、内联升做鞋，可别端上桌了。"
+  },
+  {
+    "id": "food-028",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "芝麻酱拌得香气扑鼻的「热干面」，是哪座城市的招牌早餐？",
+    "options": [
+      "长沙",
+      "成都",
+      "南京",
+      "武汉"
+    ],
+    "correctAnswer": 3,
+    "explanation": "热干面是武汉人「过早」（吃早餐）的灵魂，面条先煮至八成熟、拌油摊凉，吃前烫热再拌上芝麻酱、萝卜丁和酸豆角。"
+  },
+  {
+    "id": "food-029",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "闻着「上头」、吃着真香的螺蛳粉，是广西哪个城市的特产？",
+    "options": [
+      "柳州",
+      "桂林",
+      "南宁",
+      "梧州"
+    ],
+    "correctAnswer": 0,
+    "explanation": "螺蛳粉是柳州名小吃，汤头用螺蛳加香料熬制，酸笋正是那股「谜之气味」的来源。它已从街边摊火成年销数百亿的袋装产业。"
+  },
+  {
+    "id": "food-030",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "广东人冬天爱喊上朋友「打边炉」，指的是干什么？",
+    "options": [
+      "围炉烤红薯",
+      "去茶楼喝早茶",
+      "围坐一起涮火锅",
+      "在街边吃炭火烧烤"
+    ],
+    "correctAnswer": 2,
+    "explanation": "「打边炉」就是粤语里的吃火锅，因众人围坐炉边涮食而得名。广东边炉讲究清汤底、生猛海鲜和「鲜」字当头。"
+  },
+  {
+    "id": "food-031",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "鱼香肉丝里其实没有鱼，那「鱼香」味是怎么来的？",
+    "options": [
+      "加鱼汤提鲜",
+      "起锅前淋鱼露",
+      "盘子先垫烤过的鱼",
+      "用泡椒、姜蒜、糖、醋调出烹鱼风味"
+    ],
+    "correctAnswer": 3,
+    "explanation": "鱼香味型源自四川民间烹鱼的调味法：泡辣椒、姜、蒜、糖、醋、酱油按比例配合，没有鱼却能吃出「鱼香」，和「老婆饼里没老婆」一个道理。"
+  },
+  {
+    "id": "food-032",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "风靡全球的披萨（比萨），发源于意大利的哪座城市？",
+    "options": [
+      "罗马",
+      "那不勒斯",
+      "米兰",
+      "威尼斯"
+    ],
+    "correctAnswer": 1,
+    "explanation": "披萨的故乡是那不勒斯，经典的玛格丽特披萨用番茄、马苏里拉奶酪和罗勒，恰好凑成意大利国旗的红白绿三色。"
+  },
+  {
+    "id": "food-033",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "咖啡酒香混着马斯卡彭奶酪的经典甜点「提拉米苏」，是哪个国家的发明？",
+    "options": [
+      "法国",
+      "奥地利",
+      "意大利",
+      "西班牙"
+    ],
+    "correctAnswer": 2,
+    "explanation": "提拉米苏是意大利甜点，名字在意大利语里意为「带我走／让我振作」，据说是因为咖啡加可可的组合能瞬间提神。"
+  },
+  {
+    "id": "food-034",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "从这些饮食思想出发，中国人选择了“五谷为养、五果为助、五畜为益、五菜为充” 为饮食结 构，其中“五果”是指",
+    "options": [
+      "李、杏、枣、桃、栗",
+      "李、杏、蕉、橘、柿",
+      "李、杏、枣、桃、柿",
+      "李、杏、蕉、桃、栗"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-035",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "我国酒器之多，种类之繁，造形之美，堪为世界之冠。商周时期酒器尤为复杂，其中不包括",
+    "options": [
+      "盛酒器",
+      "饮酒器",
+      "分酒器",
+      "煮酒器"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-036",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "伊尹与商汤关于烹调方面的对话，就是饮食文化史上最早的文献",
+    "options": [
+      "《吕氏春秋·本味》",
+      "《论语·乡党》",
+      "《尚书·酒诰》",
+      "《礼记·内则》"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-037",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "现代宴会礼仪不包括",
+    "options": [
+      "宴会饮酒礼仪",
+      "吃甜品礼仪",
+      "宴会饮食方礼仪",
+      "饮茶礼仪礼仪"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-038",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "下列菜肴中，不属于淮扬菜名菜的是",
+    "options": [
+      "三套鸭",
+      "蟹粉狮子头",
+      "大煮干丝",
+      "汤爆双脆"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-039",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "从这些饮食思想出发，中国人选择了“五谷为养、五果为助、五畜为益、五菜为充”为饮食结构， 其中“五畜”是指",
+    "options": [
+      "牛、羊、猪、鸡、犬",
+      "牛、羊、鹅、鸡、鸭",
+      "牛、羊、兔、鸡、鸭",
+      "牛、羊、猪、鸡、鸭"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-040",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "下列不属于随园菜特点的是",
+    "options": [
+      "注重原料选择和搭配",
+      "讲究色、香、味、形、器及进食艺术",
+      "极其讲究富贵和滋补",
+      "注重筵席"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-041",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "下列不属于液态介质导热制熟的方法的是",
+    "options": [
+      "氽溜",
+      "白焯",
+      "蒸馏",
+      "炸烹"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-042",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "满族传统名菜有",
+    "options": [
+      "黄氏蒸鸡",
+      "莲花鸡签",
+      "一品锅",
+      "白肉血汤"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-043",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "首先研制“红楼菜肴〞，打出“红楼宴〞牌子的是",
+    "options": [
+      "南京的金陵饭店",
+      "北京的红楼饭庄",
+      "北京的来今雨轩饭庄",
+      "扬州的西园大酒店"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-044",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "“火腿炖甲鱼”，口味鲜香、营养全面，是哪个菜系中的名菜",
+    "options": [
+      "浙菜",
+      "湘菜",
+      "闽菜",
+      "徽菜"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-045",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "对于新科进士，唐宋时代都按例赐宴，称为",
+    "options": [
+      "“闻喜宴”",
+      "“曲江宴”（唐进士）",
+      "“谢师宴”",
+      "“恩荣宴”(明清)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-046",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "下列属于扬州“三头宴”中的一道菜的是",
+    "options": [
+      "白血海参",
+      "葵花献肉",
+      "葫芦鸡",
+      "奶汤锅鱼"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-047",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "风靡全国的烤羊肉串和被誉为十全大补饭的“抓饭”，色香味俱佳的烤全羊，属于（）的美食",
+    "options": [
+      "苗族",
+      "哈萨克族",
+      "维吾尔族",
+      "朝鲜族"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-048",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "传统名菜“松鼠桂鱼”是典型的",
+    "options": [
+      "川菜",
+      "粤菜",
+      "淮扬菜",
+      "鲁菜"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-049",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "以清香、鲜嫩、味佳而著称的是",
+    "options": [
+      "粤菜",
+      "川菜",
+      "鲁菜",
+      "淮扬菜"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-050",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "白酒是用酒曲及酒药酿出的酒再经过蒸馏，得到的酒度较高的蒸馏酒。据考证，中国人何时发明了白酒",
+    "options": [
+      "西汉时期",
+      "南宋时期",
+      "西周时期",
+      "三国时期"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-051",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "在明清两代的文人宴上，用以检测文人的学识与机敏程度的是",
+    "options": [
+      "曲水流觞令",
+      "四书令",
+      "投壶令",
+      "射覆令"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-052",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "我国啤酒最早出现在",
+    "options": [
+      "明代",
+      "清代",
+      "民国时期",
+      "新中国成立后"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-053",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "相传，豆腐的发明者是西汉的",
+    "options": [
+      "刘彻",
+      "刘安",
+      "刘荣",
+      "刘秀"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-054",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "面粉不可以制作以下哪种传统食物",
+    "options": [
+      "米糕",
+      "花卷",
+      "馒头",
+      "饼"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-055",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "西汉时期文学作品《七发》描述了大量淮扬风味菜肴，其作者是",
+    "options": [
+      "司马相如",
+      "枚乘",
+      "张衡",
+      "刘勰"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-056",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "在菜肴色系中，能给人以素洁、软嫩、清淡之感，被他色映衬时，则给人以鲜美的味觉启示， 通常是",
+    "options": [
+      "绿色",
+      "黄色",
+      "红色",
+      "白色"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-057",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "口味以辛辣爽口、脆嫩鲜香为主，烹调方法多采用生拌是哪个民族的饮食文化",
+    "options": [
+      "朝鲜族",
+      "维吾尔族",
+      "满族",
+      "土家族"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-058",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "广式面点的代表品种之一是",
+    "options": [
+      "五芳斋粽子",
+      "翡翠烧卖",
+      "拨鱼面",
+      "叉烧包"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-059",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "传统名菜“干烧岩鲤”是典型的",
+    "options": [
+      "粤菜",
+      "鲁菜",
+      "川菜",
+      "淮扬菜"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-060",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "标志着明清时期人情小说的问世，使得饮食描写进入了一个全新的阶段的作品是",
+    "options": [
+      "《喻世名言》",
+      "《红楼梦》",
+      "《金瓶梅》",
+      "《西游记》"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-061",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "中国饮食的内容的是",
+    "options": [
+      "饮食文化的民族个性",
+      "饮食文化的物质层面",
+      "饮食文化的精神层面",
+      "饮食文化的时代特征"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-062",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "下列茶叶中， 按加工工艺依次为不发酵、半发酵和全发酵的是",
+    "options": [
+      "太湖碧螺春， 铁观音， 祁红",
+      "黄山毛峰， 君山银针， 宣红",
+      "银针白豪， 乌龙菜， 单枞",
+      "西湖龙井， 水仙， 大红袍"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-063",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "中国传统认为开门七件事中不包括什么",
+    "options": [
+      "茶酒",
+      "柴米",
+      "油盐",
+      "酱醋"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-064",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "最终与动物划清界限、使人类从此告别了茹毛饮血的饮食生活的重要标志是",
+    "options": [
+      "以汽蒸食",
+      "用鼎熟食",
+      "用火熟食",
+      "以水煮食"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-065",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "我国由分餐到合食转变的最终形成是在",
+    "options": [
+      "唐宋时期",
+      "两汉时期",
+      "南北朝时期",
+      "明清时期"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-066",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "阐述禁食自死物、血液和猪肉的原因时说“因为它们确是不洁的”的经典是",
+    "options": [
+      "《道德经》",
+      "《华严经》",
+      "《古兰经》",
+      "《金刚经》"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-067",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "馒头的首创者据民间传说是",
+    "options": [
+      "孔子",
+      "杜甫",
+      "诸葛亮",
+      "李白"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-068",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "下列菜系既是北方菜的基又是御膳组成部分的是",
+    "options": [
+      "徽菜",
+      "川菜",
+      "鲁菜",
+      "浙菜"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-069",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "我国最早的食疗专论是",
+    "options": [
+      "《随园食单》",
+      "《千金要方》",
+      "《备急千金要方》",
+      "《食疗本草》"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-070",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "冬季人体最容易感受寒邪，为保护人体阳气，可多进食温热食品如",
+    "options": [
+      "苦瓜",
+      "百合",
+      "羊肉",
+      "海带"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-071",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "“夫礼之初，始诸饮食”这句话出自",
+    "options": [
+      "《礼记》",
+      "《周礼》",
+      "《仪礼》",
+      "《论语》"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-072",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "有 “ 一菜一格 ， 百菜百味 ” 之美誉的是",
+    "options": [
+      "苏菜",
+      "川菜",
+      "鲁菜",
+      "粤菜"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-073",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "具有“银丝条、螺旋形、浑身毛〞的特色，素有“一嫩三鲜〞美誉的茶叶指的是",
+    "options": [
+      "龙井茶",
+      "太平猴魁",
+      "白毫银针",
+      "碧螺春"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-074",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "以烹制山珍野味著称，讲究火工，火大油重，保持原汁原味，比较实惠的是",
+    "options": [
+      "京菜",
+      "皖菜",
+      "沪菜",
+      "豫菜"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-075",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "传统名菜“佛跳墙〞在风味上属于",
+    "options": [
+      "广东风味",
+      "安徽风味",
+      "福建风味",
+      "浙江风味"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-076",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "周代的宴会种类繁多，其中亲朋好友之间的宴饮被称为",
+    "options": [
+      "乡饮酒礼",
+      "射礼",
+      "燕礼",
+      "献礼"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-077",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "“驴打滚”是哪里的著名风味小吃",
+    "options": [
+      "山东",
+      "陕西",
+      "天津",
+      "北京"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-078",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "作为民族风味食品的“冷面”，属",
+    "options": [
+      "傣族菜",
+      "彝族菜",
+      "苗族菜",
+      "朝鲜族菜"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-079",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "重要节日喜吃年糕的我国少数民族是",
+    "options": [
+      "鄂伦春族",
+      "蒙古族",
+      "朝鲜族",
+      "赫哲族"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-080",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "“火候”是饮食文化的一个重要名词，最初起源于",
+    "options": [
+      "伊斯兰教活动",
+      "道教活动",
+      "基督教活动",
+      "佛教活动"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-081",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "在中国比较正确的上菜礼应该是",
+    "options": [
+      "水果-凉菜-汤-热炒-主食-点心",
+      "凉菜-热炒-大菜-汤-主食-水果",
+      "凉菜-主食-汤-热菜-水果-点心",
+      "汤-凉菜-热菜-主食-点心-水果"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-082",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "关于我国饮食发展阶段，叙述最为正确的是",
+    "options": [
+      "生食-熟食-生食",
+      "熟食-生食-熟食",
+      "产生之处就是生熟食共同出现",
+      "生食-熟食-多样化的烹饪"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-083",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "在下列菜肴香味搭配中，合适的搭配是",
+    "options": [
+      "葱、椒、姜、桂之香，多配瓜果",
+      "鲜花香气馥郁，多配甜食、洒露汤羹",
+      "酒糟之香醇浓，多配五谷糕饵",
+      "薄荷龙脑之香，多用于腥物"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-084",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "关于我国饮食发展阶段的叙述，最为正确的是",
+    "options": [
+      "火烹期-陶烹期-铁烹期-铜烹期",
+      "火烹期-铜烹期-陶烹期-铁烹期",
+      "陶烹期-火烹期-铜烹期-铁烹期",
+      "火烹期-陶烹期-铜烹期-铁烹期"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-085",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "在菜肴色系中，会损害味感，但运用得当能给人以淡雅、脱俗之趣，是",
+    "options": [
+      "紫色",
+      "绿色",
+      "白色",
+      "黄色"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-086",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "佛教将饮食从欲望、摄取、执著的角度分为四类饮食需求。第一是饮食需求段食，第二是触食，第三是思食，最后是",
+    "options": [
+      "欲食",
+      "禁食",
+      "乞食",
+      "识食"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-087",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "素有“一菜一格，百菜百味”之称的菜肴体系是",
+    "options": [
+      "鲁菜",
+      "豫菜",
+      "苏菜",
+      "川菜"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-088",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "中国主要菜肴风味体系中黄河文化流域中不包括的",
+    "options": [
+      "四川菜",
+      "山东菜",
+      "河南菜",
+      "北京菜"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-089",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "不属于中国主要菜肴风味体系的",
+    "options": [
+      "黄河文化流域",
+      "松花江文化流域",
+      "长江文化流域",
+      "珠江文化流域"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-090",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "在下列菜肴香味搭配中，不合适的搭配是",
+    "options": [
+      "白芷之香，宜配豚蟹",
+      "蒜薤之香，宜配重腥等",
+      "茵香、丁香，多与冷冻、水晶类莱希配伍",
+      "油脂乳酥之香，多用于热烹之食物"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-091",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "三蛇龙虎会、鱼香肉丝、生熘鱼片分别属于",
+    "options": [
+      "广东菜、四川菜、湖南菜",
+      "湖南菜、山东菜、四川菜",
+      "广东菜、湖南菜、四川菜",
+      "四川菜、广东菜、山东菜"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-092",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "我国古代由分食到合食转变的时间大致是",
+    "options": [
+      "明清时期",
+      "秦汉时期",
+      "三国时期",
+      "唐宋时期"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-093",
+    "category": "food",
+    "difficulty": "easy",
+    "question": "粤菜主要覆盖在",
+    "options": [
+      "长江下游地区",
+      "珠江流域",
+      "长江中游地区",
+      "黄河流域"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-094",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "煎炸食物时油温不宜过高的原因是",
+    "options": [
+      "以上说法均",
+      "油温过高容易使油产生“哈喇味”",
+      "容易使被煎炸食物的口感不好",
+      "油温过高使油产生对人体有害的物质"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-095",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "为了满足微生物生长，发酵可以通过三个因素控制，因此下列选项除了",
+    "options": [
+      "盐浓度",
+      "温度",
+      "湿度",
+      "pH"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-096",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "软罐头的包装最常用的是",
+    "options": [
+      "PA/PVDC",
+      "PET/Al/PP",
+      "PET/PA/PE",
+      "PET/PP"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-097",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "食品中的水分活度值应",
+    "options": [
+      "≤1",
+      "≥1",
+      "≤0.1",
+      "10～100"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-098",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "D值与细菌带菌量",
+    "options": [
+      "无关",
+      "有关",
+      "带菌量多D值大",
+      "带菌量多D值小"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-099",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "食品科学依托的基础学科主要是",
+    "options": [
+      "化学学科",
+      "以上全部",
+      "生物学科",
+      "工程学科"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-100",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "将啤酒花加入麦芽汁，要煮沸，煮沸的目的除了下列",
+    "options": [
+      "杀死微生物",
+      "浓缩液体",
+      "灭活酶",
+      "溶解啤酒花"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-101",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "现代的食品供应链较之前也发生了变化，商务部大力推广",
+    "options": [
+      "农户直销",
+      "分散化经营",
+      "农商对接",
+      "粗放生产"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-102",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "食品辐照用的辐照源主要采用",
+    "options": [
+      "X射线",
+      "以上全部",
+      "铀235",
+      "钴60"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-103",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "下列选项不属于抑菌剂的是",
+    "options": [
+      "丙酸钙",
+      "苯甲酸",
+      "抗坏血酸",
+      "苯甲酸钠"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-104",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "由于田螺生存在淤泥中，有容易致病的",
+    "options": [
+      "病毒",
+      "微生物",
+      "寄生虫",
+      "化工污染"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-105",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "辐照的方法不包括",
+    "options": [
+      "微波",
+      "可见光",
+      "紫外线",
+      "X射线"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-106",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "食品安全标准的性质是",
+    "options": [
+      "鼓励性标准",
+      "强制性标准",
+      "引导性标准",
+      "自愿性标准"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-107",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "中国食品工业产值占世界食品工业产值的比例是",
+    "options": [
+      "10%",
+      "15%",
+      "30%",
+      "3%"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-108",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "解决铁听罐头铅超标的方法有",
+    "options": [
+      "采用素铁罐",
+      "采用电阻焊罐",
+      "采用涂料铁",
+      "采用锡焊罐"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-109",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "食品干制过程的核心问题是",
+    "options": [
+      "品质变化",
+      "水分转移",
+      "湿热转移",
+      "水分梯度"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-110",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "人工脱水技术中最常用的方法是",
+    "options": [
+      "滚筒干燥",
+      "真空干燥",
+      "晒干",
+      "空气对流干燥"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-111",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "盐渍保藏方法要求食盐溶液的浓度应在多少以上",
+    "options": [
+      "10%",
+      "15%",
+      "20%",
+      "25%"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-112",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "下列物质中，可以用来吸附乙烯的是",
+    "options": [
+      "高锰酸钾",
+      "消石灰",
+      "碳酸钾",
+      "碱溶液"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-113",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "蛋白质约占人体重量的",
+    "options": [
+      "20%",
+      "10%",
+      "25%",
+      "15%"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-114",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "目前发酵工业大多数采用（）来制备大量的无菌空气",
+    "options": [
+      "静电除菌",
+      "射线灭菌",
+      "加热灭菌",
+      "介质过滤除菌"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-115",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "痢疾杆菌很耐寒，在冰块中能生存",
+    "options": [
+      "三个月",
+      "半年",
+      "一年",
+      "一个月"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-116",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "食品质量安全市场准入标志“QS”表示的含义是",
+    "options": [
+      "符合标准",
+      "认证标志",
+      "以上都是",
+      "质量安全"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-117",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "不属于冰淇淋加工步骤的是",
+    "options": [
+      "硬化",
+      "老化",
+      "凝冻",
+      "护色"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-118",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "下列选项不是维生素A的活性形式的是",
+    "options": [
+      "视黄醛",
+      "视黄酮",
+      "视黄醇",
+      "视黄酸"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-119",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "在常量凯氏定氮法消化过程中，加入哪种物质会起到提高溶液沸点的作用",
+    "options": [
+      "氧化汞",
+      "硫酸钾",
+      "硒粉",
+      "硫酸铜"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-120",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "在脂类测定中以下哪项不属于溶剂萃取法",
+    "options": [
+      "巴布科克法",
+      "索氏提取法",
+      "碱性乙醚提取法",
+      "酸性乙醚提取法"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-121",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "罐装食品中最耐热性最强的微生物是",
+    "options": [
+      "大肠杆菌",
+      "肉毒梭状芽孢杆菌",
+      "沙门氏菌",
+      "乳酸菌"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-122",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "水俣病是什么中毒引起的",
+    "options": [
+      "砷",
+      "氰",
+      "苯",
+      "汞"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-123",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "下列矿物质中属于常量矿物质的是",
+    "options": [
+      "钠",
+      "碘",
+      "铁",
+      "锌"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-124",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "《中华人民共和国食品安全法实施条例》是根据什么制定",
+    "options": [
+      "《中华人民共和国食品安全法》",
+      "《中华人民共和国反不正当竞争法》",
+      "《中华人民共和国民法通则》",
+      "《中华人民共和国消费者权益保护法》"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-125",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "钙的最好食物来源是",
+    "options": [
+      "豆类和豆制品",
+      "水",
+      "乳和乳制品",
+      "蔬菜"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-126",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "金属罐圆罐编号按",
+    "options": [
+      "外径外高",
+      "内径外高",
+      "内径内高",
+      "外径内高"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-127",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "《散装食品卫生管理规范》中的散装食品是指",
+    "options": [
+      "需清洗后加工的原粮",
+      "新鲜果蔬",
+      "需清洗后加工的鲜冻畜禽产品和水产品",
+      "无预包装的食品、食品原料及加工半成品"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-128",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "我们吃的最多的转基因的食品是",
+    "options": [
+      "水果",
+      "蔬菜",
+      "花生",
+      "大豆"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-129",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "以下关于优质酱油的错误说法是",
+    "options": [
+      "优质酱油，有酱香味",
+      "优质酱油粘稠性较大",
+      "摇动瓶子不挂瓶的酱油为优质酱油",
+      "优质酱油呈红褐色或棕色"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-130",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "喷雾干燥的喷雾系统生产上主要有",
+    "options": [
+      "气流喷雾",
+      "压力喷雾",
+      "以上全部",
+      "离心喷雾"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-131",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "食品中大部分细菌繁殖的适宜温度是",
+    "options": [
+      "高于10°C",
+      "10°C至60°C",
+      "低于10°C",
+      "高于60°C"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-132",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "同一种食品在进行热交换过程中，热交换速度最快的是",
+    "options": [
+      "不受形状限制",
+      "颗粒型",
+      "薄片状",
+      "条型"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-133",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "食品杀菌时间的计算方法有",
+    "options": [
+      "图解法",
+      "以上全部",
+      "求和法",
+      "公式法"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-134",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "液氮喷淋冻结在冻结速度上属于",
+    "options": [
+      "中速冻结",
+      "快速冻结",
+      "以上全部",
+      "缓慢冻结"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-135",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "在面糊和面团的混合工程中通常的目标不包括",
+    "options": [
+      "淀粉的黏度",
+      "成分的均一分布",
+      "针对不同的产品生成适当面筋",
+      "发酵剂的损失最小"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-136",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "影响食品中微生物生长的主要因素不包括",
+    "options": [
+      "微生物种类",
+      "贮藏温度",
+      "氧气",
+      "水分"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-137",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "下列选项属于B族维生素的是",
+    "options": [
+      "视黄醛",
+      "生育酚",
+      "核黄素",
+      "胆固醇"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-138",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "副溶血性弧菌引起的食源性疾病占人群的",
+    "options": [
+      "0.055",
+      "0.025",
+      "0.015",
+      "0.035"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-139",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "利乐包纸容器的消毒采用",
+    "options": [
+      "过氧化氢",
+      "蒸汽",
+      "过热蒸汽",
+      "紫外线"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-140",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "2004年我国食品工业总产值为",
+    "options": [
+      "16000亿元左右",
+      "6000亿元左右",
+      "10000亿元左右",
+      "1000亿元左右"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-141",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "果蔬通过冷藏延长保存期的主要原理是",
+    "options": [
+      "果蔬的呼吸热值随冷藏温度的下降而下降",
+      "在冷藏温度下，致腐微生物的繁殖生长受到了抑制",
+      "在冷藏温度下，果蔬的水分散失变得缓慢",
+      "冷藏必须和气调保藏相结合"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-142",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "在食物的运输过程中，容易发生的问题是",
+    "options": [
+      "食品变质",
+      "食品损伤",
+      "食品中毒",
+      "食品损耗"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-143",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "新鲜肉中肌红蛋白的存在形式是",
+    "options": [
+      "氧合型肌红蛋白",
+      "一氧化氮肌红蛋白",
+      "还原型肌红蛋白",
+      "氧化型肌红蛋白"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-144",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "食品最主要的特点是",
+    "options": [
+      "滋味和气味",
+      "外观",
+      "色泽",
+      "营养和易消化"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-145",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "罐头排气最常用的排气方法是",
+    "options": [
+      "加热排气",
+      "蒸汽喷射",
+      "真空排气",
+      "热罐装"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-146",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "下列属于必需脂肪酸的是",
+    "options": [
+      "亚油酸",
+      "软脂酸",
+      "硬脂酸",
+      "DHA"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "food-147",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "在由微生物引起的食品腐败中，引起变质最为显著的因素是",
+    "options": [
+      "真菌",
+      "放线菌",
+      "细菌",
+      "病毒"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-148",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "对肉毒杆菌的杀菌应做到",
+    "options": [
+      "20D",
+      "6D",
+      "3D",
+      "12D"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-149",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "维生素是维持肌体健康所必需的一类低分子有机化合物，通常分为脂溶性和",
+    "options": [
+      "油溶性",
+      "脂肪",
+      "水溶性",
+      "有机溶剂"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "food-150",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "决定食品安全的相对性的因素不包括",
+    "options": [
+      "食用者本身",
+      "食品本身",
+      "外来不良因素",
+      "生态环境"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-151",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "国际上采用的标准商业冻藏温度是",
+    "options": [
+      "－5°C",
+      "－10°C",
+      "－30°C",
+      "－18°C"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "food-152",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "以下哪一个与蟹肉同属寒凉之物，若二者同食，易伤肠胃，导致腹泻等症，对身体健康不利",
+    "options": [
+      "花生",
+      "茄子",
+      "胡萝卜",
+      "小白菜"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "food-153",
+    "category": "food",
+    "difficulty": "hard",
+    "question": "下列属于鞍山市食品安全委员会成员单位的是",
+    "options": [
+      "市工商局",
+      "以上全部都是",
+      "市质监局",
+      "市卫生局"
+    ],
+    "correctAnswer": 1
+  }
+]

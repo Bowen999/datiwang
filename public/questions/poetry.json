@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "poetry-001",
+    "category": "poetry",
+    "difficulty": "medium",
+    "question": "「天生我材必有用，千金散尽还复来」出自李白的哪首诗？",
+    "options": [
+      "《行路难》",
+      "《蜀道难》",
+      "《将进酒》",
+      "《梦游天姥吟留别》"
+    ],
+    "correctAnswer": 2,
+    "explanation": "出自《将进酒》，和「君不见黄河之水天上来，奔流到海不复回」是同一篇，堪称李白最豪放的劝酒歌。"
+  },
+  {
+    "id": "poetry-002",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "苏轼曾以「郊寒岛瘦」评价两位中唐诗人的诗风，这两位诗人是谁？",
+    "options": [
+      "孟郊与贾岛",
+      "孟浩然与贾岛",
+      "孟郊与李贺",
+      "韩愈与孟郊"
+    ],
+    "correctAnswer": 0,
+    "explanation": "出自苏轼《祭柳子玉文》「元轻白俗，郊寒岛瘦」，指孟郊清寒、贾岛瘦硬。注意孟浩然是盛唐山水田园诗人，和孟郊不是一个人。"
+  },
+  {
+    "id": "poetry-003",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "《楚辞》作为中国文学史上第一部浪漫主义诗歌总集，是由谁辑录成书的？",
+    "options": [
+      "屈原",
+      "刘向",
+      "宋玉",
+      "王逸"
+    ],
+    "correctAnswer": 1,
+    "explanation": "西汉刘向辑录屈原、宋玉等人作品编成《楚辞》；东汉王逸则是为其作注，写成最早的注本《楚辞章句》。"
+  },
+  {
+    "id": "poetry-004",
+    "category": "poetry",
+    "difficulty": "medium",
+    "question": "「但愿人长久，千里共婵娟」中的「婵娟」指的是什么？",
+    "options": [
+      "美丽的女子",
+      "盛开的桂花",
+      "故乡的亲人",
+      "天上的明月"
+    ],
+    "correctAnswer": 3,
+    "explanation": "「婵娟」此处指明月。苏轼这首《水调歌头》写于中秋，小序明说「兼怀子由」，是想念弟弟苏辙的。"
+  },
+  {
+    "id": "poetry-005",
+    "category": "poetry",
+    "difficulty": "medium",
+    "question": "李白字太白，他的号是？",
+    "options": [
+      "香山居士",
+      "青莲居士",
+      "东坡居士",
+      "易安居士"
+    ],
+    "correctAnswer": 1,
+    "explanation": "李白号青莲居士。其余几位别张冠李戴：白居易号香山居士，苏轼号东坡居士，李清照号易安居士。"
+  },
+  {
+    "id": "poetry-006",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "「曾经沧海难为水，除却巫山不是云」是元稹为悼念谁而写的？",
+    "options": [
+      "挚友白居易",
+      "传奇笔下的崔莺莺",
+      "亡妻韦丛",
+      "才女薛涛"
+    ],
+    "correctAnswer": 2,
+    "explanation": "出自《离思五首·其四》，是元稹悼念元配妻子韦丛之作；名篇《遣悲怀》「诚知此恨人人有，贫贱夫妻百事哀」同样为她而写。"
+  },
+  {
+    "id": "poetry-007",
+    "category": "poetry",
+    "difficulty": "medium",
+    "question": "「海内存知己，天涯若比邻」的作者是谁？",
+    "options": [
+      "王勃",
+      "王维",
+      "骆宾王",
+      "陈子昂"
+    ],
+    "correctAnswer": 0,
+    "explanation": "出自王勃《送杜少府之任蜀州》，一反送别诗的悲悲切切，写得胸襟开阔，是送别诗中的千古名句。"
+  },
+  {
+    "id": "poetry-008",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列哪位诗人不在「初唐四杰」之列？",
+    "options": [
+      "王勃",
+      "杨炯",
+      "骆宾王",
+      "陈子昂"
+    ],
+    "correctAnswer": 3,
+    "explanation": "初唐四杰是王勃、杨炯、卢照邻、骆宾王。陈子昂稍晚，以《登幽州台歌》「前不见古人，后不见来者」闻名。"
+  },
+  {
+    "id": "poetry-009",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "《诗经》按音乐性质分为「风、雅、颂」三部分，其中「颂」指的是什么？",
+    "options": [
+      "各地采集的民间歌谣",
+      "宗庙祭祀时用的乐歌",
+      "君臣宴饮时的应酬诗",
+      "描写战争徭役的怨刺诗"
+    ],
+    "correctAnswer": 1,
+    "explanation": "「风」是各地民歌，「雅」是周王朝的正声雅乐（分大雅、小雅），「颂」则是宗庙祭祀的乐歌。《诗经》共305篇，所以又叫「诗三百」。"
+  },
+  {
+    "id": "poetry-010",
+    "category": "poetry",
+    "difficulty": "medium",
+    "question": "李清照「知否，知否？应是绿肥红瘦」中的「绿肥红瘦」，写的是什么花？",
+    "options": [
+      "牡丹",
+      "桃花",
+      "海棠",
+      "蔷薇"
+    ],
+    "correctAnswer": 2,
+    "explanation": "出自《如梦令·昨夜雨疏风骤》，前句「试问卷帘人，却道海棠依旧」已点明是海棠；「绿肥红瘦」形容雨后叶茂花稀。"
+  },
+  {
+    "id": "poetry-011",
+    "category": "poetry",
+    "difficulty": "medium",
+    "question": "「无边落木萧萧下，不尽长江滚滚来」出自杜甫的哪首诗？",
+    "options": [
+      "《春望》",
+      "《蜀相》",
+      "《望岳》",
+      "《登高》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "出自《登高》，写于杜甫晚年夔州重阳节登高时，明代胡应麟推此诗为「古今七言律第一」。"
+  },
+  {
+    "id": "poetry-012",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "「春风得意马蹄疾，一日看尽长安花」是孟郊在什么情境下写下的？",
+    "options": [
+      "进士及第之后",
+      "洞房花烛之夜",
+      "贬官离京途中",
+      "暮年归乡之时"
+    ],
+    "correctAnswer": 0,
+    "explanation": "出自孟郊《登科后》。他屡试不第，年近半百才考中进士，狂喜之下挥就此诗，「登科」即科举考中之意。"
+  },
+  {
+    "id": "poetry-013",
+    "category": "poetry",
+    "difficulty": "medium",
+    "question": "陶渊明「采菊东篱下，悠然见南山」中的「南山」，一般认为指的是哪座山？",
+    "options": [
+      "泰山",
+      "庐山",
+      "终南山",
+      "衡山"
+    ],
+    "correctAnswer": 1,
+    "explanation": "出自《饮酒·其五》。陶渊明隐居在浔阳柴桑（今江西九江），家门口望见的「南山」就是庐山，他可说是最早的「庐山推广大使」。"
+  },
+  {
+    "id": "poetry-014",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "刘禹锡「旧时王谢堂前燕，飞入寻常百姓家」中的「王谢」，指的是东晋哪两大豪门？",
+    "options": [
+      "王羲之家族与谢灵运家族",
+      "王敦家族与谢朓家族",
+      "王戎家族与谢庄家族",
+      "王导家族与谢安家族"
+    ],
+    "correctAnswer": 3,
+    "explanation": "出自《乌衣巷》。王导、谢安是东晋两大顶级士族，乌衣巷正是他们的宅邸所在；「王与马，共天下」说的就是王家的权势。"
+  },
+  {
+    "id": "poetry-015",
+    "category": "poetry",
+    "difficulty": "medium",
+    "question": "「羌笛何须怨杨柳，春风不度玉门关」的作者是哪位边塞诗人？",
+    "options": [
+      "王之涣",
+      "王昌龄",
+      "王翰",
+      "岑参"
+    ],
+    "correctAnswer": 0,
+    "explanation": "出自王之涣《凉州词》。传说王之涣与王昌龄、高适「旗亭画壁」赌诗，歌女最后唱的正是这首，王之涣因此扬眉吐气。"
+  },
+  {
+    "id": "poetry-016",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "李贺名句「昆山玉碎凤凰叫，芙蓉泣露香兰笑」，描写的是哪种乐器的绝妙演奏？",
+    "options": [
+      "琵琶",
+      "古筝",
+      "箜篌",
+      "洞箫"
+    ],
+    "correctAnswer": 2,
+    "explanation": "出自《李凭箜篌引》，赞美乐师李凭弹奏箜篌技艺神妙。箜篌是古老的弹弦乐器，形似竖琴，一度失传，现代经仿制才重回舞台。"
+  },
+  {
+    "id": "poetry-017",
+    "category": "poetry",
+    "difficulty": "medium",
+    "question": "秦观「两情若是久长时，又岂在朝朝暮暮」这首词，咏叹的是哪个传统节日？",
+    "options": [
+      "元宵节",
+      "中秋节",
+      "重阳节",
+      "七夕节"
+    ],
+    "correctAnswer": 3,
+    "explanation": "出自《鹊桥仙·纤云弄巧》，咏牛郎织女七夕相会。别人写离别都哀婉，秦观偏说真爱不怕聚少离多，格局一下就打开了。"
+  },
+  {
+    "id": "poetry-018",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "杜甫的现实主义名篇合称「三吏三别」，下列哪一篇不属于「三吏」？",
+    "options": [
+      "《新安吏》",
+      "《新婚别》",
+      "《石壕吏》",
+      "《潼关吏》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "「三吏」是《新安吏》《石壕吏》《潼关吏》，「三别」是《新婚别》《无家别》《垂老别》，都写于安史之乱期间，堪称「诗史」的代表。"
+  },
+  {
+    "id": "poetry-019",
+    "category": "poetry",
+    "difficulty": "medium",
+    "question": "苏轼《念奴娇·赤壁怀古》中「羽扇纶巾，谈笑间，樯橹灰飞烟灭」，描写的是哪位三国人物？",
+    "options": [
+      "诸葛亮",
+      "曹操",
+      "周瑜",
+      "陆逊"
+    ],
+    "correctAnswer": 2,
+    "explanation": "写的是周公瑾，前文明说「遥想公瑾当年，小乔初嫁了」。「羽扇纶巾」后来常被误当成诸葛亮的专利，其实最早是苏轼给周瑜的造型。"
+  },
+  {
+    "id": "poetry-020",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "李贺人称「诗鬼」，而以苦吟著称、被元好问称为「诗囚」的诗人是谁？",
+    "options": [
+      "孟郊",
+      "刘长卿",
+      "韦应物",
+      "柳宗元"
+    ],
+    "correctAnswer": 0,
+    "explanation": "元好问《放言》有「长沙一湘累，郊岛两诗囚」，「郊岛」即孟郊、贾岛。孟郊作诗呕心沥血，自封「夜学晓未休，苦吟神鬼愁」，「诗囚」之名由此而来。"
+  },
+  {
+    "id": "poetry-021",
+    "category": "poetry",
+    "difficulty": "medium",
+    "question": "写下「问君能有几多愁？恰似一江春水向东流」的李煜，其身份是？",
+    "options": [
+      "南唐中主",
+      "南唐后主",
+      "后蜀后主",
+      "陈后主"
+    ],
+    "correctAnswer": 1,
+    "explanation": "李煜是南唐末代国君，史称「南唐后主」，他的父亲李璟是「南唐中主」。据说这首《虞美人》正是他的绝命词，写完不久便被宋太宗赐死。"
+  },
+  {
+    "id": "poetry-022",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列哪句诗不是出自王维之手？",
+    "options": [
+      "行到水穷处，坐看云起时",
+      "明月松间照，清泉石上流",
+      "人闲桂花落，夜静春山空",
+      "荷风送香气，竹露滴清响"
+    ],
+    "correctAnswer": 3,
+    "explanation": "「荷风送香气，竹露滴清响」出自孟浩然《夏日南亭怀辛大》。其余三句分别是王维《终南别业》《山居秋暝》《鸟鸣涧》中的名句。"
+  },
+  {
+    "id": "poetry-023",
+    "category": "poetry",
+    "difficulty": "medium",
+    "question": "杨万里「接天莲叶无穷碧，映日荷花别样红」，描写的是哪里的夏日风光？",
+    "options": [
+      "武汉东湖",
+      "南京玄武湖",
+      "杭州西湖",
+      "济南大明湖"
+    ],
+    "correctAnswer": 2,
+    "explanation": "出自《晓出净慈寺送林子方》，净慈寺就坐落在杭州西湖南岸。诗题是送别友人，全篇却只顾着夸西湖六月的荷花，朋友表示很受伤。"
+  },
+  {
+    "id": "poetry-024",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "「疏影横斜水清浅，暗香浮动月黄昏」被誉为咏物绝唱，它咏的是什么花？",
+    "options": [
+      "菊花",
+      "梅花",
+      "兰花",
+      "水仙"
+    ],
+    "correctAnswer": 1,
+    "explanation": "出自北宋林逋《山园小梅》。林逋隐居西湖孤山，终身不仕不娶，自称「以梅为妻，以鹤为子」，「梅妻鹤子」说的就是他。"
+  },
+  {
+    "id": "poetry-025",
+    "category": "poetry",
+    "difficulty": "medium",
+    "question": "辛弃疾「醉里挑灯看剑，梦回吹角连营」这首《破阵子》，是题赠给哪位好友的？",
+    "options": [
+      "陈亮",
+      "陆游",
+      "朱熹",
+      "岳飞"
+    ],
+    "correctAnswer": 0,
+    "explanation": "词题全称《为陈同甫赋壮词以寄之》，「陈同甫」即主战派词人陈亮。两人曾鹅湖相会纵谈恢复大计，是志同道合的抗金战友。"
+  },
+  {
+    "id": "poetry-026",
+    "category": "poetry",
+    "difficulty": "easy",
+    "question": "「床前明月光，疑是地上霜」的下两句是？",
+    "options": [
+      "举杯邀明月，对影成三人",
+      "海上生明月，天涯共此时",
+      "举头望明月，低头思故乡",
+      "明月几时有，把酒问青天"
+    ],
+    "correctAnswer": 2,
+    "explanation": "出自李白《静夜思》，据说是全世界流传最广的唐诗。其他三个选项也都是「明月」名局：李白《月下独酌》、张九龄《望月怀远》、苏轼《水调歌头》。"
+  },
+  {
+    "id": "poetry-027",
+    "category": "poetry",
+    "difficulty": "easy",
+    "question": "「谁知盘中餐，粒粒皆辛苦」这首《悯农》的作者是谁？",
+    "options": [
+      "李绅",
+      "李白",
+      "杜甫",
+      "白居易"
+    ],
+    "correctAnswer": 0,
+    "explanation": "作者是唐代诗人李绅。讽刺的是，他后来官越做越大、生活日渐奢靡，传说吃鸡舌一顿要杀几百只鸡，早忘了自己写过的「粒粒皆辛苦」。"
+  },
+  {
+    "id": "poetry-028",
+    "category": "poetry",
+    "difficulty": "easy",
+    "question": "「白日依山尽，黄河入海流」的下两句是？",
+    "options": [
+      "海内存知己，天涯若比邻",
+      "会当凌绝顶，一览众山小",
+      "不识庐山真面目，只缘身在此山中",
+      "欲穷千里目，更上一层楼"
+    ],
+    "correctAnswer": 3,
+    "explanation": "出自王之涣《登鹳雀楼》。鹳雀楼在今山西永济，因为这首诗成了名楼，「更上一层楼」也变成了日常祝福语。"
+  },
+  {
+    "id": "poetry-029",
+    "category": "poetry",
+    "difficulty": "easy",
+    "question": "唐代诗人中，被后人尊称为「诗仙」的是谁？",
+    "options": [
+      "杜甫",
+      "李白",
+      "白居易",
+      "王维"
+    ],
+    "correctAnswer": 1,
+    "explanation": "李白是「诗仙」，杜甫是「诗圣」，两人合称「李杜」。顺便说，白居易叫「诗魔」，王维叫「诗佛」，诗坛外号一家人整整齐齐。"
+  },
+  {
+    "id": "poetry-030",
+    "category": "poetry",
+    "difficulty": "easy",
+    "question": "「春眠不觉晓，处处闻啼鸟」这首《春晓》出自谁之手？",
+    "options": [
+      "王维",
+      "贺知章",
+      "孟浩然",
+      "柳宗元"
+    ],
+    "correctAnswer": 2,
+    "explanation": "作者是孟浩然，山水田园派代表人物。他和王维并称「王孟」，李白还是他的迷弟，专门写过「吾爱孟夫子，风流天下闻」。"
+  },
+  {
+    "id": "poetry-031",
+    "category": "poetry",
+    "difficulty": "easy",
+    "question": "「离离原上草，一岁一枯荣」的下两句是？",
+    "options": [
+      "野火烧不尽，春风吹又生",
+      "远芳侵古道，晴翠接荒城",
+      "国破山河在，城春草木深",
+      "天街小雨润如酥，草色遥看近却无"
+    ],
+    "correctAnswer": 0,
+    "explanation": "出自白居易《赋得古原草送别》，传说这是他十六岁时的应试习作，名士顾况读到此句大为叹服，白居易从此名声大振。"
+  },
+  {
+    "id": "poetry-032",
+    "category": "poetry",
+    "difficulty": "easy",
+    "question": "骆宾王七岁时写下《咏鹅》，「鹅，鹅，鹅」的下一句是？",
+    "options": [
+      "白毛浮绿水",
+      "红掌拨清波",
+      "曲项歌明月",
+      "曲项向天歌"
+    ],
+    "correctAnswer": 3,
+    "explanation": "全诗是「鹅，鹅，鹅，曲项向天歌。白毛浮绿水，红掌拨清波」。这位神童后来加入「初唐四杰」，还写过讨伐武则天的檄文。"
+  },
+  {
+    "id": "poetry-033",
+    "category": "poetry",
+    "difficulty": "easy",
+    "question": "「两个黄鹂鸣翠柳，一行白鹭上青天」的作者是谁？",
+    "options": [
+      "李白",
+      "杜甫",
+      "王之涣",
+      "杜牧"
+    ],
+    "correctAnswer": 1,
+    "explanation": "出自杜甫《绝句》，写于他寓居成都草堂期间。全诗四句两两对仗，黄鹂、翠柳、白鹭、青天，颜色搭配堪比壁纸。"
+  },
+  {
+    "id": "poetry-034",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "按照传统的“六书”体例，“吹”字应属",
+    "options": [
+      "会意",
+      "指事",
+      "象形",
+      "形声"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "poetry-035",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "“辟”和“避”的关系是",
+    "options": [
+      "繁简字",
+      "通假字",
+      "古今字",
+      "异体字"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "poetry-036",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列句中，有名词用作动词的一句是",
+    "options": [
+      "女股肱周室，以夾輔先王。",
+      "我醉，汝道苦我，何故?",
+      "單于使使曉武，會論虞常，欲因此時降武。",
+      "公子纠敗，召忽死之。"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "poetry-037",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列句中，“是”充当判断句系词的一句是",
+    "options": [
+      "客人不知其是商君也。",
+      "臣聞七十里爲政於天下者，湯是也。",
+      "故外戶而不閉，是謂大同。",
+      "輕死而暴，是小人之勇也。"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "poetry-038",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "大汶口文化中发现有四个与早期汉字结构相似的图形符号，这几个符号属于大汶口文化早期，距今约（）年至5000年",
+    "options": [
+      "3000",
+      "2000",
+      "4500",
+      "40000"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "poetry-039",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列各组字中是古今字关系的是",
+    "options": [
+      "错措",
+      "沽酤",
+      "置寘",
+      "睹親"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "poetry-040",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "“关雎乐而不淫，哀而不伤。”中的“淫”意思是",
+    "options": [
+      "不正当的",
+      "浸润",
+      "过分、过度",
+      "淫邪"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "poetry-041",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "“说文四大家”中注重分析字义来源和发展的是",
+    "options": [
+      "王筠",
+      "朱骏声",
+      "桂馥",
+      "段玉裁"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "poetry-042",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "“要”和“腰”之间的关系是",
+    "options": [
+      "异体字",
+      "古今字",
+      "通假字",
+      "古音同"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "poetry-043",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列各组字中属于古今字关系的是",
+    "options": [
+      "见－现征－徵解－懈",
+      "奉－俸景－影文－纹",
+      "立－位县－悬雕－凋",
+      "益－溢然－燃干－乾"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "poetry-044",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "“子墨子之守圉有余”（《墨子•公输》），其中的“守圉”即“守御”，“圉”和“御”是",
+    "options": [
+      "异体字",
+      "古今字",
+      "繁简字",
+      "通假字"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "poetry-045",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列句子，属于用判断句的形式表示原因的一句是",
+    "options": [
+      "蓋公之所能者天也，其所不能者人也。",
+      "吾不能早用子，今急而求子，是寡人之過也。",
+      "民多曠者，而我取富焉，是勤民以自封也。",
+      "桓公九合諸侯，不以兵車，管仲之力也。"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "poetry-046",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列句中，“爲”表示被动的一句是",
+    "options": [
+      "以此爲治，豈不悲哉!",
+      "鮑叔終善遇之，不以爲言。",
+      "誰習計會?能爲文收責于薛者乎?",
+      "今君聽讒人之議而不知我，西河之爲秦取不久矣。"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "poetry-047",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "“十年之计，莫如树木。”中，“树木”的意思是",
+    "options": [
+      "树",
+      "种树",
+      "树木和木材",
+      "就是“树木”"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "poetry-048",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "汉字笔画的最后定型，是在",
+    "options": [
+      "行书阶段",
+      "汉隶阶段",
+      "楷书阶段",
+      "古隶阶段"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "poetry-049",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "《经传释词》的作者是",
+    "options": [
+      "王引之",
+      "张玉书",
+      "许慎",
+      "阮元"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "poetry-050",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列各组字，属于异体字关系的一组是",
+    "options": [
+      "並一竝",
+      "暴一曝",
+      "置—寘",
+      "錫一賜"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "poetry-051",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "“太后之色少解”中“色”指",
+    "options": [
+      "怒色",
+      "颜色",
+      "品种",
+      "妇女美貌"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "poetry-052",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列各句中的黑体词其古今词义的发展变化属于词义扩大的是",
+    "options": [
+      "笑从双脸生。",
+      "祈父，予王之爪牙。",
+      "交通王侯。",
+      "同心之言，其臭如兰。"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "poetry-053",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列句中加点词与例句“童子隅坐而执烛”用法不同的是",
+    "options": [
+      "其后秦稍蚕食魏。",
+      "舜勤于民事而野死。",
+      "良庖岁更刀，割也。",
+      "子路拱而立。"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "poetry-054",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列句子，属于主谓倒装句的一句是",
+    "options": [
+      "甚矣古書之難讀也。",
+      "吾以子爲異之問，曾由舆求之問。",
+      "此可謂知義舆不義之别乎?",
+      "古今所傳，不可誣也。"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "poetry-055",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列句中，动词宾语省略的一句是",
+    "options": [
+      "數日不死，匈奴以爲神。",
+      "人皆有兄弟，我獨無。",
+      "諸生業患不能精，無患有司之不明。",
+      "可輿言而不輿之言，失人。"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "poetry-056",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列句中，含有双宾语的一句是",
+    "options": [
+      "夫晉何厭之有?",
+      "重爲之禮而歸之。",
+      "兔不可復得，而身爲宋國笑。",
+      "甚矣，汝之不惠!"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "poetry-057",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列例句“防”字用其本义的是",
+    "options": [
+      "以防止水。",
+      "吾闻忠善以损怨，不闻作威以防怨。",
+      "以礼义防民。",
+      "视俗而施教，察失而立防。"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "poetry-058",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "“征”和“徵”的关系是",
+    "options": [
+      "繁简字",
+      "古今字",
+      "异体字",
+      "通假字"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "poetry-059",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列句中，数词表示约数的一句是",
+    "options": [
+      "夫諸侯上象四七，垂耀在天。",
+      "秋水才深四五尺，野航恰受兩三人。",
+      "棗栗千石者三之。",
+      "長不滿七尺，滑稽多辩。"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "poetry-060",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列各组汉字，象形字、指事字、会意字、形声字四种都有的一组是",
+    "options": [
+      "止末行锦",
+      "皿亦眉疆",
+      "目曰戒哀",
+      "又甘受朝"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "poetry-061",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列句中加点的词在古今词义的演变中属于词义扩大的是",
+    "options": [
+      "我稼既同，上入执宫功。",
+      "空谷传响，哀转久绝。",
+      "夸父与日逐走。",
+      "小大之狱，虽不能察，必以情。"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "poetry-062",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列四组字中，全是会意字的一组是",
+    "options": [
+      "采明北晶",
+      "治星炊信",
+      "自文蚕进",
+      "耳林从解"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "poetry-063",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列各组字中，象形、指事、会意、形声都具备的一组是",
+    "options": [
+      "馬初産亦",
+      "息法刃本",
+      "匪穎止末",
+      "未向耆湟"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "poetry-064",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列句中，有名词作状语的一句是",
+    "options": [
+      "故天下盡以扁鵲爲能生死人。",
+      "今先生儼然不遠千里而庭教之，願以異日。",
+      "今媪尊長安君之位。",
+      "是故明君貴五縠而賤金玉。"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "poetry-065",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列四组形声字中，属左形右声的一组是",
+    "options": [
+      "滑株鸠功",
+      "郊胡鸽邵",
+      "攻期江棋",
+      "河诂语超"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "poetry-066",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列形声字的结构分类正确的一项是()a桃b雅c洗d室e篇f贼g颖h彩",
+    "options": [
+      "ac/bh/de/fg",
+      "ab/ch/de/fg",
+      "abcg/de/fh",
+      "abc/de/fgh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "poetry-067",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "“干”和“乾”的关系是",
+    "options": [
+      "繁简字",
+      "通假字",
+      "古今字",
+      "异体字"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "poetry-068",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "“孝公既见卫鞅，语事良久，孝公时时睡，弗听。”中的“睡”意思是",
+    "options": [
+      "睡醒",
+      "睡觉",
+      "坐着打盹",
+      "睡着"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "poetry-069",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列四组字中，全是形声字的一组是",
+    "options": [
+      "斧行财国",
+      "固颁旗锦",
+      "病师姑甲",
+      "马偷逃布"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "poetry-070",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "“视而可识，察而见意”解释的汉字结构类型是",
+    "options": [
+      "指事",
+      "会意",
+      "象形",
+      "转注"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "poetry-071",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "在商代金文中，字体笔画的明显特征是",
+    "options": [
+      "块面笔画",
+      "平直笔画",
+      "方折笔画",
+      "线条笔画"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "poetry-072",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列各组字，关系为异体字的是",
+    "options": [
+      "翦—剪",
+      "佗—他",
+      "反—返",
+      "说—悦"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "poetry-073",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列古注类别中，既解释经文又解释前人注文的注释类型是",
+    "options": [
+      "传注类",
+      "补注类",
+      "音义类",
+      "章句类"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "poetry-074",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列句中，宾语借助代词复指而前置的一句是",
+    "options": [
+      "何爲棄墳井，在山谷爲寇也?",
+      "大道之行也，輿三代之英，丘未之逮也。",
+      "我無爾詐，爾無我虞。",
+      "其一人專心致志，惟奕秋之爲聽。"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "poetry-075",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列句中，有动词使动用法的一句是",
+    "options": [
+      "既而舆為公介，倒戟以禦公徒而免之。",
+      "此理之常，無足怪者。",
+      "孔子登東山而小魯，登泰山而小天下。",
+      "良馬可形容筋骨相也。"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "poetry-076",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列句中，括号中词意义解释正确的一句是",
+    "options": [
+      "於是惠子恐，搜於國中三日三夜。(國：诸侯国)",
+      "兵刃既接，棄甲曳兵而走。(既：既然)",
+      "雖有高城深池，嚴法重刑，猶不能禁也。(城：城墙)",
+      "不虞君之涉吾地也。(虞：防备)"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "poetry-077",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列各组字，全都是指事字的一组是",
+    "options": [
+      "向舂高",
+      "匪星上",
+      "大止匍",
+      "刃本末"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "poetry-078",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列句中括号左边的字与括号中的字是分化字关系的一句是",
+    "options": [
+      "少益耆(嗜)食，和於身也。",
+      "或令孺子懷錢挈壺壅(瓮)而往酤。",
+      "以官服事，以勞殿(奠)賞，量功而分禄。",
+      "為酒甚美，縣(懸)幟甚高，然而不售，酒酸。"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "poetry-079",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "按照传统的“六书”体例，“星”字应属",
+    "options": [
+      "会意",
+      "象形",
+      "形声",
+      "指事"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "poetry-080",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列古注术语中，与“讀若”功能不相同的是",
+    "options": [
+      "讀破",
+      "讀如",
+      "讀近",
+      "讀似"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "poetry-081",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "已知我国最早的成系统的文字是",
+    "options": [
+      "战国文字",
+      "秦朝小篆",
+      "殷商甲骨文",
+      "西周金文"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "poetry-082",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列句中“莫”的用法与其它三个不同的是",
+    "options": [
+      "吾有老父，身死莫之养也。",
+      "保民而王，莫之能御也。",
+      "过而能改，善莫大焉。",
+      "君有疾病见于面，莫多饮酒。"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "poetry-083",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列例句“道”字用其本义的是",
+    "options": [
+      "臣之所好者，道也，进乎技矣。",
+      "从许子之道，则市价不贰，国中无伪。",
+      "邦有道则仕，邦无道则隐",
+      "民扶老携幼，迎君道中。"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "poetry-084",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列例句“问”字用其本义的是",
+    "options": [
+      "昭王南征而不复，寡人是问。",
+      "既而羁寓京师，久无家问。",
+      "昭王之不复，君其问诸水滨。",
+      "伯牛有疾，子问之。"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "poetry-085",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "按照传统的“六书”体例，“策”字应属",
+    "options": [
+      "象形",
+      "指事",
+      "形声",
+      "会意"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "poetry-086",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列句中加点的词使用了本义的是",
+    "options": [
+      "孟春之月，东风解冻。",
+      "是何异于刺人而杀之。",
+      "君子引而不发。",
+      "五色令人目盲。"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "poetry-087",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "根据字形分析，“朝”字的本义应该是",
+    "options": [
+      "早上省视父母、君王",
+      "早晨",
+      "朝见，朝拜",
+      "朝廷"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "poetry-088",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列句子，属于判断句的一句是",
+    "options": [
+      "古今所傳，不可誣也。",
+      "颍考叔爲颍谷封人。",
+      "是非君子之言也。",
+      "蟹六跪而二螯。"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "poetry-089",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "“北”是一个（）字。",
+    "options": [
+      "指事",
+      "象形",
+      "形声",
+      "会意"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "poetry-090",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "“姜氏何厌之有?不如早为之所，无使滋蔓，蔓，难图也。”下列有关说法错误的是",
+    "options": [
+      "“无”与“勿”是古今字。",
+      "两个“之”用法不同。",
+      "“为之所”是双宾语句。",
+      "“何厌之有”是宾语前置句。"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "poetry-091",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列各句中加点的词其古今词义的发展变化属词义扩大的是",
+    "options": [
+      "治其事故。",
+      "孝公时时睡，弗听。",
+      "孟尝君使人给其食用，无使乏。",
+      "弥子之妻与子路之妻，兄弟也。"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "poetry-092",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "根据字形分析，“时”字的本义应该是",
+    "options": [
+      "时常",
+      "时间",
+      "季节",
+      "时机"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "poetry-093",
+    "category": "poetry",
+    "difficulty": "hard",
+    "question": "下列各组字，属于分化字关系的一组是",
+    "options": [
+      "毫—豪",
+      "受一授",
+      "游一遊",
+      "灾一災"
+    ],
+    "correctAnswer": 1
+  }
+]

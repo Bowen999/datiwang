@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "science-004",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "太阳系中体积最大的行星是？",
+    "options": [
+      "土星",
+      "木星",
+      "天王星",
+      "海王星"
+    ],
+    "correctAnswer": 1,
+    "explanation": "木星质量约为其他七颗行星总和的 2.5 倍，能装下 1300 多个地球。"
+  },
+  {
+    "id": "science-005",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "人类基因组中，正常体细胞有多少对染色体？",
+    "options": [
+      "21 对",
+      "22 对",
+      "23 对",
+      "24 对"
+    ],
+    "correctAnswer": 2,
+    "explanation": "人体细胞有 23 对共 46 条染色体，其中第 23 对决定性别。"
+  },
+  {
+    "id": "science-006",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "声音在下列哪种介质中传播速度最快？",
+    "options": [
+      "空气",
+      "水",
+      "钢铁",
+      "真空"
+    ],
+    "correctAnswer": 2,
+    "explanation": "声音在固体中传播最快，钢铁中约 5200 米/秒；真空中无法传声。"
+  },
+  {
+    "id": "science-007",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "提出广义相对论的科学家是？",
+    "options": [
+      "牛顿",
+      "爱因斯坦",
+      "玻尔",
+      "霍金"
+    ],
+    "correctAnswer": 1,
+    "explanation": "爱因斯坦于 1915 年发表广义相对论，把引力解释为时空的弯曲。"
+  },
+  {
+    "id": "science-008",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "下列哪种粒子被称为「上帝粒子」？",
+    "options": [
+      "夸克",
+      "中微子",
+      "希格斯玻色子",
+      "光子"
+    ],
+    "correctAnswer": 2,
+    "explanation": "希格斯玻色子解释了基本粒子如何获得质量，2012 年在欧洲大型强子对撞机中被发现。"
+  },
+  {
+    "id": "science-009",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "困扰数学界三百多年的「费马大定理」，最终由哪位数学家证明？",
+    "options": [
+      "安德鲁·怀尔斯",
+      "格里戈里·佩雷尔曼",
+      "陶哲轩",
+      "库尔特·哥德尔"
+    ],
+    "correctAnswer": 0,
+    "explanation": "英国数学家怀尔斯 1995 年正式发表证明，他为此闭门研究了七年；佩雷尔曼证明的是另一个著名难题——庞加莱猜想。"
+  },
+  {
+    "id": "science-010",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "地壳中含量最多的金属元素是？",
+    "options": [
+      "铁",
+      "钙",
+      "铝",
+      "钠"
+    ],
+    "correctAnswer": 2,
+    "explanation": "地壳元素含量排名是氧、硅、铝、铁，铝约占 8%，是金属中的第一名。"
+  },
+  {
+    "id": "science-011",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "植物光合作用释放的氧气，主要来自哪种原料？",
+    "options": [
+      "二氧化碳",
+      "葡萄糖",
+      "叶绿素",
+      "水"
+    ],
+    "correctAnswer": 3,
+    "explanation": "氧气来自水的光解而非二氧化碳，科学家用氧的同位素示踪实验证实了这一点。"
+  },
+  {
+    "id": "science-012",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "人类发现的第一颗围绕类太阳恒星运行的系外行星是？",
+    "options": [
+      "比邻星b",
+      "飞马座51b",
+      "开普勒-452b",
+      "TRAPPIST-1e"
+    ],
+    "correctAnswer": 1,
+    "explanation": "飞马座51b 于 1995 年被发现，发现者马约尔和奎洛兹因此获得 2019 年诺贝尔物理学奖。"
+  },
+  {
+    "id": "science-013",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "人体最大的器官是？",
+    "options": [
+      "肝脏",
+      "肠道",
+      "皮肤",
+      "大脑"
+    ],
+    "correctAnswer": 2,
+    "explanation": "皮肤摊开约有 1.5 到 2 平方米，重达数公斤；肝脏只是最大的内脏器官。"
+  },
+  {
+    "id": "science-014",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "薛定谔提出「薛定谔的猫」这个思想实验，初衷是？",
+    "options": [
+      "讽刺哥本哈根诠释把叠加态推广到宏观世界的荒谬",
+      "证明量子纠缠真实存在",
+      "证明人的意识可以坍缩波函数",
+      "论证平行宇宙必然存在"
+    ],
+    "correctAnswer": 0,
+    "explanation": "薛定谔 1935 年设计这个实验，是想说明「猫既死又活」有多荒唐，结果它反而成了量子力学最著名的科普形象。"
+  },
+  {
+    "id": "science-015",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "人类历史上第一位进入太空的女性是？",
+    "options": [
+      "萨莉·赖德",
+      "瓦莲京娜·捷列什科娃",
+      "斯韦特兰娜·萨维茨卡娅",
+      "佩吉·惠特森"
+    ],
+    "correctAnswer": 1,
+    "explanation": "苏联宇航员捷列什科娃 1963 年乘东方六号升空，至今仍是唯一单独执行太空任务的女性；萨维茨卡娅则是首位太空行走的女性。"
+  },
+  {
+    "id": "science-016",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "被誉为「最美数学公式」的欧拉恒等式 e^(iπ)+1=0 中，不包含下列哪个数？",
+    "options": [
+      "e",
+      "i",
+      "π",
+      "2"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这个公式一口气串起了 0、1、e、i、π 五个最重要的数学常数，唯独没有 2。"
+  },
+  {
+    "id": "science-017",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "钻石和铅笔芯的主要成分都是碳，它们互为？",
+    "options": [
+      "同位素",
+      "同分异构体",
+      "同素异形体",
+      "同系物"
+    ],
+    "correctAnswer": 2,
+    "explanation": "同种元素组成的不同单质互称同素异形体。金刚石和石墨硬度天差地别，只因碳原子排列方式不同。"
+  },
+  {
+    "id": "science-018",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "DNA 双螺旋结构的发现离不开关键的 X 射线衍射图「照片51号」，它的拍摄者是哪位女科学家？",
+    "options": [
+      "玛丽·居里",
+      "罗莎琳德·富兰克林",
+      "芭芭拉·麦克林托克",
+      "多萝西·霍奇金"
+    ],
+    "correctAnswer": 1,
+    "explanation": "富兰克林的照片为沃森和克里克提供了关键线索，但她 1958 年英年早逝，未能分享 1962 年的诺贝尔奖，被视为科学史上著名的遗憾。"
+  },
+  {
+    "id": "science-019",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "晴朗的天空呈现蓝色，主要是因为？",
+    "options": [
+      "大气对阳光的散射",
+      "云层的反射",
+      "阳光在空气中的折射",
+      "海洋颜色的映照"
+    ],
+    "correctAnswer": 0,
+    "explanation": "蓝光波长短，被空气分子散射得最厉害（瑞利散射），所以整个天空看起来是蓝色的。"
+  },
+  {
+    "id": "science-020",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "掀起基因编辑革命的 CRISPR-Cas9，最初在自然界中是细菌的什么系统？",
+    "options": [
+      "修复紫外线损伤的系统",
+      "合成蛋白质的系统",
+      "进行细胞分裂的系统",
+      "抵御病毒入侵的免疫系统"
+    ],
+    "correctAnswer": 3,
+    "explanation": "细菌用 CRISPR 记录入侵病毒的基因片段，下次再用 Cas9 精准剪断敌人 DNA。杜德纳和沙尔庞捷因此获得 2020 年诺贝尔化学奖。"
+  },
+  {
+    "id": "science-021",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "太阳系中已知最高的火山奥林帕斯山，位于哪颗星球上？",
+    "options": [
+      "金星",
+      "火星",
+      "木卫一",
+      "水星"
+    ],
+    "correctAnswer": 1,
+    "explanation": "奥林帕斯山高约 21 千米，约为珠穆朗玛峰的两倍多，底部的面积相当于一整个法国。"
+  },
+  {
+    "id": "science-022",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "历史上第一位两次获得诺贝尔奖的科学家是？",
+    "options": [
+      "阿尔伯特·爱因斯坦",
+      "莱纳斯·鲍林",
+      "玛丽·居里",
+      "约翰·巴丁"
+    ],
+    "correctAnswer": 2,
+    "explanation": "居里夫人 1903 年获物理学奖、1911 年获化学奖，是唯一在两个不同科学领域都拿过诺奖的人；巴丁和鲍林的两奖都在更晚。"
+  },
+  {
+    "id": "science-023",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "人体中最坚硬的组织是？",
+    "options": [
+      "股骨",
+      "指甲",
+      "颅骨",
+      "牙釉质"
+    ],
+    "correctAnswer": 3,
+    "explanation": "牙釉质的硬度接近石英，但它怕酸，而且一旦磨损就无法再生，所以碳酸饮料少喝为妙。"
+  },
+  {
+    "id": "science-024",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "物理学中的绝对零度（0 开尔文）约等于摄氏多少度？",
+    "options": [
+      "-273.15℃",
+      "-196℃",
+      "-89.2℃",
+      "-183℃"
+    ],
+    "correctAnswer": 0,
+    "explanation": "绝对零度是分子热运动停止的理论下限，只能无限逼近无法真正达到；-196℃ 只是液氮的沸点，还差得远。"
+  },
+  {
+    "id": "science-025",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "地球上的氧气约有一半以上来自哪里？",
+    "options": [
+      "热带雨林",
+      "陆地草原",
+      "海洋浮游植物",
+      "北方针叶林"
+    ],
+    "correctAnswer": 2,
+    "explanation": "海洋里的浮游植物（尤其是原绿球藻）才是地球的「制氧主力」，亚马逊雨林贡献的比例远没有传说中高。"
+  },
+  {
+    "id": "science-026",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "旅行者号探测器携带的「金唱片」中，收录了管平湖演奏的哪首中国古琴曲？",
+    "options": [
+      "《广陵散》",
+      "《流水》",
+      "《阳关三叠》",
+      "《梅花三弄》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1977 年发射的金唱片收录了 27 首地球名曲，《流水》全长七分多钟，是其中最长的一首，正随旅行者号飞向星际空间。"
+  },
+  {
+    "id": "science-027",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "人的胃酸中起主要消化作用的酸是？",
+    "options": [
+      "盐酸",
+      "硫酸",
+      "醋酸",
+      "碳酸"
+    ],
+    "correctAnswer": 0,
+    "explanation": "胃酸主要成分是盐酸，pH 值可低至 1.5 左右，强到能溶解金属锌，全靠胃黏膜保护胃壁不被自己消化掉。"
+  },
+  {
+    "id": "science-028",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "1858 年与达尔文同时独立提出「自然选择」学说，并与其联合发表论文的科学家是？",
+    "options": [
+      "让-巴蒂斯特·拉马克",
+      "格雷戈尔·孟德尔",
+      "托马斯·赫胥黎",
+      "阿尔弗雷德·华莱士"
+    ],
+    "correctAnswer": 3,
+    "explanation": "华莱士在东南亚考察时独立想出了自然选择，正是他的来信促使达尔文加速发表《物种起源》；赫胥黎则以「达尔文的斗犬」闻名。"
+  },
+  {
+    "id": "science-029",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "中国第一位进入太空的航天员是？",
+    "options": [
+      "聂海胜",
+      "翟志刚",
+      "杨利伟",
+      "费俊龙"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2003 年杨利伟乘神舟五号进入太空，中国成为世界上第三个独立掌握载人航天技术的国家；翟志刚则是第一位在太空行走的中国航天员。"
+  },
+  {
+    "id": "science-030",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "水的化学分子式是？",
+    "options": [
+      "H₂O",
+      "CO₂",
+      "O₂",
+      "NaCl"
+    ],
+    "correctAnswer": 0,
+    "explanation": "两个氢原子加一个氧原子组成一个水分子；CO₂ 是二氧化碳，O₂ 是氧气，NaCl 是食盐。"
+  },
+  {
+    "id": "science-031",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "发生日食时，挡在地球和太阳之间的是？",
+    "options": [
+      "金星",
+      "月球",
+      "火星",
+      "地球自己的影子"
+    ],
+    "correctAnswer": 1,
+    "explanation": "月球运行到太阳和地球之间挡住阳光，就形成了日食；反过来地球挡在日月之间则是月食。"
+  },
+  {
+    "id": "science-032",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "血液中负责把氧气运往全身的主要细胞是？",
+    "options": [
+      "白细胞",
+      "血小板",
+      "淋巴细胞",
+      "红细胞"
+    ],
+    "correctAnswer": 3,
+    "explanation": "红细胞里的血红蛋白擅长「抓氧」，正是它让血液呈现红色；白细胞负责免疫，血小板负责止血。"
+  },
+  {
+    "id": "science-033",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "主流科学观点认为，约 6600 万年前恐龙灭绝的主要原因是？",
+    "options": [
+      "被哺乳动物吃光",
+      "海平面突然消失",
+      "小行星撞击地球",
+      "地球停止自转"
+    ],
+    "correctAnswer": 2,
+    "explanation": "一颗直径约 10 公里的小行星撞上今天的墨西哥尤卡坦半岛，留下希克苏鲁伯陨石坑，引发了全球性的生态灾难。"
+  },
+  {
+    "id": "science-034",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "屠呦呦因发现抗疟药物青蒿素，获得了诺贝尔哪个奖项？",
+    "options": [
+      "物理学奖",
+      "化学奖",
+      "生理学或医学奖",
+      "和平奖"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2015 年屠呦呦获诺贝尔生理学或医学奖，是在中国本土工作的科学家首次获得诺贝尔科学类奖项；提取灵感来自东晋葛洪的《肘后备急方》。"
+  },
+  {
+    "id": "science-035",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "光在真空中的传播速度大约是每秒多少？",
+    "options": [
+      "3 千公里",
+      "30 万公里",
+      "3 万公里",
+      "300 万公里"
+    ],
+    "correctAnswer": 1,
+    "explanation": "光速约每秒 299792 公里，一般记作 30 万公里；太阳发出的光要花 8 分多钟才能抵达地球。"
+  },
+  {
+    "id": "science-036",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "舞台上制造「云雾缭绕」效果的干冰，其实是哪种物质的固态？",
+    "options": [
+      "氧气",
+      "水",
+      "氮气",
+      "二氧化碳"
+    ],
+    "correctAnswer": 3,
+    "explanation": "干冰是固态二氧化碳，约 -78.5℃ 时直接升华为气体并大量吸热，使空气中的水蒸气凝结成白雾——所以干冰其实根本不是「冰」。"
+  },
+  {
+    "id": "science-037",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "一般认为，望远镜是荷兰的商人发明的，而首位将望远镜用于天文观测的人是",
+    "options": [
+      "哥白尼",
+      "牛顿",
+      "开普勒",
+      "伽利略"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "science-038",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "仙女星系M31未来会与银河系合为一体，预计汇合的时间约为",
+    "options": [
+      "4000万年",
+      "400万年",
+      "400亿年",
+      "40亿年"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "science-039",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "太阳的绝对星等是",
+    "options": [
+      "8.6",
+      "-26.8",
+      "0",
+      "4.8"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "science-040",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "110个梅西叶天体中，半数以上是",
+    "options": [
+      "星云",
+      "星团",
+      "超新星遗迹",
+      "星系"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "science-041",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "在地球上观测周年日行迹的形状很像",
+    "options": [
+      "1",
+      "0",
+      "8",
+      "S"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "science-042",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "以下关于月球的事实哪个最有可能是巧合",
+    "options": [
+      "月球总是固定的一面朝向地球",
+      "在地球上观测月球和太阳看上去差不多大",
+      "月球背面的环形山比正面多",
+      "月球公转轨道和地球的公转轨道面夹角很小"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "science-043",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "天狼星的绝对星等为1.5等，太阳的绝对星等与天狼星的绝对星等差（）等",
+    "options": [
+      "1.5",
+      "7.1",
+      "-25.3",
+      "3.3"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "science-044",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "以下哪颗行星没有卫星",
+    "options": [
+      "火星",
+      "土星",
+      "木星",
+      "金星"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "science-045",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "以下哪两个星座的天区不相邻",
+    "options": [
+      "狮子座和小狮座",
+      "大犬座和小犬座",
+      "双鱼座和鲸鱼座",
+      "飞马座和小马座"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "science-046",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "以下哪两个星座不是相邻的",
+    "options": [
+      "牧夫座和猎犬座",
+      "猎户座和波江座",
+      "天琴座和天鹰座",
+      "南鱼座和宝瓶座"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "science-047",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "以下哪种月相出现后不久，潮汐现象最为明显",
+    "options": [
+      "残月",
+      "上弦月",
+      "新月",
+      "下弦月"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "science-048",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "已知织女星的表面温度约9600K，太阳的色指数B-V=0.63。一颗色指数B-V=1.2的主序星，表面温度约",
+    "options": [
+      "4300K",
+      "6000K",
+      "28000K",
+      "15000K"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "science-049",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "以下哪一项表述最接近人类目前对系外行星卫星的探测情况",
+    "options": [
+      "系外行星卫星亮度太低，人类不可能探测到",
+      "最新发射的空间探测器将有能力探测系外行星卫星",
+      "已经探测到超过1万颗系外行星卫星",
+      "系外行星卫星不存在"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "science-050",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "以下哪一项不是中国传统的天文仪器",
+    "options": [
+      "浑仪",
+      "简仪",
+      "圭表",
+      "象限仪"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "science-051",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "我国第一个真正意义上的空间实验室是",
+    "options": [
+      "天舟一号",
+      "天宫二号",
+      "天宫一号",
+      "神舟十一号"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "science-052",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "2019年唯一的一次日全食在哪个大洲可见",
+    "options": [
+      "南美洲",
+      "亚洲",
+      "欧洲",
+      "非洲"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "science-053",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "以下彗星中，2017年回归近日点的是",
+    "options": [
+      "55P/Tempel-Tuttle",
+      "2P/Encke",
+      "9P/Tempel",
+      "C/2013US10（Catalina）"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "science-054",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "以下梅西叶天体中与银河系最相似的是",
+    "options": [
+      "M87",
+      "M82",
+      "M32",
+      "M31"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "science-055",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "人类最近一次观测到银河系内的超新星爆发是在哪一年",
+    "options": [
+      "1604",
+      "2018",
+      "1987",
+      "1054"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "science-056",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "木星的卫星中体积最大的是",
+    "options": [
+      "木卫二",
+      "木卫三",
+      "木卫一",
+      "木卫四"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "science-057",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "氢元素在宇宙中不可能存在的形态包括",
+    "options": [
+      "H2",
+      "HII",
+      "HI",
+      "HIII"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "science-058",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "1000颗6等星聚集在一起的星等近似（）等",
+    "options": [
+      "-1.5",
+      "1",
+      "-0.5",
+      "6000"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "science-059",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "目前得到确认的人类最古老的天文观象台是",
+    "options": [
+      "位于中国北京的古观象台",
+      "位于中国临汾的陶寺遗址",
+      "位于中国安阳的殷墟遗址",
+      "位于英国威尔特郡的巨石阵"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "science-060",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "下列哪个选项是日全食发生的北京时间",
+    "options": [
+      "26/12/2019",
+      "21/06/2020",
+      "11/08/2018",
+      "03/07/2019"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "science-061",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "1838年，德国天文学家贝塞尔利用高自行的天鹅座61双星首次测得了恒星视差，观测表明它的视差为0.31″，距离我们约",
+    "options": [
+      "100光年",
+      "10光年",
+      "310秒差距",
+      "1秒差距"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "science-062",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "中国传统的二十四节气体系是根据哪一现象制定的",
+    "options": [
+      "地球自转",
+      "月亮的周期视运动",
+      "太阳在黄道上的视运动",
+      "行星的会合周期运动"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "science-063",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "在地球上观测，下列哪种情况不可能发生",
+    "options": [
+      "火星比木星亮",
+      "行星中水星距离地球最近",
+      "一年出现3次金星大距",
+      "一年出现4次日食"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "science-064",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "以下哪个深空天体在天球上离天津四最近",
+    "options": [
+      "M35",
+      "NGC7000",
+      "NGC7293",
+      "M27"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "science-065",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "在北纬30°地区观测，春分当天日落时黄道与地平线的夹角大约是",
+    "options": [
+      "53°26′",
+      "83°26′",
+      "63°26′",
+      "23°26′"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "science-066",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "在观测场地，你会看到有的爱好者像海盗一样用眼罩挡着一只惯用眼，他们是在",
+    "options": [
+      "锻炼眼睛的对焦能力",
+      "在各处走动时保护暗夜视力",
+      "观测途中让眼睛放松休息",
+      "在玩角色扮演游戏"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "science-067",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "2021年12月25日，哪一个空间望远镜顺利升空，计划在2022年5、6月份正式投入使用。（）",
+    "options": [
+      "亚瑟·爱丁顿",
+      "问天",
+      "尤金·帕克",
+      "詹姆斯·韦布"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "science-068",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "最近一次金星西大距出现在今年",
+    "options": [
+      "3月",
+      "2月",
+      "4月",
+      "5月"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "science-069",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "两个天体之间万有引力的大小，与它们的质量",
+    "options": [
+      "成平方反比",
+      "成正比",
+      "成平方正比",
+      "成反比"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "science-070",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "以下哪项不是公开发行的以天文爱好者为主要读者群的杂志",
+    "options": [
+      "Astronomer",
+      "AstronomyNow",
+      "Sky&Telescope",
+      "天文爱好者"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "science-071",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "以下人造天体中轨道高度最高的是",
+    "options": [
+      "地球同步轨道卫星",
+      "太阳同步轨道卫星",
+      "国际空间站",
+      "哈勃空间望远镜"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "science-072",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "2017年6月15日，硬X射线调制望远镜在酒泉卫星发射中心发射升空，弥补了我国空间X射线探测的空白，这个望远镜名字是",
+    "options": [
+      "悟空",
+      "墨子",
+      "天眼",
+      "慧眼"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "science-073",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "设天顶距为z，在远离地平圈的天区，大气消光量近似正比于",
+    "options": [
+      "cosz",
+      "1/cosz",
+      "1/tanz",
+      "sinz"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "science-074",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "三月份日落后不久，你会先看到",
+    "options": [
+      "春季大三角",
+      "秋季四边形",
+      "冬季大三角",
+      "夏季大三角"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "science-075",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "如果一颗周年视差为0.0111角秒的恒星在5年内在星空中移动了0.1个角秒。那么它的切向速度最可能为（）km/s",
+    "options": [
+      "2.8",
+      "8.5",
+      "6.1",
+      "4.3"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "science-076",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "以下四个流星雨中，2022年极大当天受月光干扰最严重的是",
+    "options": [
+      "英仙座流星雨",
+      "双子座流星雨",
+      "宝瓶座η流星雨",
+      "象限仪座流星雨"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "science-077",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "在地球表面观测，以下哪个波段的大气透过率最高",
+    "options": [
+      "远红外",
+      "射电",
+      "可见光",
+      "近红外"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "science-078",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "一般来说，形成稳定恒星的质量上限大约是150个太阳质量，那么形成稳定恒星的质量下限是（）个太阳质量",
+    "options": [
+      "0.51",
+      "0.01",
+      "0.08",
+      "0.14"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "science-079",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "哪种类型的超新星可以作为测量星系距离的标准蚀光",
+    "options": [
+      "Ib",
+      "II",
+      "Ia",
+      "Ic"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "science-080",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "在地球上的地球人和在火星上的“火星人”同时观测一颗恒星，与地球人的观测结果相比，以下描述正确的为",
+    "options": [
+      "火星上观测到的“周年视差”小，“光行差”大",
+      "火星上观测到的“周年视差”小，“光行差”小",
+      "火星上观测到的“周年视差”大，“光行差”小",
+      "火星上观测到的“周年视差”大，“光行差”大"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "science-081",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "在地球上能观测到被月掩的2等及以上恒星有多少颗",
+    "options": [
+      "21",
+      "18",
+      "12",
+      "7"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "science-082",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "卡西尼号探测器预计在2017年晚些时候结束自己土星系统的探测任务。按照计划，它将以何种方式结束自己的探索任务",
+    "options": [
+      "直接飞离太阳系",
+      "坠入土星",
+      "飞跃天王星，然后飞离太阳系",
+      "坠入土卫六"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "science-083",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "下列四组行星中，此时角距离最近的是",
+    "options": [
+      "水星和金星",
+      "金星和木星",
+      "火星和土星",
+      "火星和木星"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "science-084",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "2019年5月，SpaceX公司通过一箭60星的方式将首批（）卫星送入太空，IAU表示这会对天文观测产生严重的影响",
+    "options": [
+      "Starlink",
+      "Telesat",
+      "立方星",
+      "OneWeb"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "science-085",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "以下恒星无法在3月24日晚观测到的是",
+    "options": [
+      "大角星",
+      "天狼星",
+      "织女星",
+      "北落师门"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "science-086",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "哈雷彗星最远可以到达",
+    "options": [
+      "土星与天王星轨道之间",
+      "天王星与海王星轨道之间",
+      "木星与土星轨道之间",
+      "海王星轨道外侧"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "science-087",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "一颗彗星最多和几个流星群有关",
+    "options": [
+      "没有上限",
+      "1",
+      "4",
+      "2"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "science-088",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "下列流星雨中，2019年极大期间的观测受月光影响最小的是",
+    "options": [
+      "双子座流星雨",
+      "宝瓶座η流星雨",
+      "猎户座流星雨",
+      "四月天琴座流星雨"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "science-089",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "2018年全球范围内可见（）次日偏食，而我国可以观测到其中的（）次",
+    "options": [
+      "3，1",
+      "2，0",
+      "4，2",
+      "2，1"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "science-090",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "2022年土星的最佳观测时间在",
+    "options": [
+      "暑假期间",
+      "五一假期期间",
+      "双子座流星雨期间",
+      "春节期间"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "science-091",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "首先提出“黑洞蒸发”理论的天文学家是",
+    "options": [
+      "钱德拉塞卡",
+      "爱因斯坦",
+      "爱丁顿",
+      "霍金"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "science-092",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "天体周日视运动过程中达到“上中天”时，它一定",
+    "options": [
+      "方位角为180°",
+      "在地平线以上",
+      "赤经为0",
+      "地平高度达到最大值"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "science-093",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "下列说法最不准确的一项是",
+    "options": [
+      "流星是一种太阳系小天体",
+      "室女座W型变星可充当标准烛光",
+      "类星体是一类活动星系核",
+      "M型主序星的寿命大于宇宙年龄"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": "science-094",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "半人马座α星距离我们大约",
+    "options": [
+      "8.6万光年",
+      "16.7光年",
+      "2.8光年",
+      "4.3光年"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "science-095",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "M51位于",
+    "options": [
+      "大熊座",
+      "小熊座",
+      "天琴座",
+      "猎犬座"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "science-096",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "3月份美国宇航局公布的一张韦布空间望远镜的一张校准照片，图中央的恒星呈现出六角星芒。这种六角星芒产生的原因是",
+    "options": [
+      "六边形镜片造成的衍射结构",
+      "遮光罩造成的衍射结构",
+      "副镜支架造成的干涉条纹",
+      "副镜支架造成的衍射结构"
+    ],
+    "correctAnswer": 0
+  }
+]
