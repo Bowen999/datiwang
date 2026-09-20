@@ -23,10 +23,11 @@ interface QuizScreenProps {
 }
 
 export function QuizScreen({ room, selfId, isHost, categories, myAnswerIndex, now, onAnswer, onNext }: QuizScreenProps) {
-  // 本地时钟驱动进度条/倒计时重渲染
+  // 本地时钟驱动倒计时数字重渲染（每秒一次即可；
+  // 进度条本身用 CSS transition 平滑收缩，无需高频重渲染）
   const [, setTick] = useState(0);
   useEffect(() => {
-    const t = setInterval(() => setTick((v) => v + 1), 100);
+    const t = setInterval(() => setTick((v) => v + 1), 1000);
     return () => clearInterval(t);
   }, []);
 
@@ -60,7 +61,7 @@ export function QuizScreen({ room, selfId, isHost, categories, myAnswerIndex, no
   const revealRemain = room.reveal ? Math.max(0, room.reveal.endsAt - now()) : 0;
 
   return (
-    <div className="relative z-10 mx-auto flex min-h-dvh w-full max-w-md flex-col gap-3 px-5 py-5 landscape:py-3 md:max-w-3xl lg:max-w-4xl">
+    <div className="relative z-10 mx-auto flex app-screen w-full max-w-md flex-col gap-3 px-5 py-5 landscape:py-3 md:max-w-3xl lg:max-w-4xl">
       {/* 顶栏：进度 + 分数 */}
       <div className="flex items-center justify-between gap-3">
         <NeoBadge className="bg-white">
@@ -102,7 +103,7 @@ export function QuizScreen({ room, selfId, isHost, categories, myAnswerIndex, no
             <NeoBadge className="bg-neo-blue text-white">{categoryName}</NeoBadge>
             <NeoBadge className={DIFF_COLOR[q.difficulty]}>{DIFF_LABEL[q.difficulty]}</NeoBadge>
           </div>
-          <h2 className="text-xl font-black leading-relaxed sm:text-2xl md:text-3xl">{q.question}</h2>
+          <h2 className="break-words text-xl font-black leading-relaxed sm:text-2xl md:text-3xl">{q.question}</h2>
         </NeoCard>
       </motion.div>
 
@@ -169,11 +170,9 @@ export function QuizScreen({ room, selfId, isHost, categories, myAnswerIndex, no
                 <div className="text-sm font-bold text-ink/60">自动进入下一题…</div>
               )}
               <div className="h-2.5 w-40 overflow-hidden rounded-full border-2 border-ink bg-white">
-                <motion.div
+                <div
                   className="h-full bg-neo-purple"
-                  initial={false}
-                  animate={{ width: `${(revealRemain / 6000) * 100}%` }}
-                  transition={{ duration: 0.1, ease: 'linear' }}
+                  style={{ width: `${(revealRemain / 6000) * 100}%`, transition: 'width 1s linear' }}
                 />
               </div>
             </div>

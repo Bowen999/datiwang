@@ -1,6 +1,14 @@
 /** @type {import('tailwindcss').Config} */
 export default {
   content: ['./index.html', './src/**/*.{ts,tsx}'],
+  // 触摸设备（手机/平板）没有真实“悬停”。默认的 :hover 在点按后会粘滞，
+  // 导致按钮一直停留在“抬起/浮起”状态，看起来像卡住。这里把 hover 变体
+  // 限定到只有支持悬停的精确指针（鼠标/触控板）才生效。
+  plugins: [
+    function ({ addVariant }) {
+      addVariant('hover', '@media (hover: hover) and (pointer: fine) { &:hover }');
+    },
+  ],
   theme: {
     extend: {
       colors: {
@@ -30,5 +38,4 @@ export default {
       },
     },
   },
-  plugins: [],
 };

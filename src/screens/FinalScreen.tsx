@@ -28,7 +28,7 @@ export function FinalScreen({ room, selfId, isHost, onPlayAgain, onLeave }: Fina
   const podiumColors = ['#DDE3EA', '#FFC800', '#FF7A1A'];
 
   return (
-    <div className="relative z-10 mx-auto flex min-h-dvh w-full max-w-md flex-col items-center gap-5 px-5 py-8 landscape:py-4 md:max-w-4xl lg:max-w-5xl">
+    <div className="relative z-10 mx-auto flex app-screen w-full max-w-md flex-col items-center gap-5 px-5 py-8 landscape:py-4 md:max-w-4xl lg:max-w-5xl">
       <Confetti />
 
       <motion.div

@@ -34,7 +34,7 @@ export function HomeScreen({ connecting, error, mode, initialCode, onCreate, onJ
   const validCode = code.trim().length >= 4;
 
   return (
-    <div className="relative z-10 mx-auto flex min-h-dvh w-full max-w-md flex-col items-center justify-center gap-6 px-5 py-10 landscape:gap-3 landscape:py-4 md:max-w-lg">
+    <div className="relative z-10 mx-auto flex app-screen w-full max-w-md flex-col items-center justify-center gap-6 px-5 py-10 landscape:gap-3 landscape:py-4 md:max-w-lg">
       {/* Logo */}
       <motion.div
         initial={{ y: -60, opacity: 0, rotate: -4 }}

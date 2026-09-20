@@ -44,11 +44,11 @@ export default function App() {
         : 'quiz';
 
   return (
-    <div className="min-h-dvh overflow-x-hidden">
+    <div className="app-screen overflow-x-hidden pb-[var(--safe-bottom)]">
       <PartyDecorations />
       <Toasts notices={r.notices} />
       <AnimatePresence mode="wait">
-        <motion.div key={screen} {...screenTransition} className="min-h-dvh">
+        <motion.div key={screen} {...screenTransition} className="app-screen">
           {screen === 'home' && (
             <HomeScreen
               connecting={r.connecting}
