@@ -30,9 +30,11 @@ export const AVATARS = ['🦊', '🐼', '🐯', '🦁', '🐸', '🐵', '🦄', 
 
 export const PLAYER_COLORS = ['#FFC800', '#FF5D8F', '#4D96FF', '#3ECF8E', '#9B5DE5', '#FF7A1A'];
 
-/** 随机头像种子（喂给 DiceBear 生成卡通头像，同种子必同头像） */
+import { randomAvatarStyle } from '../avatarStyles';
+
+/** 随机头像种子（格式：风格id:种子，喂给 DiceBear 生成卡通头像，同种子必同头像） */
 export function randomAvatar(): string {
-  return generateId();
+  return `${randomAvatarStyle()}:${generateId()}`;
 }
 
 export function clamp(v: number, min: number, max: number): number {

@@ -130,7 +130,7 @@ export function useRoom() {
         if (prev) {
           const prevIds = new Set(prev.players.map((p) => p.id));
           for (const p of msg.state.players) {
-            if (!prevIds.has(p.id)) pushNotice(`${p.name} 加入了游戏`, p.avatar);
+            if (!prevIds.has(p.id)) pushNotice(`${p.name} 加入了游戏`, '👋');
           }
           if (prev.hostId !== msg.state.hostId) {
             const h = msg.state.players.find((p) => p.id === msg.state.hostId);

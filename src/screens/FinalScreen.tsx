@@ -37,7 +37,7 @@ export function FinalScreen({ room, selfId, isHost, onPlayAgain, onLeave }: Fina
         transition={{ type: 'spring', stiffness: 250, damping: 16 }}
         className="rounded-neo border-[5px] border-ink bg-neo-pink px-8 py-3 text-3xl font-black text-white shadow-neo-lg"
       >
-        {isChampion ? '🏆 你是答题王！' : '🎊 游戏结束！'}
+        {isChampion ? '🏆 你是小智障！' : '🎊 游戏结束！'}
       </motion.div>
 
       {me && !isChampion && (

@@ -1,4 +1,4 @@
-# 答题王 · 派对问答（Datiwang）
+# 谁是小智障 · 派对问答（Datiwang）
 
 中文多人派对问答游戏，和好友实时 PK！基于 React + Vite + TypeScript + Tailwind CSS 构建，支持 Supabase Realtime 实时联机，未配置时自动降级为本地演示模式。
 
@@ -8,7 +8,7 @@
 - ⚡ 实时同步作答与计分（Supabase Realtime / 本地演示模式）
 - 🏆 实时排名、倒计时、动态计分与连击加成
 - 📚 13 个分类 420 道精选题目（历史、科学、三国、古诗、四大名著、美食、影视等）
-- 🎨 新拟态（Neumorphism）UI 风格 + DiceBear 头像 + 彩带动效
+- 🎨 新拟态（Neumorphism）UI 风格 + DiceBear 开源头像库（15 种风格随机）+ 彩带动效
 
 ## 🚀 快速开始
 
