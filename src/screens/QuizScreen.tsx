@@ -2,27 +2,35 @@ import { AnimatePresence, motion } from 'motion/react';
 import { useEffect, useState } from 'react';
 import { AnswerButton, type AnswerState } from '../components/AnswerButton';
 import { CountdownOverlay } from '../components/CountdownOverlay';
+import { RankingBoard } from '../components/RankingBoard';
 import { RankingList } from '../components/RankingList';
 import { CountdownNumber, TimerBar } from '../components/TimerBar';
 import { NeoButton } from '../components/ui/NeoButton';
 import { NeoBadge, NeoCard } from '../components/ui/NeoCard';
+import { questionTimeMs, RANKING_EXTRA_SECONDS } from '../game/gameLogic';
 import type { CategoryMeta, RoomState } from '../types/game';
 
 const DIFF_LABEL = { easy: '简单', medium: '中等', hard: '困难' } as const;
 const DIFF_COLOR = { easy: 'bg-neo-green', medium: 'bg-neo-yellow', hard: 'bg-neo-red text-white' } as const;
+
+interface MyAnswerView {
+  questionId: string;
+  optionIndex?: number;
+  order?: number[];
+}
 
 interface QuizScreenProps {
   room: RoomState;
   selfId: string;
   isHost: boolean;
   categories: CategoryMeta[];
-  myAnswerIndex: number | null;
+  myAnswer: MyAnswerView | null;
   now: () => number;
-  onAnswer: (index: number) => void;
+  onAnswer: (payload: { optionIndex?: number; order?: number[] }) => void;
   onNext: () => void;
 }
 
-export function QuizScreen({ room, selfId, isHost, categories, myAnswerIndex, now, onAnswer, onNext }: QuizScreenProps) {
+export function QuizScreen({ room, selfId, isHost, categories, myAnswer, now, onAnswer, onNext }: QuizScreenProps) {
   // 本地时钟驱动倒计时数字重渲染（每秒一次即可；
   // 进度条本身用 CSS transition 平滑收缩，无需高频重渲染）
   const [, setTick] = useState(0);
@@ -40,12 +48,30 @@ export function QuizScreen({ room, selfId, isHost, categories, myAnswerIndex, no
   }
   if (!q) return null;
 
-  const roundMs = room.settings.roundSeconds * 1000;
+  const isRanking = q.kind === 'ranking';
+  const roundMs = questionTimeMs(q.kind, room.settings.roundSeconds);
   const remainMs = Math.max(0, (room.questionEndsAt ?? 0) - now());
   const secondsLeft = Math.ceil(remainMs / 1000);
   const isReveal = room.phase === 'reveal';
   const myResult = room.reveal?.results.find((r) => r.playerId === selfId);
-  const answered = myAnswerIndex != null;
+  // 揭晓阶段以房主广播的 reveal.results 为准（本地 myAnswer 在进入揭晓时会被重置）
+  const myAnswerIndex = isRanking
+    ? null
+    : isReveal
+      ? myResult && myResult.optionIndex >= 0
+        ? myResult.optionIndex
+        : null
+      : myAnswer?.optionIndex ?? null;
+  const myOrder = isRanking
+    ? isReveal
+      ? myResult && myResult.order && myResult.order.length > 0
+        ? myResult.order
+        : null
+      : myAnswer?.order ?? null
+    : null;
+  const answered = isRanking
+    ? myOrder != null && myOrder.length === q.options.length
+    : myAnswerIndex != null;
 
   const optionState = (i: number): AnswerState => {
     if (isReveal && room.reveal) {
@@ -59,6 +85,7 @@ export function QuizScreen({ room, selfId, isHost, categories, myAnswerIndex, no
   };
 
   const revealRemain = room.reveal ? Math.max(0, room.reveal.endsAt - now()) : 0;
+  const connectedCount = room.players.filter((p) => p.connected).length;
 
   return (
     <div className="relative z-10 mx-auto flex app-screen w-full max-w-md flex-col gap-3 px-5 py-5 landscape:py-3 md:max-w-3xl lg:max-w-4xl">
@@ -88,7 +115,12 @@ export function QuizScreen({ room, selfId, isHost, categories, myAnswerIndex, no
           </div>
         </div>
       ) : (
-        <RevealBanner correct={myResult?.correct} points={myResult?.points ?? 0} answered={myResult != null && myResult.optionIndex >= 0} />
+        <RevealBanner
+          correct={myResult?.correct}
+          partial={myResult != null && !myResult.correct && (myResult.points ?? 0) > 0}
+          points={myResult?.points ?? 0}
+          answered={myResult != null && (myResult.optionIndex >= 0 || (myResult.order?.length ?? 0) > 0)}
+        />
       )}
 
       {/* 题目卡片 */}
@@ -102,30 +134,55 @@ export function QuizScreen({ room, selfId, isHost, categories, myAnswerIndex, no
           <div className="mb-3 flex gap-2">
             <NeoBadge className="bg-neo-blue text-white">{categoryName}</NeoBadge>
             <NeoBadge className={DIFF_COLOR[q.difficulty]}>{DIFF_LABEL[q.difficulty]}</NeoBadge>
+            {isRanking && <NeoBadge className="bg-neo-purple text-white">🔀 排序题</NeoBadge>}
+            {isRanking && <NeoBadge className="bg-neo-orange text-white">⏱️ 多 {RANKING_EXTRA_SECONDS} 秒</NeoBadge>}
           </div>
           <h2 className="break-words text-xl font-black leading-relaxed sm:text-2xl md:text-3xl">{q.question}</h2>
         </NeoCard>
       </motion.div>
 
-      {/* 选项：手机单列，横屏/平板/桌面双列 */}
-      <div className="grid grid-cols-1 gap-3 landscape:grid-cols-2 md:grid-cols-2">
-        {q.options.map((opt, i) => (
-          <motion.div
-            key={`${q.id}-${i}`}
-            initial={{ x: -40, opacity: 0 }}
-            animate={{ x: 0, opacity: 1 }}
-            transition={{ delay: 0.08 * i, type: 'spring', stiffness: 300, damping: 24 }}
-          >
-            <AnswerButton
-              index={i}
-              text={opt}
-              state={optionState(i)}
-              disabled={isReveal}
-              onClick={() => onAnswer(i)}
-            />
-          </motion.div>
-        ))}
-      </div>
+      {/* 作答区：选择题网格 / 排序题拖拽面板 */}
+      {isRanking ? (
+        <motion.div
+          initial={{ y: 24, opacity: 0 }}
+          animate={{ y: 0, opacity: 1 }}
+          transition={{ type: 'spring', stiffness: 260, damping: 22 }}
+        >
+          <RankingBoard
+            key={q.id}
+            options={q.options}
+            disabled={isReveal}
+            reveal={
+              isReveal && room.reveal
+                ? {
+                    correctOrder: room.reveal.correctOrder ?? [],
+                    myOrder: answered ? myOrder : null,
+                  }
+                : undefined
+            }
+            onChange={(order) => onAnswer({ order })}
+          />
+        </motion.div>
+      ) : (
+        <div className="grid grid-cols-1 gap-3 landscape:grid-cols-2 md:grid-cols-2">
+          {q.options.map((opt, i) => (
+            <motion.div
+              key={`${q.id}-${i}`}
+              initial={{ x: -40, opacity: 0 }}
+              animate={{ x: 0, opacity: 1 }}
+              transition={{ delay: 0.08 * i, type: 'spring', stiffness: 300, damping: 24 }}
+            >
+              <AnswerButton
+                index={i}
+                text={opt}
+                state={optionState(i)}
+                disabled={isReveal}
+                onClick={() => onAnswer({ optionIndex: i })}
+              />
+            </motion.div>
+          ))}
+        </div>
+      )}
 
       {/* 底部状态区 */}
       <AnimatePresence mode="wait">
@@ -139,15 +196,21 @@ export function QuizScreen({ room, selfId, isHost, categories, myAnswerIndex, no
           >
             {answered ? (
               <motion.span
-                key={myAnswerIndex}
+                key={myAnswerIndex ?? (myOrder?.join(',') ?? '')}
                 initial={{ scale: 0.8 }}
                 animate={{ scale: 1 }}
                 className="inline-block rounded-neo border-[3px] border-ink bg-white px-4 py-1.5 shadow-neo-sm"
               >
-                ✅ 已选「{'ABCD'[myAnswerIndex]}」，可点击其他选项修改 · 已答 {room.answeredIds.length}/{room.players.filter((p) => p.connected).length}
+                {isRanking
+                  ? `🎯 已提交排序，可继续点选调整 · 已答 ${room.answeredIds.length}/${connectedCount}`
+                  : `✅ 已选「${'ABCD'[myAnswerIndex ?? 0]}」，可点击其他选项修改 · 已答 ${room.answeredIds.length}/${connectedCount}`}
               </motion.span>
             ) : (
-              <span>⏱️ 时间结束后统一揭晓，答案可随时修改 · 已答 {room.answeredIds.length}/{room.players.filter((p) => p.connected).length}</span>
+              <span>
+                {isRanking
+                  ? `💡 按名次依次点选选项 · 已答 ${room.answeredIds.length}/${connectedCount}`
+                  : `⏱️ 时间结束后统一揭晓，答案可随时修改 · 已答 ${room.answeredIds.length}/${connectedCount}`}
+              </span>
             )}
           </motion.div>
         ) : (
@@ -183,13 +246,25 @@ export function QuizScreen({ room, selfId, isHost, categories, myAnswerIndex, no
   );
 }
 
-/** 揭晓反馈横幅：答对/答错/超时 */
-function RevealBanner({ correct, points, answered }: { correct?: boolean; points: number; answered: boolean }) {
+/** 揭晓反馈横幅：答对/部分对/答错/超时 */
+function RevealBanner({
+  correct,
+  partial,
+  points,
+  answered,
+}: {
+  correct?: boolean;
+  partial: boolean;
+  points: number;
+  answered: boolean;
+}) {
   const cfg = correct
     ? { bg: 'bg-neo-green', text: `🎉 回答正确！+${points}`, sub: points >= 900 ? '闪电手速！' : '漂亮！' }
-    : answered
-      ? { bg: 'bg-neo-red', text: '❌ 答错了', sub: '别灰心，下一题扳回来！' }
-      : { bg: 'bg-neo-orange', text: '⌛ 超时未作答', sub: '手速要快哦！' };
+    : partial
+      ? { bg: 'bg-neo-orange', text: `🧩 部分正确 +${points}`, sub: '排序差一点点，下题加油！' }
+      : answered
+        ? { bg: 'bg-neo-red', text: '❌ 答错了', sub: '别灰心，下一题扳回来！' }
+        : { bg: 'bg-neo-orange', text: '⌛ 超时未作答', sub: '手速要快哦！' };
   return (
     <motion.div
       initial={{ scale: 0.5, rotate: -3, opacity: 0 }}

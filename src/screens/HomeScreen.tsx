@@ -16,9 +16,10 @@ interface HomeScreenProps {
 
 export const DEFAULT_SETTINGS: GameSettings = {
   roundSeconds: 15,
-  questionCount: 10,
+  questionCount: 25,
   categories: [],
   difficulty: 'mixed',
+  questionTypes: ['choice'],
 };
 
 export function HomeScreen({ connecting, error, mode, initialCode, onCreate, onJoin }: HomeScreenProps) {

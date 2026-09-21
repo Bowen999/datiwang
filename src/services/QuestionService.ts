@@ -1,4 +1,4 @@
-import type { CategoryMeta, Difficulty, QuizQuestion } from '../types/game';
+import type { CategoryMeta, Difficulty, QuestionKind, QuizQuestion } from '../types/game';
 import { shuffle } from '../utils/random';
 
 /**
@@ -9,6 +9,11 @@ import { shuffle } from '../utils/random';
 export interface QuestionSource {
   listCategories(): Promise<CategoryMeta[]>;
   fetchCategoryQuestions(categoryId: string): Promise<QuizQuestion[]>;
+}
+
+/** 旧题库可能未声明 kind，统一补默认值「选择题」，避免全量改数据文件 */
+function normalizeQuestion(q: QuizQuestion): QuizQuestion {
+  return q.kind === 'ranking' ? q : { ...q, kind: 'choice' };
 }
 
 /** 默认数据源：静态 JSON 文件，目录结构 /questions/{category}.json */
@@ -25,7 +30,8 @@ export class JsonQuestionSource implements QuestionSource {
   async fetchCategoryQuestions(categoryId: string): Promise<QuizQuestion[]> {
     const res = await fetch(`${this.baseUrl}/${categoryId}.json`);
     if (!res.ok) throw new Error(`题库加载失败: ${categoryId}`);
-    return (await res.json()) as QuizQuestion[];
+    const raw = (await res.json()) as QuizQuestion[];
+    return raw.map(normalizeQuestion);
   }
 }
 
@@ -34,6 +40,8 @@ export interface GetQuestionsOptions {
   categories?: string[];
   /** 难度筛选；mixed 表示不限 */
   difficulty?: Difficulty | 'mixed';
+  /** 勾选的题目类型；为空表示全部 */
+  questionTypes?: QuestionKind[];
   /** 需要的题目数量 */
   count: number;
   /** 需要排除的题目 id（例如上一局已用过） */
@@ -60,11 +68,12 @@ export class QuestionService {
 
   /** 随机抽取题目 */
   async getQuestions(opts: GetQuestionsOptions): Promise<QuizQuestion[]> {
-    const { categories, difficulty = 'mixed', count, excludeIds = [] } = opts;
+    const { categories, difficulty = 'mixed', questionTypes = [], count, excludeIds = [] } = opts;
     const cats = categories?.length ? categories : (await this.listCategories()).map((c) => c.id);
     const pools = await Promise.all(cats.map((c) => this.getCategoryQuestions(c)));
     let all = pools.flat();
     if (difficulty !== 'mixed') all = all.filter((q) => q.difficulty === difficulty);
+    if (questionTypes.length > 0) all = all.filter((q) => questionTypes.includes(q.kind));
     const excluded = new Set(excludeIds);
     const fresh = all.filter((q) => !excluded.has(q.id));
     const pool = fresh.length >= count ? fresh : all; // 不够时允许重复利用

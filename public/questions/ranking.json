@@ -1,0 +1,202 @@
+[
+  {
+    "id": "ranking-001",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列地区按照GDP总量从高到低排序",
+    "options": ["美国", "德国", "日本", "中国"],
+    "correctOrder": [0, 3, 1, 2],
+    "explanation": "按国际货币基金组织的名义GDP估算：美国约27万亿美元居首，中国约17万亿第二，德国与日本咬得很紧，德国略高一筹。"
+  },
+  {
+    "id": "ranking-002",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列地区按照经济总量从高到低排序",
+    "options": ["浙江", "江苏", "山东", "广东"],
+    "correctOrder": [3, 1, 2, 0],
+    "explanation": "广东、江苏长期稳居前二，山东第三，浙江第四——「包邮区」的江苏GDP已经无限逼近广东了。"
+  },
+  {
+    "id": "ranking-003",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列地区按照人口总量从多到少排序",
+    "options": ["印度", "中国", "印度尼西亚", "美国"],
+    "correctOrder": [0, 1, 3, 2],
+    "explanation": "联合国估算印度人口已在2023年超过中国成为全球第一，美国（约3.35亿）比印尼（约2.78亿）多出近6千万。"
+  },
+  {
+    "id": "ranking-004",
+    "category": "ranking",
+    "difficulty": "easy",
+    "kind": "ranking",
+    "question": "对下列地区按照常住人口从多到少排序",
+    "options": ["四川", "河南", "广东", "山东"],
+    "correctOrder": [2, 3, 1, 0],
+    "explanation": "广东常住人口约1.27亿全国第一，山东约1.01亿第二，河南约0.98亿第三，四川约0.84亿第四。"
+  },
+  {
+    "id": "ranking-005",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列歌手按照年龄从大到小排序",
+    "options": ["周杰伦", "陈奕迅", "林俊杰", "王力宏"],
+    "correctOrder": [1, 3, 0, 2],
+    "explanation": "陈奕迅（1974年）→ 王力宏（1976年）→ 周杰伦（1979年）→ 林俊杰（1981年）。没想到「行走的CD」林俊杰是最小的那一个！"
+  },
+  {
+    "id": "ranking-006",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列歌手按照年龄从小到大排序",
+    "options": ["孙燕姿", "王菲", "蔡依林", "邓紫棋"],
+    "correctOrder": [3, 2, 0, 1],
+    "explanation": "从年轻到年长：邓紫棋（1991年）→ 蔡依林（1980年）→ 孙燕姿（1978年）→ 王菲（1969年），天后果然是天后。"
+  },
+  {
+    "id": "ranking-007",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列歌手按照年龄从大到小排序",
+    "options": ["张杰", "华晨宇", "薛之谦", "邓紫棋"],
+    "correctOrder": [0, 2, 1, 3],
+    "explanation": "张杰（1982年）→ 薛之谦（1983年）→ 华晨宇（1990年）→ 邓紫棋（1991年）。「90后」的华晨宇和邓紫棋把平均年龄拉低了不少。"
+  },
+  {
+    "id": "ranking-008",
+    "category": "ranking",
+    "difficulty": "easy",
+    "kind": "ranking",
+    "question": "对下列地区按照面积从大到小排序",
+    "options": ["青海", "内蒙古", "新疆", "西藏"],
+    "correctOrder": [2, 3, 1, 0],
+    "explanation": "新疆约166万平方公里全国最大，西藏约123万第二，内蒙古约118万第三，青海约72万第四。"
+  },
+  {
+    "id": "ranking-009",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列山峰按照海拔从高到低排序",
+    "options": ["乔戈里峰", "珠穆朗玛峰", "洛子峰", "干城章嘉峰"],
+    "correctOrder": [1, 0, 3, 2],
+    "explanation": "珠穆朗玛峰8848.86米第一，乔戈里峰（K2）8611米第二，干城章嘉峰8586米第三，洛子峰8516米第四——全部超过8000米。"
+  },
+  {
+    "id": "ranking-010",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列河流按照长度从长到短排序",
+    "options": ["密西西比河", "长江", "尼罗河", "亚马逊河"],
+    "correctOrder": [2, 3, 1, 0],
+    "explanation": "按常见口径：尼罗河约6670公里最长，亚马逊河约6400公里第二（也有学者说它更长），长江约6300公里第三，密西西比河约6020公里第四。"
+  },
+  {
+    "id": "ranking-011",
+    "category": "ranking",
+    "difficulty": "easy",
+    "kind": "ranking",
+    "question": "对下列行星按照离太阳由近到远排序",
+    "options": ["木星", "火星", "土星", "天王星"],
+    "correctOrder": [1, 0, 2, 3],
+    "explanation": "火星距太阳约2.28亿公里，木星约7.78亿，土星约14.3亿，天王星约28.7亿公里——越往外走得越远、越冷。"
+  },
+  {
+    "id": "ranking-012",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列行星按照质量从大到小排序",
+    "options": ["海王星", "木星", "天王星", "土星"],
+    "correctOrder": [1, 3, 0, 2],
+    "explanation": "木星的质量约为其余七大行星总和的两倍半，土星第二，海王星又比天王星重约17%，所以「风王」海王星排在第三。"
+  },
+  {
+    "id": "ranking-013",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列湖泊按照面积从大到小排序",
+    "options": ["太湖", "洞庭湖", "鄱阳湖", "青海湖"],
+    "correctOrder": [3, 2, 1, 0],
+    "explanation": "青海湖约4583平方公里稳居第一，鄱阳湖约3150平方公里第二（丰水期），洞庭湖约2740第三，太湖约2425平方公里排第四。"
+  },
+  {
+    "id": "ranking-014",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列电影按照中国影史票房从高到低排序",
+    "options": ["《战狼2》", "《哪吒之魔童降世》", "《长津湖》", "《你好，李焕英》"],
+    "correctOrder": [2, 0, 3, 1],
+    "explanation": "《长津湖》约57.8亿登顶，《战狼2》约56.9亿紧随其后，《你好，李焕英》约54.1亿第三，《哪吒之魔童降世》约50.4亿第四——榜首之争只差不到一亿。"
+  },
+  {
+    "id": "ranking-015",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列歌手按照年龄从小到大排序",
+    "options": ["李荣浩", "许嵩", "汪苏泷", "毛不易"],
+    "correctOrder": [3, 2, 1, 0],
+    "explanation": "毛不易（1994年）最小，然后依次是汪苏泷（1989年）、许嵩（1986年）、李荣浩（1985年）——「QQ音乐三巨头」之一许嵩居然比汪苏泷大了三岁。"
+  },
+  {
+    "id": "ranking-016",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列歌手按照年龄从大到小排序",
+    "options": ["张韶涵", "梁静茹", "范玮琪", "杨丞琳"],
+    "correctOrder": [2, 1, 0, 3],
+    "explanation": "范玮琪（1976年）→ 梁静茹（1978年）→ 张韶涵（1982年）→ 杨丞琳（1984年），四代「甜美系」女声隔了快十年。"
+  },
+  {
+    "id": "ranking-017",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列《海贼王》角色按照加入草帽一伙的时间从早到晚排序",
+    "options": ["罗宾", "索隆", "布鲁克", "乔巴"],
+    "correctOrder": [1, 3, 0, 2],
+    "explanation": "索隆是第一个上船的伙伴，之后依次是乔巴（磁鼓岛）、罗宾（阿拉巴斯坦）、布鲁克（恐怖三桅船）——骨架老哥最晚入伙，却总说自己是「骷髅音乐家」。"
+  },
+  {
+    "id": "ranking-018",
+    "category": "ranking",
+    "difficulty": "easy",
+    "kind": "ranking",
+    "question": "对下列河流按照长度从长到短排序",
+    "options": ["黑龙江", "珠江", "长江", "黄河"],
+    "correctOrder": [2, 3, 0, 1],
+    "explanation": "长江约6300公里居首，黄河约5464公里第二，黑龙江（干流）约4440公里第三，珠江约2320公里排末——「母亲河」黄河其实比长江短了近千公里。"
+  },
+  {
+    "id": "ranking-019",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列家电按照发明时间从早到晚排序",
+    "options": ["电视", "电话", "洗衣机", "电灯"],
+    "correctOrder": [1, 3, 2, 0],
+    "explanation": "电话（1876年）比电灯（1879年）早问世三年，第一台电动洗衣机出现在1908年，而电视（1927年）最晚——发明顺序可能颠覆不少人的印象。"
+  },
+  {
+    "id": "ranking-020",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列元素按照在地壳中的含量从高到低排序",
+    "options": ["铝", "铁", "氧", "硅"],
+    "correctOrder": [2, 3, 0, 1],
+    "explanation": "地壳中氧约占46.6%、硅约27.7%、铝约8.1%、铁约5.0%——接近一半都是氧，「铝」是地壳中含量最高的金属元素，比铁还多。"
+  }
+]

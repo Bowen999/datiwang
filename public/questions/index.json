@@ -12,6 +12,7 @@
     { "id": "literature", "name": "中外文学" },
     { "id": "popculture", "name": "流行文化" },
     { "id": "food", "name": "美食" },
-    { "id": "movies", "name": "影视" }
+    { "id": "movies", "name": "影视" },
+    { "id": "ranking", "name": "排名题" }
   ]
 }

@@ -64,10 +64,21 @@ export function randomNickname(): string {
   return pick(NICK_PATTERNS)().slice(0, 12);
 }
 
-const ROOM_PREFIX = ['疯狂', '欢乐', '巅峰', '摸鱼', '深夜', '周末', '摸金', '全明星', '龙卷风', '超级'];
-const ROOM_SUFFIX = ['答题夜', '挑战赛', '大作战', '派对', '争霸赛', '头脑风暴', 'PK现场', '知识擂台'];
+/** 文艺作品中的经典地点（游戏/动漫/电影/小说等），随机用作房间名 */
+const ROOM_PLACES = [
+  // 用户点名
+  '霍格沃滋', '木叶村', '伟大航道', '武当山',
+  // 小说/武侠
+  '花果山', '大观园', '桃花岛', '光明顶', '黑木崖', '少林寺', '蜀山', '稻香村',
+  // 动漫
+  '圣域', '数码世界', '米花町', '真新镇',
+  // 游戏
+  '海拉鲁', '米德加', '艾泽拉斯', '德玛西亚', '提瓦特', '璃月', '王者峡谷', '罗德岛', '平安京', '苇名城',
+  // 电影/动画电影
+  '夏尔', '瓦坎达', '拉普达', '阿伦黛尔',
+];
 
-/** 随机房间名，如「疯狂答题夜」 */
+/** 随机房间名，如「木叶村」「艾泽拉斯」 */
 export function randomRoomName(): string {
-  return ROOM_PREFIX[Math.floor(Math.random() * ROOM_PREFIX.length)] + ROOM_SUFFIX[Math.floor(Math.random() * ROOM_SUFFIX.length)];
+  return ROOM_PLACES[Math.floor(Math.random() * ROOM_PLACES.length)];
 }

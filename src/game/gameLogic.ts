@@ -3,22 +3,47 @@ import type {
   GameSettings,
   Player,
   PublicQuestion,
+  QuestionKind,
   QuizQuestion,
   RoomState,
 } from '../types/game';
-import { scoreAnswer } from './scoring';
+import { rankingRatio, scoreAnswer, scoreRankingAnswer } from './scoring';
 
 export const COUNTDOWN_MS = 3200;
 export const REVEAL_MS = 6000;
 
+/** 排序题比选择题多出的作答时间（秒） */
+export const RANKING_EXTRA_SECONDS = 10;
+
+/** 题型对应的作答窗口（毫秒）：排序题在基础答题时间上 +10s */
+export function questionTimeMs(kind: QuestionKind, roundSeconds: number): number {
+  return (roundSeconds + (kind === 'ranking' ? RANKING_EXTRA_SECONDS : 0)) * 1000;
+}
+
 export function toPublicQuestion(q: QuizQuestion): PublicQuestion {
+  if (q.kind === 'ranking') {
+    const { correctOrder: _c, explanation: _e, ...rest } = q;
+    return rest;
+  }
   const { correctAnswer: _c, explanation: _e, ...rest } = q;
   return rest;
 }
 
-/** 打乱选项顺序并同步修正正确下标，让同一题每次出现的选项排列都不同 */
+/** 打乱选项顺序并同步修正答案，让同一题每次出现的选项排列都不同 */
 export function shuffleQuestionOptions(q: QuizQuestion): QuizQuestion {
   const order = q.options.map((_, i) => i).sort(() => Math.random() - 0.5);
+  if (q.kind === 'ranking') {
+    // 排序题：洗牌后同步重映射正确排名中的选项下标
+    const oldToNew: number[] = new Array(order.length);
+    order.forEach((oldIdx, newIdx) => {
+      oldToNew[oldIdx] = newIdx;
+    });
+    return {
+      ...q,
+      options: order.map((i) => q.options[i]),
+      correctOrder: q.correctOrder.map((old) => oldToNew[old]),
+    };
+  }
   return {
     ...q,
     options: order.map((i) => q.options[i]),
@@ -76,7 +101,7 @@ export function launchQuestion(state: RoomState, question: QuizQuestion, now: nu
     ...state,
     phase: 'question',
     activeQuestion: toPublicQuestion(question),
-    questionEndsAt: now + state.settings.roundSeconds * 1000,
+    questionEndsAt: now + questionTimeMs(question.kind, state.settings.roundSeconds),
     countdownEndsAt: undefined,
     answeredIds: [],
     reveal: undefined,
@@ -88,27 +113,41 @@ export function launchQuestion(state: RoomState, question: QuizQuestion, now: nu
 export function computeReveal(
   state: RoomState,
   question: QuizQuestion,
-  answers: ReadonlyMap<string, { optionIndex: number; timeMs: number }>,
+  answers: ReadonlyMap<string, { optionIndex?: number; order?: number[]; timeMs: number }>,
   now: number,
 ): { state: RoomState; results: AnswerRecord[] } {
-  const roundMs = state.settings.roundSeconds * 1000;
+  const roundMs = questionTimeMs(question.kind, state.settings.roundSeconds);
   const players = state.players.map((p) => {
     const raw = answers.get(p.id);
-    const correct = raw != null && raw.optionIndex === question.correctAnswer;
-    const streakAfter = correct ? p.streak + 1 : 0;
-    const timeMs = raw?.timeMs ?? roundMs;
-    const points = scoreAnswer({ correct, timeMs, roundMs, streakAfter });
+    let optionIndex = -1;
+    let order: number[] = [];
+    let correct = false;
+    let points = 0;
+    if (question.kind === 'ranking') {
+      // 排序题：按正确率给分，完全正确才有连击
+      order = raw?.order && raw.order.length > 0 ? raw.order : [];
+      const ratio = rankingRatio(order, question.correctOrder);
+      correct = ratio >= 1;
+      const streakAfter = correct ? p.streak + 1 : 0;
+      points = scoreRankingAnswer({ ratio, timeMs: raw?.timeMs ?? roundMs, roundMs, streakAfter }).points;
+    } else {
+      optionIndex = raw?.optionIndex ?? -1;
+      correct = raw != null && raw.optionIndex === question.correctAnswer;
+      const streakAfter = correct ? p.streak + 1 : 0;
+      points = scoreAnswer({ correct, timeMs: raw?.timeMs ?? roundMs, roundMs, streakAfter });
+    }
     return {
       player: {
         ...p,
         score: p.score + points,
-        streak: streakAfter,
+        streak: correct ? p.streak + 1 : 0,
         correctCount: p.correctCount + (correct ? 1 : 0),
       },
       record: {
         playerId: p.id,
-        optionIndex: raw?.optionIndex ?? -1,
-        timeMs,
+        optionIndex,
+        order,
+        timeMs: raw?.timeMs ?? roundMs,
         correct,
         points,
       } satisfies AnswerRecord,
@@ -120,7 +159,9 @@ export function computeReveal(
     phase: 'reveal',
     players: players.map((x) => x.player),
     reveal: {
-      correctAnswer: question.correctAnswer,
+      kind: question.kind,
+      correctAnswer: question.kind === 'choice' ? question.correctAnswer : undefined,
+      correctOrder: question.kind === 'ranking' ? question.correctOrder : undefined,
       explanation: question.explanation,
       results,
       endsAt: now + REVEAL_MS,
