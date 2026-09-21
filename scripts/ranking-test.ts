@@ -140,7 +140,7 @@ check('选择题 order 为空数组', c2.order.length === 0);
 // ---- 5. 排序题 JSON 数据正确性（correctOrder 自检）----
 console.log('5) ranking.json 数据自检');
 const rankingJson = JSON.parse(readFileSync(join(process.cwd(), 'public/questions/ranking.json'), 'utf8')) as QuizQuestion[];
-check(`ranking.json 共 20 题`, rankingJson.length === 20);
+check(`ranking.json 共 70 题`, rankingJson.length === 70);
 for (const q of rankingJson) {
   const order = (q as { correctOrder?: number[] }).correctOrder ?? [];
   check(
