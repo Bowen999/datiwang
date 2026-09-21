@@ -1,0 +1,632 @@
+[
+  {
+    "id": "nations-001",
+    "category": "nations",
+    "difficulty": "easy",
+    "question": "城市曼谷属于哪个国家？",
+    "options": [
+      "越南",
+      "泰国",
+      "马来西亚",
+      "菲律宾"
+    ],
+    "correctAnswer": 1,
+    "explanation": "曼谷是泰国首都兼最大城市，大皇宫、湄南河和热闹的夜市都是招牌地标；它的泰语全称超长，曾入选吉尼斯世界纪录，是全世界最长的城市名。"
+  },
+  {
+    "id": "nations-002",
+    "category": "nations",
+    "difficulty": "easy",
+    "question": "城市圣保罗属于哪个国家？",
+    "options": [
+      "巴西",
+      "阿根廷",
+      "智利",
+      "葡萄牙"
+    ],
+    "correctAnswer": 0,
+    "explanation": "圣保罗是巴西最大城市、南半球人口最多的都市之一，也是拉美首屈一指的金融与工业中心；因历史上长期属于葡萄牙殖民地，当地通行葡萄牙语。"
+  },
+  {
+    "id": "nations-003",
+    "category": "nations",
+    "difficulty": "easy",
+    "question": "城市慕尼黑属于哪个国家？",
+    "options": [
+      "奥地利",
+      "瑞士",
+      "荷兰",
+      "德国"
+    ],
+    "correctAnswer": 3,
+    "explanation": "慕尼黑是德国巴伐利亚州的首府，闻名全球的十月啤酒节（Oktoberfest）每年秋季就在这里举办，同时也是宝马汽车总部的所在地。"
+  },
+  {
+    "id": "nations-004",
+    "category": "nations",
+    "difficulty": "easy",
+    "question": "城市孟买属于哪个国家？",
+    "options": [
+      "巴基斯坦",
+      "孟加拉国",
+      "印度",
+      "斯里兰卡"
+    ],
+    "correctAnswer": 2,
+    "explanation": "孟买是印度最大城市和金融、娱乐业中心，世界闻名的宝莱坞电影工业就以这里为大本营，海岸边的印度门是其标志性地标。"
+  },
+  {
+    "id": "nations-005",
+    "category": "nations",
+    "difficulty": "easy",
+    "question": "城市维也纳属于哪个国家？",
+    "options": [
+      "德国",
+      "奥地利",
+      "瑞士",
+      "匈牙利"
+    ],
+    "correctAnswer": 1,
+    "explanation": "维也纳是奥地利首都，被誉为「音乐之都」，贝多芬、莫扎特、海顿等音乐大师都曾在此创作与生活，金色大厅更是全球乐迷心中的圣地。"
+  },
+  {
+    "id": "nations-006",
+    "category": "nations",
+    "difficulty": "medium",
+    "question": "城市温哥华属于哪个国家？",
+    "options": [
+      "美国",
+      "英国",
+      "加拿大",
+      "澳大利亚"
+    ],
+    "correctAnswer": 2,
+    "explanation": "温哥华是加拿大西海岸最大城市、2010年冬奥会举办地，多次登顶全球宜居城市榜单；它也是加拿大第三大城市，仅次于多伦多和蒙特利尔。"
+  },
+  {
+    "id": "nations-007",
+    "category": "nations",
+    "difficulty": "medium",
+    "question": "城市蒙特利尔属于哪个国家？",
+    "options": [
+      "加拿大",
+      "美国",
+      "法国",
+      "比利时"
+    ],
+    "correctAnswer": 0,
+    "explanation": "蒙特利尔是加拿大第二大城市，也是全球仅次于巴黎的第二大法语城市；老城区的鹅卵石街道和圣母大教堂处处透着法兰西风情。"
+  },
+  {
+    "id": "nations-008",
+    "category": "nations",
+    "difficulty": "medium",
+    "question": "城市开普敦属于哪个国家？",
+    "options": [
+      "纳米比亚",
+      "肯尼亚",
+      "莫桑比克",
+      "南非"
+    ],
+    "correctAnswer": 3,
+    "explanation": "开普敦是南非的立法首都（南非共设三个首都），国会就设在这里；著名的桌山和好望角都在开普敦，是南非最知名的旅游城市。"
+  },
+  {
+    "id": "nations-009",
+    "category": "nations",
+    "difficulty": "medium",
+    "question": "城市里约热内卢属于哪个国家？",
+    "options": [
+      "哥伦比亚",
+      "巴西",
+      "阿根廷",
+      "厄瓜多尔"
+    ],
+    "correctAnswer": 1,
+    "explanation": "里约热内卢以山顶的基督像、海滩和狂欢节闻名天下，1960年之前它一直是巴西首都，直到巴西利亚落成才让出首都之位。"
+  },
+  {
+    "id": "nations-010",
+    "category": "nations",
+    "difficulty": "medium",
+    "question": "城市佛罗伦萨属于哪个国家？",
+    "options": [
+      "意大利",
+      "法国",
+      "西班牙",
+      "希腊"
+    ],
+    "correctAnswer": 0,
+    "explanation": "佛罗伦萨是意大利托斯卡纳大区首府、文艺复兴运动的发源地，圣母百花大教堂和乌菲兹美术馆里收藏着无数大师真迹。"
+  },
+  {
+    "id": "nations-011",
+    "category": "nations",
+    "difficulty": "medium",
+    "question": "城市圣彼得堡属于哪个国家？",
+    "options": [
+      "乌克兰",
+      "白俄罗斯",
+      "俄罗斯",
+      "波兰"
+    ],
+    "correctAnswer": 2,
+    "explanation": "圣彼得堡是俄罗斯第二大城市，1712年至1918年间曾长期作为沙俄的首都；著名的冬宫（现为埃尔米塔日博物馆）就坐落在这里。"
+  },
+  {
+    "id": "nations-012",
+    "category": "nations",
+    "difficulty": "hard",
+    "question": "城市苏黎世属于哪个国家？",
+    "options": [
+      "奥地利",
+      "瑞士",
+      "卢森堡",
+      "列支敦士登"
+    ],
+    "correctAnswer": 1,
+    "explanation": "苏黎世是瑞士最大城市和全球顶级金融中心之一，苏黎世湖畔的老城风光如画；它是瑞士的经济首都，而瑞士的政治首都是伯尔尼。"
+  },
+  {
+    "id": "nations-013",
+    "category": "nations",
+    "difficulty": "hard",
+    "question": "城市卡萨布兰卡属于哪个国家？",
+    "options": [
+      "摩洛哥",
+      "阿尔及利亚",
+      "突尼斯",
+      "埃及"
+    ],
+    "correctAnswer": 0,
+    "explanation": "卡萨布兰卡是摩洛哥最大城市和经济中心，哈桑二世清真寺是世界第三大清真寺；好莱坞经典电影《卡萨布兰卡》（北非谍影）让这座城市闻名全球。"
+  },
+  {
+    "id": "nations-014",
+    "category": "nations",
+    "difficulty": "hard",
+    "question": "城市吉隆坡属于哪个国家？",
+    "options": [
+      "印度尼西亚",
+      "泰国",
+      "新加坡",
+      "马来西亚"
+    ],
+    "correctAnswer": 3,
+    "explanation": "吉隆坡是马来西亚首都和最大城市，高耸的国油双峰塔曾是世界最高建筑；这里多元文化交融，华人、马来人和印度人社群和谐共处。"
+  },
+  {
+    "id": "nations-015",
+    "category": "nations",
+    "difficulty": "hard",
+    "question": "城市巴塞罗那属于哪个国家？",
+    "options": [
+      "葡萄牙",
+      "意大利",
+      "西班牙",
+      "法国"
+    ],
+    "correctAnswer": 2,
+    "explanation": "巴塞罗那是西班牙加泰罗尼亚自治区的首府，高迪设计的圣家堂至今未完工却已是世界遗产；它同时还是地中海沿岸最重要的港口城市之一。"
+  },
+  {
+    "id": "nations-016",
+    "category": "nations",
+    "difficulty": "easy",
+    "question": "足球运动员梅西是哪个国家的人？",
+    "options": [
+      "巴西",
+      "阿根廷",
+      "西班牙",
+      "葡萄牙"
+    ],
+    "correctAnswer": 1,
+    "explanation": "梅西1987年出生于阿根廷罗萨里奥，长期代表阿根廷国家队出战，2022年率队夺得世界杯冠军，是公认的阿根廷足球旗帜。"
+  },
+  {
+    "id": "nations-017",
+    "category": "nations",
+    "difficulty": "easy",
+    "question": "文艺复兴画家达·芬奇是哪个国家的人？",
+    "options": [
+      "法国",
+      "希腊",
+      "西班牙",
+      "意大利"
+    ],
+    "correctAnswer": 3,
+    "explanation": "达·芬奇1452年出生于意大利佛罗伦萨附近的芬奇镇，是《蒙娜丽莎》《最后的晚餐》的作者，与米开朗琪罗、拉斐尔并称文艺复兴三杰。"
+  },
+  {
+    "id": "nations-018",
+    "category": "nations",
+    "difficulty": "easy",
+    "question": "微软创始人比尔·盖茨是哪个国家的人？",
+    "options": [
+      "美国",
+      "英国",
+      "加拿大",
+      "澳大利亚"
+    ],
+    "correctAnswer": 0,
+    "explanation": "比尔·盖茨1955年出生于美国华盛顿州西雅图，1975年与保罗·艾伦共同创立微软，曾多年蝉联世界首富。"
+  },
+  {
+    "id": "nations-019",
+    "category": "nations",
+    "difficulty": "easy",
+    "question": "足球运动员卡卡是哪个国家的人？",
+    "options": [
+      "阿根廷",
+      "葡萄牙",
+      "巴西",
+      "法国"
+    ],
+    "correctAnswer": 2,
+    "explanation": "卡卡全名里卡多·伊泽克松·多斯桑托斯，1982年出生于巴西，曾效力AC米兰和皇家马德里，2007年包揽金球奖和世界足球先生。"
+  },
+  {
+    "id": "nations-020",
+    "category": "nations",
+    "difficulty": "easy",
+    "question": "足球运动员孙兴慜是哪个国家的人？",
+    "options": [
+      "日本",
+      "韩国",
+      "朝鲜",
+      "中国"
+    ],
+    "correctAnswer": 1,
+    "explanation": "孙兴慜1992年出生于韩国江原道春川，长期效力英超热刺，是韩国足球的旗帜性人物，曾荣膺英超金靴。"
+  },
+  {
+    "id": "nations-021",
+    "category": "nations",
+    "difficulty": "medium",
+    "question": "足球运动员姆巴佩是哪个国家的人？",
+    "options": [
+      "法国",
+      "西班牙",
+      "英格兰",
+      "意大利"
+    ],
+    "correctAnswer": 0,
+    "explanation": "姆巴佩1998年出生于法国巴黎的市郊邦迪，2018年随法国队夺得世界杯冠军并在决赛中进球，是法国黄金一代的核心。"
+  },
+  {
+    "id": "nations-022",
+    "category": "nations",
+    "difficulty": "medium",
+    "question": "音乐家贝多芬是哪个国家的人？",
+    "options": [
+      "法国",
+      "奥地利",
+      "波兰",
+      "德国"
+    ],
+    "correctAnswer": 3,
+    "explanation": "贝多芬1770年出生于德国波恩，被尊为「乐圣」，代表作有《命运交响曲》《月光奏鸣曲》。他晚年虽定居奥地利的维也纳，但国籍是德国人。"
+  },
+  {
+    "id": "nations-023",
+    "category": "nations",
+    "difficulty": "medium",
+    "question": "足球运动员克里斯蒂亚诺·罗纳尔多（C罗）是哪个国家的人？",
+    "options": [
+      "西班牙",
+      "意大利",
+      "葡萄牙",
+      "巴西"
+    ],
+    "correctAnswer": 2,
+    "explanation": "C罗1985年出生于葡萄牙马德拉群岛，是葡萄牙国家队历史第一射手，2016年率队夺得欧洲杯冠军，是葡萄牙的国民偶像。"
+  },
+  {
+    "id": "nations-024",
+    "category": "nations",
+    "difficulty": "medium",
+    "question": "俄罗斯总统普京是哪个国家的人？",
+    "options": [
+      "乌克兰",
+      "白俄罗斯",
+      "哈萨克斯坦",
+      "俄罗斯"
+    ],
+    "correctAnswer": 3,
+    "explanation": "普京1952年出生于俄罗斯圣彼得堡（当时称列宁格勒），从2000年起长期担任俄罗斯总统，是国际政坛最具影响力的人物之一。"
+  },
+  {
+    "id": "nations-025",
+    "category": "nations",
+    "difficulty": "medium",
+    "question": "演员黄渤是哪个地区的人？",
+    "options": [
+      "山东",
+      "河南",
+      "河北",
+      "辽宁"
+    ],
+    "correctAnswer": 0,
+    "explanation": "黄渤1974年出生于山东青岛，凭《疯狂的石头》《斗牛》《亲爱的》等作品走红，曾凭《斗牛》获金马奖最佳男主角。"
+  },
+  {
+    "id": "nations-026",
+    "category": "nations",
+    "difficulty": "medium",
+    "question": "喜剧演员沈腾是哪个地区的人？",
+    "options": [
+      "吉林",
+      "辽宁",
+      "黑龙江",
+      "河北"
+    ],
+    "correctAnswer": 2,
+    "explanation": "沈腾1979年出生于黑龙江齐齐哈尔，是开心麻花的核心成员，凭《夏洛特烦恼》《西虹市首富》等电影成为国产喜剧票房担当。"
+  },
+  {
+    "id": "nations-027",
+    "category": "nations",
+    "difficulty": "hard",
+    "question": "音乐家莫扎特是哪个国家的人？",
+    "options": [
+      "德国",
+      "奥地利",
+      "瑞士",
+      "匈牙利"
+    ],
+    "correctAnswer": 1,
+    "explanation": "莫扎特1756年出生于奥地利萨尔茨堡，被誉为「音乐神童」，是古典主义音乐的代表人物，代表作有歌剧《费加罗的婚礼》《魔笛》。"
+  },
+  {
+    "id": "nations-028",
+    "category": "nations",
+    "difficulty": "hard",
+    "question": "演员白敬亭是哪个地区的人？",
+    "options": [
+      "天津",
+      "上海",
+      "河北",
+      "北京"
+    ],
+    "correctAnswer": 3,
+    "explanation": "白敬亭1993年出生于北京，因网剧《匆匆那年》出道，之后在《夏至未至》《你是我的城池营垒》等作品中走红。"
+  },
+  {
+    "id": "nations-029",
+    "category": "nations",
+    "difficulty": "hard",
+    "question": "喜剧演员贾玲是哪个地区的人？",
+    "options": [
+      "湖北",
+      "四川",
+      "湖南",
+      "河南"
+    ],
+    "correctAnswer": 0,
+    "explanation": "贾玲1982年出生于湖北襄阳，师从冯巩，执导并主演《你好，李焕英》后成为全球单片票房最高的女导演之一。"
+  },
+  {
+    "id": "nations-030",
+    "category": "nations",
+    "difficulty": "hard",
+    "question": "歌手周深是哪个地区的人？",
+    "options": [
+      "贵州",
+      "云南",
+      "湖南",
+      "四川"
+    ],
+    "correctAnswer": 2,
+    "explanation": "周深1992年出生于湖南邵阳，幼年随家人迁往贵州生活，以空灵独特的嗓音走红，代表作有《大鱼》《光亮》等。"
+  },
+  {
+    "id": "nations-031",
+    "category": "nations",
+    "difficulty": "easy",
+    "question": "品牌三星是哪个国家的品牌？",
+    "options": [
+      "美国",
+      "日本",
+      "韩国",
+      "中国"
+    ],
+    "correctAnswer": 2,
+    "explanation": "三星集团总部位于韩国首尔，1938年创立于韩国大邱，今天它是韩国最大的企业集团，智能手机、芯片、家电等业务遍及全球。"
+  },
+  {
+    "id": "nations-032",
+    "category": "nations",
+    "difficulty": "easy",
+    "question": "品牌丰田是哪个国家的品牌？",
+    "options": [
+      "日本",
+      "韩国",
+      "美国",
+      "德国"
+    ],
+    "correctAnswer": 0,
+    "explanation": "丰田汽车总部设在日本爱知县丰田市，1937年由丰田喜一郎在日本创立，长期位居全球汽车销量前列，也是「精益生产」模式的缔造者。"
+  },
+  {
+    "id": "nations-033",
+    "category": "nations",
+    "difficulty": "easy",
+    "question": "品牌苹果是哪个国家的品牌？",
+    "options": [
+      "英国",
+      "日本",
+      "德国",
+      "美国"
+    ],
+    "correctAnswer": 3,
+    "explanation": "苹果公司1976年创立于美国加利福尼亚州，总部位于硅谷的库比蒂诺，iPhone、Mac等产品与iOS生态全部源自美国。"
+  },
+  {
+    "id": "nations-034",
+    "category": "nations",
+    "difficulty": "easy",
+    "question": "品牌保时捷是哪个国家的品牌？",
+    "options": [
+      "法国",
+      "德国",
+      "意大利",
+      "英国"
+    ],
+    "correctAnswer": 1,
+    "explanation": "保时捷总部位于德国斯图加特，费迪南德·保时捷1931年在此创立设计工作室，如今它是德国最具代表性的跑车品牌，隶属于大众集团。"
+  },
+  {
+    "id": "nations-035",
+    "category": "nations",
+    "difficulty": "easy",
+    "question": "品牌香奈儿是哪个国家的品牌？",
+    "options": [
+      "意大利",
+      "英国",
+      "美国",
+      "法国"
+    ],
+    "correctAnswer": 3,
+    "explanation": "香奈儿由可可·香奈儿1910年在法国巴黎创立，总部至今仍在巴黎，是全球最有代表性的法国奢侈品牌之一，经典双C标志家喻户晓。"
+  },
+  {
+    "id": "nations-036",
+    "category": "nations",
+    "difficulty": "medium",
+    "question": "品牌路虎是哪个国家的品牌？",
+    "options": [
+      "意大利",
+      "英国",
+      "美国",
+      "德国"
+    ],
+    "correctAnswer": 1,
+    "explanation": "路虎是源自英国的豪华SUV品牌，1948年由英国罗孚公司推出首款车型，今天虽归属印度的塔塔集团，但品牌与主要研发、制造仍在英国。"
+  },
+  {
+    "id": "nations-037",
+    "category": "nations",
+    "difficulty": "medium",
+    "question": "品牌法拉利是哪个国家的品牌？",
+    "options": [
+      "法国",
+      "英国",
+      "德国",
+      "意大利"
+    ],
+    "correctAnswer": 3,
+    "explanation": "法拉利1929年由恩佐·法拉利在意大利摩德纳创办，总部位于马拉内罗，跃马标配上经典红色车身，是意大利跑车的代名词。"
+  },
+  {
+    "id": "nations-038",
+    "category": "nations",
+    "difficulty": "medium",
+    "question": "品牌宜家是哪个国家的品牌？",
+    "options": [
+      "瑞士",
+      "丹麦",
+      "瑞典",
+      "荷兰"
+    ],
+    "correctAnswer": 2,
+    "explanation": "宜家1943年由瑞典人英格瓦·坎普拉德创立，源自瑞典斯莫兰地区，是瑞典最具代表性的家居品牌，靠经典北欧简约风格风靡全球。"
+  },
+  {
+    "id": "nations-039",
+    "category": "nations",
+    "difficulty": "medium",
+    "question": "品牌乐高是哪个国家的品牌？",
+    "options": [
+      "瑞典",
+      "挪威",
+      "丹麦",
+      "芬兰"
+    ],
+    "correctAnswer": 2,
+    "explanation": "乐高(Lego)1932年诞生于丹麦比隆，由木匠出身的奥勒·基奥克创办，1949年推出拼接积木，「乐高」取自丹麦语「leg godt」，意为「玩得开心」。"
+  },
+  {
+    "id": "nations-040",
+    "category": "nations",
+    "difficulty": "medium",
+    "question": "品牌雀巢是哪个国家的品牌？",
+    "options": [
+      "美国",
+      "瑞士",
+      "法国",
+      "德国"
+    ],
+    "correctAnswer": 1,
+    "explanation": "雀巢1866年由亨利·雀巢在瑞士沃韦创立，总部至今设在瑞士，是全球最大的食品公司之一——创始人虽是德国人，但公司是地道的瑞士品牌。"
+  },
+  {
+    "id": "nations-041",
+    "category": "nations",
+    "difficulty": "medium",
+    "question": "品牌华为是哪个国家的品牌？",
+    "options": [
+      "日本",
+      "韩国",
+      "中国",
+      "美国"
+    ],
+    "correctAnswer": 2,
+    "explanation": "华为1987年由任正非在深圳创立，总部位于中国深圳，如今是全球领先的通信设备和智能手机厂商。"
+  },
+  {
+    "id": "nations-042",
+    "category": "nations",
+    "difficulty": "hard",
+    "question": "品牌诺基亚是哪个国家的品牌？",
+    "options": [
+      "瑞典",
+      "芬兰",
+      "挪威",
+      "丹麦"
+    ],
+    "correctAnswer": 1,
+    "explanation": "诺基亚1865年创立于芬兰，总部位于芬兰埃斯波，是芬兰最广为人知的企业，曾凭功能手机称霸全球，如今主营通信网络设备。"
+  },
+  {
+    "id": "nations-043",
+    "category": "nations",
+    "difficulty": "hard",
+    "question": "品牌阿斯麦是哪个国家的品牌？",
+    "options": [
+      "美国",
+      "德国",
+      "荷兰",
+      "比利时"
+    ],
+    "correctAnswer": 2,
+    "explanation": "阿斯麦(ASML)总部位于荷兰费尔德霍芬，是极紫外光刻机的全球独家供应商，顶尖芯片大多出自它的机器，被称为「半导体皇冠上的明珠」。"
+  },
+  {
+    "id": "nations-044",
+    "category": "nations",
+    "difficulty": "hard",
+    "question": "品牌劳斯莱斯是哪个国家的品牌？",
+    "options": [
+      "意大利",
+      "英国",
+      "德国",
+      "美国"
+    ],
+    "correctAnswer": 1,
+    "explanation": "劳斯莱斯1904年由劳斯与罗伊斯在英国曼彻斯特创立，是源自英国的超豪华汽车品牌；如今虽归德国宝马集团所有，但制造中心仍在英国古德伍德。"
+  },
+  {
+    "id": "nations-045",
+    "category": "nations",
+    "difficulty": "hard",
+    "question": "品牌施华洛世奇是哪个国家的品牌？",
+    "options": [
+      "瑞士",
+      "德国",
+      "奥地利",
+      "捷克"
+    ],
+    "correctAnswer": 2,
+    "explanation": "施华洛世奇1895年由丹尼尔·施华洛世奇在奥地利瓦滕斯设厂，总部至今留在这里，靠高精度切割的仿水晶饰品享誉全球，是奥地利头号水晶品牌。"
+  }
+]
