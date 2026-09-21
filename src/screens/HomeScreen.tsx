@@ -44,7 +44,7 @@ export function HomeScreen({ connecting, error, mode, initialCode, onCreate, onJ
         className="relative"
       >
         <div className="rounded-neo border-[5px] border-ink bg-neo-yellow px-8 py-4 shadow-neo-lg landscape:px-6 landscape:py-2">
-          <h1 className="text-4xl font-black tracking-widest landscape:text-4xl sm:text-5xl">谁是小智障</h1>
+          <h1 className="text-4xl font-black tracking-widest landscape:text-4xl sm:text-5xl">谁是小文盲</h1>
         </div>
         <motion.div
           className="absolute -right-5 -top-5 rounded-full border-[3px] border-ink bg-neo-pink px-2 py-1 text-xs font-black text-white shadow-neo-sm"

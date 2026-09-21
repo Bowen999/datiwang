@@ -3,7 +3,7 @@ import { useMemo } from 'react';
 import type { RankedPlayer } from '../game/scoring';
 
 interface AwardCeremonyProps {
-  /** winner = 第一名「你是大聪明」；loser = 最后一名「你是小智障」 */
+  /** winner = 第一名「你是大聪明」；loser = 最后一名「你是小文盲」 */
   stage: 'winner' | 'loser';
   winners: RankedPlayer[];
   losers: RankedPlayer[];
@@ -27,7 +27,7 @@ interface Piece {
 /**
  * 结算颁奖典礼（所有玩家本机同步渲染同一内容，无需额外消息）：
  * - winner：金色聚光 + 金色纸屑，「你是大聪明」奖状颁发给第一名
- * - loser：黑暗聚光灯 + 下🍳雨 + 搞怪漂浮 emoji，「你是小智障」奖状颁发给最后一名
+ * - loser：黑暗聚光灯 + 下🍳雨 + 搞怪漂浮 emoji，「你是小文盲」奖状颁发给最后一名
  */
 export function AwardCeremony({ stage, winners, losers }: AwardCeremonyProps) {
   const isWinner = stage === 'winner';
@@ -132,7 +132,7 @@ export function AwardCeremony({ stage, winners, losers }: AwardCeremonyProps) {
         </motion.div>
       ))}
 
-      {/* 小智障奖：搞怪漂浮 emoji */}
+      {/* 小文盲奖：搞怪漂浮 emoji */}
       {!isWinner &&
         floaters.map((f) => (
           <motion.span
@@ -180,7 +180,7 @@ export function AwardCeremony({ stage, winners, losers }: AwardCeremonyProps) {
               isWinner ? 'text-ink' : 'text-neo-red'
             }`}
           >
-            {isWinner ? '你是大聪明！' : '你是小智障！'}
+            {isWinner ? '你是大聪明！' : '你是小文盲！'}
           </motion.div>
           <div className={`mt-3 text-lg font-black ${isWinner ? 'text-ink/70' : 'text-ink/60'}`}>
             {isWinner ? `🏆 第一名 · ${names}` : `🌀 最后一名 · ${names}`}

@@ -1,4 +1,4 @@
-# 谁是小智障 · 派对问答（Datiwang）
+# 谁是小文盲 · 派对问答（Datiwang）
 
 中文多人派对问答游戏，和好友实时 PK！基于 React + Vite + TypeScript + Tailwind CSS 构建，支持 Supabase Realtime 实时联机，未配置时自动降级为本地演示模式。
 

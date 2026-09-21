@@ -16,7 +16,7 @@ interface FinalScreenProps {
   onLeave: () => void;
 }
 
-/** 颁奖典礼时长：大聪明 2800ms → 小智障 2800ms → 揭晓自己的横幅 */
+/** 颁奖典礼时长：大聪明 2800ms → 小文盲 2800ms → 揭晓自己的横幅 */
 const GENIUS_MS = 2800;
 const LOSER_MS = 2800;
 
@@ -24,8 +24,8 @@ type Stage = 'winner' | 'loser' | 'done';
 
 /**
  * 结算页：
- * 1. 颁奖典礼（所有人同步可见）——第一名颁发「你是大聪明」，最后一名颁发「你是小智障」；
- * 2. 特效结束后横幅展示自己的提示：第一名「你是大聪明」/ 最后一名「你是小智障」/ 其余「游戏结束」；
+ * 1. 颁奖典礼（所有人同步可见）——第一名颁发「你是大聪明」，最后一名颁发「你是小文盲」；
+ * 2. 特效结束后横幅展示自己的提示：第一名「你是大聪明」/ 最后一名「你是小文盲」/ 其余「游戏结束」；
  * 3. 冠军领奖台 + 完整排名 + 彩带。
  */
 export function FinalScreen({ room, selfId, isHost, onPlayAgain, onLeave }: FinalScreenProps) {
@@ -35,7 +35,7 @@ export function FinalScreen({ room, selfId, isHost, onPlayAgain, onLeave }: Fina
   const champion = ranked[0];
   const isChampion = champion?.id === selfId;
 
-  // 并列时整个同分梯队一起领奖；若第一名即最后一名（如单人/全员同分）则跳过小智障奖
+  // 并列时整个同分梯队一起领奖；若第一名即最后一名（如单人/全员同分）则跳过小文盲奖
   const firstRank = ranked[0]?.rank ?? 1;
   const lastRank = ranked[ranked.length - 1]?.rank ?? firstRank;
   const winners = ranked.filter((p) => p.rank === firstRank);
@@ -65,7 +65,7 @@ export function FinalScreen({ room, selfId, isHost, onPlayAgain, onLeave }: Fina
       <AwardCeremony key="loser" stage="loser" winners={[]} losers={losers} />
     ) : null;
 
-  const bannerTitle = amWinner ? '🎓 你是大聪明！' : amLoser ? '🤪 你是小智障！' : '🎊 游戏结束！';
+  const bannerTitle = amWinner ? '🎓 你是大聪明！' : amLoser ? '🤪 你是小文盲！' : '🎊 游戏结束！';
   const bannerClass = amWinner ? 'bg-neo-yellow text-ink shadow-[10px_10px_0_#141414]' : 'bg-neo-pink text-white shadow-neo-lg';
 
   // 领奖台顺序：亚军、冠军、季军
