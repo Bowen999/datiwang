@@ -3,7 +3,8 @@ import { useState } from 'react';
 import { Avatar, PopIn } from '../components/Avatar';
 import { NeoButton } from '../components/ui/NeoButton';
 import { NeoBadge, NeoCard } from '../components/ui/NeoCard';
-import type { CategoryMeta, Difficulty, GameSettings, RoomState } from '../types/game';
+import { RANKING_EXTRA_SECONDS } from '../game/gameLogic';
+import type { CategoryMeta, Difficulty, GameSettings, QuestionKind, RoomState } from '../types/game';
 
 const DIFFICULTY_OPTIONS: { value: GameSettings['difficulty']; label: string }[] = [
   { value: 'mixed', label: '混合' },
@@ -13,6 +14,10 @@ const DIFFICULTY_OPTIONS: { value: GameSettings['difficulty']; label: string }[]
 ];
 const COUNT_OPTIONS = [10, 25, 50];
 const TIME_OPTIONS = [10, 15, 20];
+const TYPE_OPTIONS: { value: QuestionKind; label: string }[] = [
+  { value: 'choice', label: '选择题' },
+  { value: 'ranking', label: '🔀 排序题' },
+];
 
 interface LobbyScreenProps {
   room: RoomState;
@@ -29,6 +34,7 @@ interface LobbyScreenProps {
 
 export function LobbyScreen({ room, selfId, isHost, categories, onUpdateSettings, onRename, onReady, onRerollAvatar, onStart, onLeave }: LobbyScreenProps) {
   const [copied, setCopied] = useState<'code' | 'link' | null>(null);
+  const [showMore, setShowMore] = useState(false);
   const s = room.settings;
   const allSelected = s.categories.length === 0;
   const me = room.players.find((p) => p.id === selfId);
@@ -61,6 +67,14 @@ export function LobbyScreen({ room, selfId, isHost, categories, onUpdateSettings
     }
     const next = s.categories.includes(id) ? s.categories.filter((c) => c !== id) : [...s.categories, id];
     onUpdateSettings({ categories: next.length === categories.length ? [] : next });
+  };
+
+  const toggleType = (kind: QuestionKind) => {
+    if (!isHost) return;
+    const has = s.questionTypes.includes(kind);
+    if (has && s.questionTypes.length === 1) return; // 至少保留一种题目类型
+    const next = has ? s.questionTypes.filter((k) => k !== kind) : [...s.questionTypes, kind];
+    onUpdateSettings({ questionTypes: next });
   };
 
   return (
@@ -189,20 +203,6 @@ export function LobbyScreen({ room, selfId, isHost, categories, onUpdateSettings
             })}
           </div>
 
-          <div className="mb-1 text-sm font-black text-ink/60">难度</div>
-          <div className="mb-4 grid grid-cols-4 gap-2">
-            {DIFFICULTY_OPTIONS.map((d) => (
-              <OptionCell
-                key={d.value}
-                active={s.difficulty === d.value}
-                disabled={!isHost}
-                onClick={() => onUpdateSettings({ difficulty: d.value as Difficulty | 'mixed' })}
-              >
-                {d.label}
-              </OptionCell>
-            ))}
-          </div>
-
           <div className="mb-1 text-sm font-black text-ink/60">题目数量</div>
           <div className="mb-4 grid grid-cols-3 gap-2">
             {COUNT_OPTIONS.map((n) => (
@@ -212,14 +212,78 @@ export function LobbyScreen({ room, selfId, isHost, categories, onUpdateSettings
             ))}
           </div>
 
-          <div className="mb-1 text-sm font-black text-ink/60">每题时间</div>
-          <div className="grid grid-cols-3 gap-2">
-            {TIME_OPTIONS.map((n) => (
-              <OptionCell key={n} active={s.roundSeconds === n} disabled={!isHost} onClick={() => onUpdateSettings({ roundSeconds: n })}>
-                {n} 秒
-              </OptionCell>
-            ))}
-          </div>
+          {/* 更多设置：难度 / 每题时间 / 题目类型 */}
+          <motion.button
+            type="button"
+            onClick={() => setShowMore((v) => !v)}
+            className={`mb-2 flex w-full items-center justify-between rounded-neo border-[3px] border-ink px-3 py-2 text-sm font-black transition-all ${
+              isHost ? 'bg-paper hover:-translate-y-0.5' : 'cursor-pointer bg-paper'
+            }`}
+          >
+            <span>⚙️ 更多设置</span>
+            <motion.span animate={{ rotate: showMore ? 180 : 0 }}>▾</motion.span>
+          </motion.button>
+
+          <AnimatePresence initial={false}>
+            {showMore && (
+              <motion.div
+                initial={{ height: 0, opacity: 0 }}
+                animate={{ height: 'auto', opacity: 1 }}
+                exit={{ height: 0, opacity: 0 }}
+                transition={{ duration: 0.2 }}
+                className="overflow-hidden"
+              >
+                <div className="mb-1 text-sm font-black text-ink/60">难度</div>
+                <div className="mb-4 grid grid-cols-4 gap-2">
+                  {DIFFICULTY_OPTIONS.map((d) => (
+                    <OptionCell
+                      key={d.value}
+                      active={s.difficulty === d.value}
+                      disabled={!isHost}
+                      onClick={() => onUpdateSettings({ difficulty: d.value as Difficulty | 'mixed' })}
+                    >
+                      {d.label}
+                    </OptionCell>
+                  ))}
+                </div>
+
+                <div className="mb-1 text-sm font-black text-ink/60">每题时间</div>
+                <div className="mb-4 grid grid-cols-3 gap-2">
+                  {TIME_OPTIONS.map((n) => (
+                    <OptionCell key={n} active={s.roundSeconds === n} disabled={!isHost} onClick={() => onUpdateSettings({ roundSeconds: n })}>
+                      {n} 秒
+                    </OptionCell>
+                  ))}
+                </div>
+                <p className="-mt-2 mb-4 text-xs font-bold text-ink/45">
+                  💡 排序题作答时间自动多 {RANKING_EXTRA_SECONDS} 秒
+                </p>
+
+                <div className="mb-1 text-sm font-black text-ink/60">题目类型</div>
+                <div className="mb-1 grid grid-cols-2 gap-2">
+                  {TYPE_OPTIONS.map((t) => {
+                    const active = s.questionTypes.includes(t.value);
+                    return (
+                      <motion.button
+                        key={t.value}
+                        whileTap={isHost ? { scale: 0.92 } : undefined}
+                        onClick={() => toggleType(t.value)}
+                        className={`rounded-neo border-[3px] border-ink px-3 py-1.5 text-sm font-black transition-all ${
+                          active ? 'bg-neo-green shadow-neo-sm' : 'bg-white opacity-45'
+                        } ${isHost ? 'hover:-translate-y-0.5' : 'cursor-default'}`}
+                      >
+                        {active ? '✅ ' : '⬜ '}
+                        {t.label}
+                      </motion.button>
+                    );
+                  })}
+                </div>
+                <div className="mb-1 text-[10px] font-bold text-ink/40">
+                  💬 排序题按名次依次点选作答 · 含排行榜动态随机抽题（城市GDP、QS大学排名等）
+                </div>
+              </motion.div>
+            )}
+          </AnimatePresence>
         </NeoCard>
       </div>
 

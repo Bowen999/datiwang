@@ -1,5 +1,6 @@
 import { AnimatePresence, motion } from 'motion/react';
 import { useEffect, useMemo } from 'react';
+import { DebugOverlay } from './components/DebugOverlay';
 import { Toasts } from './components/Toasts';
 import { PartyDecorations } from './components/ui/NeoCard';
 import { useRoom } from './hooks/useRoom';
@@ -47,6 +48,7 @@ export default function App() {
     <div className="app-screen overflow-x-hidden pb-[var(--safe-bottom)]">
       <PartyDecorations />
       <Toasts notices={r.notices} />
+      <DebugOverlay mode={r.mode} connecting={r.connecting} room={r.room} myAnswer={r.myAnswer} />
       <AnimatePresence mode="wait">
         <motion.div key={screen} {...screenTransition} className="app-screen">
           {screen === 'home' && (
@@ -79,9 +81,9 @@ export default function App() {
               selfId={r.selfId}
               isHost={r.isHost}
               categories={r.categories}
-              myAnswerIndex={
+              myAnswer={
                 r.myAnswer && r.myAnswer.questionId === r.room.activeQuestion?.id
-                  ? r.myAnswer.optionIndex
+                  ? r.myAnswer
                   : null
               }
               now={r.now}

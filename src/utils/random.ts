@@ -8,6 +8,38 @@ export function shuffle<T>(arr: readonly T[]): T[] {
   return a;
 }
 
+/** 字符串 → 32 位哈希种子（FNV-1a 风格） */
+export function hashSeed(str: string): number {
+  let h = 2166136261;
+  for (let i = 0; i < str.length; i++) {
+    h ^= str.charCodeAt(i);
+    h = Math.imul(h, 16777619);
+  }
+  return h >>> 0;
+}
+
+/** mulberry32 伪随机数发生器：同种子必产生同序列 */
+export function mulberry32(seed: number): () => number {
+  let a = seed >>> 0;
+  return () => {
+    a |= 0;
+    a = (a + 0x6d2b79f5) | 0;
+    let t = Math.imul(a ^ (a >>> 15), 1 | a);
+    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+}
+
+/** 可复现洗牌：用注入的 rng 代替 Math.random，同种子必同排列 */
+export function seededShuffle<T>(arr: readonly T[], rng: () => number): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(rng() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
 /** 从数组中随机取 n 个（不放回） */
 export function pickN<T>(arr: readonly T[], n: number): T[] {
   return shuffle(arr).slice(0, Math.max(0, n));
@@ -30,9 +62,11 @@ export const AVATARS = ['🦊', '🐼', '🐯', '🦁', '🐸', '🐵', '🦄', 
 
 export const PLAYER_COLORS = ['#FFC800', '#FF5D8F', '#4D96FF', '#3ECF8E', '#9B5DE5', '#FF7A1A'];
 
-/** 随机头像种子（喂给 DiceBear 生成卡通头像，同种子必同头像） */
+import { randomAvatarStyle } from '../avatarStyles';
+
+/** 随机头像种子（格式：风格id:种子，喂给 DiceBear 生成卡通头像，同种子必同头像） */
 export function randomAvatar(): string {
-  return generateId();
+  return `${randomAvatarStyle()}:${generateId()}`;
 }
 
 export function clamp(v: number, min: number, max: number): number {
@@ -62,10 +96,21 @@ export function randomNickname(): string {
   return pick(NICK_PATTERNS)().slice(0, 12);
 }
 
-const ROOM_PREFIX = ['疯狂', '欢乐', '巅峰', '摸鱼', '深夜', '周末', '摸金', '全明星', '龙卷风', '超级'];
-const ROOM_SUFFIX = ['答题夜', '挑战赛', '大作战', '派对', '争霸赛', '头脑风暴', 'PK现场', '知识擂台'];
+/** 文艺作品中的经典地点（游戏/动漫/电影/小说等），随机用作房间名 */
+const ROOM_PLACES = [
+  // 用户点名
+  '霍格沃滋', '木叶村', '伟大航道', '武当山',
+  // 小说/武侠
+  '花果山', '大观园', '桃花岛', '光明顶', '黑木崖', '少林寺', '蜀山', '稻香村',
+  // 动漫
+  '圣域', '数码世界', '米花町', '真新镇',
+  // 游戏
+  '海拉鲁', '米德加', '艾泽拉斯', '德玛西亚', '提瓦特', '璃月', '王者峡谷', '罗德岛', '平安京', '苇名城',
+  // 电影/动画电影
+  '夏尔', '瓦坎达', '拉普达', '阿伦黛尔',
+];
 
-/** 随机房间名，如「疯狂答题夜」 */
+/** 随机房间名，如「木叶村」「艾泽拉斯」 */
 export function randomRoomName(): string {
-  return ROOM_PREFIX[Math.floor(Math.random() * ROOM_PREFIX.length)] + ROOM_SUFFIX[Math.floor(Math.random() * ROOM_SUFFIX.length)];
+  return ROOM_PLACES[Math.floor(Math.random() * ROOM_PLACES.length)];
 }

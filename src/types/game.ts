@@ -1,16 +1,50 @@
 /** 难度 */
 export type Difficulty = 'easy' | 'medium' | 'hard';
 
-/** 题库中的完整题目（含正确答案，仅数据源/房主侧可见） */
-export interface QuizQuestion {
+/** 题目类型：选择题 / 排序题（拖动选项排名） */
+export type QuestionKind = 'choice' | 'ranking';
+
+interface QuestionBase {
   id: string;
   category: string;
   difficulty: Difficulty;
+  kind: QuestionKind;
   question: string;
   options: string[];
-  correctAnswer: number;
   explanation?: string;
 }
+
+/** 选择题：选项 + 正确下标 */
+export interface ChoiceQuestion extends QuestionBase {
+  kind: 'choice';
+  correctAnswer: number;
+}
+
+/** 排序题：选项 + 正确排名（数组第 i 项 = 第 i 名对应的选项下标，0 起） */
+export interface RankingQuestion extends QuestionBase {
+  kind: 'ranking';
+  correctOrder: number[];
+}
+
+/** 排行榜中的一个条目 */
+export interface RankChartEntry {
+  /** 条目名（也是排序题选项文案） */
+  name: string;
+  /** 展示值（如 GDP 金额、得分、面积），用于揭晓解释 */
+  value?: string;
+}
+
+/** 排行榜数据源：条目按「第 1 名 → 第 N 名」顺序排列 */
+export interface RankChart {
+  id: string;
+  /** 榜单名，会拼进题目文案，如「2024年中国城市GDP排行榜」 */
+  name: string;
+  difficulty: Difficulty;
+  entries: RankChartEntry[];
+}
+
+/** 题库中的完整题目（含正确答案，仅数据源/房主侧可见） */
+export type QuizQuestion = ChoiceQuestion | RankingQuestion;
 
 /** 分类元信息 */
 export interface CategoryMeta {
@@ -19,7 +53,9 @@ export interface CategoryMeta {
 }
 
 /** 下发给客户端的题目（不含正确答案） */
-export type PublicQuestion = Omit<QuizQuestion, 'correctAnswer' | 'explanation'>;
+export type PublicQuestion =
+  | Omit<ChoiceQuestion, 'correctAnswer' | 'explanation'>
+  | Omit<RankingQuestion, 'correctOrder' | 'explanation'>;
 
 export interface Player {
   id: string;
@@ -39,7 +75,9 @@ export interface Player {
 /** 一名玩家在一轮中的作答记录 */
 export interface AnswerRecord {
   playerId: string;
-  optionIndex: number; // -1 表示超时未作答
+  optionIndex: number; // 选择题：选中下标；-1 表示超时未作答
+  /** 排序题：玩家排出的顺序（选项下标数组，第 1 名起）；未作答为空数组 */
+  order: number[];
   timeMs: number;
   correct: boolean;
   points: number;
@@ -52,11 +90,15 @@ export interface GameSettings {
   questionCount: number;
   categories: string[];
   difficulty: Difficulty | 'mixed';
+  /** 勾选的题目类型；空数组表示全部 */
+  questionTypes: QuestionKind[];
 }
 
 /** 揭晓阶段数据 */
 export interface RevealData {
-  correctAnswer: number;
+  kind: QuestionKind;
+  correctAnswer?: number;
+  correctOrder?: number[];
   explanation?: string;
   results: AnswerRecord[];
   endsAt: number;
@@ -88,7 +130,7 @@ export interface RoomState {
 export type GameMessage =
   | { t: 'join'; player: Pick<Player, 'id' | 'name' | 'avatar' | 'color'> }
   | { t: 'leave'; playerId: string }
-  | { t: 'answer'; playerId: string; optionIndex: number; timeMs: number }
+  | { t: 'answer'; playerId: string; optionIndex?: number; order?: number[]; timeMs: number }
   | { t: 'ready'; playerId: string; ready: boolean }
   | { t: 'avatar'; playerId: string; avatar: string }
   | { t: 'state'; state: RoomState; sentAt: number };

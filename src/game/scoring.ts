@@ -32,6 +32,48 @@ export function scoreAnswer({ correct, timeMs, roundMs, streakAfter }: ScoreInpu
   return BASE_POINTS + speedBonus + streakBonus;
 }
 
+/**
+ * 排序题正确率：玩家排列与标准排列逐位对比，位置相同得一分。
+ * 返回 0~1，1 表示完全正确。
+ */
+export function rankingRatio(playerOrder: readonly number[], correctOrder: readonly number[]): number {
+  if (playerOrder.length === 0 || playerOrder.length !== correctOrder.length) return 0;
+  let hits = 0;
+  for (let i = 0; i < playerOrder.length; i++) {
+    if (playerOrder[i] === correctOrder[i]) hits++;
+  }
+  return hits / playerOrder.length;
+}
+
+export interface RankingScoreInput {
+  /** 正确率 0~1 */
+  ratio: number;
+  /** 作答耗时（毫秒） */
+  timeMs: number;
+  /** 本回合总时长（毫秒） */
+  roundMs: number;
+  /** 完全正确后的连击数（1 表示首次完全答对） */
+  streakAfter: number;
+}
+
+/**
+ * 排序题计分：
+ * - 完全正确：与选择题一致（基础分 + 速度加分 + 连击）
+ * - 部分正确：按正确率打折（不含连击加成）
+ * - 全错/未作答：0 分
+ */
+export function scoreRankingAnswer({ ratio, timeMs, roundMs, streakAfter }: RankingScoreInput): {
+  points: number;
+  correct: boolean;
+} {
+  if (ratio <= 0) return { points: 0, correct: false };
+  if (ratio >= 1) {
+    return { points: scoreAnswer({ correct: true, timeMs, roundMs, streakAfter }), correct: true };
+  }
+  const full = scoreAnswer({ correct: true, timeMs, roundMs, streakAfter: 1 });
+  return { points: Math.round(full * ratio), correct: false };
+}
+
 export interface RankedPlayer extends Player {
   rank: number;
   /** 与上一名的分差 */

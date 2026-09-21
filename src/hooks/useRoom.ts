@@ -4,6 +4,7 @@ import {
   computeReveal,
   createRoomState,
   launchQuestion,
+  questionTimeMs,
   resetToLobby,
   shuffleQuestionOptions,
   startCountdown,
@@ -29,8 +30,12 @@ export interface Notice {
 
 interface MyAnswer {
   questionId: string;
-  optionIndex: number;
+  optionIndex?: number;
+  order?: number[];
 }
+
+/** 作答载荷：选择题传 optionIndex，排序题传 order */
+export type AnswerPayload = { optionIndex?: number; order?: number[] };
 
 function sessionSelfId(): string {
   let id = sessionStorage.getItem('datiwang:uid');
@@ -59,7 +64,7 @@ export function useRoom() {
   const serviceRef = useRef<RealtimeService | null>(null);
   const roomRef = useRef<RoomState | null>(null);
   const clockOffsetRef = useRef(0);
-  const answersRef = useRef(new Map<string, { optionIndex: number; timeMs: number }>());
+  const answersRef = useRef(new Map<string, { optionIndex?: number; order?: number[]; timeMs: number }>());
   const hostQuestionsRef = useRef(new Map<string, QuizQuestion>());
   const joinWaiterRef = useRef<((ok: boolean) => void) | null>(null);
   const noticeIdRef = useRef(0);
@@ -99,12 +104,12 @@ export function useRoom() {
   }, [publish]);
 
   const hostRecordAnswer = useCallback(
-    (playerId: string, optionIndex: number, timeMs: number) => {
+    (playerId: string, payload: AnswerPayload, timeMs: number) => {
       const st = roomRef.current;
       if (!st || st.hostId !== selfId || st.phase !== 'question') return;
       const isNew = !answersRef.current.has(playerId);
       // 允许修改答案：以最后一次选择为准（含时间）
-      answersRef.current.set(playerId, { optionIndex, timeMs });
+      answersRef.current.set(playerId, { ...payload, timeMs });
       // 仅首次作答时广播进度，避免改答案时刷屏
       if (isNew) {
         const answeredIds = [...new Set([...st.answeredIds, playerId])];
@@ -130,7 +135,7 @@ export function useRoom() {
         if (prev) {
           const prevIds = new Set(prev.players.map((p) => p.id));
           for (const p of msg.state.players) {
-            if (!prevIds.has(p.id)) pushNotice(`${p.name} 加入了游戏`, p.avatar);
+            if (!prevIds.has(p.id)) pushNotice(`${p.name} 加入了游戏`, '👋');
           }
           if (prev.hostId !== msg.state.hostId) {
             const h = msg.state.players.find((p) => p.id === msg.state.hostId);
@@ -183,7 +188,7 @@ export function useRoom() {
           });
         }
       } else if (msg.t === 'answer') {
-        hostRecordAnswer(msg.playerId, msg.optionIndex, msg.timeMs);
+        hostRecordAnswer(msg.playerId, { optionIndex: msg.optionIndex, order: msg.order }, msg.timeMs);
       } else if (msg.t === 'ready') {
         publish({
           ...st,
@@ -452,6 +457,7 @@ export function useRoom() {
       const questions = await questionService.getQuestions({
         categories: st.settings.categories,
         difficulty: st.settings.difficulty,
+        questionTypes: st.settings.questionTypes,
         count: st.settings.questionCount,
         // 排除本房间历史已出题目，避免重复
         excludeIds: st.usedQuestionIds,
@@ -472,17 +478,30 @@ export function useRoom() {
   }, [selfId, publish, pushNotice]);
 
   const submitAnswer = useCallback(
-    (optionIndex: number) => {
+    (payload: AnswerPayload) => {
       const st = roomRef.current;
       if (!st || st.phase !== 'question' || !st.activeQuestion || !st.questionEndsAt) return;
-      // 重复点击同一选项忽略；换选项则覆盖（时间以最后一次选择为准）
-      if (myAnswer && myAnswer.questionId === st.activeQuestion.id && myAnswer.optionIndex === optionIndex) return;
-      const timeMs = Math.max(0, st.settings.roundSeconds * 1000 - (st.questionEndsAt - now()));
-      setMyAnswer({ questionId: st.activeQuestion.id, optionIndex });
+      const isRanking = st.activeQuestion.kind === 'ranking';
+      const timeMs = Math.max(0, questionTimeMs(st.activeQuestion.kind, st.settings.roundSeconds) - (st.questionEndsAt - now()));
+      // 重复提交同一答案忽略；修改则覆盖（时间以最后一次为准）
+      const same =
+        myAnswer != null &&
+        myAnswer.questionId === st.activeQuestion.id &&
+        (isRanking
+          ? myAnswer.order != null &&
+            payload.order != null &&
+            myAnswer.order.length === payload.order.length &&
+            myAnswer.order.every((v, i) => v === payload.order?.[i])
+          : myAnswer.optionIndex === payload.optionIndex);
+      if (same) return;
+      const answer: { optionIndex?: number; order?: number[] } = isRanking
+        ? { order: payload.order }
+        : { optionIndex: payload.optionIndex };
+      setMyAnswer({ questionId: st.activeQuestion.id, ...answer });
       if (st.hostId === selfId) {
-        hostRecordAnswer(selfId, optionIndex, timeMs);
+        hostRecordAnswer(selfId, answer, timeMs);
       } else {
-        serviceRef.current?.broadcast({ t: 'answer', playerId: selfId, optionIndex, timeMs } satisfies GameMessage);
+        serviceRef.current?.broadcast({ t: 'answer', playerId: selfId, ...answer, timeMs } satisfies GameMessage);
       }
     },
     [myAnswer, selfId, now, hostRecordAnswer],

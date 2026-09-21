@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "ranking-001",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列地区按照GDP总量从高到低排序",
+    "options": [
+      "美国",
+      "德国",
+      "日本",
+      "中国"
+    ],
+    "correctOrder": [
+      0,
+      3,
+      1,
+      2
+    ],
+    "explanation": "按国际货币基金组织的名义GDP估算：美国约27万亿美元居首，中国约17万亿第二，德国与日本咬得很紧，德国略高一筹。"
+  },
+  {
+    "id": "ranking-002",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列地区按照经济总量从高到低排序",
+    "options": [
+      "浙江",
+      "江苏",
+      "山东",
+      "广东"
+    ],
+    "correctOrder": [
+      3,
+      1,
+      2,
+      0
+    ],
+    "explanation": "广东、江苏长期稳居前二，山东第三，浙江第四——「包邮区」的江苏GDP已经无限逼近广东了。"
+  },
+  {
+    "id": "ranking-003",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列地区按照人口总量从多到少排序",
+    "options": [
+      "印度",
+      "中国",
+      "印度尼西亚",
+      "美国"
+    ],
+    "correctOrder": [
+      0,
+      1,
+      3,
+      2
+    ],
+    "explanation": "联合国估算印度人口已在2023年超过中国成为全球第一，美国（约3.35亿）比印尼（约2.78亿）多出近6千万。"
+  },
+  {
+    "id": "ranking-004",
+    "category": "ranking",
+    "difficulty": "easy",
+    "kind": "ranking",
+    "question": "对下列地区按照常住人口从多到少排序",
+    "options": [
+      "四川",
+      "河南",
+      "广东",
+      "山东"
+    ],
+    "correctOrder": [
+      2,
+      3,
+      1,
+      0
+    ],
+    "explanation": "广东常住人口约1.27亿全国第一，山东约1.01亿第二，河南约0.98亿第三，四川约0.84亿第四。"
+  },
+  {
+    "id": "ranking-005",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列歌手按照年龄从大到小排序",
+    "options": [
+      "周杰伦",
+      "陈奕迅",
+      "林俊杰",
+      "王力宏"
+    ],
+    "correctOrder": [
+      1,
+      3,
+      0,
+      2
+    ],
+    "explanation": "陈奕迅（1974年）→ 王力宏（1976年）→ 周杰伦（1979年）→ 林俊杰（1981年）。没想到「行走的CD」林俊杰是最小的那一个！"
+  },
+  {
+    "id": "ranking-006",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列歌手按照年龄从小到大排序",
+    "options": [
+      "孙燕姿",
+      "王菲",
+      "蔡依林",
+      "邓紫棋"
+    ],
+    "correctOrder": [
+      3,
+      2,
+      0,
+      1
+    ],
+    "explanation": "从年轻到年长：邓紫棋（1991年）→ 蔡依林（1980年）→ 孙燕姿（1978年）→ 王菲（1969年），天后果然是天后。"
+  },
+  {
+    "id": "ranking-007",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列歌手按照年龄从大到小排序",
+    "options": [
+      "张杰",
+      "华晨宇",
+      "薛之谦",
+      "邓紫棋"
+    ],
+    "correctOrder": [
+      0,
+      2,
+      1,
+      3
+    ],
+    "explanation": "张杰（1982年）→ 薛之谦（1983年）→ 华晨宇（1990年）→ 邓紫棋（1991年）。「90后」的华晨宇和邓紫棋把平均年龄拉低了不少。"
+  },
+  {
+    "id": "ranking-008",
+    "category": "ranking",
+    "difficulty": "easy",
+    "kind": "ranking",
+    "question": "对下列地区按照面积从大到小排序",
+    "options": [
+      "青海",
+      "内蒙古",
+      "新疆",
+      "西藏"
+    ],
+    "correctOrder": [
+      2,
+      3,
+      1,
+      0
+    ],
+    "explanation": "新疆约166万平方公里全国最大，西藏约123万第二，内蒙古约118万第三，青海约72万第四。"
+  },
+  {
+    "id": "ranking-009",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列山峰按照海拔从高到低排序",
+    "options": [
+      "乔戈里峰",
+      "珠穆朗玛峰",
+      "洛子峰",
+      "干城章嘉峰"
+    ],
+    "correctOrder": [
+      1,
+      0,
+      3,
+      2
+    ],
+    "explanation": "珠穆朗玛峰8848.86米第一，乔戈里峰（K2）8611米第二，干城章嘉峰8586米第三，洛子峰8516米第四——全部超过8000米。"
+  },
+  {
+    "id": "ranking-010",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列河流按照长度从长到短排序",
+    "options": [
+      "密西西比河",
+      "长江",
+      "尼罗河",
+      "亚马逊河"
+    ],
+    "correctOrder": [
+      2,
+      3,
+      1,
+      0
+    ],
+    "explanation": "按常见口径：尼罗河约6670公里最长，亚马逊河约6400公里第二（也有学者说它更长），长江约6300公里第三，密西西比河约6020公里第四。"
+  },
+  {
+    "id": "ranking-011",
+    "category": "ranking",
+    "difficulty": "easy",
+    "kind": "ranking",
+    "question": "对下列行星按照离太阳由近到远排序",
+    "options": [
+      "木星",
+      "火星",
+      "土星",
+      "天王星"
+    ],
+    "correctOrder": [
+      1,
+      0,
+      2,
+      3
+    ],
+    "explanation": "火星距太阳约2.28亿公里，木星约7.78亿，土星约14.3亿，天王星约28.7亿公里——越往外走得越远、越冷。"
+  },
+  {
+    "id": "ranking-012",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列行星按照质量从大到小排序",
+    "options": [
+      "海王星",
+      "木星",
+      "天王星",
+      "土星"
+    ],
+    "correctOrder": [
+      1,
+      3,
+      0,
+      2
+    ],
+    "explanation": "木星的质量约为其余七大行星总和的两倍半，土星第二，海王星又比天王星重约17%，所以「风王」海王星排在第三。"
+  },
+  {
+    "id": "ranking-013",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列湖泊按照面积从大到小排序",
+    "options": [
+      "太湖",
+      "洞庭湖",
+      "鄱阳湖",
+      "青海湖"
+    ],
+    "correctOrder": [
+      3,
+      2,
+      1,
+      0
+    ],
+    "explanation": "青海湖约4583平方公里稳居第一，鄱阳湖约3150平方公里第二（丰水期），洞庭湖约2740第三，太湖约2425平方公里排第四。"
+  },
+  {
+    "id": "ranking-014",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列电影按照中国影史票房从高到低排序",
+    "options": [
+      "《战狼2》",
+      "《哪吒之魔童降世》",
+      "《长津湖》",
+      "《你好，李焕英》"
+    ],
+    "correctOrder": [
+      2,
+      0,
+      3,
+      1
+    ],
+    "explanation": "《长津湖》约57.8亿登顶，《战狼2》约56.9亿紧随其后，《你好，李焕英》约54.1亿第三，《哪吒之魔童降世》约50.4亿第四——榜首之争只差不到一亿。"
+  },
+  {
+    "id": "ranking-015",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列歌手按照年龄从小到大排序",
+    "options": [
+      "李荣浩",
+      "许嵩",
+      "汪苏泷",
+      "毛不易"
+    ],
+    "correctOrder": [
+      3,
+      2,
+      1,
+      0
+    ],
+    "explanation": "毛不易（1994年）最小，然后依次是汪苏泷（1989年）、许嵩（1986年）、李荣浩（1985年）——「QQ音乐三巨头」之一许嵩居然比汪苏泷大了三岁。"
+  },
+  {
+    "id": "ranking-016",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列歌手按照年龄从大到小排序",
+    "options": [
+      "张韶涵",
+      "梁静茹",
+      "范玮琪",
+      "杨丞琳"
+    ],
+    "correctOrder": [
+      2,
+      1,
+      0,
+      3
+    ],
+    "explanation": "范玮琪（1976年）→ 梁静茹（1978年）→ 张韶涵（1982年）→ 杨丞琳（1984年），四代「甜美系」女声隔了快十年。"
+  },
+  {
+    "id": "ranking-017",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列《海贼王》角色按照加入草帽一伙的时间从早到晚排序",
+    "options": [
+      "罗宾",
+      "索隆",
+      "布鲁克",
+      "乔巴"
+    ],
+    "correctOrder": [
+      1,
+      3,
+      0,
+      2
+    ],
+    "explanation": "索隆是第一个上船的伙伴，之后依次是乔巴（磁鼓岛）、罗宾（阿拉巴斯坦）、布鲁克（恐怖三桅船）——骨架老哥最晚入伙，却总说自己是「骷髅音乐家」。"
+  },
+  {
+    "id": "ranking-018",
+    "category": "ranking",
+    "difficulty": "easy",
+    "kind": "ranking",
+    "question": "对下列河流按照长度从长到短排序",
+    "options": [
+      "黑龙江",
+      "珠江",
+      "长江",
+      "黄河"
+    ],
+    "correctOrder": [
+      2,
+      3,
+      0,
+      1
+    ],
+    "explanation": "长江约6300公里居首，黄河约5464公里第二，黑龙江（干流）约4440公里第三，珠江约2320公里排末——「母亲河」黄河其实比长江短了近千公里。"
+  },
+  {
+    "id": "ranking-019",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列家电按照发明时间从早到晚排序",
+    "options": [
+      "电视",
+      "电话",
+      "洗衣机",
+      "电灯"
+    ],
+    "correctOrder": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "explanation": "电话（1876年）比电灯（1879年）早问世三年，第一台电动洗衣机出现在1908年，而电视（1927年）最晚——发明顺序可能颠覆不少人的印象。"
+  },
+  {
+    "id": "ranking-020",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列元素按照在地壳中的含量从高到低排序",
+    "options": [
+      "铝",
+      "铁",
+      "氧",
+      "硅"
+    ],
+    "correctOrder": [
+      2,
+      3,
+      0,
+      1
+    ],
+    "explanation": "地壳中氧约占46.6%、硅约27.7%、铝约8.1%、铁约5.0%——接近一半都是氧，「铝」是地壳中含量最高的金属元素，比铁还多。"
+  },
+  {
+    "id": "ranking-021",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列世界主要湖泊按照湖面面积从大到小排序",
+    "options": [
+      "维多利亚湖",
+      "里海",
+      "休伦湖",
+      "苏必利尔湖"
+    ],
+    "correctOrder": [
+      1,
+      3,
+      0,
+      2
+    ],
+    "explanation": "里海面积约37.1万平方公里，是世界上最大的湖泊（咸水湖）；苏必利尔湖约8.2万平方公里为最大淡水湖；维多利亚湖约6.9万、休伦湖约6.0万随后。"
+  },
+  {
+    "id": "ranking-022",
+    "category": "ranking",
+    "difficulty": "easy",
+    "kind": "ranking",
+    "question": "对下列海洋按照面积从大到小排序",
+    "options": [
+      "大西洋",
+      "北冰洋",
+      "太平洋",
+      "印度洋"
+    ],
+    "correctOrder": [
+      2,
+      0,
+      3,
+      1
+    ],
+    "explanation": "太平洋面积约1.65亿平方公里，几乎占全球海洋总面积的一半；大西洋约1.07亿第二，印度洋约7056万第三，北冰洋约1400万最小。"
+  },
+  {
+    "id": "ranking-023",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列湖泊按照最大深度从深到浅排序",
+    "options": [
+      "坦噶尼喀湖",
+      "贝加尔湖",
+      "伊塞克湖",
+      "马拉维湖"
+    ],
+    "correctOrder": [
+      1,
+      0,
+      3,
+      2
+    ],
+    "explanation": "贝加尔湖最大深度1642米，是地球上最深的湖泊；坦噶尼喀湖1470米次之；马拉维湖约706米第三，伊塞克湖约668米第四。"
+  },
+  {
+    "id": "ranking-024",
+    "category": "ranking",
+    "difficulty": "easy",
+    "kind": "ranking",
+    "question": "对下列沙漠按照面积从大到小排序",
+    "options": [
+      "戈壁沙漠",
+      "撒哈拉沙漠",
+      "卡拉哈里沙漠",
+      "阿拉伯沙漠"
+    ],
+    "correctOrder": [
+      1,
+      3,
+      0,
+      2
+    ],
+    "explanation": "撒哈拉沙漠面积约900万平方公里，是世界上最大的热带沙漠；阿拉伯沙漠约233万第二，戈壁约130万第三，卡拉哈里约90万第四（本排名不含南极洲等极地荒漠）。"
+  },
+  {
+    "id": "ranking-025",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列岛屿按照面积从大到小排序",
+    "options": [
+      "马达加斯加岛",
+      "格陵兰岛",
+      "加里曼丹岛",
+      "新几内亚岛"
+    ],
+    "correctOrder": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "explanation": "格陵兰岛面积约216.6万平方公里，是世界上最大的岛屿；新几内亚岛约78.6万第二，加里曼丹岛约74.3万第三，马达加斯加岛约58.8万第四。"
+  },
+  {
+    "id": "ranking-026",
+    "category": "ranking",
+    "difficulty": "easy",
+    "kind": "ranking",
+    "question": "对下列国家按照国土面积从大到小排序",
+    "options": [
+      "加拿大",
+      "巴西",
+      "俄罗斯",
+      "美国"
+    ],
+    "correctOrder": [
+      2,
+      0,
+      3,
+      1
+    ],
+    "explanation": "俄罗斯面积约1709.8万平方公里，高居世界第一；加拿大约998.5万第二；美国约983万（含内陆水域口径，不同统计略有出入）第三；巴西约851.5万第四。"
+  },
+  {
+    "id": "ranking-027",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列国家首都按照海拔从高到低排序",
+    "options": [
+      "基多",
+      "亚的斯亚贝巴",
+      "拉巴斯",
+      "波哥大"
+    ],
+    "correctOrder": [
+      2,
+      0,
+      3,
+      1
+    ],
+    "explanation": "玻利维亚行政首都拉巴斯海拔约3640米，是世界海拔最高的首都；厄瓜多尔基多约2850米第二，哥伦比亚波哥大约2640米第三，埃塞俄比亚亚的斯亚贝巴约2355米第四。"
+  },
+  {
+    "id": "ranking-028",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列瀑布按照落差（总高度）从高到低排序",
+    "options": [
+      "三姐妹瀑布",
+      "安赫尔瀑布",
+      "尤姆比拉瀑布",
+      "图盖拉瀑布"
+    ],
+    "correctOrder": [
+      1,
+      3,
+      0,
+      2
+    ],
+    "explanation": "委内瑞拉的安赫尔瀑布落差约979米，是世界落差最大的瀑布；南非图盖拉瀑布约948米第二；秘鲁三姐妹瀑布约914米、尤姆比拉瀑布约895米紧随其后。"
+  },
+  {
+    "id": "ranking-029",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列火山按照海拔从高到低排序",
+    "options": [
+      "科托帕希峰",
+      "奥霍斯-德尔萨拉多峰",
+      "乞力马扎罗山",
+      "尤耶亚科峰"
+    ],
+    "correctOrder": [
+      1,
+      3,
+      0,
+      2
+    ],
+    "explanation": "智利与阿根廷边境的奥霍斯-德尔萨拉多峰海拔约6893米，是世界海拔最高的火山；尤耶亚科峰约6739米第二；科托帕希峰约5897米第三，比乞力马扎罗山（约5895米）仅高两米。"
+  },
+  {
+    "id": "ranking-030",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列山脉按照长度从长到短排序",
+    "options": [
+      "阿尔卑斯山脉",
+      "喜马拉雅山脉",
+      "安第斯山脉",
+      "落基山脉"
+    ],
+    "correctOrder": [
+      2,
+      3,
+      1,
+      0
+    ],
+    "explanation": "南美洲的安第斯山脉全长约8900公里，是地球上最长的山脉；北美的落基山脉约4800公里第二；喜马拉雅山脉约2400公里第三；阿尔卑斯山脉约1200公里最短。"
+  },
+  {
+    "id": "ranking-031",
+    "category": "ranking",
+    "difficulty": "easy",
+    "kind": "ranking",
+    "question": "对下列类地行星按照直径从大到小排序",
+    "options": [
+      "火星",
+      "金星",
+      "水星",
+      "地球"
+    ],
+    "correctOrder": [
+      3,
+      1,
+      0,
+      2
+    ],
+    "explanation": "地球直径约12742公里最大，金星约12104公里次之，火星约6779公里第三，水星约4879公里最小——常被称为「姊妹星」的金星其实比地球小一圈。"
+  },
+  {
+    "id": "ranking-032",
+    "category": "ranking",
+    "difficulty": "easy",
+    "kind": "ranking",
+    "question": "对下列动物按照最高奔跑速度从快到慢排序",
+    "options": [
+      "狮子",
+      "猎豹",
+      "树懒",
+      "人类"
+    ],
+    "correctOrder": [
+      1,
+      0,
+      3,
+      2
+    ],
+    "explanation": "猎豹瞬时时速可达约110公里居首，狮子约80公里，人类最快纪录（博尔特）约44.7公里，树懒每小时仅爬行约0.27公里垫底，差距惊人。"
+  },
+  {
+    "id": "ranking-033",
+    "category": "ranking",
+    "difficulty": "easy",
+    "kind": "ranking",
+    "question": "对下列事物按照温度从高到低排序",
+    "options": [
+      "太阳表面",
+      "液氮",
+      "冰水",
+      "沸水"
+    ],
+    "correctOrder": [
+      0,
+      3,
+      2,
+      1
+    ],
+    "explanation": "太阳表面温度约5500°C，沸水100°C，冰水约0°C，液氮低至约-196°C，相差可达数千度。"
+  },
+  {
+    "id": "ranking-034",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列矮行星按照直径从大到小排序",
+    "options": [
+      "阋神星",
+      "冥王星",
+      "谷神星",
+      "妊神星"
+    ],
+    "correctOrder": [
+      1,
+      0,
+      3,
+      2
+    ],
+    "explanation": "冥王星直径约2377公里，略大于阋神星的约2326公里，妊神星约1600公里，谷神星约940公里——虽然阋神星质量更大，但直径反而略小一点。"
+  },
+  {
+    "id": "ranking-035",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列动物按照平均寿命从长到短排序",
+    "options": [
+      "狗",
+      "老鼠",
+      "非洲象",
+      "马"
+    ],
+    "correctOrder": [
+      2,
+      3,
+      0,
+      1
+    ],
+    "explanation": "非洲象一般能活60~70年，马约25~30年，狗约10~13年，老鼠通常只有2~3年——体型越大的动物往往活得越久。"
+  },
+  {
+    "id": "ranking-036",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列金属按照金属活动性从强到弱排序",
+    "options": [
+      "钠",
+      "铜",
+      "铁",
+      "钾"
+    ],
+    "correctOrder": [
+      3,
+      0,
+      2,
+      1
+    ],
+    "explanation": "金属活动性顺序中钾排在钠之前、又都远比铁和铜活泼：钾遇水剧烈反应甚至燃烧，铜則相当稳定，因此钠钾常保存在煤油里。"
+  },
+  {
+    "id": "ranking-037",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列金属按照密度从大到小排序",
+    "options": [
+      "铁",
+      "金",
+      "铜",
+      "铝"
+    ],
+    "correctOrder": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "explanation": "金的密度约19.3克/立方厘米，铜约8.96，铁约7.87，铝只有约2.7——同样大小的一块金，重量接近铝的七倍。"
+  },
+  {
+    "id": "ranking-038",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列天然卫星按照直径从大到小排序",
+    "options": [
+      "月球",
+      "泰坦",
+      "伽倪墨得",
+      "卡利斯托"
+    ],
+    "correctOrder": [
+      2,
+      1,
+      3,
+      0
+    ],
+    "explanation": "伽倪墨得直径约5268公里，是太阳系最大的天然卫星；泰坦约5150公里第二，卡利斯托约4821公里第三，月球约3474公里垫底。"
+  },
+  {
+    "id": "ranking-039",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列金属按照导电性能从强到弱排序",
+    "options": [
+      "铜",
+      "金",
+      "铝",
+      "银"
+    ],
+    "correctOrder": [
+      3,
+      0,
+      1,
+      2
+    ],
+    "explanation": "常温下导电性银最强、铜次之、金第三、铝最弱（银约6.3×10^7、铜约5.9×10^7、金约4.5×10^7、铝约3.7×10^7 S/m），所以电线大多用铜而非更贵的银。"
+  },
+  {
+    "id": "ranking-040",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列电磁波按照频率从高到低排序",
+    "options": [
+      "可见光",
+      "无线电波",
+      "γ射线",
+      "X射线"
+    ],
+    "correctOrder": [
+      2,
+      3,
+      0,
+      1
+    ],
+    "explanation": "电磁波频率从高到低为γ射线、X射线、可见光、无线电波：γ射线频率可达10^20赫兹以上，无线电波低至千赫兹级，两者相差十几个数量级。"
+  },
+  {
+    "id": "ranking-041",
+    "category": "ranking",
+    "difficulty": "easy",
+    "kind": "ranking",
+    "question": "对下列朝代按照建立时间从早到晚排序",
+    "options": [
+      "汉",
+      "唐",
+      "秦",
+      "宋"
+    ],
+    "correctOrder": [
+      2,
+      0,
+      1,
+      3
+    ],
+    "explanation": "秦朝公元前221年秦始皇统一六国，汉朝公元前202年刘邦称帝，唐朝618年李渊建立，宋朝960年赵匡胤陈桥兵变黄袍加身。"
+  },
+  {
+    "id": "ranking-042",
+    "category": "ranking",
+    "difficulty": "easy",
+    "kind": "ranking",
+    "question": "对下列皇帝按照即位时间从早到晚排序",
+    "options": [
+      "唐太宗",
+      "汉武帝",
+      "康熙",
+      "秦始皇"
+    ],
+    "correctOrder": [
+      3,
+      1,
+      0,
+      2
+    ],
+    "explanation": "秦始皇公元前221年称帝，汉武帝公元前141年即位，唐太宗626年玄武门之变后即位，康熙帝1661年八岁登基。"
+  },
+  {
+    "id": "ranking-043",
+    "category": "ranking",
+    "difficulty": "easy",
+    "kind": "ranking",
+    "question": "对下列科举考试按照层级从低到高排序",
+    "options": [
+      "会试",
+      "殿试",
+      "童试",
+      "乡试"
+    ],
+    "correctOrder": [
+      2,
+      3,
+      0,
+      1
+    ],
+    "explanation": "明清科举先过童试称为生员（秀才），再由乡试中举、会试成为贡士，最后殿试定等次钦点进士，状元就是殿试第一名。"
+  },
+  {
+    "id": "ranking-044",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列《西游记》角色按照加入取经队伍的时间从早到晚排序",
+    "options": [
+      "猪八戒",
+      "孙悟空",
+      "沙僧",
+      "白龙马"
+    ],
+    "correctOrder": [
+      1,
+      3,
+      0,
+      2
+    ],
+    "explanation": "按原著章回，唐僧先后收孙悟空（五行山）、白龙马（鹰愁涧）、猪八戒（高老庄）、沙僧（流沙河），悟空是大师兄无疑。"
+  },
+  {
+    "id": "ranking-045",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列《水浒传》好汉按照忠义堂排座次的名次从高到低排序",
+    "options": [
+      "吴用",
+      "公孙胜",
+      "宋江",
+      "卢俊义"
+    ],
+    "correctOrder": [
+      2,
+      3,
+      0,
+      1
+    ],
+    "explanation": "《水浒传》第七十一回忠义堂石碣受天文，天魁星宋江坐第一把交椅，天罡星卢俊义第二，天机星吴用第三，天闲星公孙胜第四。"
+  },
+  {
+    "id": "ranking-046",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列文言文年龄称谓按照所指年龄从小到大排序",
+    "options": [
+      "花甲",
+      "知天命",
+      "而立",
+      "不惑"
+    ],
+    "correctOrder": [
+      2,
+      3,
+      1,
+      0
+    ],
+    "explanation": "出自《论语·为政》「三十而立，四十而不惑，五十而知天命」——而立指30岁，不惑40岁，知天命50岁，花甲是60岁。"
+  },
+  {
+    "id": "ranking-047",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列汉字书体按照形成成熟的时间从早到晚排序",
+    "options": [
+      "行书",
+      "隶书",
+      "篆书",
+      "楷书"
+    ],
+    "correctOrder": [
+      2,
+      1,
+      3,
+      0
+    ],
+    "explanation": "秦朝「书同文」以小篆为标准，两汉通行由篆简化而来的隶书（隶变），楷书汉末三国成形，行书介于楷草之间、王羲之的《兰亭序》被誉为天下第一行书。"
+  },
+  {
+    "id": "ranking-048",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列《三国演义》著名战役按照发生时间从早到晚排序",
+    "options": [
+      "夷陵之战",
+      "官渡之战",
+      "诸葛亮北伐",
+      "赤壁之战"
+    ],
+    "correctOrder": [
+      1,
+      3,
+      0,
+      2
+    ],
+    "explanation": "官渡之战200年曹操以少胜多击败袁绍，赤壁之战208年孙刘联军火烧战船，夷陵之战222年陆逊火烧连营大破刘备，诸葛亮首次北伐在228年。"
+  },
+  {
+    "id": "ranking-049",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列治世盛世按照所处时代从早到晚排序",
+    "options": [
+      "开元盛世",
+      "文景之治",
+      "康乾盛世",
+      "贞观之治"
+    ],
+    "correctOrder": [
+      1,
+      3,
+      0,
+      2
+    ],
+    "explanation": "文景之治是西汉文帝景帝时（约公元前180—前141年），贞观之治是唐太宗627—649年，开元盛世是唐玄宗713—741年，康乾盛世是清朝康熙到乾隆年间（约1662—1795年）。"
+  },
+  {
+    "id": "ranking-050",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列唐代诗人按照出生年份从早到晚排序",
+    "options": [
+      "白居易",
+      "李白",
+      "李商隐",
+      "杜甫"
+    ],
+    "correctOrder": [
+      1,
+      3,
+      0,
+      2
+    ],
+    "explanation": "李白生于701年，杜甫生于712年，白居易生于772年，李商隐生于约813年——诗仙、诗圣、诗魔、小李杜之首，跨越了整个盛唐到晚唐。"
+  },
+  {
+    "id": "ranking-051",
+    "category": "ranking",
+    "difficulty": "easy",
+    "kind": "ranking",
+    "question": "对下列国家队按照世界杯（男足）夺冠次数从多到少排序",
+    "options": [
+      "巴西",
+      "德国",
+      "阿根廷",
+      "法国"
+    ],
+    "correctOrder": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "巴西5次夺冠（1958/1962/1970/1994/2002）高居第一，德国4次（1954/1974/1990/2014），阿根廷3次（1978/1986/2022），法国2次（1998/2018）。"
+  },
+  {
+    "id": "ranking-052",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列运动员按照夏季奥运会金牌总数从多到少排序",
+    "options": [
+      "菲尔普斯",
+      "博尔特",
+      "邹凯",
+      "孙杨"
+    ],
+    "correctOrder": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "菲尔普斯以23枚金牌冠绝奥运史，博尔特9金（连续三届包揽100米/200米/4×100米），邹凯5金，孙杨3金（2012两金+2016一金）。"
+  },
+  {
+    "id": "ranking-053",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列足球俱乐部按照欧冠（欧洲冠军联赛）夺冠次数从多到少排序",
+    "options": [
+      "皇家马德里",
+      "AC米兰",
+      "拜仁慕尼黑",
+      "巴塞罗那"
+    ],
+    "correctOrder": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "皇家马德里15次（含2024年）历史第一，AC米兰7次，拜仁慕尼黑6次，巴塞罗那5次——皇马比后三家加起来还多。"
+  },
+  {
+    "id": "ranking-054",
+    "category": "ranking",
+    "difficulty": "easy",
+    "kind": "ranking",
+    "question": "对下列男子网球选手按照大满贯单打冠军数量从多到少排序",
+    "options": [
+      "德约科维奇",
+      "纳达尔",
+      "费德勒",
+      "桑普拉斯"
+    ],
+    "correctOrder": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "德约科维奇24座大满贯为男子历史第一，纳达尔22座，费德勒20座，桑普拉斯14座——GOAT之争的三巨头恰好占据前二前三。"
+  },
+  {
+    "id": "ranking-055",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列电影按照全球影史票房从高到低排序",
+    "options": [
+      "阿凡达",
+      "复仇者联盟4",
+      "泰坦尼克号",
+      "星球大战7"
+    ],
+    "correctOrder": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "《阿凡达》约29.2亿美元居首，《复仇者联盟4》约27.99亿次之，《泰坦尼克号》约22.6亿（含多次重映）第三，《星球大战7》约20.7亿第四——榜首两强都出自迪士尼。"
+  },
+  {
+    "id": "ranking-056",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列电影按照中国大陆票房从高到低排序",
+    "options": [
+      "流浪地球",
+      "满江红",
+      "唐人街探案3",
+      "长津湖之水门桥"
+    ],
+    "correctOrder": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "《流浪地球》约46.9亿，《满江红》约45.4亿，《唐人街探案3》约45.2亿，三强之差不到2亿，《长津湖之水门桥》约40.7亿殿后。"
+  },
+  {
+    "id": "ranking-057",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列球队按照英超（1992年改制后）夺冠次数从多到少排序",
+    "options": [
+      "曼联",
+      "曼城",
+      "切尔西",
+      "阿森纳"
+    ],
+    "correctOrder": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "曼联13次称霸英超弗格森时代，曼城8次（至2023-24赛季）紧追，切尔西5次，阿森纳3次（含2003-04不败赛季夺冠）。"
+  },
+  {
+    "id": "ranking-058",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列运动员按照奥运会乒乓球金牌总数从多到少排序",
+    "options": [
+      "马龙",
+      "张怡宁",
+      "张继科",
+      "孔令辉"
+    ],
+    "correctOrder": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "马龙5金居首（2016/2020双冠加2024团体），张怡宁4金（2004、2008各两金），张继科2金，孔令辉1金——中国乒乓奥运金牌榜前三都是「大魔王」。"
+  },
+  {
+    "id": "ranking-059",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列歌手按照出道时间从早到晚排序",
+    "options": [
+      "张学友",
+      "陶喆",
+      "李宇春",
+      "萧敬腾"
+    ],
+    "correctOrder": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "张学友1984年发首张专辑出道，陶喆1997年凭《David Tao》开启华语R&B时代，李宇春2005年《超级女声》夺冠出道，萧敬腾2008年才发首张同名专辑。"
+  },
+  {
+    "id": "ranking-060",
+    "category": "ranking",
+    "difficulty": "easy",
+    "kind": "ranking",
+    "question": "对下列球员按照世界杯（男足）历史总进球数从多到少排序",
+    "options": [
+      "克洛泽",
+      "罗纳尔多",
+      "盖德·穆勒",
+      "方丹"
+    ],
+    "correctOrder": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "克洛泽16球（2002-2014四届）居首，罗纳尔多15球，盖德·穆勒14球，方丹13球——方丹的全部进球都来自1958年一届，至今仍是单届纪录。"
+  },
+  {
+    "id": "ranking-061",
+    "category": "ranking",
+    "difficulty": "easy",
+    "kind": "ranking",
+    "question": "对下列汉字按照笔画数从多到少排序",
+    "options": [
+      "义",
+      "王",
+      "永",
+      "乙"
+    ],
+    "correctOrder": [
+      2,
+      1,
+      0,
+      3
+    ],
+    "explanation": "「永」共5画（书法里著名的「永字八法」就来自它），「王」4画，「义」3画，「乙」只有1画。"
+  },
+  {
+    "id": "ranking-062",
+    "category": "ranking",
+    "difficulty": "easy",
+    "kind": "ranking",
+    "question": "对下列第一批高级编程语言按照诞生时间从早到晚排序",
+    "options": [
+      "COBOL",
+      "LISP",
+      "BASIC",
+      "Fortran"
+    ],
+    "correctOrder": [
+      3,
+      1,
+      0,
+      2
+    ],
+    "explanation": "Fortran诞生于1957年，LISP于1958年问世，COBOL在1959年发布首个版本，BASIC则要到1964年才在达特茅斯学院诞生。"
+  },
+  {
+    "id": "ranking-063",
+    "category": "ranking",
+    "difficulty": "easy",
+    "kind": "ranking",
+    "question": "对下列手机品牌按照创立时间从早到晚排序",
+    "options": [
+      "小米",
+      "华为",
+      "苹果",
+      "三星"
+    ],
+    "correctOrder": [
+      3,
+      2,
+      1,
+      0
+    ],
+    "explanation": "三星创立于1938年（最早是一家贸易公司），苹果1976年创办，华为1987年在深圳成立，小米2010年创立——最老的三星和最年轻的小米差了70多年。"
+  },
+  {
+    "id": "ranking-064",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列智能手机操作系统按照2024年全球市场份额从高到低排序",
+    "options": [
+      "鸿蒙",
+      "安卓",
+      "iOS",
+      "KaiOS"
+    ],
+    "correctOrder": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "explanation": "2024年安卓全球份额约七成稳居第一，iOS约28%第二，两者合计吃掉近99%的份额；鸿蒙系统约占几个百分点排第三，KaiOS已萎缩到不足1%。"
+  },
+  {
+    "id": "ranking-065",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列手机品牌按照2024年全年全球出货量从多到少排序（IDC数据）",
+    "options": [
+      "苹果",
+      "OPPO",
+      "小米",
+      "三星"
+    ],
+    "correctOrder": [
+      0,
+      3,
+      2,
+      1
+    ],
+    "explanation": "据IDC统计，2024年全年苹果出货约2.32亿部居首，三星约2.23亿次之，小米约1.69亿第三，OPPO约1.05亿第四——苹果首次连续两年超越三星夺冠。"
+  },
+  {
+    "id": "ranking-066",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列编程语言按照2026年9月TIOBE指数排名从高到低排序",
+    "options": [
+      "Java",
+      "Python",
+      "C",
+      "C++"
+    ],
+    "correctOrder": [
+      1,
+      2,
+      3,
+      0
+    ],
+    "explanation": "TIOBE指数2026年9月：Python以约17.76%的份额遥遥领先，C约10.28%第二，C++约8.67%第三，Java约7.54%第四。"
+  },
+  {
+    "id": "ranking-067",
+    "category": "ranking",
+    "difficulty": "medium",
+    "kind": "ranking",
+    "question": "对下列社交平台按照全球月活跃用户数从多到少排序",
+    "options": [
+      "TikTok",
+      "Instagram",
+      "Facebook",
+      "YouTube"
+    ],
+    "correctOrder": [
+      2,
+      3,
+      1,
+      0
+    ],
+    "explanation": "Meta公布Facebook月活约30亿居首，谷歌称YouTube月活超25亿，Instagram约20亿，TikTok约15.8亿（2024年）——短视频亿级俱乐部里它还是最年轻的。"
+  },
+  {
+    "id": "ranking-068",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列大学按照QS世界大学排名2026从高到低排序（名次数字越小排名越高）",
+    "options": [
+      "牛津大学",
+      "帝国理工学院",
+      "哈佛大学",
+      "麻省理工学院"
+    ],
+    "correctOrder": [
+      3,
+      1,
+      0,
+      2
+    ],
+    "explanation": "QS 2026中麻省理工学院连续雄踞第一，帝国理工学院升至第二（斯坦福第三未被列入），牛津第四、哈佛第五。"
+  },
+  {
+    "id": "ranking-069",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列城市按照轨道交通运营里程从长到短排序（截至2025年）",
+    "options": [
+      "上海",
+      "广州",
+      "成都",
+      "北京"
+    ],
+    "correctOrder": [
+      3,
+      0,
+      1,
+      2
+    ],
+    "explanation": "截至2025年，北京轨道交通约909公里居首，上海约890公里第二，广州约780公里第三，成都约716公里第四——中国超大城市的轨交规模已处于全球最前列。"
+  },
+  {
+    "id": "ranking-070",
+    "category": "ranking",
+    "difficulty": "hard",
+    "kind": "ranking",
+    "question": "对下列生僻汉字按照笔画数从多到少排序",
+    "options": [
+      "鬱",
+      "爨",
+      "齉",
+      "龘"
+    ],
+    "correctOrder": [
+      3,
+      2,
+      1,
+      0
+    ],
+    "explanation": "「龘」（三条龙）共48画为冠军，「齉」36画、「爨」30画、「鬱」29画紧随其后——这些生僻字个个都在挑战写字手的耐心。"
+  }
+]

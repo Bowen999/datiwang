@@ -1,11 +1,11 @@
-import { adventurer } from '@dicebear/collection';
 import { createAvatar } from '@dicebear/core';
 import { motion } from 'motion/react';
 import { useMemo } from 'react';
+import { AVATAR_STYLES, parseAvatar } from '../avatarStyles';
 
 /**
- * 卡通头像：DiceBear Adventurer 风格（CC BY 4.0，Lisa Wischofsky）。
- * 本地生成 SVG data URI，不依赖外部 API；同一 seed 恒定生成同一头像。
+ * 卡通头像：DiceBear 开源素材库（15 种风格随机），本地生成 SVG data URI，
+ * 不依赖外部 API；同一「风格 + 种子」恒定生成同一头像。
  */
 export function Avatar({
   seed,
@@ -16,22 +16,21 @@ export function Avatar({
   color: string;
   size?: 'sm' | 'md' | 'lg' | 'xl';
 }) {
-  const uri = useMemo(
-    () =>
-      createAvatar(adventurer, {
-        seed,
-        backgroundColor: [color.replace('#', '')],
-      }).toDataUri(),
-    [seed, color],
-  );
+  const uri = useMemo(() => {
+    const { style, seed: s } = parseAvatar(seed);
+    return createAvatar(AVATAR_STYLES[style], {
+      seed: s,
+      backgroundColor: [color.replace('#', '')],
+    }).toDataUri();
+  }, [seed, color]);
   const cls =
     size === 'sm'
-      ? 'h-8 w-8'
+      ? 'h-10 w-10'
       : size === 'lg'
-        ? 'h-16 w-16'
+        ? 'h-20 w-20'
         : size === 'xl'
-          ? 'h-20 w-20'
-          : 'h-11 w-11';
+          ? 'h-24 w-24'
+          : 'h-14 w-14';
   return (
     <img
       src={uri}

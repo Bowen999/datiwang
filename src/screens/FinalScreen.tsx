@@ -1,4 +1,6 @@
-import { motion } from 'motion/react';
+import { AnimatePresence, motion } from 'motion/react';
+import { useEffect, useState } from 'react';
+import { AwardCeremony } from '../components/AwardCeremony';
 import { Avatar } from '../components/Avatar';
 import { Confetti } from '../components/Confetti';
 import { NeoButton } from '../components/ui/NeoButton';
@@ -14,13 +16,57 @@ interface FinalScreenProps {
   onLeave: () => void;
 }
 
-/** 结算页：冠军领奖台 + 完整排名 + 彩带 */
+/** 颁奖典礼时长：大聪明 2800ms → 小智障 2800ms → 揭晓自己的横幅 */
+const GENIUS_MS = 2800;
+const LOSER_MS = 2800;
+
+type Stage = 'winner' | 'loser' | 'done';
+
+/**
+ * 结算页：
+ * 1. 颁奖典礼（所有人同步可见）——第一名颁发「你是大聪明」，最后一名颁发「你是小智障」；
+ * 2. 特效结束后横幅展示自己的提示：第一名「你是大聪明」/ 最后一名「你是小智障」/ 其余「游戏结束」；
+ * 3. 冠军领奖台 + 完整排名 + 彩带。
+ */
 export function FinalScreen({ room, selfId, isHost, onPlayAgain, onLeave }: FinalScreenProps) {
   const ranked = rankPlayers(room.players);
   const podium = ranked.slice(0, 3);
   const me = ranked.find((p) => p.id === selfId);
   const champion = ranked[0];
   const isChampion = champion?.id === selfId;
+
+  // 并列时整个同分梯队一起领奖；若第一名即最后一名（如单人/全员同分）则跳过小智障奖
+  const firstRank = ranked[0]?.rank ?? 1;
+  const lastRank = ranked[ranked.length - 1]?.rank ?? firstRank;
+  const winners = ranked.filter((p) => p.rank === firstRank);
+  const losers = firstRank === lastRank ? [] : ranked.filter((p) => p.rank === lastRank);
+  const hasLosers = losers.length > 0;
+  const amWinner = me != null && me.rank === firstRank;
+  const amLoser = me != null && hasLosers && me.rank === lastRank;
+
+  const [stage, setStage] = useState<Stage>('winner');
+  useEffect(() => {
+    if (!hasLosers) {
+      const t = setTimeout(() => setStage('done'), GENIUS_MS);
+      return () => clearTimeout(t);
+    }
+    const t1 = setTimeout(() => setStage('loser'), GENIUS_MS);
+    const t2 = setTimeout(() => setStage('done'), GENIUS_MS + LOSER_MS);
+    return () => {
+      clearTimeout(t1);
+      clearTimeout(t2);
+    };
+  }, [hasLosers]);
+
+  const ceremony =
+    stage === 'winner' ? (
+      <AwardCeremony key="winner" stage="winner" winners={winners} losers={[]} />
+    ) : stage === 'loser' ? (
+      <AwardCeremony key="loser" stage="loser" winners={[]} losers={losers} />
+    ) : null;
+
+  const bannerTitle = amWinner ? '🎓 你是大聪明！' : amLoser ? '🤪 你是小智障！' : '🎊 游戏结束！';
+  const bannerClass = amWinner ? 'bg-neo-yellow text-ink shadow-[10px_10px_0_#141414]' : 'bg-neo-pink text-white shadow-neo-lg';
 
   // 领奖台顺序：亚军、冠军、季军
   const podiumOrder = [podium[1], podium[0], podium[2]].filter(Boolean);
@@ -29,15 +75,19 @@ export function FinalScreen({ room, selfId, isHost, onPlayAgain, onLeave }: Fina
 
   return (
     <div className="relative z-10 mx-auto flex app-screen w-full max-w-md flex-col items-center gap-5 px-5 py-8 landscape:py-4 md:max-w-4xl lg:max-w-5xl">
-      <Confetti />
+      {/* 颁奖典礼：所有人同步可见 */}
+      <AnimatePresence>{ceremony}</AnimatePresence>
+
+      {/* 特效结束后：彩带 + 个人横幅 */}
+      {stage === 'done' && <Confetti />}
 
       <motion.div
         initial={{ y: -50, scale: 0.6, opacity: 0 }}
         animate={{ y: 0, scale: 1, opacity: 1 }}
         transition={{ type: 'spring', stiffness: 250, damping: 16 }}
-        className="rounded-neo border-[5px] border-ink bg-neo-pink px-8 py-3 text-3xl font-black text-white shadow-neo-lg"
+        className={`rounded-neo border-[5px] border-ink px-8 py-3 text-3xl font-black ${bannerClass}`}
       >
-        {isChampion ? '🏆 你是答题王！' : '🎊 游戏结束！'}
+        {bannerTitle}
       </motion.div>
 
       {me && !isChampion && (
