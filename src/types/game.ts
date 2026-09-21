@@ -118,6 +118,8 @@ export interface RoomState {
   questionIds: string[];
   /** 本房间历史上已出过的题目 id（跨多局累计，防重复） */
   usedQuestionIds: string[];
+  /** 被房主移出房间的玩家 id（房间存续期内禁止再次加入） */
+  kickedIds?: string[];
   activeQuestion?: PublicQuestion;
   questionEndsAt?: number;
   countdownEndsAt?: number;
@@ -130,6 +132,7 @@ export interface RoomState {
 export type GameMessage =
   | { t: 'join'; player: Pick<Player, 'id' | 'name' | 'avatar' | 'color'> }
   | { t: 'leave'; playerId: string }
+  | { t: 'kick'; playerId: string; by: string }
   | { t: 'answer'; playerId: string; optionIndex?: number; order?: number[]; timeMs: number }
   | { t: 'ready'; playerId: string; ready: boolean }
   | { t: 'avatar'; playerId: string; avatar: string }

@@ -60,6 +60,8 @@ export function useRoom() {
   const [notices, setNotices] = useState<Notice[]>([]);
   const [myAnswer, setMyAnswer] = useState<MyAnswer | null>(null);
   const [categories, setCategories] = useState<CategoryMeta[]>([]);
+  /** 被房主踢出后显示踢人来源（null = 正常状态） */
+  const [kickedBy, setKickedBy] = useState<string | null>(null);
 
   const serviceRef = useRef<RealtimeService | null>(null);
   const roomRef = useRef<RoomState | null>(null);
@@ -120,6 +122,23 @@ export function useRoom() {
     [selfId, publish],
   );
 
+  /** 被踢 / 被移出房间：断开连接并清空房间状态（保留被踢提示） */
+  const handleKicked = useCallback(
+    (byName?: string) => {
+      serviceRef.current?.disconnect();
+      serviceRef.current = null;
+      answersRef.current = new Map();
+      hostQuestionsRef.current = new Map();
+      joinWaiterRef.current = null;
+      clockOffsetRef.current = 0;
+      applyRoom(null);
+      setMyAnswer(null);
+      setKickedBy(byName ?? '房主');
+      pushNotice('你已被移出房间', '🚫');
+    },
+    [applyRoom, pushNotice],
+  );
+
   // ---------- 消息处理 ----------
   const handleMessage = useCallback(
     (raw: unknown) => {
@@ -131,6 +150,16 @@ export function useRoom() {
         const prev = roomRef.current;
         if (prev && msg.state.version < prev.version) return; // 过期状态
         if (prev && msg.state.code !== prev.code) return;
+        // 兜底检测：房主把我们移出了成员列表（此时 kick 消息可能先到或已错过）
+        if (
+          prev &&
+          prev.players.some((p) => p.id === selfId) &&
+          !msg.state.players.some((p) => p.id === selfId)
+        ) {
+          const byName = prev.players.find((p) => p.id === msg.state.hostId)?.name;
+          handleKicked(byName);
+          return;
+        }
         // 玩家加入提示
         if (prev) {
           const prevIds = new Set(prev.players.map((p) => p.id));
@@ -147,11 +176,23 @@ export function useRoom() {
         return;
       }
 
+      // 被房主点名踢出
+      if (msg.t === 'kick' && msg.playerId === selfId) {
+        const byName = st?.players.find((p) => p.id === msg.by)?.name;
+        handleKicked(byName);
+        return;
+      }
+
       // 以下只有房主处理
       if (!st || st.hostId !== selfId) return;
 
       if (msg.t === 'join') {
         const exists = st.players.some((p) => p.id === msg.player.id);
+        // 被踢过的玩家：拒绝再次加入（无需改状态，仅提示对方）
+        if (!exists && st.kickedIds?.includes(msg.player.id)) {
+          serviceRef.current?.broadcast({ t: 'kick', playerId: msg.player.id, by: selfId } satisfies GameMessage);
+          return;
+        }
         if (exists) {
           // 重连：恢复在线状态
           publish({
@@ -201,7 +242,7 @@ export function useRoom() {
         });
       }
     },
-    [selfId, applyRoom, publish, pushNotice, hostRecordAnswer],
+    [selfId, applyRoom, publish, pushNotice, hostRecordAnswer, handleKicked],
   );
 
   // ---------- 在线状态（Presence）----------
@@ -521,6 +562,39 @@ export function useRoom() {
     publish(resetToLobby(st, Date.now()));
   }, [selfId, publish]);
 
+  /** 房主踢出玩家（游戏进行中也适用，作答记录一并清理） */
+  const kickPlayer = useCallback(
+    (playerId: string) => {
+      const st = roomRef.current;
+      if (!st || st.hostId !== selfId) return;
+      if (playerId === selfId || playerId === st.hostId) return;
+      const target = st.players.find((p) => p.id === playerId);
+      if (!target) return;
+      // 通知被踢者本人（房主收不到自己发的广播）
+      serviceRef.current?.broadcast({ t: 'kick', playerId, by: selfId } satisfies GameMessage);
+      answersRef.current.delete(playerId);
+      const answeredIds = st.answeredIds.filter((id) => id !== playerId);
+      const reveal = st.reveal
+        ? { ...st.reveal, results: st.reveal.results.filter((r) => r.playerId !== playerId) }
+        : undefined;
+      publish({
+        ...st,
+        players: st.players.filter((p) => p.id !== playerId),
+        answeredIds,
+        reveal,
+        kickedIds: [...new Set([...(st.kickedIds ?? []), playerId])],
+      });
+      pushNotice(`已将「${target.name}」移出房间`, '🚫');
+    },
+    [selfId, publish, pushNotice],
+  );
+
+  /** 被踢后返回首页 */
+  const backToHome = useCallback(() => {
+    setKickedBy(null);
+    setError(null);
+  }, []);
+
   return {
     room,
     selfId,
@@ -531,6 +605,7 @@ export function useRoom() {
     notices,
     myAnswer,
     categories,
+    kickedBy,
     mode: isSupabaseConfigured ? ('supabase' as const) : ('local' as const),
     now,
     createRoom,
@@ -544,5 +619,7 @@ export function useRoom() {
     submitAnswer,
     nextRound,
     playAgain,
+    kickPlayer,
+    backToHome,
   };
 }

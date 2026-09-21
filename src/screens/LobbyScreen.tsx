@@ -30,9 +30,10 @@ interface LobbyScreenProps {
   onRerollAvatar: () => void;
   onStart: () => void;
   onLeave: () => void;
+  onKick: (playerId: string) => void;
 }
 
-export function LobbyScreen({ room, selfId, isHost, categories, onUpdateSettings, onRename, onReady, onRerollAvatar, onStart, onLeave }: LobbyScreenProps) {
+export function LobbyScreen({ room, selfId, isHost, categories, onUpdateSettings, onRename, onReady, onRerollAvatar, onStart, onLeave, onKick }: LobbyScreenProps) {
   const [copied, setCopied] = useState<'code' | 'link' | null>(null);
   const [showMore, setShowMore] = useState(false);
   const s = room.settings;
@@ -75,6 +76,13 @@ export function LobbyScreen({ room, selfId, isHost, categories, onUpdateSettings
     if (has && s.questionTypes.length === 1) return; // 至少保留一种题目类型
     const next = has ? s.questionTypes.filter((k) => k !== kind) : [...s.questionTypes, kind];
     onUpdateSettings({ questionTypes: next });
+  };
+
+  const handleKick = (playerId: string) => {
+    const target = room.players.find((p) => p.id === playerId);
+    if (!target) return;
+    // 防误触：确认后再踢
+    if (window.confirm(`确定把「${target.name}」移出房间吗？`)) onKick(playerId);
   };
 
   return (
@@ -170,6 +178,15 @@ export function LobbyScreen({ room, selfId, isHost, categories, onUpdateSettings
                     <span className={`text-[10px] font-bold ${p.connected ? (p.isHost || p.ready ? 'text-green-700' : 'text-ink/40') : 'text-ink/40'}`}>
                       {!p.connected ? '○ 离线' : p.isHost ? '👑 房主' : p.ready ? '✅ 已准备' : '⏳ 未准备'}
                     </span>
+                    {isHost && p.id !== selfId && (
+                      <button
+                        onClick={() => handleKick(p.id)}
+                        title={`把「${p.name}」移出房间`}
+                        className="rounded-neo border-2 border-ink bg-white px-2 py-0.5 text-[10px] font-black text-ink/70 shadow-neo-sm transition-all hover:-translate-y-0.5 hover:bg-red-50 hover:text-red-600"
+                      >
+                        🚫 踢出
+                      </button>
+                    )}
                   </div>
                 </PopIn>
               ))}

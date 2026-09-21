@@ -6,6 +6,7 @@ import { PartyDecorations } from './components/ui/NeoCard';
 import { useRoom } from './hooks/useRoom';
 import { FinalScreen } from './screens/FinalScreen';
 import { HomeScreen } from './screens/HomeScreen';
+import { KickedScreen } from './screens/KickedScreen';
 import { LobbyScreen } from './screens/LobbyScreen';
 import { QuizScreen } from './screens/QuizScreen';
 
@@ -36,13 +37,16 @@ export default function App() {
     history.replaceState(null, '', url);
   }, [r.room?.code]);
 
-  const screen = !r.room
-    ? 'home'
-    : r.room.phase === 'lobby'
-      ? 'lobby'
-      : r.room.phase === 'final'
-        ? 'final'
-        : 'quiz';
+  // 被踢优先级最高：房间状态已清空，直接显示被移出页面
+  const screen = r.kickedBy
+    ? 'kicked'
+    : !r.room
+      ? 'home'
+      : r.room.phase === 'lobby'
+        ? 'lobby'
+        : r.room.phase === 'final'
+          ? 'final'
+          : 'quiz';
 
   return (
     <div className="app-screen overflow-x-hidden pb-[var(--safe-bottom)]">
@@ -73,8 +77,10 @@ export default function App() {
               onRerollAvatar={r.rerollAvatar}
               onStart={r.startGame}
               onLeave={r.leaveRoom}
+              onKick={r.kickPlayer}
             />
           )}
+          {screen === 'kicked' && <KickedScreen by={r.kickedBy ?? '房主'} onBack={r.backToHome} />}
           {screen === 'quiz' && r.room && (
             <QuizScreen
               room={r.room}
