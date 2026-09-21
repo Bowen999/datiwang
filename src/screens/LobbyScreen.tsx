@@ -3,8 +3,9 @@ import { useState } from 'react';
 import { Avatar, PopIn } from '../components/Avatar';
 import { NeoButton } from '../components/ui/NeoButton';
 import { NeoBadge, NeoCard } from '../components/ui/NeoCard';
+import { NeoModal } from '../components/ui/NeoModal';
 import { RANKING_EXTRA_SECONDS } from '../game/gameLogic';
-import type { CategoryMeta, Difficulty, GameSettings, QuestionKind, RoomState } from '../types/game';
+import type { CategoryMeta, Difficulty, GameSettings, QuestionKind, Player, RoomState } from '../types/game';
 
 const DIFFICULTY_OPTIONS: { value: GameSettings['difficulty']; label: string }[] = [
   { value: 'mixed', label: '混合' },
@@ -31,11 +32,16 @@ interface LobbyScreenProps {
   onStart: () => void;
   onLeave: () => void;
   onKick: (playerId: string) => void;
+  onRespondJoin: (playerId: string, accept: boolean) => void;
 }
 
-export function LobbyScreen({ room, selfId, isHost, categories, onUpdateSettings, onRename, onReady, onRerollAvatar, onStart, onLeave, onKick }: LobbyScreenProps) {
+export function LobbyScreen({ room, selfId, isHost, categories, onUpdateSettings, onRename, onReady, onRerollAvatar, onStart, onLeave, onKick, onRespondJoin }: LobbyScreenProps) {
   const [copied, setCopied] = useState<'code' | 'link' | null>(null);
   const [showMore, setShowMore] = useState(false);
+  /** 点击头像展开的玩家菜单（房主可见） */
+  const [menuFor, setMenuFor] = useState<string | null>(null);
+  /** 正在确认踢出的玩家（非空 → 弹确认框） */
+  const [kickTarget, setKickTarget] = useState<Player | null>(null);
   const s = room.settings;
   const allSelected = s.categories.length === 0;
   const me = room.players.find((p) => p.id === selfId);
@@ -78,11 +84,11 @@ export function LobbyScreen({ room, selfId, isHost, categories, onUpdateSettings
     onUpdateSettings({ questionTypes: next });
   };
 
-  const handleKick = (playerId: string) => {
-    const target = room.players.find((p) => p.id === playerId);
-    if (!target) return;
-    // 防误触：确认后再踢
-    if (window.confirm(`确定把「${target.name}」移出房间吗？`)) onKick(playerId);
+  const confirmKick = () => {
+    if (!kickTarget) return;
+    setMenuFor(null);
+    onKick(kickTarget.id);
+    setKickTarget(null);
   };
 
   return (
@@ -159,7 +165,41 @@ export function LobbyScreen({ room, selfId, isHost, categories, onUpdateSettings
                     }`}
                   >
                     <div className="relative">
-                      <Avatar seed={p.avatar} color={p.color} />
+                      {isHost && p.id !== selfId ? (
+                        <>
+                          <motion.button
+                            whileTap={{ scale: 0.88 }}
+                            onClick={() => setMenuFor(menuFor === p.id ? null : p.id)}
+                            title={`管理「${p.name}」`}
+                            className="block"
+                          >
+                            <Avatar seed={p.avatar} color={p.color} />
+                          </motion.button>
+                          {menuFor === p.id && (
+                            <>
+                              <div className="fixed inset-0 z-30" onClick={() => setMenuFor(null)} aria-hidden />
+                              <motion.div
+                                initial={{ scale: 0.8, opacity: 0, y: -8, rotate: -2 }}
+                                animate={{ scale: 1, opacity: 1, y: 0, rotate: 0 }}
+                                transition={{ type: 'spring', stiffness: 400, damping: 24 }}
+                                className="absolute left-1/2 top-full z-40 mt-2 w-36 -translate-x-1/2"
+                              >
+                                <NeoCard className="border-[3px] border-ink bg-white p-1.5 shadow-neo-lg">
+                                  <motion.button
+                                    whileTap={{ scale: 0.95 }}
+                                    onClick={() => setKickTarget(p)}
+                                    className="flex w-full items-center justify-center gap-1.5 rounded-neo border-2 border-ink bg-white px-3 py-2 text-xs font-black text-ink transition-colors hover:bg-neo-red hover:text-white"
+                                  >
+                                    🚫 踢出房间
+                                  </motion.button>
+                                </NeoCard>
+                              </motion.div>
+                            </>
+                          )}
+                        </>
+                      ) : (
+                        <Avatar seed={p.avatar} color={p.color} />
+                      )}
                       {p.id === selfId && (
                         <motion.button
                           whileTap={{ scale: 0.75, rotate: 180 }}
@@ -178,20 +218,37 @@ export function LobbyScreen({ room, selfId, isHost, categories, onUpdateSettings
                     <span className={`text-[10px] font-bold ${p.connected ? (p.isHost || p.ready ? 'text-green-700' : 'text-ink/40') : 'text-ink/40'}`}>
                       {!p.connected ? '○ 离线' : p.isHost ? '👑 房主' : p.ready ? '✅ 已准备' : '⏳ 未准备'}
                     </span>
-                    {isHost && p.id !== selfId && (
-                      <button
-                        onClick={() => handleKick(p.id)}
-                        title={`把「${p.name}」移出房间`}
-                        className="rounded-neo border-2 border-ink bg-white px-2 py-0.5 text-[10px] font-black text-ink/70 shadow-neo-sm transition-all hover:-translate-y-0.5 hover:bg-red-50 hover:text-red-600"
-                      >
-                        🚫 踢出
-                      </button>
-                    )}
                   </div>
                 </PopIn>
               ))}
             </AnimatePresence>
           </div>
+
+          {/* 被踢玩家重新加入的待审申请（仅房主） */}
+          {isHost && room.joinRequests != null && room.joinRequests.length > 0 && (
+            <div className="mt-4 rounded-neo border-[3px] border-ink bg-neo-yellow p-3 shadow-neo-sm">
+              <div className="mb-2 flex items-center gap-1 text-sm font-black">
+                ✋ 加入申请
+                <NeoBadge className="bg-white">{room.joinRequests.length}</NeoBadge>
+              </div>
+              {room.joinRequests.map((rq) => (
+                <div
+                  key={rq.player.id}
+                  className="mb-2 flex items-center gap-2 rounded-neo border-2 border-ink bg-white p-2 last:mb-0"
+                >
+                  <Avatar seed={rq.player.avatar} color={rq.player.color} size="sm" />
+                  <span className="min-w-0 flex-1 truncate text-sm font-black">{rq.player.name}</span>
+                  <NeoButton size="sm" color="green" onClick={() => onRespondJoin(rq.player.id, true)}>
+                    ✔ 同意
+                  </NeoButton>
+                  <NeoButton size="sm" color="red" onClick={() => onRespondJoin(rq.player.id, false)}>
+                    ✘ 拒绝
+                  </NeoButton>
+                </div>
+              ))}
+            </div>
+          )}
+
           <div className="mt-4 hidden text-center md:block">
             <NeoBadge className="bg-paper">分享房间号或链接，喊朋友进来！</NeoBadge>
           </div>
@@ -337,6 +394,25 @@ export function LobbyScreen({ room, selfId, isHost, categories, onUpdateSettings
       <div className="pb-2 text-center md:hidden">
         <NeoBadge className="bg-white">分享房间号或链接，喊朋友进来！</NeoBadge>
       </div>
+
+      {/* 踢人确认弹窗（neo 风，替代 window.confirm） */}
+      <NeoModal open={kickTarget !== null} onClose={() => setKickTarget(null)}>
+        <NeoCard className="bg-white p-6 text-center shadow-neo-lg">
+          <div className="text-5xl">🚫</div>
+          <h3 className="mt-3 text-xl font-black">把「{kickTarget?.name}」移出房间？</h3>
+          <p className="mt-1 text-xs font-bold text-ink/50">
+            TA 被移出后仍可申请重新加入，需你同意才会回来
+          </p>
+          <div className="mt-5 flex justify-center gap-3">
+            <NeoButton color="white" onClick={() => setKickTarget(null)}>
+              👈 先不踢
+            </NeoButton>
+            <NeoButton color="red" size="lg" onClick={confirmKick}>
+              🚫 确认移出
+            </NeoButton>
+          </div>
+        </NeoCard>
+      </NeoModal>
     </div>
   );
 }

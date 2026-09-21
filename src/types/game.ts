@@ -83,6 +83,12 @@ export interface AnswerRecord {
   points: number;
 }
 
+/** 被踢玩家请求重新加入的申请（由房主决定是否同意） */
+export interface JoinRequest {
+  player: Pick<Player, 'id' | 'name' | 'avatar' | 'color'>;
+  at: number;
+}
+
 export type RoomPhase = 'lobby' | 'countdown' | 'question' | 'reveal' | 'final';
 
 export interface GameSettings {
@@ -118,8 +124,10 @@ export interface RoomState {
   questionIds: string[];
   /** 本房间历史上已出过的题目 id（跨多局累计，防重复） */
   usedQuestionIds: string[];
-  /** 被房主移出房间的玩家 id（房间存续期内禁止再次加入） */
+  /** 被房主移出房间的玩家 id（房间存续期内禁止直接加入） */
   kickedIds?: string[];
+  /** 被踢玩家的重新加入申请（待房主审批） */
+  joinRequests?: JoinRequest[];
   activeQuestion?: PublicQuestion;
   questionEndsAt?: number;
   countdownEndsAt?: number;
@@ -133,6 +141,8 @@ export type GameMessage =
   | { t: 'join'; player: Pick<Player, 'id' | 'name' | 'avatar' | 'color'> }
   | { t: 'leave'; playerId: string }
   | { t: 'kick'; playerId: string; by: string }
+  | { t: 'apply-join'; player: Pick<Player, 'id' | 'name' | 'avatar' | 'color'> }
+  | { t: 'join-reply'; playerId: string; accept: boolean }
   | { t: 'answer'; playerId: string; optionIndex?: number; order?: number[]; timeMs: number }
   | { t: 'ready'; playerId: string; ready: boolean }
   | { t: 'avatar'; playerId: string; avatar: string }

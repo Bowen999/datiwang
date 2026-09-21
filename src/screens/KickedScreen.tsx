@@ -2,8 +2,18 @@ import { motion } from 'motion/react';
 import { NeoButton } from '../components/ui/NeoButton';
 import { NeoCard } from '../components/ui/NeoCard';
 
-/** 被房主移出房间的提示页 */
-export function KickedScreen({ by, onBack }: { by: string; onBack: () => void }) {
+/** 被房主移出房间的提示页：可申请重新加入（需房主同意） */
+export function KickedScreen({
+  by,
+  applied,
+  onApply,
+  onBack,
+}: {
+  by: string;
+  applied: boolean;
+  onApply: () => void;
+  onBack: () => void;
+}) {
   return (
     <div className="app-screen mx-auto flex w-full max-w-md flex-col items-center justify-center gap-5 px-5 text-center">
       <motion.div
@@ -24,9 +34,18 @@ export function KickedScreen({ by, onBack }: { by: string; onBack: () => void })
           <p className="mt-2 text-sm font-bold text-ink/60">
             {by === '房主' ? '房主将你移出了房间。' : `房主「${by}」将你移出了房间。`}
           </p>
-          <p className="mt-1 text-xs font-bold text-ink/40">房间链接失效，需要主人再次邀请才能加入哦</p>
-          <div className="mt-5">
-            <NeoButton color="pink" size="xl" onClick={onBack} className="w-full text-lg">
+          <p className="mt-1 text-xs font-bold text-ink/40">可以申请重新加入，需要房主同意哦</p>
+          <div className="mt-5 flex flex-col gap-3">
+            <NeoButton
+              color={applied ? 'white' : 'yellow'}
+              size="xl"
+              onClick={onApply}
+              disabled={applied}
+              className={`w-full text-lg ${applied ? 'cursor-not-allowed opacity-80' : ''}`}
+            >
+              {applied ? '⏳ 已申请，等待房主同意…' : '✋ 申请重新加入'}
+            </NeoButton>
+            <NeoButton color="white" size="lg" onClick={onBack} className="w-full">
               🏠 返回首页
             </NeoButton>
           </div>

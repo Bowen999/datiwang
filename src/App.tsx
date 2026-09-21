@@ -78,9 +78,12 @@ export default function App() {
               onStart={r.startGame}
               onLeave={r.leaveRoom}
               onKick={r.kickPlayer}
+              onRespondJoin={r.respondJoinRequest}
             />
           )}
-          {screen === 'kicked' && <KickedScreen by={r.kickedBy ?? '房主'} onBack={r.backToHome} />}
+          {screen === 'kicked' && (
+            <KickedScreen by={r.kickedBy ?? '房主'} applied={r.joinApplied} onApply={r.applyJoin} onBack={r.backToHome} />
+          )}
           {screen === 'quiz' && r.room && (
             <QuizScreen
               room={r.room}

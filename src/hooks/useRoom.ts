@@ -62,6 +62,8 @@ export function useRoom() {
   const [categories, setCategories] = useState<CategoryMeta[]>([]);
   /** 被房主踢出后显示踢人来源（null = 正常状态） */
   const [kickedBy, setKickedBy] = useState<string | null>(null);
+  /** 被踢后是否已提交重新加入申请（等待房主审批） */
+  const [joinApplied, setJoinApplied] = useState(false);
 
   const serviceRef = useRef<RealtimeService | null>(null);
   const roomRef = useRef<RoomState | null>(null);
@@ -70,6 +72,10 @@ export function useRoom() {
   const hostQuestionsRef = useRef(new Map<string, QuizQuestion>());
   const joinWaiterRef = useRef<((ok: boolean) => void) | null>(null);
   const noticeIdRef = useRef(0);
+  /** 是否处于“被踢”状态（期间忽略不含自己的房间状态，除非房主批准重进） */
+  const kickedRef = useRef(false);
+  /** 被踢前的个人信息，用于申请重新加入 */
+  const selfPlayerRef = useRef<Pick<Player, 'id' | 'name' | 'avatar' | 'color'> | null>(null);
 
   const isHost = room != null && room.hostId === selfId;
   const now = useCallback(() => Date.now() + clockOffsetRef.current, []);
@@ -122,11 +128,16 @@ export function useRoom() {
     [selfId, publish],
   );
 
-  /** 被踢 / 被移出房间：断开连接并清空房间状态（保留被踢提示） */
+  /** 被踢 / 被移出房间：保留连接（以便申请重新加入并即时收到审批），清空房间状态 */
   const handleKicked = useCallback(
     (byName?: string) => {
-      serviceRef.current?.disconnect();
-      serviceRef.current = null;
+      const st = roomRef.current;
+      if (st) {
+        const me = st.players.find((p) => p.id === selfId);
+        if (me) selfPlayerRef.current = { id: me.id, name: me.name, avatar: me.avatar, color: me.color };
+      }
+      kickedRef.current = true;
+      setJoinApplied(false);
       answersRef.current = new Map();
       hostQuestionsRef.current = new Map();
       joinWaiterRef.current = null;
@@ -136,7 +147,7 @@ export function useRoom() {
       setKickedBy(byName ?? '房主');
       pushNotice('你已被移出房间', '🚫');
     },
-    [applyRoom, pushNotice],
+    [applyRoom, pushNotice, selfId],
   );
 
   // ---------- 消息处理 ----------
@@ -150,15 +161,25 @@ export function useRoom() {
         const prev = roomRef.current;
         if (prev && msg.state.version < prev.version) return; // 过期状态
         if (prev && msg.state.code !== prev.code) return;
+        const selfInState = msg.state.players.some((p) => p.id === selfId);
+        // 被踢期间本地房间已清空：只接受“我重新变成成员”的状态（即房主批准重进）
+        if (prev === null && kickedRef.current && !selfInState) return;
         // 兜底检测：房主把我们移出了成员列表（此时 kick 消息可能先到或已错过）
         if (
           prev &&
           prev.players.some((p) => p.id === selfId) &&
-          !msg.state.players.some((p) => p.id === selfId)
+          !selfInState
         ) {
           const byName = prev.players.find((p) => p.id === msg.state.hostId)?.name;
           handleKicked(byName);
           return;
+        }
+        // 房主已批准重新加入：解除被踢状态
+        if (kickedRef.current && selfInState) {
+          kickedRef.current = false;
+          setKickedBy(null);
+          setJoinApplied(false);
+          pushNotice('房主已同意你重新加入', '🎉');
         }
         // 玩家加入提示
         if (prev) {
@@ -172,7 +193,7 @@ export function useRoom() {
           }
         }
         applyRoom(msg.state);
-        joinWaiterRef.current?.(msg.state.players.some((p) => p.id === selfId));
+        joinWaiterRef.current?.(selfInState);
         return;
       }
 
@@ -180,6 +201,15 @@ export function useRoom() {
       if (msg.t === 'kick' && msg.playerId === selfId) {
         const byName = st?.players.find((p) => p.id === msg.by)?.name;
         handleKicked(byName);
+        return;
+      }
+
+      // 房主对重新加入申请的答复（针对被踢者本人）
+      if (msg.t === 'join-reply' && msg.playerId === selfId) {
+        if (!msg.accept) {
+          setJoinApplied(false);
+          pushNotice('房主拒绝了你的加入申请', '😢');
+        }
         return;
       }
 
@@ -217,6 +247,31 @@ export function useRoom() {
           joinedAt: Date.now(),
         };
         publish({ ...st, players: [...st.players, player] });
+      } else if (msg.t === 'apply-join') {
+        // 被踢玩家的重新加入申请：非被踢玩家按普通加入处理，被踢玩家进入待审批队列
+        const inPlayers = st.players.some((p) => p.id === msg.player.id);
+        if (inPlayers) return;
+        if (!st.kickedIds?.includes(msg.player.id)) {
+          const usedColors = new Set(st.players.map((p) => p.color));
+          const color = COLORS.find((c) => !usedColors.has(c)) ?? COLORS[st.players.length % COLORS.length];
+          const player: Player = {
+            ...msg.player,
+            color,
+            score: 0,
+            streak: 0,
+            correctCount: 0,
+            isHost: false,
+            connected: true,
+            ready: false,
+            joinedAt: Date.now(),
+          };
+          publish({ ...st, players: [...st.players, player] });
+          return;
+        }
+        const reqs = st.joinRequests ?? [];
+        if (reqs.some((r) => r.player.id === msg.player.id)) return; // 已在队列
+        publish({ ...st, joinRequests: [...reqs, { player: msg.player, at: Date.now() }] });
+        pushNotice(`${msg.player.name} 申请重新加入`, '✋');
       } else if (msg.t === 'leave') {
         const target = st.players.find((p) => p.id === msg.playerId);
         if (!target) return;
@@ -583,15 +638,77 @@ export function useRoom() {
         answeredIds,
         reveal,
         kickedIds: [...new Set([...(st.kickedIds ?? []), playerId])],
+        joinRequests: (st.joinRequests ?? []).filter((r) => r.player.id !== playerId),
       });
       pushNotice(`已将「${target.name}」移出房间`, '🚫');
     },
     [selfId, publish, pushNotice],
   );
 
-  /** 被踢后返回首页 */
+  /** 被踢后申请重新加入（等待房主审批） */
+  const applyJoin = useCallback(() => {
+    const me = selfPlayerRef.current;
+    if (!me || !serviceRef.current) return;
+    serviceRef.current.broadcast({
+      t: 'apply-join',
+      player: { id: me.id, name: me.name, avatar: me.avatar, color: me.color },
+    } satisfies GameMessage);
+    setJoinApplied(true);
+    pushNotice('已发送加入申请，等待房主同意…', '✋');
+  }, []);
+
+  /** 房主审批被踢玩家的重新加入申请 */
+  const respondJoinRequest = useCallback(
+    (playerId: string, accept: boolean) => {
+      const st = roomRef.current;
+      if (!st || st.hostId !== selfId) return;
+      const req = (st.joinRequests ?? []).find((r) => r.player.id === playerId);
+      if (!req) return;
+      const joinRequests = (st.joinRequests ?? []).filter((r) => r.player.id !== playerId);
+      if (!accept) {
+        serviceRef.current?.broadcast({ t: 'join-reply', playerId, accept: false } satisfies GameMessage);
+        publish({ ...st, joinRequests });
+        pushNotice(`已拒绝「${req.player.name}」的加入申请`, '🚫');
+        return;
+      }
+      let players = st.players;
+      if (!players.some((p) => p.id === playerId)) {
+        const usedColors = new Set(st.players.map((p) => p.color));
+        const color = COLORS.find((c) => !usedColors.has(c)) ?? COLORS[st.players.length % COLORS.length];
+        players = [
+          ...st.players,
+          {
+            ...req.player,
+            color,
+            score: 0,
+            streak: 0,
+            correctCount: 0,
+            isHost: false,
+            connected: true,
+            ready: false,
+            joinedAt: Date.now(),
+          },
+        ];
+      }
+      publish({
+        ...st,
+        players,
+        joinRequests,
+        kickedIds: (st.kickedIds ?? []).filter((id) => id !== playerId),
+      });
+      pushNotice(`已同意「${req.player.name}」重新加入`, '✅');
+    },
+    [selfId, publish, pushNotice],
+  );
+
+  /** 被踢后返回首页（断开房间连接，放弃申请） */
   const backToHome = useCallback(() => {
+    serviceRef.current?.disconnect();
+    serviceRef.current = null;
+    kickedRef.current = false;
+    selfPlayerRef.current = null;
     setKickedBy(null);
+    setJoinApplied(false);
     setError(null);
   }, []);
 
@@ -606,6 +723,7 @@ export function useRoom() {
     myAnswer,
     categories,
     kickedBy,
+    joinApplied,
     mode: isSupabaseConfigured ? ('supabase' as const) : ('local' as const),
     now,
     createRoom,
@@ -620,6 +738,8 @@ export function useRoom() {
     nextRound,
     playAgain,
     kickPlayer,
+    respondJoinRequest,
+    applyJoin,
     backToHome,
   };
 }
