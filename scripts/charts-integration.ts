@@ -1,7 +1,7 @@
 /* 排行榜动态题服务层集成测试（需要 dev server 在 :5175 运行） */
 import { JsonQuestionSource, QuestionService } from '../src/services/QuestionService';
 
-const BASE = 'http://localhost:5175/questions';
+const BASE = process.env.BASE || 'http://localhost:5173/questions';
 const service = new QuestionService(new JsonQuestionSource(BASE));
 
 let failures = 0;
