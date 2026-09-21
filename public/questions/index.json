@@ -12,6 +12,9 @@
     { "id": "literature", "name": "中外文学" },
     { "id": "popculture", "name": "流行文化" },
     { "id": "food", "name": "美食" },
-    { "id": "movies", "name": "影视" }
+    { "id": "movies", "name": "影视" },
+    { "id": "sports", "name": "体育竞技" },
+    { "id": "music", "name": "音乐天地" },
+    { "id": "tech", "name": "科技网络" }
   ]
 }
