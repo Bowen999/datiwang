@@ -26,6 +26,23 @@ export interface RankingQuestion extends QuestionBase {
   correctOrder: number[];
 }
 
+/** 排行榜中的一个条目 */
+export interface RankChartEntry {
+  /** 条目名（也是排序题选项文案） */
+  name: string;
+  /** 展示值（如 GDP 金额、得分、面积），用于揭晓解释 */
+  value?: string;
+}
+
+/** 排行榜数据源：条目按「第 1 名 → 第 N 名」顺序排列 */
+export interface RankChart {
+  id: string;
+  /** 榜单名，会拼进题目文案，如「2024年中国城市GDP排行榜」 */
+  name: string;
+  difficulty: Difficulty;
+  entries: RankChartEntry[];
+}
+
 /** 题库中的完整题目（含正确答案，仅数据源/房主侧可见） */
 export type QuizQuestion = ChoiceQuestion | RankingQuestion;
 

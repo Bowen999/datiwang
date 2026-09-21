@@ -3,7 +3,8 @@ import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { computeReveal, shuffleQuestionOptions } from '../src/game/gameLogic';
 import { rankingRatio, scoreRankingAnswer } from '../src/game/scoring';
-import type { QuizQuestion, RoomState } from '../src/types/game';
+import type { QuizQuestion, RankChart, RoomState } from '../src/types/game';
+import { buildChartQuestion, chartQuestionId, parseChartQuestionId } from '../src/game/charts';
 
 let failures = 0;
 function check(name: string, cond: boolean, extra?: unknown) {
@@ -153,6 +154,60 @@ for (const q of rankingJson) {
     seen.size === q.options.length && order.every((v) => v >= 0 && v < q.options.length),
   );
 }
+
+// ---- 6. 排行榜动态排序题 ----
+console.log('6) rankcharts 排行榜动态题');
+const chartsJson = JSON.parse(
+  readFileSync(join(process.cwd(), 'public/questions/rankcharts.json'), 'utf8'),
+) as RankChart[];
+check(`rankcharts.json 共 ${chartsJson.length} 个排行榜（≥6）`, chartsJson.length >= 6);
+for (const c of chartsJson) {
+  check(
+    `榜单 ${c.id}: 条目≥6 且条目名互异`,
+    c.entries.length >= 6 && new Set(c.entries.map((e) => e.name)).size === c.entries.length,
+  );
+  check(
+    `榜单 ${c.id}: difficulty 合法`,
+    ['easy', 'medium', 'hard'].includes(c.difficulty),
+  );
+}
+let deterministic = true;
+let optionsOk = true;
+let permOk = true;
+let idOk = true;
+let textOk = true;
+for (const c of chartsJson) {
+  for (const sid of [1, 42, 20260921, 999999]) {
+    const q1 = buildChartQuestion(c, sid);
+    const q2 = buildChartQuestion(c, sid);
+    if (JSON.stringify(q1) !== JSON.stringify(q2)) deterministic = false;
+    if (q1.options.length !== 4 || new Set(q1.options).size !== 4) optionsOk = false;
+    if (!q1.options.every((n) => c.entries.some((e) => e.name === n))) optionsOk = false;
+    const order = q1.correctOrder;
+    if (
+      order.length !== 4 ||
+      new Set(order.map(String)).size !== 4 ||
+      order.some((v) => v < 0 || v >= 4)
+    ) {
+      permOk = false;
+      continue;
+    }
+    // 按名次取实体，其榜单下标必须严格递增（第 1 名在前）
+    const idx = order.map((i) => c.entries.findIndex((e) => e.name === q1.options[i]));
+    for (let k = 1; k < idx.length; k++) if (idx[k - 1] >= idx[k]) permOk = false;
+    if (!q1.question.includes(c.name)) textOk = false;
+    if (q1.kind !== 'ranking' || q1.category !== 'ranking' || q1.difficulty !== c.difficulty) textOk = false;
+    if (!(q1.explanation ?? '').includes(c.name)) textOk = false;
+    const parsed = parseChartQuestionId(q1.id);
+    if (!parsed || parsed.chartId !== c.id || parsed.sampleId !== sid) idOk = false;
+    if (chartQuestionId(c.id, sid) !== q1.id) idOk = false;
+  }
+}
+check('同 (chart,sampleId) 生成完全相同的题 → 迁移可按 id 重建', deterministic);
+check('每道题恰 4 个互异选项且全部来自榜单', optionsOk);
+check('correctOrder 为 0..3 排列且名次与榜单顺序一致', permOk);
+check('题目文案/解释/kind/category/difficulty 正确', textOk);
+check('id 格式 chart-{id}-s{sampleId} 可解析往返', idOk);
 
 console.log(failures === 0 ? '\n全部通过 ✅' : `\n${failures} 项失败 ❌`);
 process.exit(failures === 0 ? 0 : 1);

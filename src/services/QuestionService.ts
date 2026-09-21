@@ -1,5 +1,6 @@
-import type { CategoryMeta, Difficulty, QuestionKind, QuizQuestion } from '../types/game';
+import type { CategoryMeta, Difficulty, QuestionKind, QuizQuestion, RankChart } from '../types/game';
 import { shuffle } from '../utils/random';
+import { buildChartQuestion, chartQuestionId, parseChartQuestionId } from '../game/charts';
 
 /**
  * 题目数据源接口。
@@ -33,6 +34,13 @@ export class JsonQuestionSource implements QuestionSource {
     const raw = (await res.json()) as QuizQuestion[];
     return raw.map(normalizeQuestion);
   }
+
+  /** 排行榜数据源（rankcharts.json 或由外部提供） */
+  async fetchRankCharts(): Promise<RankChart[]> {
+    const res = await fetch(`${this.baseUrl}/rankcharts.json`);
+    if (!res.ok) throw new Error('排行榜加载失败');
+    return (await res.json()) as RankChart[];
+  }
 }
 
 export interface GetQuestionsOptions {
@@ -51,8 +59,9 @@ export interface GetQuestionsOptions {
 /** 题目服务：带缓存、随机抽题，数据来源可整体替换 */
 export class QuestionService {
   private cache = new Map<string, QuizQuestion[]>();
+  private chartCache?: RankChart[];
 
-  constructor(private source: QuestionSource) {}
+  constructor(private source: JsonQuestionSource) {}
 
   listCategories(): Promise<CategoryMeta[]> {
     return this.source.listCategories();
@@ -66,7 +75,18 @@ export class QuestionService {
     return questions;
   }
 
-  /** 随机抽取题目 */
+  /** 读取全部排行榜（带缓存）。失败返回空数组，让抽题回退到纯静态题库。 */
+  async getCharts(): Promise<RankChart[]> {
+    if (this.chartCache) return this.chartCache;
+    try {
+      this.chartCache = await this.source.fetchRankCharts();
+    } catch {
+      this.chartCache = [];
+    }
+    return this.chartCache;
+  }
+
+  /** 随机抽取题目（含排行榜动态排序题） */
   async getQuestions(opts: GetQuestionsOptions): Promise<QuizQuestion[]> {
     const { categories, difficulty = 'mixed', questionTypes = [], count, excludeIds = [] } = opts;
     const cats = categories?.length ? categories : (await this.listCategories()).map((c) => c.id);
@@ -77,17 +97,67 @@ export class QuestionService {
     const excluded = new Set(excludeIds);
     const fresh = all.filter((q) => !excluded.has(q.id));
     const pool = fresh.length >= count ? fresh : all; // 不够时允许重复利用
-    return shuffle(pool).slice(0, count);
+
+    // ---- 排行榜动态排序题：开启排序题时注入 ----
+    // 仅当题型含排序 且 分类含「排名题」（或未限定分类=全部）时生成，
+    // 与静态排序题共用同一个分类开关，行为一致。
+    const rankingWanted = questionTypes.length === 0 || questionTypes.includes('ranking');
+    const rankingCat = cats.includes('ranking');
+    const rankingOnly = questionTypes.length === 1 && questionTypes[0] === 'ranking';
+    const dynamic: QuizQuestion[] = [];
+
+    if (rankingWanted && rankingCat && count > 0) {
+      const charts = (await this.getCharts()).filter(
+        (c) => difficulty === 'mixed' || c.difficulty === difficulty,
+      );
+      // 图表题数量：约占半局（纯排序局保证出现），双上限避免小图表场景刷屏
+      const nChart = Math.min(charts.length, Math.max(1, Math.round(count / 2)));
+      for (const chart of shuffle(charts).slice(0, nChart)) {
+        let sampleId = randomChartSampleId();
+        let id = chartQuestionId(chart.id, sampleId);
+        for (let tries = 0; tries < 40 && excluded.has(id); tries++) {
+          sampleId = randomChartSampleId();
+          id = chartQuestionId(chart.id, sampleId);
+        }
+        excluded.add(id);
+        dynamic.push(buildChartQuestion(chart, sampleId));
+      }
+    }
+
+    if (dynamic.length === 0) return shuffle(pool).slice(0, count);
+
+    if (rankingOnly) {
+      // 纯排序局：排行榜动态题占一半,其余从静态排序题补满
+      const needStatic = Math.max(0, count - dynamic.length);
+      const staticRank = shuffle(pool.filter((q) => q.kind === 'ranking')).slice(0, needStatic);
+      return shuffle([...staticRank, ...dynamic]).slice(0, count);
+    }
+    // 混合局：榜单动态题混入静态池随机抽取
+    return shuffle([...pool, ...dynamic]).slice(0, count);
   }
 
-  /** 按 id 批量取回完整题目（房主迁移时用于重建题目数据） */
+  /** 按 id 批量取回完整题目（房主迁移时用于重建题目数据，含排行榜动态题重建） */
   async getByIds(ids: string[], categories: string[]): Promise<Map<string, QuizQuestion>> {
     const cats = categories.length ? categories : (await this.listCategories()).map((c) => c.id);
     const pools = await Promise.all(cats.map((c) => this.getCategoryQuestions(c)));
     const map = new Map<string, QuizQuestion>();
     for (const q of pools.flat()) if (ids.includes(q.id)) map.set(q.id, q);
+
+    // 排行榜动态题不在任何分类 JSON 中，按 id 确定性重建（同 id 必同题）
+    const charts = await this.getCharts();
+    for (const id of ids) {
+      if (map.has(id)) continue;
+      const parsed = parseChartQuestionId(id);
+      if (!parsed) continue;
+      const chart = charts.find((c) => c.id === parsed.chartId);
+      if (chart) map.set(id, buildChartQuestion(chart, parsed.sampleId));
+    }
     return map;
   }
+}
+
+function randomChartSampleId(): number {
+  return 100000 + Math.floor(Math.random() * 900000);
 }
 
 /** 全局单例；未来可将 JsonQuestionSource 替换为 ApiQuestionSource */

@@ -279,7 +279,7 @@ export function LobbyScreen({ room, selfId, isHost, categories, onUpdateSettings
                   })}
                 </div>
                 <div className="mb-1 text-[10px] font-bold text-ink/40">
-                  排序题需按住手柄拖动选项排出名次
+                  💬 排序题按名次依次点选作答 · 含排行榜动态随机抽题（城市GDP、QS大学排名等）
                 </div>
               </motion.div>
             )}
