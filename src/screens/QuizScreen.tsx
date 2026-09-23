@@ -86,6 +86,8 @@ export function QuizScreen({ room, selfId, isHost, categories, myAnswer, now, on
 
   const revealRemain = room.reveal ? Math.max(0, room.reveal.endsAt - now()) : 0;
   const connectedCount = room.players.filter((p) => p.connected).length;
+  /** 单人模式：房间只有自己一人，作答完成立即揭晓（不等倒计时） */
+  const isSolo = room.players.length <= 1;
 
   return (
     <div className="relative z-10 mx-auto flex app-screen w-full max-w-md flex-col gap-3 px-5 py-5 landscape:py-3 md:max-w-3xl lg:max-w-4xl">
@@ -201,15 +203,23 @@ export function QuizScreen({ room, selfId, isHost, categories, myAnswer, now, on
                 animate={{ scale: 1 }}
                 className="inline-block rounded-neo border-[3px] border-ink bg-white px-4 py-1.5 shadow-neo-sm"
               >
-                {isRanking
-                  ? `🎯 已提交排序，可继续点选调整 · 已答 ${room.answeredIds.length}/${connectedCount}`
-                  : `✅ 已选「${'ABCD'[myAnswerIndex ?? 0]}」，可点击其他选项修改 · 已答 ${room.answeredIds.length}/${connectedCount}`}
+                {isSolo
+                  ? isRanking
+                    ? '🎯 已提交排序，马上揭晓！'
+                    : '✅ 已提交，马上揭晓！'
+                  : isRanking
+                    ? `🎯 已提交排序，可继续点选调整 · 已答 ${room.answeredIds.length}/${connectedCount}`
+                    : `✅ 已选「${'ABCD'[myAnswerIndex ?? 0]}」，可点击其他选项修改 · 已答 ${room.answeredIds.length}/${connectedCount}`}
               </motion.span>
             ) : (
               <span>
-                {isRanking
-                  ? `💡 按名次依次点选选项 · 已答 ${room.answeredIds.length}/${connectedCount}`
-                  : `⏱️ 时间结束后统一揭晓，答案可随时修改 · 已答 ${room.answeredIds.length}/${connectedCount}`}
+                {isSolo
+                  ? isRanking
+                    ? '💡 排完名次后立即揭晓（无需等倒计时）'
+                    : '💡 选择答案后立即揭晓（无需等倒计时）'
+                  : isRanking
+                    ? `💡 按名次依次点选选项 · 已答 ${room.answeredIds.length}/${connectedCount}`
+                    : `⏱️ 时间结束后统一揭晓，答案可随时修改 · 已答 ${room.answeredIds.length}/${connectedCount}`}
               </span>
             )}
           </motion.div>

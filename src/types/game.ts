@@ -70,6 +70,8 @@ export interface Player {
   /** 是否已准备（房主无需准备） */
   ready: boolean;
   joinedAt: number;
+  /** 进入离线状态的时刻（在线或未离线时为 undefined），用于大厅清理离线残留玩家 */
+  offlineSince?: number;
 }
 
 /** 一名玩家在一轮中的作答记录 */
@@ -143,6 +145,8 @@ export type GameMessage =
   | { t: 'kick'; playerId: string; by: string }
   | { t: 'apply-join'; player: Pick<Player, 'id' | 'name' | 'avatar' | 'color'> }
   | { t: 'join-reply'; playerId: string; accept: boolean }
+  /** 房主拒绝加入（昵称被占用等）：告知申请人换昵称 */
+  | { t: 'join-denied'; playerId: string }
   | { t: 'answer'; playerId: string; optionIndex?: number; order?: number[]; timeMs: number }
   | { t: 'ready'; playerId: string; ready: boolean }
   | { t: 'avatar'; playerId: string; avatar: string }

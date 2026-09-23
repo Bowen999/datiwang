@@ -37,16 +37,36 @@ interface MyAnswer {
 /** 作答载荷：选择题传 optionIndex，排序题传 order */
 export type AnswerPayload = { optionIndex?: number; order?: number[] };
 
+/**
+ * 玩家身份 ID：基于 sessionStorage（每个标签页一个身份）。
+ * 「同名重复玩家」问题不靠身份合并解决（那样会让同浏览器的两个活标签页
+ * 合并成同一个人、甚至被第二个标签页劫持房主），而是由房主侧做同名去重：
+ * - 昵称与「在线玩家/房主」重复 → 拒绝加入并要求换昵称；
+ * - 昵称与「离线幽灵玩家」重复 → 直接复活该玩家槽位，避免同名双人。
+ */
 function sessionSelfId(): string {
-  let id = sessionStorage.getItem('datiwang:uid');
-  if (!id) {
-    id = generateId();
-    sessionStorage.setItem('datiwang:uid', id);
+  try {
+    let id = sessionStorage.getItem('datiwang:uid');
+    if (!id) {
+      id = generateId();
+      sessionStorage.setItem('datiwang:uid', id);
+    }
+    return id;
+  } catch {
+    // 隐私/兼容模式下存储不可用：退化为内存唯一 id
+    return generateId();
   }
-  return id;
+}
+
+/** 昵称归一化（忽略大小写与首尾空格），用于同名去重 */
+function normalizeName(s: string): string {
+  return (s ?? '').trim().toLocaleLowerCase('zh-CN');
 }
 
 const COLORS = ['#FFC800', '#FF5D8F', '#4D96FF', '#3ECF8E', '#9B5DE5', '#FF7A1A'];
+
+/** 大厅中玩家离线超过该时长（毫秒）即视为残留幽灵，房主自动清理 */
+const OFFLINE_PRUNE_MS = 15000;
 
 /**
  * 房间 Hook：把实时服务、房主权威逻辑与 React 状态粘合起来。
@@ -70,7 +90,12 @@ export function useRoom() {
   const clockOffsetRef = useRef(0);
   const answersRef = useRef(new Map<string, { optionIndex?: number; order?: number[]; timeMs: number }>());
   const hostQuestionsRef = useRef(new Map<string, QuizQuestion>());
-  const joinWaiterRef = useRef<((ok: boolean) => void) | null>(null);
+  /** 加入房间的发起时刻：刚进房几秒内禁止抢房主，防止手机弱网下误接管 */
+  const joinStartedAtRef = useRef(0);
+  /** 看到房主缺失的起始时刻：需持续缺失才允许接管房主 */
+  const hostAbsentSinceRef = useRef<number | null>(null);
+  /** 加入等待回调：true=加入成功；'rejected'=被房主拒绝（昵称占用等） */
+  const joinWaiterRef = useRef<((status: boolean | 'rejected') => void) | null>(null);
   const noticeIdRef = useRef(0);
   /** 是否处于“被踢”状态（期间忽略不含自己的房间状态，除非房主批准重进） */
   const kickedRef = useRef(false);
@@ -123,9 +148,13 @@ export function useRoom() {
         const answeredIds = [...new Set([...st.answeredIds, playerId])];
         publish({ ...st, answeredIds });
       }
-      // 非抢答机制：不在全员答完时提前揭晓，等计时结束统一结算
+      // 非抢答机制：不在全员答完时提前揭晓，等计时结束统一结算。
+      // 单人模式（房间只有房主一人）例外：作答完成即提交揭晓，无需等倒计时结束。
+      if (st.players.length === 1) {
+        hostReveal();
+      }
     },
-    [selfId, publish],
+    [selfId, publish, hostReveal],
   );
 
   /** 被踢 / 被移出房间：保留连接（以便申请重新加入并即时收到审批），清空房间状态 */
@@ -193,7 +222,9 @@ export function useRoom() {
           }
         }
         applyRoom(msg.state);
-        joinWaiterRef.current?.(selfInState);
+        // 只有自己真正进入成员列表才结束「加入中」；其它无关状态（如他人改设置）
+        // 的广播不应提前中止加入流程（避免弱网下误判“找不到房间”）
+        if (selfInState) joinWaiterRef.current?.(true);
         return;
       }
 
@@ -201,6 +232,12 @@ export function useRoom() {
       if (msg.t === 'kick' && msg.playerId === selfId) {
         const byName = st?.players.find((p) => p.id === msg.by)?.name;
         handleKicked(byName);
+        return;
+      }
+
+      // 房主拒绝加入（昵称被占用等）：立即停止重试并提示换昵称
+      if (msg.t === 'join-denied' && msg.playerId === selfId) {
+        joinWaiterRef.current?.('rejected');
         return;
       }
 
@@ -218,20 +255,58 @@ export function useRoom() {
 
       if (msg.t === 'join') {
         const exists = st.players.some((p) => p.id === msg.player.id);
+        // 房主自己无需加入（防止同源标签页克隆 sessionStorage 后“重连”顶掉房主身份）
+        if (msg.player.id === st.hostId) return;
         // 被踢过的玩家：拒绝再次加入（无需改状态，仅提示对方）
         if (!exists && st.kickedIds?.includes(msg.player.id)) {
           serviceRef.current?.broadcast({ t: 'kick', playerId: msg.player.id, by: selfId } satisfies GameMessage);
           return;
         }
         if (exists) {
-          // 重连：恢复在线状态
+          // 重连：恢复在线状态（头像沿用消息里的，昵称以消息为准）
           publish({
             ...st,
             players: st.players.map((p) =>
-              p.id === msg.player.id ? { ...p, connected: true, name: msg.player.name } : p,
+              p.id === msg.player.id
+                ? { ...p, connected: true, name: msg.player.name, avatar: msg.player.avatar, offlineSince: undefined }
+                : p,
             ),
           });
           return;
+        }
+        // 同名去重：同一昵称只保留一个玩家（忽略大小写/首尾空格）
+        const jName = msg.player.name?.trim();
+        if (jName) {
+          const conflict = st.players.find(
+            (p) => p.name && normalizeName(p.name) === normalizeName(jName),
+          );
+          if (conflict) {
+            if (conflict.connected || conflict.isHost) {
+              // 昵称已被在线的玩家占用（含房主）：拒绝并入，提示改昵称
+              serviceRef.current?.broadcast({ t: 'join-denied', playerId: msg.player.id } satisfies GameMessage);
+              pushNotice(`「${jName}」昵称已被占用，请换个名字`, '⚠️');
+              return;
+            }
+            // 占用该昵称的旧玩家已离线（幽灵残留）：把身份迁移给新加入者，避免出现同名双人
+            publish({
+              ...st,
+              players: st.players.map((p) =>
+                p.id === conflict.id
+                  ? {
+                      ...p,
+                      id: msg.player.id,
+                      name: msg.player.name,
+                      avatar: msg.player.avatar,
+                      connected: true,
+                      ready: false,
+                      offlineSince: undefined,
+                    }
+                  : p,
+              ),
+              kickedIds: (st.kickedIds ?? []).filter((id) => id !== conflict.id),
+            });
+            return;
+          }
         }
         const usedColors = new Set(st.players.map((p) => p.color));
         const color = COLORS.find((c) => !usedColors.has(c)) ?? COLORS[st.players.length % COLORS.length];
@@ -251,6 +326,18 @@ export function useRoom() {
         // 被踢玩家的重新加入申请：非被踢玩家按普通加入处理，被踢玩家进入待审批队列
         const inPlayers = st.players.some((p) => p.id === msg.player.id);
         if (inPlayers) return;
+        // 同名去重：昵称已被在线玩家/房主占用则直接拒绝
+        const aName = msg.player.name?.trim();
+        if (aName) {
+          const conflict = st.players.find(
+            (p) => p.name && normalizeName(p.name) === normalizeName(aName) && (p.connected || p.isHost),
+          );
+          if (conflict) {
+            serviceRef.current?.broadcast({ t: 'join-reply', playerId: msg.player.id, accept: false } satisfies GameMessage);
+            pushNotice(`「${aName}」昵称已被占用，无法重新加入`, '⚠️');
+            return;
+          }
+        }
         if (!st.kickedIds?.includes(msg.player.id)) {
           const usedColors = new Set(st.players.map((p) => p.color));
           const color = COLORS.find((c) => !usedColors.has(c)) ?? COLORS[st.players.length % COLORS.length];
@@ -308,19 +395,33 @@ export function useRoom() {
       const present = new Set(ids);
 
       if (st.hostId === selfId) {
-        // 房主：同步玩家在线状态
-        const changed = st.players.some((p) => p.connected !== present.has(p.id));
-        if (changed) {
-          publish({
-            ...st,
-            players: st.players.map((p) => ({ ...p, connected: present.has(p.id) })),
-          });
-        }
+        // 房主：同步玩家在线状态（记录离线起始时刻，供大厅清理幽灵玩家）
+        const nowMs = Date.now();
+        const players = st.players.map((p) => {
+          const online = present.has(p.id);
+          if (p.id === st.hostId) return { ...p, connected: true, offlineSince: undefined };
+          return {
+            ...p,
+            connected: online,
+            offlineSince: online ? undefined : (p.offlineSince ?? nowMs),
+          };
+        });
+        const changed = st.players.some((p, i) => {
+          const np = players[i];
+          return p.connected !== np.connected || p.offlineSince !== np.offlineSince;
+        });
+        if (changed) publish({ ...st, players });
         return;
       }
 
       // 非房主：检测房主是否离线 → 房主迁移
       if (!present.has(st.hostId)) {
+        // 防误判：手机弱网/重连瞬间 presence 短暂缺失，不强求立刻接管。
+        // 需房主持续缺失 4 秒以上，且本人进房已超过 6 秒，才进行迁移。
+        const nowMs = Date.now();
+        if (hostAbsentSinceRef.current == null) hostAbsentSinceRef.current = nowMs;
+        if (nowMs - hostAbsentSinceRef.current < 4000) return;
+        if (joinStartedAtRef.current > 0 && nowMs - joinStartedAtRef.current < 6000) return;
         const candidates = st.players
           .filter((p) => present.has(p.id))
           .sort((a, b) => a.joinedAt - b.joinedAt);
@@ -340,18 +441,22 @@ export function useRoom() {
             }
             const current = roomRef.current;
             if (!current || current.hostId === selfId) return;
+            if (current.players.some((p) => p.id === st.hostId && p.connected)) return;
+            hostAbsentSinceRef.current = null;
             pushNotice('房主已离开，你接任房主', '👑');
             publish({
               ...current,
               hostId: selfId,
               players: current.players.map((p) => ({
                 ...p,
-                connected: present.has(p.id),
+                connected: present.has(p.id) || p.id === selfId,
                 isHost: p.id === selfId,
               })),
             });
           })();
         }
+      } else {
+        hostAbsentSinceRef.current = null;
       }
     },
     [selfId, publish, pushNotice],
@@ -383,6 +488,31 @@ export function useRoom() {
   useEffect(() => {
     setMyAnswer(null);
   }, [room?.round, room?.phase === 'question' ? room.activeQuestion?.id : null]);
+
+  // 房主专用：大厅清理长时间掉线的幽灵玩家（关标签页/断网遗留的残留会显示为「离线」）
+  useEffect(() => {
+    if (!isHost || !room || room.phase !== 'lobby') return;
+    const timer = setInterval(() => {
+      const st = roomRef.current;
+      if (!st || st.hostId !== selfId || st.phase !== 'lobby') return;
+      const nowMs = Date.now();
+      const stale = st.players.filter(
+        (p) => !p.isHost && !p.connected && p.offlineSince != null && nowMs - p.offlineSince > OFFLINE_PRUNE_MS,
+      );
+      if (stale.length === 0) return;
+      const staleIds = new Set(stale.map((p) => p.id));
+      publish({
+        ...st,
+        players: st.players.filter((p) => !staleIds.has(p.id)),
+        answeredIds: st.answeredIds.filter((id) => !staleIds.has(id)),
+        reveal: st.reveal
+          ? { ...st.reveal, results: st.reveal.results.filter((r) => !staleIds.has(r.playerId)) }
+          : undefined,
+      });
+      for (const p of stale) pushNotice(`已清理掉线玩家「${p.name}」`, '🧹');
+    }, 5000);
+    return () => clearInterval(timer);
+  }, [isHost, room?.phase, selfId, publish, pushNotice]);
 
   // 加载题库分类
   useEffect(() => {
@@ -440,37 +570,35 @@ export function useRoom() {
     async (code: string, name: string) => {
       setConnecting(true);
       setError(null);
+      joinStartedAtRef.current = Date.now();
       try {
         const service = await connect(code.toUpperCase());
-        const joined = await new Promise<boolean>((resolve) => {
-          joinWaiterRef.current = resolve;
-          service.broadcast({
-            t: 'join',
-            player: { id: selfId, name, avatar: randomAvatar(), color: COLORS[0] },
-          } satisfies GameMessage);
+        // 加入载荷只生成一次（重试沿用同一头像，避免同一玩家反复换头像的怪异观感）
+        const player = { id: selfId, name, avatar: randomAvatar(), color: COLORS[0] };
+        joinWaiterRef.current = null;
+        const result = await new Promise<'ok' | 'rejected' | 'timeout'>((resolve) => {
+          service.broadcast({ t: 'join', player } satisfies GameMessage);
           // 多次重发，防止房主恰好错过
           const retry = setInterval(() => {
-            service.broadcast({
-              t: 'join',
-              player: { id: selfId, name, avatar: randomAvatar(), color: COLORS[0] },
-            } satisfies GameMessage);
+            service.broadcast({ t: 'join', player } satisfies GameMessage);
           }, 1200);
-          setTimeout(() => {
+          const finish = (r: 'ok' | 'rejected' | 'timeout') => {
             clearInterval(retry);
-            resolve(roomRef.current?.players.some((p) => p.id === selfId) ?? false);
-          }, 8000);
-          const origResolve = joinWaiterRef.current;
-          joinWaiterRef.current = (ok) => {
-            clearInterval(retry);
-            origResolve?.(ok);
-            resolve(ok);
+            resolve(r);
+          };
+          const timer = setTimeout(() => finish('timeout'), 8000);
+          joinWaiterRef.current = (status) => {
+            clearTimeout(timer);
+            finish(status === true ? 'ok' : status === 'rejected' ? 'rejected' : 'timeout');
           };
         });
         joinWaiterRef.current = null;
-        if (!joined) {
+        if (result !== 'ok') {
+          // 即使没加入成功，也可能已被房主接收过（重发期间）——补发 leave 防止残留幽灵玩家
+          service.broadcast({ t: 'leave', playerId: selfId } satisfies GameMessage);
           service.disconnect();
           serviceRef.current = null;
-          setError('找不到这个房间，检查一下房间码？');
+          setError(result === 'rejected' ? '该昵称已被使用，请换个名字再试' : '找不到这个房间，检查一下房间码？');
         }
       } catch (e) {
         setError(e instanceof Error ? e.message : '加入房间失败');
@@ -670,6 +798,19 @@ export function useRoom() {
         publish({ ...st, joinRequests });
         pushNotice(`已拒绝「${req.player.name}」的加入申请`, '🚫');
         return;
+      }
+      // 同意重进前校验昵称未被占用，避免出现同名玩家
+      const reqName = req.player.name?.trim();
+      if (reqName) {
+        const conflict = st.players.find(
+          (p) => p.name && normalizeName(p.name) === normalizeName(reqName) && (p.connected || p.isHost),
+        );
+        if (conflict) {
+          serviceRef.current?.broadcast({ t: 'join-reply', playerId, accept: false } satisfies GameMessage);
+          publish({ ...st, joinRequests });
+          pushNotice(`「${req.player.name}」昵称已被占用，已拒绝`, '⚠️');
+          return;
+        }
       }
       let players = st.players;
       if (!players.some((p) => p.id === playerId)) {
