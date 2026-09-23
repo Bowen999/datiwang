@@ -1,0 +1,902 @@
+[
+  {
+    "id": "schoolquiz-001",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "“凿壁偷光”讲的是谁勤奋读书的故事？",
+    "options": ["孔子", "匡衡", "李白", "司马光"],
+    "correctAnswer": 1,
+    "explanation": "西汉匡衡幼时家贫，凿穿墙壁借邻居烛光读书，后成为大学问家。"
+  },
+  {
+    "id": "schoolquiz-002",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "“卧薪尝胆”说的是哪位历史人物？",
+    "options": ["刘邦", "项羽", "勾践", "夫差"],
+    "correctAnswer": 2,
+    "explanation": "越王勾践战败后睡柴草、尝苦胆，时刻提醒自己复国，最终打败吴国。"
+  },
+  {
+    "id": "schoolquiz-003",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "“闻鸡起舞”讲的是谁的故事？",
+    "options": ["祖逖", "王羲之", "陶渊明", "范仲淹"],
+    "correctAnswer": 0,
+    "explanation": "东晋祖逖听到鸡鸣就起床舞剑练武，后比喻有志之士及时奋发。"
+  },
+  {
+    "id": "schoolquiz-004",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "“三顾茅庐”请诸葛亮出山的是谁？",
+    "options": ["曹操", "刘备", "孙权", "周瑜"],
+    "correctAnswer": 1,
+    "explanation": "刘备三次到隆中拜访诸葛亮，才请得他出山辅佐。"
+  },
+  {
+    "id": "schoolquiz-005",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "“完璧归赵”中的“璧”最终由谁完好送回赵国？",
+    "options": ["廉颇", "蔺相如", "赵括", "平原君"],
+    "correctAnswer": 1,
+    "explanation": "蔺相如带着和氏璧出使秦国，机智周旋，终将玉璧完好带回赵国。"
+  },
+  {
+    "id": "schoolquiz-006",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "“负荆请罪”中背着荆条去请罪的是谁？",
+    "options": ["蔺相如", "廉颇", "白起", "李牧"],
+    "correctAnswer": 1,
+    "explanation": "廉颇得知蔺相如避让是为国家大局后，背着荆条上门请罪，两人成为生死之交。"
+  },
+  {
+    "id": "schoolquiz-007",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "“纸上谈兵”说的是哪位历史人物？",
+    "options": ["孙武", "赵括", "韩信", "孙膑"],
+    "correctAnswer": 1,
+    "explanation": "赵括熟读兵书却缺乏实战经验，长平之战只会空谈兵法，导致赵军大败。"
+  },
+  {
+    "id": "schoolquiz-008",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "“指鹿为马”典故中与哪位人物有关？",
+    "options": ["赵高", "李斯", "蒙恬", "扶苏"],
+    "correctAnswer": 0,
+    "explanation": "秦二世时赵高指着鹿说是马，以此测试群臣是否顺从自己。"
+  },
+  {
+    "id": "schoolquiz-009",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "“四面楚歌”形容的是谁陷入绝境的情景？",
+    "options": ["刘邦", "韩信", "项羽", "张良"],
+    "correctAnswer": 2,
+    "explanation": "垓下之围时汉军唱起楚歌，项羽以为楚地尽失，后比喻陷入四面受敌的孤立境地。"
+  },
+  {
+    "id": "schoolquiz-010",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "“破釜沉舟”表现了谁的决心？",
+    "options": ["刘邦", "项羽", "曹操", "刘备"],
+    "correctAnswer": 1,
+    "explanation": "巨鹿之战中项羽砸锅沉船、只带三天口粮，以示不留退路、决一死战。"
+  },
+  {
+    "id": "schoolquiz-011",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "“桃园三结义”的三人中不包括？",
+    "options": ["刘备", "关羽", "张飞", "赵云"],
+    "correctAnswer": 3,
+    "explanation": "桃园三结义的是刘备、关羽、张飞三人，赵云是后来加入的将领。"
+  },
+  {
+    "id": "schoolquiz-012",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "《西游记》中孙悟空的武器是？",
+    "options": ["方天画戟", "金箍棒", "青龙偃月刀", "丈八蛇矛"],
+    "correctAnswer": 1,
+    "explanation": "金箍棒原是东海龙宫的定海神针，重一万三千五百斤，可大可小。"
+  },
+  {
+    "id": "schoolquiz-013",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "《红楼梦》又名什么？",
+    "options": ["《金玉缘》", "《石头记》", "《情僧录》之外还有《风月宝鉴》", "以上都是"],
+    "correctAnswer": 3,
+    "explanation": "《红楼梦》又名《石头记》《情僧录》《风月宝鉴》《金玉缘》等，是一块石头的“记”。"
+  },
+  {
+    "id": "schoolquiz-014",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "《水浒传》中梁山好汉共有多少位？",
+    "options": ["72位", "108位", "128位", "36位"],
+    "correctAnswer": 1,
+    "explanation": "梁山聚义共108位好汉，对应36天罡、72地煞。"
+  },
+  {
+    "id": "schoolquiz-015",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "“但愿人长久，千里共婵娟”中的“婵娟”指什么？",
+    "options": ["月亮", "美女", "桂花", "美酒"],
+    "correctAnswer": 0,
+    "explanation": "“婵娟”本指姿态美好，此处代指明月，寄托对亲人的思念。"
+  },
+  {
+    "id": "schoolquiz-016",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "“少壮不努力，老大徒伤悲”出自哪首诗？",
+    "options": ["《长歌行》", "《短歌行》", "《敕勒歌》", "《木兰诗》"],
+    "correctAnswer": 0,
+    "explanation": "出自汉乐府《长歌行》，劝勉人们趁年少勤奋努力。"
+  },
+  {
+    "id": "schoolquiz-017",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "被后人称为“诗仙”的唐代诗人是？",
+    "options": ["杜甫", "李白", "白居易", "王维"],
+    "correctAnswer": 1,
+    "explanation": "李白诗风豪放飘逸，充满想象，被贺知章称为“谪仙人”，后世尊为“诗仙”。"
+  },
+  {
+    "id": "schoolquiz-018",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "被后人称为“诗圣”的唐代诗人是？",
+    "options": ["李白", "杜甫", "王维", "杜牧"],
+    "correctAnswer": 1,
+    "explanation": "杜甫的诗反映民间疾苦、沉郁顿挫，被尊为“诗圣”，其诗被称为“诗史”。"
+  },
+  {
+    "id": "schoolquiz-019",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "因诗歌充满禅意、被称为“诗佛”的诗人是？",
+    "options": ["王维", "孟浩然", "贾岛", "王昌龄"],
+    "correctAnswer": 0,
+    "explanation": "王维崇佛，山水诗意境空灵、富有禅趣，人称“诗佛”。"
+  },
+  {
+    "id": "schoolquiz-020",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "被称为“诗鬼”的诗人是？",
+    "options": ["李贺", "李商隐", "韩愈", "刘禹锡"],
+    "correctAnswer": 0,
+    "explanation": "李贺诗作想象奇诡、色彩斑斓，因其诗风诡异奇峭被称为“诗鬼”。"
+  },
+  {
+    "id": "schoolquiz-021",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "“床前明月光”的下一句是？",
+    "options": ["低头思故乡", "疑是地上霜", "处处闻啼鸟", "更上一层楼"],
+    "correctAnswer": 1,
+    "explanation": "李白《静夜思》：“床前明月光，疑是地上霜。举头望明月，低头思故乡。”"
+  },
+  {
+    "id": "schoolquiz-022",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "“春眠不觉晓，处处闻啼鸟”的作者是？",
+    "options": ["孟浩然", "王维", "贺知章", "王之涣"],
+    "correctAnswer": 0,
+    "explanation": "出自唐代孟浩然的《春晓》。"
+  },
+  {
+    "id": "schoolquiz-023",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "传统汉字造字法“六书”不包括下列哪一项？",
+    "options": ["象形", "指事", "会意", "拼音"],
+    "correctAnswer": 3,
+    "explanation": "六书指象形、指事、会意、形声、转注、假借；拼音是近代才出现的注音方法。"
+  },
+  {
+    "id": "schoolquiz-024",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "“快乐地奔跑”中“快乐地”应该使用哪个字？",
+    "options": ["的", "地", "得", "都不对"],
+    "correctAnswer": 1,
+    "explanation": "动词前用“地”，如“快乐地奔跑”；名词前用“的”，动词后用“得”。"
+  },
+  {
+    "id": "schoolquiz-025",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "成语“画蛇添足”比喻什么？",
+    "options": ["多此一举", "画龙点睛", "笨鸟先飞", "虎头蛇尾"],
+    "correctAnswer": 0,
+    "explanation": "画好的蛇又添上脚，比喻做多余的事反而坏了事。"
+  },
+  {
+    "id": "schoolquiz-026",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "成语“守株待兔”讽刺的是哪种心态？",
+    "options": ["勤奋刻苦", "心存侥幸、不劳而获", "知错就改", "坚持不懈"],
+    "correctAnswer": 1,
+    "explanation": "守着树桩等兔子再撞上来，讽刺把偶然当必然、妄想不劳而获的人。"
+  },
+  {
+    "id": "schoolquiz-027",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "成语“愚公移山”主要赞扬什么精神？",
+    "options": ["随机应变", "坚持不懈、迎难而上", "退一步海阔天空", "单打独斗"],
+    "correctAnswer": 1,
+    "explanation": "愚公不畏艰难、世代挖山不止，体现的是坚持不懈的奋斗精神。"
+  },
+  {
+    "id": "schoolquiz-028",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "成语“刻舟求剑”错在哪里？",
+    "options": ["不懂剑的价值", "不懂事物是运动变化的", "不会划船", "不会游泳"],
+    "correctAnswer": 1,
+    "explanation": "船在走而剑沉在原地，在船上刻记号找不到剑，比喻不懂事物已变化。"
+  },
+  {
+    "id": "schoolquiz-029",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "成语“亡羊补牢”说明的道理是？",
+    "options": ["损失无法挽回", "出了问题及时补救还不算晚", "养羊风险大", "篱笆越多越好"],
+    "correctAnswer": 1,
+    "explanation": "羊丢了才修补羊圈，比喻出了问题后及时补救，可以避免继续受损失。"
+  },
+  {
+    "id": "schoolquiz-030",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "“桃李满天下”中的“桃李”代指什么？",
+    "options": ["桃树和李树", "学生", "朋友", "子女"],
+    "correctAnswer": 1,
+    "explanation": "“桃李”比喻培养的后辈或学生，常说老师“桃李满天下”。"
+  },
+  {
+    "id": "schoolquiz-031",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "“巾帼不让须眉”中“巾帼”原指什么，后代指什么？",
+    "options": ["头巾，代指女子", "盔甲，代指男子", "腰带，代指侠客", "扇子，代指文人"],
+    "correctAnswer": 0,
+    "explanation": "巾帼是古代妇女的头巾和发饰，后成为女子的代称；须眉代指男子。"
+  },
+  {
+    "id": "schoolquiz-032",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "《论语》主要记录了谁及其弟子的言行？",
+    "options": ["孔子", "孟子", "老子", "荀子"],
+    "correctAnswer": 0,
+    "explanation": "《论语》由孔子弟子及再传弟子记录孔子言行而成，是儒家经典。"
+  },
+  {
+    "id": "schoolquiz-033",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "“谁知盘中餐，粒粒皆辛苦”的作者是？",
+    "options": ["李绅", "白居易", "杜甫", "骆宾王"],
+    "correctAnswer": 0,
+    "explanation": "出自唐代李绅《悯农》：“锄禾日当午，汗滴禾下土。谁知盘中餐，粒粒皆辛苦。”"
+  },
+  {
+    "id": "schoolquiz-034",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "“海上生明月，天涯共此时”的作者是？",
+    "options": ["张九龄", "张若虚", "王之涣", "王勃"],
+    "correctAnswer": 0,
+    "explanation": "出自唐代张九龄《望月怀远》，是望月怀人的名句。"
+  },
+  {
+    "id": "schoolquiz-035",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "“先天下之忧而忧，后天下之乐而乐”出自谁的文章？",
+    "options": ["范仲淹", "欧阳修", "苏轼", "王安石"],
+    "correctAnswer": 0,
+    "explanation": "出自北宋范仲淹《岳阳楼记》，表达了以天下为己任的情怀。"
+  },
+  {
+    "id": "schoolquiz-036",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "声音不能在下列哪种环境中传播？",
+    "options": ["水中", "空气中", "真空中", "钢铁中"],
+    "correctAnswer": 2,
+    "explanation": "声音传播需要介质，真空中没有介质，声音无法传播，所以太空是寂静的。"
+  },
+  {
+    "id": "schoolquiz-037",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "光在真空中的速度约为每秒多少千米？",
+    "options": ["3万千米", "30万千米", "300万千米", "3000万千米"],
+    "correctAnswer": 1,
+    "explanation": "光速约为30万千米/秒（精确为299792千米/秒），是目前已知最快的速度。"
+  },
+  {
+    "id": "schoolquiz-038",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "放大镜利用的是哪种透镜？",
+    "options": ["凹透镜", "凸透镜", "平面镜", "棱镜"],
+    "correctAnswer": 1,
+    "explanation": "放大镜是凸透镜，物体放在焦点以内时成正立放大的虚像。"
+  },
+  {
+    "id": "schoolquiz-039",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "近视眼应该佩戴哪种透镜矫正？",
+    "options": ["凸透镜", "凹透镜", "平面镜", "不用戴眼镜"],
+    "correctAnswer": 1,
+    "explanation": "近视是像成在视网膜前，用凹透镜（发散透镜）把光线适当发散来矫正。"
+  },
+  {
+    "id": "schoolquiz-040",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "老花眼（远视）佩戴的眼镜是？",
+    "options": ["凹透镜", "凸透镜", "变色镜", "墨镜"],
+    "correctAnswer": 1,
+    "explanation": "远视是像成在视网膜后，用凸透镜（会聚透镜）矫正。"
+  },
+  {
+    "id": "schoolquiz-041",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "影子的形成说明光具有什么特性？",
+    "options": ["沿直线传播", "会拐弯", "能被吸收", "有颜色"],
+    "correctAnswer": 0,
+    "explanation": "光沿直线传播，遇到不透明物体被挡住，在物体后方形成光照不到的阴影。"
+  },
+  {
+    "id": "schoolquiz-042",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "水中筷子看起来“折断”了，这是光的什么现象？",
+    "options": ["反射", "折射", "衍射", "色散"],
+    "correctAnswer": 1,
+    "explanation": "光从水中进入空气时发生偏折（折射），使筷子在水面处看起来“折”了。"
+  },
+  {
+    "id": "schoolquiz-043",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "照镜子能看到自己，属于光的什么现象？",
+    "options": ["折射", "反射", "散射", "衍射"],
+    "correctAnswer": 1,
+    "explanation": "平面镜成像利用光的反射，所成的是正立等大的虚像。"
+  },
+  {
+    "id": "schoolquiz-044",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "晴朗的天空呈蔚蓝色，主要原因是光的？",
+    "options": ["直线传播", "反射", "散射", "折射"],
+    "correctAnswer": 2,
+    "explanation": "大气分子对阳光中的短波光（蓝光）散射更强，所以天空看起来是蓝色的。"
+  },
+  {
+    "id": "schoolquiz-045",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "声音的三要素不包括？",
+    "options": ["音调", "响度", "音色", "亮度"],
+    "correctAnswer": 3,
+    "explanation": "声音的三要素是音调（高低）、响度（强弱）、音色（品质），亮度是光的属性。"
+  },
+  {
+    "id": "schoolquiz-046",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "人耳能听到的声音频率大约是多少？",
+    "options": ["2~20赫兹", "20~20000赫兹", "2000~20000赫兹", "20万赫兹以上"],
+    "correctAnswer": 1,
+    "explanation": "人耳听觉范围约20~20000赫兹，低于20赫兹是次声波，高于20000赫兹是超声波。"
+  },
+  {
+    "id": "schoolquiz-047",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "敲鼓时用力越大鼓声越响，说明响度与什么有关？",
+    "options": ["频率", "振幅", "音色", "温度"],
+    "correctAnswer": 1,
+    "explanation": "用力越大，鼓面振动的振幅越大，响度就越大；音调才由频率决定。"
+  },
+  {
+    "id": "schoolquiz-048",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "吉他弦绷得越紧，弹出的音调越？",
+    "options": ["低", "高", "不变", "沙哑"],
+    "correctAnswer": 1,
+    "explanation": "弦越紧，振动频率越高，音调越高。"
+  },
+  {
+    "id": "schoolquiz-049",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "液体温度计是根据液体的什么性质制成的？",
+    "options": ["热胀冷缩", "流动性", "导电性", "蒸发"],
+    "correctAnswer": 0,
+    "explanation": "温度升高液体膨胀、液柱上升，温度降低收缩、液柱下降，这就是热胀冷缩原理。"
+  },
+  {
+    "id": "schoolquiz-050",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "冬天从嘴里呼出的“白气”属于什么现象？",
+    "options": ["汽化", "液化", "升华", "凝华"],
+    "correctAnswer": 1,
+    "explanation": "口中呼出的水蒸气遇冷液化成小水滴，悬浮在空气中形成“白气”。"
+  },
+  {
+    "id": "schoolquiz-051",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "湿衣服晾干了，属于什么物态变化？",
+    "options": ["熔化", "凝固", "汽化（蒸发）", "凝华"],
+    "correctAnswer": 2,
+    "explanation": "水由液态变成气态散发到空气中，属于汽化中的蒸发现象。"
+  },
+  {
+    "id": "schoolquiz-052",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "衣柜里的樟脑丸放久了会变小消失，这是？",
+    "options": ["熔化", "汽化", "升华", "凝固"],
+    "correctAnswer": 2,
+    "explanation": "樟脑丸由固态直接变成气态，属于升华现象。"
+  },
+  {
+    "id": "schoolquiz-053",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "深秋早晨草地上的霜是怎样形成的？",
+    "options": ["露水凝固", "水蒸气直接凝华", "雨水蒸发", "雾气液化"],
+    "correctAnswer": 1,
+    "explanation": "气温低于0℃时，空气中的水蒸气直接由气态变成固态冰晶，附着在草叶上形成霜，这叫凝华。"
+  },
+  {
+    "id": "schoolquiz-054",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "冰化成水属于什么物态变化？",
+    "options": ["凝固", "熔化", "液化", "汽化"],
+    "correctAnswer": 1,
+    "explanation": "物质由固态变成液态叫熔化，熔化需要吸热。"
+  },
+  {
+    "id": "schoolquiz-055",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "水结成冰属于什么物态变化？",
+    "options": ["熔化", "汽化", "凝固", "凝华"],
+    "correctAnswer": 2,
+    "explanation": "物质由液态变成固态叫凝固，凝固会放出热量。"
+  },
+  {
+    "id": "schoolquiz-056",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "公交车突然刹车时，乘客身体会向前倾，这是因为？",
+    "options": ["惯性", "引力", "摩擦力消失", "空气阻力"],
+    "correctAnswer": 0,
+    "explanation": "车减速而人由于惯性仍保持原来的运动状态，所以上身向前倾。"
+  },
+  {
+    "id": "schoolquiz-057",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "牛顿第一定律又叫什么定律？",
+    "options": ["惯性定律", "万有引力定律", "作用力定律", "能量守恒定律"],
+    "correctAnswer": 0,
+    "explanation": "牛顿第一定律指出物体在不受外力时保持静止或匀速直线运动，也叫惯性定律。"
+  },
+  {
+    "id": "schoolquiz-058",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "重力的方向总是？",
+    "options": ["竖直向下", "垂直于地面", "指向地心之外", "水平方向"],
+    "correctAnswer": 0,
+    "explanation": "重力的方向总是竖直向下（大致指向地心），所以苹果会落地、水往低处流。"
+  },
+  {
+    "id": "schoolquiz-059",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "成熟的苹果从树上掉下来，是因为它受到？",
+    "options": ["浮力", "重力", "磁力", "弹力"],
+    "correctAnswer": 1,
+    "explanation": "地球吸引苹果产生重力，重力的方向竖直向下。"
+  },
+  {
+    "id": "schoolquiz-060",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "干燥天气脱毛衣时听到“噼啪”声，这是因为？",
+    "options": ["静电现象", "雷声", "毛衣在响", "气流震动"],
+    "correctAnswer": 0,
+    "explanation": "摩擦使衣物带电，电荷放电时产生噼啪声，属于静电现象。"
+  },
+  {
+    "id": "schoolquiz-061",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "雷雨天气时，下列做法正确的是？",
+    "options": ["躲在大树下避雨", "在空旷处打伞行走", "尽快进入有避雷设施的建筑内", "在水边逗留"],
+    "correctAnswer": 2,
+    "explanation": "大树、空旷高地和水边都容易遭雷击，应尽快进入装有避雷装置的房屋或汽车内。"
+  },
+  {
+    "id": "schoolquiz-062",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "中国家庭电路的电压是？",
+    "options": ["110伏", "220伏", "380伏", "36伏"],
+    "correctAnswer": 1,
+    "explanation": "中国民用电压是220伏（日本、美国等是110伏）；380伏是工业三相电。"
+  },
+  {
+    "id": "schoolquiz-063",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "一节普通干电池的电压约为？",
+    "options": ["1.5伏", "3伏", "9伏", "12伏"],
+    "correctAnswer": 0,
+    "explanation": "一节5号或7号干电池标称电压为1.5伏。"
+  },
+  {
+    "id": "schoolquiz-064",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "对人体安全的电压一般不高于多少伏？",
+    "options": ["220伏", "110伏", "36伏", "380伏"],
+    "correctAnswer": 2,
+    "explanation": "一般认为不高于36伏的电压对人体相对安全，潮湿环境下安全电压更低。"
+  },
+  {
+    "id": "schoolquiz-065",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "下列物品中属于导体的是？",
+    "options": ["橡皮", "铜钥匙", "塑料尺", "陶瓷杯"],
+    "correctAnswer": 1,
+    "explanation": "金属容易导电属于导体；橡皮、塑料、陶瓷都不易导电，属于绝缘体。"
+  },
+  {
+    "id": "schoolquiz-066",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "电工师傅带电作业时常戴橡胶手套，因为橡胶是？",
+    "options": ["导体", "绝缘体", "半导体", "超导体"],
+    "correctAnswer": 1,
+    "explanation": "橡胶几乎不导电，是良好的绝缘体，能防止触电。"
+  },
+  {
+    "id": "schoolquiz-067",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "指南针静止时指向南方的那一端叫？",
+    "options": ["北极（N极）", "南极（S极）", "东极", "西极"],
+    "correctAnswer": 1,
+    "explanation": "指南针指南的一端叫南极（S极），指北的一端叫北极（N极）。"
+  },
+  {
+    "id": "schoolquiz-068",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "电动机工作时主要把什么能转化为什么能？",
+    "options": ["机械能转化为电能", "电能转化为机械能", "热能转化为光能", "化学能转化为热能"],
+    "correctAnswer": 1,
+    "explanation": "电动机通电后转动，把电能转化为机械能；发电机正好相反。"
+  },
+  {
+    "id": "schoolquiz-069",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "核电站发电利用的是哪种能量？",
+    "options": ["风能", "核能（核裂变）", "水能", "太阳能"],
+    "correctAnswer": 1,
+    "explanation": "核电站通过铀等核燃料的链式裂变反应释放能量，再转化为电能。"
+  },
+  {
+    "id": "schoolquiz-070",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "冬天户外摸铁比摸木头感觉更冷，这是因为？",
+    "options": ["铁的温度更低", "铁的导热性更好", "木头更粗糙", "铁更重"],
+    "correctAnswer": 1,
+    "explanation": "铁和木头温度相同，但铁导热快，能迅速把手上的热量带走，所以感觉更冷。"
+  },
+  {
+    "id": "schoolquiz-071",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "能使澄清石灰水变浑浊的气体是？",
+    "options": ["氧气", "氢气", "二氧化碳", "氮气"],
+    "correctAnswer": 2,
+    "explanation": "二氧化碳与石灰水中的氢氧化钙反应生成白色碳酸钙沉淀，使石灰水变浑浊，这是检验CO2的常用方法。"
+  },
+  {
+    "id": "schoolquiz-072",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "空气中含量最多的气体是？",
+    "options": ["氧气", "氮气", "二氧化碳", "稀有气体"],
+    "correctAnswer": 1,
+    "explanation": "氮气约占空气体积的78%，氧气约占21%。"
+  },
+  {
+    "id": "schoolquiz-073",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "能支持燃烧、供给呼吸的气体是？",
+    "options": ["氮气", "二氧化碳", "氧气", "水蒸气"],
+    "correctAnswer": 2,
+    "explanation": "氧气能支持燃烧和供给呼吸，约占空气体积的21%。"
+  },
+  {
+    "id": "schoolquiz-074",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "水的化学式是？",
+    "options": ["CO2", "H2O", "O2", "H2O2"],
+    "correctAnswer": 1,
+    "explanation": "一个水分子由两个氢原子和一个氧原子构成，化学式为H2O。"
+  },
+  {
+    "id": "schoolquiz-075",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "地壳中含量最多的元素是？",
+    "options": ["铁", "硅", "铝", "氧"],
+    "correctAnswer": 3,
+    "explanation": "地壳中含量前四的元素依次是：氧、硅、铝、铁，氧约占一半。"
+  },
+  {
+    "id": "schoolquiz-076",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "地壳中含量最多的金属元素是？",
+    "options": ["铁", "铜", "铝", "金"],
+    "correctAnswer": 2,
+    "explanation": "铝占地壳质量的约8%，是地壳中含量最多的金属元素。"
+  },
+  {
+    "id": "schoolquiz-077",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "人体胃液的主要成分是？",
+    "options": ["硫酸", "盐酸", "醋酸", "硝酸"],
+    "correctAnswer": 1,
+    "explanation": "胃液中含有盐酸，能帮助消化食物、杀灭细菌。"
+  },
+  {
+    "id": "schoolquiz-078",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "食盐的主要成分是？",
+    "options": ["碳酸钠", "氯化钠", "碳酸钙", "硫酸钠"],
+    "correctAnswer": 1,
+    "explanation": "食盐的主要成分是氯化钠（NaCl），是重要的调味品和人体必需物质。"
+  },
+  {
+    "id": "schoolquiz-079",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "厨房里常说的小苏打是？",
+    "options": ["碳酸钠", "碳酸氢钠", "氢氧化钠", "氯化钠"],
+    "correctAnswer": 1,
+    "explanation": "小苏打是碳酸氢钠（NaHCO3），常用于发面和中和酸性物质；纯碱是碳酸钠。"
+  },
+  {
+    "id": "schoolquiz-080",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "石灰石和大理石的主要成分是？",
+    "options": ["碳酸钙", "碳酸钠", "氧化钙", "氢氧化钙"],
+    "correctAnswer": 0,
+    "explanation": "石灰石、大理石、贝壳的主要成分都是碳酸钙（CaCO3）。"
+  },
+  {
+    "id": "schoolquiz-081",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "金刚石和石墨都是由哪种元素组成的？",
+    "options": ["硅", "碳", "氧", "硫"],
+    "correctAnswer": 1,
+    "explanation": "金刚石和石墨都是由碳元素组成，只因原子排列方式不同，性质差异巨大。"
+  },
+  {
+    "id": "schoolquiz-082",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "煤气中毒主要是因为哪种气体？",
+    "options": ["二氧化碳", "一氧化碳", "甲烷", "氧气"],
+    "correctAnswer": 1,
+    "explanation": "一氧化碳能与血红蛋白结合且不易分离，使人体缺氧中毒，俗称煤气中毒。"
+  },
+  {
+    "id": "schoolquiz-083",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "造成温室效应的主要气体是？",
+    "options": ["氧气", "氢气", "二氧化碳", "氮气"],
+    "correctAnswer": 2,
+    "explanation": "二氧化碳等温室气体像温室玻璃一样截留热量，是全球变暖的主因。"
+  },
+  {
+    "id": "schoolquiz-084",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "酸雨的形成主要与哪种气体排放有关？",
+    "options": ["二氧化硫和氮氧化物", "氧气和氮气", "二氧化碳和氢气", "稀有气体"],
+    "correctAnswer": 0,
+    "explanation": "煤燃烧排放的二氧化硫和汽车尾气中的氮氧化物溶于雨水形成酸雨。"
+  },
+  {
+    "id": "schoolquiz-085",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "pH小于7的溶液呈什么性？",
+    "options": ["酸性", "碱性", "中性", "无法判断"],
+    "correctAnswer": 0,
+    "explanation": "pH=7为中性，小于7为酸性，大于7为碱性。"
+  },
+  {
+    "id": "schoolquiz-086",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "用pH试纸测定溶液酸碱度时，正确的操作是？",
+    "options": ["把试纸直接伸进试剂瓶", "用玻璃棒蘸取溶液滴在试纸上", "把试剂倒到试纸上", "用手拿试纸蘸溶液"],
+    "correctAnswer": 1,
+    "explanation": "应把溶液滴在放在玻璃片上的pH试纸上再比色，直接伸入试剂会污染整瓶试剂。"
+  },
+  {
+    "id": "schoolquiz-087",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "铁生锈需要与下列哪些物质接触？",
+    "options": ["只有水", "只有氧气", "水和氧气", "氮气"],
+    "correctAnswer": 2,
+    "explanation": "铁生锈是铁与空气中的氧气、水共同作用的结果，缺一不可。"
+  },
+  {
+    "id": "schoolquiz-088",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "下列哪种方法不能防止铁制品生锈？",
+    "options": ["刷油漆", "涂油", "镀其他金属", "经常用水冲洗"],
+    "correctAnswer": 3,
+    "explanation": "防锈的原理是隔绝水和氧气，刷漆、涂油、镀层都能做到；用水冲洗反而加速生锈。"
+  },
+  {
+    "id": "schoolquiz-089",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "燃烧需要的三个条件不包括？",
+    "options": ["可燃物", "助燃物（如氧气）", "温度达到着火点", "充足的光照"],
+    "correctAnswer": 3,
+    "explanation": "燃烧三要素是可燃物、助燃物和温度达到着火点，光照不是必要条件。"
+  },
+  {
+    "id": "schoolquiz-090",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "用水灭火的主要原理是？",
+    "options": ["隔绝了所有氧气", "把温度降到着火点以下", "水能燃烧", "增加可燃物"],
+    "correctAnswer": 1,
+    "explanation": "水蒸发吸热，使可燃物温度降到着火点以下，火就灭了。"
+  },
+  {
+    "id": "schoolquiz-091",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "家中油锅起火，正确的处理方法是？",
+    "options": ["立即浇水", "端起油锅跑到室外", "盖上锅盖隔绝空气并关火", "用嘴用力吹灭"],
+    "correctAnswer": 2,
+    "explanation": "油的密度比水小，浇水会让油飞溅、火势扩大；盖上锅盖隔绝氧气并关火最安全。"
+  },
+  {
+    "id": "schoolquiz-092",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "活性炭能用于净水，主要利用它的什么性质？",
+    "options": ["导电性", "吸附性", "可燃性", "酸性"],
+    "correctAnswer": 1,
+    "explanation": "活性炭疏松多孔，有很强的吸附能力，可以吸附水中的色素和异味。"
+  },
+  {
+    "id": "schoolquiz-093",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "电解水实验产生的气体是？",
+    "options": ["氧气和氮气", "氢气和氧气", "二氧化碳和氧气", "氮气和氢气"],
+    "correctAnswer": 1,
+    "explanation": "电解水时负极产生氢气、正极产生氧气，体积比约为2:1，证明水由氢氧元素组成。"
+  },
+  {
+    "id": "schoolquiz-094",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "氢气在空气中燃烧生成什么？",
+    "options": ["二氧化碳", "一氧化碳", "水", "氧气"],
+    "correctAnswer": 2,
+    "explanation": "氢气燃烧的产物只有水，所以氢气被认为是理想的清洁燃料。"
+  },
+  {
+    "id": "schoolquiz-095",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "检验一瓶气体是否是氧气，常用的方法是？",
+    "options": ["闻气味", "倒入石灰水", "伸入带火星的木条", "放入金属片"],
+    "correctAnswer": 2,
+    "explanation": "氧气能使带火星的木条复燃，这是检验氧气的特征方法。"
+  },
+  {
+    "id": "schoolquiz-096",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "霓虹灯能发出五颜六色的光，灯管内充的是哪种气体？",
+    "options": ["氧气", "稀有气体", "二氧化碳", "水蒸气"],
+    "correctAnswer": 1,
+    "explanation": "稀有气体通电时会发出不同颜色的光，如氖气发红光、氩气发蓝光，常用于霓虹灯。"
+  },
+  {
+    "id": "schoolquiz-097",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "碘酒是常用的皮肤消毒剂，它属于？",
+    "options": ["纯净物", "混合物", "单质", "碱"],
+    "correctAnswer": 1,
+    "explanation": "碘酒是碘溶解在酒精中形成的溶液，由多种物质组成，属于混合物。"
+  },
+  {
+    "id": "schoolquiz-098",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "下列物质中属于单质的是？",
+    "options": ["水", "二氧化碳", "氧气", "食盐"],
+    "correctAnswer": 2,
+    "explanation": "单质是由同一种元素组成的纯净物，氧气（O2）只含氧元素；水、二氧化碳是化合物，食盐是混合物。"
+  },
+  {
+    "id": "schoolquiz-099",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "把白糖加热到熔化，继续加热会变成黑色的炭，这说明白糖中含有？",
+    "options": ["碳元素", "铁元素", "铜元素", "银元素"],
+    "correctAnswer": 0,
+    "explanation": "化学变化前后元素种类不变，生成黑色的碳说明白糖中含有碳元素。"
+  },
+  {
+    "id": "schoolquiz-100",
+    "category": "schoolquiz",
+    "difficulty": "easy",
+    "question": "打开汽水瓶盖时冒出大量气泡，这是因为？",
+    "options": ["温度升高气体溶解增多", "压强减小，二氧化碳溶解度减小", "水变成了气体", "瓶子产生了气体"],
+    "correctAnswer": 1,
+    "explanation": "气体的溶解度随压强减小而减小，开盖后压强骤降，溶解的二氧化碳大量逸出形成气泡。"
+  }
+]
