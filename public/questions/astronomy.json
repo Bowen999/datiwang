@@ -1,0 +1,902 @@
+[
+  {
+    "id": "astronomy-001",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "夏季大三角不包括以下哪颗星？",
+    "options": ["织女星", "牛郎星（河鼓二）", "天津四", "北极星"],
+    "correctAnswer": 3,
+    "explanation": "夏季大三角由织女星、牛郎星（河鼓二）和天津四组成，不包括北极星。"
+  },
+  {
+    "id": "astronomy-002",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“秒差距”（parsec）是？",
+    "options": ["时间单位", "距离单位", "速度单位", "角度单位"],
+    "correctAnswer": 1,
+    "explanation": "秒差距是天文学使用的距离单位，1秒差距约等于3.26光年。"
+  },
+  {
+    "id": "astronomy-003",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "北斗七星属于哪个星座？",
+    "options": ["小熊座", "大熊座", "仙后座", "天龙座"],
+    "correctAnswer": 1,
+    "explanation": "北斗七星是大熊座的一部分，勺柄到勺口都属于大熊座。"
+  },
+  {
+    "id": "astronomy-004",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "北极星位于哪个星座？",
+    "options": ["大熊座", "小熊座", "仙王座", "天鹅座"],
+    "correctAnswer": 1,
+    "explanation": "北极星是小熊座尾部的勾陈一，是目前最接近北天极的亮星。"
+  },
+  {
+    "id": "astronomy-005",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“视星等”描述的是？",
+    "options": ["恒星真实的亮度", "从地球看起来的明暗程度", "恒星的颜色", "恒星的大小"],
+    "correctAnswer": 1,
+    "explanation": "视星等衡量的是恒星从地球看起来的明暗；真实发光能力用绝对星等表示。"
+  },
+  {
+    "id": "astronomy-006",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "冬季大三角包括哪三颗星？",
+    "options": ["天狼、参宿四、南河三", "天狼、参宿七、北极星", "天狼、织女、牛郎", "参宿四、心宿二、轩辕十四"],
+    "correctAnswer": 0,
+    "explanation": "冬季大三角由大犬座天狼星、猎户座参宿四和小犬座南河三组成。"
+  },
+  {
+    "id": "astronomy-007",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "视星等的数值越小，表示恒星看起来？",
+    "options": ["越暗", "越亮", "越红", "越远"],
+    "correctAnswer": 1,
+    "explanation": "星等数越小越亮，可以为负数，比如太阳约-26.7等。"
+  },
+  {
+    "id": "astronomy-008",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "全天最亮的恒星是？",
+    "options": ["天狼星", "织女星", "老人星", "北极星"],
+    "correctAnswer": 0,
+    "explanation": "天狼星视星等约-1.46，是除太阳外全天最亮的恒星。"
+  },
+  {
+    "id": "astronomy-009",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“绝对星等”定义是：把恒星放到多远时测得的视星等？",
+    "options": ["1光年", "1秒差距", "10秒差距", "100秒差距"],
+    "correctAnswer": 2,
+    "explanation": "绝对星等是把恒星移到距地球10秒差距（32.6光年）处时测得的视星等。"
+  },
+  {
+    "id": "astronomy-010",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "仙后座在天空中最显著的特征是？",
+    "options": ["W形（或M形）排列", "勺子形", "十字形", "方形"],
+    "correctAnswer": 0,
+    "explanation": "仙后座五颗亮星排成明显的W（或M）形，与北斗七星隔着北极星遥遥相对。"
+  },
+  {
+    "id": "astronomy-011",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "天狼星位于哪个星座？",
+    "options": ["猎户座", "大犬座", "小犬座", "双子座"],
+    "correctAnswer": 1,
+    "explanation": "天狼星是大犬座α星，位于猎户座东南方。"
+  },
+  {
+    "id": "astronomy-012",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“天文单位（AU）”是指？",
+    "options": ["光一年走的距离", "地球到太阳的平均距离", "月球到地球的距离", "太阳半径"],
+    "correctAnswer": 1,
+    "explanation": "1天文单位约1.496亿千米，即日地平均距离；光走一年是1光年。"
+  },
+  {
+    "id": "astronomy-013",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "天蝎座最亮的心宿二又被称为什么？",
+    "options": ["大火", "天狼", "北落师门", "老人星"],
+    "correctAnswer": 0,
+    "explanation": "心宿二古称“大火”，《诗经》“七月流火”的“火”就是它。"
+  },
+  {
+    "id": "astronomy-014",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "肉眼在极暗夜空下能看到的最暗恒星约为几等？",
+    "options": ["0等", "3等", "6等", "10等"],
+    "correctAnswer": 2,
+    "explanation": "无光害环境下肉眼极限约6等，城市灯光下通常只能看到3等左右。"
+  },
+  {
+    "id": "astronomy-015",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "猎户座腰带上的三颗星是？",
+    "options": ["参宿三星", "北斗三星", "河鼓三星", "心宿三星"],
+    "correctAnswer": 0,
+    "explanation": "猎户腰带三星即参宿一、参宿二、参宿三，民间也称“福禄寿三星”。"
+  },
+  {
+    "id": "astronomy-016",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "猎户座大星云的编号是？",
+    "options": ["M31", "M42", "M45", "M51"],
+    "correctAnswer": 1,
+    "explanation": "猎户座大星云为M42，是距离最近的大恒星形成区；M31是仙女座星系。"
+  },
+  {
+    "id": "astronomy-017",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "昴星团（七姊妹星团）位于哪个星座？",
+    "options": ["金牛座", "双子座", "巨蟹座", "猎户座"],
+    "correctAnswer": 0,
+    "explanation": "昴星团（M45）是金牛座的疏散星团，肉眼可见六七颗亮星。"
+  },
+  {
+    "id": "astronomy-018",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "1秒差距大约等于？",
+    "options": ["1光年", "3.26光年", "10光年", "100光年"],
+    "correctAnswer": 1,
+    "explanation": "1秒差距≈3.26光年≈20.6万天文单位，名字来自“视差为1角秒的距离”。"
+  },
+  {
+    "id": "astronomy-019",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "著名的仙女座星系编号是？",
+    "options": ["M31", "M42", "M45", "M104"],
+    "correctAnswer": 0,
+    "explanation": "仙女座星系M31是距离银河系最近的大型漩涡星系，距地球约250万光年。"
+  },
+  {
+    "id": "astronomy-020",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "现代天文学通用星座一共有多少个？",
+    "options": ["12", "28", "88", "100"],
+    "correctAnswer": 2,
+    "explanation": "国际天文学联合会1928年划定全天88个星座；黄道十二宫只是其中一部分。"
+  },
+  {
+    "id": "astronomy-021",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "太阳系中体积最大的行星是？",
+    "options": ["土星", "木星", "天王星", "海王星"],
+    "correctAnswer": 1,
+    "explanation": "木星质量约为其他七大行星总和的2.5倍，体积是地球的1300多倍。"
+  },
+  {
+    "id": "astronomy-022",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“黄道”是？",
+    "options": ["月球轨道面", "地球公转轨道面在天球上的投影", "银河平面", "赤道平面"],
+    "correctAnswer": 1,
+    "explanation": "黄道是地球绕太阳公转轨道平面无限延伸后与天球相交的大圆。"
+  },
+  {
+    "id": "astronomy-023",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "太阳系中自转最快的行星是？",
+    "options": ["地球", "火星", "木星", "水星"],
+    "correctAnswer": 2,
+    "explanation": "木星自转一周不到10小时，是太阳系自转最快的行星。"
+  },
+  {
+    "id": "astronomy-024",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“赤经”的起算点是？",
+    "options": ["春分点", "秋分点", "夏至点", "北极点"],
+    "correctAnswer": 0,
+    "explanation": "赤经以春分点为原点向东计量，相当于天球上的“经度”。"
+  },
+  {
+    "id": "astronomy-025",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "太阳系中表面温度最高的行星是？",
+    "options": ["水星", "金星", "火星", "木星"],
+    "correctAnswer": 1,
+    "explanation": "金星浓厚的二氧化碳大气造成失控温室效应，表面约465℃，比水星还热。"
+  },
+  {
+    "id": "astronomy-026",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "拥有最壮观行星环的行星是？",
+    "options": ["木星", "土星", "天王星", "海王星"],
+    "correctAnswer": 1,
+    "explanation": "土星环由无数冰块组成，宽达数十万千米，是太阳系最壮观的行星环。"
+  },
+  {
+    "id": "astronomy-027",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "春分时太阳位于黄道和天赤道的？",
+    "options": ["升交点（春分点）", "降交点", "北回归点", "南回归点"],
+    "correctAnswer": 0,
+    "explanation": "春分点是天赤道与黄道的升交点，太阳每年3月经过它。"
+  },
+  {
+    "id": "astronomy-028",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "太阳系中最大的卫星（比水星还大）是？",
+    "options": ["月球", "木卫三（盖尼米得）", "土卫六（泰坦）", "木卫一"],
+    "correctAnswer": 1,
+    "explanation": "木卫三直径约5268千米，比水星还大，是太阳系最大的卫星。"
+  },
+  {
+    "id": "astronomy-029",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“天赤道”是？",
+    "options": ["地球赤道面延伸与天球相交的大圆", "黄道面与天球相交的大圆", "月球轨道", "银河中心线"],
+    "correctAnswer": 0,
+    "explanation": "天赤道是地球赤道面无限延伸后与天球相交的大圆。"
+  },
+  {
+    "id": "astronomy-030",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "木卫二“欧罗巴”最令科学家感兴趣的是？",
+    "options": ["冰壳下可能存在液态海洋", "表面全是黄金", "温度最高", "有茂密森林"],
+    "correctAnswer": 0,
+    "explanation": "木卫二冰壳之下可能藏有全球性液态海洋，是寻找地外生命的热门目标。"
+  },
+  {
+    "id": "astronomy-031",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "小行星带主要位于？",
+    "options": ["水星与金星之间", "火星与木星之间", "木星与土星之间", "土星轨道外"],
+    "correctAnswer": 1,
+    "explanation": "主小行星带位于火星与木星轨道之间，距离太阳约2.2~3.2天文单位。"
+  },
+  {
+    "id": "astronomy-032",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "春分和秋分对应太阳在黄道上的位置是？",
+    "options": ["黄道与天赤道两个交点", "黄道最北点", "黄道最南点", "夏至点"],
+    "correctAnswer": 0,
+    "explanation": "春分、秋分时太阳位于黄道与天赤道的两个交点，全球昼夜大致等长。"
+  },
+  {
+    "id": "astronomy-033",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "冥王星现在被归类为？",
+    "options": ["行星", "矮行星", "小行星", "卫星"],
+    "correctAnswer": 1,
+    "explanation": "2006年国际天文学联合会将冥王星降级为矮行星，九大行星变为八大行星。"
+  },
+  {
+    "id": "astronomy-034",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“黄赤交角”大约为？",
+    "options": ["0度", "23.5度", "45度", "66.5度"],
+    "correctAnswer": 1,
+    "explanation": "黄道面与赤道面的交角约23.5°，正是它造成了四季变化。"
+  },
+  {
+    "id": "astronomy-035",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "金星在黎明前东方天空出现时被称为？",
+    "options": ["长庚星", "启明星", "天狼星", "老人星"],
+    "correctAnswer": 1,
+    "explanation": "金星清晨出现在东方叫启明星，黄昏出现在西方叫长庚星。"
+  },
+  {
+    "id": "astronomy-036",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "黄赤交角的存在直接导致？",
+    "options": ["四季更替", "昼夜更替", "潮汐", "月相变化"],
+    "correctAnswer": 0,
+    "explanation": "黄赤交角使太阳直射点在南北回归线之间移动，从而形成四季；昼夜更替是地球自转造成的。"
+  },
+  {
+    "id": "astronomy-037",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "哈雷彗星大约多少年回归一次？",
+    "options": ["11年", "33年", "76年", "100年"],
+    "correctAnswer": 2,
+    "explanation": "哈雷彗星周期约76年，最近一次回归是1986年，预计2061年再次回归。"
+  },
+  {
+    "id": "astronomy-038",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“回归年”是依据什么制定的？",
+    "options": ["月球绕地球一周", "太阳在黄道上从春分点回到春分点", "地球自转一周", "恒星周日运动"],
+    "correctAnswer": 1,
+    "explanation": "回归年是太阳连续两次经过春分点的时间间隔，约365.24天。"
+  },
+  {
+    "id": "astronomy-039",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "彗星著名的两条“尾巴”主要是？",
+    "options": ["尘埃尾和离子尾", "冰尾和火尾", "左尾和右尾", "红色尾和蓝色尾"],
+    "correctAnswer": 0,
+    "explanation": "太阳风和辐射压把彗星物质吹成尘埃尾（弯曲）和离子尾（笔直背向太阳）。"
+  },
+  {
+    "id": "astronomy-040",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“朔望月”是？",
+    "options": ["两次新月之间的时间（约29.5天）", "地球公转周期", "彗星周期", "太阳黑子周期"],
+    "correctAnswer": 0,
+    "explanation": "朔望月约29.53天，是月相变化一个完整周期，农历月份由此而来。"
+  },
+  {
+    "id": "astronomy-041",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "流星雨出现时，所有流星看起来都像从哪一点发散出来？",
+    "options": ["辐射点", "天顶", "月亮", "北极星"],
+    "correctAnswer": 0,
+    "explanation": "流星来自平行方向，透视效果使它们看起来从天空某一点（辐射点）散开。"
+  },
+  {
+    "id": "astronomy-042",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "农历属于？",
+    "options": ["纯阳历", "纯阴历", "阴阳合历", "恒星历"],
+    "correctAnswer": 2,
+    "explanation": "农历月份按朔望月（阴历），通过闰月协调回归年（阳历），属于阴阳合历。"
+  },
+  {
+    "id": "astronomy-043",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "英仙座流星雨通常每年几月达到极大？",
+    "options": ["1月", "5月", "8月", "12月"],
+    "correctAnswer": 2,
+    "explanation": "英仙座流星雨每年8月12日前后极大，是北半球最稳定的流星雨之一。"
+  },
+  {
+    "id": "astronomy-044",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "二十四节气依据的是？",
+    "options": ["月球位置", "太阳在黄道上的位置", "行星位置", "恒星位置"],
+    "correctAnswer": 1,
+    "explanation": "二十四节气按太阳黄经每15°划分一个，本质是阳历成分。"
+  },
+  {
+    "id": "astronomy-045",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "双子座流星雨通常每年几月达到极大？",
+    "options": ["8月", "10月", "12月", "2月"],
+    "correctAnswer": 2,
+    "explanation": "双子座流星雨每年12月中旬极大，流量稳定且亮流星多，适合冬季观测。"
+  },
+  {
+    "id": "astronomy-046",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "天球上“赤纬”相当于地球上的？",
+    "options": ["经度", "纬度", "高度", "方位角"],
+    "correctAnswer": 1,
+    "explanation": "赤纬是天赤道向北或向南计量的角距离，相当于天球上的“纬度”；赤经相当于“经度”。"
+  },
+  {
+    "id": "astronomy-047",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "城市灯光使夜空变亮、星星变少，这种现象叫？",
+    "options": ["光污染", "大气污染", "磁暴", "温室效应"],
+    "correctAnswer": 0,
+    "explanation": "过度的人工照明照亮夜空掩盖星光，称为光污染；天文台因此都建在偏远地区。"
+  },
+  {
+    "id": "astronomy-048",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "二十四节气本质是？",
+    "options": ["黄道被24等分，每份15°", "12个节气", "月亮的24种形状", "24个星座"],
+    "correctAnswer": 0,
+    "explanation": "把黄道360°均分为24段，每段15°对应一个节气，一年恰好一轮。"
+  },
+  {
+    "id": "astronomy-049",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "用天文望远镜观测太阳，正确做法是？",
+    "options": ["直接肉眼对着看", "必须使用专用巴德膜或投影法", "戴墨镜即可", "隔着窗户看"],
+    "correctAnswer": 1,
+    "explanation": "太阳强光会瞬间灼伤视网膜，必须加装专用减光膜（如巴德膜）或用投影法观测。"
+  },
+  {
+    "id": "astronomy-050",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“光年”是？",
+    "options": ["时间单位", "距离单位", "速度单位", "亮度单位"],
+    "correctAnswer": 1,
+    "explanation": "光年是光在真空中一年传播的距离，约9.46万亿千米，是距离单位。"
+  },
+  {
+    "id": "astronomy-051",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "天文望远镜的“口径”越大，主要好处是？",
+    "options": ["看得更亮、能看清更暗天体", "颜色更鲜艳", "重量更轻", "体积更小"],
+    "correctAnswer": 0,
+    "explanation": "口径决定聚光能力和分辨率，口径越大能收集更多光、分辨更细的细节。"
+  },
+  {
+    "id": "astronomy-052",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "织女星历史上曾被用作视星等零点参考，它的视星等约为？",
+    "options": ["0等", "1等", "-1等", "6等"],
+    "correctAnswer": 0,
+    "explanation": "织女星视星等约0.03，历史上被规定为星等的零点标准。"
+  },
+  {
+    "id": "astronomy-053",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "我们所在的星系叫？",
+    "options": ["仙女座星系", "银河系", "大麦哲伦云", "三角座星系"],
+    "correctAnswer": 1,
+    "explanation": "太阳只是银河系千亿颗恒星中的一员，银河横贯夜空就是银河系的盘面。"
+  },
+  {
+    "id": "astronomy-054",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "恒星按光谱型分类O、B、A、F、G、K、M，温度从高到低排列正确的是？",
+    "options": ["O-B-A-F-G-K-M", "M-K-G-F-A-B-O", "A-O-B-K-F-G-M", "G-K-M-O-A-B-F"],
+    "correctAnswer": 0,
+    "explanation": "记忆口诀是“Oh Be A Fine Girl/Guy, Kiss Me”，O型最热呈蓝色，M型最冷呈红色。"
+  },
+  {
+    "id": "astronomy-055",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "银河系的中心方向大致在？",
+    "options": ["人马座", "猎户座", "仙女座", "仙后座"],
+    "correctAnswer": 0,
+    "explanation": "夏季夜晚银河最亮的一段就在人马座方向，那里藏着银河系中心超大质量黑洞。"
+  },
+  {
+    "id": "astronomy-056",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "太阳的光谱型是？",
+    "options": ["O型", "G2型", "M型", "B型"],
+    "correctAnswer": 1,
+    "explanation": "太阳是一颗G2V型主序星，属于中等温度、黄色的恒星。"
+  },
+  {
+    "id": "astronomy-057",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "肉眼可见的最近的大河外星系是？",
+    "options": ["仙女座星系M31", "大麦哲伦云", "M87", "漩涡星系M51"],
+    "correctAnswer": 0,
+    "explanation": "M31距离约250万光年，是肉眼可见的最远天体之一，秋季夜空最容易找到。"
+  },
+  {
+    "id": "astronomy-058",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "颜色偏蓝的恒星，表面温度通常？",
+    "options": ["较低", "较高", "与颜色无关", "为零度"],
+    "correctAnswer": 1,
+    "explanation": "恒星颜色反映温度：蓝白星温度高（数万K），红星温度低（约3000K）。"
+  },
+  {
+    "id": "astronomy-059",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "宇宙大约诞生于多少年前？",
+    "options": ["46亿年前", "100亿年前", "138亿年前", "1万亿年前"],
+    "correctAnswer": 2,
+    "explanation": "宇宙年龄约138亿年；46亿年前形成的是太阳系。"
+  },
+  {
+    "id": "astronomy-060",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "天文学家通过什么可以知道恒星的化学成分？",
+    "options": ["光谱中的吸收线", "恒星的形状", "恒星的运动速度", "恒星的亮暗"],
+    "correctAnswer": 0,
+    "explanation": "每种元素都会在光谱中留下特征吸收线，就像元素的“指纹”，可以据此分析恒星成分。"
+  },
+  {
+    "id": "astronomy-061",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "星系光谱“红移”说明？",
+    "options": ["星系在远离我们（宇宙在膨胀）", "星系变红了", "星系温度降低", "光被反射"],
+    "correctAnswer": 0,
+    "explanation": "光波被拉长、谱线向红端移动，说明光源在远离我们，是宇宙膨胀的证据。"
+  },
+  {
+    "id": "astronomy-062",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“多普勒效应”在天文上可用于测量？",
+    "options": ["天体的视向速度（红移/蓝移）", "天体的重量", "天体的年龄", "天体的体积"],
+    "correctAnswer": 0,
+    "explanation": "波源靠近时光波被压缩（蓝移）、远离时被拉伸（红移），由此测出天体沿视线方向的速度。"
+  },
+  {
+    "id": "astronomy-063",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "银河系属于哪一类星系？",
+    "options": ["椭圆星系", "漩涡星系（棒旋星系）", "不规则星系", "透镜星系"],
+    "correctAnswer": 1,
+    "explanation": "银河系是有四条旋臂的棒旋星系，中心有一个恒星棒状结构。"
+  },
+  {
+    "id": "astronomy-064",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "光谱线向红端移动（红移）说明天体在？",
+    "options": ["靠近我们", "远离我们", "变冷", "变热"],
+    "correctAnswer": 1,
+    "explanation": "远离我们的光源发出的光波波长被拉长，谱线向红端移动，称为多普勒红移。"
+  },
+  {
+    "id": "astronomy-065",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "第一个被人类拍摄到黑洞照片（2019年）的黑洞位于哪个星系？",
+    "options": ["银河系中心", "M87星系", "仙女座星系", "大麦哲伦云"],
+    "correctAnswer": 1,
+    "explanation": "2019年事件视界望远镜（EHT）公布的首张黑洞照片来自M87星系中心的超大质量黑洞。"
+  },
+  {
+    "id": "astronomy-066",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“哈勃定律”描述的是？",
+    "options": ["行星运动", "星系退行速度与距离成正比（宇宙膨胀）", "恒星演化", "月球运动"],
+    "correctAnswer": 1,
+    "explanation": "哈勃定律表明星系越远退行速度越快，说明宇宙正在膨胀。"
+  },
+  {
+    "id": "astronomy-067",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "银河系中心的超大质量黑洞被命名为？",
+    "options": ["人马座A*", "M87*", "天狼星B", "北落师门"],
+    "correctAnswer": 0,
+    "explanation": "2022年EHT团队公布了银河系中心黑洞人马座A*的照片，其质量约400万个太阳。"
+  },
+  {
+    "id": "astronomy-068",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“色指数”是？",
+    "options": ["恒星在两个波段星等之差，反映颜色", "恒星的重量指数", "恒星的年龄", "恒星的距离"],
+    "correctAnswer": 0,
+    "explanation": "色指数是恒星在两个不同波段的星等差，数值反映恒星的颜色和温度。"
+  },
+  {
+    "id": "astronomy-069",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "黑洞之所以“黑”，是因为？",
+    "options": ["它不发任何光", "它的引力强到光也无法逃逸", "它被尘埃挡住了", "它已经熄灭"],
+    "correctAnswer": 1,
+    "explanation": "黑洞并非不发光，而是事件视界内的光也无法逃逸出来，所以看起来是黑的。"
+  },
+  {
+    "id": "astronomy-070",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "绝对星等数值越小，说明恒星真实发光能力？",
+    "options": ["越弱", "越强", "越冷", "越小"],
+    "correctAnswer": 1,
+    "explanation": "绝对星等越小（甚至为负）表示恒星实际发光越强，比如参宿七约-6.7等，远超太阳。"
+  },
+  {
+    "id": "astronomy-071",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "月球绕地球一周大约需要？",
+    "options": ["一天", "一个月（约27.3天）", "一年", "十年"],
+    "correctAnswer": 1,
+    "explanation": "月球公转恒星周期约27.3天，月相周期（朔望月）约29.5天。"
+  },
+  {
+    "id": "astronomy-072",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“事件视界”是？",
+    "options": ["黑洞边界，进入后光也无法逃出", "望远镜视野", "行星大气层顶", "卫星轨道面"],
+    "correctAnswer": 0,
+    "explanation": "事件视界是黑洞的边界，一旦越过，连光也无法逃脱，因此任何信息都无法传出。"
+  },
+  {
+    "id": "astronomy-073",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "我们永远只能看到月球的同一面，是因为？",
+    "options": ["月球不自转", "月球自转周期与公转周期相同（潮汐锁定）", "月球是平的", "地球挡住了"],
+    "correctAnswer": 1,
+    "explanation": "月球被地球潮汐锁定，自转周期与公转周期相同（约27.3天），所以永远以同一面朝向地球。"
+  },
+  {
+    "id": "astronomy-074",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“脉冲星”实质上是？",
+    "options": ["快速自转的中子星", "脉动的红巨星", "人造卫星", "彗星"],
+    "correctAnswer": 0,
+    "explanation": "脉冲星是高速自转的中子星，磁轴辐射束周期性扫过地球，就像宇宙中的灯塔。"
+  },
+  {
+    "id": "astronomy-075",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "月相“新月”大约出现在农历？",
+    "options": ["初一", "初七、初八", "十五", "廿二、廿三"],
+    "correctAnswer": 0,
+    "explanation": "朔（新月）发生在农历初一，此时月球位于太阳和地球之间。"
+  },
+  {
+    "id": "astronomy-076",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“主序星”是指？",
+    "options": ["处于稳定氢聚变阶段的恒星（如太阳）", "刚诞生的星", "快死的星", "黑洞"],
+    "correctAnswer": 0,
+    "explanation": "主序星占恒星绝大多数，在核心稳定进行氢聚变成氦，太阳正处于这一阶段。"
+  },
+  {
+    "id": "astronomy-077",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "日食一定发生在农历的什么时候？",
+    "options": ["初一（朔）", "初八", "十五（望）", "任何时候"],
+    "correctAnswer": 0,
+    "explanation": "日食需要日月地近似成一直线且月球在中间，只能发生在朔（初一）附近。"
+  },
+  {
+    "id": "astronomy-078",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“红巨星”是恒星演化的？",
+    "options": ["早期阶段", "离开主序后的晚期膨胀阶段", "起点", "中子星的前身之前瞬间"],
+    "correctAnswer": 1,
+    "explanation": "恒星耗尽核心氢后会膨胀成红巨星，太阳50亿年后也会走这条路。"
+  },
+  {
+    "id": "astronomy-079",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "满月大约出现在农历？",
+    "options": ["初一", "初八", "十五", "月末"],
+    "correctAnswer": 2,
+    "explanation": "望（满月）约在农历十五，此时地球位于太阳和月球之间。"
+  },
+  {
+    "id": "astronomy-080",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“白矮星”主要由什么支撑不坍缩？",
+    "options": ["电子简并压力", "核聚变", "气体燃烧", "磁场"],
+    "correctAnswer": 0,
+    "explanation": "白矮星不再进行核聚变，靠电子简并压力抵抗引力，质量上限为1.44倍太阳质量（钱德拉塞卡极限）。"
+  },
+  {
+    "id": "astronomy-081",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "日全食时肉眼可见的太阳外层大气叫？",
+    "options": ["色球层", "日冕", "光球层", "日核"],
+    "correctAnswer": 1,
+    "explanation": "日全食时光球被遮住，肉眼可见银白色的日冕——太阳最外层的高温大气。"
+  },
+  {
+    "id": "astronomy-082",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "满月时月球在古籍中称为？",
+    "options": ["朔", "望", "弦", "晦"],
+    "correctAnswer": 1,
+    "explanation": "“朔”为初一新月，“望”为十五满月，“晦”指月末，弦指上弦或下弦。"
+  },
+  {
+    "id": "astronomy-083",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "人类首次登月是哪一年？",
+    "options": ["1957年", "1961年", "1969年", "1975年"],
+    "correctAnswer": 2,
+    "explanation": "1969年7月20日，阿波罗11号宇航员阿姆斯特朗成为第一个踏上月球的人。"
+  },
+  {
+    "id": "astronomy-084",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "第一位进入太空的地球人是？",
+    "options": ["阿姆斯特朗", "加加林", "杨利伟", "艾伦·谢泼德"],
+    "correctAnswer": 1,
+    "explanation": "1961年苏联宇航员加加林乘东方1号首次进入太空；阿姆斯特朗是第一个登月的人。"
+  },
+  {
+    "id": "astronomy-085",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "中国“天问一号”探测器着陆的行星是？",
+    "options": ["月球", "火星", "金星", "水星"],
+    "correctAnswer": 1,
+    "explanation": "天问一号于2021年5月在火星乌托邦平原着陆，中国成为第二个成功着陆火星的国家。"
+  },
+  {
+    "id": "astronomy-086",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“合”是指？",
+    "options": ["两天体在天球上黄经相同（看似靠近）", "两星相撞", "行星落山", "卫星落地"],
+    "correctAnswer": 0,
+    "explanation": "“合”指两颗天体在天球上黄经相等，看起来彼此靠近，如“金星合月”。"
+  },
+  {
+    "id": "astronomy-087",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "木卫一“伊奥”著名是因为？",
+    "options": ["太阳系火山活动最剧烈的天体", "表面覆盖海洋", "有大气和雨", "形状最圆"],
+    "correctAnswer": 0,
+    "explanation": "木卫一受木星强大潮汐加热，拥有数百座活火山，是太阳系火山活动最剧烈的天体。"
+  },
+  {
+    "id": "astronomy-088",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "外行星的“冲日”对观测意味着？",
+    "options": ["行星离地球较近且整夜可见，是最佳观测时机", "行星藏在太阳后", "行星消失", "行星最暗"],
+    "correctAnswer": 0,
+    "explanation": "冲日时行星与太阳黄经相差180°，日落时升起、日出时落下，整夜可见且接近地球。"
+  },
+  {
+    "id": "astronomy-089",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "土卫六“泰坦”特别之处在于？",
+    "options": ["拥有浓厚大气和液态甲烷湖", "表面全是火山", "是最热的卫星", "拥有光环"],
+    "correctAnswer": 0,
+    "explanation": "土卫六是土星最大的卫星，拥有浓厚的氮大气，表面有液态甲烷/乙烷湖泊。"
+  },
+  {
+    "id": "astronomy-090",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“金星大距”时，金星与太阳的角距离达到？",
+    "options": ["最小", "最大", "0°", "180°"],
+    "correctAnswer": 1,
+    "explanation": "大距是内行星（金星、水星）与太阳的最大角距，此时行星最亮、最容易观测。"
+  },
+  {
+    "id": "astronomy-091",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“岁差”是指？",
+    "options": ["地球自转轴像陀螺一样缓慢画圈（周期约26000年）", "地球公转", "月球公转", "太阳运动"],
+    "correctAnswer": 0,
+    "explanation": "地球自转轴受日月引力拖拽产生岁差，周期约25800年，北极星也因此会“换人”。"
+  },
+  {
+    "id": "astronomy-092",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "太阳系中哪两颗行星没有卫星？",
+    "options": ["水星和金星", "地球和火星", "金星和木星", "水星和火星"],
+    "correctAnswer": 0,
+    "explanation": "水星离太阳太近、金星自转特殊，这两颗行星都没有天然卫星。"
+  },
+  {
+    "id": "astronomy-093",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "由于岁差，几千年后北极星的位置将由哪颗星附近代替？",
+    "options": ["织女星", "心宿二", "老人星", "天狼星"],
+    "correctAnswer": 0,
+    "explanation": "约公元14000年，织女星将位于北天极附近，成为新的“北极星”。"
+  },
+  {
+    "id": "astronomy-094",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "海王星是通过什么方式被发现的？",
+    "options": ["望远镜随机巡视", "数学计算预言位置后发现", "载人飞船拍摄", "肉眼观测"],
+    "correctAnswer": 1,
+    "explanation": "19世纪天文学家根据天王星轨道异常计算出未知行星位置，随后用望远镜找到了海王星。"
+  },
+  {
+    "id": "astronomy-095",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“银心”在天球上位于哪个星座方向？",
+    "options": ["人马座", "猎户座", "仙女座", "天鹅座"],
+    "correctAnswer": 0,
+    "explanation": "银河系的中心方向落在人马座，那里有超大质量黑洞人马座A*。"
+  },
+  {
+    "id": "astronomy-096",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“晨星”“昏星”说的都是哪颗行星？",
+    "options": ["金星", "火星", "木星", "土星"],
+    "correctAnswer": 0,
+    "explanation": "金星轨道在地球内侧，只能在日出前或日落后看到，分别叫启明星和长庚星。"
+  },
+  {
+    "id": "astronomy-097",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "二十四节气中，冬至时太阳黄经为？",
+    "options": ["0°", "90°", "180°", "270°"],
+    "correctAnswer": 3,
+    "explanation": "春分0°、夏至90°、秋分180°、冬至270°，每个节气间隔15°。"
+  },
+  {
+    "id": "astronomy-098",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "中国“天眼”FAST是哪种望远镜？",
+    "options": ["射电望远镜", "光学望远镜", "红外望远镜", "空间望远镜"],
+    "correctAnswer": 0,
+    "explanation": "FAST是世界最大的单口径射电望远镜，位于贵州，口径达500米。"
+  },
+  {
+    "id": "astronomy-099",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "中国首位进入太空的航天员是？",
+    "options": ["杨利伟", "翟志刚", "景海鹏", "刘洋"],
+    "correctAnswer": 0,
+    "explanation": "2003年杨利伟乘神舟五号进入太空，成为中国飞天第一人；刘洋是首位女航天员。"
+  },
+  {
+    "id": "astronomy-100",
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question": "“凌日”是指？",
+    "options": ["较小天体从较大天体（如太阳）圆面前方经过", "恒星相撞", "卫星落地", "月食"],
+    "correctAnswer": 0,
+    "explanation": "凌日时小天体的视直径小于背景天体，只是从圆面前经过，如水星凌日、金星凌日；若完全遮住则叫“掩”。"
+  }
+]

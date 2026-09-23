@@ -13,6 +13,10 @@
       "name": "科学探索"
     },
     {
+      "id": "astronomy",
+      "name": "天文"
+    },
+    {
       "id": "entertainment",
       "name": "娱乐潮流"
     },
