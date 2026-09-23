@@ -698,5 +698,173 @@
     ],
     "correctAnswer": 2,
     "explanation": "曹操先听见士兵喊「穿红袍的是曹操」，赶紧脱下红袍；又听见「长须者是曹操」，情急之下拔剑割掉胡须；最后干脆扯旗裹住下巴狼狈逃窜。「割须弃袍」由此成了他一生中最狼狈的名场面之一，后世还被改编成了戏曲桥段。"
+  },
+  {
+    "id": "sanguo-051",
+    "category": "sanguo",
+    "difficulty": "easy",
+    "question": "奠定三国鼎立局面基础的著名战役是？",
+    "options": [
+      "官渡之战",
+      "赤壁之战",
+      "夷陵之战",
+      "淝水之战"
+    ],
+    "correctAnswer": 1,
+    "explanation": "208年孙刘联军在赤壁大败曹操主力，曹操退回北方，此后形成曹操据北方、孙权据江东、刘备据荆益的大势，三分格局逐渐奠定。"
+  },
+  {
+    "id": "sanguo-052",
+    "category": "sanguo",
+    "difficulty": "easy",
+    "question": "赤壁之战中，孙吴方面实际指挥作战的主帅是？",
+    "options": [
+      "周瑜",
+      "鲁肃",
+      "吕蒙",
+      "陆逊"
+    ],
+    "correctAnswer": 0,
+    "explanation": "赤壁之战孙吴主帅为周瑜，他采纳黄盖火攻之策大破曹军；鲁肃主联刘，吕蒙、陆逊为后辈将领。"
+  },
+  {
+    "id": "sanguo-053",
+    "category": "sanguo",
+    "difficulty": "easy",
+    "question": "曹操'挟天子以令诸侯'，其迎奉的'天子'是？",
+    "options": [
+      "汉质帝",
+      "汉献帝",
+      "汉灵帝",
+      "汉少帝"
+    ],
+    "correctAnswer": 1,
+    "explanation": "196年曹操迎汉献帝刘协至许都，取得'奉天子以令不臣'的政治优势；质帝、灵帝、少帝均为此前在位皇帝。"
+  },
+  {
+    "id": "sanguo-054",
+    "category": "sanguo",
+    "difficulty": "easy",
+    "question": "曹丕代汉建魏后，曹魏的都城定于？",
+    "options": [
+      "洛阳",
+      "许昌",
+      "邺城",
+      "长安"
+    ],
+    "correctAnswer": 0,
+    "explanation": "曹操为汉相时曾奉天子都许，并以邺城为根本之地；220年曹丕称帝后正式定都洛阳。"
+  },
+  {
+    "id": "sanguo-055",
+    "category": "sanguo",
+    "difficulty": "medium",
+    "question": "官渡之战中，曹操奇袭并焚毁袁绍囤粮基地而奠定胜局，该基地位于？",
+    "options": [
+      "白马",
+      "街亭",
+      "乌巢",
+      "阳平"
+    ],
+    "correctAnswer": 2,
+    "explanation": "200年曹操采纳许攸之计，亲率精骑夜袭乌巢，焚毁袁绍粮草辎重，袁军军心大乱而溃败。"
+  },
+  {
+    "id": "sanguo-056",
+    "category": "sanguo",
+    "difficulty": "medium",
+    "question": "'白衣渡江'袭取荆州、使关羽败走麦城的主将是哪位吴将？",
+    "options": [
+      "陆逊",
+      "甘宁",
+      "周瑜",
+      "吕蒙"
+    ],
+    "correctAnswer": 3,
+    "explanation": "219年吕蒙让精兵伪装成商旅白衣渡江，奇袭南郡荆州，关羽腹背受敌，败走麦城后为吴军擒杀。"
+  },
+  {
+    "id": "sanguo-057",
+    "category": "sanguo",
+    "difficulty": "medium",
+    "question": "公元249年'高平陵之变'中，司马懿诛除的曹魏宗室权臣是？",
+    "options": [
+      "曹植",
+      "曹真",
+      "曹爽",
+      "曹彰"
+    ],
+    "correctAnswer": 2,
+    "explanation": "249年司马懿趁曹爽随魏帝曹芳出谒高平陵之机发动政变，诛杀曹爽及其党羽，从此曹魏大权尽归司马氏。"
+  },
+  {
+    "id": "sanguo-058",
+    "category": "sanguo",
+    "difficulty": "medium",
+    "question": "'士别三日，当刮目相待'的典故，说的是孙权劝哪位吴国将领读书成才？",
+    "options": [
+      "吕蒙",
+      "周瑜",
+      "陆逊",
+      "甘宁"
+    ],
+    "correctAnswer": 0,
+    "explanation": "孙权劝吕蒙、蒋钦多读书，吕蒙发愤苦学，鲁肃再见时惊叹他'非复吴下阿蒙'，吕蒙答'士别三日，即更刮目相待'。"
+  },
+  {
+    "id": "sanguo-059",
+    "category": "sanguo",
+    "difficulty": "medium",
+    "question": "刘备于成都称帝后，其政权正式的国号是？",
+    "options": [
+      "蜀",
+      "汉",
+      "蜀汉",
+      "汉中"
+    ],
+    "correctAnswer": 1,
+    "explanation": "刘备以续承汉统自居，国号仍为'汉'（史称蜀汉、季汉）；'蜀'是《三国志》等后世史书及曹魏方面的称呼。"
+  },
+  {
+    "id": "sanguo-060",
+    "category": "sanguo",
+    "difficulty": "hard",
+    "question": "关于'空城计'的情节，下列说法符合史实的是？",
+    "options": [
+      "出自《三国演义》的虚构创作，正史并无依据",
+      "确有其事，见于《三国志·诸葛亮传》",
+      "确有其事，见于《三国志·司马懿传》",
+      "为曹操在官渡之战时所用之计"
+    ],
+    "correctAnswer": 0,
+    "explanation": "诸葛亮以空城吓退司马懿出自《三国演义》，《三国志》正文及裴松之注均无记载，属演义虚构情节。"
+  },
+  {
+    "id": "sanguo-061",
+    "category": "sanguo",
+    "difficulty": "hard",
+    "question": "关于关羽'刮骨疗毒'，下列说法符合正史的是？",
+    "options": [
+      "正史确载其事，施术者正是神医华佗",
+      "属《三国演义》虚构，正史并无记载",
+      "正史确载其事，但施术医者并非华佗",
+      "据正史，关羽中箭后从未医治"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《三国志·关羽传》确有'刮骨去毒'的记载，但未记医者姓名；华佗约在208年前已被曹操处死，而关羽刮骨在214年之后，故施术者不可能是华佗。"
+  },
+  {
+    "id": "sanguo-062",
+    "category": "sanguo",
+    "difficulty": "hard",
+    "question": "正史中219年关羽'水淹七军'、擒于禁斩庞德的真相是？",
+    "options": [
+      "关羽于上游筑坝蓄水，决堤灌淹魏军",
+      "正值秋季大雨，汉水暴涨，于禁七军尽没",
+      "庞德临阵倒戈，于禁孤立无援所致",
+      "关羽先以火攻焚魏军水寨再引水淹之"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《三国志·关羽传》载'秋，大霖雨，汉水泛溢'，于禁七军被淹而降；筑坝放水是《三国演义》的渲染。"
   }
 ]
