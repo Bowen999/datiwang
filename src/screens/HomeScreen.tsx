@@ -5,6 +5,24 @@ import { NeoBadge, NeoCard } from '../components/ui/NeoCard';
 import type { GameSettings } from '../types/game';
 import { randomNickname } from '../utils/random';
 
+/** 本地存储读写封装：iOS Safari 隐私模式 / 应用内浏览器（微信等）/ ITP 限制下
+ *  读写会抛 SecurityError/QuotaExceededError，吞掉后降级为内存态，避免整个应用白屏。 */
+function loadName(): string {
+  try {
+    return localStorage.getItem('datiwang:name') || '';
+  } catch {
+    return '';
+  }
+}
+
+function saveName(name: string) {
+  try {
+    localStorage.setItem('datiwang:name', name);
+  } catch {
+    /* 隐私模式等场景写不进去，忽略即可 */
+  }
+}
+
 interface HomeScreenProps {
   connecting: boolean;
   error: string | null;
@@ -23,12 +41,12 @@ export const DEFAULT_SETTINGS: GameSettings = {
 };
 
 export function HomeScreen({ connecting, error, mode, initialCode, onCreate, onJoin }: HomeScreenProps) {
-  const [name, setName] = useState(() => localStorage.getItem('datiwang:name') || randomNickname());
+  const [name, setName] = useState(() => loadName() || randomNickname());
   const [code, setCode] = useState(initialCode);
   const [tab, setTab] = useState<'join' | 'create'>(initialCode ? 'join' : 'create');
 
   useEffect(() => {
-    localStorage.setItem('datiwang:name', name);
+    saveName(name);
   }, [name]);
 
   const validName = name.trim().length > 0;

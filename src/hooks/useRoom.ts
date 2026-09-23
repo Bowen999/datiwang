@@ -11,6 +11,7 @@ import {
 } from '../game/gameLogic';
 import { questionService } from '../services/QuestionService';
 import { createRealtimeService, isSupabaseConfigured } from '../services/realtime';
+import { visitStats } from '../services/stats';
 import type { RealtimeService } from '../services/realtime/types';
 import type {
   CategoryMeta,
@@ -101,6 +102,10 @@ export function useRoom() {
   const kickedRef = useRef(false);
   /** 被踢前的个人信息，用于申请重新加入 */
   const selfPlayerRef = useRef<Pick<Player, 'id' | 'name' | 'avatar' | 'color'> | null>(null);
+  /** 答题统计去重：每道题只上报一次自己的作答结果 */
+  const answerTrackedRef = useRef('');
+  /** 结算统计去重：每局只上报一次 game_end */
+  const gameEndTrackedRef = useRef('');
 
   const isHost = room != null && room.hostId === selfId;
   const now = useCallback(() => Date.now() + clockOffsetRef.current, []);
@@ -489,6 +494,35 @@ export function useRoom() {
     setMyAnswer(null);
   }, [room?.round, room?.phase === 'question' ? room.activeQuestion?.id : null]);
 
+  // 访问统计：揭晓阶段上报自己的作答结果（每道题一次，去重）
+  useEffect(() => {
+    const st = room;
+    if (!st || st.phase !== 'reveal' || !st.reveal || !st.activeQuestion) return;
+    const mine = st.reveal.results.find((r) => r.playerId === selfId);
+    if (!mine) return;
+    const key = `${st.code}:${st.round}:${st.activeQuestion.id}`;
+    if (answerTrackedRef.current === key) return;
+    answerTrackedRef.current = key;
+    visitStats.track('question_answered', {
+      correct: mine.correct,
+      category: st.activeQuestion.category,
+      kind: st.activeQuestion.kind,
+    });
+  }, [room, selfId]);
+
+  // 访问统计：进入结算页时上报一局结束（每局一次，去重）
+  useEffect(() => {
+    const st = room;
+    if (!st || st.phase !== 'final') return;
+    const gameId = `${st.code}#${st.questionIds.join(',')}`;
+    if (gameEndTrackedRef.current === gameId) return;
+    gameEndTrackedRef.current = gameId;
+    visitStats.track('game_end', {
+      players: st.players.length,
+      rounds: st.totalRounds,
+    });
+  }, [room]);
+
   // 房主专用：大厅清理长时间掉线的幽灵玩家（关标签页/断网遗留的残留会显示为「离线」）
   useEffect(() => {
     if (!isHost || !room || room.phase !== 'lobby') return;
@@ -557,6 +591,7 @@ export function useRoom() {
           joinedAt: Date.now(),
         };
         applyRoom(createRoomState(code, randomRoomName(), host, settings, Date.now()));
+        visitStats.track('create_room', {});
       } catch (e) {
         setError(e instanceof Error ? e.message : '创建房间失败');
       } finally {
@@ -599,6 +634,8 @@ export function useRoom() {
           service.disconnect();
           serviceRef.current = null;
           setError(result === 'rejected' ? '该昵称已被使用，请换个名字再试' : '找不到这个房间，检查一下房间码？');
+        } else {
+          visitStats.track('join_room', {});
         }
       } catch (e) {
         setError(e instanceof Error ? e.message : '加入房间失败');
@@ -696,6 +733,11 @@ export function useRoom() {
       answersRef.current = new Map();
       const next = startCountdown(st, shuffled.map((q) => q.id), Date.now());
       publish({ ...next, usedQuestionIds: [...st.usedQuestionIds, ...next.questionIds] });
+      visitStats.track('game_start', {
+        players: st.players.filter((p) => p.connected || p.isHost).length || st.players.length,
+        categoryCount: st.settings.categories.length,
+        rounds: shuffled.length,
+      });
     } catch {
       pushNotice('题库加载失败，请重试', '⚠️');
     }
