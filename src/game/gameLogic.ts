@@ -7,6 +7,7 @@ import type {
   QuizQuestion,
   RoomState,
 } from '../types/game';
+import { shuffle } from '../utils/random';
 import { rankingRatio, scoreAnswer, scoreRankingAnswer } from './scoring';
 
 export const COUNTDOWN_MS = 3200;
@@ -31,7 +32,7 @@ export function toPublicQuestion(q: QuizQuestion): PublicQuestion {
 
 /** 打乱选项顺序并同步修正答案，让同一题每次出现的选项排列都不同 */
 export function shuffleQuestionOptions(q: QuizQuestion): QuizQuestion {
-  const order = q.options.map((_, i) => i).sort(() => Math.random() - 0.5);
+  const order = shuffle(q.options.map((_, i) => i));
   if (q.kind === 'ranking') {
     // 排序题：洗牌后同步重映射正确排名中的选项下标
     const oldToNew: number[] = new Array(order.length);

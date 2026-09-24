@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc --noEmit && vite build",
-    "preview": "vite preview --host"
+    "preview": "vite preview --host",
+    "sim:sampler": "esbuild scripts/sampler-sim.ts --bundle --platform=node --format=esm '--define:import.meta.env={}' --log-level=warning --outfile=node_modules/.cache/sampler-sim.mjs && node node_modules/.cache/sampler-sim.mjs"
   },
   "dependencies": {
     "@dicebear/collection": "^9.4.2",

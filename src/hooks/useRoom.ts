@@ -524,6 +524,13 @@ export function useRoom() {
     });
   }, [room]);
 
+  // 看图题：开局时各端提前把本局配图拉进浏览器缓存，避免到了答题时才开始下载
+  const preloadKey = room?.preloadImages?.join('|') ?? '';
+  useEffect(() => {
+    if (!preloadKey) return;
+    for (const src of preloadKey.split('|')) new Image().src = src;
+  }, [preloadKey]);
+
   // 房主专用：大厅清理长时间掉线的幽灵玩家（关标签页/断网遗留的残留会显示为「离线」）
   useEffect(() => {
     if (!isHost || !room || room.phase !== 'lobby') return;
@@ -733,7 +740,11 @@ export function useRoom() {
       hostQuestionsRef.current = new Map(shuffled.map((q) => [q.id, q]));
       answersRef.current = new Map();
       const next = startCountdown(st, shuffled.map((q) => q.id), Date.now());
-      publish({ ...next, usedQuestionIds: [...st.usedQuestionIds, ...next.questionIds] });
+      publish({
+        ...next,
+        usedQuestionIds: [...st.usedQuestionIds, ...next.questionIds],
+        preloadImages: shuffled.map((q) => q.image).filter((src): src is string => !!src),
+      });
       visitStats.track('game_start', {
         players: st.players.filter((p) => p.connected || p.isHost).length || st.players.length,
         categoryCount: st.settings.categories.length,

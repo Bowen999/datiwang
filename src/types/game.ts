@@ -12,6 +12,12 @@ interface QuestionBase {
   question: string;
   options: string[];
   explanation?: string;
+  /** 分类内的子主题（如「三国」），抽题时同一 topic 的题数按期望分层，避免扎堆 */
+  topic?: string;
+  /** 看图题的配图（站内路径，如 /questions/images/pic-art-01.jpg） */
+  image?: string;
+  /** 配图署名（作者/许可证/来源），揭晓答案时显示 */
+  imageCredit?: string;
 }
 
 /** 选择题：选项 + 正确下标 */
@@ -126,6 +132,8 @@ export interface RoomState {
   questionIds: string[];
   /** 本房间历史上已出过的题目 id（跨多局累计，防重复） */
   usedQuestionIds: string[];
+  /** 本局看图题的图片地址，开局时下发，各端提前预加载以免答题时才开始下载 */
+  preloadImages?: string[];
   /** 被房主移出房间的玩家 id（房间存续期内禁止直接加入） */
   kickedIds?: string[];
   /** 被踢玩家的重新加入申请（待房主审批） */

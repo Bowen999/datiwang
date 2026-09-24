@@ -2,6 +2,7 @@ import type { CategoryMeta, Difficulty, QuestionKind, QuizQuestion, RankChart } 
 import { shuffle } from '../utils/random';
 import { buildChartQuestion, chartQuestionId, parseChartQuestionId } from '../game/charts';
 import { questionFrequencyService } from './QuestionFrequencyService';
+import { CHART_SHARE, chartFrequency, chartHistory, chartKey, sampleBalanced } from './sampling';
 
 /**
  * 题目数据源接口。
@@ -87,7 +88,7 @@ export class QuestionService {
     return this.chartCache;
   }
 
-  /** 随机抽取题目（含排行榜动态排序题） */
+  /** 随机抽取题目（含排行榜动态排序题）：按分类/topic 分层抽样，层内按全局出镜频率降权 */
   async getQuestions(opts: GetQuestionsOptions): Promise<QuizQuestion[]> {
     const { categories, difficulty = 'mixed', questionTypes = [], count, excludeIds = [] } = opts;
     const allCats = (await this.listCategories()).map((c) => c.id);
@@ -96,63 +97,63 @@ export class QuestionService {
     let all = pools.flat();
     if (difficulty !== 'mixed') all = all.filter((q) => q.difficulty === difficulty);
     if (questionTypes.length > 0) all = all.filter((q) => questionTypes.includes(q.kind));
-    const excluded = new Set(excludeIds);
-    const fresh = all.filter((q) => !excluded.has(q.id));
-    const pool = fresh.length >= count ? fresh : all; // 不够时允许重复利用
+    const freq = await questionFrequencyService.getFrequencyMap();
 
-    // ---- 排行榜动态排序题：开启排序题时注入 ----
-    // 仅当题型含排序 且 分类含「排名题」（或未限定分类=全部）时生成，
+    // 动态榜单题：题型含排序 且 分类含「排名题」（或未限定分类=全部）时才生成，
     // 与静态排序题共用同一个分类开关，行为一致。
     const rankingWanted = questionTypes.length === 0 || questionTypes.includes('ranking');
-    const rankingCat = cats.includes('ranking');
     const rankingOnly = questionTypes.length === 1 && questionTypes[0] === 'ranking';
-    const dynamic: QuizQuestion[] = [];
+    const charts =
+      rankingWanted && cats.includes('ranking') && count > 0
+        ? (await this.getCharts()).filter((c) => difficulty === 'mixed' || c.difficulty === difficulty)
+        : [];
 
-    if (rankingWanted && rankingCat && count > 0) {
-      const charts = (await this.getCharts()).filter(
-        (c) => difficulty === 'mixed' || c.difficulty === difficulty,
-      );
-      // 图表题数量：约占半局（纯排序局保证出现），双上限避免小图表场景刷屏
-      const nChart = Math.min(charts.length, Math.max(1, Math.round(count / 2)));
-      for (const chart of shuffle(charts).slice(0, nChart)) {
-        let sampleId = randomChartSampleId();
-        let id = chartQuestionId(chart.id, sampleId);
-        for (let tries = 0; tries < 40 && excluded.has(id); tries++) {
-          sampleId = randomChartSampleId();
-          id = chartQuestionId(chart.id, sampleId);
-        }
-        excluded.add(id);
-        dynamic.push(buildChartQuestion(chart, sampleId));
+    let picked: QuizQuestion[];
+    let nChart = 0;
+    if (charts.length > 0 && rankingOnly) {
+      // 纯排序局：榜单题占半局，其余从静态排序题补满
+      nChart = Math.min(charts.length, Math.max(1, Math.round(count * CHART_SHARE)));
+      picked = sampleBalanced(all, { count: count - nChart, history: excludeIds, freq });
+    } else {
+      picked = sampleBalanced(all, { count, history: excludeIds, freq });
+      if (charts.length > 0) {
+        // 混合局：抽中的每个排名题名额有 CHART_SHARE 的概率换成榜单题，榜单题量跟着分类配额走
+        const slots = picked.filter((q) => q.category === 'ranking');
+        nChart = Math.min(charts.length, slots.filter(() => Math.random() < CHART_SHARE).length);
+        const dropped = new Set(shuffle(slots).slice(0, nChart));
+        picked = picked.filter((q) => !dropped.has(q));
       }
     }
 
-    if (dynamic.length === 0) return this.pickWeighted(pool, count);
-
-    if (rankingOnly) {
-      // 纯排序局：排行榜动态题占一半,其余从静态排序题补满
-      const needStatic = Math.max(0, count - dynamic.length);
-      const staticRank = await this.pickWeighted(pool.filter((q) => q.kind === 'ranking'), needStatic);
-      return shuffle([...staticRank, ...dynamic]).slice(0, count);
-    }
-    // 混合局：榜单动态题混入静态池随机抽取
-    const staticPool = await this.pickWeighted(pool, Math.max(0, count - dynamic.length));
-    return shuffle([...staticPool, ...dynamic]).slice(0, count);
+    const dynamic = this.pickChartQuestions(charts, nChart, excludeIds, freq);
+    return shuffle([...picked, ...dynamic]).slice(0, count);
   }
 
-  /**
-   * 按全局出镜频率加权抽题：
-   * 优先选择被出过次数少的题目，同时保留一定随机性。
-   */
-  private async pickWeighted(pool: QuizQuestion[], count: number): Promise<QuizQuestion[]> {
-    if (pool.length <= count) return shuffle(pool);
-    const freq = await questionFrequencyService.getFrequencyMap();
-    const scored = pool.map((q) => ({ q, score: freq.get(q.id) ?? 0, rand: Math.random() }));
-    // 出镜次数少的排在前面；次数相同则随机打乱
-    scored.sort((a, b) => a.score - b.score || a.rand - b.rand);
-    // 取前 count*3（或全部）作为候选池，再随机抽取，避免结果过于固定
-    const oversample = Math.min(pool.length, Math.max(count * 3, count + 10));
-    const candidates = scored.slice(0, oversample).map((s) => s.q);
-    return shuffle(candidates).slice(0, count);
+  /** 先按榜单级历史/频率选出 n 张榜单，再为每张随机取样（尽量避开本房间出过的样本） */
+  private pickChartQuestions(
+    charts: RankChart[],
+    n: number,
+    excludeIds: readonly string[],
+    freq: ReadonlyMap<string, number>,
+  ): QuizQuestion[] {
+    if (n <= 0 || charts.length === 0) return [];
+    const candidates = charts.map((chart) => ({ id: chartKey(chart.id), category: 'chart', chart }));
+    const chosen = sampleBalanced(candidates, {
+      count: n,
+      history: chartHistory(excludeIds),
+      freq: chartFrequency(freq),
+    });
+    const excluded = new Set(excludeIds);
+    return chosen.map(({ chart }) => {
+      let sampleId = randomChartSampleId();
+      let id = chartQuestionId(chart.id, sampleId);
+      for (let tries = 0; tries < 40 && excluded.has(id); tries++) {
+        sampleId = randomChartSampleId();
+        id = chartQuestionId(chart.id, sampleId);
+      }
+      excluded.add(id);
+      return buildChartQuestion(chart, sampleId);
+    });
   }
 
   /** 按 id 批量取回完整题目（房主迁移时用于重建题目数据，含排行榜动态题重建） */
