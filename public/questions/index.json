@@ -87,6 +87,10 @@
     {
       "id": "philosophy",
       "name": "诸子百家"
+    },
+    {
+      "id": "examscope",
+      "name": "考题范围"
     }
   ]
 }

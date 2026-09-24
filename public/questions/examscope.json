@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "examscope-001",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "十天干的正确排列顺序是？",
+    "options": [
+      "子丑寅卯辰巳午未申酉戌亥",
+      "甲丙戊庚壬乙丁己辛癸",
+      "甲乙丙丁戊己庚辛壬癸",
+      "甲乙丙丁戊己庚辛癸壬"
+    ],
+    "correctAnswer": 2,
+    "explanation": "十天干依次为甲、乙、丙、丁、戊、己、庚、辛、壬、癸。"
+  },
+  {
+    "id": "examscope-002",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "以下哪组天干五行属木？",
+    "options": [
+      "壬癸",
+      "甲乙",
+      "丙丁",
+      "庚辛"
+    ],
+    "correctAnswer": 1,
+    "explanation": "甲乙属木，丙丁属火，戊己属土，庚辛属金，壬癸属水。"
+  },
+  {
+    "id": "examscope-003",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "天干丙、丁的五行属性是？",
+    "options": [
+      "火",
+      "土",
+      "木",
+      "金"
+    ],
+    "correctAnswer": 0,
+    "explanation": "丙丁属火，丙为阳火，丁为阴火。"
+  },
+  {
+    "id": "examscope-004",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "天干戊、己的五行属性是？",
+    "options": [
+      "金",
+      "水",
+      "土",
+      "火"
+    ],
+    "correctAnswer": 2,
+    "explanation": "戊己属土，戊为阳土，己为阴土。"
+  },
+  {
+    "id": "examscope-005",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "天干庚、辛的五行属性是？",
+    "options": [
+      "水",
+      "火",
+      "木",
+      "金"
+    ],
+    "correctAnswer": 3,
+    "explanation": "庚辛属金，庚为阳金，辛为阴金。"
+  },
+  {
+    "id": "examscope-006",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "天干壬、癸的五行属性是？",
+    "options": [
+      "金",
+      "水",
+      "火",
+      "土"
+    ],
+    "correctAnswer": 1,
+    "explanation": "壬癸属水，壬为阳水，癸为阴水。"
+  },
+  {
+    "id": "examscope-007",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "下列哪组天干全部是阳干？",
+    "options": [
+      "甲丙戊庚壬",
+      "庚辛壬癸甲",
+      "甲乙丙丁戊",
+      "乙丁己辛癸"
+    ],
+    "correctAnswer": 0,
+    "explanation": "阳干为甲、丙、戊、庚、壬；阴干为乙、丁、己、辛、癸。"
+  },
+  {
+    "id": "examscope-008",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "下列哪组天干全部是阴干？",
+    "options": [
+      "乙丁己辛癸",
+      "甲乙庚辛壬",
+      "甲丙戊庚壬",
+      "丙丁戊己庚"
+    ],
+    "correctAnswer": 0,
+    "explanation": "阴干为乙、丁、己、辛、癸。"
+  },
+  {
+    "id": "examscope-009",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "天干“甲”的阴阳五行是？",
+    "options": [
+      "阳木",
+      "阴木",
+      "阳火",
+      "阴土"
+    ],
+    "correctAnswer": 0,
+    "explanation": "甲为阳木，如参天大木。"
+  },
+  {
+    "id": "examscope-010",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "天干“癸”的阴阳五行是？",
+    "options": [
+      "阴木",
+      "阳水",
+      "阳土",
+      "阴水"
+    ],
+    "correctAnswer": 3,
+    "explanation": "癸为阴水，如雨露甘霖。"
+  },
+  {
+    "id": "examscope-011",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "十天干中，排在“庚”后面的是？",
+    "options": [
+      "戊",
+      "辛",
+      "己",
+      "壬"
+    ],
+    "correctAnswer": 1,
+    "explanation": "庚之后是辛，再后是壬、癸。"
+  },
+  {
+    "id": "examscope-012",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "十天干中，排序第五的是？",
+    "options": [
+      "丁",
+      "丙",
+      "己",
+      "戊"
+    ],
+    "correctAnswer": 3,
+    "explanation": "甲一、乙二、丙三、丁四、戊五。"
+  },
+  {
+    "id": "examscope-013",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "十二地支的正确排列顺序是？",
+    "options": [
+      "寅卯辰巳午未申酉戌亥子丑",
+      "甲乙丙丁戊己庚辛壬癸子丑",
+      "子丑寅卯辰巳午未申酉戌亥",
+      "子寅辰午申戌丑卯巳未酉亥"
+    ],
+    "correctAnswer": 2,
+    "explanation": "十二地支依次为子丑寅卯辰巳午未申酉戌亥。"
+  },
+  {
+    "id": "examscope-014",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "以下哪组地支五行属木？",
+    "options": [
+      "巳午",
+      "寅卯",
+      "申酉",
+      "亥子"
+    ],
+    "correctAnswer": 1,
+    "explanation": "寅卯属木，巳午属火，申酉属金，亥子属水，辰戌丑未属土。"
+  },
+  {
+    "id": "examscope-015",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "以下哪组地支五行属火？",
+    "options": [
+      "巳午",
+      "丑未",
+      "辰戌",
+      "寅卯"
+    ],
+    "correctAnswer": 0,
+    "explanation": "巳午属火。"
+  },
+  {
+    "id": "examscope-016",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "以下哪组地支五行属金？",
+    "options": [
+      "申酉",
+      "寅卯",
+      "巳午",
+      "亥子"
+    ],
+    "correctAnswer": 0,
+    "explanation": "申酉属金。"
+  },
+  {
+    "id": "examscope-017",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "以下哪组地支五行属水？",
+    "options": [
+      "辰戌丑未",
+      "申酉戌",
+      "亥子",
+      "巳午未"
+    ],
+    "correctAnswer": 2,
+    "explanation": "亥子属水。"
+  },
+  {
+    "id": "examscope-018",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "被称为“四库”（四墓库）的地支是？",
+    "options": [
+      "亥卯未巳",
+      "辰戌丑未",
+      "寅申巳亥",
+      "子午卯酉"
+    ],
+    "correctAnswer": 1,
+    "explanation": "辰戌丑未为四库，分别收藏木火金水之余气。"
+  },
+  {
+    "id": "examscope-019",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "下列哪组地支全部是阳支？",
+    "options": [
+      "寅卯辰巳午未",
+      "子寅辰午申戌",
+      "子丑寅卯辰巳",
+      "丑卯巳未酉亥"
+    ],
+    "correctAnswer": 1,
+    "explanation": "阳支为子、寅、辰、午、申、戌；阴支为丑、卯、巳、未、酉、亥。"
+  },
+  {
+    "id": "examscope-020",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "地支“辰”的五行属性是？",
+    "options": [
+      "水",
+      "木",
+      "火",
+      "土"
+    ],
+    "correctAnswer": 3,
+    "explanation": "辰为阳土，是水库。"
+  },
+  {
+    "id": "examscope-021",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "现代计时中，“子时”对应的是？",
+    "options": [
+      "1:00–3:00",
+      "23:00–次日1:00",
+      "19:00–21:00",
+      "11:00–13:00"
+    ],
+    "correctAnswer": 1,
+    "explanation": "子时为23:00至次日1:00，是一天的开始。"
+  },
+  {
+    "id": "examscope-022",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "古代一天划分为几个时辰？",
+    "options": [
+      "24个",
+      "8个",
+      "10个",
+      "12个"
+    ],
+    "correctAnswer": 3,
+    "explanation": "一日十二时辰，与十二地支对应。"
+  },
+  {
+    "id": "examscope-023",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "一个时辰相当于现代时间的？",
+    "options": [
+      "半小时",
+      "2小时",
+      "4小时",
+      "1小时"
+    ],
+    "correctAnswer": 1,
+    "explanation": "每个时辰为2小时。"
+  },
+  {
+    "id": "examscope-024",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "十二地支中，排在“酉”后面的是？",
+    "options": [
+      "申",
+      "戌",
+      "亥",
+      "未"
+    ],
+    "correctAnswer": 1,
+    "explanation": "酉之后是戌，再后是亥。"
+  },
+  {
+    "id": "examscope-025",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "五行相生中，木生？",
+    "options": [
+      "金",
+      "水",
+      "火",
+      "土"
+    ],
+    "correctAnswer": 2,
+    "explanation": "木生火，火生土，土生金，金生水，水生木。"
+  },
+  {
+    "id": "examscope-026",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "五行相生中，土生？",
+    "options": [
+      "火",
+      "金",
+      "水",
+      "木"
+    ],
+    "correctAnswer": 1,
+    "explanation": "土生金。"
+  },
+  {
+    "id": "examscope-027",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "五行相克中，金克？",
+    "options": [
+      "水",
+      "土",
+      "木",
+      "火"
+    ],
+    "correctAnswer": 2,
+    "explanation": "金克木，木克土，土克水，水克火，火克金。"
+  },
+  {
+    "id": "examscope-028",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "五行相克中，水克？",
+    "options": [
+      "土",
+      "火",
+      "木",
+      "金"
+    ],
+    "correctAnswer": 1,
+    "explanation": "水克火。"
+  },
+  {
+    "id": "examscope-029",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "五行相克中，木克？",
+    "options": [
+      "火",
+      "金",
+      "水",
+      "土"
+    ],
+    "correctAnswer": 3,
+    "explanation": "木克土。"
+  },
+  {
+    "id": "examscope-030",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "五行相克中，火克？",
+    "options": [
+      "土",
+      "金",
+      "木",
+      "水"
+    ],
+    "correctAnswer": 1,
+    "explanation": "火克金。"
+  },
+  {
+    "id": "examscope-031",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "天干五合中，“甲己”合化为？",
+    "options": [
+      "木",
+      "水",
+      "金",
+      "土"
+    ],
+    "correctAnswer": 3,
+    "explanation": "甲己合化土。"
+  },
+  {
+    "id": "examscope-032",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "天干五合中，“乙庚”合化为？",
+    "options": [
+      "火",
+      "金",
+      "水",
+      "土"
+    ],
+    "correctAnswer": 1,
+    "explanation": "乙庚合化金。"
+  },
+  {
+    "id": "examscope-033",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "天干五合中，“丙辛”合化为？",
+    "options": [
+      "火",
+      "土",
+      "木",
+      "水"
+    ],
+    "correctAnswer": 3,
+    "explanation": "丙辛合化水。"
+  },
+  {
+    "id": "examscope-034",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "天干五合中，“丁壬”合化为？",
+    "options": [
+      "金",
+      "火",
+      "土",
+      "木"
+    ],
+    "correctAnswer": 3,
+    "explanation": "丁壬合化木。"
+  },
+  {
+    "id": "examscope-035",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "天干五合中，“戊癸”合化为？",
+    "options": [
+      "土",
+      "水",
+      "火",
+      "木"
+    ],
+    "correctAnswer": 2,
+    "explanation": "戊癸合化火。"
+  },
+  {
+    "id": "examscope-036",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "地支六合中，“子丑”合化为？",
+    "options": [
+      "木",
+      "水",
+      "火",
+      "土"
+    ],
+    "correctAnswer": 3,
+    "explanation": "子丑合化土。"
+  },
+  {
+    "id": "examscope-037",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "地支六合中，“寅亥”合化为？",
+    "options": [
+      "金",
+      "土",
+      "木",
+      "火"
+    ],
+    "correctAnswer": 2,
+    "explanation": "寅亥合化木。"
+  },
+  {
+    "id": "examscope-038",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "地支六合中，“卯戌”合化为？",
+    "options": [
+      "水",
+      "木",
+      "火",
+      "金"
+    ],
+    "correctAnswer": 2,
+    "explanation": "卯戌合化火。"
+  },
+  {
+    "id": "examscope-039",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "地支六合中，“辰酉”合化为？",
+    "options": [
+      "木",
+      "水",
+      "金",
+      "土"
+    ],
+    "correctAnswer": 2,
+    "explanation": "辰酉合化金。"
+  },
+  {
+    "id": "examscope-040",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "地支六合中，“巳申”合化为？",
+    "options": [
+      "火",
+      "水",
+      "木",
+      "金"
+    ],
+    "correctAnswer": 1,
+    "explanation": "巳申合化水。"
+  },
+  {
+    "id": "examscope-041",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "地支六合中，“午未”合化为？",
+    "options": [
+      "金",
+      "水",
+      "火",
+      "土"
+    ],
+    "correctAnswer": 3,
+    "explanation": "午未合化土。"
+  },
+  {
+    "id": "examscope-042",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "“申子辰”三合化为？",
+    "options": [
+      "火局",
+      "金局",
+      "水局",
+      "木局"
+    ],
+    "correctAnswer": 2,
+    "explanation": "申子辰合水局，子为中神。"
+  },
+  {
+    "id": "examscope-043",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "“亥卯未”三合化为？",
+    "options": [
+      "木局",
+      "火局",
+      "水局",
+      "土局"
+    ],
+    "correctAnswer": 0,
+    "explanation": "亥卯未合木局，卯为中神。"
+  },
+  {
+    "id": "examscope-044",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "“寅午戌”三合化为？",
+    "options": [
+      "火局",
+      "金局",
+      "木局",
+      "水局"
+    ],
+    "correctAnswer": 0,
+    "explanation": "寅午戌合火局，午为中神。"
+  },
+  {
+    "id": "examscope-045",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "“巳酉丑”三合化为？",
+    "options": [
+      "水局",
+      "木局",
+      "金局",
+      "火局"
+    ],
+    "correctAnswer": 2,
+    "explanation": "巳酉丑合金局，酉为中神。"
+  },
+  {
+    "id": "examscope-046",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "“寅卯辰”三会为？",
+    "options": [
+      "火局",
+      "金局",
+      "水局",
+      "木局"
+    ],
+    "correctAnswer": 3,
+    "explanation": "寅卯辰会东方木局。"
+  },
+  {
+    "id": "examscope-047",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "“巳午未”三会为？",
+    "options": [
+      "火局",
+      "金局",
+      "水局",
+      "木局"
+    ],
+    "correctAnswer": 0,
+    "explanation": "巳午未会南方火局。"
+  },
+  {
+    "id": "examscope-048",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "三会局与三合局相比，一般认为力量？",
+    "options": [
+      "三合局更大",
+      "两者相等",
+      "三会局更大",
+      "无法比较"
+    ],
+    "correctAnswer": 2,
+    "explanation": "三会局为一方之气汇聚，力量大于三合局。"
+  },
+  {
+    "id": "examscope-049",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "地支六冲中，与“子”相冲的是？",
+    "options": [
+      "未",
+      "亥",
+      "午",
+      "丑"
+    ],
+    "correctAnswer": 2,
+    "explanation": "子午相冲。"
+  },
+  {
+    "id": "examscope-050",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "地支六冲中，与“寅”相冲的是？",
+    "options": [
+      "申",
+      "卯",
+      "亥",
+      "巳"
+    ],
+    "correctAnswer": 0,
+    "explanation": "寅申相冲。"
+  },
+  {
+    "id": "examscope-051",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "地支六冲中，与“卯”相冲的是？",
+    "options": [
+      "辰",
+      "酉",
+      "戌",
+      "子"
+    ],
+    "correctAnswer": 1,
+    "explanation": "卯酉相冲。"
+  },
+  {
+    "id": "examscope-052",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "地支六冲中，与“辰”相冲的是？",
+    "options": [
+      "丑",
+      "卯",
+      "戌",
+      "未"
+    ],
+    "correctAnswer": 2,
+    "explanation": "辰戌相冲。"
+  },
+  {
+    "id": "examscope-053",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "地支六冲中，与“巳”相冲的是？",
+    "options": [
+      "午",
+      "寅",
+      "亥",
+      "申"
+    ],
+    "correctAnswer": 2,
+    "explanation": "巳亥相冲。"
+  },
+  {
+    "id": "examscope-054",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "地支六冲中，与“丑”相冲的是？",
+    "options": [
+      "寅",
+      "未",
+      "午",
+      "子"
+    ],
+    "correctAnswer": 1,
+    "explanation": "丑未相冲。"
+  },
+  {
+    "id": "examscope-055",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "天干相冲中，与“甲”相冲的是？",
+    "options": [
+      "癸",
+      "壬",
+      "辛",
+      "庚"
+    ],
+    "correctAnswer": 3,
+    "explanation": "甲庚相冲，方位相对、五行相克。"
+  },
+  {
+    "id": "examscope-056",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "天干相冲中，与“丙”相冲的是？",
+    "options": [
+      "壬",
+      "乙",
+      "甲",
+      "癸"
+    ],
+    "correctAnswer": 0,
+    "explanation": "丙壬相冲。"
+  },
+  {
+    "id": "examscope-057",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "地支六害中，与“子”相害的是？",
+    "options": [
+      "丑",
+      "卯",
+      "未",
+      "午"
+    ],
+    "correctAnswer": 2,
+    "explanation": "子未相害。"
+  },
+  {
+    "id": "examscope-058",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "地支六害中，与“卯”相害的是？",
+    "options": [
+      "辰",
+      "戌",
+      "巳",
+      "子"
+    ],
+    "correctAnswer": 0,
+    "explanation": "卯辰相害。"
+  },
+  {
+    "id": "examscope-059",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "地支六害中，与“申”相害的是？",
+    "options": [
+      "酉",
+      "巳",
+      "亥",
+      "戌"
+    ],
+    "correctAnswer": 2,
+    "explanation": "申亥相害。"
+  },
+  {
+    "id": "examscope-060",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "“寅巳申”三刑被称为？",
+    "options": [
+      "无恩之刑",
+      "自刑",
+      "无礼之刑",
+      "持势之刑"
+    ],
+    "correctAnswer": 0,
+    "explanation": "寅巳申为无恩之刑，彼此相刑忘恩负义。"
+  },
+  {
+    "id": "examscope-061",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "“丑戌未”三刑被称为？",
+    "options": [
+      "无恩之刑",
+      "持势之刑",
+      "自刑",
+      "无礼之刑"
+    ],
+    "correctAnswer": 1,
+    "explanation": "丑戌未为持势之刑，恃势凌人。"
+  },
+  {
+    "id": "examscope-062",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "“子卯”相刑被称为？",
+    "options": [
+      "自刑",
+      "无恩之刑",
+      "持势之刑",
+      "无礼之刑"
+    ],
+    "correctAnswer": 3,
+    "explanation": "子卯相刑为无礼之刑。"
+  },
+  {
+    "id": "examscope-063",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "以下哪个地支会自刑？",
+    "options": [
+      "午",
+      "寅",
+      "子",
+      "卯"
+    ],
+    "correctAnswer": 0,
+    "explanation": "辰、午、酉、亥为自刑之支，如午见午自刑。"
+  },
+  {
+    "id": "examscope-064",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "“甲子、乙丑”的纳音五行是？",
+    "options": [
+      "炉中火",
+      "路旁土",
+      "海中金",
+      "大林木"
+    ],
+    "correctAnswer": 2,
+    "explanation": "甲子乙丑海中金，纳音共三十种。"
+  },
+  {
+    "id": "examscope-065",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "十神中，“生我者”称为？",
+    "options": [
+      "印星",
+      "财星",
+      "食伤",
+      "比劫"
+    ],
+    "correctAnswer": 0,
+    "explanation": "生我者为印星，分正印与偏印。"
+  },
+  {
+    "id": "examscope-066",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "十神中，“我生者”称为？",
+    "options": [
+      "印星",
+      "食伤",
+      "比劫",
+      "官杀"
+    ],
+    "correctAnswer": 1,
+    "explanation": "我生者为食伤，分食神与伤官。"
+  },
+  {
+    "id": "examscope-067",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "十神中，“克我者”称为？",
+    "options": [
+      "官杀",
+      "财星",
+      "印星",
+      "食伤"
+    ],
+    "correctAnswer": 0,
+    "explanation": "克我者为官杀，分正官与七杀（偏官）。"
+  },
+  {
+    "id": "examscope-068",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "十神中，“我克者”称为？",
+    "options": [
+      "比劫",
+      "官杀",
+      "印星",
+      "财星"
+    ],
+    "correctAnswer": 3,
+    "explanation": "我克者为财星，分正财与偏财。"
+  },
+  {
+    "id": "examscope-069",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "十神中，与日主五行相同者称为？",
+    "options": [
+      "官杀",
+      "食伤",
+      "财星",
+      "比劫"
+    ],
+    "correctAnswer": 3,
+    "explanation": "同我者为比劫，分比肩与劫财。"
+  },
+  {
+    "id": "examscope-070",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "日主为甲木，“癸水”是其什么十神？",
+    "options": [
+      "正印",
+      "正官",
+      "偏印",
+      "七杀"
+    ],
+    "correctAnswer": 0,
+    "explanation": "癸水生甲木，阴阳相异，故为正印。"
+  },
+  {
+    "id": "examscope-071",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "日主为甲木，“庚金”是其什么十神？",
+    "options": [
+      "七杀",
+      "偏财",
+      "正官",
+      "正财"
+    ],
+    "correctAnswer": 0,
+    "explanation": "庚金克甲木，阴阳相同，故为七杀（偏官）。"
+  },
+  {
+    "id": "examscope-072",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "日主为甲木，“辛金”是其什么十神？",
+    "options": [
+      "偏印",
+      "七杀",
+      "伤官",
+      "正官"
+    ],
+    "correctAnswer": 3,
+    "explanation": "辛金克甲木，阴阳相异，故为正官。"
+  },
+  {
+    "id": "examscope-073",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "日主为甲木，“丙火”是其什么十神？",
+    "options": [
+      "食神",
+      "正财",
+      "伤官",
+      "偏财"
+    ],
+    "correctAnswer": 0,
+    "explanation": "甲木生丙火，阴阳相同，故为食神。"
+  },
+  {
+    "id": "examscope-074",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "日主为甲木，“丁火”是其什么十神？",
+    "options": [
+      "偏印",
+      "正财",
+      "食神",
+      "伤官"
+    ],
+    "correctAnswer": 3,
+    "explanation": "甲木生丁火，阴阳相异，故为伤官。"
+  },
+  {
+    "id": "examscope-075",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "日主为甲木，“戊土”是其什么十神？",
+    "options": [
+      "正官",
+      "偏财",
+      "正财",
+      "七杀"
+    ],
+    "correctAnswer": 1,
+    "explanation": "甲木克戊土，阴阳相同，故为偏财。"
+  },
+  {
+    "id": "examscope-076",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "日主为甲木，“己土”是其什么十神？",
+    "options": [
+      "偏财",
+      "食神",
+      "伤官",
+      "正财"
+    ],
+    "correctAnswer": 3,
+    "explanation": "甲木克己土，阴阳相异，故为正财。"
+  },
+  {
+    "id": "examscope-077",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "日主为甲木，“乙木”是其什么十神？",
+    "options": [
+      "偏印",
+      "食神",
+      "比肩",
+      "劫财"
+    ],
+    "correctAnswer": 3,
+    "explanation": "乙木与甲木同为木，阴阳相同，故为劫财。"
+  },
+  {
+    "id": "examscope-078",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "女命通常以“正官”代表？",
+    "options": [
+      "丈夫",
+      "儿子",
+      "兄弟",
+      "父亲"
+    ],
+    "correctAnswer": 0,
+    "explanation": "女命以正官为夫，七杀为偏夫。"
+  },
+  {
+    "id": "examscope-079",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "男命通常以“正财”代表？",
+    "options": [
+      "女儿",
+      "妻子",
+      "朋友",
+      "母亲"
+    ],
+    "correctAnswer": 1,
+    "explanation": "男命以正财为妻，偏财为偏妻。"
+  },
+  {
+    "id": "examscope-080",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "“正印”在六亲中通常代表？",
+    "options": [
+      "子女",
+      "母亲",
+      "父亲",
+      "祖父"
+    ],
+    "correctAnswer": 1,
+    "explanation": "正印为生我者，代表母亲；偏财代表父亲。"
+  },
+  {
+    "id": "examscope-081",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "以月令本气取格，若月令本气为正官，则称为？",
+    "options": [
+      "建禄格",
+      "七杀格",
+      "正官格",
+      "正印格"
+    ],
+    "correctAnswer": 2,
+    "explanation": "月令本气是什么十神，就定为什么格局。"
+  },
+  {
+    "id": "examscope-082",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "日主身弱时，能生扶日主的印星一般被取为？",
+    "options": [
+      "用神",
+      "忌神",
+      "仇神",
+      "闲神"
+    ],
+    "correctAnswer": 0,
+    "explanation": "用神是对命局起好作用的五行，身弱则印比为用。"
+  },
+  {
+    "id": "examscope-083",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "对命局起好作用、最需要的那种五行称为？",
+    "options": [
+      "仇神",
+      "闲神",
+      "忌神",
+      "用神"
+    ],
+    "correctAnswer": 3,
+    "explanation": "用神为命局之药，对应起坏作用的为忌神。"
+  },
+  {
+    "id": "examscope-084",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "对命局起坏作用、需要制化的五行称为？",
+    "options": [
+      "喜神",
+      "闲神",
+      "用神",
+      "忌神"
+    ],
+    "correctAnswer": 3,
+    "explanation": "忌神为命局之病，需用神制化。"
+  },
+  {
+    "id": "examscope-085",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "“从格”成立的基本条件是？",
+    "options": [
+      "日主中和",
+      "印星重重",
+      "财官两旺",
+      "日主极旺或极弱而顺势"
+    ],
+    "correctAnswer": 3,
+    "explanation": "从格指日主极强或极弱、无依，只能顺势而从，如从财、从杀、从强。"
+  },
+  {
+    "id": "examscope-086",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "调候用神主要解决命局中哪方面的问题？",
+    "options": [
+      "空亡",
+      "刑冲合害",
+      "寒暖燥湿的失衡",
+      "十神混杂"
+    ],
+    "correctAnswer": 2,
+    "explanation": "调候即调整气候寒暖，如冬生需火调候。"
+  },
+  {
+    "id": "examscope-087",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "阳年出生的男命，大运如何排列？",
+    "options": [
+      "随机",
+      "顺行",
+      "逆行",
+      "先顺后逆"
+    ],
+    "correctAnswer": 1,
+    "explanation": "阳男阴女顺行，阴男阳女逆行，年干阴阳而定。"
+  },
+  {
+    "id": "examscope-088",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "阴年出生的女命，大运如何排列？",
+    "options": [
+      "先逆后顺",
+      "不变",
+      "逆行",
+      "顺行"
+    ],
+    "correctAnswer": 3,
+    "explanation": "阴女顺行，与阳男同。"
+  },
+  {
+    "id": "examscope-089",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "阴年出生的男命，大运如何排列？",
+    "options": [
+      "不动",
+      "逆行",
+      "顺行",
+      "跳行"
+    ],
+    "correctAnswer": 1,
+    "explanation": "阴男逆行。"
+  },
+  {
+    "id": "examscope-090",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "一步大运主管多少年？",
+    "options": [
+      "5年",
+      "1年",
+      "10年",
+      "12年"
+    ],
+    "correctAnswer": 2,
+    "explanation": "一步大运管十年。"
+  },
+  {
+    "id": "examscope-091",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "流年又被称为什么？",
+    "options": [
+      "太岁",
+      "命宫",
+      "大运",
+      "小运"
+    ],
+    "correctAnswer": 0,
+    "explanation": "流年即当年干支，又称太岁。"
+  },
+  {
+    "id": "examscope-092",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "排大运的顺逆依据什么确定？",
+    "options": [
+      "月干的阴阳",
+      "年干的阴阳",
+      "时干的阴阳",
+      "日干的阴阳"
+    ],
+    "correctAnswer": 1,
+    "explanation": "以年干阴阳定顺逆，阳顺阴逆再分男女。"
+  },
+  {
+    "id": "examscope-093",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "甲木日主的“天乙贵人”是？",
+    "options": [
+      "卯酉",
+      "寅午",
+      "丑未",
+      "子申"
+    ],
+    "correctAnswer": 2,
+    "explanation": "甲戊兼牛羊，甲日主天乙贵人在丑、未。"
+  },
+  {
+    "id": "examscope-094",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "“子、午、卯、酉”在神煞中被称为？",
+    "options": [
+      "桃花",
+      "华盖",
+      "将星",
+      "驿马"
+    ],
+    "correctAnswer": 0,
+    "explanation": "子午卯酉为四桃花，又称咸池。"
+  },
+  {
+    "id": "examscope-095",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "“申子辰”三合局的驿马在？",
+    "options": [
+      "巳",
+      "寅",
+      "亥",
+      "申"
+    ],
+    "correctAnswer": 1,
+    "explanation": "申子辰马在寅，寅午戌马在申，巳酉丑马在亥，亥卯未马在巳。"
+  },
+  {
+    "id": "examscope-096",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "下列哪组干支属于“魁罡”日？",
+    "options": [
+      "庚辰、庚戌、壬辰、戊戌",
+      "丙寅、丁卯",
+      "甲子、乙丑",
+      "壬申、癸酉"
+    ],
+    "correctAnswer": 0,
+    "explanation": "魁罡指庚辰、庚戌、壬辰、戊戌四日。"
+  },
+  {
+    "id": "examscope-097",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "甲木日主的“羊刃”在？",
+    "options": [
+      "辰",
+      "寅",
+      "巳",
+      "卯"
+    ],
+    "correctAnswer": 3,
+    "explanation": "甲禄在寅，刃在卯；羊刃为帝旺之位。"
+  },
+  {
+    "id": "examscope-098",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "“八字”由哪四柱组成？",
+    "options": [
+      "年柱、月柱、日柱、时柱",
+      "子丑寅卯",
+      "甲乙丙丁",
+      "金木水火土"
+    ],
+    "correctAnswer": 0,
+    "explanation": "八字即年、月、日、时四柱干支，共八个字。"
+  },
+  {
+    "id": "examscope-099",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "排八字时，月柱的划分依据是？",
+    "options": [
+      "农历初一",
+      "中气",
+      "节气",
+      "公历每月1日"
+    ],
+    "correctAnswer": 2,
+    "explanation": "月柱以节气划分，如立春为一年之始。"
+  },
+  {
+    "id": "examscope-100",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "2026年按干支纪年是？",
+    "options": [
+      "丁未年",
+      "甲辰年",
+      "丙午年",
+      "乙巳年"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2026年为丙午年，火马年。"
+  }
+]
