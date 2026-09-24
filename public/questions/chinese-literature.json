@@ -1,0 +1,2872 @@
+[
+  {
+    "id": "chinese-literature-001",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "「天生我材必有用，千金散尽还复来」出自李白的哪首诗？",
+    "options": [
+      "《行路难》",
+      "《蜀道难》",
+      "《将进酒》",
+      "《梦游天姥吟留别》"
+    ],
+    "correctAnswer": 2,
+    "explanation": "出自《将进酒》，和「君不见黄河之水天上来，奔流到海不复回」是同一篇，堪称李白最豪放的劝酒歌。"
+  },
+  {
+    "id": "chinese-literature-002",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "苏轼曾以「郊寒岛瘦」评价两位中唐诗人的诗风，这两位诗人是谁？",
+    "options": [
+      "孟郊与贾岛",
+      "孟浩然与贾岛",
+      "孟郊与李贺",
+      "韩愈与孟郊"
+    ],
+    "correctAnswer": 0,
+    "explanation": "出自苏轼《祭柳子玉文》「元轻白俗，郊寒岛瘦」，指孟郊清寒、贾岛瘦硬。注意孟浩然是盛唐山水田园诗人，和孟郊不是一个人。"
+  },
+  {
+    "id": "chinese-literature-003",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "《楚辞》作为中国文学史上第一部浪漫主义诗歌总集，是由谁辑录成书的？",
+    "options": [
+      "屈原",
+      "刘向",
+      "宋玉",
+      "王逸"
+    ],
+    "correctAnswer": 1,
+    "explanation": "西汉刘向辑录屈原、宋玉等人作品编成《楚辞》；东汉王逸则是为其作注，写成最早的注本《楚辞章句》。"
+  },
+  {
+    "id": "chinese-literature-004",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "「但愿人长久，千里共婵娟」中的「婵娟」指的是什么？",
+    "options": [
+      "美丽的女子",
+      "盛开的桂花",
+      "故乡的亲人",
+      "天上的明月"
+    ],
+    "correctAnswer": 3,
+    "explanation": "「婵娟」此处指明月。苏轼这首《水调歌头》写于中秋，小序明说「兼怀子由」，是想念弟弟苏辙的。"
+  },
+  {
+    "id": "chinese-literature-005",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "李白字太白，他的号是？",
+    "options": [
+      "香山居士",
+      "青莲居士",
+      "东坡居士",
+      "易安居士"
+    ],
+    "correctAnswer": 1,
+    "explanation": "李白号青莲居士。其余几位别张冠李戴：白居易号香山居士，苏轼号东坡居士，李清照号易安居士。"
+  },
+  {
+    "id": "chinese-literature-006",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "「曾经沧海难为水，除却巫山不是云」是元稹为悼念谁而写的？",
+    "options": [
+      "挚友白居易",
+      "传奇笔下的崔莺莺",
+      "亡妻韦丛",
+      "才女薛涛"
+    ],
+    "correctAnswer": 2,
+    "explanation": "出自《离思五首·其四》，是元稹悼念元配妻子韦丛之作；名篇《遣悲怀》「诚知此恨人人有，贫贱夫妻百事哀」同样为她而写。"
+  },
+  {
+    "id": "chinese-literature-007",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "「海内存知己，天涯若比邻」的作者是谁？",
+    "options": [
+      "王勃",
+      "王维",
+      "骆宾王",
+      "陈子昂"
+    ],
+    "correctAnswer": 0,
+    "explanation": "出自王勃《送杜少府之任蜀州》，一反送别诗的悲悲切切，写得胸襟开阔，是送别诗中的千古名句。"
+  },
+  {
+    "id": "chinese-literature-008",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "下列哪位诗人不在「初唐四杰」之列？",
+    "options": [
+      "王勃",
+      "杨炯",
+      "骆宾王",
+      "陈子昂"
+    ],
+    "correctAnswer": 3,
+    "explanation": "初唐四杰是王勃、杨炯、卢照邻、骆宾王。陈子昂稍晚，以《登幽州台歌》「前不见古人，后不见来者」闻名。"
+  },
+  {
+    "id": "chinese-literature-009",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "《诗经》按音乐性质分为「风、雅、颂」三部分，其中「颂」指的是什么？",
+    "options": [
+      "各地采集的民间歌谣",
+      "宗庙祭祀时用的乐歌",
+      "君臣宴饮时的应酬诗",
+      "描写战争徭役的怨刺诗"
+    ],
+    "correctAnswer": 1,
+    "explanation": "「风」是各地民歌，「雅」是周王朝的正声雅乐（分大雅、小雅），「颂」则是宗庙祭祀的乐歌。《诗经》共305篇，所以又叫「诗三百」。"
+  },
+  {
+    "id": "chinese-literature-010",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "李清照「知否，知否？应是绿肥红瘦」中的「绿肥红瘦」，写的是什么花？",
+    "options": [
+      "牡丹",
+      "桃花",
+      "海棠",
+      "蔷薇"
+    ],
+    "correctAnswer": 2,
+    "explanation": "出自《如梦令·昨夜雨疏风骤》，前句「试问卷帘人，却道海棠依旧」已点明是海棠；「绿肥红瘦」形容雨后叶茂花稀。"
+  },
+  {
+    "id": "chinese-literature-011",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "「无边落木萧萧下，不尽长江滚滚来」出自杜甫的哪首诗？",
+    "options": [
+      "《春望》",
+      "《蜀相》",
+      "《望岳》",
+      "《登高》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "出自《登高》，写于杜甫晚年夔州重阳节登高时，明代胡应麟推此诗为「古今七言律第一」。"
+  },
+  {
+    "id": "chinese-literature-012",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "「春风得意马蹄疾，一日看尽长安花」是孟郊在什么情境下写下的？",
+    "options": [
+      "进士及第之后",
+      "洞房花烛之夜",
+      "贬官离京途中",
+      "暮年归乡之时"
+    ],
+    "correctAnswer": 0,
+    "explanation": "出自孟郊《登科后》。他屡试不第，年近半百才考中进士，狂喜之下挥就此诗，「登科」即科举考中之意。"
+  },
+  {
+    "id": "chinese-literature-013",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "陶渊明「采菊东篱下，悠然见南山」中的「南山」，一般认为指的是哪座山？",
+    "options": [
+      "泰山",
+      "庐山",
+      "终南山",
+      "衡山"
+    ],
+    "correctAnswer": 1,
+    "explanation": "出自《饮酒·其五》。陶渊明隐居在浔阳柴桑（今江西九江），家门口望见的「南山」就是庐山，他可说是最早的「庐山推广大使」。"
+  },
+  {
+    "id": "chinese-literature-014",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "刘禹锡「旧时王谢堂前燕，飞入寻常百姓家」中的「王谢」，指的是东晋哪两大豪门？",
+    "options": [
+      "王羲之家族与谢灵运家族",
+      "王敦家族与谢朓家族",
+      "王戎家族与谢庄家族",
+      "王导家族与谢安家族"
+    ],
+    "correctAnswer": 3,
+    "explanation": "出自《乌衣巷》。王导、谢安是东晋两大顶级士族，乌衣巷正是他们的宅邸所在；「王与马，共天下」说的就是王家的权势。"
+  },
+  {
+    "id": "chinese-literature-015",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "「羌笛何须怨杨柳，春风不度玉门关」的作者是哪位边塞诗人？",
+    "options": [
+      "王之涣",
+      "王昌龄",
+      "王翰",
+      "岑参"
+    ],
+    "correctAnswer": 0,
+    "explanation": "出自王之涣《凉州词》。传说王之涣与王昌龄、高适「旗亭画壁」赌诗，歌女最后唱的正是这首，王之涣因此扬眉吐气。"
+  },
+  {
+    "id": "chinese-literature-016",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "李贺名句「昆山玉碎凤凰叫，芙蓉泣露香兰笑」，描写的是哪种乐器的绝妙演奏？",
+    "options": [
+      "琵琶",
+      "古筝",
+      "箜篌",
+      "洞箫"
+    ],
+    "correctAnswer": 2,
+    "explanation": "出自《李凭箜篌引》，赞美乐师李凭弹奏箜篌技艺神妙。箜篌是古老的弹弦乐器，形似竖琴，一度失传，现代经仿制才重回舞台。"
+  },
+  {
+    "id": "chinese-literature-017",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "秦观「两情若是久长时，又岂在朝朝暮暮」这首词，咏叹的是哪个传统节日？",
+    "options": [
+      "元宵节",
+      "中秋节",
+      "重阳节",
+      "七夕节"
+    ],
+    "correctAnswer": 3,
+    "explanation": "出自《鹊桥仙·纤云弄巧》，咏牛郎织女七夕相会。别人写离别都哀婉，秦观偏说真爱不怕聚少离多，格局一下就打开了。"
+  },
+  {
+    "id": "chinese-literature-018",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "杜甫的现实主义名篇合称「三吏三别」，下列哪一篇不属于「三吏」？",
+    "options": [
+      "《新安吏》",
+      "《新婚别》",
+      "《石壕吏》",
+      "《潼关吏》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "「三吏」是《新安吏》《石壕吏》《潼关吏》，「三别」是《新婚别》《无家别》《垂老别》，都写于安史之乱期间，堪称「诗史」的代表。"
+  },
+  {
+    "id": "chinese-literature-019",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "苏轼《念奴娇·赤壁怀古》中「羽扇纶巾，谈笑间，樯橹灰飞烟灭」，描写的是哪位三国人物？",
+    "options": [
+      "诸葛亮",
+      "曹操",
+      "周瑜",
+      "陆逊"
+    ],
+    "correctAnswer": 2,
+    "explanation": "写的是周公瑾，前文明说「遥想公瑾当年，小乔初嫁了」。「羽扇纶巾」后来常被误当成诸葛亮的专利，其实最早是苏轼给周瑜的造型。"
+  },
+  {
+    "id": "chinese-literature-020",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "李贺人称「诗鬼」，而以苦吟著称、被元好问称为「诗囚」的诗人是谁？",
+    "options": [
+      "孟郊",
+      "刘长卿",
+      "韦应物",
+      "柳宗元"
+    ],
+    "correctAnswer": 0,
+    "explanation": "元好问《放言》有「长沙一湘累，郊岛两诗囚」，「郊岛」即孟郊、贾岛。孟郊作诗呕心沥血，自封「夜学晓未休，苦吟神鬼愁」，「诗囚」之名由此而来。"
+  },
+  {
+    "id": "chinese-literature-021",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "写下「问君能有几多愁？恰似一江春水向东流」的李煜，其身份是？",
+    "options": [
+      "南唐中主",
+      "南唐后主",
+      "后蜀后主",
+      "陈后主"
+    ],
+    "correctAnswer": 1,
+    "explanation": "李煜是南唐末代国君，史称「南唐后主」，他的父亲李璟是「南唐中主」。据说这首《虞美人》正是他的绝命词，写完不久便被宋太宗赐死。"
+  },
+  {
+    "id": "chinese-literature-022",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "下列哪句诗不是出自王维之手？",
+    "options": [
+      "行到水穷处，坐看云起时",
+      "明月松间照，清泉石上流",
+      "人闲桂花落，夜静春山空",
+      "荷风送香气，竹露滴清响"
+    ],
+    "correctAnswer": 3,
+    "explanation": "「荷风送香气，竹露滴清响」出自孟浩然《夏日南亭怀辛大》。其余三句分别是王维《终南别业》《山居秋暝》《鸟鸣涧》中的名句。"
+  },
+  {
+    "id": "chinese-literature-023",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "杨万里「接天莲叶无穷碧，映日荷花别样红」，描写的是哪里的夏日风光？",
+    "options": [
+      "武汉东湖",
+      "南京玄武湖",
+      "杭州西湖",
+      "济南大明湖"
+    ],
+    "correctAnswer": 2,
+    "explanation": "出自《晓出净慈寺送林子方》，净慈寺就坐落在杭州西湖南岸。诗题是送别友人，全篇却只顾着夸西湖六月的荷花，朋友表示很受伤。"
+  },
+  {
+    "id": "chinese-literature-024",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "「疏影横斜水清浅，暗香浮动月黄昏」被誉为咏物绝唱，它咏的是什么花？",
+    "options": [
+      "菊花",
+      "梅花",
+      "兰花",
+      "水仙"
+    ],
+    "correctAnswer": 1,
+    "explanation": "出自北宋林逋《山园小梅》。林逋隐居西湖孤山，终身不仕不娶，自称「以梅为妻，以鹤为子」，「梅妻鹤子」说的就是他。"
+  },
+  {
+    "id": "chinese-literature-025",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "辛弃疾「醉里挑灯看剑，梦回吹角连营」这首《破阵子》，是题赠给哪位好友的？",
+    "options": [
+      "陈亮",
+      "陆游",
+      "朱熹",
+      "岳飞"
+    ],
+    "correctAnswer": 0,
+    "explanation": "词题全称《为陈同甫赋壮词以寄之》，「陈同甫」即主战派词人陈亮。两人曾鹅湖相会纵谈恢复大计，是志同道合的抗金战友。"
+  },
+  {
+    "id": "chinese-literature-026",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "「床前明月光，疑是地上霜」的下两句是？",
+    "options": [
+      "举杯邀明月，对影成三人",
+      "海上生明月，天涯共此时",
+      "举头望明月，低头思故乡",
+      "明月几时有，把酒问青天"
+    ],
+    "correctAnswer": 2,
+    "explanation": "出自李白《静夜思》，据说是全世界流传最广的唐诗。其他三个选项也都是「明月」名局：李白《月下独酌》、张九龄《望月怀远》、苏轼《水调歌头》。"
+  },
+  {
+    "id": "chinese-literature-027",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "「谁知盘中餐，粒粒皆辛苦」这首《悯农》的作者是谁？",
+    "options": [
+      "李绅",
+      "李白",
+      "杜甫",
+      "白居易"
+    ],
+    "correctAnswer": 0,
+    "explanation": "作者是唐代诗人李绅。讽刺的是，他后来官越做越大、生活日渐奢靡，传说吃鸡舌一顿要杀几百只鸡，早忘了自己写过的「粒粒皆辛苦」。"
+  },
+  {
+    "id": "chinese-literature-028",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "「白日依山尽，黄河入海流」的下两句是？",
+    "options": [
+      "海内存知己，天涯若比邻",
+      "会当凌绝顶，一览众山小",
+      "不识庐山真面目，只缘身在此山中",
+      "欲穷千里目，更上一层楼"
+    ],
+    "correctAnswer": 3,
+    "explanation": "出自王之涣《登鹳雀楼》。鹳雀楼在今山西永济，因为这首诗成了名楼，「更上一层楼」也变成了日常祝福语。"
+  },
+  {
+    "id": "chinese-literature-029",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "唐代诗人中，被后人尊称为「诗仙」的是谁？",
+    "options": [
+      "杜甫",
+      "李白",
+      "白居易",
+      "王维"
+    ],
+    "correctAnswer": 1,
+    "explanation": "李白是「诗仙」，杜甫是「诗圣」，两人合称「李杜」。顺便说，白居易叫「诗魔」，王维叫「诗佛」，诗坛外号一家人整整齐齐。"
+  },
+  {
+    "id": "chinese-literature-030",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "「春眠不觉晓，处处闻啼鸟」这首《春晓》出自谁之手？",
+    "options": [
+      "王维",
+      "贺知章",
+      "孟浩然",
+      "柳宗元"
+    ],
+    "correctAnswer": 2,
+    "explanation": "作者是孟浩然，山水田园派代表人物。他和王维并称「王孟」，李白还是他的迷弟，专门写过「吾爱孟夫子，风流天下闻」。"
+  },
+  {
+    "id": "chinese-literature-031",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "「离离原上草，一岁一枯荣」的下两句是？",
+    "options": [
+      "野火烧不尽，春风吹又生",
+      "远芳侵古道，晴翠接荒城",
+      "国破山河在，城春草木深",
+      "天街小雨润如酥，草色遥看近却无"
+    ],
+    "correctAnswer": 0,
+    "explanation": "出自白居易《赋得古原草送别》，传说这是他十六岁时的应试习作，名士顾况读到此句大为叹服，白居易从此名声大振。"
+  },
+  {
+    "id": "chinese-literature-032",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "骆宾王七岁时写下《咏鹅》，「鹅，鹅，鹅」的下一句是？",
+    "options": [
+      "白毛浮绿水",
+      "红掌拨清波",
+      "曲项歌明月",
+      "曲项向天歌"
+    ],
+    "correctAnswer": 3,
+    "explanation": "全诗是「鹅，鹅，鹅，曲项向天歌。白毛浮绿水，红掌拨清波」。这位神童后来加入「初唐四杰」，还写过讨伐武则天的檄文。"
+  },
+  {
+    "id": "chinese-literature-033",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "「两个黄鹂鸣翠柳，一行白鹭上青天」的作者是谁？",
+    "options": [
+      "李白",
+      "杜甫",
+      "王之涣",
+      "杜牧"
+    ],
+    "correctAnswer": 1,
+    "explanation": "出自杜甫《绝句》，写于他寓居成都草堂期间。全诗四句两两对仗，黄鹂、翠柳、白鹭、青天，颜色搭配堪比壁纸。"
+  },
+  {
+    "id": "chinese-literature-034",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "「少小离家老大回，乡音无改鬓毛衰」的下两句是？",
+    "options": [
+      "夕阳西下，断肠人在天涯",
+      "儿童相见不相识，笑问客从何处来",
+      "近乡情更怯，不敢问来人",
+      "独在异乡为异客，每逢佳节倍思亲"
+    ],
+    "correctAnswer": 1,
+    "explanation": "出自贺知章《回乡偶书》。贺知章年轻时离乡，八十多岁才告老还乡，村里孩子早已不认识他，反倒把他当成了远方来的客人。"
+  },
+  {
+    "id": "chinese-literature-035",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "「清明时节雨纷纷，路上行人欲断魂」的下两句是？",
+    "options": [
+      "沾衣欲湿杏花雨，吹面不寒杨柳风",
+      "梨花风起正清明，游子寻春半出城",
+      "借问酒家何处有，牧童遥指杏花村",
+      "南北山头多墓田，清明祭扫各纷然"
+    ],
+    "correctAnswer": 2,
+    "explanation": "出自杜牧《清明》。诗里的「杏花村」后来成了酒的代名词，如今安徽池州等好几个地方都在争「正宗杏花村」的招牌。"
+  },
+  {
+    "id": "chinese-literature-036",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "「千山鸟飞绝，万径人踪灭」的下两句是？",
+    "options": [
+      "野旷天低树，江清月近人",
+      "两岸猿声啼不住，轻舟已过万重山",
+      "移舟泊烟渚，日暮客愁新",
+      "孤舟蓑笠翁，独钓寒江雪"
+    ],
+    "correctAnswer": 3,
+    "explanation": "出自柳宗元《江雪》。这首诗每句头一个字连起来正是「千万孤独」，写于他被贬永州、政治理想受挫的孤寂时期。"
+  },
+  {
+    "id": "chinese-literature-037",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "「人生自古谁无死，留取丹心照汗青」的作者是谁？",
+    "options": [
+      "岳飞",
+      "文天祥",
+      "陆游",
+      "辛弃疾"
+    ],
+    "correctAnswer": 1,
+    "explanation": "出自文天祥《过零丁洋》。他兵败被俘后元军多次劝降，他写下此诗明志，最终宁死不屈，慷慨就义。"
+  },
+  {
+    "id": "chinese-literature-038",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "「桃花潭水深千尺」的下一句是？",
+    "options": [
+      "疑是银河落九天",
+      "春江水暖鸭先知",
+      "不及汪伦送我情",
+      "唯见长江天际流"
+    ],
+    "correctAnswer": 2,
+    "explanation": "出自李白《赠汪伦》。相传汪伦只是个仰慕李白的乡下人，谎称当地有「十里桃花、万家酒店」把李白骗来做客，其实是十里外的桃花潭和一位姓万的酒家老板，李白临别时还是被这份真心感动了。"
+  },
+  {
+    "id": "chinese-literature-039",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "「独在异乡为异客，每逢佳节倍思亲」的下两句是？",
+    "options": [
+      "遥知兄弟登高处，遍插茱萸少一人",
+      "待到重阳日，还来就菊花",
+      "尘世难逢开口笑，菊花须插满头归",
+      "何当共剪西窗烛，却话巴山夜雨时"
+    ],
+    "correctAnswer": 0,
+    "explanation": "出自王维《九月九日忆山东兄弟》，写于他十七岁客居长安时。「每逢佳节倍思亲」流传千年，如今几乎成了所有节日思乡的通用金句。"
+  },
+  {
+    "id": "chinese-literature-040",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "「葡萄美酒夜光杯，欲饮琵琶马上催」的下两句是？",
+    "options": [
+      "黄沙百战穿金甲，不破楼兰终不还",
+      "醉卧沙场君莫笑，古来征战几人回",
+      "秦时明月汉时关，万里长征人未还",
+      "羌笛何须怨杨柳，春风不度玉门关"
+    ],
+    "correctAnswer": 1,
+    "explanation": "出自王翰《凉州词》。有意思的是，同题为《凉州词》的还有王之涣那首「羌笛何须怨杨柳」，唐代边塞诗人似乎都爱用这个曲调填词，同题撞车却各有各的绝唱。"
+  },
+  {
+    "id": "chinese-literature-041",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "「忽如一夜春风来，千树万树梨花开」的作者是谁？",
+    "options": [
+      "岑参",
+      "高适",
+      "王昌龄",
+      "王之涣"
+    ],
+    "correctAnswer": 0,
+    "explanation": "出自岑参《白雪歌送武判官归京》，写的是西域轮台八月飞雪的奇景。把雪比作梨花，是边塞诗里少见的浪漫笔法。"
+  },
+  {
+    "id": "chinese-literature-042",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "白居易《长恨歌》「在天愿作比翼鸟，在地愿为连理枝」，写的是谁与谁的爱情盟誓？",
+    "options": [
+      "唐玄宗与杨贵妃",
+      "汉武帝与李夫人",
+      "周幽王与褒姒",
+      "唐明皇与梅妃"
+    ],
+    "correctAnswer": 0,
+    "explanation": "出自白居易《长恨歌》，写唐玄宗与杨贵妃的生死爱情。全诗以安史之乱、马嵬坡赐死为转折，前半香艳，后半凄绝，堪称唐代最长的「爱情悲剧」。"
+  },
+  {
+    "id": "chinese-literature-043",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "「春蚕到死丝方尽，蜡炬成灰泪始干」出自李商隐的哪首诗？",
+    "options": [
+      "《锦瑟》",
+      "《贾生》",
+      "《无题》",
+      "《夜雨寄北》"
+    ],
+    "correctAnswer": 2,
+    "explanation": "出自李商隐《无题》（相见时难别亦难）。他写了好几首以「无题」为名的诗，这句后来常被借用来形容老师、医生等默默奉献的职业。"
+  },
+  {
+    "id": "chinese-literature-044",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "王安石《泊船瓜洲》「春风又绿江南岸」，历来为人称道的是哪个字的锤炼？",
+    "options": [
+      "满",
+      "绿",
+      "过",
+      "照"
+    ],
+    "correctAnswer": 1,
+    "explanation": "出自王安石《泊船瓜洲》。据南宋洪迈记载，王安石手稿上这个字先后改了十几次，试过「到」「过」「入」「满」，最后才定下「绿」，堪称古代「反复修改文案」的典范。"
+  },
+  {
+    "id": "chinese-literature-045",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "「莫等闲，白了少年头，空悲切」出自岳飞的哪首词？",
+    "options": [
+      "《六州歌头》",
+      "《破阵子》",
+      "《小重山》",
+      "《满江红·怒发冲冠》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "出自岳飞《满江红·怒发冲冠》。「三十功名尘与土，八千里路云和月」也是同一首词里的名句，一片精忠报国之心跃然纸上。"
+  },
+  {
+    "id": "chinese-literature-046",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "「今宵酒醒何处？杨柳岸，晓风残月」的作者是谁？",
+    "options": [
+      "欧阳修",
+      "晏殊",
+      "秦观",
+      "柳永"
+    ],
+    "correctAnswer": 3,
+    "explanation": "出自柳永《雨霖铃·寒蝉凄切》。柳永是婉约派代表，据说他的词流传极广，当时有「凡有井水饮处，即能歌柳词」的说法。"
+  },
+  {
+    "id": "chinese-literature-047",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "苏轼与辛弃疾常被归为宋词哪一流派的代表词人？",
+    "options": [
+      "婉约派",
+      "花间派",
+      "豪放派",
+      "江西诗派"
+    ],
+    "correctAnswer": 2,
+    "explanation": "苏轼、辛弃疾并称「苏辛」，是豪放派代表；柳永、李清照则是婉约派代表。两派风格差异极大，一个「大江东去」，一个「杨柳岸晓风残月」。"
+  },
+  {
+    "id": "chinese-literature-048",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "相传李白登黄鹤楼时，本想题诗一首，却因看到前人已写下的绝佳之作而感叹「眼前有景道不得」，搁笔离去。这位让李白甘拜下风的诗人是谁？",
+    "options": [
+      "崔颢",
+      "孟浩然",
+      "王维",
+      "杜牧"
+    ],
+    "correctAnswer": 0,
+    "explanation": "相传李白登黄鹤楼本想题诗，看到崔颢已经写下「昔人已乘黄鹤去，此地空余黄鹤楼」，自叹不如，留下「眼前有景道不得，崔颢题诗在上头」，转身搁笔离去。"
+  },
+  {
+    "id": "chinese-literature-049",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "白居易《琵琶行》开篇「浔阳江头夜送客」，「浔阳」大致在今天的哪座城市？",
+    "options": [
+      "湖北武汉",
+      "江西九江",
+      "安徽芜湖",
+      "江苏南京"
+    ],
+    "correctAnswer": 1,
+    "explanation": "出自白居易《琵琶行》，「浔阳」即今江西九江，白居易当时被贬为江州司马，在浔阳江头送客时偶遇琵琶女，写下这首千古名篇。"
+  },
+  {
+    "id": "chinese-literature-050",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "被闻一多誉为「诗中的诗，顶峰上的顶峰」的《春江花月夜》，作者是谁？",
+    "options": [
+      "刘希夷",
+      "张若虚",
+      "张九龄",
+      "王勃"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《春江花月夜》的作者是张若虚，近代学者闻一多盛赞它是「诗中的诗，顶峰上的顶峰」。张若虚存世诗作仅两首，却凭这一篇奠定了在唐诗史上的地位。"
+  },
+  {
+    "id": "chinese-literature-051",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "成语「推敲」的典故，与哪位唐代诗人反复斟酌「僧敲月下门」还是「僧推月下门」有关？",
+    "options": [
+      "孟郊",
+      "李贺",
+      "贾岛",
+      "杜牧"
+    ],
+    "correctAnswer": 2,
+    "explanation": "贾岛反复斟酌「僧敲月下门」还是「僧推月下门」，据说骑驴时还沉浸其中撞上了韩愈的仪仗队，韩愈听后建议用「敲」字，「推敲」一词从此成了反复琢磨的代名词。"
+  },
+  {
+    "id": "chinese-literature-052",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "王维，字摩诘。把他的名与字连起来读——「维摩诘」，正好是佛教哪部经典里一位得道居士的名字？",
+    "options": [
+      "《金刚经》",
+      "《维摩诘经》",
+      "《法华经》",
+      "《心经》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "王维名维、字摩诘，合起来正是「维摩诘」——《维摩诘经》里那位虽居家却修行圆满的居士之名。王维笃信佛教，后世因此称他为「诗佛」。"
+  },
+  {
+    "id": "chinese-literature-053",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "李清照与丈夫赵明诚合力编撰的金石学著作是？",
+    "options": [
+      "《集古录》",
+      "《宣和博古图》",
+      "《金石录》",
+      "《西清古鉴》"
+    ],
+    "correctAnswer": 2,
+    "explanation": "李清照与丈夫赵明诚合力编撰《金石录》，收录考订大量青铜器、碑刻拓片。靖康之难后收藏散失殆尽，她晚年写下《金石录后序》追忆往事，字字锥心。"
+  },
+  {
+    "id": "chinese-literature-054",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "「众里寻他千百度，蓦然回首，那人却在，灯火阑珊处」出自辛弃疾的哪首词？",
+    "options": [
+      "《摸鱼儿·更能消几番风雨》",
+      "《永遇乐·京口北固亭怀古》",
+      "《丑奴儿·书博山道中壁》",
+      "《青玉案·元夕》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "出自辛弃疾《青玉案·元夕》，写的是元宵灯会人潮中蓦然回首的一瞬。王国维后来在《人间词话》里把这句奉为「治学三境界」的最高境界。"
+  },
+  {
+    "id": "chinese-literature-055",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "屈原自沉的江，也是端午节纪念他的地方，是哪一条江？",
+    "options": [
+      "湘江",
+      "沅江",
+      "汨罗江",
+      "潇水"
+    ],
+    "correctAnswer": 2,
+    "explanation": "屈原投江自沉之处正是汨罗江，位于今湖南岳阳境内。相传百姓划龙舟、投粽子是为了打捞他的遗体、不让鱼虾啃食，这便是端午节习俗的由来之一。"
+  },
+  {
+    "id": "chinese-literature-056",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "《西游记》里如来佛祖交给观音金、紧、禁三个箍儿，「紧箍儿」套住了孙悟空，那「金箍儿」最后戴在了谁头上？",
+    "options": [
+      "黑熊精",
+      "牛魔王",
+      "红孩儿",
+      "黄眉大王"
+    ],
+    "correctAnswer": 2,
+    "explanation": "观音收服红孩儿时，把金箍儿变作五个箍儿套在他头顶和手脚上，收他做了善财童子；黑熊精戴的是「禁箍儿」，成了落伽山的守山大神。"
+  },
+  {
+    "id": "chinese-literature-057",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "《红楼梦》里香菱想学作诗，最后拜了谁当老师？",
+    "options": [
+      "薛宝钗",
+      "林黛玉",
+      "史湘云",
+      "贾探春"
+    ],
+    "correctAnswer": 1,
+    "explanation": "香菱先进去求宝钗，宝钗笑她「得陇望蜀」不肯教，黛玉却爽快收下这个徒弟，还开出王维、杜甫、李白的必读书单，于是有了「香菱学诗」的佳话。"
+  },
+  {
+    "id": "chinese-literature-058",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "赤壁之战前，曹操的战船被铁索连环锁成一片，这条「连环计」是谁跑到曹营献给曹操的？",
+    "options": [
+      "诸葛亮",
+      "周瑜",
+      "庞统",
+      "徐庶"
+    ],
+    "correctAnswer": 2,
+    "explanation": "庞统假意投曹献上连环计，让曹军战船首尾相连，为周瑜火攻埋好伏笔；徐庶明明识破此计却一言不发，还找庞统讨了个脱身之策先溜了。"
+  },
+  {
+    "id": "chinese-literature-059",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "《水浒传》里鲁智深征方腊后，是在哪里听着钱塘江潮信圆寂的？",
+    "options": [
+      "五台山文殊院",
+      "杭州六和寺",
+      "东京大相国寺",
+      "二龙山宝珠寺"
+    ],
+    "correctAnswer": 1,
+    "explanation": "鲁智深在杭州六和寺夜听潮信，想起师父智真长老「听潮而圆，见信而寂」的偈语，沐浴更衣坐化，留下名句「今日方知我是我」。"
+  },
+  {
+    "id": "chinese-literature-060",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "通天河的老鼋驮唐僧师徒过河，托唐僧代问如来一件事，唐僧却忘了——他忘了问什么？",
+    "options": [
+      "自己何时能脱去龟壳、修得人身",
+      "自己的寿命还剩多少年",
+      "通天河何时才能不再结冰",
+      "自己何时能升任龙王"
+    ],
+    "correctAnswer": 0,
+    "explanation": "老鼋修行一千三百多年仍难脱本壳，托唐僧问佛祖几时得人身；唐僧忘了问，回程时老鼋一气之下把师徒和经书全掀进河里，凑成了第八十一难。"
+  },
+  {
+    "id": "chinese-literature-061",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "大观园里的海棠诗社由探春发起，但大伙公推的「社长」是谁？",
+    "options": [
+      "贾探春",
+      "林黛玉",
+      "李纨",
+      "薛宝钗"
+    ],
+    "correctAnswer": 2,
+    "explanation": "诗社虽是探春发帖张罗的，但李纨毛遂自荐当社长，自号「稻香老农」，负责出题、评诗和定罚则——黛玉的《咏菊》夺魁就是她判的。"
+  },
+  {
+    "id": "chinese-literature-062",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "智取生辰纲时，扮作卖酒汉子挑着两桶酒上黄泥冈、最终麻翻杨志一行的是谁？",
+    "options": [
+      "白日鼠白胜",
+      "赤发鬼刘唐",
+      "入云龙公孙胜",
+      "智多星吴用"
+    ],
+    "correctAnswer": 0,
+    "explanation": "白胜扮卖酒汉子，晁盖吴用等七人扮贩枣客商，双方一唱一和演双簧，吴用趁机把蒙汗药下进酒里，杨志眼睁睁看着生辰纲被劫走。"
+  },
+  {
+    "id": "chinese-literature-063",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "五丈原上诸葛亮设坛禳星续命，主灯须七日不灭，是谁闯进大帐带起的风把主灯扑灭了？",
+    "options": [
+      "姜维",
+      "杨仪",
+      "马岱",
+      "魏延"
+    ],
+    "correctAnswer": 3,
+    "explanation": "魏延误闯帐中报说魏兵来袭，脚步太急带风扑灭主灯，姜维气得拔剑要杀他，孔明长叹「生死有命」，不久便星落五丈原。"
+  },
+  {
+    "id": "chinese-literature-064",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "栊翠庵品茶时，妙玉单请宝钗、黛玉喝「体己茶」，泡茶用的水是什么？",
+    "options": [
+      "五年前收的梅花上的雪水",
+      "旧年蠲的雨水",
+      "清晨荷叶上的露水",
+      "无锡惠山的「天下第二泉」泉水"
+    ],
+    "correctAnswer": 0,
+    "explanation": "妙玉用五年前在玄墓蟠香寺收的梅花雪水泡体己茶，给贾母用的才是旧年雨水；黛玉没尝出雪水，还被妙玉讥为「大俗人」。"
+  },
+  {
+    "id": "chinese-literature-065",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "取经功德圆满，如来论功行赏，猪八戒最后被封为什么？",
+    "options": [
+      "斗战胜佛",
+      "净坛使者",
+      "金身罗汉",
+      "八部天龙"
+    ],
+    "correctAnswer": 1,
+    "explanation": "八戒封「净坛使者」，他嘟囔别人都成佛，如来说这是管四方供品、有受用的品级；斗战胜佛是悟空，金身罗汉是沙僧，八部天龙是小白龙。"
+  },
+  {
+    "id": "chinese-literature-066",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "燕青相扑天下无双，他在泰安州擂台上把两年未遇敌手、绰号「擎天柱」的擂主摔下台——这位擂主是谁？",
+    "options": [
+      "任原",
+      "蒋门神",
+      "镇关西郑屠",
+      "高俅"
+    ],
+    "correctAnswer": 0,
+    "explanation": "「燕青智扑擎天柱」一回里，燕青用一记「鹁鸽旋」把任原摔下擂台；蒋门神是武松醉打的对象，郑屠则被鲁智深三拳打死。"
+  },
+  {
+    "id": "chinese-literature-067",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "群英会上蒋干盗书，曹操中计后一怒之下斩了哪两位荆州降将、水军都督？",
+    "options": [
+      "于禁、毛玠",
+      "蔡瑁、张允",
+      "蔡中、蔡和",
+      "张郃、高览"
+    ],
+    "correctAnswer": 1,
+    "explanation": "周瑜伪造蔡瑁、张允通敌的书信故意让蒋干偷走，曹操中反间计斩了这两位最懂水战的都督，反让于禁、毛玠接任——等于自断臂膀。"
+  },
+  {
+    "id": "chinese-literature-068",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "宝玉梦游太虚幻境，警幻仙姑设宴款待，小丫鬟捧上的那盏茶叫什么名字？",
+    "options": [
+      "群芳髓",
+      "万艳同杯",
+      "千红一窟",
+      "枫露茶"
+    ],
+    "correctAnswer": 2,
+    "explanation": "茶名「千红一窟」，谐音「千红一哭」，暗伏众女儿悲剧；「万艳同杯」是酒名，「群芳髓」是熏香名，枫露茶则是宝玉在怡红院日常喝的茶。"
+  },
+  {
+    "id": "chinese-literature-069",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "高俅设局陷害林冲，让带刀的他误入哪处军机要地，坐实了死罪？",
+    "options": [
+      "白虎节堂",
+      "聚义厅",
+      "大理寺",
+      "军机处"
+    ],
+    "correctAnswer": 0,
+    "explanation": "高俅先卖宝刀再诈称要比看，诱林冲持刀直入白虎节堂——军机重地擅入即死罪，林冲因此被刺配沧州。军机处是清朝机构，纯属乱入。"
+  },
+  {
+    "id": "chinese-literature-070",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "街亭之战，马谡执意舍弃水源上山扎营，哪位副将苦苦劝谏无效，却也因此战后的表现被诸葛亮提拔？",
+    "options": [
+      "马岱",
+      "高翔",
+      "王平",
+      "魏延"
+    ],
+    "correctAnswer": 2,
+    "explanation": "王平连谏马谡当道下寨，马谡不听；兵败后王平鸣鼓自持、徐徐收拢残兵撤退，诸葛亮挥泪斩马谡，却升王平为参军，后来他还成了蜀汉大将。"
+  },
+  {
+    "id": "chinese-literature-071",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "孙悟空漂洋过海拜师学艺，授他七十二变和筋斗云的菩提祖师住在何处？",
+    "options": [
+      "蓬莱仙岛",
+      "五庄观",
+      "峨眉山",
+      "灵台方寸山"
+    ],
+    "correctAnswer": 3,
+    "explanation": "菩提祖师住在「灵台方寸山，斜月三星洞」——「灵台」「方寸」都是「心」的代称，「斜月三星」正是一个「心」字的写法，暗合悟空「心猿」的身份。"
+  },
+  {
+    "id": "chinese-literature-072",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "晴雯含冤病死后，宝玉悲痛之下写了哪一篇祭文来悼念她？",
+    "options": [
+      "《葬花吟》",
+      "《芙蓉女儿诔》",
+      "《姽婳词》",
+      "《好了歌》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "宝玉作《芙蓉女儿诔》祭晴雯，黛玉还和他一起推敲改出「茜纱窗下，我本无缘；黄土垄中，卿何薄命」。《葬花吟》是黛玉的诗，《姽婳词》悼的是林四娘。"
+  },
+  {
+    "id": "chinese-literature-073",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "成语「髀肉复生」说的是谁寄人篱下时摸着自己大腿上长的赘肉，感叹功业未建而老之将至？",
+    "options": [
+      "刘备",
+      "曹操",
+      "孙权",
+      "吕布"
+    ],
+    "correctAnswer": 0,
+    "explanation": "刘备投奔荆州刘表时久不骑马作战，见髀里肉生不禁潸然泪下，慨叹「日月若驰，老将至矣，而功业不建」——后来还真让他在西川闯出了一片天。"
+  },
+  {
+    "id": "chinese-literature-074",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "宋江在浔阳楼醉酒题了反诗，是谁一眼看出诗中「敢笑黄巢不丈夫」的反意并去告发，害宋江下了死牢？",
+    "options": [
+      "蔡九知府",
+      "神行太保戴宗",
+      "张文远",
+      "黄文炳"
+    ],
+    "correctAnswer": 3,
+    "explanation": "无为军在闲通判黄文炳绰号「黄蜂刺」，读罢反诗逐句批点，报给蔡九知府邀功；梁山好汉劫法场后活捉黄文炳，为宋江报了这一箭之仇。"
+  },
+  {
+    "id": "chinese-literature-075",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "智多星吴用在《水浒传》中出场时，明面上的身份是什么？",
+    "options": [
+      "东溪村教书先生",
+      "郓城县押司",
+      "游方道士",
+      "算命先生"
+    ],
+    "correctAnswer": 0,
+    "explanation": "吴用表字学究，道号加亮先生，出场时是东溪村的乡村塾师；郓城押司是宋江的差事。后来赚卢俊义上山时他才扮过一回算命先生。"
+  },
+  {
+    "id": "chinese-literature-076",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "孙悟空在太上老君的八卦炉里炼了七七四十九天没烧死，反炼出火眼金睛——他当时躲在炉中哪个方位？",
+    "options": [
+      "乾位",
+      "离位",
+      "巽位",
+      "坤位"
+    ],
+    "correctAnswer": 2,
+    "explanation": "「巽」为风，巽宫位下有风无火，悟空钻在那儿才没被烧着，只是风搅烟来把一双眼熏红了，反倒炼成火眼金睛——也落下个怕烟的毛病。"
+  },
+  {
+    "id": "chinese-literature-077",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "「赔了夫人又折兵」这句名言嘲讽的是谁设下的美人计被诸葛亮将计就计、落得两头空？",
+    "options": [
+      "孙权",
+      "鲁肃",
+      "吕蒙",
+      "周瑜"
+    ],
+    "correctAnswer": 3,
+    "explanation": "周瑜出主意让孙权以妹妹为饵骗刘备到东吴，结果婚事弄假成真，刘备带着孙夫人全身而退；岸边蜀兵齐喊「周郎妙计安天下，赔了夫人又折兵」，气得周瑜箭疮迸裂。"
+  },
+  {
+    "id": "chinese-literature-078",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "贾府四春的贴身丫鬟名字暗藏「琴棋书画」：抱琴、司棋、入画各归其主，那么「书」——侍书是谁的丫鬟？",
+    "options": [
+      "迎春",
+      "探春",
+      "惜春",
+      "元春"
+    ],
+    "correctAnswer": 1,
+    "explanation": "元春配抱琴、迎春配司棋、探春配侍书、惜春配入画，合成琴棋书画；探春善书法，屋里摆着米芾的《烟雨图》和颜真卿墨迹，丫鬟名字正合主人所长。"
+  },
+  {
+    "id": "chinese-literature-079",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "武松上景阳冈前在酒店连喝了十八碗酒，店家门前挑出的酒旗上写着哪五个字？",
+    "options": [
+      "醉里乾坤大",
+      "三碗不过冈",
+      "太白遗风",
+      "闻香下马"
+    ],
+    "correctAnswer": 1,
+    "explanation": "酒旗写的是「三碗不过冈」，因酒性极烈唤作「出门倒」；武松偏喝了十八碗还踉跄上冈，才有了后面的赤手空拳打虎。"
+  },
+  {
+    "id": "chinese-literature-080",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "贾宝玉衔玉而生的那块通灵宝玉，正面刻着哪八个字？",
+    "options": [
+      "不离不弃，芳龄永继",
+      "假作真时真亦假，无为有处有还无",
+      "莫失莫忘，仙寿恒昌",
+      "金玉良缘，天作之合"
+    ],
+    "correctAnswer": 2,
+    "explanation": "通灵宝玉正面刻「莫失莫忘，仙寿恒昌」，背面刻「一除邪祟，二疗冤疾，三知祸福」；「不离不弃，芳龄永继」刻在宝钗的金锁上，与宝玉之玉恰成一对，正是「金玉良缘」的由来。"
+  },
+  {
+    "id": "chinese-literature-081",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "刘备、关羽、张飞焚香盟誓「不求同年同月同日生，只愿同年同月同日死」，这场结义发生在哪里？",
+    "options": [
+      "杏园",
+      "桃园",
+      "梅园",
+      "竹园"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《三国演义》开篇第一回就是「宴桃园豪杰三结义」，桃园结义从此成了兄弟情义的代名词。不过《三国志》只写三人「恩若兄弟」，结拜这事是演义加的戏。"
+  },
+  {
+    "id": "chinese-literature-082",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "猪八戒被贬下凡、错投猪胎之前，在天庭当的什么官？",
+    "options": [
+      "卷帘大将",
+      "托塔天王",
+      "弼马温",
+      "天蓬元帅"
+    ],
+    "correctAnswer": 3,
+    "explanation": "八戒原是天蓬元帅，掌管天河八万水兵，因蟠桃会上醉酒调戏嫦娥被贬下凡。卷帘大将是沙僧的前职，弼马温则是猴哥最不愿提起的黑历史。"
+  },
+  {
+    "id": "chinese-literature-083",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "刘姥姥进贾府，大开眼界逛了一回那座为元妃省亲而建的大园子——它叫什么名字？",
+    "options": [
+      "大观园",
+      "圆明园",
+      "拙政园",
+      "留园"
+    ],
+    "correctAnswer": 0,
+    "explanation": "「刘姥姥进大观园」早已成了形容人见世面、眼花缭乱的经典俗语。圆明园、拙政园、留园都是现实中的名园，跟贾府可没关系。"
+  },
+  {
+    "id": "chinese-literature-084",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "《水浒传》里在大相国寺菜园「倒拔垂杨柳」，镇住一众泼皮的是哪位好汉？",
+    "options": [
+      "李逵",
+      "武松",
+      "鲁智深",
+      "林冲"
+    ],
+    "correctAnswer": 2,
+    "explanation": "花和尚鲁智深看管菜园时嫌乌鸦聒噪，竟连根拔起碗口粗的垂杨柳，泼皮们当场拜服。「倒拔垂杨柳」也成了形容天生神力的名场面。"
+  },
+  {
+    "id": "chinese-literature-085",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "刘备冒着风雪三次登门拜访，终于请出隆中草庐里的哪位军师？",
+    "options": [
+      "庞统",
+      "诸葛亮",
+      "徐庶",
+      "周瑜"
+    ],
+    "correctAnswer": 1,
+    "explanation": "「三顾茅庐」请的正是卧龙先生诸葛亮，他在茅屋里就定下三分天下的《隆中对》。凤雏庞统是后来才加入的，徐庶则是推荐诸葛亮的人。"
+  },
+  {
+    "id": "chinese-literature-086",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "孙悟空的兵器如意金箍棒，原本是东海龙宫里大禹治水留下的什么宝贝？",
+    "options": [
+      "混天绫",
+      "照妖镜",
+      "定海神针铁",
+      "捆仙绳"
+    ],
+    "correctAnswer": 2,
+    "explanation": "金箍棒原是大禹治水时测量江海深浅的「定海神针铁」，重一万三千五百斤，能大能小、随心变化。混天绫是哪吒的装备，可串不了场。"
+  },
+  {
+    "id": "chinese-literature-087",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "《红楼梦》里贾母口中的「凤辣子」、把荣国府上下管得服服帖帖的管家奶奶是谁？",
+    "options": [
+      "李纨",
+      "秦可卿",
+      "尤氏",
+      "王熙凤"
+    ],
+    "correctAnswer": 3,
+    "explanation": "王熙凤人称「凤辣子」，精明泼辣、手腕了得，连宁国府办丧事都请她协理。可惜「机关算尽太聪明，反算了卿卿性命」，判词早写好了她的结局。"
+  },
+  {
+    "id": "chinese-literature-088",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "梁山好汉中绰号「黑旋风」、抡着两把板斧横冲直撞的是谁？",
+    "options": [
+      "李逵",
+      "张顺",
+      "杨志",
+      "石秀"
+    ],
+    "correctAnswer": 0,
+    "explanation": "黑旋风李逵性如烈火、憨直忠勇，板斧一挥排头砍去，是宋江最铁的迷弟。张顺是「浪里白条」，杨志是「青面兽」，石秀则是「拼命三郎」。"
+  },
+  {
+    "id": "chinese-literature-089",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "孙悟空大闹天宫后被如来压在五行山下，直到唐僧路过才将他救出——他一共在山下压了多少年？",
+    "options": [
+      "三百年",
+      "八百年",
+      "一千年",
+      "五百年"
+    ],
+    "correctAnswer": 3,
+    "explanation": "悟空整整被压了五百年，唐僧揭去如来的封帖把他放出来，两人自此结为师徒。有意思的是，五行山后来被唐僧改名叫「两界山」，正是悟空从妖到僧、迈入取经正道的分界点。"
+  },
+  {
+    "id": "chinese-literature-090",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "白龙马驮着唐僧走完十万八千里取经路，他本是西海龙王敖闰的第几个儿子？",
+    "options": [
+      "大太子",
+      "三太子",
+      "二太子",
+      "四太子"
+    ],
+    "correctAnswer": 1,
+    "explanation": "白龙马原是西海龙王三太子敖烈，因纵火烧了殿上明珠被父亲告了忤逆，多亏观音求情才留了性命，变成白马驮唐僧取经、将功折罪。取经成功后，他被封为「八部天龙广力菩萨」。"
+  },
+  {
+    "id": "chinese-literature-091",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "孙悟空一时冲动推倒了五庄观的人参果树，镇元大仙要唐僧师徒赔命，最后是谁用玉净瓶甘露水把树救活的？",
+    "options": [
+      "观音菩萨",
+      "太上老君",
+      "女娲娘娘",
+      "黎山老母"
+    ],
+    "correctAnswer": 0,
+    "explanation": "观音菩萨用杨柳枝蘸玉净瓶甘露水，把人参果树救得比先前还精神，镇元大仙由此还和孙悟空结为「相识」兄弟。人参果「闻一闻能活三百六十岁，吃一个能活四万七千年」，八戒当年就是闻着香却没吃着才闹出笑话。"
+  },
+  {
+    "id": "chinese-literature-092",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "真假美猴王大闹到灵山，最终是谁一句话点破了六耳猕猴的真身，让悟空一棒结果了它？",
+    "options": [
+      "观音菩萨",
+      "玉皇大帝",
+      "如来佛祖",
+      "地藏王菩萨"
+    ],
+    "correctAnswer": 2,
+    "explanation": "如来佛祖说出「四猴混世」的典故，认出六耳猕猴善聆音、能察理、知前后，与真悟空真假难辨；地藏王座下的谛听虽也已识破真相，却怕当场说穿惊动大堂，故意不肯明言。"
+  },
+  {
+    "id": "chinese-literature-093",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "宝象国公主百花羞被黄袍怪掳到碗子山波月洞，这黄袍怪的真实身份是天上哪位星官下凡？",
+    "options": [
+      "昴日星官",
+      "奎木狼",
+      "太白金星",
+      "角木蛟"
+    ],
+    "correctAnswer": 1,
+    "explanation": "黄袍怪本是二十八宿中的奎木狼，私自下界与百花羞公主有十三年夫妻之情，被悟空请来天兵捉回天庭后，玉帝只罚他去兜率宫烧火思过。同为星官，昴日星官后来在盘丝洞一难中化身公鸡，一口啄死了蜈蚣精。"
+  },
+  {
+    "id": "chinese-literature-094",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "车迟国斗法比「砍头再生」，孙悟空见虎力大仙的头砍下后又要长回去，便使了个障眼法——他变成什么，把那颗头叼进河里，让虎力大仙再也接不回头？",
+    "options": [
+      "苍鹰",
+      "老鼠",
+      "乌鸦",
+      "黄犬"
+    ],
+    "correctAnswer": 3,
+    "explanation": "悟空拔根毫毛变作一条黄犬，趁乱把虎力大仙的头叼进御水河，头再也接不回去，虎力大仙当场现出原形——原来是只无头的黄毛虎。车迟国斗法一连比了砍头、剖腹、下油锅三场，虎力大仙就死在了第一场。"
+  },
+  {
+    "id": "chinese-literature-095",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "贾府的元春、迎春、探春、惜春四位小姐，名字连起来是个谐音双关，暗藏了她们各自的命运，念起来是哪四个字？",
+    "options": [
+      "原应叹息",
+      "花红柳绿",
+      "金玉良缘",
+      "春去秋来"
+    ],
+    "correctAnswer": 0,
+    "explanation": "「元迎探惜」谐音「原应叹息」，曹雪芹起名向来暗藏心机——元春早逝宫闱、迎春误嫁中山狼、探春远嫁他乡、惜春出家为尼，四人的结局无一不叫人叹息。"
+  },
+  {
+    "id": "chinese-literature-096",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "王熙凤为了拆散一桩婚事、暗中吃了一笔银子，逼得一对未婚男女双双自尽，这桩「弄权」丑事发生在哪座寺庙？",
+    "options": [
+      "水月庵",
+      "清虚观",
+      "铁槛寺",
+      "馒头庵"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这就是「王熙凤弄权铁槛寺」一回：凤姐假借老尼静虚之口插手退婚案，从中收了好处，间接逼死了张金哥和她的未婚夫。铁槛寺原是贾府家庙，讽刺的是，寺名暗合范成大「纵有千年铁门槛，终须一个土馒头」——再显赫也逃不过因果。"
+  },
+  {
+    "id": "chinese-literature-097",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "贾宝玉挨了父亲贾政一顿毒打，导火索之一是他背着家里跟忠顺王府一位当红戏子过从甚密、还互换了汗巾子。这位戏子艺名叫什么？",
+    "options": [
+      "藕官",
+      "琪官",
+      "龄官",
+      "芳官"
+    ],
+    "correctAnswer": 1,
+    "explanation": "琪官本名蒋玉菡，忠顺王府派人上门「要人」，贾政才知道宝玉私交优伶，气得往死里打。有意思的是，宝玉换给琪官的那条大红汗巾子其实原是袭人的，这个物件后来还成了「花袭人有始有终」嫁给蒋玉菡的伏笔。"
+  },
+  {
+    "id": "chinese-literature-098",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "宝玉的贴身丫鬟花珍珠，被他按一句诗改了名字叫「袭人」，这句诗是？",
+    "options": [
+      "花气袭人知骤暖",
+      "暗香浮动月黄昏",
+      "人面桃花相映红",
+      "此花开尽更无花"
+    ],
+    "correctAnswer": 0,
+    "explanation": "出自陆游《村居书喜》「花气袭人知骤暖」，宝玉图个别致改了名，贾政听说后还嫌这名字过于「刁钻花哨」，训了宝玉一顿——没成想日后袭人真如其名，处处「暖」着宝玉。"
+  },
+  {
+    "id": "chinese-literature-099",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "大观园试才题对额时，宝玉给怡红院拟了「红香绿玉」四个字，元妃省亲后却把它改成了什么，「怡红院」的名字才由此而来？",
+    "options": [
+      "蘅芷清芬",
+      "有凤来仪",
+      "杏帘在望",
+      "怡红快绿"
+    ],
+    "correctAnswer": 3,
+    "explanation": "元妃删去自己不喜的「香玉」二字，把「红香绿玉」改成了「怡红快绿」，怡红院之名就此定下。「有凤来仪」是元妃为潇湘馆定下的匾额，日后正是黛玉的住处。"
+  },
+  {
+    "id": "chinese-literature-100",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "贾宝玉出生时嘴里衔着的那块通灵宝玉，据说本是女娲补天剩下的一块顽石，被弃置在哪座山下？",
+    "options": [
+      "花果山水帘洞",
+      "终南山福地",
+      "大荒山无稽崖",
+      "太行山王屋"
+    ],
+    "correctAnswer": 2,
+    "explanation": "女娲炼了三万六千五百零一块石头补天，单剩这一块没用上，弃在大荒山无稽崖青埂峰下日夜悲号，后来被一僧一道携入红尘，就是宝玉那块「通灵宝玉」。「无稽」二字，正是作者自嘲这段故事「荒唐无稽」的暗号。"
+  },
+  {
+    "id": "chinese-literature-101",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "梁山泊聚义厅前立着一块石碣，上面刻着一百零八将的星号，由三十六天罡星和多少地煞星组成？",
+    "options": [
+      "七十二个",
+      "三十六个",
+      "六十个",
+      "一百个"
+    ],
+    "correctAnswer": 0,
+    "explanation": "三十六天罡加七十二地煞，正好凑齐一百零八将。石碣是「天罡地煞下凡」的设定，早在第一回「洪太尉误走妖魔」时就埋下了伏笔——伏魔殿里镇压的正是这一百零八个魔君。"
+  },
+  {
+    "id": "chinese-literature-102",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "林冲上梁山投奔的第一任寨主心胸狭窄、容不下他，最终被林冲一刀火并——这位梁山「开山寨主」是谁？",
+    "options": [
+      "杜迁",
+      "王伦",
+      "宋万",
+      "朱贵"
+    ],
+    "correctAnswer": 1,
+    "explanation": "「白衣秀士」王伦几次三番刁难林冲的投名状，晁盖等人上山后他又要撵人，积怨已久的林冲当场翻脸，一刀把他劈了，这才请晁盖坐上第一把交椅。杜迁、宋万、朱贵都是王伦手下的原班人马。"
+  },
+  {
+    "id": "chinese-literature-103",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "梁山女将「一丈青」扈三娘武艺高强，后来被宋江做主许配给了哪位头领为妻？",
+    "options": [
+      "菜园子张青",
+      "操刀鬼曹正",
+      "矮脚虎王英",
+      "花项虎龚旺"
+    ],
+    "correctAnswer": 2,
+    "explanation": "扈三娘一家被李逵灭门，她本人却被宋江收留，还认宋太公为义父，最后被许配给相貌猥琐、色心不改的王英——这段姻缘让不少读者读来意难平。孙二娘的丈夫才是菜园子张青，两口子开的是十字坡黑店。"
+  },
+  {
+    "id": "chinese-literature-104",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "潘金莲毒死武大郎后本想瞒天过海，是哪位仵作在验尸时看出蹊跷、悄悄留下骨殖和银子作为呈堂证据，日后帮武松告倒了西门庆？",
+    "options": [
+      "张团头",
+      "郓哥",
+      "王婆",
+      "何九叔"
+    ],
+    "correctAnswer": 3,
+    "explanation": "何九叔收了西门庆的贿赂却留了个心眼，把武大郎两块酥黑骨头和十两银子藏好，等武松回来当面呈上，这才让案子翻了盘。卖梨的郓哥则是当场撞破奸情、后来给武松通风报信的关键人物。"
+  },
+  {
+    "id": "chinese-literature-105",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "宋江在楚州被朝廷赐下的毒酒害死前，特意把哪位兄弟骗来同饮鸩酒，为的是怕他日后知道真相、造反坏了自己「忠义」的名声？",
+    "options": [
+      "吴用",
+      "花荣",
+      "李逵",
+      "燕青"
+    ],
+    "correctAnswer": 2,
+    "explanation": "宋江深知李逵性烈，怕自己死后他仗着蛮力聚众造反，索性请他喝下毒酒，坦言「一同死」；李逵含泪饮尽，只求死后仍葬在宋江身边。远在千里外的吴用、花荣得知噩耗，双双在宋江坟前自缢殉义。"
+  },
+  {
+    "id": "chinese-literature-106",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "“凿壁偷光”讲的是谁勤奋读书的故事？",
+    "options": [
+      "孔子",
+      "匡衡",
+      "李白",
+      "司马光"
+    ],
+    "correctAnswer": 1,
+    "explanation": "西汉匡衡幼时家贫，凿穿墙壁借邻居烛光读书，后成为大学问家。"
+  },
+  {
+    "id": "chinese-literature-107",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "“卧薪尝胆”说的是哪位历史人物？",
+    "options": [
+      "刘邦",
+      "项羽",
+      "勾践",
+      "夫差"
+    ],
+    "correctAnswer": 2,
+    "explanation": "越王勾践战败后睡柴草、尝苦胆，时刻提醒自己复国，最终打败吴国。"
+  },
+  {
+    "id": "chinese-literature-108",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "“闻鸡起舞”讲的是谁的故事？",
+    "options": [
+      "祖逖",
+      "王羲之",
+      "陶渊明",
+      "范仲淹"
+    ],
+    "correctAnswer": 0,
+    "explanation": "东晋祖逖听到鸡鸣就起床舞剑练武，后比喻有志之士及时奋发。"
+  },
+  {
+    "id": "chinese-literature-109",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "“三顾茅庐”请诸葛亮出山的是谁？",
+    "options": [
+      "曹操",
+      "刘备",
+      "孙权",
+      "周瑜"
+    ],
+    "correctAnswer": 1,
+    "explanation": "刘备三次到隆中拜访诸葛亮，才请得他出山辅佐。"
+  },
+  {
+    "id": "chinese-literature-110",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "“完璧归赵”中的“璧”最终由谁完好送回赵国？",
+    "options": [
+      "廉颇",
+      "蔺相如",
+      "赵括",
+      "平原君"
+    ],
+    "correctAnswer": 1,
+    "explanation": "蔺相如带着和氏璧出使秦国，机智周旋，终将玉璧完好带回赵国。"
+  },
+  {
+    "id": "chinese-literature-111",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "“负荆请罪”中背着荆条去请罪的是谁？",
+    "options": [
+      "蔺相如",
+      "廉颇",
+      "白起",
+      "李牧"
+    ],
+    "correctAnswer": 1,
+    "explanation": "廉颇得知蔺相如避让是为国家大局后，背着荆条上门请罪，两人成为生死之交。"
+  },
+  {
+    "id": "chinese-literature-112",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "“纸上谈兵”说的是哪位历史人物？",
+    "options": [
+      "孙武",
+      "赵括",
+      "韩信",
+      "孙膑"
+    ],
+    "correctAnswer": 1,
+    "explanation": "赵括熟读兵书却缺乏实战经验，长平之战只会空谈兵法，导致赵军大败。"
+  },
+  {
+    "id": "chinese-literature-113",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "“指鹿为马”典故中与哪位人物有关？",
+    "options": [
+      "赵高",
+      "李斯",
+      "蒙恬",
+      "扶苏"
+    ],
+    "correctAnswer": 0,
+    "explanation": "秦二世时赵高指着鹿说是马，以此测试群臣是否顺从自己。"
+  },
+  {
+    "id": "chinese-literature-114",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "“四面楚歌”形容的是谁陷入绝境的情景？",
+    "options": [
+      "刘邦",
+      "韩信",
+      "项羽",
+      "张良"
+    ],
+    "correctAnswer": 2,
+    "explanation": "垓下之围时汉军唱起楚歌，项羽以为楚地尽失，后比喻陷入四面受敌的孤立境地。"
+  },
+  {
+    "id": "chinese-literature-115",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "“破釜沉舟”表现了谁的决心？",
+    "options": [
+      "刘邦",
+      "项羽",
+      "曹操",
+      "刘备"
+    ],
+    "correctAnswer": 1,
+    "explanation": "巨鹿之战中项羽砸锅沉船、只带三天口粮，以示不留退路、决一死战。"
+  },
+  {
+    "id": "chinese-literature-116",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "“桃园三结义”的三人中不包括？",
+    "options": [
+      "刘备",
+      "关羽",
+      "张飞",
+      "赵云"
+    ],
+    "correctAnswer": 3,
+    "explanation": "桃园三结义的是刘备、关羽、张飞三人，赵云是后来加入的将领。"
+  },
+  {
+    "id": "chinese-literature-117",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "《西游记》中孙悟空的武器是？",
+    "options": [
+      "方天画戟",
+      "金箍棒",
+      "青龙偃月刀",
+      "丈八蛇矛"
+    ],
+    "correctAnswer": 1,
+    "explanation": "金箍棒原是东海龙宫的定海神针，重一万三千五百斤，可大可小。"
+  },
+  {
+    "id": "chinese-literature-118",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "《红楼梦》又名什么？",
+    "options": [
+      "《金玉缘》",
+      "《石头记》",
+      "《情僧录》之外还有《风月宝鉴》",
+      "以上都是"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《红楼梦》又名《石头记》《情僧录》《风月宝鉴》《金玉缘》等，是一块石头的“记”。"
+  },
+  {
+    "id": "chinese-literature-119",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "《水浒传》中梁山好汉共有多少位？",
+    "options": [
+      "72位",
+      "108位",
+      "128位",
+      "36位"
+    ],
+    "correctAnswer": 1,
+    "explanation": "梁山聚义共108位好汉，对应36天罡、72地煞。"
+  },
+  {
+    "id": "chinese-literature-120",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "“但愿人长久，千里共婵娟”中的“婵娟”指什么？",
+    "options": [
+      "月亮",
+      "美女",
+      "桂花",
+      "美酒"
+    ],
+    "correctAnswer": 0,
+    "explanation": "“婵娟”本指姿态美好，此处代指明月，寄托对亲人的思念。"
+  },
+  {
+    "id": "chinese-literature-121",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "“少壮不努力，老大徒伤悲”出自哪首诗？",
+    "options": [
+      "《长歌行》",
+      "《短歌行》",
+      "《敕勒歌》",
+      "《木兰诗》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "出自汉乐府《长歌行》，劝勉人们趁年少勤奋努力。"
+  },
+  {
+    "id": "chinese-literature-122",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "被后人称为“诗仙”的唐代诗人是？",
+    "options": [
+      "杜甫",
+      "李白",
+      "白居易",
+      "王维"
+    ],
+    "correctAnswer": 1,
+    "explanation": "李白诗风豪放飘逸，充满想象，被贺知章称为“谪仙人”，后世尊为“诗仙”。"
+  },
+  {
+    "id": "chinese-literature-123",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "被后人称为“诗圣”的唐代诗人是？",
+    "options": [
+      "李白",
+      "杜甫",
+      "王维",
+      "杜牧"
+    ],
+    "correctAnswer": 1,
+    "explanation": "杜甫的诗反映民间疾苦、沉郁顿挫，被尊为“诗圣”，其诗被称为“诗史”。"
+  },
+  {
+    "id": "chinese-literature-124",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "因诗歌充满禅意、被称为“诗佛”的诗人是？",
+    "options": [
+      "王维",
+      "孟浩然",
+      "贾岛",
+      "王昌龄"
+    ],
+    "correctAnswer": 0,
+    "explanation": "王维崇佛，山水诗意境空灵、富有禅趣，人称“诗佛”。"
+  },
+  {
+    "id": "chinese-literature-125",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "被称为“诗鬼”的诗人是？",
+    "options": [
+      "李贺",
+      "李商隐",
+      "韩愈",
+      "刘禹锡"
+    ],
+    "correctAnswer": 0,
+    "explanation": "李贺诗作想象奇诡、色彩斑斓，因其诗风诡异奇峭被称为“诗鬼”。"
+  },
+  {
+    "id": "chinese-literature-126",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "“床前明月光”的下一句是？",
+    "options": [
+      "低头思故乡",
+      "疑是地上霜",
+      "处处闻啼鸟",
+      "更上一层楼"
+    ],
+    "correctAnswer": 1,
+    "explanation": "李白《静夜思》：“床前明月光，疑是地上霜。举头望明月，低头思故乡。”"
+  },
+  {
+    "id": "chinese-literature-127",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "“春眠不觉晓，处处闻啼鸟”的作者是？",
+    "options": [
+      "孟浩然",
+      "王维",
+      "贺知章",
+      "王之涣"
+    ],
+    "correctAnswer": 0,
+    "explanation": "出自唐代孟浩然的《春晓》。"
+  },
+  {
+    "id": "chinese-literature-128",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "传统汉字造字法“六书”不包括下列哪一项？",
+    "options": [
+      "象形",
+      "指事",
+      "会意",
+      "拼音"
+    ],
+    "correctAnswer": 3,
+    "explanation": "六书指象形、指事、会意、形声、转注、假借；拼音是近代才出现的注音方法。"
+  },
+  {
+    "id": "chinese-literature-129",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "“快乐地奔跑”中“快乐地”应该使用哪个字？",
+    "options": [
+      "的",
+      "地",
+      "得",
+      "都不对"
+    ],
+    "correctAnswer": 1,
+    "explanation": "动词前用“地”，如“快乐地奔跑”；名词前用“的”，动词后用“得”。"
+  },
+  {
+    "id": "chinese-literature-130",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "成语“画蛇添足”比喻什么？",
+    "options": [
+      "多此一举",
+      "画龙点睛",
+      "笨鸟先飞",
+      "虎头蛇尾"
+    ],
+    "correctAnswer": 0,
+    "explanation": "画好的蛇又添上脚，比喻做多余的事反而坏了事。"
+  },
+  {
+    "id": "chinese-literature-131",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "成语“守株待兔”讽刺的是哪种心态？",
+    "options": [
+      "勤奋刻苦",
+      "心存侥幸、不劳而获",
+      "知错就改",
+      "坚持不懈"
+    ],
+    "correctAnswer": 1,
+    "explanation": "守着树桩等兔子再撞上来，讽刺把偶然当必然、妄想不劳而获的人。"
+  },
+  {
+    "id": "chinese-literature-132",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "成语“愚公移山”主要赞扬什么精神？",
+    "options": [
+      "随机应变",
+      "坚持不懈、迎难而上",
+      "退一步海阔天空",
+      "单打独斗"
+    ],
+    "correctAnswer": 1,
+    "explanation": "愚公不畏艰难、世代挖山不止，体现的是坚持不懈的奋斗精神。"
+  },
+  {
+    "id": "chinese-literature-133",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "成语“刻舟求剑”错在哪里？",
+    "options": [
+      "不懂剑的价值",
+      "不懂事物是运动变化的",
+      "不会划船",
+      "不会游泳"
+    ],
+    "correctAnswer": 1,
+    "explanation": "船在走而剑沉在原地，在船上刻记号找不到剑，比喻不懂事物已变化。"
+  },
+  {
+    "id": "chinese-literature-134",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "成语“亡羊补牢”说明的道理是？",
+    "options": [
+      "损失无法挽回",
+      "出了问题及时补救还不算晚",
+      "养羊风险大",
+      "篱笆越多越好"
+    ],
+    "correctAnswer": 1,
+    "explanation": "羊丢了才修补羊圈，比喻出了问题后及时补救，可以避免继续受损失。"
+  },
+  {
+    "id": "chinese-literature-135",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "“桃李满天下”中的“桃李”代指什么？",
+    "options": [
+      "桃树和李树",
+      "学生",
+      "朋友",
+      "子女"
+    ],
+    "correctAnswer": 1,
+    "explanation": "“桃李”比喻培养的后辈或学生，常说老师“桃李满天下”。"
+  },
+  {
+    "id": "chinese-literature-136",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "“巾帼不让须眉”中“巾帼”原指什么，后代指什么？",
+    "options": [
+      "头巾，代指女子",
+      "盔甲，代指男子",
+      "腰带，代指侠客",
+      "扇子，代指文人"
+    ],
+    "correctAnswer": 0,
+    "explanation": "巾帼是古代妇女的头巾和发饰，后成为女子的代称；须眉代指男子。"
+  },
+  {
+    "id": "chinese-literature-137",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "《论语》主要记录了谁及其弟子的言行？",
+    "options": [
+      "孔子",
+      "孟子",
+      "老子",
+      "荀子"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《论语》由孔子弟子及再传弟子记录孔子言行而成，是儒家经典。"
+  },
+  {
+    "id": "chinese-literature-138",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "“谁知盘中餐，粒粒皆辛苦”的作者是？",
+    "options": [
+      "李绅",
+      "白居易",
+      "杜甫",
+      "骆宾王"
+    ],
+    "correctAnswer": 0,
+    "explanation": "出自唐代李绅《悯农》：“锄禾日当午，汗滴禾下土。谁知盘中餐，粒粒皆辛苦。”"
+  },
+  {
+    "id": "chinese-literature-139",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "“海上生明月，天涯共此时”的作者是？",
+    "options": [
+      "张九龄",
+      "张若虚",
+      "王之涣",
+      "王勃"
+    ],
+    "correctAnswer": 0,
+    "explanation": "出自唐代张九龄《望月怀远》，是望月怀人的名句。"
+  },
+  {
+    "id": "chinese-literature-140",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "“先天下之忧而忧，后天下之乐而乐”出自谁的文章？",
+    "options": [
+      "范仲淹",
+      "欧阳修",
+      "苏轼",
+      "王安石"
+    ],
+    "correctAnswer": 0,
+    "explanation": "出自北宋范仲淹《岳阳楼记》，表达了以天下为己任的情怀。"
+  },
+  {
+    "id": "chinese-literature-141",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "声音不能在下列哪种环境中传播？",
+    "options": [
+      "水中",
+      "空气中",
+      "真空中",
+      "钢铁中"
+    ],
+    "correctAnswer": 2,
+    "explanation": "声音传播需要介质，真空中没有介质，声音无法传播，所以太空是寂静的。"
+  },
+  {
+    "id": "chinese-literature-142",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "光在真空中的速度约为每秒多少千米？",
+    "options": [
+      "3万千米",
+      "30万千米",
+      "300万千米",
+      "3000万千米"
+    ],
+    "correctAnswer": 1,
+    "explanation": "光速约为30万千米/秒（精确为299792千米/秒），是目前已知最快的速度。"
+  },
+  {
+    "id": "chinese-literature-143",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "放大镜利用的是哪种透镜？",
+    "options": [
+      "凹透镜",
+      "凸透镜",
+      "平面镜",
+      "棱镜"
+    ],
+    "correctAnswer": 1,
+    "explanation": "放大镜是凸透镜，物体放在焦点以内时成正立放大的虚像。"
+  },
+  {
+    "id": "chinese-literature-144",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "近视眼应该佩戴哪种透镜矫正？",
+    "options": [
+      "凸透镜",
+      "凹透镜",
+      "平面镜",
+      "不用戴眼镜"
+    ],
+    "correctAnswer": 1,
+    "explanation": "近视是像成在视网膜前，用凹透镜（发散透镜）把光线适当发散来矫正。"
+  },
+  {
+    "id": "chinese-literature-145",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "老花眼（远视）佩戴的眼镜是？",
+    "options": [
+      "凹透镜",
+      "凸透镜",
+      "变色镜",
+      "墨镜"
+    ],
+    "correctAnswer": 1,
+    "explanation": "远视是像成在视网膜后，用凸透镜（会聚透镜）矫正。"
+  },
+  {
+    "id": "chinese-literature-146",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "影子的形成说明光具有什么特性？",
+    "options": [
+      "沿直线传播",
+      "会拐弯",
+      "能被吸收",
+      "有颜色"
+    ],
+    "correctAnswer": 0,
+    "explanation": "光沿直线传播，遇到不透明物体被挡住，在物体后方形成光照不到的阴影。"
+  },
+  {
+    "id": "chinese-literature-147",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "水中筷子看起来“折断”了，这是光的什么现象？",
+    "options": [
+      "反射",
+      "折射",
+      "衍射",
+      "色散"
+    ],
+    "correctAnswer": 1,
+    "explanation": "光从水中进入空气时发生偏折（折射），使筷子在水面处看起来“折”了。"
+  },
+  {
+    "id": "chinese-literature-148",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "照镜子能看到自己，属于光的什么现象？",
+    "options": [
+      "折射",
+      "反射",
+      "散射",
+      "衍射"
+    ],
+    "correctAnswer": 1,
+    "explanation": "平面镜成像利用光的反射，所成的是正立等大的虚像。"
+  },
+  {
+    "id": "chinese-literature-149",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "晴朗的天空呈蔚蓝色，主要原因是光的？",
+    "options": [
+      "直线传播",
+      "反射",
+      "散射",
+      "折射"
+    ],
+    "correctAnswer": 2,
+    "explanation": "大气分子对阳光中的短波光（蓝光）散射更强，所以天空看起来是蓝色的。"
+  },
+  {
+    "id": "chinese-literature-150",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "声音的三要素不包括？",
+    "options": [
+      "音调",
+      "响度",
+      "音色",
+      "亮度"
+    ],
+    "correctAnswer": 3,
+    "explanation": "声音的三要素是音调（高低）、响度（强弱）、音色（品质），亮度是光的属性。"
+  },
+  {
+    "id": "chinese-literature-151",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "人耳能听到的声音频率大约是多少？",
+    "options": [
+      "2~20赫兹",
+      "20~20000赫兹",
+      "2000~20000赫兹",
+      "20万赫兹以上"
+    ],
+    "correctAnswer": 1,
+    "explanation": "人耳听觉范围约20~20000赫兹，低于20赫兹是次声波，高于20000赫兹是超声波。"
+  },
+  {
+    "id": "chinese-literature-152",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "敲鼓时用力越大鼓声越响，说明响度与什么有关？",
+    "options": [
+      "频率",
+      "振幅",
+      "音色",
+      "温度"
+    ],
+    "correctAnswer": 1,
+    "explanation": "用力越大，鼓面振动的振幅越大，响度就越大；音调才由频率决定。"
+  },
+  {
+    "id": "chinese-literature-153",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "吉他弦绷得越紧，弹出的音调越？",
+    "options": [
+      "低",
+      "高",
+      "不变",
+      "沙哑"
+    ],
+    "correctAnswer": 1,
+    "explanation": "弦越紧，振动频率越高，音调越高。"
+  },
+  {
+    "id": "chinese-literature-154",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "液体温度计是根据液体的什么性质制成的？",
+    "options": [
+      "热胀冷缩",
+      "流动性",
+      "导电性",
+      "蒸发"
+    ],
+    "correctAnswer": 0,
+    "explanation": "温度升高液体膨胀、液柱上升，温度降低收缩、液柱下降，这就是热胀冷缩原理。"
+  },
+  {
+    "id": "chinese-literature-155",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "冬天从嘴里呼出的“白气”属于什么现象？",
+    "options": [
+      "汽化",
+      "液化",
+      "升华",
+      "凝华"
+    ],
+    "correctAnswer": 1,
+    "explanation": "口中呼出的水蒸气遇冷液化成小水滴，悬浮在空气中形成“白气”。"
+  },
+  {
+    "id": "chinese-literature-156",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "湿衣服晾干了，属于什么物态变化？",
+    "options": [
+      "熔化",
+      "凝固",
+      "汽化（蒸发）",
+      "凝华"
+    ],
+    "correctAnswer": 2,
+    "explanation": "水由液态变成气态散发到空气中，属于汽化中的蒸发现象。"
+  },
+  {
+    "id": "chinese-literature-157",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "衣柜里的樟脑丸放久了会变小消失，这是？",
+    "options": [
+      "熔化",
+      "汽化",
+      "升华",
+      "凝固"
+    ],
+    "correctAnswer": 2,
+    "explanation": "樟脑丸由固态直接变成气态，属于升华现象。"
+  },
+  {
+    "id": "chinese-literature-158",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "深秋早晨草地上的霜是怎样形成的？",
+    "options": [
+      "露水凝固",
+      "水蒸气直接凝华",
+      "雨水蒸发",
+      "雾气液化"
+    ],
+    "correctAnswer": 1,
+    "explanation": "气温低于0℃时，空气中的水蒸气直接由气态变成固态冰晶，附着在草叶上形成霜，这叫凝华。"
+  },
+  {
+    "id": "chinese-literature-159",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "冰化成水属于什么物态变化？",
+    "options": [
+      "凝固",
+      "熔化",
+      "液化",
+      "汽化"
+    ],
+    "correctAnswer": 1,
+    "explanation": "物质由固态变成液态叫熔化，熔化需要吸热。"
+  },
+  {
+    "id": "chinese-literature-160",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "水结成冰属于什么物态变化？",
+    "options": [
+      "熔化",
+      "汽化",
+      "凝固",
+      "凝华"
+    ],
+    "correctAnswer": 2,
+    "explanation": "物质由液态变成固态叫凝固，凝固会放出热量。"
+  },
+  {
+    "id": "chinese-literature-161",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "公交车突然刹车时，乘客身体会向前倾，这是因为？",
+    "options": [
+      "惯性",
+      "引力",
+      "摩擦力消失",
+      "空气阻力"
+    ],
+    "correctAnswer": 0,
+    "explanation": "车减速而人由于惯性仍保持原来的运动状态，所以上身向前倾。"
+  },
+  {
+    "id": "chinese-literature-162",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "牛顿第一定律又叫什么定律？",
+    "options": [
+      "惯性定律",
+      "万有引力定律",
+      "作用力定律",
+      "能量守恒定律"
+    ],
+    "correctAnswer": 0,
+    "explanation": "牛顿第一定律指出物体在不受外力时保持静止或匀速直线运动，也叫惯性定律。"
+  },
+  {
+    "id": "chinese-literature-163",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "重力的方向总是？",
+    "options": [
+      "竖直向下",
+      "垂直于地面",
+      "指向地心之外",
+      "水平方向"
+    ],
+    "correctAnswer": 0,
+    "explanation": "重力的方向总是竖直向下（大致指向地心），所以苹果会落地、水往低处流。"
+  },
+  {
+    "id": "chinese-literature-164",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "成熟的苹果从树上掉下来，是因为它受到？",
+    "options": [
+      "浮力",
+      "重力",
+      "磁力",
+      "弹力"
+    ],
+    "correctAnswer": 1,
+    "explanation": "地球吸引苹果产生重力，重力的方向竖直向下。"
+  },
+  {
+    "id": "chinese-literature-165",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "干燥天气脱毛衣时听到“噼啪”声，这是因为？",
+    "options": [
+      "静电现象",
+      "雷声",
+      "毛衣在响",
+      "气流震动"
+    ],
+    "correctAnswer": 0,
+    "explanation": "摩擦使衣物带电，电荷放电时产生噼啪声，属于静电现象。"
+  },
+  {
+    "id": "chinese-literature-166",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "雷雨天气时，下列做法正确的是？",
+    "options": [
+      "躲在大树下避雨",
+      "在空旷处打伞行走",
+      "尽快进入有避雷设施的建筑内",
+      "在水边逗留"
+    ],
+    "correctAnswer": 2,
+    "explanation": "大树、空旷高地和水边都容易遭雷击，应尽快进入装有避雷装置的房屋或汽车内。"
+  },
+  {
+    "id": "chinese-literature-167",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "中国家庭电路的电压是？",
+    "options": [
+      "110伏",
+      "220伏",
+      "380伏",
+      "36伏"
+    ],
+    "correctAnswer": 1,
+    "explanation": "中国民用电压是220伏（日本、美国等是110伏）；380伏是工业三相电。"
+  },
+  {
+    "id": "chinese-literature-168",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "一节普通干电池的电压约为？",
+    "options": [
+      "1.5伏",
+      "3伏",
+      "9伏",
+      "12伏"
+    ],
+    "correctAnswer": 0,
+    "explanation": "一节5号或7号干电池标称电压为1.5伏。"
+  },
+  {
+    "id": "chinese-literature-169",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "对人体安全的电压一般不高于多少伏？",
+    "options": [
+      "220伏",
+      "110伏",
+      "36伏",
+      "380伏"
+    ],
+    "correctAnswer": 2,
+    "explanation": "一般认为不高于36伏的电压对人体相对安全，潮湿环境下安全电压更低。"
+  },
+  {
+    "id": "chinese-literature-170",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "下列物品中属于导体的是？",
+    "options": [
+      "橡皮",
+      "铜钥匙",
+      "塑料尺",
+      "陶瓷杯"
+    ],
+    "correctAnswer": 1,
+    "explanation": "金属容易导电属于导体；橡皮、塑料、陶瓷都不易导电，属于绝缘体。"
+  },
+  {
+    "id": "chinese-literature-171",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "电工师傅带电作业时常戴橡胶手套，因为橡胶是？",
+    "options": [
+      "导体",
+      "绝缘体",
+      "半导体",
+      "超导体"
+    ],
+    "correctAnswer": 1,
+    "explanation": "橡胶几乎不导电，是良好的绝缘体，能防止触电。"
+  },
+  {
+    "id": "chinese-literature-172",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "指南针静止时指向南方的那一端叫？",
+    "options": [
+      "北极（N极）",
+      "南极（S极）",
+      "东极",
+      "西极"
+    ],
+    "correctAnswer": 1,
+    "explanation": "指南针指南的一端叫南极（S极），指北的一端叫北极（N极）。"
+  },
+  {
+    "id": "chinese-literature-173",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "电动机工作时主要把什么能转化为什么能？",
+    "options": [
+      "机械能转化为电能",
+      "电能转化为机械能",
+      "热能转化为光能",
+      "化学能转化为热能"
+    ],
+    "correctAnswer": 1,
+    "explanation": "电动机通电后转动，把电能转化为机械能；发电机正好相反。"
+  },
+  {
+    "id": "chinese-literature-174",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "核电站发电利用的是哪种能量？",
+    "options": [
+      "风能",
+      "核能（核裂变）",
+      "水能",
+      "太阳能"
+    ],
+    "correctAnswer": 1,
+    "explanation": "核电站通过铀等核燃料的链式裂变反应释放能量，再转化为电能。"
+  },
+  {
+    "id": "chinese-literature-175",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "冬天户外摸铁比摸木头感觉更冷，这是因为？",
+    "options": [
+      "铁的温度更低",
+      "铁的导热性更好",
+      "木头更粗糙",
+      "铁更重"
+    ],
+    "correctAnswer": 1,
+    "explanation": "铁和木头温度相同，但铁导热快，能迅速把手上的热量带走，所以感觉更冷。"
+  },
+  {
+    "id": "chinese-literature-176",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "能使澄清石灰水变浑浊的气体是？",
+    "options": [
+      "氧气",
+      "氢气",
+      "二氧化碳",
+      "氮气"
+    ],
+    "correctAnswer": 2,
+    "explanation": "二氧化碳与石灰水中的氢氧化钙反应生成白色碳酸钙沉淀，使石灰水变浑浊，这是检验CO2的常用方法。"
+  },
+  {
+    "id": "chinese-literature-177",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "空气中含量最多的气体是？",
+    "options": [
+      "氧气",
+      "氮气",
+      "二氧化碳",
+      "稀有气体"
+    ],
+    "correctAnswer": 1,
+    "explanation": "氮气约占空气体积的78%，氧气约占21%。"
+  },
+  {
+    "id": "chinese-literature-178",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "能支持燃烧、供给呼吸的气体是？",
+    "options": [
+      "氮气",
+      "二氧化碳",
+      "氧气",
+      "水蒸气"
+    ],
+    "correctAnswer": 2,
+    "explanation": "氧气能支持燃烧和供给呼吸，约占空气体积的21%。"
+  },
+  {
+    "id": "chinese-literature-179",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "水的化学式是？",
+    "options": [
+      "CO2",
+      "H2O",
+      "O2",
+      "H2O2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "一个水分子由两个氢原子和一个氧原子构成，化学式为H2O。"
+  },
+  {
+    "id": "chinese-literature-180",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "地壳中含量最多的元素是？",
+    "options": [
+      "铁",
+      "硅",
+      "铝",
+      "氧"
+    ],
+    "correctAnswer": 3,
+    "explanation": "地壳中含量前四的元素依次是：氧、硅、铝、铁，氧约占一半。"
+  },
+  {
+    "id": "chinese-literature-181",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "地壳中含量最多的金属元素是？",
+    "options": [
+      "铁",
+      "铜",
+      "铝",
+      "金"
+    ],
+    "correctAnswer": 2,
+    "explanation": "铝占地壳质量的约8%，是地壳中含量最多的金属元素。"
+  },
+  {
+    "id": "chinese-literature-182",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "人体胃液的主要成分是？",
+    "options": [
+      "硫酸",
+      "盐酸",
+      "醋酸",
+      "硝酸"
+    ],
+    "correctAnswer": 1,
+    "explanation": "胃液中含有盐酸，能帮助消化食物、杀灭细菌。"
+  },
+  {
+    "id": "chinese-literature-183",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "食盐的主要成分是？",
+    "options": [
+      "碳酸钠",
+      "氯化钠",
+      "碳酸钙",
+      "硫酸钠"
+    ],
+    "correctAnswer": 1,
+    "explanation": "食盐的主要成分是氯化钠（NaCl），是重要的调味品和人体必需物质。"
+  },
+  {
+    "id": "chinese-literature-184",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "厨房里常说的小苏打是？",
+    "options": [
+      "碳酸钠",
+      "碳酸氢钠",
+      "氢氧化钠",
+      "氯化钠"
+    ],
+    "correctAnswer": 1,
+    "explanation": "小苏打是碳酸氢钠（NaHCO3），常用于发面和中和酸性物质；纯碱是碳酸钠。"
+  },
+  {
+    "id": "chinese-literature-185",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "石灰石和大理石的主要成分是？",
+    "options": [
+      "碳酸钙",
+      "碳酸钠",
+      "氧化钙",
+      "氢氧化钙"
+    ],
+    "correctAnswer": 0,
+    "explanation": "石灰石、大理石、贝壳的主要成分都是碳酸钙（CaCO3）。"
+  },
+  {
+    "id": "chinese-literature-186",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "金刚石和石墨都是由哪种元素组成的？",
+    "options": [
+      "硅",
+      "碳",
+      "氧",
+      "硫"
+    ],
+    "correctAnswer": 1,
+    "explanation": "金刚石和石墨都是由碳元素组成，只因原子排列方式不同，性质差异巨大。"
+  },
+  {
+    "id": "chinese-literature-187",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "煤气中毒主要是因为哪种气体？",
+    "options": [
+      "二氧化碳",
+      "一氧化碳",
+      "甲烷",
+      "氧气"
+    ],
+    "correctAnswer": 1,
+    "explanation": "一氧化碳能与血红蛋白结合且不易分离，使人体缺氧中毒，俗称煤气中毒。"
+  },
+  {
+    "id": "chinese-literature-188",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "造成温室效应的主要气体是？",
+    "options": [
+      "氧气",
+      "氢气",
+      "二氧化碳",
+      "氮气"
+    ],
+    "correctAnswer": 2,
+    "explanation": "二氧化碳等温室气体像温室玻璃一样截留热量，是全球变暖的主因。"
+  },
+  {
+    "id": "chinese-literature-189",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "酸雨的形成主要与哪种气体排放有关？",
+    "options": [
+      "二氧化硫和氮氧化物",
+      "氧气和氮气",
+      "二氧化碳和氢气",
+      "稀有气体"
+    ],
+    "correctAnswer": 0,
+    "explanation": "煤燃烧排放的二氧化硫和汽车尾气中的氮氧化物溶于雨水形成酸雨。"
+  },
+  {
+    "id": "chinese-literature-190",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "pH小于7的溶液呈什么性？",
+    "options": [
+      "酸性",
+      "碱性",
+      "中性",
+      "无法判断"
+    ],
+    "correctAnswer": 0,
+    "explanation": "pH=7为中性，小于7为酸性，大于7为碱性。"
+  },
+  {
+    "id": "chinese-literature-191",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "用pH试纸测定溶液酸碱度时，正确的操作是？",
+    "options": [
+      "把试纸直接伸进试剂瓶",
+      "用玻璃棒蘸取溶液滴在试纸上",
+      "把试剂倒到试纸上",
+      "用手拿试纸蘸溶液"
+    ],
+    "correctAnswer": 1,
+    "explanation": "应把溶液滴在放在玻璃片上的pH试纸上再比色，直接伸入试剂会污染整瓶试剂。"
+  },
+  {
+    "id": "chinese-literature-192",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "铁生锈需要与下列哪些物质接触？",
+    "options": [
+      "只有水",
+      "只有氧气",
+      "水和氧气",
+      "氮气"
+    ],
+    "correctAnswer": 2,
+    "explanation": "铁生锈是铁与空气中的氧气、水共同作用的结果，缺一不可。"
+  },
+  {
+    "id": "chinese-literature-193",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "下列哪种方法不能防止铁制品生锈？",
+    "options": [
+      "刷油漆",
+      "涂油",
+      "镀其他金属",
+      "经常用水冲洗"
+    ],
+    "correctAnswer": 3,
+    "explanation": "防锈的原理是隔绝水和氧气，刷漆、涂油、镀层都能做到；用水冲洗反而加速生锈。"
+  },
+  {
+    "id": "chinese-literature-194",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "燃烧需要的三个条件不包括？",
+    "options": [
+      "可燃物",
+      "助燃物（如氧气）",
+      "温度达到着火点",
+      "充足的光照"
+    ],
+    "correctAnswer": 3,
+    "explanation": "燃烧三要素是可燃物、助燃物和温度达到着火点，光照不是必要条件。"
+  },
+  {
+    "id": "chinese-literature-195",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "用水灭火的主要原理是？",
+    "options": [
+      "隔绝了所有氧气",
+      "把温度降到着火点以下",
+      "水能燃烧",
+      "增加可燃物"
+    ],
+    "correctAnswer": 1,
+    "explanation": "水蒸发吸热，使可燃物温度降到着火点以下，火就灭了。"
+  },
+  {
+    "id": "chinese-literature-196",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "家中油锅起火，正确的处理方法是？",
+    "options": [
+      "立即浇水",
+      "端起油锅跑到室外",
+      "盖上锅盖隔绝空气并关火",
+      "用嘴用力吹灭"
+    ],
+    "correctAnswer": 2,
+    "explanation": "油的密度比水小，浇水会让油飞溅、火势扩大；盖上锅盖隔绝氧气并关火最安全。"
+  },
+  {
+    "id": "chinese-literature-197",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "活性炭能用于净水，主要利用它的什么性质？",
+    "options": [
+      "导电性",
+      "吸附性",
+      "可燃性",
+      "酸性"
+    ],
+    "correctAnswer": 1,
+    "explanation": "活性炭疏松多孔，有很强的吸附能力，可以吸附水中的色素和异味。"
+  },
+  {
+    "id": "chinese-literature-198",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "电解水实验产生的气体是？",
+    "options": [
+      "氧气和氮气",
+      "氢气和氧气",
+      "二氧化碳和氧气",
+      "氮气和氢气"
+    ],
+    "correctAnswer": 1,
+    "explanation": "电解水时负极产生氢气、正极产生氧气，体积比约为2:1，证明水由氢氧元素组成。"
+  },
+  {
+    "id": "chinese-literature-199",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "氢气在空气中燃烧生成什么？",
+    "options": [
+      "二氧化碳",
+      "一氧化碳",
+      "水",
+      "氧气"
+    ],
+    "correctAnswer": 2,
+    "explanation": "氢气燃烧的产物只有水，所以氢气被认为是理想的清洁燃料。"
+  },
+  {
+    "id": "chinese-literature-200",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "检验一瓶气体是否是氧气，常用的方法是？",
+    "options": [
+      "闻气味",
+      "倒入石灰水",
+      "伸入带火星的木条",
+      "放入金属片"
+    ],
+    "correctAnswer": 2,
+    "explanation": "氧气能使带火星的木条复燃，这是检验氧气的特征方法。"
+  },
+  {
+    "id": "chinese-literature-201",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "霓虹灯能发出五颜六色的光，灯管内充的是哪种气体？",
+    "options": [
+      "氧气",
+      "稀有气体",
+      "二氧化碳",
+      "水蒸气"
+    ],
+    "correctAnswer": 1,
+    "explanation": "稀有气体通电时会发出不同颜色的光，如氖气发红光、氩气发蓝光，常用于霓虹灯。"
+  },
+  {
+    "id": "chinese-literature-202",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "碘酒是常用的皮肤消毒剂，它属于？",
+    "options": [
+      "纯净物",
+      "混合物",
+      "单质",
+      "碱"
+    ],
+    "correctAnswer": 1,
+    "explanation": "碘酒是碘溶解在酒精中形成的溶液，由多种物质组成，属于混合物。"
+  },
+  {
+    "id": "chinese-literature-203",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "下列物质中属于单质的是？",
+    "options": [
+      "水",
+      "二氧化碳",
+      "氧气",
+      "食盐"
+    ],
+    "correctAnswer": 2,
+    "explanation": "单质是由同一种元素组成的纯净物，氧气（O2）只含氧元素；水、二氧化碳是化合物，食盐是混合物。"
+  },
+  {
+    "id": "chinese-literature-204",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "把白糖加热到熔化，继续加热会变成黑色的炭，这说明白糖中含有？",
+    "options": [
+      "碳元素",
+      "铁元素",
+      "铜元素",
+      "银元素"
+    ],
+    "correctAnswer": 0,
+    "explanation": "化学变化前后元素种类不变，生成黑色的碳说明白糖中含有碳元素。"
+  },
+  {
+    "id": "chinese-literature-205",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "打开汽水瓶盖时冒出大量气泡，这是因为？",
+    "options": [
+      "温度升高气体溶解增多",
+      "压强减小，二氧化碳溶解度减小",
+      "水变成了气体",
+      "瓶子产生了气体"
+    ],
+    "correctAnswer": 1,
+    "explanation": "气体的溶解度随压强减小而减小，开盖后压强骤降，溶解的二氧化碳大量逸出形成气泡。"
+  }
+]

@@ -1,0 +1,2172 @@
+[
+  {
+    "id": "world-knowledge-001",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "澳大利亚的首都是哪座城市？",
+    "options": [
+      "悉尼",
+      "墨尔本",
+      "堪培拉",
+      "布里斯班"
+    ],
+    "correctAnswer": 2,
+    "explanation": "堪培拉才是澳大利亚的首都！当年悉尼和墨尔本为争首都吵得不可开交，最后干脆在两城之间新建了堪培拉作为妥协方案。"
+  },
+  {
+    "id": "world-knowledge-002",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "世界上海拔最高的首都是哪座城市？",
+    "options": [
+      "基多",
+      "拉巴斯",
+      "波哥大",
+      "加德满都"
+    ],
+    "correctAnswer": 1,
+    "explanation": "玻利维亚政府所在地拉巴斯海拔约 3600 米，是世界最高的首都（其法定首都其实是苏克雷）。厄瓜多尔的基多以约 2850 米屈居第二。"
+  },
+  {
+    "id": "world-knowledge-003",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "陆地上最长的山脉是哪一条？",
+    "options": [
+      "安第斯山脉",
+      "喜马拉雅山脉",
+      "落基山脉",
+      "阿尔卑斯山脉"
+    ],
+    "correctAnswer": 0,
+    "explanation": "安第斯山脉纵贯南美洲西海岸，全长约 8900 公里，是陆地最长的山脉。喜马拉雅虽然最高，但比'长度'只能认输。"
+  },
+  {
+    "id": "world-knowledge-004",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "世界上最长的河流尼罗河，自南向北最终注入哪里？",
+    "options": [
+      "红海",
+      "波斯湾",
+      "阿拉伯海",
+      "地中海"
+    ],
+    "correctAnswer": 3,
+    "explanation": "尼罗河一路向北穿越撒哈拉，最终在埃及注入地中海，入海口形成了著名的尼罗河三角洲。"
+  },
+  {
+    "id": "world-knowledge-005",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "典型的地中海气候有什么特点？",
+    "options": [
+      "夏季炎热干燥、冬季温和多雨",
+      "全年高温多雨",
+      "夏季高温多雨、冬季寒冷干燥",
+      "全年温和湿润、降水均匀"
+    ],
+    "correctAnswer": 0,
+    "explanation": "地中海气候夏季受副热带高压控制炎热干燥，冬季受西风带影响温和多雨——所以地中海沿岸的夏天基本不用带伞。"
+  },
+  {
+    "id": "world-knowledge-006",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "如果算上海外领地，跨越时区数量最多的国家是哪个？",
+    "options": [
+      "俄罗斯",
+      "美国",
+      "法国",
+      "加拿大"
+    ],
+    "correctAnswer": 2,
+    "explanation": "法国本土虽只用 1 个时区，但海外领地遍布全球，共横跨 12 个时区，比俄罗斯的 11 个还多，堪称'日不落帝国 2.0'。"
+  },
+  {
+    "id": "world-knowledge-007",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "不考虑夏令时，北京（东八区）正午 12 点时，伦敦（中时区）是几点？",
+    "options": [
+      "早上 8 点",
+      "凌晨 4 点",
+      "前一天傍晚 6 点",
+      "当天晚上 8 点"
+    ],
+    "correctAnswer": 1,
+    "explanation": "北京是 UTC+8，伦敦是 UTC+0，相差 8 小时，所以北京正午 12 点时伦敦还是凌晨 4 点，英国人睡得正香。"
+  },
+  {
+    "id": "world-knowledge-008",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "世界上盐度最高的海是哪个？",
+    "options": [
+      "死海",
+      "地中海",
+      "红海",
+      "波罗的海"
+    ],
+    "correctAnswer": 2,
+    "explanation": "红海蒸发旺盛又几乎没有大河注入，盐度约 4%，居各海之冠。死海虽然更咸，但它是湖泊，没资格参赛。"
+  },
+  {
+    "id": "world-knowledge-009",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "目前世界上人口最多的国家是哪个？",
+    "options": [
+      "中国",
+      "美国",
+      "印度尼西亚",
+      "印度"
+    ],
+    "correctAnswer": 3,
+    "explanation": "根据联合国数据，印度在 2023 年正式超越中国，成为世界第一人口大国，而且这个位置预计会坐很多年。"
+  },
+  {
+    "id": "world-knowledge-010",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "世界上面积最大的内陆国（没有海岸线的国家）是哪个？",
+    "options": [
+      "蒙古国",
+      "哈萨克斯坦",
+      "乍得",
+      "巴拉圭"
+    ],
+    "correctAnswer": 1,
+    "explanation": "哈萨克斯坦面积约 272 万平方公里，是世界最大的内陆国，比第二名蒙古国大了将近一倍。"
+  },
+  {
+    "id": "world-knowledge-011",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "世界上最大的热带沙漠是哪个？",
+    "options": [
+      "撒哈拉沙漠",
+      "塔克拉玛干沙漠",
+      "阿拉伯沙漠",
+      "澳大利亚沙漠"
+    ],
+    "correctAnswer": 0,
+    "explanation": "撒哈拉沙漠面积约 920 万平方公里，几乎和美国本土相当。冷知识：若按广义荒漠定义，南极洲才是地球上最大的'荒漠'。"
+  },
+  {
+    "id": "world-knowledge-012",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "地球上最早迎接新一天（最早跨日）的国家是哪个？",
+    "options": [
+      "新西兰",
+      "日本",
+      "斐济",
+      "基里巴斯"
+    ],
+    "correctAnswer": 3,
+    "explanation": "基里巴斯在 1995 年把国际日期变更线'掰弯'，其莱恩群岛采用 UTC+14 时区，成为全球最早迎来新一天的地方。"
+  },
+  {
+    "id": "world-knowledge-013",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "土耳其的首都是哪座城市？",
+    "options": [
+      "伊斯坦布尔",
+      "安卡拉",
+      "伊兹密尔",
+      "安塔利亚"
+    ],
+    "correctAnswer": 1,
+    "explanation": "土耳其首都是安卡拉，不是伊斯坦布尔！伊斯坦布尔只是最大城市，1923 年土耳其共和国建国后就把首都迁到了内陆的安卡拉。"
+  },
+  {
+    "id": "world-knowledge-014",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "世界上流量最大、流域面积最广的河流是哪条？",
+    "options": [
+      "尼罗河",
+      "刚果河",
+      "亚马孙河",
+      "密西西比河"
+    ],
+    "correctAnswer": 2,
+    "explanation": "亚马孙河的流量约占全球河流入海总量的五分之一，比后面七条大河加起来还多。尼罗河虽长，但论'水量'完全不是对手。"
+  },
+  {
+    "id": "world-knowledge-015",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "欧洲最长的河流伏尔加河，最终注入哪个水域？",
+    "options": [
+      "黑海",
+      "波罗的海",
+      "地中海",
+      "里海"
+    ],
+    "correctAnswer": 3,
+    "explanation": "伏尔加河全长约 3530 公里，一路向南注入里海。它被俄罗斯人称为'母亲河'，而里海其实是世界最大的湖泊。"
+  },
+  {
+    "id": "world-knowledge-016",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "地球表面的最低点（海洋最深处）位于哪条海沟？",
+    "options": [
+      "马里亚纳海沟",
+      "汤加海沟",
+      "千岛-堪察加海沟",
+      "秘鲁-智利海沟"
+    ],
+    "correctAnswer": 0,
+    "explanation": "马里亚纳海沟的挑战者深渊深约 10900 米，把珠穆朗玛峰整个塞进去还差两千多米才能露出海面。"
+  },
+  {
+    "id": "world-knowledge-017",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "下列哪座城市属于典型的温带海洋性气候，全年温和湿润？",
+    "options": [
+      "罗马",
+      "伦敦",
+      "开罗",
+      "北京"
+    ],
+    "correctAnswer": 1,
+    "explanation": "温带海洋性气候分布在大陆西岸中高纬度地区，伦敦是典型代表——冬不冷夏不热，雨伞是伦敦人的本体。罗马是地中海气候，北京是温带季风气候。"
+  },
+  {
+    "id": "world-knowledge-018",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "世界上语言种类最多的国家是哪个？",
+    "options": [
+      "印度",
+      "印度尼西亚",
+      "尼日利亚",
+      "巴布亚新几内亚"
+    ],
+    "correctAnswer": 3,
+    "explanation": "巴布亚新几内亚人口不到一千万，却拥有约 840 种语言，占全球语言总数的十分之一以上，山谷之间常常'鸡同鸭讲'。"
+  },
+  {
+    "id": "world-knowledge-019",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "世界上面积最大的岛屿是哪个？",
+    "options": [
+      "格陵兰岛",
+      "新几内亚岛",
+      "加里曼丹岛",
+      "马达加斯加岛"
+    ],
+    "correctAnswer": 0,
+    "explanation": "格陵兰岛面积约 216 万平方公里，是世界第一大岛。澳大利亚虽然更大，但人家被算作大陆，不参与'岛屿排名'。"
+  },
+  {
+    "id": "world-knowledge-020",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "按理论时区划分，中国领土横跨几个时区？",
+    "options": [
+      "3 个",
+      "4 个",
+      "5 个",
+      "6 个"
+    ],
+    "correctAnswer": 2,
+    "explanation": "中国从东到西横跨东五区到东九区共 5 个时区，但全国统一使用北京时间（东八区），所以新疆的'上午十点'天才刚亮透。"
+  },
+  {
+    "id": "world-knowledge-021",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "世界上最深的湖泊是哪个？",
+    "options": [
+      "苏必利尔湖",
+      "坦噶尼喀湖",
+      "贝加尔湖",
+      "维多利亚湖"
+    ],
+    "correctAnswer": 2,
+    "explanation": "贝加尔湖最深处约 1642 米，是世界最深、也是淡水储量最大的湖泊，蓄水量比北美五大湖加起来还多。"
+  },
+  {
+    "id": "world-knowledge-022",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "世界上跨经度最广的大洋是哪个？",
+    "options": [
+      "太平洋",
+      "大西洋",
+      "北冰洋",
+      "印度洋"
+    ],
+    "correctAnswer": 2,
+    "explanation": "北冰洋环绕北极点，所有经线都在这里'会师'，因此它横跨全部 360 个经度，是名副其实的'跨经度冠军'。"
+  },
+  {
+    "id": "world-knowledge-023",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "在主权国家中，人口密度最高的是哪个？",
+    "options": [
+      "新加坡",
+      "梵蒂冈",
+      "巴林",
+      "摩纳哥"
+    ],
+    "correctAnswer": 3,
+    "explanation": "摩纳哥面积仅约 2 平方公里，却住了近 4 万人，人口密度居主权国家之首。它全国都是'市中心'，走路半小时就能出国。"
+  },
+  {
+    "id": "world-knowledge-024",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "世界上位置最靠南的首都是哪座城市？",
+    "options": [
+      "堪培拉",
+      "惠灵顿",
+      "布宜诺斯艾利斯",
+      "比勒陀利亚"
+    ],
+    "correctAnswer": 1,
+    "explanation": "新西兰首都惠灵顿位于南纬约 41 度，是世界最南端的首都，以常年大风闻名，外号'风城'。"
+  },
+  {
+    "id": "world-knowledge-025",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "印度半岛和中南半岛大部分地区属于什么气候类型？",
+    "options": [
+      "热带雨林气候",
+      "热带草原气候",
+      "热带季风气候",
+      "地中海气候"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这两大半半岛受季风支配，分明显的旱雨两季：夏季西南季风带来暴雨，冬季东北季风干爽凉快，是热带季风气候的标准课本案例。"
+  },
+  {
+    "id": "world-knowledge-026",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "日本的首都是哪座城市？",
+    "options": [
+      "首尔",
+      "东京",
+      "大阪",
+      "京都"
+    ],
+    "correctAnswer": 1,
+    "explanation": "东京是日本的首都和最大城市。京都是日本的千年古都，大阪是美食之都，但'首都'这个位置属于东京。"
+  },
+  {
+    "id": "world-knowledge-027",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "世界上海拔最高的山峰是哪座？",
+    "options": [
+      "乔戈里峰",
+      "干城章嘉峰",
+      "乞力马扎罗山",
+      "珠穆朗玛峰"
+    ],
+    "correctAnswer": 3,
+    "explanation": "珠穆朗玛峰海拔约 8848.86 米，是地球之巅，位于中国与尼泊尔边境。它每年还在以几毫米的速度'长高'。"
+  },
+  {
+    "id": "world-knowledge-028",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "中国最长的河流是哪条？",
+    "options": [
+      "长江",
+      "黄河",
+      "珠江",
+      "黑龙江"
+    ],
+    "correctAnswer": 0,
+    "explanation": "长江全长约 6300 公里，是中国第一长河，也是亚洲第一、世界第三长河。黄河虽被称为'母亲河'，但比长度得叫长江一声'大哥'。"
+  },
+  {
+    "id": "world-knowledge-029",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "世界上面积最大的大洋是哪个？",
+    "options": [
+      "大西洋",
+      "印度洋",
+      "太平洋",
+      "北冰洋"
+    ],
+    "correctAnswer": 2,
+    "explanation": "太平洋面积约 1.8 亿平方公里，占地球表面积的三分之一，比全世界陆地面积加起来还大。"
+  },
+  {
+    "id": "world-knowledge-030",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "七大洲中面积最大的是哪个洲？",
+    "options": [
+      "非洲",
+      "北美洲",
+      "欧洲",
+      "亚洲"
+    ],
+    "correctAnswer": 3,
+    "explanation": "亚洲面积约 4400 万平方公里，占全球陆地面积近三分之一，同时还是人口最多的大洲，妥妥的'双料冠军'。"
+  },
+  {
+    "id": "world-knowledge-031",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "法国的首都是哪座城市？",
+    "options": [
+      "伦敦",
+      "巴黎",
+      "柏林",
+      "马德里"
+    ],
+    "correctAnswer": 1,
+    "explanation": "巴黎是法国首都，埃菲尔铁塔、卢浮宫都在这儿。干扰项都是邻居家的首都：伦敦是英国的，柏林是德国的，马德里是西班牙的。"
+  },
+  {
+    "id": "world-knowledge-032",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "亚马孙雨林所在的赤道地区，典型气候特点是什么？",
+    "options": [
+      "全年寒冷干燥",
+      "夏季高温多雨、冬季寒冷干燥",
+      "全年高温多雨",
+      "全年温和、四季分明"
+    ],
+    "correctAnswer": 2,
+    "explanation": "赤道附近常年受赤道低气压控制，全年高温多雨，这就是热带雨林气候——又热又湿，树木才能疯长成'地球之肺'。"
+  },
+  {
+    "id": "world-knowledge-033",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "世界上国土面积最大的国家是哪个？",
+    "options": [
+      "俄罗斯",
+      "加拿大",
+      "中国",
+      "美国"
+    ],
+    "correctAnswer": 0,
+    "explanation": "俄罗斯面积约 1700 多万平方公里，横跨欧亚两大洲，比第二名加拿大了将近一倍，坐火车横穿全国要七天七夜。"
+  },
+  {
+    "id": "world-knowledge-034",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "冰岛国名意为「冰之地」，格陵兰岛（Greenland）名字却意为「绿色之地」，但实际上哪一个被冰川覆盖的面积更大？",
+    "options": [
+      "冰岛",
+      "格陵兰岛",
+      "两者被冰川覆盖的面积其实差不多",
+      "两者几乎都没有冰川"
+    ],
+    "correctAnswer": 1,
+    "explanation": "格陵兰岛约八成面积常年被厚厚的冰盖覆盖，反倒是「冰岛」因地热和暖流影响，绿地和温泉不少。传说中世纪探险家红胡子埃里克为吸引移民，故意把冰封的岛屿取了个好听的绿色名字，堪称「广告文案鼻祖」。"
+  },
+  {
+    "id": "world-knowledge-035",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "世界上面积最小的独立国家是哪一个？",
+    "options": [
+      "摩纳哥",
+      "梵蒂冈",
+      "圣马力诺",
+      "列支敦士登"
+    ],
+    "correctAnswer": 1,
+    "explanation": "梵蒂冈全境仅约0.44平方公里，整个国家完全「嵌」在意大利罗马城里，比不少城市公园还小，绕国境走一圈用不了一个小时。"
+  },
+  {
+    "id": "world-knowledge-036",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "世界上唯一一面不是长方形的国旗，属于哪个国家？",
+    "options": [
+      "不丹",
+      "斯里兰卡",
+      "缅甸",
+      "尼泊尔"
+    ],
+    "correctAnswer": 3,
+    "explanation": "尼泊尔国旗由两个叠放的三角形组成，代表连绵的喜马拉雅山峰，也象征当地的印度教与佛教信仰。这独特造型让统一规定国旗尺寸的国际标准着实费了一番脑筋。"
+  },
+  {
+    "id": "world-knowledge-037",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "领土同时横跨亚洲和欧洲两大洲的国家是哪一个？",
+    "options": [
+      "埃及",
+      "伊朗",
+      "沙特阿拉伯",
+      "土耳其"
+    ],
+    "correctAnswer": 3,
+    "explanation": "土耳其绝大部分领土（安纳托利亚）位于亚洲，只有伊斯坦布尔附近一小块（色雷斯）属于欧洲。跨过博斯普鲁斯海峡上的大桥，几分钟就能从亚洲「走」到欧洲。"
+  },
+  {
+    "id": "world-knowledge-038",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "南美洲面积最大的国家巴西，国名来源于什么？",
+    "options": [
+      "一种能提取红色染料的木材",
+      "当地盛产黄金的传说",
+      "首位登陆的葡萄牙探险家的姓氏",
+      "当地土著部落的自称"
+    ],
+    "correctAnswer": 0,
+    "explanation": "巴西得名于「巴西木」（pau-brasil），这种能提取红色染料的木材是殖民地早期最重要的出口商品，比后来让巴西闻名世界的咖啡和足球都要早得多。"
+  },
+  {
+    "id": "world-knowledge-039",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "赤道横穿了非洲、亚洲和南美洲的部分国家，却唯独没有经过下列哪个大洲？",
+    "options": [
+      "非洲",
+      "亚洲",
+      "南美洲",
+      "欧洲"
+    ],
+    "correctAnswer": 3,
+    "explanation": "赤道一共穿过十几个国家的领土，横跨非洲、亚洲（印度尼西亚）和南美洲，却从未踏入欧洲大陆一步。"
+  },
+  {
+    "id": "world-knowledge-040",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "论陆上邻国数量，中国与哪个国家并列世界第一（都是14个）？",
+    "options": [
+      "巴西",
+      "印度",
+      "俄罗斯",
+      "美国"
+    ],
+    "correctAnswer": 2,
+    "explanation": "中国和俄罗斯都拥有14个陆上邻国，并列世界最多。俄罗斯横跨欧亚，邻居从挪威一路排到朝鲜；中国的邻居则从俄罗斯排到越南，凑一桌麻将都不够坐。"
+  },
+  {
+    "id": "world-knowledge-041",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "非洲国家莱索托（Lesotho）的地理位置有什么特别之处？",
+    "options": [
+      "全境被南非一个国家完全包围",
+      "全境正好位于赤道正下方",
+      "是撒哈拉沙漠腹地的一部分",
+      "全境海拔低于海平面"
+    ],
+    "correctAnswer": 0,
+    "explanation": "莱索托是被单一国家完全包围的「国中国」，四周全是南非领土。全世界只有三个国家被完全包围在另一国境内：莱索托、圣马力诺和梵蒂冈（后两者被意大利包围）。"
+  },
+  {
+    "id": "world-knowledge-042",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "永久中立国瑞士，官方语言一共有几种？",
+    "options": [
+      "2种",
+      "3种",
+      "4种",
+      "1种"
+    ],
+    "correctAnswer": 2,
+    "explanation": "瑞士有德语、法语、意大利语、罗曼什语四种官方语言，一张瑞士法郎纸币上常常同时印着好几种文字，堪称「小国大语言库」。"
+  },
+  {
+    "id": "world-knowledge-043",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "直布罗陀海峡把哪两个大洲隔开？",
+    "options": [
+      "欧洲和非洲",
+      "欧洲和亚洲",
+      "亚洲和非洲",
+      "北美洲和南美洲"
+    ],
+    "correctAnswer": 0,
+    "explanation": "直布罗陀海峡最窄处不到15公里，天气晴朗时，站在西班牙一侧甚至能用肉眼望见对岸的摩洛哥，一眼望两洲。"
+  },
+  {
+    "id": "world-knowledge-044",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "巴拿马运河连接了哪两个大洋？",
+    "options": [
+      "太平洋和大西洋",
+      "太平洋和印度洋",
+      "大西洋和印度洋",
+      "北冰洋和太平洋"
+    ],
+    "correctAnswer": 0,
+    "explanation": "巴拿马运河凿穿中美洲地峡，让船只不必绕行南美洲最南端的合恩角，把往返两大洋的航程一下缩短了数千公里。"
+  },
+  {
+    "id": "world-knowledge-045",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "南美洲国家阿根廷（Argentina）的名字，来源于拉丁语中的哪个词？",
+    "options": [
+      "黄金",
+      "白银",
+      "太阳",
+      "高山"
+    ],
+    "correctAnswer": 1,
+    "explanation": "阿根廷得名于拉丁语「argentum」（白银），当年欧洲探险家误以为这片土地蕴藏大量银矿。流经布宜诺斯艾利斯的「拉普拉塔河」，名字也是「白银之河」的意思。"
+  },
+  {
+    "id": "world-knowledge-046",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "世界上规模最大的珊瑚礁群「大堡礁」，分布在哪个国家附近的海域？",
+    "options": [
+      "印度尼西亚",
+      "菲律宾",
+      "澳大利亚",
+      "马尔代夫"
+    ],
+    "correctAnswer": 2,
+    "explanation": "大堡礁绵延在澳大利亚东北海岸外，由数千个独立礁体组成，是地球上最大的生物结构，从太空中都能辨认出它的轮廓。"
+  },
+  {
+    "id": "world-knowledge-047",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "非洲著名的维多利亚瀑布，位于赞比亚和哪个国家的交界处？",
+    "options": [
+      "坦桑尼亚",
+      "肯尼亚",
+      "南非",
+      "津巴布韦"
+    ],
+    "correctAnswer": 3,
+    "explanation": "维多利亚瀑布横跨赞比西河，是赞比亚与津巴布韦的界河瀑布。当地原名意为「雷鸣的烟雾」，飞溅的水花能腾起数百米高的水雾，几公里外都能看见。"
+  },
+  {
+    "id": "world-knowledge-048",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "世界上仅有的两个「双重内陆国」（本国及所有邻国都没有海岸线）是列支敦士登和哪个国家？",
+    "options": [
+      "蒙古国",
+      "哈萨克斯坦",
+      "乌兹别克斯坦",
+      "白俄罗斯"
+    ],
+    "correctAnswer": 2,
+    "explanation": "乌兹别克斯坦周边邻国清一色都是内陆国，想从这里出海，至少要连续穿越两个国家。列支敦士登同理，被瑞士和奥地利这两个内陆国夹在中间，是全世界仅有的两个「双重内陆国」。"
+  },
+  {
+    "id": "world-knowledge-049",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "南美洲国家玻利维亚（Bolivia）的国名，是为了纪念哪位历史人物？",
+    "options": [
+      "哥伦布",
+      "西蒙·玻利瓦尔",
+      "麦哲伦",
+      "圣马丁"
+    ],
+    "correctAnswer": 1,
+    "explanation": "玻利维亚以南美独立运动领袖西蒙·玻利瓦尔命名，他领导多国摆脱西班牙殖民统治。委内瑞拉的正式国名「玻利瓦尔共和国」同样是为了致敬他。"
+  },
+  {
+    "id": "world-knowledge-050",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "地球海洋中离任何陆地都最远的一点，被称为「尼莫点」（Point Nemo），它位于哪个大洋？",
+    "options": [
+      "印度洋",
+      "大西洋",
+      "太平洋",
+      "北冰洋"
+    ],
+    "correctAnswer": 2,
+    "explanation": "尼莫点周围两千多公里内没有陆地，距离最近的人类往往是国际空间站上的宇航员——因为空间站的轨道高度比附近陆地还要近。"
+  },
+  {
+    "id": "world-knowledge-051",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "大西洋中的马尾藻海（萨尔加索海）有一项特殊之处：它是世界上唯一——",
+    "options": [
+      "完全由洋流而非陆地圈定边界的海",
+      "终年结冰的海",
+      "位于赤道正下方的海",
+      "盐度低于淡水湖的海"
+    ],
+    "correctAnswer": 0,
+    "explanation": "马尾藻海四周被墨西哥湾流等四条洋流环绕，没有任何一段海岸线，是名副其实「没有岸」的海。海面大片漂浮的马尾藻，也让百慕大三角的传说更添几分神秘。"
+  },
+  {
+    "id": "world-knowledge-052",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "世界上唯一在国旗图案中画有枪械（一支AK-47突击步枪）的国家是？",
+    "options": [
+      "安哥拉",
+      "津巴布韦",
+      "厄立特里亚",
+      "莫桑比克"
+    ],
+    "correctAnswer": 3,
+    "explanation": "莫桑比克国旗上的AK-47与锄头、书本交叉出现，分别象征保卫国家、发展农业和重视教育，用来纪念其艰苦漫长的独立战争历史。"
+  },
+  {
+    "id": "world-knowledge-053",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "巴西国土辽阔，几乎与南美洲所有国家接壤，只有两个国家例外，是哪两个？",
+    "options": [
+      "秘鲁和委内瑞拉",
+      "智利和厄瓜多尔",
+      "乌拉圭和圭亚那",
+      "哥伦比亚和苏里南"
+    ],
+    "correctAnswer": 1,
+    "explanation": "巴西一国就接壤10个邻国，南美洲其余12个国家里，只有智利和厄瓜多尔跟它不搭界——这两国恰好都被安第斯山脉和其他国家挡在了外面。"
+  },
+  {
+    "id": "world-knowledge-054",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "世界上面积最大的半岛是哪一个？",
+    "options": [
+      "中南半岛",
+      "斯堪的纳维亚半岛",
+      "印度半岛",
+      "阿拉伯半岛"
+    ],
+    "correctAnswer": 3,
+    "explanation": "阿拉伯半岛面积超过300万平方公里，比整个印度还要大，沙特阿拉伯一国就占据了其中的大部分。"
+  },
+  {
+    "id": "world-knowledge-055",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "世界上岛屿数量最多的国家是哪一个？",
+    "options": [
+      "挪威",
+      "菲律宾",
+      "印度尼西亚",
+      "日本"
+    ],
+    "correctAnswer": 2,
+    "explanation": "印度尼西亚由超过一万七千个岛屿组成，领土横跨三个时区，其中有常住人口的岛屿约六千个，堪称名副其实的「千岛之国」。"
+  },
+  {
+    "id": "world-knowledge-056",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "城市曼谷属于哪个国家？",
+    "options": [
+      "越南",
+      "泰国",
+      "马来西亚",
+      "菲律宾"
+    ],
+    "correctAnswer": 1,
+    "explanation": "曼谷是泰国首都兼最大城市，大皇宫、湄南河和热闹的夜市都是招牌地标；它的泰语全称超长，曾入选吉尼斯世界纪录，是全世界最长的城市名。"
+  },
+  {
+    "id": "world-knowledge-057",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "城市圣保罗属于哪个国家？",
+    "options": [
+      "巴西",
+      "阿根廷",
+      "智利",
+      "葡萄牙"
+    ],
+    "correctAnswer": 0,
+    "explanation": "圣保罗是巴西最大城市、南半球人口最多的都市之一，也是拉美首屈一指的金融与工业中心；因历史上长期属于葡萄牙殖民地，当地通行葡萄牙语。"
+  },
+  {
+    "id": "world-knowledge-058",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "城市慕尼黑属于哪个国家？",
+    "options": [
+      "奥地利",
+      "瑞士",
+      "荷兰",
+      "德国"
+    ],
+    "correctAnswer": 3,
+    "explanation": "慕尼黑是德国巴伐利亚州的首府，闻名全球的十月啤酒节（Oktoberfest）每年秋季就在这里举办，同时也是宝马汽车总部的所在地。"
+  },
+  {
+    "id": "world-knowledge-059",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "城市孟买属于哪个国家？",
+    "options": [
+      "巴基斯坦",
+      "孟加拉国",
+      "印度",
+      "斯里兰卡"
+    ],
+    "correctAnswer": 2,
+    "explanation": "孟买是印度最大城市和金融、娱乐业中心，世界闻名的宝莱坞电影工业就以这里为大本营，海岸边的印度门是其标志性地标。"
+  },
+  {
+    "id": "world-knowledge-060",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "城市维也纳属于哪个国家？",
+    "options": [
+      "德国",
+      "奥地利",
+      "瑞士",
+      "匈牙利"
+    ],
+    "correctAnswer": 1,
+    "explanation": "维也纳是奥地利首都，被誉为「音乐之都」，贝多芬、莫扎特、海顿等音乐大师都曾在此创作与生活，金色大厅更是全球乐迷心中的圣地。"
+  },
+  {
+    "id": "world-knowledge-061",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "城市温哥华属于哪个国家？",
+    "options": [
+      "美国",
+      "英国",
+      "加拿大",
+      "澳大利亚"
+    ],
+    "correctAnswer": 2,
+    "explanation": "温哥华是加拿大西海岸最大城市、2010年冬奥会举办地，多次登顶全球宜居城市榜单；它也是加拿大第三大城市，仅次于多伦多和蒙特利尔。"
+  },
+  {
+    "id": "world-knowledge-062",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "城市蒙特利尔属于哪个国家？",
+    "options": [
+      "加拿大",
+      "美国",
+      "法国",
+      "比利时"
+    ],
+    "correctAnswer": 0,
+    "explanation": "蒙特利尔是加拿大第二大城市，也是全球仅次于巴黎的第二大法语城市；老城区的鹅卵石街道和圣母大教堂处处透着法兰西风情。"
+  },
+  {
+    "id": "world-knowledge-063",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "城市开普敦属于哪个国家？",
+    "options": [
+      "纳米比亚",
+      "肯尼亚",
+      "莫桑比克",
+      "南非"
+    ],
+    "correctAnswer": 3,
+    "explanation": "开普敦是南非的立法首都（南非共设三个首都），国会就设在这里；著名的桌山和好望角都在开普敦，是南非最知名的旅游城市。"
+  },
+  {
+    "id": "world-knowledge-064",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "城市里约热内卢属于哪个国家？",
+    "options": [
+      "哥伦比亚",
+      "巴西",
+      "阿根廷",
+      "厄瓜多尔"
+    ],
+    "correctAnswer": 1,
+    "explanation": "里约热内卢以山顶的基督像、海滩和狂欢节闻名天下，1960年之前它一直是巴西首都，直到巴西利亚落成才让出首都之位。"
+  },
+  {
+    "id": "world-knowledge-065",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "城市佛罗伦萨属于哪个国家？",
+    "options": [
+      "意大利",
+      "法国",
+      "西班牙",
+      "希腊"
+    ],
+    "correctAnswer": 0,
+    "explanation": "佛罗伦萨是意大利托斯卡纳大区首府、文艺复兴运动的发源地，圣母百花大教堂和乌菲兹美术馆里收藏着无数大师真迹。"
+  },
+  {
+    "id": "world-knowledge-066",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "城市圣彼得堡属于哪个国家？",
+    "options": [
+      "乌克兰",
+      "白俄罗斯",
+      "俄罗斯",
+      "波兰"
+    ],
+    "correctAnswer": 2,
+    "explanation": "圣彼得堡是俄罗斯第二大城市，1712年至1918年间曾长期作为沙俄的首都；著名的冬宫（现为埃尔米塔日博物馆）就坐落在这里。"
+  },
+  {
+    "id": "world-knowledge-067",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "城市苏黎世属于哪个国家？",
+    "options": [
+      "奥地利",
+      "瑞士",
+      "卢森堡",
+      "列支敦士登"
+    ],
+    "correctAnswer": 1,
+    "explanation": "苏黎世是瑞士最大城市和全球顶级金融中心之一，苏黎世湖畔的老城风光如画；它是瑞士的经济首都，而瑞士的政治首都是伯尔尼。"
+  },
+  {
+    "id": "world-knowledge-068",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "城市卡萨布兰卡属于哪个国家？",
+    "options": [
+      "摩洛哥",
+      "阿尔及利亚",
+      "突尼斯",
+      "埃及"
+    ],
+    "correctAnswer": 0,
+    "explanation": "卡萨布兰卡是摩洛哥最大城市和经济中心，哈桑二世清真寺是世界第三大清真寺；好莱坞经典电影《卡萨布兰卡》（北非谍影）让这座城市闻名全球。"
+  },
+  {
+    "id": "world-knowledge-069",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "城市吉隆坡属于哪个国家？",
+    "options": [
+      "印度尼西亚",
+      "泰国",
+      "新加坡",
+      "马来西亚"
+    ],
+    "correctAnswer": 3,
+    "explanation": "吉隆坡是马来西亚首都和最大城市，高耸的国油双峰塔曾是世界最高建筑；这里多元文化交融，华人、马来人和印度人社群和谐共处。"
+  },
+  {
+    "id": "world-knowledge-070",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "城市巴塞罗那属于哪个国家？",
+    "options": [
+      "葡萄牙",
+      "意大利",
+      "西班牙",
+      "法国"
+    ],
+    "correctAnswer": 2,
+    "explanation": "巴塞罗那是西班牙加泰罗尼亚自治区的首府，高迪设计的圣家堂至今未完工却已是世界遗产；它同时还是地中海沿岸最重要的港口城市之一。"
+  },
+  {
+    "id": "world-knowledge-071",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "足球运动员梅西是哪个国家的人？",
+    "options": [
+      "巴西",
+      "阿根廷",
+      "西班牙",
+      "葡萄牙"
+    ],
+    "correctAnswer": 1,
+    "explanation": "梅西1987年出生于阿根廷罗萨里奥，长期代表阿根廷国家队出战，2022年率队夺得世界杯冠军，是公认的阿根廷足球旗帜。"
+  },
+  {
+    "id": "world-knowledge-072",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "文艺复兴画家达·芬奇是哪个国家的人？",
+    "options": [
+      "法国",
+      "希腊",
+      "西班牙",
+      "意大利"
+    ],
+    "correctAnswer": 3,
+    "explanation": "达·芬奇1452年出生于意大利佛罗伦萨附近的芬奇镇，是《蒙娜丽莎》《最后的晚餐》的作者，与米开朗琪罗、拉斐尔并称文艺复兴三杰。"
+  },
+  {
+    "id": "world-knowledge-073",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "微软创始人比尔·盖茨是哪个国家的人？",
+    "options": [
+      "美国",
+      "英国",
+      "加拿大",
+      "澳大利亚"
+    ],
+    "correctAnswer": 0,
+    "explanation": "比尔·盖茨1955年出生于美国华盛顿州西雅图，1975年与保罗·艾伦共同创立微软，曾多年蝉联世界首富。"
+  },
+  {
+    "id": "world-knowledge-074",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "足球运动员卡卡是哪个国家的人？",
+    "options": [
+      "阿根廷",
+      "葡萄牙",
+      "巴西",
+      "法国"
+    ],
+    "correctAnswer": 2,
+    "explanation": "卡卡全名里卡多·伊泽克松·多斯桑托斯，1982年出生于巴西，曾效力AC米兰和皇家马德里，2007年包揽金球奖和世界足球先生。"
+  },
+  {
+    "id": "world-knowledge-075",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "足球运动员孙兴慜是哪个国家的人？",
+    "options": [
+      "日本",
+      "韩国",
+      "朝鲜",
+      "中国"
+    ],
+    "correctAnswer": 1,
+    "explanation": "孙兴慜1992年出生于韩国江原道春川，长期效力英超热刺，是韩国足球的旗帜性人物，曾荣膺英超金靴。"
+  },
+  {
+    "id": "world-knowledge-076",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "足球运动员姆巴佩是哪个国家的人？",
+    "options": [
+      "法国",
+      "西班牙",
+      "英格兰",
+      "意大利"
+    ],
+    "correctAnswer": 0,
+    "explanation": "姆巴佩1998年出生于法国巴黎的市郊邦迪，2018年随法国队夺得世界杯冠军并在决赛中进球，是法国黄金一代的核心。"
+  },
+  {
+    "id": "world-knowledge-077",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "音乐家贝多芬是哪个国家的人？",
+    "options": [
+      "法国",
+      "奥地利",
+      "波兰",
+      "德国"
+    ],
+    "correctAnswer": 3,
+    "explanation": "贝多芬1770年出生于德国波恩，被尊为「乐圣」，代表作有《命运交响曲》《月光奏鸣曲》。他晚年虽定居奥地利的维也纳，但国籍是德国人。"
+  },
+  {
+    "id": "world-knowledge-078",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "足球运动员克里斯蒂亚诺·罗纳尔多（C罗）是哪个国家的人？",
+    "options": [
+      "西班牙",
+      "意大利",
+      "葡萄牙",
+      "巴西"
+    ],
+    "correctAnswer": 2,
+    "explanation": "C罗1985年出生于葡萄牙马德拉群岛，是葡萄牙国家队历史第一射手，2016年率队夺得欧洲杯冠军，是葡萄牙的国民偶像。"
+  },
+  {
+    "id": "world-knowledge-079",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "俄罗斯总统普京是哪个国家的人？",
+    "options": [
+      "乌克兰",
+      "白俄罗斯",
+      "哈萨克斯坦",
+      "俄罗斯"
+    ],
+    "correctAnswer": 3,
+    "explanation": "普京1952年出生于俄罗斯圣彼得堡（当时称列宁格勒），从2000年起长期担任俄罗斯总统，是国际政坛最具影响力的人物之一。"
+  },
+  {
+    "id": "world-knowledge-080",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "演员黄渤是哪个地区的人？",
+    "options": [
+      "山东",
+      "河南",
+      "河北",
+      "辽宁"
+    ],
+    "correctAnswer": 0,
+    "explanation": "黄渤1974年出生于山东青岛，凭《疯狂的石头》《斗牛》《亲爱的》等作品走红，曾凭《斗牛》获金马奖最佳男主角。"
+  },
+  {
+    "id": "world-knowledge-081",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "喜剧演员沈腾是哪个地区的人？",
+    "options": [
+      "吉林",
+      "辽宁",
+      "黑龙江",
+      "河北"
+    ],
+    "correctAnswer": 2,
+    "explanation": "沈腾1979年出生于黑龙江齐齐哈尔，是开心麻花的核心成员，凭《夏洛特烦恼》《西虹市首富》等电影成为国产喜剧票房担当。"
+  },
+  {
+    "id": "world-knowledge-082",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "音乐家莫扎特是哪个国家的人？",
+    "options": [
+      "德国",
+      "奥地利",
+      "瑞士",
+      "匈牙利"
+    ],
+    "correctAnswer": 1,
+    "explanation": "莫扎特1756年出生于奥地利萨尔茨堡，被誉为「音乐神童」，是古典主义音乐的代表人物，代表作有歌剧《费加罗的婚礼》《魔笛》。"
+  },
+  {
+    "id": "world-knowledge-083",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "演员白敬亭是哪个地区的人？",
+    "options": [
+      "天津",
+      "上海",
+      "河北",
+      "北京"
+    ],
+    "correctAnswer": 3,
+    "explanation": "白敬亭1993年出生于北京，因网剧《匆匆那年》出道，之后在《夏至未至》《你是我的城池营垒》等作品中走红。"
+  },
+  {
+    "id": "world-knowledge-084",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "喜剧演员贾玲是哪个地区的人？",
+    "options": [
+      "湖北",
+      "四川",
+      "湖南",
+      "河南"
+    ],
+    "correctAnswer": 0,
+    "explanation": "贾玲1982年出生于湖北襄阳，师从冯巩，执导并主演《你好，李焕英》后成为全球单片票房最高的女导演之一。"
+  },
+  {
+    "id": "world-knowledge-085",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "歌手周深是哪个地区的人？",
+    "options": [
+      "贵州",
+      "云南",
+      "湖南",
+      "四川"
+    ],
+    "correctAnswer": 2,
+    "explanation": "周深1992年出生于湖南邵阳，幼年随家人迁往贵州生活，以空灵独特的嗓音走红，代表作有《大鱼》《光亮》等。"
+  },
+  {
+    "id": "world-knowledge-086",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "品牌三星是哪个国家的品牌？",
+    "options": [
+      "美国",
+      "日本",
+      "韩国",
+      "中国"
+    ],
+    "correctAnswer": 2,
+    "explanation": "三星集团总部位于韩国首尔，1938年创立于韩国大邱，今天它是韩国最大的企业集团，智能手机、芯片、家电等业务遍及全球。"
+  },
+  {
+    "id": "world-knowledge-087",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "品牌丰田是哪个国家的品牌？",
+    "options": [
+      "日本",
+      "韩国",
+      "美国",
+      "德国"
+    ],
+    "correctAnswer": 0,
+    "explanation": "丰田汽车总部设在日本爱知县丰田市，1937年由丰田喜一郎在日本创立，长期位居全球汽车销量前列，也是「精益生产」模式的缔造者。"
+  },
+  {
+    "id": "world-knowledge-088",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "品牌苹果是哪个国家的品牌？",
+    "options": [
+      "英国",
+      "日本",
+      "德国",
+      "美国"
+    ],
+    "correctAnswer": 3,
+    "explanation": "苹果公司1976年创立于美国加利福尼亚州，总部位于硅谷的库比蒂诺，iPhone、Mac等产品与iOS生态全部源自美国。"
+  },
+  {
+    "id": "world-knowledge-089",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "品牌保时捷是哪个国家的品牌？",
+    "options": [
+      "法国",
+      "德国",
+      "意大利",
+      "英国"
+    ],
+    "correctAnswer": 1,
+    "explanation": "保时捷总部位于德国斯图加特，费迪南德·保时捷1931年在此创立设计工作室，如今它是德国最具代表性的跑车品牌，隶属于大众集团。"
+  },
+  {
+    "id": "world-knowledge-090",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "品牌香奈儿是哪个国家的品牌？",
+    "options": [
+      "意大利",
+      "英国",
+      "美国",
+      "法国"
+    ],
+    "correctAnswer": 3,
+    "explanation": "香奈儿由可可·香奈儿1910年在法国巴黎创立，总部至今仍在巴黎，是全球最有代表性的法国奢侈品牌之一，经典双C标志家喻户晓。"
+  },
+  {
+    "id": "world-knowledge-091",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "品牌路虎是哪个国家的品牌？",
+    "options": [
+      "意大利",
+      "英国",
+      "美国",
+      "德国"
+    ],
+    "correctAnswer": 1,
+    "explanation": "路虎是源自英国的豪华SUV品牌，1948年由英国罗孚公司推出首款车型，今天虽归属印度的塔塔集团，但品牌与主要研发、制造仍在英国。"
+  },
+  {
+    "id": "world-knowledge-092",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "品牌法拉利是哪个国家的品牌？",
+    "options": [
+      "法国",
+      "英国",
+      "德国",
+      "意大利"
+    ],
+    "correctAnswer": 3,
+    "explanation": "法拉利1929年由恩佐·法拉利在意大利摩德纳创办，总部位于马拉内罗，跃马标配上经典红色车身，是意大利跑车的代名词。"
+  },
+  {
+    "id": "world-knowledge-093",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "品牌宜家是哪个国家的品牌？",
+    "options": [
+      "瑞士",
+      "丹麦",
+      "瑞典",
+      "荷兰"
+    ],
+    "correctAnswer": 2,
+    "explanation": "宜家1943年由瑞典人英格瓦·坎普拉德创立，源自瑞典斯莫兰地区，是瑞典最具代表性的家居品牌，靠经典北欧简约风格风靡全球。"
+  },
+  {
+    "id": "world-knowledge-094",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "品牌乐高是哪个国家的品牌？",
+    "options": [
+      "瑞典",
+      "挪威",
+      "丹麦",
+      "芬兰"
+    ],
+    "correctAnswer": 2,
+    "explanation": "乐高(Lego)1932年诞生于丹麦比隆，由木匠出身的奥勒·基奥克创办，1949年推出拼接积木，「乐高」取自丹麦语「leg godt」，意为「玩得开心」。"
+  },
+  {
+    "id": "world-knowledge-095",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "品牌雀巢是哪个国家的品牌？",
+    "options": [
+      "美国",
+      "瑞士",
+      "法国",
+      "德国"
+    ],
+    "correctAnswer": 1,
+    "explanation": "雀巢1866年由亨利·雀巢在瑞士沃韦创立，总部至今设在瑞士，是全球最大的食品公司之一——创始人虽是德国人，但公司是地道的瑞士品牌。"
+  },
+  {
+    "id": "world-knowledge-096",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "品牌华为是哪个国家的品牌？",
+    "options": [
+      "日本",
+      "韩国",
+      "中国",
+      "美国"
+    ],
+    "correctAnswer": 2,
+    "explanation": "华为1987年由任正非在深圳创立，总部位于中国深圳，如今是全球领先的通信设备和智能手机厂商。"
+  },
+  {
+    "id": "world-knowledge-097",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "品牌诺基亚是哪个国家的品牌？",
+    "options": [
+      "瑞典",
+      "芬兰",
+      "挪威",
+      "丹麦"
+    ],
+    "correctAnswer": 1,
+    "explanation": "诺基亚1865年创立于芬兰，总部位于芬兰埃斯波，是芬兰最广为人知的企业，曾凭功能手机称霸全球，如今主营通信网络设备。"
+  },
+  {
+    "id": "world-knowledge-098",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "品牌阿斯麦是哪个国家的品牌？",
+    "options": [
+      "美国",
+      "德国",
+      "荷兰",
+      "比利时"
+    ],
+    "correctAnswer": 2,
+    "explanation": "阿斯麦(ASML)总部位于荷兰费尔德霍芬，是极紫外光刻机的全球独家供应商，顶尖芯片大多出自它的机器，被称为「半导体皇冠上的明珠」。"
+  },
+  {
+    "id": "world-knowledge-099",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "品牌劳斯莱斯是哪个国家的品牌？",
+    "options": [
+      "意大利",
+      "英国",
+      "德国",
+      "美国"
+    ],
+    "correctAnswer": 1,
+    "explanation": "劳斯莱斯1904年由劳斯与罗伊斯在英国曼彻斯特创立，是源自英国的超豪华汽车品牌；如今虽归德国宝马集团所有，但制造中心仍在英国古德伍德。"
+  },
+  {
+    "id": "world-knowledge-100",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "品牌施华洛世奇是哪个国家的品牌？",
+    "options": [
+      "瑞士",
+      "德国",
+      "奥地利",
+      "捷克"
+    ],
+    "correctAnswer": 2,
+    "explanation": "施华洛世奇1895年由丹尼尔·施华洛世奇在奥地利瓦滕斯设厂，总部至今留在这里，靠高精度切割的仿水晶饰品享誉全球，是奥地利头号水晶品牌。"
+  },
+  {
+    "id": "world-knowledge-101",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "1968年，哪位作家成为日本历史上第一位诺贝尔文学奖得主？",
+    "options": [
+      "夏目漱石",
+      "大江健三郎",
+      "川端康成",
+      "村上春树"
+    ],
+    "correctAnswer": 2,
+    "explanation": "川端康成1968年凭《雪国》《古都》《千只鹤》等作品获奖。大江健三郎1994年才成为第二位获奖的日本作家，而村上春树至今仍是著名的「陪跑选手」。"
+  },
+  {
+    "id": "world-knowledge-102",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "鲁迅的下列小说中，哪一篇收录在《彷徨》而不是《呐喊》里？",
+    "options": [
+      "《孔乙己》",
+      "《阿Q正传》",
+      "《药》",
+      "《祝福》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "写祥林嫂悲剧的《祝福》收录于鲁迅第二本小说集《彷徨》；其余三篇都在他的第一本小说集《呐喊》里。"
+  },
+  {
+    "id": "world-knowledge-103",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "约瑟夫·海勒的小说《第二十二条军规》是以下哪个文学流派的代表作？",
+    "options": [
+      "垮掉的一代",
+      "黑色幽默",
+      "意识流",
+      "魔幻现实主义"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《第二十二条军规》是「黑色幽默」的招牌作品。那条军规堪称逻辑死循环：疯子可以免飞，但得自己申请——一旦申请，就证明你神志正常。"
+  },
+  {
+    "id": "world-knowledge-104",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "卡夫卡《变形记》里，格里高尔变成大甲虫后，躺在床上最先焦虑的事情是什么？",
+    "options": [
+      "赶不上火车，上班要迟到了",
+      "自己还能不能变回人",
+      "家人看到自己会不会吓晕",
+      "今天的早饭该吃什么"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这位打工人变成虫后满脑子还是误了五点的火车、怎么跟老板交代，被戏称为「社畜文学」的鼻祖。"
+  },
+  {
+    "id": "world-knowledge-105",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "写下「天堂应该是图书馆的模样」的博尔赫斯，曾长期担任的职务是什么？",
+    "options": [
+      "布宜诺斯艾利斯大学校长",
+      "阿根廷驻瑞士大使",
+      "《南方》杂志主编",
+      "阿根廷国家图书馆馆长"
+    ],
+    "correctAnswer": 3,
+    "explanation": "博尔赫斯1955年起任阿根廷国家图书馆馆长近18年，几乎与此同时双目失明。他感叹上帝同时赐给了他八十万册书与黑暗。"
+  },
+  {
+    "id": "world-knowledge-106",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "《围城》中，方鸿渐回国前买了一张假博士文凭，文凭出自哪所「大学」？",
+    "options": [
+      "牛津大学",
+      "克莱登大学",
+      "巴黎大学",
+      "柏林大学"
+    ],
+    "correctAnswer": 1,
+    "explanation": "方鸿渐向一个爱尔兰骗子买了「克莱登大学」的博士文凭，这所子虚乌有的学校从此成了假学历的代名词。"
+  },
+  {
+    "id": "world-knowledge-107",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "「生命是一袭华美的袍，爬满了蚤子。」张爱玲这句名言出自她的哪篇作品？",
+    "options": [
+      "《倾城之恋》",
+      "《金锁记》",
+      "《天才梦》",
+      "《红玫瑰与白玫瑰》"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这句话出自张爱玲19岁时写的散文《天才梦》，其余三部都是她的小说。容易记混的是，「蚊子血与饭黏子」的名句才出自《红玫瑰与白玫瑰》。"
+  },
+  {
+    "id": "world-knowledge-108",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "1938年，哪位美国女作家凭借描写中国农民生活的小说《大地》获得诺贝尔文学奖？",
+    "options": [
+      "赛珍珠",
+      "艾格尼丝·史沫特莱",
+      "安娜·路易斯·斯特朗",
+      "海伦·福斯特·斯诺"
+    ],
+    "correctAnswer": 0,
+    "explanation": "赛珍珠在中国镇江长大，《大地》先拿下普利策奖再拿诺奖。其余三位都是报道中国革命的著名美国女记者，但都与文学奖无缘。"
+  },
+  {
+    "id": "world-knowledge-109",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "1918年，中国第一篇现代白话小说《狂人日记》最早刊登在哪本刊物上？",
+    "options": [
+      "《小说月报》",
+      "《新潮》",
+      "《少年中国》",
+      "《新青年》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《狂人日记》发表于1918年5月的《新青年》，「鲁迅」这个笔名也是从这篇文章才开始使用的。"
+  },
+  {
+    "id": "world-knowledge-110",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "下列小说中，哪一部获得过茅盾文学奖？",
+    "options": [
+      "《活着》",
+      "《白鹿原》",
+      "《废都》",
+      "《黄金时代》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "陈忠实的《白鹿原》（修订版）获第四届茅盾文学奖。余华《活着》拿的是意大利文学奖，王小波《黄金时代》拿的是台湾《联合报》文学奖，《废都》当年则争议缠身、与奖项无缘。"
+  },
+  {
+    "id": "world-knowledge-111",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "《老人与海》开头交代，老渔夫圣地亚哥已经连续多少天没有捕到一条鱼？",
+    "options": [
+      "四十九天",
+      "六十六天",
+      "八十四天",
+      "一百零八天"
+    ],
+    "correctAnswer": 2,
+    "explanation": "整整八十四天空手而归，第八十五天他才钓上那条大马林鱼。选一百零八天的朋友，《水浒传》看得不错。"
+  },
+  {
+    "id": "world-knowledge-112",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "中国当代文学史上，「伤痕文学」这个说法直接得名于哪部作品？",
+    "options": [
+      "卢新华《伤痕》",
+      "刘心武《班主任》",
+      "从维熙《大墙下的红玉兰》",
+      "王亚平《神圣的使命》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "名称来自卢新华1978年的短篇小说《伤痕》。刘心武的《班主任》虽被公认为伤痕文学的开山之作，却是「起了大早、没赶上冠名」。"
+  },
+  {
+    "id": "world-knowledge-113",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "莫言的哪部长篇小说获得了第八届茅盾文学奖？",
+    "options": [
+      "《红高粱家族》",
+      "《蛙》",
+      "《丰乳肥臀》",
+      "《檀香刑》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《蛙》2011年获第八届茅盾文学奖，写的是乡村妇产科医生与计划生育的往事；第二年莫言就捧回了诺贝尔文学奖。"
+  },
+  {
+    "id": "world-knowledge-114",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "《悲惨世界》里，冉·阿让最初因为偷了什么东西而被判苦役？",
+    "options": [
+      "一只银烛台",
+      "一枚金币",
+      "一块面包",
+      "一匹呢料"
+    ],
+    "correctAnswer": 2,
+    "explanation": "他为给姐姐的孩子充饥偷了一块面包，被判五年，又因多次越狱加到十九年。银烛台是后来米里哀主教送给他的，那一幕才让他洗心革面。"
+  },
+  {
+    "id": "world-knowledge-115",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "《追忆似水年华》中，「玛德莱娜小蛋糕」唤醒了叙述者的全部童年记忆——他是把蛋糕蘸在什么里吃的？",
+    "options": [
+      "红茶",
+      "咖啡",
+      "热巧克力",
+      "椴树花茶"
+    ],
+    "correctAnswer": 3,
+    "explanation": "普鲁斯特把玛德莱娜蛋糕蘸进椴树花茶，一口下去，整个贡布雷的记忆全回来了，这就是文学史上最著名的「普鲁斯特时刻」。"
+  },
+  {
+    "id": "world-knowledge-116",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "沈从文《边城》中，翠翠心里真正爱慕的人是谁？",
+    "options": [
+      "傩送（二老）",
+      "天保（大老）",
+      "顺顺",
+      "杨马兵"
+    ],
+    "correctAnswer": 0,
+    "explanation": "翠翠爱的是唱情歌的傩送二老；哥哥天保大老也提亲求娶，失意后闯滩溺亡。顺顺是两兄弟的父亲、船总，杨马兵则是爷爷的老友。"
+  },
+  {
+    "id": "world-knowledge-117",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "巴金《家》中，被高家做主嫁给冯乐山、最终投湖自尽的丫鬟是谁？",
+    "options": [
+      "瑞珏",
+      "梅表姐",
+      "鸣凤",
+      "琴"
+    ],
+    "correctAnswer": 2,
+    "explanation": "丫鬟鸣凤与三少爷觉慧相恋，宁死不肯给冯乐山做妾，投湖自尽。瑞珏难产而死，梅表姐郁郁而终，琴则是争取新式教育的进步小姐。"
+  },
+  {
+    "id": "world-knowledge-118",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "村上春树的小说《挪威的森林》，书名直接借用了哪支乐队的同名歌曲？",
+    "options": [
+      "滚石乐队",
+      "披头士乐队",
+      "皇后乐队",
+      "平克·弗洛伊德"
+    ],
+    "correctAnswer": 1,
+    "explanation": "书名来自披头士1965年的《Norwegian Wood》，这首曲子正是小说中直子最喜欢的歌，前奏一响，渡边的回忆就停不下来了。"
+  },
+  {
+    "id": "world-knowledge-119",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "荒诞派戏剧《等待戈多》的作者贝克特是爱尔兰人，这部剧最初是用哪种语言写成的？",
+    "options": [
+      "英语",
+      "爱尔兰语",
+      "德语",
+      "法语"
+    ],
+    "correctAnswer": 3,
+    "explanation": "贝克特长居巴黎，先用法语写成《En attendant Godot》（1952年），之后才亲自译回英语。他1969年获诺贝尔文学奖，英法双语写作堪称一绝。"
+  },
+  {
+    "id": "world-knowledge-120",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "老舍话剧《茶馆》只有三幕，却横跨近半个世纪。三幕戏依次展现的是哪三个时代？",
+    "options": [
+      "戊戌变法失败后的清末 → 军阀混战的民国初年 → 抗战胜利后的国民党统治时期",
+      "太平天国时期 → 辛亥革命时期 → 北伐战争时期",
+      "洋务运动时期 → 清末新政时期 → 抗日战争时期",
+      "五四运动时期 → 土地革命时期 → 新中国成立初期"
+    ],
+    "correctAnswer": 0,
+    "explanation": "裕泰茶馆三幕分别落在1898年戊戌变法失败后、民国初年军阀混战、抗战胜利后三个节点，老掌柜王利发眼看着茶馆一步步走向衰败。"
+  },
+  {
+    "id": "world-knowledge-121",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "1913年，泰戈尔成为第一位获得诺贝尔文学奖的亚洲作家，他的获奖作品是哪部诗集？",
+    "options": [
+      "《飞鸟集》",
+      "《园丁集》",
+      "《吉檀迦利》",
+      "《新月集》"
+    ],
+    "correctAnswer": 2,
+    "explanation": "获奖的是孟加拉语诗集《吉檀迦利》，意为「献歌」。「生如夏花之绚烂」出自《飞鸟集》，那句更出名，但诺奖认的是《吉檀迦利》。"
+  },
+  {
+    "id": "world-knowledge-122",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "「世界三大短篇小说巨匠」通常指莫泊桑、契诃夫和谁？",
+    "options": [
+      "马克·吐温",
+      "都德",
+      "杰克·伦敦",
+      "欧·亨利"
+    ],
+    "correctAnswer": 3,
+    "explanation": "法国莫泊桑、俄国契诃夫、美国欧·亨利并称三大短篇小说巨匠。欧·亨利最出名的就是「意料之外、情理之中」的结尾反转，比如《麦琪的礼物》。"
+  },
+  {
+    "id": "world-knowledge-123",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "老舍《骆驼祥子》里，祥子被乱兵抓走后趁乱逃回，顺手牵走了几匹骆驼，从此落下「骆驼祥子」的外号？",
+    "options": [
+      "一匹",
+      "三匹",
+      "四匹",
+      "五匹"
+    ],
+    "correctAnswer": 1,
+    "explanation": "祥子连人带车被大兵掳走，逃出兵营时牵回三匹骆驼，卖了三十五块钱。他省吃俭用就为再买一辆车，「三起三落」的命运也就此开始。"
+  },
+  {
+    "id": "world-knowledge-124",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "曹禺1933年写成名剧《雷雨》时年仅23岁，当时他的身份是什么？",
+    "options": [
+      "清华大学的学生",
+      "中学国文教师",
+      "报馆编辑",
+      "职业话剧演员"
+    ],
+    "correctAnswer": 0,
+    "explanation": "曹禺（原名万家宝）当时就读清华大学西洋文学系，《雷雨》基本是他在图书馆里泡出来的毕业之作，一出手就被誉为中国话剧成熟的标志。"
+  },
+  {
+    "id": "world-knowledge-125",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "《百年孤独》里席卷马孔多的「失眠症瘟疫」，最可怕的后果是什么？",
+    "options": [
+      "让人浑身长满绿斑",
+      "让人日夜狂笑不止",
+      "让人逐渐忘记事物的名称和用途",
+      "让人一觉睡死再不醒来"
+    ],
+    "correctAnswer": 2,
+    "explanation": "失眠症蔓延后人们干脆不用睡觉，可随之而来的是集体失忆——布恩迪亚家只好给每样东西贴上标签，连「这是牛，每天要挤奶」都得写上。"
+  },
+  {
+    "id": "world-knowledge-126",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "写出《活着》《许三观卖血记》的作家是谁？",
+    "options": [
+      "莫言",
+      "贾平凹",
+      "余华",
+      "陈忠实"
+    ],
+    "correctAnswer": 2,
+    "explanation": "余华早年是牙医，后来弃医从文。《活着》里福贵和那头老牛的故事，让无数读者边看边抹眼泪。"
+  },
+  {
+    "id": "world-knowledge-127",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "《罗密欧与朱丽叶》《哈姆雷特》这些经典剧目出自哪位大文豪之手？",
+    "options": [
+      "雨果",
+      "歌德",
+      "托尔斯泰",
+      "莎士比亚"
+    ],
+    "correctAnswer": 3,
+    "explanation": "英国剧作家莎士比亚被誉为「人类文学的奥林匹斯山上的宙斯」。据说英语里成千上万个常用表达都能追溯到他的剧本。"
+  },
+  {
+    "id": "world-knowledge-128",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "「一个人可以被毁灭，但不能被打败。」这句名言出自哪位作家笔下的《老人与海》？",
+    "options": [
+      "杰克·伦敦",
+      "海明威",
+      "马克·吐温",
+      "菲茨杰拉德"
+    ],
+    "correctAnswer": 1,
+    "explanation": "海明威凭《老人与海》拿下1954年诺贝尔文学奖。这位硬汉作家站着写作，认为这样文字才够简练有力。"
+  },
+  {
+    "id": "world-knowledge-129",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "大文豪鲁迅其实是个笔名，他的原名是什么？",
+    "options": [
+      "周树人",
+      "周作人",
+      "周建人",
+      "周而复"
+    ],
+    "correctAnswer": 0,
+    "explanation": "鲁迅原名周树人，「鲁迅」取自母亲鲁瑞的姓。周作人和周建人是他的两个弟弟，也都是文化名人。"
+  },
+  {
+    "id": "world-knowledge-130",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "高尔基著名的「自传体三部曲」是《童年》《在人间》和哪一部？",
+    "options": [
+      "《母亲》",
+      "《海燕》",
+      "《我的大学》",
+      "《底层》"
+    ],
+    "correctAnswer": 2,
+    "explanation": "三部曲是《童年》《在人间》《我的大学》。高尔基没上过正规大学，他说的「大学」是流浪打工的社会课堂。"
+  },
+  {
+    "id": "world-knowledge-131",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "苏联小说《钢铁是怎样炼成的》中，那位身残志坚的主人公是谁？",
+    "options": [
+      "奥涅金",
+      "于连·索雷尔",
+      "拉斯蒂涅",
+      "保尔·柯察金"
+    ],
+    "correctAnswer": 3,
+    "explanation": "保尔·柯察金那句「人最宝贵的是生命」曾印在无数课本里。作者奥斯特洛夫斯基本人也是双目失明、全身瘫痪后口述完成此书的。"
+  },
+  {
+    "id": "world-knowledge-132",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "课本里那篇父亲翻月台买橘子的《背影》，作者是谁？",
+    "options": [
+      "朱自清",
+      "老舍",
+      "冰心",
+      "巴金"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《背影》是朱自清1925年写的散文，「我买几个橘子去」如今成了全网流行的「父爱梗」。"
+  },
+  {
+    "id": "world-knowledge-133",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "魔幻现实主义名著《百年孤独》的作者是哪位作家？",
+    "options": [
+      "博尔赫斯",
+      "聂鲁达",
+      "加西亚·马尔克斯",
+      "略萨"
+    ],
+    "correctAnswer": 2,
+    "explanation": "哥伦比亚作家加西亚·马尔克斯1982年获诺贝尔文学奖。小说开头「多年以后，面对行刑队……」被誉为文学史上最著名的开场白之一。"
+  },
+  {
+    "id": "world-knowledge-134",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "西班牙作家塞万提斯笔下，堂吉诃德那位忠心耿耿、骑着毛驴一路跟随的随从叫什么名字？",
+    "options": [
+      "罗西南多",
+      "杜尔西内娅",
+      "桑丘·潘沙",
+      "阿隆索"
+    ],
+    "correctAnswer": 2,
+    "explanation": "桑丘·潘沙是堂吉诃德的随从，一路陪着主人「大战风车」。罗西南多其实是堂吉诃德那匹瘦马的名字，杜尔西内娅则是他幻想出来的意中人，两个都是很会「蹭名字」的干扰项。"
+  },
+  {
+    "id": "world-knowledge-135",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "柯南·道尔笔下，大侦探福尔摩斯身边那位忠实的医生搭档叫什么名字？",
+    "options": [
+      "莫里亚蒂",
+      "华生",
+      "雷斯垂德",
+      "哈德森太太"
+    ],
+    "correctAnswer": 1,
+    "explanation": "华生医生是福尔摩斯的搭档兼案件记录者。莫里亚蒂是福尔摩斯的头号劲敌，雷斯垂德是苏格兰场探长，哈德森太太则是贝克街221B的房东，都是原著里如假包换的角色。"
+  },
+  {
+    "id": "world-knowledge-136",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "被誉为「侦探小说女王」的英国作家是谁？",
+    "options": [
+      "阿加莎·克里斯蒂",
+      "柯南·道尔",
+      "埃德加·爱伦·坡",
+      "雷蒙德·钱德勒"
+    ],
+    "correctAnswer": 0,
+    "explanation": "阿加莎·克里斯蒂被誉为「侦探小说女王」，她笔下的大侦探波洛和马普尔小姐家喻户晓。她的作品销量据称仅次于《圣经》和莎士比亚全集。"
+  },
+  {
+    "id": "world-knowledge-137",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "「轻轻的我走了，正如我轻轻的来」的下一句是？",
+    "options": [
+      "面朝大海，春暖花开",
+      "我轻轻的招手，作别西天的云彩",
+      "撑着油纸伞，独自彷徨在悠长的雨巷",
+      "你站在桥上看风景，看风景人在楼上看你"
+    ],
+    "correctAnswer": 1,
+    "explanation": "出自徐志摩《再别康桥》，写的是他重游英国剑桥的离别情绪。「康桥」就是今天的剑桥大学，徐志摩曾在那里游学，对这片校园感情极深。"
+  },
+  {
+    "id": "world-knowledge-138",
+    "category": "world-knowledge",
+    "difficulty": "easy",
+    "question": "在J.K.罗琳的《哈利·波特》系列中，哈利就读的魔法学校叫什么名字？",
+    "options": [
+      "伊尔弗莫尼",
+      "达姆斯特朗",
+      "布斯巴顿",
+      "霍格沃茨"
+    ],
+    "correctAnswer": 3,
+    "explanation": "哈利·波特就读的是霍格沃茨魔法学校。达姆斯特朗和布斯巴顿是书中另外两所欧洲魔法学校，曾在《哈利·波特与火焰杯》的三强争霸赛里登场。"
+  },
+  {
+    "id": "world-knowledge-139",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "简·奥斯汀《傲慢与偏见》中，女主角伊丽莎白最终嫁给了谁？",
+    "options": [
+      "达西先生",
+      "宾利先生",
+      "威克姆",
+      "柯林斯牧师"
+    ],
+    "correctAnswer": 0,
+    "explanation": "伊丽莎白最终嫁给了达西先生，两人从互相看不顺眼到互生情愫，是文学史上最经典的欢喜冤家。宾利先生娶的是伊丽莎白的姐姐简，柯林斯牧师则被伊丽莎白拒婚，转头娶了她的好友夏洛特。"
+  },
+  {
+    "id": "world-knowledge-140",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "狄更斯《双城记》开篇名句「这是最好的时代，也是最坏的时代」，故事的背景横跨哪两座城市？",
+    "options": [
+      "巴黎与柏林",
+      "伦敦与巴黎",
+      "伦敦与罗马",
+      "巴黎与维也纳"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《双城记》以法国大革命为背景，故事在伦敦与巴黎两地展开。开篇那句「这是最好的时代，也是最坏的时代」，如今几乎成了万能的时代感叹句式。"
+  },
+  {
+    "id": "world-knowledge-141",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "雨果《巴黎圣母院》中，那位相貌丑陋却心地善良的敲钟人叫什么名字？",
+    "options": [
+      "弗罗洛",
+      "腓比斯",
+      "卡西莫多",
+      "甘果瓦"
+    ],
+    "correctAnswer": 2,
+    "explanation": "卡西莫多是巴黎圣母院里相貌丑陋却心地善良的敲钟人。弗罗洛是道貌岸然的副主教，腓比斯是英俊却薄情的卫队长，两人都爱慕吉普赛女郎爱斯梅拉达。"
+  },
+  {
+    "id": "world-knowledge-142",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "作家三毛在《撒哈拉的故事》里写下与丈夫的沙漠生活，她丈夫的名字是？",
+    "options": [
+      "米格尔",
+      "保罗",
+      "安东尼",
+      "荷西"
+    ],
+    "correctAnswer": 3,
+    "explanation": "荷西是三毛的西班牙丈夫，两人在撒哈拉沙漠结婚定居，成就了《撒哈拉的故事》里那些浪漫又艰苦的生活片段。荷西后来潜水意外去世，成了三毛一生难以走出的伤痛。"
+  },
+  {
+    "id": "world-knowledge-143",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "钱钟书的夫人杨绛晚年写下一部回忆录，记述与丈夫、女儿一家三口的生活，书名是？",
+    "options": [
+      "《我们仨》",
+      "《干校六记》",
+      "《洗澡》",
+      "《走到人生边上》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《我们仨》是杨绛在女儿钱瑗和丈夫钱钟书相继去世后写下的回忆录，用近乎梦境的笔法追忆一家三口的寻常岁月，朴素却催泪。"
+  },
+  {
+    "id": "world-knowledge-144",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "路遥的长篇小说《平凡的世界》获得了第几届茅盾文学奖？",
+    "options": [
+      "第一届",
+      "第三届",
+      "第五届",
+      "第七届"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《平凡的世界》获得第三届茅盾文学奖。路遥写这部百万字小说时几乎住在煤矿和窑洞里，几年后他也因肝硬化英年早逝，年仅42岁。"
+  },
+  {
+    "id": "world-knowledge-145",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "日本推理作家东野圭吾在成为职业作家之前，做过什么工作？",
+    "options": [
+      "中学教师",
+      "报社记者",
+      "电机工程师",
+      "律师"
+    ],
+    "correctAnswer": 2,
+    "explanation": "东野圭吾大学学的是电气工程，毕业后在汽车零部件公司当了好几年工程师，直到凭借《放学后》获得江户川乱步奖，才辞职专心写作。"
+  },
+  {
+    "id": "world-knowledge-146",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "郭沫若的第一部新诗集，也是中国新诗的奠基之作，叫什么名字？",
+    "options": [
+      "《星空》",
+      "《瓶》",
+      "《凤凰涅槃》",
+      "《女神》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《女神》是郭沫若的第一部新诗集，也是中国新诗的奠基之作，收录了《凤凰涅槃》等名篇。他早年留学日本学的其实是医学，后来才转向文学。"
+  },
+  {
+    "id": "world-knowledge-147",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "日本作家夏目漱石的头像，曾经印在面值多少的日元纸币上？",
+    "options": [
+      "500日元",
+      "1000日元",
+      "5000日元",
+      "10000日元"
+    ],
+    "correctAnswer": 1,
+    "explanation": "夏目漱石的头像曾印在1984年至2004年间流通的日本千元纸币上，后来才被细菌学家野口英世取代。能上纸币的作家，放眼世界文坛也不多见。"
+  },
+  {
+    "id": "world-knowledge-148",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "黑泽明的经典电影《罗生门》，情节其实主要改编自芥川龙之介的哪篇小说，而非同名短篇《罗生门》？",
+    "options": [
+      "《竹林中》",
+      "《地狱变》",
+      "《河童》",
+      "《鼻子》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "电影《罗生门》的多视角叙事情节其实取自芥川的《竹林中》，只是借用了他另一篇短篇《罗生门》的篇名和开场氛围。两篇小说，一个片名，堪称影史最著名的「移花接木」之一。"
+  },
+  {
+    "id": "world-knowledge-149",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "1964年，哪位法国哲学家兼作家获得诺贝尔文学奖后公开拒绝领奖？",
+    "options": [
+      "阿尔贝·加缪",
+      "让-保罗·萨特",
+      "安德烈·纪德",
+      "弗朗索瓦·莫里亚克"
+    ],
+    "correctAnswer": 1,
+    "explanation": "萨特拒绝领取1964年的诺贝尔文学奖，理由之一是作家不该被任何机构体制化。他也因此成为历史上唯一主动拒绝该奖的得主——帕斯捷尔纳克当年是被苏联当局逼迫拒绝，性质完全不同。"
+  },
+  {
+    "id": "world-knowledge-150",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "法国作家加缪虽常与萨特相提并论，但他本人拒绝「存在主义者」的标签，更愿意把自己的思想称为什么？",
+    "options": [
+      "虚无主义",
+      "结构主义",
+      "荒诞哲学",
+      "解构主义"
+    ],
+    "correctAnswer": 2,
+    "explanation": "加缪始终拒绝被归为存在主义者，更愿意用「荒诞」来概括自己的思考，代表作《局外人》《西西弗神话》都是这一哲学的文学呈现。他和萨特后来也因思想分歧公开决裂。"
+  },
+  {
+    "id": "world-knowledge-151",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "陀思妥耶夫斯基《罪与罚》中，主人公拉斯柯尔尼科夫用斧头杀害的第一个人是谁？",
+    "options": [
+      "他的房东",
+      "大学同学",
+      "妹妹的未婚夫",
+      "放高利贷的老太婆"
+    ],
+    "correctAnswer": 3,
+    "explanation": "拉斯柯尔尼科夫杀害的是一个放高利贷的老太婆，还误杀了闯进来的她的妹妹丽扎维塔。小说随后几百页写的都是他杀人后如何被良心一点点碾碎。"
+  },
+  {
+    "id": "world-knowledge-152",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "大仲马《基督山伯爵》中，男主角在复仇前的本名是？",
+    "options": [
+      "埃德蒙·唐泰斯",
+      "阿尔贝·马尔塞夫",
+      "卡德鲁斯",
+      "费尔南·蒙台哥"
+    ],
+    "correctAnswer": 0,
+    "explanation": "男主角本名埃德蒙·唐泰斯，蒙冤入狱十四年后越狱，靠意外获得的宝藏化身「基督山伯爵」展开复仇。阿尔贝和费尔南都是曾经害他入狱的仇人及其后代。"
+  },
+  {
+    "id": "world-knowledge-153",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "川端康成《雪国》开篇名句「穿过县界长长的隧道，便是雪国」，主人公当时乘坐的是什么交通工具？",
+    "options": [
+      "马车",
+      "火车",
+      "汽车",
+      "雪橇"
+    ],
+    "correctAnswer": 1,
+    "explanation": "主人公岛村乘坐的是一列火车，穿过隧道后眼前豁然变成一片银白世界，这也是日本近代文学里公认最经典的开篇场景之一。"
+  },
+  {
+    "id": "world-knowledge-154",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "《简·爱》的作者夏洛蒂·勃朗特和两个妹妹都是作家，三姐妹最初发表作品时，用的是什么样的笔名？",
+    "options": [
+      "母亲的姓氏",
+      "完全匿名",
+      "男性化的笔名",
+      "法语化的笔名"
+    ],
+    "correctAnswer": 2,
+    "explanation": "夏洛蒂、艾米莉、安妮三姐妹最初以「柯勒·贝尔」「埃利斯·贝尔」「阿克顿·贝尔」这样中性偏男性化的笔名合出诗集，因为当时的出版界对女性作家普遍带有偏见。"
+  },
+  {
+    "id": "world-knowledge-155",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "被誉为「俄罗斯诗歌的太阳」的普希金，最终是因为什么原因英年早逝的？",
+    "options": [
+      "流亡途中病逝",
+      "遭沙皇处决",
+      "参加西伯利亚起义牺牲",
+      "为妻子的名誉与人决斗身亡"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1837年，普希金为妻子的名誉与一名法国军官决斗，腹部中弹，两天后不治身亡，年仅37岁。这位「俄罗斯诗歌的太阳」，竟是这样戏剧性地陨落的。"
+  }
+]

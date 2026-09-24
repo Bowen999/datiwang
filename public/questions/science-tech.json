@@ -1,0 +1,4006 @@
+[
+  {
+    "id": "science-tech-001",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "太阳系中体积最大的行星是？",
+    "options": [
+      "土星",
+      "木星",
+      "天王星",
+      "海王星"
+    ],
+    "correctAnswer": 1,
+    "explanation": "木星质量约为其他七颗行星总和的 2.5 倍，能装下 1300 多个地球。"
+  },
+  {
+    "id": "science-tech-002",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "人类基因组中，正常体细胞有多少对染色体？",
+    "options": [
+      "21 对",
+      "22 对",
+      "23 对",
+      "24 对"
+    ],
+    "correctAnswer": 2,
+    "explanation": "人体细胞有 23 对共 46 条染色体，其中第 23 对决定性别。"
+  },
+  {
+    "id": "science-tech-003",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "声音在下列哪种介质中传播速度最快？",
+    "options": [
+      "空气",
+      "水",
+      "钢铁",
+      "真空"
+    ],
+    "correctAnswer": 2,
+    "explanation": "声音在固体中传播最快，钢铁中约 5200 米/秒；真空中无法传声。"
+  },
+  {
+    "id": "science-tech-004",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "提出广义相对论的科学家是？",
+    "options": [
+      "牛顿",
+      "爱因斯坦",
+      "玻尔",
+      "霍金"
+    ],
+    "correctAnswer": 1,
+    "explanation": "爱因斯坦于 1915 年发表广义相对论，把引力解释为时空的弯曲。"
+  },
+  {
+    "id": "science-tech-005",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "下列哪种粒子被称为「上帝粒子」？",
+    "options": [
+      "夸克",
+      "中微子",
+      "希格斯玻色子",
+      "光子"
+    ],
+    "correctAnswer": 2,
+    "explanation": "希格斯玻色子解释了基本粒子如何获得质量，2012 年在欧洲大型强子对撞机中被发现。"
+  },
+  {
+    "id": "science-tech-006",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "困扰数学界三百多年的「费马大定理」，最终由哪位数学家证明？",
+    "options": [
+      "安德鲁·怀尔斯",
+      "格里戈里·佩雷尔曼",
+      "陶哲轩",
+      "库尔特·哥德尔"
+    ],
+    "correctAnswer": 0,
+    "explanation": "英国数学家怀尔斯 1995 年正式发表证明，他为此闭门研究了七年；佩雷尔曼证明的是另一个著名难题——庞加莱猜想。"
+  },
+  {
+    "id": "science-tech-007",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "地壳中含量最多的金属元素是？",
+    "options": [
+      "铁",
+      "钙",
+      "铝",
+      "钠"
+    ],
+    "correctAnswer": 2,
+    "explanation": "地壳元素含量排名是氧、硅、铝、铁，铝约占 8%，是金属中的第一名。"
+  },
+  {
+    "id": "science-tech-008",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "植物光合作用释放的氧气，主要来自哪种原料？",
+    "options": [
+      "二氧化碳",
+      "葡萄糖",
+      "叶绿素",
+      "水"
+    ],
+    "correctAnswer": 3,
+    "explanation": "氧气来自水的光解而非二氧化碳，科学家用氧的同位素示踪实验证实了这一点。"
+  },
+  {
+    "id": "science-tech-009",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "人类发现的第一颗围绕类太阳恒星运行的系外行星是？",
+    "options": [
+      "比邻星b",
+      "飞马座51b",
+      "开普勒-452b",
+      "TRAPPIST-1e"
+    ],
+    "correctAnswer": 1,
+    "explanation": "飞马座51b 于 1995 年被发现，发现者马约尔和奎洛兹因此获得 2019 年诺贝尔物理学奖。"
+  },
+  {
+    "id": "science-tech-010",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "人体最大的器官是？",
+    "options": [
+      "肝脏",
+      "肠道",
+      "皮肤",
+      "大脑"
+    ],
+    "correctAnswer": 2,
+    "explanation": "皮肤摊开约有 1.5 到 2 平方米，重达数公斤；肝脏只是最大的内脏器官。"
+  },
+  {
+    "id": "science-tech-011",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "薛定谔提出「薛定谔的猫」这个思想实验，初衷是？",
+    "options": [
+      "讽刺哥本哈根诠释把叠加态推广到宏观世界的荒谬",
+      "证明量子纠缠真实存在",
+      "证明人的意识可以坍缩波函数",
+      "论证平行宇宙必然存在"
+    ],
+    "correctAnswer": 0,
+    "explanation": "薛定谔 1935 年设计这个实验，是想说明「猫既死又活」有多荒唐，结果它反而成了量子力学最著名的科普形象。"
+  },
+  {
+    "id": "science-tech-012",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "人类历史上第一位进入太空的女性是？",
+    "options": [
+      "萨莉·赖德",
+      "瓦莲京娜·捷列什科娃",
+      "斯韦特兰娜·萨维茨卡娅",
+      "佩吉·惠特森"
+    ],
+    "correctAnswer": 1,
+    "explanation": "苏联宇航员捷列什科娃 1963 年乘东方六号升空，至今仍是唯一单独执行太空任务的女性；萨维茨卡娅则是首位太空行走的女性。"
+  },
+  {
+    "id": "science-tech-013",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "被誉为「最美数学公式」的欧拉恒等式 e^(iπ)+1=0 中，不包含下列哪个数？",
+    "options": [
+      "e",
+      "i",
+      "π",
+      "2"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这个公式一口气串起了 0、1、e、i、π 五个最重要的数学常数，唯独没有 2。"
+  },
+  {
+    "id": "science-tech-014",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "钻石和铅笔芯的主要成分都是碳，它们互为？",
+    "options": [
+      "同位素",
+      "同分异构体",
+      "同素异形体",
+      "同系物"
+    ],
+    "correctAnswer": 2,
+    "explanation": "同种元素组成的不同单质互称同素异形体。金刚石和石墨硬度天差地别，只因碳原子排列方式不同。"
+  },
+  {
+    "id": "science-tech-015",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "DNA 双螺旋结构的发现离不开关键的 X 射线衍射图「照片51号」，它的拍摄者是哪位女科学家？",
+    "options": [
+      "玛丽·居里",
+      "罗莎琳德·富兰克林",
+      "芭芭拉·麦克林托克",
+      "多萝西·霍奇金"
+    ],
+    "correctAnswer": 1,
+    "explanation": "富兰克林的照片为沃森和克里克提供了关键线索，但她 1958 年英年早逝，未能分享 1962 年的诺贝尔奖，被视为科学史上著名的遗憾。"
+  },
+  {
+    "id": "science-tech-016",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "晴朗的天空呈现蓝色，主要是因为？",
+    "options": [
+      "大气对阳光的散射",
+      "云层的反射",
+      "阳光在空气中的折射",
+      "海洋颜色的映照"
+    ],
+    "correctAnswer": 0,
+    "explanation": "蓝光波长短，被空气分子散射得最厉害（瑞利散射），所以整个天空看起来是蓝色的。"
+  },
+  {
+    "id": "science-tech-017",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "掀起基因编辑革命的 CRISPR-Cas9，最初在自然界中是细菌的什么系统？",
+    "options": [
+      "修复紫外线损伤的系统",
+      "合成蛋白质的系统",
+      "进行细胞分裂的系统",
+      "抵御病毒入侵的免疫系统"
+    ],
+    "correctAnswer": 3,
+    "explanation": "细菌用 CRISPR 记录入侵病毒的基因片段，下次再用 Cas9 精准剪断敌人 DNA。杜德纳和沙尔庞捷因此获得 2020 年诺贝尔化学奖。"
+  },
+  {
+    "id": "science-tech-018",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "太阳系中已知最高的火山奥林帕斯山，位于哪颗星球上？",
+    "options": [
+      "金星",
+      "火星",
+      "木卫一",
+      "水星"
+    ],
+    "correctAnswer": 1,
+    "explanation": "奥林帕斯山高约 21 千米，约为珠穆朗玛峰的两倍多，底部的面积相当于一整个法国。"
+  },
+  {
+    "id": "science-tech-019",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "历史上第一位两次获得诺贝尔奖的科学家是？",
+    "options": [
+      "阿尔伯特·爱因斯坦",
+      "莱纳斯·鲍林",
+      "玛丽·居里",
+      "约翰·巴丁"
+    ],
+    "correctAnswer": 2,
+    "explanation": "居里夫人 1903 年获物理学奖、1911 年获化学奖，是唯一在两个不同科学领域都拿过诺奖的人；巴丁和鲍林的两奖都在更晚。"
+  },
+  {
+    "id": "science-tech-020",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "人体中最坚硬的组织是？",
+    "options": [
+      "股骨",
+      "指甲",
+      "颅骨",
+      "牙釉质"
+    ],
+    "correctAnswer": 3,
+    "explanation": "牙釉质的硬度接近石英，但它怕酸，而且一旦磨损就无法再生，所以碳酸饮料少喝为妙。"
+  },
+  {
+    "id": "science-tech-021",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "物理学中的绝对零度（0 开尔文）约等于摄氏多少度？",
+    "options": [
+      "-273.15℃",
+      "-196℃",
+      "-89.2℃",
+      "-183℃"
+    ],
+    "correctAnswer": 0,
+    "explanation": "绝对零度是分子热运动停止的理论下限，只能无限逼近无法真正达到；-196℃ 只是液氮的沸点，还差得远。"
+  },
+  {
+    "id": "science-tech-022",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "地球上的氧气约有一半以上来自哪里？",
+    "options": [
+      "热带雨林",
+      "陆地草原",
+      "海洋浮游植物",
+      "北方针叶林"
+    ],
+    "correctAnswer": 2,
+    "explanation": "海洋里的浮游植物（尤其是原绿球藻）才是地球的「制氧主力」，亚马逊雨林贡献的比例远没有传说中高。"
+  },
+  {
+    "id": "science-tech-023",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "旅行者号探测器携带的「金唱片」中，收录了管平湖演奏的哪首中国古琴曲？",
+    "options": [
+      "《广陵散》",
+      "《流水》",
+      "《阳关三叠》",
+      "《梅花三弄》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1977 年发射的金唱片收录了 27 首地球名曲，《流水》全长七分多钟，是其中最长的一首，正随旅行者号飞向星际空间。"
+  },
+  {
+    "id": "science-tech-024",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "人的胃酸中起主要消化作用的酸是？",
+    "options": [
+      "盐酸",
+      "硫酸",
+      "醋酸",
+      "碳酸"
+    ],
+    "correctAnswer": 0,
+    "explanation": "胃酸主要成分是盐酸，pH 值可低至 1.5 左右，强到能溶解金属锌，全靠胃黏膜保护胃壁不被自己消化掉。"
+  },
+  {
+    "id": "science-tech-025",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "1858 年与达尔文同时独立提出「自然选择」学说，并与其联合发表论文的科学家是？",
+    "options": [
+      "让-巴蒂斯特·拉马克",
+      "格雷戈尔·孟德尔",
+      "托马斯·赫胥黎",
+      "阿尔弗雷德·华莱士"
+    ],
+    "correctAnswer": 3,
+    "explanation": "华莱士在东南亚考察时独立想出了自然选择，正是他的来信促使达尔文加速发表《物种起源》；赫胥黎则以「达尔文的斗犬」闻名。"
+  },
+  {
+    "id": "science-tech-026",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "中国第一位进入太空的航天员是？",
+    "options": [
+      "聂海胜",
+      "翟志刚",
+      "杨利伟",
+      "费俊龙"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2003 年杨利伟乘神舟五号进入太空，中国成为世界上第三个独立掌握载人航天技术的国家；翟志刚则是第一位在太空行走的中国航天员。"
+  },
+  {
+    "id": "science-tech-027",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "水的化学分子式是？",
+    "options": [
+      "H₂O",
+      "CO₂",
+      "O₂",
+      "NaCl"
+    ],
+    "correctAnswer": 0,
+    "explanation": "两个氢原子加一个氧原子组成一个水分子；CO₂ 是二氧化碳，O₂ 是氧气，NaCl 是食盐。"
+  },
+  {
+    "id": "science-tech-028",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "发生日食时，挡在地球和太阳之间的是？",
+    "options": [
+      "金星",
+      "月球",
+      "火星",
+      "地球自己的影子"
+    ],
+    "correctAnswer": 1,
+    "explanation": "月球运行到太阳和地球之间挡住阳光，就形成了日食；反过来地球挡在日月之间则是月食。"
+  },
+  {
+    "id": "science-tech-029",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "血液中负责把氧气运往全身的主要细胞是？",
+    "options": [
+      "白细胞",
+      "血小板",
+      "淋巴细胞",
+      "红细胞"
+    ],
+    "correctAnswer": 3,
+    "explanation": "红细胞里的血红蛋白擅长「抓氧」，正是它让血液呈现红色；白细胞负责免疫，血小板负责止血。"
+  },
+  {
+    "id": "science-tech-030",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "主流科学观点认为，约 6600 万年前恐龙灭绝的主要原因是？",
+    "options": [
+      "被哺乳动物吃光",
+      "海平面突然消失",
+      "小行星撞击地球",
+      "地球停止自转"
+    ],
+    "correctAnswer": 2,
+    "explanation": "一颗直径约 10 公里的小行星撞上今天的墨西哥尤卡坦半岛，留下希克苏鲁伯陨石坑，引发了全球性的生态灾难。"
+  },
+  {
+    "id": "science-tech-031",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "屠呦呦因发现抗疟药物青蒿素，获得了诺贝尔哪个奖项？",
+    "options": [
+      "物理学奖",
+      "化学奖",
+      "生理学或医学奖",
+      "和平奖"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2015 年屠呦呦获诺贝尔生理学或医学奖，是在中国本土工作的科学家首次获得诺贝尔科学类奖项；提取灵感来自东晋葛洪的《肘后备急方》。"
+  },
+  {
+    "id": "science-tech-032",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "光在真空中的传播速度大约是每秒多少？",
+    "options": [
+      "3 千公里",
+      "30 万公里",
+      "3 万公里",
+      "300 万公里"
+    ],
+    "correctAnswer": 1,
+    "explanation": "光速约每秒 299792 公里，一般记作 30 万公里；太阳发出的光要花 8 分多钟才能抵达地球。"
+  },
+  {
+    "id": "science-tech-033",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "舞台上制造「云雾缭绕」效果的干冰，其实是哪种物质的固态？",
+    "options": [
+      "氧气",
+      "水",
+      "氮气",
+      "二氧化碳"
+    ],
+    "correctAnswer": 3,
+    "explanation": "干冰是固态二氧化碳，约 -78.5℃ 时直接升华为气体并大量吸热，使空气中的水蒸气凝结成白雾——所以干冰其实根本不是「冰」。"
+  },
+  {
+    "id": "science-tech-034",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "被誉为『化学元素周期表之父』，首先提出元素周期律的科学家是？",
+    "options": [
+      "门捷列夫",
+      "居里夫人",
+      "拉瓦锡",
+      "波义耳"
+    ],
+    "correctAnswer": 0,
+    "explanation": "俄国化学家门捷列夫在1869年按原子量规律排列元素，还大胆留出空格预言了当时尚未被发现的新元素，后来一一被证实。"
+  },
+  {
+    "id": "science-tech-035",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "人体主要负责与外界进行气体交换（吸入氧气、呼出二氧化碳）的器官是？",
+    "options": [
+      "心脏",
+      "肺",
+      "肝脏",
+      "肾脏"
+    ],
+    "correctAnswer": 1,
+    "explanation": "肺部有数亿个肺泡，展开面积可达几十平方米，专门负责氧气和二氧化碳的交换工作。"
+  },
+  {
+    "id": "science-tech-036",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "蝙蝠在漆黑的夜里飞行捕食，主要依靠什么方式来判断周围环境？",
+    "options": [
+      "超强的夜视能力",
+      "灵敏的嗅觉",
+      "回声定位（发出超声波再接收回波）",
+      "感知磁场方向"
+    ],
+    "correctAnswer": 2,
+    "explanation": "蝙蝠发出人耳听不到的超声波，通过回声判断障碍物和猎物的位置，这套本领后来启发了声呐技术的发明。"
+  },
+  {
+    "id": "science-tech-037",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "人们习惯上把彩虹描述成有几种颜色？",
+    "options": [
+      "五种",
+      "六种",
+      "八种",
+      "七种"
+    ],
+    "correctAnswer": 3,
+    "explanation": "彩虹其实是连续变化的光谱，『七种颜色』的说法源自牛顿当年为了呼应音乐七音阶，人为把光谱划分成赤橙黄绿蓝靛紫。"
+  },
+  {
+    "id": "science-tech-038",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "铁制品长时间暴露在潮湿空气中会生锈，这属于哪种变化？",
+    "options": [
+      "化学变化",
+      "物理变化",
+      "核变化",
+      "没有发生变化"
+    ],
+    "correctAnswer": 0,
+    "explanation": "生锈是铁与空气中的氧气、水分发生反应生成氧化铁的化学变化，一旦生锈就无法简单地『变回』原来的铁。"
+  },
+  {
+    "id": "science-tech-039",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "牛顿三大运动定律中的第一定律，也被称为什么定律？",
+    "options": [
+      "作用力定律",
+      "惯性定律",
+      "万有引力定律",
+      "能量守恒定律"
+    ],
+    "correctAnswer": 1,
+    "explanation": "牛顿第一定律说明物体在不受外力时会保持静止或匀速直线运动，所以也叫惯性定律；『力是维持运动的原因』其实是常见的错误直觉。"
+  },
+  {
+    "id": "science-tech-040",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "细胞内被称为『能量工厂』，负责生产ATP为细胞供能的细胞器是？",
+    "options": [
+      "细胞核",
+      "高尔基体",
+      "线粒体",
+      "核糖体"
+    ],
+    "correctAnswer": 2,
+    "explanation": "线粒体通过有氧呼吸把葡萄糖中的能量转化成ATP，肌肉细胞等耗能大户的细胞里线粒体数量格外多。"
+  },
+  {
+    "id": "science-tech-041",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "在元素周期表中，原子序数为1、也是宇宙中含量最丰富的元素是？",
+    "options": [
+      "氦",
+      "锂",
+      "氧",
+      "氢"
+    ],
+    "correctAnswer": 3,
+    "explanation": "氢原子只有一个质子和一个电子，结构最简单，也是宇宙中数量最多的元素，恒星燃烧的燃料主要就是它。"
+  },
+  {
+    "id": "science-tech-042",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "蛋白质是由许多个什么基本单位通过化学键连接而成的长链？",
+    "options": [
+      "氨基酸",
+      "核苷酸",
+      "葡萄糖",
+      "脂肪酸"
+    ],
+    "correctAnswer": 0,
+    "explanation": "组成人体蛋白质的氨基酸一共有20种左右，不同的排列顺序决定了蛋白质千变万化的结构和功能。"
+  },
+  {
+    "id": "science-tech-043",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "石蕊试纸遇到酸性溶液时会变成什么颜色？",
+    "options": [
+      "蓝色",
+      "红色",
+      "黄色",
+      "紫色"
+    ],
+    "correctAnswer": 1,
+    "explanation": "石蕊试纸『遇酸变红，遇碱变蓝』，是中学化学实验室里最常用的酸碱快速检测工具之一。"
+  },
+  {
+    "id": "science-tech-044",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "1996年诞生的克隆羊『多莉』，是世界上第一只用成年体细胞成功克隆出的哺乳动物，它是哪种动物？",
+    "options": [
+      "山羊",
+      "奶牛",
+      "绵羊",
+      "兔子"
+    ],
+    "correctAnswer": 2,
+    "explanation": "多莉由苏格兰罗斯林研究所培育，取自一只成年母绵羊的乳腺细胞，证明了成熟细胞也能『重启』发育成完整个体。"
+  },
+  {
+    "id": "science-tech-045",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "达尔文系统提出『自然选择』进化理论的经典著作，书名是？",
+    "options": [
+      "《人类的由来》",
+      "《基因的自私》",
+      "《物种的奥秘》",
+      "《物种起源》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《物种起源》出版于1859年，一经问世便引发巨大争议，如今被公认为生物学史上最重要的著作之一。"
+  },
+  {
+    "id": "science-tech-046",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "地球大气层中，含量占比最高的气体其实是？",
+    "options": [
+      "氮气",
+      "氧气",
+      "二氧化碳",
+      "氩气"
+    ],
+    "correctAnswer": 0,
+    "explanation": "很多人以为氧气最多，其实氮气才是大气中的『大多数』，占比约78%，氧气只占约21%左右。"
+  },
+  {
+    "id": "science-tech-047",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "咀嚼米饭时间稍长会尝出一丝甜味，这是因为唾液中的什么物质开始分解淀粉？",
+    "options": [
+      "胃蛋白酶",
+      "唾液淀粉酶",
+      "胆汁",
+      "脂肪酶"
+    ],
+    "correctAnswer": 1,
+    "explanation": "唾液淀粉酶能把淀粉初步分解成麦芽糖，嚼久了自然带出甜味；胃蛋白酶要到胃里才开始工作，主要负责分解蛋白质。"
+  },
+  {
+    "id": "science-tech-048",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "量子力学中，指出『粒子的位置和动量不可能同时被精确测量』的『不确定性原理』，是哪位物理学家提出的？",
+    "options": [
+      "普朗克",
+      "狄拉克",
+      "海森堡",
+      "泡利"
+    ],
+    "correctAnswer": 2,
+    "explanation": "海森堡在1927年提出不确定性原理，这不是仪器精度不够，而是微观世界本身的基本属性，颠覆了经典物理『一切皆可精确预测』的信念。"
+  },
+  {
+    "id": "science-tech-049",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "青霉素的发现堪称科学史上最著名的意外之一，发现者弗莱明当时观察到了什么现象？",
+    "options": [
+      "一种细菌在显微镜下自动排列成规律图案",
+      "实验室老鼠注射后体重明显增加",
+      "某种霉菌在紫外线下会发出荧光",
+      "培养皿中被污染的霉菌周围，细菌都被杀死了"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1928年，弗莱明度假回来发现培养皿意外混入了青霉菌，菌落周围的葡萄球菌竟然都被抑制了，这个意外开启了抗生素时代。"
+  },
+  {
+    "id": "science-tech-050",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "微积分这一强大的数学工具，历史上是由牛顿和另一位科学家各自独立发明，并引发了一场旷日持久的发明权之争，这位科学家是？",
+    "options": [
+      "莱布尼茨",
+      "欧拉",
+      "高斯",
+      "帕斯卡"
+    ],
+    "correctAnswer": 0,
+    "explanation": "牛顿和德国学者莱布尼茨在17世纪几乎同时独立发展出微积分，两人的支持者为『谁是第一发明人』争论了上百年，如今学界普遍认为二人各自独立完成。"
+  },
+  {
+    "id": "science-tech-051",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "法国科学家巴斯德著名的『鹅颈瓶』实验，有力地反驳了当时流行的哪种错误观念？",
+    "options": [
+      "地心说",
+      "生物可以从无生命物质中自然产生（自然发生说）",
+      "血液循环由心脏推动",
+      "细菌不会致病"
+    ],
+    "correctAnswer": 1,
+    "explanation": "巴斯德用弯曲细长的鹅颈瓶挡住空气中的微生物落入营养液，证明肉汤不会无故腐败长菌，从而终结了『生命可以凭空产生』的自然发生说。"
+  },
+  {
+    "id": "science-tech-052",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "地质学家魏格纳观察到南美洲和非洲海岸线能像拼图一样吻合，由此提出了哪项影响深远的学说？",
+    "options": [
+      "地心引力说",
+      "冰川侵蚀说",
+      "大陆漂移说",
+      "地球膨胀说"
+    ],
+    "correctAnswer": 2,
+    "explanation": "魏格纳1912年提出大陆漂移说时曾被主流学界嘲笑，直到几十年后海底扩张等证据出现，他的想法才被追认为板块构造理论的先驱。"
+  },
+  {
+    "id": "science-tech-053",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "1895年意外发现X射线、并因此获得首届诺贝尔物理学奖的科学家是？",
+    "options": [
+      "贝克勒尔",
+      "汤姆孙",
+      "卢瑟福",
+      "伦琴"
+    ],
+    "correctAnswer": 3,
+    "explanation": "伦琴在做阴极射线实验时发现一种能穿透纸张、让荧光屏发光的神秘射线，因不了解其本质便以数学中的未知数命名为『X射线』。"
+  },
+  {
+    "id": "science-tech-054",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "『细胞』（cell）这个名称，最早是由哪位科学家在观察软木塞切片时命名的？",
+    "options": [
+      "罗伯特·胡克",
+      "安东尼·列文虎克",
+      "路易·巴斯德",
+      "罗伯特·布朗"
+    ],
+    "correctAnswer": 0,
+    "explanation": "胡克1665年用自制显微镜观察软木塞薄片，看到一格格小空间，觉得很像修道院的『小房间』（cellula），『细胞』这个名字就这样流传下来。"
+  },
+  {
+    "id": "science-tech-055",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "太阳系八大行星中，自转速度最慢的一颗，转一圈所需时间比它绕太阳公转一年还要长，它是？",
+    "options": [
+      "水星",
+      "金星",
+      "天王星",
+      "海王星"
+    ],
+    "correctAnswer": 1,
+    "explanation": "金星自转一周约需243个地球日，比它绕太阳公转一圈（约225天）还慢，『金星的一天』比『金星的一年』还长；它和天王星一样都属于逆行自转的行星。"
+  },
+  {
+    "id": "science-tech-056",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "圆周率符号「π」，最早由哪位数学家在1706年引入使用？",
+    "options": [
+      "威廉·琼斯",
+      "欧拉",
+      "阿基米德",
+      "牛顿"
+    ],
+    "correctAnswer": 0,
+    "explanation": "琼斯1706年首次用希腊字母π代表圆周率，取自「周长（perimetron）」的首字母；后来欧拉在论著中大力使用，这个符号才真正流行开来。"
+  },
+  {
+    "id": "science-tech-057",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "把「0」当作真正的数字、定出运算规则的婆罗摩笈多，来自哪个文明？",
+    "options": [
+      "古印度",
+      "古希腊",
+      "古巴比伦",
+      "古埃及"
+    ],
+    "correctAnswer": 0,
+    "explanation": "公元628年，印度数学家婆罗摩笈多在著作中把「0」当作独立的数来运算，这套体系后来经阿拉伯世界传入欧洲，才有了今天的数字系统。"
+  },
+  {
+    "id": "science-tech-058",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "相传毕达哥拉斯学派门徒希帕索斯，因发现哪种数被同门沉海？",
+    "options": [
+      "负数",
+      "无理数",
+      "虚数",
+      "零"
+    ],
+    "correctAnswer": 1,
+    "explanation": "希帕索斯证明正方形对角线与边长之比无法用整数比表示，打破了「万物皆数」的信条；不过这段骇人传说的真实性已难以考证，属于数学史上广为流传的故事。"
+  },
+  {
+    "id": "science-tech-059",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "斐波那契数列最初是用来解答哪个经典问题？",
+    "options": [
+      "兔子繁殖问题",
+      "蜜蜂血统问题",
+      "螺旋壳生长问题",
+      "树枝分叉问题"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1202年，斐波那契在《计算之书》中用一对兔子理想化繁殖的例子引出这串数列，没想到后来发现它竟与向日葵花盘、松果螺旋等自然规律不谋而合。"
+  },
+  {
+    "id": "science-tech-060",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "少年高斯速算「1加到100」的总和，靠的是什么巧妙方法？",
+    "options": [
+      "把数字两两配对求和",
+      "死记硬背乘法表",
+      "用计算器估算",
+      "画图找规律"
+    ],
+    "correctAnswer": 0,
+    "explanation": "高斯把1和100、2和99……两两配对，每对都等于101，一共50对，直接算出5050，据说当时他还只是个小学生。"
+  },
+  {
+    "id": "science-tech-061",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "只有一个面、一条边的神奇曲面，把纸带扭转后首尾粘合就能做出，它叫？",
+    "options": [
+      "克莱因瓶",
+      "莫比乌斯带",
+      "庞加莱球",
+      "高斯曲面"
+    ],
+    "correctAnswer": 1,
+    "explanation": "把纸条拧半圈再首尾相连，就得到没有「正反面」之分的莫比乌斯带，沿着表面走一圈能不越过边缘就回到起点对面，因数学家莫比乌斯而得名。"
+  },
+  {
+    "id": "science-tech-062",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "我们熟悉的「杨辉三角」，国际上常以哪位数学家命名？",
+    "options": [
+      "费马",
+      "笛卡尔",
+      "帕斯卡",
+      "牛顿"
+    ],
+    "correctAnswer": 2,
+    "explanation": "南宋数学家杨辉在1261年的著作中就记录了这个数字三角形，比帕斯卡系统研究它足足早了近400年，所以国际上也常称其为「帕斯卡三角形」。"
+  },
+  {
+    "id": "science-tech-063",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "祖冲之把圆周率精确到小数点后7位，这项纪录保持了大约多久？",
+    "options": [
+      "约100年",
+      "约300年",
+      "约900年",
+      "约2000年"
+    ],
+    "correctAnswer": 2,
+    "explanation": "祖冲之算出圆周率在3.1415926到3.1415927之间，这一精度直到近千年后阿拉伯天文学家阿尔·卡西才被超越，是中国古代数学的高光时刻。"
+  },
+  {
+    "id": "science-tech-064",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "数学符号「=」的发明者雷科德，选用两条平行线的理由是？",
+    "options": [
+      "象征天与地",
+      "写起来最快",
+      "世上没有比它们更相等的两样东西",
+      "模仿古埃及象形文字"
+    ],
+    "correctAnswer": 2,
+    "explanation": "雷科德在1557年的著作《砺智石》中写道，选用两条同样长的平行线是因为「没有什么比它们更相等」，从此「=」风靡数学界。"
+  },
+  {
+    "id": "science-tech-065",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "代表「无穷」的符号「∞」，最早是哪位数学家在17世纪引入的？",
+    "options": [
+      "牛顿",
+      "约翰·沃利斯",
+      "莱布尼茨",
+      "伯努利"
+    ],
+    "correctAnswer": 1,
+    "explanation": "英国数学家沃利斯1655年首次用这个横放的「8」字形符号表示无穷大，此后它就成了数学中无穷概念的通用记号。"
+  },
+  {
+    "id": "science-tech-066",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "巨大数字「googol」（1后面跟100个0）的名字，据说是谁提议的？",
+    "options": [
+      "数学家本人",
+      "数学家9岁的小侄子",
+      "一台早期计算机",
+      "一位物理学家"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1920年，数学家卡斯纳请9岁的外甥米尔顿帮忙给这个大数取名字，孩子随口说出「googol」；后来「谷歌（Google）」的名字正是受它启发。"
+  },
+  {
+    "id": "science-tech-067",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "著名的概率悖论「三门问题」，名字来自哪档节目？",
+    "options": [
+      "一位数学教授的姓名",
+      "一部悬疑电影",
+      "电视游戏节目主持人的名字",
+      "一本侦探小说"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这个问题源自美国电视游戏节目《我们来做个交易》，主持人蒙提·霍尔常让参赛者在三扇门里选礼物，「三门问题」由此得名，还曾引发无数数学家的争论。"
+  },
+  {
+    "id": "science-tech-068",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "康托尔提出无穷也有「大小」之分，哪类无穷比自然数的无穷更「多」？",
+    "options": [
+      "偶数的无穷",
+      "实数（0到1间的小数）的无穷",
+      "质数的无穷",
+      "整数的无穷"
+    ],
+    "correctAnswer": 1,
+    "explanation": "康托尔用「对角线论证法」证明，0到1之间的实数多到无法与自然数一一对应，也就是存在「更大的无穷」，这个发现在当时引发巨大争议。"
+  },
+  {
+    "id": "science-tech-069",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "爱因斯坦称其为「有史以来最杰出的女性数学天才」，她是？",
+    "options": [
+      "索菲·热尔曼",
+      "埃米·诺特",
+      "玛丽·居里",
+      "阿达·洛夫莱斯"
+    ],
+    "correctAnswer": 1,
+    "explanation": "诺特1935年去世后，爱因斯坦罕见地在《纽约时报》撰文致敬；她提出的「诺特定理」揭示了物理对称性与守恒定律之间的深刻联系，是现代理论物理的基石之一。"
+  },
+  {
+    "id": "science-tech-070",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "爱因斯坦唯一的诺贝尔物理学奖，颁奖理由是他解释了哪个现象？",
+    "options": [
+      "光电效应",
+      "布朗运动",
+      "量子纠缠",
+      "黑体辐射"
+    ],
+    "correctAnswer": 0,
+    "explanation": "爱因斯坦1921年的诺贝尔奖颁奖词写的是「光电效应定律」，相对论当时争议太大反而没能让他拿奖，这常让人感到意外。"
+  },
+  {
+    "id": "science-tech-071",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "相传牛顿因观察苹果落地深受启发，最终提出了哪个重要定律？",
+    "options": [
+      "能量守恒定律",
+      "万有引力定律",
+      "牛顿第一定律",
+      "光的色散原理"
+    ],
+    "correctAnswer": 1,
+    "explanation": "苹果砸头的说法可能被后人夸张了，但牛顿本人确实提到苹果落地促使他思考「让苹果下落的力，和让月球绕地球转的力是否同一种力」，最终写成万有引力定律。"
+  },
+  {
+    "id": "science-tech-072",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "救护车鸣笛靠近时音调变高、远离时变低，这种现象叫做？",
+    "options": [
+      "共振效应",
+      "多普勒效应",
+      "干涉效应",
+      "衍射效应"
+    ],
+    "correctAnswer": 1,
+    "explanation": "奥地利物理学家多普勒1842年提出，波源与观察者相对运动时接收到的频率会发生变化；这个原理如今还被用于测量星系远离地球的速度。"
+  },
+  {
+    "id": "science-tech-073",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "相传阿基米德泡澡时想通了如何鉴定王冠真假，狂喜冲上街喊出的词是？",
+    "options": [
+      "Eureka（我发现了）",
+      "Elementary（很简单）",
+      "Voila（看呐）",
+      "Bingo（中了）"
+    ],
+    "correctAnswer": 0,
+    "explanation": "阿基米德意识到物体排开水的体积能帮他算出密度，从而判断王冠是否被掺了银，这就是后来广为人知的阿基米德原理（浮力定律）。"
+  },
+  {
+    "id": "science-tech-074",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "法拉第发现的哪种现象，成为现代发电机和变压器的工作原理基础？",
+    "options": [
+      "电磁感应",
+      "摩擦起电",
+      "放射性衰变",
+      "热辐射现象"
+    ],
+    "correctAnswer": 0,
+    "explanation": "法拉第1831年发现变化的磁场能在导体中产生电流，这一发现直接催生了发电机，让人类从此告别了只能依赖化学电池供电的时代。"
+  },
+  {
+    "id": "science-tech-075",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "迈克尔逊-莫雷实验本想测出「以太风」，却意外得出了什么结论？",
+    "options": [
+      "光速在各个方向上都不变",
+      "声音可以在真空中传播",
+      "地球是宇宙的中心",
+      "光是一种粒子而非波"
+    ],
+    "correctAnswer": 0,
+    "explanation": "当时科学家认为光需要一种叫「以太」的介质传播，这个实验却始终测不到以太存在的证据，这个「失败」的实验反而为爱因斯坦的相对论铺平了道路。"
+  },
+  {
+    "id": "science-tech-076",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "傅科用悬挂在巴黎先贤祠穹顶的巨型摆锤，直观证明了什么？",
+    "options": [
+      "地球在自转",
+      "地球在公转",
+      "月球引发潮汐",
+      "重力随纬度变化"
+    ],
+    "correctAnswer": 0,
+    "explanation": "摆锤摆动平面本应保持不变，观众却看到它相对地面缓缓偏转，其实是地球在摆锤下方悄悄转动——这是史上第一个无需天文观测就能证明地球自转的实验。"
+  },
+  {
+    "id": "science-tech-077",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "昂内斯把水银冷却到接近绝对零度时，发现了哪种「零电阻」的现象？",
+    "options": [
+      "超流现象",
+      "超导现象",
+      "顺磁效应",
+      "量子隧穿"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1911年昂内斯发现水银在4.2K附近电阻骤降为零，电流理论上可以毫无损耗地永远流动下去，他也因此获得1913年诺贝尔物理学奖。"
+  },
+  {
+    "id": "science-tech-078",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "「黑洞」这个如今家喻户晓的名词，是哪位物理学家在1960年代大力推广使用的？",
+    "options": [
+      "霍金",
+      "惠勒",
+      "彭罗斯",
+      "钱德拉塞卡"
+    ],
+    "correctAnswer": 1,
+    "explanation": "「黑洞」一词其实是1967年一次会议上有听众随口提出的说法，物理学家惠勒觉得简洁传神便在论文中大量使用，他本人后来也坦言自己并非首创者。"
+  },
+  {
+    "id": "science-tech-079",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "爱因斯坦预言的引力波，直到多少年后才被LIGO首次直接探测到？",
+    "options": [
+      "约30年后",
+      "约60年后",
+      "约100年后",
+      "约200年后"
+    ],
+    "correctAnswer": 2,
+    "explanation": "爱因斯坦1916年预言引力波存在，直到2015年LIGO才首次直接探测到两个黑洞合并产生的引力波信号，足足等了近一个世纪。"
+  },
+  {
+    "id": "science-tech-080",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "微波炉的发明始于意外：工程师斯宾塞测试雷达设备时发现了什么？",
+    "options": [
+      "口袋里的巧克力棒融化了",
+      "手表突然停止走动",
+      "金属容器发出蓝光",
+      "实验室植物加速生长"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1945年，斯宾塞站在雷达磁控管旁工作时发现口袋里的巧克力莫名其妙化了，由此联想到微波加热食物的可能性，微波炉就这样被意外发明出来。"
+  },
+  {
+    "id": "science-tech-081",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "两位工程师调试天线时排除不掉一种神秘噪音，起初怀疑是什么原因？",
+    "options": [
+      "天线上落满了鸽子粪便",
+      "附近工厂的电磁干扰",
+      "太阳黑子活动",
+      "设备本身漏电"
+    ],
+    "correctAnswer": 0,
+    "explanation": "彭齐亚斯和威尔逊清理鸽子粪便、排查各种故障后噪音依然存在，最终意识到这正是大爆炸残留至今的「宇宙微波背景辐射」，两人因此获得1978年诺贝尔物理学奖。"
+  },
+  {
+    "id": "science-tech-082",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "解释飞机为何能获得升力，常用到哪位科学家「流速越快、压强越小」的原理？",
+    "options": [
+      "牛顿",
+      "伯努利",
+      "焦耳",
+      "帕斯卡"
+    ],
+    "correctAnswer": 1,
+    "explanation": "伯努利原理指出流体流速加快时压强会降低，机翼上下表面的气流速度差由此产生压强差；不过现代空气动力学认为飞机升力的成因其实比这复杂得多。"
+  },
+  {
+    "id": "science-tech-083",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "英语「electricity（电）」一词，词源来自希腊语中哪种物质的名字？",
+    "options": [
+      "琥珀",
+      "闪电",
+      "磁石",
+      "黄金"
+    ],
+    "correctAnswer": 0,
+    "explanation": "古希腊人早就发现摩擦琥珀能吸起羽毛等轻小物体，「electron」正是希腊语「琥珀」一词，后来演变出了「电子（electron）」和「电（electricity）」。"
+  },
+  {
+    "id": "science-tech-084",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "烟花绽放出五彩斑斓的颜色，主要利用了不同金属燃烧时的什么现象？",
+    "options": [
+      "金属焰色反应",
+      "金属放射性衰变",
+      "金属磁性变化",
+      "金属导电性差异"
+    ],
+    "correctAnswer": 0,
+    "explanation": "不同金属离子燃烧时会发出特定颜色的光，比如锶产生红色、铜产生蓝绿色、钠产生黄色，化学家正是靠这套「焰色反应」配出万千烟花色彩。"
+  },
+  {
+    "id": "science-tech-085",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "元素「氦」的名字源自希腊语「太阳」，因为它最初是在哪里被发现的？",
+    "options": [
+      "陨石样本中",
+      "深海火山口中",
+      "太阳光谱中",
+      "月球岩石中"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1868年科学家在观测日食时，从太阳光谱里发现一条从未见过的谱线，据此推测存在一种新元素，27年后才终于在地球上的矿物中找到氦气。"
+  },
+  {
+    "id": "science-tech-086",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "发明了炸药的诺贝尔，后来设立诺贝尔奖，据说契机和哪件事有关？",
+    "options": [
+      "提前看到自己被误报的讣告",
+      "一次实验室爆炸重伤",
+      "被科学院拒绝录用",
+      "一位挚友的临终遗言"
+    ],
+    "correctAnswer": 0,
+    "explanation": "相传诺贝尔的哥哥去世时，某报纸误将讣告登成了他本人的，标题写着「死亡商人长辞人间」，这让他深受刺激，决心用遗产设立奖项来改善自己的历史形象。"
+  },
+  {
+    "id": "science-tech-087",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "被誉为「近代化学之父」、提出质量守恒定律的拉瓦锡，最终以怎样的方式离世？",
+    "options": [
+      "死于实验室爆炸意外",
+      "在法国大革命中被送上断头台",
+      "长期接触化学品中毒",
+      "流亡途中病逝"
+    ],
+    "correctAnswer": 1,
+    "explanation": "拉瓦锡1794年因担任税务官员的身份被卷入法国大革命的政治清算，被判处死刑，据说审判他的法官留下一句名言：「共和国不需要科学家」。"
+  },
+  {
+    "id": "science-tech-088",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "解热镇痛药阿司匹林的活性成分，最早是从哪种植物中提取改良而来的？",
+    "options": [
+      "柳树皮",
+      "罂粟壳",
+      "金鸡纳树皮",
+      "薄荷叶"
+    ],
+    "correctAnswer": 0,
+    "explanation": "古人很早就知道嚼柳树皮能止痛退烧，19世纪化学家从中提取出水杨酸，后来德国拜耳公司对其改良合成出更温和的乙酰水杨酸，也就是阿司匹林。"
+  },
+  {
+    "id": "science-tech-089",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "发明硫化橡胶技术的固特异，据说是怎样意外发现这项工艺的？",
+    "options": [
+      "把橡胶硫磺混合物溅到炽热炉子上",
+      "在冰箱里冷冻橡胶时发现",
+      "用橡胶包裹金属导线做实验",
+      "把橡胶长期浸泡在海水中"
+    ],
+    "correctAnswer": 0,
+    "explanation": "固特异为改良橡胶研究了多年，1839年一次意外把橡胶硫磺混合物溅到炽热的炉子上，冷却后竟变得富有弹性又不再发粘，硫化橡胶工艺由此诞生。"
+  },
+  {
+    "id": "science-tech-090",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "不粘锅涂层常用的特氟龙，是化学家普朗克特在研究什么时意外发现的？",
+    "options": [
+      "一种新型冷冻剂气体",
+      "一种人造甜味剂",
+      "一种炸药配方",
+      "一种橡胶替代品"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1938年，普朗克特打算测试一种气体冷冻剂，打开钢瓶却发现气体已自动聚合成一种蜡状白色粉末，这种意外产物就是后来大名鼎鼎的特氟龙。"
+  },
+  {
+    "id": "science-tech-091",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "中国古代炼丹术士在炼制什么东西的过程中，意外发明了黑火药？",
+    "options": [
+      "长生不老药",
+      "黄金",
+      "治疗瘟疫的药方",
+      "防腐用的水银"
+    ],
+    "correctAnswer": 0,
+    "explanation": "唐代方士在配制硫磺、硝石、木炭等物以求「长生不老丹」时，配方一不小心就会剧烈燃烧甚至爆炸，黑火药就这样在求仙问道的路上意外诞生。"
+  },
+  {
+    "id": "science-tech-092",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "有「从空气中制造面包」之称的哈伯-博施法，主要合成了哪种化肥原料？",
+    "options": [
+      "硝酸",
+      "氨",
+      "尿素",
+      "磷酸"
+    ],
+    "correctAnswer": 1,
+    "explanation": "哈伯和博施在20世纪初找到用氮气和氢气高压合成氨的方法，让化肥产量暴增，据估算如今全球近一半人口的粮食都要依赖这项技术才能养活。"
+  },
+  {
+    "id": "science-tech-093",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "在室温下，下列哪种金属是唯一呈液态存在的？",
+    "options": [
+      "铅",
+      "汞",
+      "镓",
+      "铋"
+    ],
+    "correctAnswer": 1,
+    "explanation": "汞（水银）的熔点只有约零下39℃，是常温下唯一的液态金属；镓的熔点也很低（约30℃），握在手心的体温就能让它熔化，常被拿来表演的「魔术金属」。"
+  },
+  {
+    "id": "science-tech-094",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "自由女神像最初是红棕色的铜色，后来变成标志性的绿色，是因为发生了什么？",
+    "options": [
+      "表面镀了一层绿漆",
+      "铜与空气中物质反应生成铜绿",
+      "长期被海藻附着",
+      "是刻意做旧处理"
+    ],
+    "correctAnswer": 1,
+    "explanation": "自由女神像外层是薄薄的铜板，铜长期暴露在潮湿空气中会氧化生成一层被称为「铜绿」的碱式碳酸铜，这层锈反而像保护膜一样护住了内部的铜。"
+  },
+  {
+    "id": "science-tech-095",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "切洋葱时让人流泪的物质，是细胞被切破后两种成分混合反应临时生成的？",
+    "options": [
+      "二氧化硫",
+      "一种含硫的催泪化合物",
+      "氨气",
+      "甲醛"
+    ],
+    "correctAnswer": 1,
+    "explanation": "洋葱细胞破裂后，原本分隔开的蒜氨酸酶和含硫化合物混合反应，生成一种挥发性的含硫化合物，扩散到空气中刺激眼睛，触发反射性流泪。"
+  },
+  {
+    "id": "science-tech-096",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "衡量酸碱度的pH值概念，最初是索伦森在研究哪个行业的问题时提出的？",
+    "options": [
+      "制药行业",
+      "啤酒酿造行业",
+      "纺织印染行业",
+      "石油化工行业"
+    ],
+    "correctAnswer": 1,
+    "explanation": "索伦森当时在嘉士伯啤酒公司的实验室工作，为了精确控制酿造中酶反应的酸碱环境，他在1909年提出了pH值的概念，如今已是化学中最基础的工具之一。"
+  },
+  {
+    "id": "science-tech-097",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "章鱼的血液是蓝色的，而且全身不止一颗心脏，一共有几颗？",
+    "options": [
+      "1颗",
+      "2颗",
+      "3颗",
+      "4颗"
+    ],
+    "correctAnswer": 2,
+    "explanation": "章鱼有两颗「鳃心」专门给鳃供血，还有一颗「体心」负责全身循环；血液因为用含铜的血蓝蛋白运输氧气，所以呈现蓝色而非红色。"
+  },
+  {
+    "id": "science-tech-098",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "被称为「水熊虫」的微小生物，能在太空真空和强辐射下存活而闻名，它属于哪类生物？",
+    "options": [
+      "缓步动物",
+      "单细胞原生动物",
+      "细菌",
+      "苔藓类植物"
+    ],
+    "correctAnswer": 0,
+    "explanation": "水熊虫遇到极端环境会让身体脱水进入「隐生」状态，代谢几乎完全停滞；2007年欧洲航天局把它们直接暴露在太空真空环境中，回收后仍有部分个体存活。"
+  },
+  {
+    "id": "science-tech-099",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "詹纳发明天花疫苗的灵感，来自他观察到从事哪种职业的人很少得天花？",
+    "options": [
+      "屠夫",
+      "挤奶女工",
+      "渔民",
+      "矿工"
+    ],
+    "correctAnswer": 1,
+    "explanation": "詹纳发现感染过「牛痘」的挤奶女工很少得天花，于是大胆用牛痘脓液给一名男孩接种试验，结果证明孩子获得了免疫力，「疫苗（vaccine）」一词正源自拉丁语「牛（vacca）」。"
+  },
+  {
+    "id": "science-tech-100",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "发现人类ABO血型系统、让输血从「碰运气」变成安全操作的科学家是？",
+    "options": [
+      "巴斯德",
+      "兰德施泰纳",
+      "科赫",
+      "弗莱明"
+    ],
+    "correctAnswer": 1,
+    "explanation": "20世纪初，兰德施泰纳发现把不同人的血液混合有时会发生凝集反应，由此确认了A、B、O等血型，此前医生根本不知道为什么有的输血能救命、有的却会致命。"
+  },
+  {
+    "id": "science-tech-101",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "被誉为「遗传学之父」的孟德尔，是通过种植和杂交哪种植物总结出遗传规律的？",
+    "options": [
+      "玉米",
+      "豌豆",
+      "向日葵",
+      "番茄"
+    ],
+    "correctAnswer": 1,
+    "explanation": "孟德尔在修道院花园里花了8年时间种植和统计上万株豌豆，归纳出显性、隐性等遗传规律，可惜成果在他生前几乎无人问津，直到35年后才被重新发现。"
+  },
+  {
+    "id": "science-tech-102",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "胰岛素由班廷和助手贝斯特共同提取成功，次年诺贝尔奖却只授予了班廷，他做了什么？",
+    "options": [
+      "拒绝领奖",
+      "公开批评评委会",
+      "把自己一半的奖金分给了贝斯特",
+      "退回研究成果专利"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1923年诺贝尔生理学或医学奖授予了班廷和实验室主任麦克劳德，班廷认为真正做实验的贝斯特被不公平地忽略了，愤而将自己那份奖金分给了贝斯特。"
+  },
+  {
+    "id": "science-tech-103",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "医学研究中广泛使用的「海拉细胞」，取自一位患癌去世的女性，这类细胞最特殊之处在于？",
+    "options": [
+      "能在实验室中无限增殖，几十年不死",
+      "能自动合成任何药物",
+      "完全不会发生基因突变",
+      "可以直接替代人体器官移植"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1951年，海瑞塔·拉克斯的癌细胞在她本人不知情的情况下被取样培养，这些细胞异常顽强，能在实验室里无限分裂，至今仍是全球实验室常用的细胞系。"
+  },
+  {
+    "id": "science-tech-104",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "日本科学家池田菊苗从海带高汤中提取出的第五种基本味道是？",
+    "options": [
+      "鲜味",
+      "辣味",
+      "涩味",
+      "脂肪味"
+    ],
+    "correctAnswer": 0,
+    "explanation": "在酸甜苦咸之外，池田菊苗1908年提出了「旨味」（即鲜味）这一概念，后来他还据此发明了味精（谷氨酸钠）这一调味品。"
+  },
+  {
+    "id": "science-tech-105",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "有一种水母在受伤衰老后，能让身体「逆生长」回到幼体阶段重新发育，被称为？",
+    "options": [
+      "再生水母",
+      "灯塔水母",
+      "幼态水母",
+      "透明水母"
+    ],
+    "correctAnswer": 1,
+    "explanation": "灯塔水母遇到压力时能让已经成熟的细胞重新转化为幼体阶段的细胞，理论上可以无限循环这个过程，是目前已知被认为具有「生物学意义永生」能力的动物。"
+  },
+  {
+    "id": "science-tech-106",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "被誉为「现代神经科学之父」的西班牙科学家卡哈尔，确立了神经系统由什么构成的理论？",
+    "options": [
+      "连续不断的网状组织",
+      "一个个独立的神经元细胞",
+      "完全由胶质细胞",
+      "液态的「生命电流」"
+    ],
+    "correctAnswer": 1,
+    "explanation": "卡哈尔提出的「神经元学说」认为神经系统由彼此独立、通过突触连接的神经元组成，这个观点当年与意大利科学家高尔基针锋相对，两人却因此共享了1906年诺贝尔生理学或医学奖。"
+  },
+  {
+    "id": "science-tech-107",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "五颜六色、常被误认为是植物或石头的珊瑚，从生物学分类上看其实属于？",
+    "options": [
+      "植物",
+      "矿物",
+      "动物",
+      "真菌"
+    ],
+    "correctAnswer": 2,
+    "explanation": "珊瑚是一种叫珊瑚虫的腔肠动物群体分泌骨骼堆积而成，珊瑚虫本身有触手，会捕食浮游生物，还和体内的藻类共生获取能量。"
+  },
+  {
+    "id": "science-tech-108",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "人体206块骨头中体积最小的一块，形状像一副马镫，位于哪个部位？",
+    "options": [
+      "手指",
+      "中耳",
+      "脚趾",
+      "鼻腔"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这块骨头叫「镫骨」，藏在中耳里，长度不到3毫米，负责把耳膜的振动传递给内耳，是人体最小、也最容易被忽视的骨头。"
+  },
+  {
+    "id": "science-tech-109",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "目前已知寿命最长的单株树木，年龄接近5000岁，比金字塔历史还久远，它是哪种树？",
+    "options": [
+      "银杏树",
+      "红杉树",
+      "狐尾松",
+      "胡杨树"
+    ],
+    "correctAnswer": 2,
+    "explanation": "生长在美国加州怀特山脉的一株狐尾松，树龄经推算已接近5000年，具体位置至今被官方保密，就是为了防止游客破坏这棵「活化石」。"
+  },
+  {
+    "id": "science-tech-110",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "范·海尔蒙特种柳树只浇雨水，五年后树重猛增而土壤几乎不减，他推断增重物质主要来自？",
+    "options": [
+      "阳光",
+      "水",
+      "空气",
+      "土壤本身"
+    ],
+    "correctAnswer": 1,
+    "explanation": "海尔蒙特严谨地在实验前后都称重了柳树和土壤，是科学史上最早的定量实验之一，虽然他没能认识到二氧化碳和光合作用的作用，但「树的重量主要不是来自土壤」这个结论是对的。"
+  },
+  {
+    "id": "science-tech-111",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "《本草纲目》的作者李时珍生活在哪个朝代？",
+    "options": [
+      "唐代",
+      "宋代",
+      "明代",
+      "清代"
+    ],
+    "correctAnswer": 2,
+    "explanation": "李时珍是明代本草学家，他历时二十七年、三易其稿写成《本草纲目》，收载药物1892种，被称为「东方医药巨典」；不少人误记成唐代或清代。"
+  },
+  {
+    "id": "science-tech-112",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "被誉为「中国17世纪的工艺百科全书」的古代著作是哪一部？",
+    "options": [
+      "《天工开物》",
+      "《本草纲目》",
+      "《梦溪笔谈》",
+      "《农政全书》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "明代宋应星的《天工开物》系统记录了农业和手工业的各种生产技术，是世界上最早的综合性科技著作之一；《梦溪笔谈》是沈括的笔记，很多人会把两者记混。"
+  },
+  {
+    "id": "science-tech-113",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "1950年图灵提出著名的「图灵测试」，它的核心内容是什么？",
+    "options": [
+      "通过文字问答，让裁判难以分辨对方是人还是机器",
+      "通过语音打分，检验机器的发音是否标准",
+      "让机器人完成家务，检验其动手能力",
+      "测试机器能否在围棋等棋类中战胜人类"
+    ],
+    "correctAnswer": 0,
+    "explanation": "如果裁判隔着屏幕问答仍无法可靠区分对方是人还是机器，就认为机器通过了测试、算得上「会思考」。图灵因此在人工智能领域被誉为「人工智能之父」。"
+  },
+  {
+    "id": "science-tech-114",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "2016年3月，人工智能围棋程序AlphaGo在五番棋人机大战中4:1战胜的人类棋手是谁？",
+    "options": [
+      "柯洁",
+      "李世石",
+      "聂卫平",
+      "申真谞"
+    ],
+    "correctAnswer": 1,
+    "explanation": "AlphaGo以4:1击败韩国棋手李世石，震动世界棋坛；次年5月它又零封当时世界排名第一的柯洁。"
+  },
+  {
+    "id": "science-tech-115",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "1961年4月12日，人类历史上第一位进入太空的宇航员是谁？",
+    "options": [
+      "尤里·加加林",
+      "阿兰·谢泼德",
+      "约翰·格伦",
+      "阿列克谢·列昂诺夫"
+    ],
+    "correctAnswer": 0,
+    "explanation": "苏联宇航员加加林乘坐「东方一号」飞船绕地球飞行108分钟后安全着陆；谢泼德、格伦是美国最早的太空人，列昂诺夫则是首位实现太空行走的人。"
+  },
+  {
+    "id": "science-tech-116",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "1903年12月17日，莱特兄弟实现人类首次有动力、可操控的持续飞行，地点在哪里？",
+    "options": [
+      "法国巴黎郊外",
+      "英国伦敦的摄政公园",
+      "德国柏林的滕珀尔霍夫",
+      "美国北卡罗来纳州的基蒂霍克"
+    ],
+    "correctAnswer": 3,
+    "explanation": "莱特兄弟驾驶自制飞机「飞行者一号」，在基蒂霍克海边沙滩创造了12秒、约36米的历史性飞行，这是公认的人类第一次动力飞行。"
+  },
+  {
+    "id": "science-tech-117",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "关于东汉蔡伦与造纸术，下列说法正确的是？",
+    "options": [
+      "蔡伦系统改进了造纸术，让纸张价廉质优、得以普及",
+      "蔡伦发明了世界上第一张纸",
+      "蔡伦发明了活字印刷术",
+      "蔡伦把造纸术传播到了欧洲"
+    ],
+    "correctAnswer": 0,
+    "explanation": "考古证实西汉已有麻纸，蔡伦的贡献是改用树皮、破布、渔网等廉价原料改进工艺，造出「蔡侯纸」；「纸是蔡伦发明的」是流传最广的误记。"
+  },
+  {
+    "id": "science-tech-118",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "记载「舟师识地理，夜则观星，昼则观日，阴晦观指南针」的《萍洲可谈》，说明指南针在哪个朝代已用于航海？",
+    "options": [
+      "唐代",
+      "宋代",
+      "元代",
+      "明代"
+    ],
+    "correctAnswer": 1,
+    "explanation": "北宋学者朱彧的《萍洲可谈》记载海船「阴晦观指南针」，说明当时指南针已用于航海，比欧洲最早的同类记载早约一个世纪。"
+  },
+  {
+    "id": "science-tech-119",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "张衡发明的「候风地动仪」，主要功能是什么？",
+    "options": [
+      "预测地震发生的时间和地点",
+      "测量地震的震级大小",
+      "在地震发生后测知震源所在的大致方向",
+      "自动记录地震波的完整波形"
+    ],
+    "correctAnswer": 2,
+    "explanation": "地动仪通过内部结构感应地震波，让龙口吐出铜球指示方向——史载它曾准确测出京师人毫无感觉的陇西地震。它只能「事后报震」，不能预测，也没有震级概念。"
+  },
+  {
+    "id": "science-tech-120",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "关于瓦特与蒸汽机，更准确的说法是？",
+    "options": [
+      "瓦特系统改进了纽科门蒸汽机，使其高效实用",
+      "瓦特发明了世界上第一台蒸汽机",
+      "瓦特发明了第一台内燃机",
+      "瓦特制造了第一台蒸汽机车"
+    ],
+    "correctAnswer": 0,
+    "explanation": "瓦特之前已有纽科门等人的蒸汽机，「蒸汽机是瓦特发明的」其实是误解；瓦特的成就是分离冷凝器等高效改进，让蒸汽机变得可靠普及，进而点燃了工业革命。"
+  },
+  {
+    "id": "science-tech-121",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "1760年代哈格里夫斯发明珍妮纺纱机后，英国棉纺织业最直接出现的局面是？",
+    "options": [
+      "纺纱效率大增，织布反而成了新的瓶颈",
+      "所有人都不再需要手工劳动了",
+      "蒸汽机迅速在纺织厂里普及",
+      "棉花价格暴跌导致棉农破产"
+    ],
+    "correctAnswer": 0,
+    "explanation": "珍妮纺纱机让一名工人能同时纺出多根纱线，棉纱产量骤增，织布速度反而跟不上——这个「纱多布少」的瓶颈又逼着人们继续改良织布机，工业革命就这样一环扣一环地铺开。"
+  },
+  {
+    "id": "science-tech-122",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "1829年在「雨山试验」中夺冠、并因此声名大振的蒸汽机车「火箭号」，出自哪位工程师之手？",
+    "options": [
+      "詹姆斯·瓦特",
+      "罗伯特·富尔顿",
+      "本杰明·富兰克林",
+      "乔治·史蒂芬森"
+    ],
+    "correctAnswer": 3,
+    "explanation": "「火箭号」由乔治·史蒂芬森和儿子罗伯特设计，在雨山试验中以约每小时47公里的速度夺冠，正式开启了铁路时代；富尔顿是蒸汽船的先驱，常被记混。"
+  },
+  {
+    "id": "science-tech-123",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "1876年贝尔打通人类第一通电话时，对助手沃森说的第一句话是？",
+    "options": [
+      "Hello，世界",
+      "喂，你听得见吗？",
+      "沃森先生，过来一下，我想见你",
+      "上帝，它响了"
+    ],
+    "correctAnswer": 2,
+    "explanation": "贝尔那句「Mr. Watson, come here, I want to see you」被完整记入实验笔记；值得一提的是，他的电话专利只比竞争对手格雷的申请早了几个小时。"
+  },
+  {
+    "id": "science-tech-124",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "1913年，福特汽车公司首创移动流水线、让汽车大规模走进普通家庭，首先量产的是哪款车？",
+    "options": [
+      "福特野马",
+      "大众甲壳虫",
+      "福特T型车",
+      "福特F系卡车"
+    ],
+    "correctAnswer": 2,
+    "explanation": "流水线把T型车的组装时间从12小时多压缩到90分钟左右，价格从800多美元一路降到300美元上下，让汽车真正成为大众消费品；野马要到1964年才诞生。"
+  },
+  {
+    "id": "science-tech-125",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "元朝郭守敬等编制的《授时历》将回归年定为365.2425日，与1582年采用的格里高利历数值相同，但比它早了多少年？",
+    "options": [
+      "约50年",
+      "约100年",
+      "约300年",
+      "约800年"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《授时历》1281年颁行，格里高利历1582年才采用同样的365.2425日，领先约300年，堪称中国古代历法的巅峰之作。"
+  },
+  {
+    "id": "science-tech-126",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "据沈括《梦溪笔谈》记载，北宋平民毕昇发明活字印刷术时，最初制作活字用的是哪种材料？",
+    "options": [
+      "胶泥",
+      "木头",
+      "铜",
+      "铅"
+    ],
+    "correctAnswer": 0,
+    "explanation": "毕昇「用胶泥刻字，火烧令坚」，以泥活字排版印刷；欧洲要到15世纪古腾堡才发明金属活字印刷术，比毕昇晚了约400年。"
+  },
+  {
+    "id": "science-tech-127",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "关于白炽灯的发明，下列说法准确的是？",
+    "options": [
+      "爱迪生发明了世界上第一盏白炽灯",
+      "特斯拉在1879年发明了白炽灯",
+      "富兰克林的风筝实验证实了电灯的原理",
+      "斯旺与爱迪生各自独立发明了实用白炽灯，由爱迪生让它真正普及"
+    ],
+    "correctAnswer": 3,
+    "explanation": "英国物理学家斯旺1878年底率先公开演示碳丝白炽灯，爱迪生随后改良灯丝并建立供电系统，让电灯真正普及，两家专利一度合并为「Ediswan」公司——「电灯由爱迪生一人发明」是流传最广的误读。"
+  },
+  {
+    "id": "science-tech-128",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "1958年，在德州仪器发明第一块集成电路（芯片雏形）的工程师是谁？",
+    "options": [
+      "威廉·肖克利",
+      "罗伯特·诺伊斯",
+      "约翰·巴丁",
+      "杰克·基尔比"
+    ],
+    "correctAnswer": 3,
+    "explanation": "基尔比把晶体管、电阻、电容等做进同一块半导体材料，集成电路就此诞生，他因此获得2000年诺贝尔物理学奖；诺伊斯同期也在仙童公司研发出类似成果，但因1990年去世而无缘获奖。"
+  },
+  {
+    "id": "science-tech-129",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "让程序和数据一起存入存储器、可按需取用的「存储程序」体系结构是现代计算机的基础，它通常以哪位科学家命名？",
+    "options": [
+      "艾伦·图灵",
+      "约翰·冯·诺依曼",
+      "克劳德·香农",
+      "布莱士·帕斯卡"
+    ],
+    "correctAnswer": 1,
+    "explanation": "冯·诺依曼在EDVAC报告中系统阐述了「存储程序」概念，程序与数据同存内存、无需手工改插线即可切换任务；首台通用电子计算机ENIAC正是因靠插线板编程、换题极慢，才催生了这一思想，现代电脑因此又称「冯·诺依曼机」。"
+  },
+  {
+    "id": "science-tech-130",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "1901年12月，首次实现跨越大西洋无线电通信（从英国到加拿大）的工程师是谁？",
+    "options": [
+      "尼古拉·特斯拉",
+      "托马斯·爱迪生",
+      "亚历山大·贝尔",
+      "古列尔莫·马可尼"
+    ],
+    "correctAnswer": 3,
+    "explanation": "马可尼在加拿大纽芬兰收到了英国康沃尔发射的「三短点」信号（字母S），首次证明无线电能跨越海洋，并因此与他人分享了1909年诺贝尔物理学奖。"
+  },
+  {
+    "id": "science-tech-131",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "夏季大三角不包括以下哪颗星？",
+    "options": [
+      "织女星",
+      "牛郎星（河鼓二）",
+      "天津四",
+      "北极星"
+    ],
+    "correctAnswer": 3,
+    "explanation": "夏季大三角由织女星、牛郎星（河鼓二）和天津四组成，不包括北极星。"
+  },
+  {
+    "id": "science-tech-132",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“秒差距”（parsec）是？",
+    "options": [
+      "时间单位",
+      "距离单位",
+      "速度单位",
+      "角度单位"
+    ],
+    "correctAnswer": 1,
+    "explanation": "秒差距是天文学使用的距离单位，1秒差距约等于3.26光年。"
+  },
+  {
+    "id": "science-tech-133",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "北斗七星属于哪个星座？",
+    "options": [
+      "小熊座",
+      "大熊座",
+      "仙后座",
+      "天龙座"
+    ],
+    "correctAnswer": 1,
+    "explanation": "北斗七星是大熊座的一部分，勺柄到勺口都属于大熊座。"
+  },
+  {
+    "id": "science-tech-134",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "北极星位于哪个星座？",
+    "options": [
+      "大熊座",
+      "小熊座",
+      "仙王座",
+      "天鹅座"
+    ],
+    "correctAnswer": 1,
+    "explanation": "北极星是小熊座尾部的勾陈一，是目前最接近北天极的亮星。"
+  },
+  {
+    "id": "science-tech-135",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“视星等”描述的是？",
+    "options": [
+      "恒星真实的亮度",
+      "从地球看起来的明暗程度",
+      "恒星的颜色",
+      "恒星的大小"
+    ],
+    "correctAnswer": 1,
+    "explanation": "视星等衡量的是恒星从地球看起来的明暗；真实发光能力用绝对星等表示。"
+  },
+  {
+    "id": "science-tech-136",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "冬季大三角包括哪三颗星？",
+    "options": [
+      "天狼、参宿四、南河三",
+      "天狼、参宿七、北极星",
+      "天狼、织女、牛郎",
+      "参宿四、心宿二、轩辕十四"
+    ],
+    "correctAnswer": 0,
+    "explanation": "冬季大三角由大犬座天狼星、猎户座参宿四和小犬座南河三组成。"
+  },
+  {
+    "id": "science-tech-137",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "视星等的数值越小，表示恒星看起来？",
+    "options": [
+      "越暗",
+      "越亮",
+      "越红",
+      "越远"
+    ],
+    "correctAnswer": 1,
+    "explanation": "星等数越小越亮，可以为负数，比如太阳约-26.7等。"
+  },
+  {
+    "id": "science-tech-138",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "全天最亮的恒星是？",
+    "options": [
+      "天狼星",
+      "织女星",
+      "老人星",
+      "北极星"
+    ],
+    "correctAnswer": 0,
+    "explanation": "天狼星视星等约-1.46，是除太阳外全天最亮的恒星。"
+  },
+  {
+    "id": "science-tech-139",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“绝对星等”定义是：把恒星放到多远时测得的视星等？",
+    "options": [
+      "1光年",
+      "1秒差距",
+      "10秒差距",
+      "100秒差距"
+    ],
+    "correctAnswer": 2,
+    "explanation": "绝对星等是把恒星移到距地球10秒差距（32.6光年）处时测得的视星等。"
+  },
+  {
+    "id": "science-tech-140",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "仙后座在天空中最显著的特征是？",
+    "options": [
+      "W形（或M形）排列",
+      "勺子形",
+      "十字形",
+      "方形"
+    ],
+    "correctAnswer": 0,
+    "explanation": "仙后座五颗亮星排成明显的W（或M）形，与北斗七星隔着北极星遥遥相对。"
+  },
+  {
+    "id": "science-tech-141",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "天狼星位于哪个星座？",
+    "options": [
+      "猎户座",
+      "大犬座",
+      "小犬座",
+      "双子座"
+    ],
+    "correctAnswer": 1,
+    "explanation": "天狼星是大犬座α星，位于猎户座东南方。"
+  },
+  {
+    "id": "science-tech-142",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“天文单位（AU）”是指？",
+    "options": [
+      "光一年走的距离",
+      "地球到太阳的平均距离",
+      "月球到地球的距离",
+      "太阳半径"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1天文单位约1.496亿千米，即日地平均距离；光走一年是1光年。"
+  },
+  {
+    "id": "science-tech-143",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "天蝎座最亮的心宿二又被称为什么？",
+    "options": [
+      "大火",
+      "天狼",
+      "北落师门",
+      "老人星"
+    ],
+    "correctAnswer": 0,
+    "explanation": "心宿二古称“大火”，《诗经》“七月流火”的“火”就是它。"
+  },
+  {
+    "id": "science-tech-144",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "肉眼在极暗夜空下能看到的最暗恒星约为几等？",
+    "options": [
+      "0等",
+      "3等",
+      "6等",
+      "10等"
+    ],
+    "correctAnswer": 2,
+    "explanation": "无光害环境下肉眼极限约6等，城市灯光下通常只能看到3等左右。"
+  },
+  {
+    "id": "science-tech-145",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "猎户座腰带上的三颗星是？",
+    "options": [
+      "参宿三星",
+      "北斗三星",
+      "河鼓三星",
+      "心宿三星"
+    ],
+    "correctAnswer": 0,
+    "explanation": "猎户腰带三星即参宿一、参宿二、参宿三，民间也称“福禄寿三星”。"
+  },
+  {
+    "id": "science-tech-146",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "猎户座大星云的编号是？",
+    "options": [
+      "M31",
+      "M42",
+      "M45",
+      "M51"
+    ],
+    "correctAnswer": 1,
+    "explanation": "猎户座大星云为M42，是距离最近的大恒星形成区；M31是仙女座星系。"
+  },
+  {
+    "id": "science-tech-147",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "昴星团（七姊妹星团）位于哪个星座？",
+    "options": [
+      "金牛座",
+      "双子座",
+      "巨蟹座",
+      "猎户座"
+    ],
+    "correctAnswer": 0,
+    "explanation": "昴星团（M45）是金牛座的疏散星团，肉眼可见六七颗亮星。"
+  },
+  {
+    "id": "science-tech-148",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "1秒差距大约等于？",
+    "options": [
+      "1光年",
+      "3.26光年",
+      "10光年",
+      "100光年"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1秒差距≈3.26光年≈20.6万天文单位，名字来自“视差为1角秒的距离”。"
+  },
+  {
+    "id": "science-tech-149",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "著名的仙女座星系编号是？",
+    "options": [
+      "M31",
+      "M42",
+      "M45",
+      "M104"
+    ],
+    "correctAnswer": 0,
+    "explanation": "仙女座星系M31是距离银河系最近的大型漩涡星系，距地球约250万光年。"
+  },
+  {
+    "id": "science-tech-150",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "现代天文学通用星座一共有多少个？",
+    "options": [
+      "12",
+      "28",
+      "88",
+      "100"
+    ],
+    "correctAnswer": 2,
+    "explanation": "国际天文学联合会1928年划定全天88个星座；黄道十二宫只是其中一部分。"
+  },
+  {
+    "id": "science-tech-151",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "太阳系中体积最大的行星是？",
+    "options": [
+      "土星",
+      "木星",
+      "天王星",
+      "海王星"
+    ],
+    "correctAnswer": 1,
+    "explanation": "木星质量约为其他七大行星总和的2.5倍，体积是地球的1300多倍。"
+  },
+  {
+    "id": "science-tech-152",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“黄道”是？",
+    "options": [
+      "月球轨道面",
+      "地球公转轨道面在天球上的投影",
+      "银河平面",
+      "赤道平面"
+    ],
+    "correctAnswer": 1,
+    "explanation": "黄道是地球绕太阳公转轨道平面无限延伸后与天球相交的大圆。"
+  },
+  {
+    "id": "science-tech-153",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "太阳系中自转最快的行星是？",
+    "options": [
+      "地球",
+      "火星",
+      "木星",
+      "水星"
+    ],
+    "correctAnswer": 2,
+    "explanation": "木星自转一周不到10小时，是太阳系自转最快的行星。"
+  },
+  {
+    "id": "science-tech-154",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“赤经”的起算点是？",
+    "options": [
+      "春分点",
+      "秋分点",
+      "夏至点",
+      "北极点"
+    ],
+    "correctAnswer": 0,
+    "explanation": "赤经以春分点为原点向东计量，相当于天球上的“经度”。"
+  },
+  {
+    "id": "science-tech-155",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "太阳系中表面温度最高的行星是？",
+    "options": [
+      "水星",
+      "金星",
+      "火星",
+      "木星"
+    ],
+    "correctAnswer": 1,
+    "explanation": "金星浓厚的二氧化碳大气造成失控温室效应，表面约465℃，比水星还热。"
+  },
+  {
+    "id": "science-tech-156",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "拥有最壮观行星环的行星是？",
+    "options": [
+      "木星",
+      "土星",
+      "天王星",
+      "海王星"
+    ],
+    "correctAnswer": 1,
+    "explanation": "土星环由无数冰块组成，宽达数十万千米，是太阳系最壮观的行星环。"
+  },
+  {
+    "id": "science-tech-157",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "春分时太阳位于黄道和天赤道的？",
+    "options": [
+      "升交点（春分点）",
+      "降交点",
+      "北回归点",
+      "南回归点"
+    ],
+    "correctAnswer": 0,
+    "explanation": "春分点是天赤道与黄道的升交点，太阳每年3月经过它。"
+  },
+  {
+    "id": "science-tech-158",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "太阳系中最大的卫星（比水星还大）是？",
+    "options": [
+      "月球",
+      "木卫三（盖尼米得）",
+      "土卫六（泰坦）",
+      "木卫一"
+    ],
+    "correctAnswer": 1,
+    "explanation": "木卫三直径约5268千米，比水星还大，是太阳系最大的卫星。"
+  },
+  {
+    "id": "science-tech-159",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“天赤道”是？",
+    "options": [
+      "地球赤道面延伸与天球相交的大圆",
+      "黄道面与天球相交的大圆",
+      "月球轨道",
+      "银河中心线"
+    ],
+    "correctAnswer": 0,
+    "explanation": "天赤道是地球赤道面无限延伸后与天球相交的大圆。"
+  },
+  {
+    "id": "science-tech-160",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "木卫二“欧罗巴”最令科学家感兴趣的是？",
+    "options": [
+      "冰壳下可能存在液态海洋",
+      "表面全是黄金",
+      "温度最高",
+      "有茂密森林"
+    ],
+    "correctAnswer": 0,
+    "explanation": "木卫二冰壳之下可能藏有全球性液态海洋，是寻找地外生命的热门目标。"
+  },
+  {
+    "id": "science-tech-161",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "小行星带主要位于？",
+    "options": [
+      "水星与金星之间",
+      "火星与木星之间",
+      "木星与土星之间",
+      "土星轨道外"
+    ],
+    "correctAnswer": 1,
+    "explanation": "主小行星带位于火星与木星轨道之间，距离太阳约2.2~3.2天文单位。"
+  },
+  {
+    "id": "science-tech-162",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "春分和秋分对应太阳在黄道上的位置是？",
+    "options": [
+      "黄道与天赤道两个交点",
+      "黄道最北点",
+      "黄道最南点",
+      "夏至点"
+    ],
+    "correctAnswer": 0,
+    "explanation": "春分、秋分时太阳位于黄道与天赤道的两个交点，全球昼夜大致等长。"
+  },
+  {
+    "id": "science-tech-163",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "冥王星现在被归类为？",
+    "options": [
+      "行星",
+      "矮行星",
+      "小行星",
+      "卫星"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2006年国际天文学联合会将冥王星降级为矮行星，九大行星变为八大行星。"
+  },
+  {
+    "id": "science-tech-164",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“黄赤交角”大约为？",
+    "options": [
+      "0度",
+      "23.5度",
+      "45度",
+      "66.5度"
+    ],
+    "correctAnswer": 1,
+    "explanation": "黄道面与赤道面的交角约23.5°，正是它造成了四季变化。"
+  },
+  {
+    "id": "science-tech-165",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "金星在黎明前东方天空出现时被称为？",
+    "options": [
+      "长庚星",
+      "启明星",
+      "天狼星",
+      "老人星"
+    ],
+    "correctAnswer": 1,
+    "explanation": "金星清晨出现在东方叫启明星，黄昏出现在西方叫长庚星。"
+  },
+  {
+    "id": "science-tech-166",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "黄赤交角的存在直接导致？",
+    "options": [
+      "四季更替",
+      "昼夜更替",
+      "潮汐",
+      "月相变化"
+    ],
+    "correctAnswer": 0,
+    "explanation": "黄赤交角使太阳直射点在南北回归线之间移动，从而形成四季；昼夜更替是地球自转造成的。"
+  },
+  {
+    "id": "science-tech-167",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "哈雷彗星大约多少年回归一次？",
+    "options": [
+      "11年",
+      "33年",
+      "76年",
+      "100年"
+    ],
+    "correctAnswer": 2,
+    "explanation": "哈雷彗星周期约76年，最近一次回归是1986年，预计2061年再次回归。"
+  },
+  {
+    "id": "science-tech-168",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“回归年”是依据什么制定的？",
+    "options": [
+      "月球绕地球一周",
+      "太阳在黄道上从春分点回到春分点",
+      "地球自转一周",
+      "恒星周日运动"
+    ],
+    "correctAnswer": 1,
+    "explanation": "回归年是太阳连续两次经过春分点的时间间隔，约365.24天。"
+  },
+  {
+    "id": "science-tech-169",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "彗星著名的两条“尾巴”主要是？",
+    "options": [
+      "尘埃尾和离子尾",
+      "冰尾和火尾",
+      "左尾和右尾",
+      "红色尾和蓝色尾"
+    ],
+    "correctAnswer": 0,
+    "explanation": "太阳风和辐射压把彗星物质吹成尘埃尾（弯曲）和离子尾（笔直背向太阳）。"
+  },
+  {
+    "id": "science-tech-170",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“朔望月”是？",
+    "options": [
+      "两次新月之间的时间（约29.5天）",
+      "地球公转周期",
+      "彗星周期",
+      "太阳黑子周期"
+    ],
+    "correctAnswer": 0,
+    "explanation": "朔望月约29.53天，是月相变化一个完整周期，农历月份由此而来。"
+  },
+  {
+    "id": "science-tech-171",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "流星雨出现时，所有流星看起来都像从哪一点发散出来？",
+    "options": [
+      "辐射点",
+      "天顶",
+      "月亮",
+      "北极星"
+    ],
+    "correctAnswer": 0,
+    "explanation": "流星来自平行方向，透视效果使它们看起来从天空某一点（辐射点）散开。"
+  },
+  {
+    "id": "science-tech-172",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "农历属于？",
+    "options": [
+      "纯阳历",
+      "纯阴历",
+      "阴阳合历",
+      "恒星历"
+    ],
+    "correctAnswer": 2,
+    "explanation": "农历月份按朔望月（阴历），通过闰月协调回归年（阳历），属于阴阳合历。"
+  },
+  {
+    "id": "science-tech-173",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "英仙座流星雨通常每年几月达到极大？",
+    "options": [
+      "1月",
+      "5月",
+      "8月",
+      "12月"
+    ],
+    "correctAnswer": 2,
+    "explanation": "英仙座流星雨每年8月12日前后极大，是北半球最稳定的流星雨之一。"
+  },
+  {
+    "id": "science-tech-174",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "二十四节气依据的是？",
+    "options": [
+      "月球位置",
+      "太阳在黄道上的位置",
+      "行星位置",
+      "恒星位置"
+    ],
+    "correctAnswer": 1,
+    "explanation": "二十四节气按太阳黄经每15°划分一个，本质是阳历成分。"
+  },
+  {
+    "id": "science-tech-175",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "双子座流星雨通常每年几月达到极大？",
+    "options": [
+      "8月",
+      "10月",
+      "12月",
+      "2月"
+    ],
+    "correctAnswer": 2,
+    "explanation": "双子座流星雨每年12月中旬极大，流量稳定且亮流星多，适合冬季观测。"
+  },
+  {
+    "id": "science-tech-176",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "天球上“赤纬”相当于地球上的？",
+    "options": [
+      "经度",
+      "纬度",
+      "高度",
+      "方位角"
+    ],
+    "correctAnswer": 1,
+    "explanation": "赤纬是天赤道向北或向南计量的角距离，相当于天球上的“纬度”；赤经相当于“经度”。"
+  },
+  {
+    "id": "science-tech-177",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "城市灯光使夜空变亮、星星变少，这种现象叫？",
+    "options": [
+      "光污染",
+      "大气污染",
+      "磁暴",
+      "温室效应"
+    ],
+    "correctAnswer": 0,
+    "explanation": "过度的人工照明照亮夜空掩盖星光，称为光污染；天文台因此都建在偏远地区。"
+  },
+  {
+    "id": "science-tech-178",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "二十四节气本质是？",
+    "options": [
+      "黄道被24等分，每份15°",
+      "12个节气",
+      "月亮的24种形状",
+      "24个星座"
+    ],
+    "correctAnswer": 0,
+    "explanation": "把黄道360°均分为24段，每段15°对应一个节气，一年恰好一轮。"
+  },
+  {
+    "id": "science-tech-179",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "用天文望远镜观测太阳，正确做法是？",
+    "options": [
+      "直接肉眼对着看",
+      "必须使用专用巴德膜或投影法",
+      "戴墨镜即可",
+      "隔着窗户看"
+    ],
+    "correctAnswer": 1,
+    "explanation": "太阳强光会瞬间灼伤视网膜，必须加装专用减光膜（如巴德膜）或用投影法观测。"
+  },
+  {
+    "id": "science-tech-180",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“光年”是？",
+    "options": [
+      "时间单位",
+      "距离单位",
+      "速度单位",
+      "亮度单位"
+    ],
+    "correctAnswer": 1,
+    "explanation": "光年是光在真空中一年传播的距离，约9.46万亿千米，是距离单位。"
+  },
+  {
+    "id": "science-tech-181",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "天文望远镜的“口径”越大，主要好处是？",
+    "options": [
+      "看得更亮、能看清更暗天体",
+      "颜色更鲜艳",
+      "重量更轻",
+      "体积更小"
+    ],
+    "correctAnswer": 0,
+    "explanation": "口径决定聚光能力和分辨率，口径越大能收集更多光、分辨更细的细节。"
+  },
+  {
+    "id": "science-tech-182",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "织女星历史上曾被用作视星等零点参考，它的视星等约为？",
+    "options": [
+      "0等",
+      "1等",
+      "-1等",
+      "6等"
+    ],
+    "correctAnswer": 0,
+    "explanation": "织女星视星等约0.03，历史上被规定为星等的零点标准。"
+  },
+  {
+    "id": "science-tech-183",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "我们所在的星系叫？",
+    "options": [
+      "仙女座星系",
+      "银河系",
+      "大麦哲伦云",
+      "三角座星系"
+    ],
+    "correctAnswer": 1,
+    "explanation": "太阳只是银河系千亿颗恒星中的一员，银河横贯夜空就是银河系的盘面。"
+  },
+  {
+    "id": "science-tech-184",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "恒星按光谱型分类O、B、A、F、G、K、M，温度从高到低排列正确的是？",
+    "options": [
+      "O-B-A-F-G-K-M",
+      "M-K-G-F-A-B-O",
+      "A-O-B-K-F-G-M",
+      "G-K-M-O-A-B-F"
+    ],
+    "correctAnswer": 0,
+    "explanation": "记忆口诀是“Oh Be A Fine Girl/Guy, Kiss Me”，O型最热呈蓝色，M型最冷呈红色。"
+  },
+  {
+    "id": "science-tech-185",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "银河系的中心方向大致在？",
+    "options": [
+      "人马座",
+      "猎户座",
+      "仙女座",
+      "仙后座"
+    ],
+    "correctAnswer": 0,
+    "explanation": "夏季夜晚银河最亮的一段就在人马座方向，那里藏着银河系中心超大质量黑洞。"
+  },
+  {
+    "id": "science-tech-186",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "太阳的光谱型是？",
+    "options": [
+      "O型",
+      "G2型",
+      "M型",
+      "B型"
+    ],
+    "correctAnswer": 1,
+    "explanation": "太阳是一颗G2V型主序星，属于中等温度、黄色的恒星。"
+  },
+  {
+    "id": "science-tech-187",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "肉眼可见的最近的大河外星系是？",
+    "options": [
+      "仙女座星系M31",
+      "大麦哲伦云",
+      "M87",
+      "漩涡星系M51"
+    ],
+    "correctAnswer": 0,
+    "explanation": "M31距离约250万光年，是肉眼可见的最远天体之一，秋季夜空最容易找到。"
+  },
+  {
+    "id": "science-tech-188",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "颜色偏蓝的恒星，表面温度通常？",
+    "options": [
+      "较低",
+      "较高",
+      "与颜色无关",
+      "为零度"
+    ],
+    "correctAnswer": 1,
+    "explanation": "恒星颜色反映温度：蓝白星温度高（数万K），红星温度低（约3000K）。"
+  },
+  {
+    "id": "science-tech-189",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "宇宙大约诞生于多少年前？",
+    "options": [
+      "46亿年前",
+      "100亿年前",
+      "138亿年前",
+      "1万亿年前"
+    ],
+    "correctAnswer": 2,
+    "explanation": "宇宙年龄约138亿年；46亿年前形成的是太阳系。"
+  },
+  {
+    "id": "science-tech-190",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "天文学家通过什么可以知道恒星的化学成分？",
+    "options": [
+      "光谱中的吸收线",
+      "恒星的形状",
+      "恒星的运动速度",
+      "恒星的亮暗"
+    ],
+    "correctAnswer": 0,
+    "explanation": "每种元素都会在光谱中留下特征吸收线，就像元素的“指纹”，可以据此分析恒星成分。"
+  },
+  {
+    "id": "science-tech-191",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "星系光谱“红移”说明？",
+    "options": [
+      "星系在远离我们（宇宙在膨胀）",
+      "星系变红了",
+      "星系温度降低",
+      "光被反射"
+    ],
+    "correctAnswer": 0,
+    "explanation": "光波被拉长、谱线向红端移动，说明光源在远离我们，是宇宙膨胀的证据。"
+  },
+  {
+    "id": "science-tech-192",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“多普勒效应”在天文上可用于测量？",
+    "options": [
+      "天体的视向速度（红移/蓝移）",
+      "天体的重量",
+      "天体的年龄",
+      "天体的体积"
+    ],
+    "correctAnswer": 0,
+    "explanation": "波源靠近时光波被压缩（蓝移）、远离时被拉伸（红移），由此测出天体沿视线方向的速度。"
+  },
+  {
+    "id": "science-tech-193",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "银河系属于哪一类星系？",
+    "options": [
+      "椭圆星系",
+      "漩涡星系（棒旋星系）",
+      "不规则星系",
+      "透镜星系"
+    ],
+    "correctAnswer": 1,
+    "explanation": "银河系是有四条旋臂的棒旋星系，中心有一个恒星棒状结构。"
+  },
+  {
+    "id": "science-tech-194",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "光谱线向红端移动（红移）说明天体在？",
+    "options": [
+      "靠近我们",
+      "远离我们",
+      "变冷",
+      "变热"
+    ],
+    "correctAnswer": 1,
+    "explanation": "远离我们的光源发出的光波波长被拉长，谱线向红端移动，称为多普勒红移。"
+  },
+  {
+    "id": "science-tech-195",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "第一个被人类拍摄到黑洞照片（2019年）的黑洞位于哪个星系？",
+    "options": [
+      "银河系中心",
+      "M87星系",
+      "仙女座星系",
+      "大麦哲伦云"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2019年事件视界望远镜（EHT）公布的首张黑洞照片来自M87星系中心的超大质量黑洞。"
+  },
+  {
+    "id": "science-tech-196",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“哈勃定律”描述的是？",
+    "options": [
+      "行星运动",
+      "星系退行速度与距离成正比（宇宙膨胀）",
+      "恒星演化",
+      "月球运动"
+    ],
+    "correctAnswer": 1,
+    "explanation": "哈勃定律表明星系越远退行速度越快，说明宇宙正在膨胀。"
+  },
+  {
+    "id": "science-tech-197",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "银河系中心的超大质量黑洞被命名为？",
+    "options": [
+      "人马座A*",
+      "M87*",
+      "天狼星B",
+      "北落师门"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2022年EHT团队公布了银河系中心黑洞人马座A*的照片，其质量约400万个太阳。"
+  },
+  {
+    "id": "science-tech-198",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“色指数”是？",
+    "options": [
+      "恒星在两个波段星等之差，反映颜色",
+      "恒星的重量指数",
+      "恒星的年龄",
+      "恒星的距离"
+    ],
+    "correctAnswer": 0,
+    "explanation": "色指数是恒星在两个不同波段的星等差，数值反映恒星的颜色和温度。"
+  },
+  {
+    "id": "science-tech-199",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "黑洞之所以“黑”，是因为？",
+    "options": [
+      "它不发任何光",
+      "它的引力强到光也无法逃逸",
+      "它被尘埃挡住了",
+      "它已经熄灭"
+    ],
+    "correctAnswer": 1,
+    "explanation": "黑洞并非不发光，而是事件视界内的光也无法逃逸出来，所以看起来是黑的。"
+  },
+  {
+    "id": "science-tech-200",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "绝对星等数值越小，说明恒星真实发光能力？",
+    "options": [
+      "越弱",
+      "越强",
+      "越冷",
+      "越小"
+    ],
+    "correctAnswer": 1,
+    "explanation": "绝对星等越小（甚至为负）表示恒星实际发光越强，比如参宿七约-6.7等，远超太阳。"
+  },
+  {
+    "id": "science-tech-201",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "月球绕地球一周大约需要？",
+    "options": [
+      "一天",
+      "一个月（约27.3天）",
+      "一年",
+      "十年"
+    ],
+    "correctAnswer": 1,
+    "explanation": "月球公转恒星周期约27.3天，月相周期（朔望月）约29.5天。"
+  },
+  {
+    "id": "science-tech-202",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“事件视界”是？",
+    "options": [
+      "黑洞边界，进入后光也无法逃出",
+      "望远镜视野",
+      "行星大气层顶",
+      "卫星轨道面"
+    ],
+    "correctAnswer": 0,
+    "explanation": "事件视界是黑洞的边界，一旦越过，连光也无法逃脱，因此任何信息都无法传出。"
+  },
+  {
+    "id": "science-tech-203",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "我们永远只能看到月球的同一面，是因为？",
+    "options": [
+      "月球不自转",
+      "月球自转周期与公转周期相同（潮汐锁定）",
+      "月球是平的",
+      "地球挡住了"
+    ],
+    "correctAnswer": 1,
+    "explanation": "月球被地球潮汐锁定，自转周期与公转周期相同（约27.3天），所以永远以同一面朝向地球。"
+  },
+  {
+    "id": "science-tech-204",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“脉冲星”实质上是？",
+    "options": [
+      "快速自转的中子星",
+      "脉动的红巨星",
+      "人造卫星",
+      "彗星"
+    ],
+    "correctAnswer": 0,
+    "explanation": "脉冲星是高速自转的中子星，磁轴辐射束周期性扫过地球，就像宇宙中的灯塔。"
+  },
+  {
+    "id": "science-tech-205",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "月相“新月”大约出现在农历？",
+    "options": [
+      "初一",
+      "初七、初八",
+      "十五",
+      "廿二、廿三"
+    ],
+    "correctAnswer": 0,
+    "explanation": "朔（新月）发生在农历初一，此时月球位于太阳和地球之间。"
+  },
+  {
+    "id": "science-tech-206",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“主序星”是指？",
+    "options": [
+      "处于稳定氢聚变阶段的恒星（如太阳）",
+      "刚诞生的星",
+      "快死的星",
+      "黑洞"
+    ],
+    "correctAnswer": 0,
+    "explanation": "主序星占恒星绝大多数，在核心稳定进行氢聚变成氦，太阳正处于这一阶段。"
+  },
+  {
+    "id": "science-tech-207",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "日食一定发生在农历的什么时候？",
+    "options": [
+      "初一（朔）",
+      "初八",
+      "十五（望）",
+      "任何时候"
+    ],
+    "correctAnswer": 0,
+    "explanation": "日食需要日月地近似成一直线且月球在中间，只能发生在朔（初一）附近。"
+  },
+  {
+    "id": "science-tech-208",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“红巨星”是恒星演化的？",
+    "options": [
+      "早期阶段",
+      "离开主序后的晚期膨胀阶段",
+      "起点",
+      "中子星的前身之前瞬间"
+    ],
+    "correctAnswer": 1,
+    "explanation": "恒星耗尽核心氢后会膨胀成红巨星，太阳50亿年后也会走这条路。"
+  },
+  {
+    "id": "science-tech-209",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "满月大约出现在农历？",
+    "options": [
+      "初一",
+      "初八",
+      "十五",
+      "月末"
+    ],
+    "correctAnswer": 2,
+    "explanation": "望（满月）约在农历十五，此时地球位于太阳和月球之间。"
+  },
+  {
+    "id": "science-tech-210",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“白矮星”主要由什么支撑不坍缩？",
+    "options": [
+      "电子简并压力",
+      "核聚变",
+      "气体燃烧",
+      "磁场"
+    ],
+    "correctAnswer": 0,
+    "explanation": "白矮星不再进行核聚变，靠电子简并压力抵抗引力，质量上限为1.44倍太阳质量（钱德拉塞卡极限）。"
+  },
+  {
+    "id": "science-tech-211",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "日全食时肉眼可见的太阳外层大气叫？",
+    "options": [
+      "色球层",
+      "日冕",
+      "光球层",
+      "日核"
+    ],
+    "correctAnswer": 1,
+    "explanation": "日全食时光球被遮住，肉眼可见银白色的日冕——太阳最外层的高温大气。"
+  },
+  {
+    "id": "science-tech-212",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "满月时月球在古籍中称为？",
+    "options": [
+      "朔",
+      "望",
+      "弦",
+      "晦"
+    ],
+    "correctAnswer": 1,
+    "explanation": "“朔”为初一新月，“望”为十五满月，“晦”指月末，弦指上弦或下弦。"
+  },
+  {
+    "id": "science-tech-213",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "人类首次登月是哪一年？",
+    "options": [
+      "1957年",
+      "1961年",
+      "1969年",
+      "1975年"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1969年7月20日，阿波罗11号宇航员阿姆斯特朗成为第一个踏上月球的人。"
+  },
+  {
+    "id": "science-tech-214",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "第一位进入太空的地球人是？",
+    "options": [
+      "阿姆斯特朗",
+      "加加林",
+      "杨利伟",
+      "艾伦·谢泼德"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1961年苏联宇航员加加林乘东方1号首次进入太空；阿姆斯特朗是第一个登月的人。"
+  },
+  {
+    "id": "science-tech-215",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "中国“天问一号”探测器着陆的行星是？",
+    "options": [
+      "月球",
+      "火星",
+      "金星",
+      "水星"
+    ],
+    "correctAnswer": 1,
+    "explanation": "天问一号于2021年5月在火星乌托邦平原着陆，中国成为第二个成功着陆火星的国家。"
+  },
+  {
+    "id": "science-tech-216",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“合”是指？",
+    "options": [
+      "两天体在天球上黄经相同（看似靠近）",
+      "两星相撞",
+      "行星落山",
+      "卫星落地"
+    ],
+    "correctAnswer": 0,
+    "explanation": "“合”指两颗天体在天球上黄经相等，看起来彼此靠近，如“金星合月”。"
+  },
+  {
+    "id": "science-tech-217",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "木卫一“伊奥”著名是因为？",
+    "options": [
+      "太阳系火山活动最剧烈的天体",
+      "表面覆盖海洋",
+      "有大气和雨",
+      "形状最圆"
+    ],
+    "correctAnswer": 0,
+    "explanation": "木卫一受木星强大潮汐加热，拥有数百座活火山，是太阳系火山活动最剧烈的天体。"
+  },
+  {
+    "id": "science-tech-218",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "外行星的“冲日”对观测意味着？",
+    "options": [
+      "行星离地球较近且整夜可见，是最佳观测时机",
+      "行星藏在太阳后",
+      "行星消失",
+      "行星最暗"
+    ],
+    "correctAnswer": 0,
+    "explanation": "冲日时行星与太阳黄经相差180°，日落时升起、日出时落下，整夜可见且接近地球。"
+  },
+  {
+    "id": "science-tech-219",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "土卫六“泰坦”特别之处在于？",
+    "options": [
+      "拥有浓厚大气和液态甲烷湖",
+      "表面全是火山",
+      "是最热的卫星",
+      "拥有光环"
+    ],
+    "correctAnswer": 0,
+    "explanation": "土卫六是土星最大的卫星，拥有浓厚的氮大气，表面有液态甲烷/乙烷湖泊。"
+  },
+  {
+    "id": "science-tech-220",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“金星大距”时，金星与太阳的角距离达到？",
+    "options": [
+      "最小",
+      "最大",
+      "0°",
+      "180°"
+    ],
+    "correctAnswer": 1,
+    "explanation": "大距是内行星（金星、水星）与太阳的最大角距，此时行星最亮、最容易观测。"
+  },
+  {
+    "id": "science-tech-221",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“岁差”是指？",
+    "options": [
+      "地球自转轴像陀螺一样缓慢画圈（周期约26000年）",
+      "地球公转",
+      "月球公转",
+      "太阳运动"
+    ],
+    "correctAnswer": 0,
+    "explanation": "地球自转轴受日月引力拖拽产生岁差，周期约25800年，北极星也因此会“换人”。"
+  },
+  {
+    "id": "science-tech-222",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "太阳系中哪两颗行星没有卫星？",
+    "options": [
+      "水星和金星",
+      "地球和火星",
+      "金星和木星",
+      "水星和火星"
+    ],
+    "correctAnswer": 0,
+    "explanation": "水星离太阳太近、金星自转特殊，这两颗行星都没有天然卫星。"
+  },
+  {
+    "id": "science-tech-223",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "由于岁差，几千年后北极星的位置将由哪颗星附近代替？",
+    "options": [
+      "织女星",
+      "心宿二",
+      "老人星",
+      "天狼星"
+    ],
+    "correctAnswer": 0,
+    "explanation": "约公元14000年，织女星将位于北天极附近，成为新的“北极星”。"
+  },
+  {
+    "id": "science-tech-224",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "海王星是通过什么方式被发现的？",
+    "options": [
+      "望远镜随机巡视",
+      "数学计算预言位置后发现",
+      "载人飞船拍摄",
+      "肉眼观测"
+    ],
+    "correctAnswer": 1,
+    "explanation": "19世纪天文学家根据天王星轨道异常计算出未知行星位置，随后用望远镜找到了海王星。"
+  },
+  {
+    "id": "science-tech-225",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“银心”在天球上位于哪个星座方向？",
+    "options": [
+      "人马座",
+      "猎户座",
+      "仙女座",
+      "天鹅座"
+    ],
+    "correctAnswer": 0,
+    "explanation": "银河系的中心方向落在人马座，那里有超大质量黑洞人马座A*。"
+  },
+  {
+    "id": "science-tech-226",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“晨星”“昏星”说的都是哪颗行星？",
+    "options": [
+      "金星",
+      "火星",
+      "木星",
+      "土星"
+    ],
+    "correctAnswer": 0,
+    "explanation": "金星轨道在地球内侧，只能在日出前或日落后看到，分别叫启明星和长庚星。"
+  },
+  {
+    "id": "science-tech-227",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "二十四节气中，冬至时太阳黄经为？",
+    "options": [
+      "0°",
+      "90°",
+      "180°",
+      "270°"
+    ],
+    "correctAnswer": 3,
+    "explanation": "春分0°、夏至90°、秋分180°、冬至270°，每个节气间隔15°。"
+  },
+  {
+    "id": "science-tech-228",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "中国“天眼”FAST是哪种望远镜？",
+    "options": [
+      "射电望远镜",
+      "光学望远镜",
+      "红外望远镜",
+      "空间望远镜"
+    ],
+    "correctAnswer": 0,
+    "explanation": "FAST是世界最大的单口径射电望远镜，位于贵州，口径达500米。"
+  },
+  {
+    "id": "science-tech-229",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "中国首位进入太空的航天员是？",
+    "options": [
+      "杨利伟",
+      "翟志刚",
+      "景海鹏",
+      "刘洋"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2003年杨利伟乘神舟五号进入太空，成为中国飞天第一人；刘洋是首位女航天员。"
+  },
+  {
+    "id": "science-tech-230",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“凌日”是指？",
+    "options": [
+      "较小天体从较大天体（如太阳）圆面前方经过",
+      "恒星相撞",
+      "卫星落地",
+      "月食"
+    ],
+    "correctAnswer": 0,
+    "explanation": "凌日时小天体的视直径小于背景天体，只是从圆面前经过，如水星凌日、金星凌日；若完全遮住则叫“掩”。"
+  },
+  {
+    "id": "science-tech-231",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "苹果公司成立仅12天，某位联合创始人就把自己10%的股份卖了，换了多少钱？",
+    "options": [
+      "800美元",
+      "8000美元",
+      "80美元",
+      "8万美元"
+    ],
+    "correctAnswer": 0,
+    "explanation": "被遗忘的“第三位创始人”罗纳德·韦恩，因担心公司欠款连累自己，1976年只用800美元就卖掉了10%股份，这笔股份如今价值数千亿美元。"
+  },
+  {
+    "id": "science-tech-232",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "苹果那个被咬了一口的彩虹logo，设计师当初“咬”这一口的真正原因是？",
+    "options": [
+      "致敬“byte”字节的谐音梗",
+      "防止图案缩小后被认成樱桃",
+      "象征知识之果被咬的典故",
+      "纯粹是设计师的随手签名"
+    ],
+    "correctAnswer": 1,
+    "explanation": "设计师罗布·雅诺夫最初只是想让苹果图案在印得很小时也不会被误认成樱桃，“咬一口”和“字节”（byte）的谐音梗其实是同事事后才发现的意外巧合。"
+  },
+  {
+    "id": "science-tech-233",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "微软公司1975年创立时，第一个总部设在哪座城市？",
+    "options": [
+      "华盛顿州西雅图",
+      "加州硅谷",
+      "新墨西哥州阿尔伯克基",
+      "华盛顿州贝尔维尤"
+    ],
+    "correctAnswer": 2,
+    "explanation": "比尔·盖茨和保罗·艾伦为了给Altair 8800电脑的制造商MITS写软件，把公司开在了阿尔伯克基，直到1979年才因招不到顶尖程序员搬去西雅图附近。"
+  },
+  {
+    "id": "science-tech-234",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "谷歌搜索引擎刚被开发出来时，创始人给它起的名字其实是？",
+    "options": [
+      "PageRank",
+      "BackRub",
+      "SearchIt",
+      "WebCrawler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "佩奇和布林当年的算法主要靠分析网页间的“反向链接”打分，因此最初取名BackRub（背部按摩），1998年公司成立时才改名Google。"
+  },
+  {
+    "id": "science-tech-235",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "“Google”这个名字，其实是哪个数学术语拼写错误后将错就错的结果？",
+    "options": [
+      "无穷大 infinity",
+      "十的一百次方 googol",
+      "二进制 binary",
+      "万维网 web"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Googol指1后面跟100个零的天文数字，寓意搜索引擎能处理海量信息，创始人注册域名时手滑拼错成Google，结果将错就错沿用至今。"
+  },
+  {
+    "id": "science-tech-236",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "亚马逊差点被注册成另一个名字，后来因律师听岔了才紧急改名，那个原名是？",
+    "options": [
+      "阿拉丁 Aladdin",
+      "咒语 Cadabra",
+      "精灵 Genie",
+      "芝麻开门 Sesame"
+    ],
+    "correctAnswer": 1,
+    "explanation": "贝索斯本想取名Cadabra（取自魔咒Abracadabra），律师却听成了“Cadaver”（尸体），他立刻改主意，转而用世界最大的河流“亚马逊”来命名公司。"
+  },
+  {
+    "id": "science-tech-237",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "腾讯QQ最早并不叫QQ，它1999年上线时用的名字是什么？",
+    "options": [
+      "OICQ",
+      "QICQ",
+      "TQ通讯",
+      "ICQ中国版"
+    ],
+    "correctAnswer": 0,
+    "explanation": "OICQ是模仿以色列即时通讯软件ICQ做的产品，上线后一炮而红，却因此惹上ICQ母公司AOL的商标诉讼，腾讯被迫在2000年把它改名为QQ。"
+  },
+  {
+    "id": "science-tech-238",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "百度这个名字，其实是从哪首宋词里“摘”出来的？",
+    "options": [
+      "苏轼《水调歌头》",
+      "李清照《声声慢》",
+      "辛弃疾《青玉案·元夕》",
+      "柳永《雨霖铃》"
+    ],
+    "correctAnswer": 2,
+    "explanation": "词中名句“众里寻他千百度，蓦然回首，那人却在，灯火阑珊处”，李彦宏借“千百度”比喻反复搜寻的过程，百度公司至今有间会议室就叫“青玉案”。"
+  },
+  {
+    "id": "science-tech-239",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "1999年，马云和“十八罗汉”是在哪里开会决定创立阿里巴巴的？",
+    "options": [
+      "杭州一间写字楼会议室",
+      "马云自己家的公寓",
+      "杭州电子科技大学教室",
+      "深圳一间仓库"
+    ],
+    "correctAnswer": 1,
+    "explanation": "十八个人挤在杭州湖畔花园马云家里，屋里只有一张旧沙发，大部分人席地而坐，马云足足讲了两个小时——这间“陋室”后来被完整搬进了阿里园区。"
+  },
+  {
+    "id": "science-tech-240",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "微信的最初开发团队设在哪座城市，而不是腾讯总部深圳？",
+    "options": [
+      "上海",
+      "广州",
+      "北京",
+      "杭州"
+    ],
+    "correctAnswer": 1,
+    "explanation": "微信之父张小龙此前开发的Foxmail被腾讯收购，他本人不愿搬去深圳，马化腾干脆在广州为他设了研发中心，2011年微信就在那里不到70天做出了第一版。"
+  },
+  {
+    "id": "science-tech-241",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "字节跳动公司成立于2012年，这其实是创始人张一鸣的第几次创业？",
+    "options": [
+      "第二次",
+      "第三次",
+      "第五次",
+      "第一次"
+    ],
+    "correctAnswer": 2,
+    "explanation": "张一鸣2012年3月在北京一间民宅开启了第五次创业，此前他先后在酷讯、微软、饭否等公司或自己的项目里摸爬滚打过好几轮。"
+  },
+  {
+    "id": "science-tech-242",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "大疆无人机创始人汪滔，最初是在哪里捣鼓出第一代飞行控制器原型的？",
+    "options": [
+      "深圳的一间出租屋",
+      "香港科技大学的宿舍",
+      "清华大学实验室",
+      "硅谷的车库"
+    ],
+    "correctAnswer": 1,
+    "explanation": "汪滔在港科大读研时为做毕业课题经常逃课、熬夜到凌晨，硬是在宿舍里捣鼓出了飞控原型机，2006年才正式在深圳创立大疆。"
+  },
+  {
+    "id": "science-tech-243",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "华为这个名字，据说是任正非创业初期从哪里“顺手”拿来用的？",
+    "options": [
+      "一本商业杂志的封面",
+      "办公室墙上的标语",
+      "一位投资人的建议",
+      "工商注册处随机分配"
+    ],
+    "correctAnswer": 1,
+    "explanation": "任正非当年注册公司时一时想不出名字，看着墙上“中华有为”的标语响亮好记，就直接拿来用了，后来他解释这寓意“中国人做的东西不比外国人差”。"
+  },
+  {
+    "id": "science-tech-244",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "网飞（Netflix）创始人常讲的“迟还录像带被罚40美元、一怒之下创业”的故事，后来被证实是？",
+    "options": [
+      "完全真实，有罚款单为证",
+      "另一位联合创始人自曝这是编出来的动听故事",
+      "罚款其实只有4美元",
+      "罚的是别的电影，故事被记错了"
+    ],
+    "correctAnswer": 1,
+    "explanation": "联合创始人马克·伦道夫在回忆录里承认，这个“迟还费之痛”只是公司编出来的动听故事，真实起因是两人想做“卖DVD版的亚马逊”，早期Netflix甚至照样收滞纳金。"
+  },
+  {
+    "id": "science-tech-245",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "任天堂公司创立于1889年，最初的主营业务其实是什么？",
+    "options": [
+      "制造木质玩具",
+      "手工制作日式花牌",
+      "经营米店",
+      "生产钟表"
+    ],
+    "correctAnswer": 1,
+    "explanation": "创始人山内房治郎在京都开店手工制作“花札”纸牌，直到20世纪60年代才开始做玩具，70年代才转型成游戏公司——卖了近百年纸牌才轮到卖游戏机。"
+  },
+  {
+    "id": "science-tech-246",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "索尼初代PlayStation，其实最早是和哪家公司合作、想做成什么产品？",
+    "options": [
+      "与任天堂合作，给SNES做光盘外挂设备",
+      "与微软合作，做家用电脑",
+      "独立研发，从未与外部合作",
+      "与世嘉合作，共享主机架构"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1991年索尼在CES上刚公布这款SNES光驱外设，第二天任天堂就转头宣布投奔飞利浦，索尼被当众“放鸽子”，一怒之下把项目独立出来，才有了后来的PlayStation。"
+  },
+  {
+    "id": "science-tech-247",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "无线技术“蓝牙”（Bluetooth）的名字，来自哪位历史人物的绰号？",
+    "options": [
+      "一位牙齿发黑的维京国王",
+      "一位古希腊哲学家",
+      "贝尔实验室工程师的外号",
+      "一种深海鱼类的俗称"
+    ],
+    "correctAnswer": 0,
+    "explanation": "10世纪丹麦国王哈拉尔“蓝牙”·戈姆森统一了分裂的丹麦和挪威，工程师借这个典故寓意蓝牙能统一不同厂商的无线协议，logo正是他名字缩写的古北欧符文组合。"
+  },
+  {
+    "id": "science-tech-248",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "世界上第一封电子邮件发于1971年，发件人和收件人其实是什么关系？",
+    "options": [
+      "分别在美国和英国的两位工程师",
+      "同一个人，两台并排电脑互发测试",
+      "一对正在恋爱的程序员情侣",
+      "军方两个不同基地的将领"
+    ],
+    "correctAnswer": 1,
+    "explanation": "雷·汤姆林森当时坐在同一间办公室，用两台并排的电脑给自己发了条测试邮件，还顺手选中了键盘上没人用的“@”符号来分隔用户名和主机名，沿用至今。"
+  },
+  {
+    "id": "science-tech-249",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "世界上第一个网页于1991年上线，它的内容主要是关于什么的？",
+    "options": [
+      "介绍“万维网”这个项目本身",
+      "CERN实验室的招聘广告",
+      "一份披萨外卖菜单",
+      "当天的天气预报"
+    ],
+    "correctAnswer": 0,
+    "explanation": "蒂姆·伯纳斯-李在CERN做的这个网页，网址是info.cern.ch，内容就是教人们什么是万维网、怎么用它，堪称史上第一份“产品说明书”。"
+  },
+  {
+    "id": "science-tech-250",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "世界上第一个被注册的“.com”域名诞生于1985年，属于哪家公司？",
+    "options": [
+      "symbolics.com，一家电脑公司",
+      "apple.com",
+      "ibm.com",
+      "microsoft.com"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这家生产Lisp专用电脑的公司抢注了史上第一个.com域名，2009年这个域名甚至被当作“老古董”转卖给了一家专做域名收藏的公司。"
+  },
+  {
+    "id": "science-tech-251",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "推特（Twitter）有史以来的第一条推文，内容是什么？",
+    "options": [
+      "Hello Twitter!",
+      "just setting up my twttr",
+      "我们上线了",
+      "一张空白图片"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2006年3月21日，联合创始人杰克·多西发出这条测试推文，当时产品内部代号还是去掉元音的“twttr”，这条推文后来被本人做成NFT拍出约290万美元。"
+  },
+  {
+    "id": "science-tech-252",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "互联网史上第一条商业横幅广告出现在1994年，广告主是哪家公司？",
+    "options": [
+      "可口可乐",
+      "AT&T",
+      "IBM",
+      "麦当劳"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这条写着“你有没有点过这里？你会的”的广告挂在HotWired网站上，点击率高达44%，放到今天简直是天文数字——如今横幅广告的点击率通常不到1%。"
+  },
+  {
+    "id": "science-tech-253",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "世界上第一条手机短信发送于1992年，内容是什么？",
+    "options": [
+      "Hello World",
+      "Merry Christmas",
+      "Testing 1 2 3",
+      "你好，世界"
+    ],
+    "correctAnswer": 1,
+    "explanation": "工程师尼尔·帕普沃斯用电脑给沃达丰一位高管发去这条圣诞祝福，当时的手机还没有键盘，收件人虽然收到了却完全没法回复。"
+  },
+  {
+    "id": "science-tech-254",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "我们现在常用的表情符号emoji，最早是1999年为哪种设备开发的？",
+    "options": [
+      "日本的i-mode手机",
+      "台式电脑聊天软件",
+      "美国传呼机",
+      "任天堂掌机"
+    ],
+    "correctAnswer": 0,
+    "explanation": "日本工程师栗田穰崇为NTT DoCoMo的i-mode手机设计了一套176个、每个只有12×12像素的图案，用来在文字之外传递情绪和天气，成了全球emoji的雏形。"
+  },
+  {
+    "id": "science-tech-255",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "键盘笑脸符号“:-)”，是哪一年、在什么场合首次被提出的？",
+    "options": [
+      "1982年，卡内基梅隆大学的电子公告板",
+      "1990年，AOL聊天室",
+      "1995年，ICQ聊天软件",
+      "1975年，贝尔实验室内部邮件"
+    ],
+    "correctAnswer": 0,
+    "explanation": "学者斯科特·法尔曼在校内公告板上提议用“:-)”和“:-(”区分玩笑贴和正经贴，没想到这个歪头笑脸从此传遍全世界。"
+  },
+  {
+    "id": "science-tech-256",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "苹果初代iPod发布于2001年，它有一个如今看来很不方便的限制是？",
+    "options": [
+      "只能存储20首歌",
+      "只支持Mac电脑，Windows用不了",
+      "没有屏幕",
+      "只能用有线耳机"
+    ],
+    "correctAnswer": 1,
+    "explanation": "初代iPod容量5GB、售价399美元，配套软件只支持Mac系统，Windows用户想同步音乐还得靠第三方软件，直到第二年iTunes for Windows才姗姗来迟。"
+  },
+  {
+    "id": "science-tech-257",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "微软游戏主机Xbox这个名字，其实是哪个技术术语的简化？",
+    "options": [
+      "DirectX Box",
+      "Extra Box",
+      "eXperience box",
+      "X战警的缩写"
+    ],
+    "correctAnswer": 0,
+    "explanation": "开发团队内部最初把这台主机叫作“DirectX Box”，本想以后再换个正式名字，结果“Xbox”这个简称反而一路沿用到了正式发售。"
+  },
+  {
+    "id": "science-tech-258",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "游戏公司世嘉（SEGA）这个名字，其实是哪个英文短语的缩写？",
+    "options": [
+      "Service Games",
+      "Super Entertainment Game",
+      "Sensational Electronic Game",
+      "创始人的姓氏缩写"
+    ],
+    "correctAnswer": 0,
+    "explanation": "世嘉前身是二战后为驻日美军基地提供投币游戏机、点唱机的美国公司“Service Games”，后来才发展成日本本土的电子游戏巨头。"
+  },
+  {
+    "id": "science-tech-259",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "史蒂夫·乔布斯的身世里有一个冷知识：他其实是被谁抚养长大的？",
+    "options": [
+      "亲生父母",
+      "一对普通的养父母，养父靠卖二手车为生",
+      "祖父母",
+      "孤儿院集体抚养"
+    ],
+    "correctAnswer": 1,
+    "explanation": "乔布斯的生母因家人反对她和男友的恋情，将他送养给保罗和克拉拉·乔布斯夫妇，养父是靠卖二手车为生的普通工人，这对夫妇甚至没读过大学。"
+  },
+  {
+    "id": "science-tech-260",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "马云创业前有一段广为流传的求职“黑历史”：他去应聘肯德基服务员，结果怎样？",
+    "options": [
+      "顺利入选，做了半年就辞职",
+      "24人应聘23人被录取，只有他被刷了",
+      "因学历太高被婉拒",
+      "面试官认出他是老师直接录用"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1992年肯德基刚进杭州，马云带着学生一起去应聘，结果学生全被录取，唯独带队的他被淘汰，这段“全场唯一落选者”的经历后来常被他当作段子讲给创业者听。"
+  },
+  {
+    "id": "science-tech-261",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "小米这个名字，据雷军回忆，灵感来自他很喜欢的哪句话？",
+    "options": [
+      "一屋不扫，何以扫天下",
+      "佛观一粒米，大如须弥山",
+      "不积跬步，无以至千里",
+      "海纳百川，有容乃大"
+    ],
+    "correctAnswer": 1,
+    "explanation": "团队本想叫“大米”，投资人建议互联网创业要“避大就小”，于是改成“小米”，恰好呼应了雷军这句偈语，寓意从小处也能做出大事业。"
+  },
+  {
+    "id": "science-tech-262",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "联想集团的英文名“Lenovo”，是2003年从原来的哪个英文名改过来的？",
+    "options": [
+      "Legend",
+      "Innova",
+      "SinoTech",
+      "GreatWall"
+    ],
+    "correctAnswer": 0,
+    "explanation": "联想原英文名Legend（传奇）在海外多国已被别的公司注册，为扫清国际化路上的商标障碍，2003年改成了“Le”接拉丁语“novo”（新）拼成的Lenovo。"
+  },
+  {
+    "id": "science-tech-263",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "京东创始人刘强东，是因为哪场突发公共卫生事件，被迫把线下柜台生意搬到网上？",
+    "options": [
+      "2003年非典疫情",
+      "2008年汶川地震",
+      "2009年甲流疫情",
+      "1998年亚洲金融危机"
+    ],
+    "correctAnswer": 0,
+    "explanation": "非典期间中关村没人敢出门逛店，刘强东被迫关掉全部线下柜台，员工提议干脆去论坛发帖、用QQ谈生意，这次“被逼上梁山”的转型意外造就了后来的京东商城。"
+  },
+  {
+    "id": "science-tech-264",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "淘宝网2003年上线，它诞生的一大背景是为了对抗当时占据国内C2C市场九成份额的哪家公司？",
+    "options": [
+      "亚马逊",
+      "eBay旗下易趣",
+      "雅虎",
+      "沃尔玛"
+    ],
+    "correctAnswer": 1,
+    "explanation": "淘宝上线时eBay旗下的易趣几乎垄断了国内网购市场，马云秘密开发淘宝，主打免费而非收费模式，两年后就反超了易趣。"
+  },
+  {
+    "id": "science-tech-265",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "抖音的海外版TikTok，为什么要做成和抖音完全独立的两个App？",
+    "options": [
+      "出于不同国家法规和数据合规的考虑",
+      "单纯因为海外用户不习惯中文名字",
+      "苹果App Store强制要求拆分",
+      "两者其实是被并购的不同公司"
+    ],
+    "correctAnswer": 0,
+    "explanation": "抖音和TikTok虽然界面相似、同属字节跳动，但服务器和数据分别存放在中国和海外，主要是为了适配各地不同的监管要求。"
+  },
+  {
+    "id": "science-tech-266",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "诺基亚（Nokia）在转型做手机之前，最早其实是靠什么生意起家的？",
+    "options": [
+      "造纸和木浆生意",
+      "汽车零部件制造",
+      "军工武器生产",
+      "银行金融服务"
+    ],
+    "correctAnswer": 0,
+    "explanation": "诺基亚1865年创立于芬兰一条河边，最初是家木浆造纸厂，后来又并入橡胶厂和电缆厂，直到20世纪80年代才推出第一款移动电话，堪称“跨界老字号”。"
+  },
+  {
+    "id": "science-tech-267",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "世界上第一个计算机鼠标诞生于1964年，它的外壳是用什么材料做的？",
+    "options": [
+      "塑料",
+      "木头",
+      "铝合金",
+      "橡胶"
+    ],
+    "correctAnswer": 1,
+    "explanation": "道格拉斯·恩格尔巴特和团队做出的这只鼠标外壳是木头的，底部装着两个滚轮，因拖着一根像尾巴的电线，团队顺口就叫它“mouse”（老鼠），沿用至今。"
+  },
+  {
+    "id": "science-tech-268",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "世界上第一台家用电视游戏机于1972年问世，它的名字是？",
+    "options": [
+      "雅达利2600",
+      "美格福克斯（Magnavox）奥德赛",
+      "任天堂红白机",
+      "世嘉SG-1000"
+    ],
+    "correctAnswer": 1,
+    "explanation": "被称为“电子游戏之父”的拉尔夫·贝尔设计了这台售价99.95美元的主机，能连电视玩乒乓、赛车等简单游戏，比任天堂红白机还早了十多年。"
+  },
+  {
+    "id": "science-tech-269",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "马斯克参与创办、后来发展成PayPal的公司，最初的名字是什么？",
+    "options": [
+      "X.com",
+      "PayNet",
+      "ClickCash",
+      "eBank"
+    ],
+    "correctAnswer": 0,
+    "explanation": "马斯克1999年创办的网上银行X.com，2000年与开发出支付功能的Confinity合并，他出任CEO后不久就因经营分歧被董事会罢免，公司2001年才正式改名PayPal。"
+  },
+  {
+    "id": "science-tech-270",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "YouTube有史以来的第一条视频，2005年拍摄于什么地方？",
+    "options": [
+      "联合创始人自家客厅",
+      "圣地亚哥动物园的大象馆前",
+      "硅谷办公室楼下",
+      "纽约中央公园"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这条名叫《Me at the zoo》、只有19秒的视频，是联合创始人贾维德·卡里姆站在大象前随口聊了几句象鼻子，如今播放量已超过4亿次。"
+  },
+  {
+    "id": "science-tech-271",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "腾讯公司1998年创立时，一共有几位联合创始人？",
+    "options": [
+      "2位",
+      "3位",
+      "5位",
+      "7位"
+    ],
+    "correctAnswer": 2,
+    "explanation": "马化腾联合深大同学张志东，以及曾李青、许晨晔、陈一丹共5人创立了腾讯，业内称他们为“腾讯五虎将”，分管技术、市场、行政等不同板块。"
+  },
+  {
+    "id": "science-tech-272",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "Facebook在2004年刚上线时，它的名字其实是？",
+    "options": [
+      "Facebook",
+      "TheFacebook",
+      "MyFace",
+      "CampusBook"
+    ],
+    "correctAnswer": 1,
+    "explanation": "扎克伯格在哈佛宿舍上线时把它叫作“TheFacebook”，模仿的是大学新生入学发的纸质通讯录“Face Book”，2005年才去掉开头的“The”，简化成Facebook。"
+  },
+  {
+    "id": "science-tech-273",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "iPhone初代于2007年发布时，用户能不能从“应用商店”下载第三方App？",
+    "options": [
+      "可以，但只有10款应用可选",
+      "不可以，App Store一年后才上线",
+      "可以，但仅限游戏类应用",
+      "不可以，苹果当时根本没这个计划"
+    ],
+    "correctAnswer": 1,
+    "explanation": "初代iPhone只能用苹果自带的应用，乔布斯当时甚至建议开发者做“网页应用”凑合用，直到2008年7月苹果才推出App Store，第三方应用生态从此才算起步。"
+  },
+  {
+    "id": "science-tech-274",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "苹果1998年发布的iMac，其名字里的“i”被乔布斯在发布会上解释为代表什么？",
+    "options": [
+      "仅代表internet互联网",
+      "internet以及individual、instruct等多重含义",
+      "创始人名字的首字母",
+      "intelligent智能的缩写"
+    ],
+    "correctAnswer": 1,
+    "explanation": "乔布斯在发布会上一口气列了五个以i开头的词来解释这个字母，不过后来大家还是习惯性地把它简单理解成“互联网”，“i”系列产品从此成了苹果的命名传统。"
+  },
+  {
+    "id": "science-tech-275",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "苹果公司1976年最初的logo（还没有彩虹苹果咬一口那个），画的是什么内容？",
+    "options": [
+      "一个简单的字母A",
+      "牛顿坐在苹果树下看书",
+      "一台电脑的剪影",
+      "一条咬了一口的蛇"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这个由“第三位创始人”罗纳德·韦恩手绘的复杂徽标，画的是牛顿坐在苹果树下，还配了一句华兹华斯的诗，因过于繁复不适合印刷，一年后就被彩虹苹果取代了。"
+  },
+  {
+    "id": "science-tech-276",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "维基百科上线于2001年，它最初其实是作为另一个项目的“备胎”诞生的，那个项目是？",
+    "options": [
+      "Nupedia，一个审核极严的专家百科",
+      "AOL的在线百科计划",
+      "微软Encarta的开源版",
+      "谷歌内部的知识库项目"
+    ],
+    "correctAnswer": 0,
+    "explanation": "创始人威尔士原本在做由专家层层审核撰写的Nupedia，进度慢得可怜，团队干脆用维基技术开了个“人人都能编辑”的辅助站点，没想到喧宾夺主，成了今天的维基百科。"
+  },
+  {
+    "id": "science-tech-277",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "新浪微博于哪一年正式上线？",
+    "options": [
+      "2007年",
+      "2009年",
+      "2011年",
+      "2013年"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2009年8月新浪微博开始内测，很快在国内掀起了“围观改变中国”的微博热潮，比腾讯微博还早了差不多一年。"
+  },
+  {
+    "id": "science-tech-278",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "Instagram在2012年被Facebook以10亿美元收购时，公司总共只有多少名员工？",
+    "options": [
+      "13人",
+      "130人",
+      "300人",
+      "50人"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这笔收购当年轰动一时，一个仅成立18个月、只有13名员工的小团队就卖出了10亿美元，事后来看堪称Facebook历史上最划算的收购之一。"
+  },
+  {
+    "id": "science-tech-279",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "Snapchat（阅后即焚照片应用）最初上线时用的并不是这个名字，而是？",
+    "options": [
+      "Picaboo",
+      "FlashChat",
+      "SelfDestruct",
+      "Boo"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这个名字玩的是英文“Peekaboo”（躲猫猫）的谐音，无奈已被一家做照片相册的公司注册了商标，创始团队上线两个月后就只好改名Snapchat。"
+  },
+  {
+    "id": "science-tech-280",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "WhatsApp两位创始人创业前都曾在同一家公司工作，还都被这家公司拒过一次社招，是哪家？",
+    "options": [
+      "谷歌",
+      "雅虎",
+      "微软",
+      "eBay"
+    ],
+    "correctAnswer": 1,
+    "explanation": "两人都是雅虎前员工，离职后曾一起申请过Facebook的工作却都被拒，谁能想到几年后，正是这家拒绝过他们的公司花190亿美元把WhatsApp买了下来。"
+  },
+  {
+    "id": "science-tech-281",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "“电脑出bug了”这个说法，据说源于1947年哈佛马克II计算机继电器里卡住的是什么？",
+    "options": [
+      "一只飞蛾",
+      "一粒沙子",
+      "一根头发",
+      "一只蚂蚁"
+    ],
+    "correctAnswer": 0,
+    "explanation": "工作人员把这只飞蛾从继电器里取出来，贴在工作日志上并写下“这是发现真正bug的第一个实例”，这份带着“证物”的日志如今被史密森尼博物馆收藏。"
+  },
+  {
+    "id": "science-tech-282",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "阿里巴巴最早（1999年）做的业务其实是什么？",
+    "options": [
+      "面向中小企业的B2B外贸信息平台",
+      "淘宝网这样的C2C网购平台",
+      "支付宝这样的第三方支付",
+      "云计算服务"
+    ],
+    "correctAnswer": 0,
+    "explanation": "阿里巴巴起家靠的是alibaba.com，帮中国中小外贸企业和海外买家牵线搭桥，淘宝、支付宝这些如今更有名的业务都是2003年之后才陆续孵化出来的。"
+  },
+  {
+    "id": "science-tech-283",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "支付宝最初是为解决淘宝网买卖双方互不信任的问题而设计的，它的核心机制是什么？",
+    "options": [
+      "担保交易，买家确认收货后才放款给卖家",
+      "全额先赔付平台保险",
+      "买家先付定金、收货后再付尾款",
+      "由银行直接担保每笔交易"
+    ],
+    "correctAnswer": 0,
+    "explanation": "买家把钱先付给支付宝“托管”，确认收货没问题后钱才会打给卖家，这套模式极大缓解了早期网购互不信任的难题，后来被国内几乎所有电商平台效仿。"
+  },
+  {
+    "id": "science-tech-284",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "京东最早是从哪种实体生意起家的？",
+    "options": [
+      "中关村的光磁产品柜台",
+      "图书批发",
+      "服装零售",
+      "水果批发"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1998年刘强东从人大毕业后在中关村租下柜台，主营刻录机、光碟等“光磁产品”，取名“京东多媒体”，一路做到12家连锁店，直到2003年非典才被迫转型电商。"
+  },
+  {
+    "id": "science-tech-285",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "字节跳动2017年斥资近10亿美元收购、后来直接并入TikTok的海外短视频App叫什么？",
+    "options": [
+      "Musical.ly",
+      "Vine",
+      "Dubsmash",
+      "Triller"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这是今日头条系当年最大的一笔海外并购，2018年8月Musical.ly正式与TikTok合并、账号数据全部迁移，“Musical.ly”这个名字就此退出历史舞台。"
+  },
+  {
+    "id": "science-tech-286",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "抖音正式上线是哪一年？",
+    "options": [
+      "2014年",
+      "2016年",
+      "2018年",
+      "2020年"
+    ],
+    "correctAnswer": 1,
+    "explanation": "抖音2016年9月上线时定位是音乐短视频社区，次年才推出海外版TikTok，短短几年就从一款“跳舞神器”长成了国民级应用。"
+  }
+]

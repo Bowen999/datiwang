@@ -1,0 +1,3572 @@
+[
+  {
+    "id": "chinese-history-001",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "唐朝的都城长安是今天的哪座城市？",
+    "options": [
+      "洛阳",
+      "西安",
+      "南京",
+      "开封"
+    ],
+    "correctAnswer": 1,
+    "explanation": "长安即今天的西安，是十三朝古都，唐代时为世界第一大都会。"
+  },
+  {
+    "id": "chinese-history-002",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "郑和下西洋发生在哪个朝代？",
+    "options": [
+      "宋朝",
+      "元朝",
+      "明朝",
+      "清朝"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1405 年起，郑和奉明成祖之命七下西洋，最远到达非洲东海岸。"
+  },
+  {
+    "id": "chinese-history-003",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "成语「卧薪尝胆」讲述的是哪位君主的故事？",
+    "options": [
+      "吴王夫差",
+      "越王勾践",
+      "齐桓公",
+      "楚庄王"
+    ],
+    "correctAnswer": 1,
+    "explanation": "越王勾践战败后睡柴草、尝苦胆以自励，最终灭吴复国。"
+  },
+  {
+    "id": "chinese-history-004",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "中国科举制度正式创立于哪个朝代？",
+    "options": [
+      "汉朝",
+      "隋朝",
+      "唐朝",
+      "宋朝"
+    ],
+    "correctAnswer": 1,
+    "explanation": "隋炀帝时期设进士科，标志科举制度正式形成，一直延续到清末 1905 年废除。"
+  },
+  {
+    "id": "chinese-history-005",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "《史记》的体例属于下列哪一种？",
+    "options": [
+      "编年体",
+      "纪传体",
+      "国别体",
+      "纪事本末体"
+    ],
+    "correctAnswer": 1,
+    "explanation": "司马迁的《史记》是中国第一部纪传体通史，被鲁迅誉为「史家之绝唱，无韵之离骚」。"
+  },
+  {
+    "id": "chinese-history-006",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "清明前一两天的寒食节有禁火吃冷食的习俗，相传这是为了纪念谁？",
+    "options": [
+      "屈原",
+      "伍子胥",
+      "伯夷",
+      "介子推"
+    ],
+    "correctAnswer": 3,
+    "explanation": "相传春秋时介子推抱木而死，晋文公重耳下令在其忌日禁火寒食以示纪念。寒食节后来逐渐与清明节合并。"
+  },
+  {
+    "id": "chinese-history-007",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "青铜器何尊的铭文中出现了目前所知最早的「中国」一词（「宅兹中国」），这件国宝铸造于什么时期？",
+    "options": [
+      "商代晚期",
+      "西周早期",
+      "春秋时期",
+      "战国中期"
+    ],
+    "correctAnswer": 1,
+    "explanation": "何尊铸造于西周周成王时期，铭文中「宅兹中国」是「中国」一词最早的实物见证，现藏宝鸡青铜器博物院。"
+  },
+  {
+    "id": "chinese-history-008",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "北宋毕昇发明的活字印刷术，使用的是什么材质的活字？",
+    "options": [
+      "木活字",
+      "铜活字",
+      "泥活字",
+      "铅活字"
+    ],
+    "correctAnswer": 2,
+    "explanation": "毕昇在北宋庆历年间发明胶泥活字，沈括《梦溪笔谈》详细记录了其制法。木活字要到元代王祯手中才大规模推广。"
+  },
+  {
+    "id": "chinese-history-009",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "元代黄公望的《富春山居图》在明末险些被烧殉葬，断为两段，其中较长的一段《无用师卷》现藏于哪里？",
+    "options": [
+      "北京故宫博物院",
+      "浙江省博物馆",
+      "台北故宫博物院",
+      "上海博物馆"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《无用师卷》藏于台北故宫博物院，较小的《剩山图》藏于浙江省博物馆，两段曾于 2011 年在台北合璧展出。"
+  },
+  {
+    "id": "chinese-history-010",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "2016 年被列入联合国人类非物质文化遗产的二十四节气，最早起源于哪个流域？",
+    "options": [
+      "黄河流域",
+      "长江流域",
+      "珠江流域",
+      "辽河流域"
+    ],
+    "correctAnswer": 0,
+    "explanation": "二十四节气起源于黄河中下游地区，是古人观察太阳周年运动总结出的时令体系，汉代《淮南子》中已有完整记载。"
+  },
+  {
+    "id": "chinese-history-011",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "世界上现存最早标有确切纪年的雕版印刷品《金刚经》（咸通九年，868 年），刻印于哪个朝代？",
+    "options": [
+      "隋朝",
+      "唐朝",
+      "五代十国",
+      "北宋"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这部唐咸通九年《金刚经》出自敦煌藏经洞，卷首版画精美，现藏大英图书馆，是雕版印刷成熟于唐代的铁证。"
+  },
+  {
+    "id": "chinese-history-012",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "改写世界音乐史的曾侯乙编钟，出土于今天的哪个省？",
+    "options": [
+      "湖南省",
+      "河南省",
+      "陕西省",
+      "湖北省"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1978 年曾侯乙编钟出土于湖北随州，全套 65 件，音域跨五个八度，还能「一钟双音」，是战国早期的青铜奇迹。"
+  },
+  {
+    "id": "chinese-history-013",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "宋代书法四大家「苏黄米蔡」中的「蔡」，今天通行的说法是指谁？",
+    "options": [
+      "蔡京",
+      "蔡襄",
+      "蔡邕",
+      "蔡卞"
+    ],
+    "correctAnswer": 1,
+    "explanation": "通行指蔡襄；一说原指蔡京，因其为人口碑太差而被替换。蔡邕是东汉人，蔡卞则是蔡京的弟弟。"
+  },
+  {
+    "id": "chinese-history-014",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "传统端午节习俗中，古人会饮用哪种酒来驱虫避邪？《白蛇传》里白娘子就是喝了它现出原形。",
+    "options": [
+      "屠苏酒",
+      "菊花酒",
+      "雄黄酒",
+      "桂花酒"
+    ],
+    "correctAnswer": 2,
+    "explanation": "端午饮雄黄酒、涂抹雄黄以避蛇虫；屠苏酒属春节，菊花酒属重阳，桂花酒属中秋。"
+  },
+  {
+    "id": "chinese-history-015",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "1900 年，敦煌莫高窟藏经洞（第 17 窟）重见天日，数万件文书震惊世界。发现它的人是谁？",
+    "options": [
+      "王圆箓",
+      "斯坦因",
+      "伯希和",
+      "张大千"
+    ],
+    "correctAnswer": 0,
+    "explanation": "道士王圆箓在清理积沙时偶然发现藏经洞。斯坦因、伯希和是后来闻风而至、大量购取文书的外国探险家。"
+  },
+  {
+    "id": "chinese-history-016",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "世界上现存最早的敞肩石拱桥赵州桥，由哪位工匠主持修建？",
+    "options": [
+      "鲁班",
+      "李冰",
+      "宇文恺",
+      "李春"
+    ],
+    "correctAnswer": 3,
+    "explanation": "赵州桥（安济桥）由隋朝工匠李春设计建造，已有 1400 多年历史，其敞肩拱设计比欧洲早了七百多年。"
+  },
+  {
+    "id": "chinese-history-017",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "殷墟考古中，唯一保存完整、未被盗掘且墓主身份明确的商代王室墓葬是哪一座？",
+    "options": [
+      "妇好墓",
+      "武官村大墓",
+      "侯家庄王陵",
+      "郭家庄墓"
+    ],
+    "correctAnswer": 0,
+    "explanation": "妇好墓 1976 年发掘，出土随葬品 1928 件。妇好是商王武丁的妻子，也是甲骨文记载中领兵打仗的第一位女将军。"
+  },
+  {
+    "id": "chinese-history-018",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "北宋张择端的传世名画《清明上河图》，描绘的是哪座城市的繁华景象？",
+    "options": [
+      "长安",
+      "洛阳",
+      "汴京（今开封）",
+      "临安（今杭州）"
+    ],
+    "correctAnswer": 2,
+    "explanation": "画卷描绘北宋都城东京（汴京，今河南开封）的城市生活，全卷画有 800 多个人物，被誉为「中华第一神品」。"
+  },
+  {
+    "id": "chinese-history-019",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "指南针的前身「司南」，其名称最早见于哪一部典籍？",
+    "options": [
+      "《梦溪笔谈》",
+      "《山海经》",
+      "《淮南子》",
+      "《韩非子》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《韩非子·有度》记载「先王立司南以端朝夕」。而《梦溪笔谈》则是首次记录人工磁化指南针法和磁偏角的著作。"
+  },
+  {
+    "id": "chinese-history-020",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "王羲之写下「天下第一行书」《兰亭集序》的那场曲水流觞雅集，发生在哪个传统节日？",
+    "options": [
+      "上巳节（三月三）",
+      "寒食节",
+      "重阳节",
+      "中秋节"
+    ],
+    "correctAnswer": 0,
+    "explanation": "东晋永和九年三月初三上巳节，王羲之与谢安等 42 人在兰亭修禊雅集，乘着酒兴写下《兰亭集序》。"
+  },
+  {
+    "id": "chinese-history-021",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "现存青铜器中铭文最长的是哪一件？铭文近五百字，被称为「抵得上一篇《尚书》」。",
+    "options": [
+      "后母戊鼎",
+      "毛公鼎",
+      "大盂鼎",
+      "散氏盘"
+    ],
+    "correctAnswer": 1,
+    "explanation": "西周毛公鼎铭文 497 字，是青铜器铭文之最，现藏台北故宫博物院。后母戊鼎铭文只有「后母戊」三个字。"
+  },
+  {
+    "id": "chinese-history-022",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "长沙马王堆汉墓出土的素纱襌衣轻薄得可以塞进火柴盒，它的重量大约只有多少？",
+    "options": [
+      "约 49 克",
+      "约 150 克",
+      "约 300 克",
+      "约 500 克"
+    ],
+    "correctAnswer": 0,
+    "explanation": "直裾素纱襌衣仅重 49 克，折叠后可放入火柴盒，代表了汉代养蚕缫丝和织造技术的巅峰，现藏湖南博物院。"
+  },
+  {
+    "id": "chinese-history-023",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "京杭大运河历史上最早开凿的一段「邗沟」，是春秋时期哪个诸侯国主持修建的？",
+    "options": [
+      "齐国",
+      "楚国",
+      "吴国",
+      "越国"
+    ],
+    "correctAnswer": 2,
+    "explanation": "公元前 486 年，吴王夫差为北上争霸开凿邗沟，连通长江与淮河，这一年也被视为中国大运河的开端之年。"
+  },
+  {
+    "id": "chinese-history-024",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "宋代五大名窑「汝、官、哥、钧、定」中，以「雨过天青」釉色闻名、窑址在今河南宝丰清凉寺的是哪个？",
+    "options": [
+      "钧窑",
+      "定窑",
+      "哥窑",
+      "汝窑"
+    ],
+    "correctAnswer": 3,
+    "explanation": "汝窑为五大名窑之首，传世品不足百件，天青釉色据说源自宋徽宗「雨过天青云破处」的审美要求。"
+  },
+  {
+    "id": "chinese-history-025",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "2019 年列入《世界遗产名录》、实证中华五千多年文明史的良渚古城遗址，位于今天的哪座城市？",
+    "options": [
+      "杭州",
+      "南京",
+      "苏州",
+      "宁波"
+    ],
+    "correctAnswer": 0,
+    "explanation": "良渚古城遗址位于杭州市余杭区，距今约 5300—4300 年，拥有大型水利系统和精美的玉琮，被誉为「中华第一城」。"
+  },
+  {
+    "id": "chinese-history-026",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "中秋节一家人围在一起赏月时，按传统要吃哪种圆滚滚的点心？",
+    "options": [
+      "粽子",
+      "月饼",
+      "汤圆",
+      "饺子"
+    ],
+    "correctAnswer": 1,
+    "explanation": "中秋吃月饼寓意团圆美满。粽子属于端午节，汤圆是元宵节的标配，饺子则是北方过年的主角。"
+  },
+  {
+    "id": "chinese-history-027",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "端午节吃粽子、赛龙舟的习俗，最广为人知是为了纪念哪位历史人物？",
+    "options": [
+      "李白",
+      "杜甫",
+      "屈原",
+      "白居易"
+    ],
+    "correctAnswer": 2,
+    "explanation": "相传战国诗人屈原于五月初五投汨罗江，百姓划船捞救、投粽喂鱼，演变成赛龙舟和吃粽子的习俗。"
+  },
+  {
+    "id": "chinese-history-028",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "春节时很多人家喜欢把「福」字倒过来贴，这么贴的寓意是什么？",
+    "options": [
+      "福到了",
+      "福气倒光了",
+      "福要迟到了",
+      "福星睡着了"
+    ],
+    "correctAnswer": 0,
+    "explanation": "「倒」与「到」谐音，倒贴福字取「福到了」的彩头，是春节最受欢迎的谐音梗之一。"
+  },
+  {
+    "id": "chinese-history-029",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "古人书房里离不开的「文房四宝」，指的是哪四样东西？",
+    "options": [
+      "琴棋书画",
+      "梅兰竹菊",
+      "诗词歌赋",
+      "笔墨纸砚"
+    ],
+    "correctAnswer": 3,
+    "explanation": "文房四宝即笔、墨、纸、砚，其中以湖笔、徽墨、宣纸、端砚最为出名。琴棋书画则是古代文人的「四艺」。"
+  },
+  {
+    "id": "chinese-history-030",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "造纸术、印刷术、火药、指南针并称中国古代「四大发明」，下列哪一项不在其中？",
+    "options": [
+      "造纸术",
+      "地动仪",
+      "印刷术",
+      "火药"
+    ],
+    "correctAnswer": 1,
+    "explanation": "地动仪是东汉张衡发明的测震仪器，虽很厉害但不属于四大发明。「四大发明」的说法由英国学者李约瑟大力宣扬而定型。"
+  },
+  {
+    "id": "chinese-history-031",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "汉代时奉命出使西域、为丝绸之路的开辟立下大功的使者是谁？",
+    "options": [
+      "玄奘",
+      "鉴真",
+      "张骞",
+      "郑和"
+    ],
+    "correctAnswer": 2,
+    "explanation": "汉武帝派张骞两次出使西域，史称「凿空之旅」。玄奘西行取经、鉴真东渡日本、郑和下西洋，都是后来的故事。"
+  },
+  {
+    "id": "chinese-history-032",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "万里长城沿线关隘众多，其中被誉为「天下第一关」的是哪一座？",
+    "options": [
+      "山海关",
+      "嘉峪关",
+      "居庸关",
+      "雁门关"
+    ],
+    "correctAnswer": 0,
+    "explanation": "山海关位于河北秦皇岛，是明长城的东北起点，匾额上「天下第一关」五个大字相传为明代书法家萧显所写。"
+  },
+  {
+    "id": "chinese-history-033",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "明清两代皇帝居住的北京故宫，还有一个更气派的名字叫什么？",
+    "options": [
+      "大明宫",
+      "阿房宫",
+      "未央宫",
+      "紫禁城"
+    ],
+    "correctAnswer": 3,
+    "explanation": "故宫旧称紫禁城，因古代以紫微星垣比喻天帝居所而得名。大明宫在唐代长安，阿房宫属秦，未央宫属汉。"
+  },
+  {
+    "id": "chinese-history-034",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "被誉为「世界第八大奇迹」、1974年因当地农民打井而意外重见天日的文物群是？",
+    "options": [
+      "秦始皇兵马俑",
+      "三星堆青铜面具",
+      "曾侯乙编钟",
+      "马王堆汉墓帛画"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1974年陕西临潼几位农民打井时意外挖出陶俑碎片，由此揭开了秦始皇陵兵马俑的惊世发现。数千件陶俑千人千面，据说没有两个长得完全一样。"
+  },
+  {
+    "id": "chinese-history-035",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "以造型奇特的青铜纵目面具和黄金面具闻名于世的三星堆遗址，位于哪个省份？",
+    "options": [
+      "重庆",
+      "四川",
+      "云南",
+      "贵州"
+    ],
+    "correctAnswer": 1,
+    "explanation": "三星堆遗址位于四川广汉，属于距今三四千年的古蜀文明，其青铜人像和面具风格独特，和中原青铜器差异很大，一度让人怀疑它是不是「外星文明」，其实只是古蜀先民独特的审美。"
+  },
+  {
+    "id": "chinese-history-036",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "战国时期由蜀郡太守李冰父子主持修建、至今仍在灌溉四川平原的水利工程是？",
+    "options": [
+      "灵渠",
+      "郑国渠",
+      "都江堰",
+      "京杭大运河"
+    ],
+    "correctAnswer": 2,
+    "explanation": "都江堰巧妙利用地形实现自动分洪排沙，两千多年来一直发挥灌溉作用，让成都平原成为「天府之国」。它没有一座大坝，全靠因势利导的设计取胜。"
+  },
+  {
+    "id": "chinese-history-037",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "正月十五元宵节，人们除了赏花灯、猜灯谜，传统上还要吃哪种应景食物？",
+    "options": [
+      "月饼",
+      "粽子",
+      "青团",
+      "汤圆"
+    ],
+    "correctAnswer": 3,
+    "explanation": "元宵节吃汤圆（北方也叫元宵）取团团圆圆之意，是春节年俗的收尾。月饼属中秋，粽子属端午，青团则是清明时节的江南小吃。"
+  },
+  {
+    "id": "chinese-history-038",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "农历九月初九的重阳节，古人有登高、插茱萸的习俗，这一天如今也被定为哪个主题的节日？",
+    "options": [
+      "老年节",
+      "儿童节",
+      "情人节",
+      "丰收节"
+    ],
+    "correctAnswer": 0,
+    "explanation": "因「九九」谐音「久久」，寓意长长久久，重阳节自古就有敬老的传统，2012年被正式定为「老年节」。王维那句「遍插茱萸少一人」说的正是这个节日。"
+  },
+  {
+    "id": "chinese-history-039",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "传说牛郎织女在鹊桥相会、姑娘们向织女乞求心灵手巧的传统节日是？",
+    "options": [
+      "上巳节",
+      "七夕节",
+      "中元节",
+      "花朝节"
+    ],
+    "correctAnswer": 1,
+    "explanation": "七夕节在农历七月初七，因「乞巧」习俗也被称为「乞巧节」，如今常被当作中国的「情人节」，但它最初的主角其实是心灵手巧这件事，而不是谈恋爱。"
+  },
+  {
+    "id": "chinese-history-040",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "农历腊月初八这天，家家户户熬煮五谷杂粮和干果的传统食俗是？",
+    "options": [
+      "八宝饭",
+      "重阳糕",
+      "腊八粥",
+      "五仁月饼"
+    ],
+    "correctAnswer": 2,
+    "explanation": "腊八节喝腊八粥的习俗相传与佛教纪念释迦牟尼成道有关，本是寺庙施粥济贫的做法，后来演变成家家户户都要吃的年俗。"
+  },
+  {
+    "id": "chinese-history-041",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "1965年在湖北江陵楚墓出土、历经两千多年依然寒光凛冽、毫无锈迹的青铜名剑是？",
+    "options": [
+      "干将莫邪剑",
+      "秦始皇佩剑",
+      "吴王夫差矛",
+      "越王勾践剑"
+    ],
+    "correctAnswer": 3,
+    "explanation": "越王勾践剑出土时插在墓主人身边的剑鞘里，剑刃依然锋利如新，能轻松划破多层纸张，剑身「越王鸠浅（勾践）自作用剑」的铭文确认了它的主人身份。"
+  },
+  {
+    "id": "chinese-history-042",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "现藏北京故宫博物院的青绿山水长卷《千里江山图》，作者王希孟完成这幅画时年仅多少岁？",
+    "options": [
+      "约18岁",
+      "约12岁",
+      "约25岁",
+      "约35岁"
+    ],
+    "correctAnswer": 0,
+    "explanation": "王希孟18岁左右完成这幅长近12米的青绿山水巨作，此后再无确切生平记载，让人唏嘘。他是北宋画院学生，曾得到宋徽宗亲自指点。"
+  },
+  {
+    "id": "chinese-history-043",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "东晋画家顾恺之根据哪位文学家的名篇创作了传世名画《洛神赋图》？",
+    "options": [
+      "曹丕",
+      "曹植",
+      "嵇康",
+      "陶渊明"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《洛神赋图》取材自曹植的《洛神赋》，描绘他与洛水女神相遇又无奈分离的浪漫故事。顾恺之原作已失传，如今能看到的都是宋代摹本。"
+  },
+  {
+    "id": "chinese-history-044",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "唐代盛行的陶器工艺「唐三彩」，其釉色以哪几种颜色为主？",
+    "options": [
+      "红、白、黑",
+      "蓝、紫、金",
+      "黄、绿、白（或褐）",
+      "青、灰、赭"
+    ],
+    "correctAnswer": 2,
+    "explanation": "唐三彩以黄、绿、白（有的还加褐色）等釉色交融流淌为特色，多用作陪葬明器，骆驼、胡人俑格外常见，从侧面反映了唐代丝路贸易的繁荣。"
+  },
+  {
+    "id": "chinese-history-045",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "因宋真宗把自己的年号赐给当地、从此因瓷闻名天下的「瓷都」是哪座城市？",
+    "options": [
+      "宜兴",
+      "龙泉",
+      "德化",
+      "景德镇"
+    ],
+    "correctAnswer": 3,
+    "explanation": "景德镇原名昌南镇，宋真宗景德年间因当地进贡的瓷器精美，便把年号「景德」赐作地名，此后历经元明清三代设立官窑，「瓷都」美名延续至今。"
+  },
+  {
+    "id": "chinese-history-046",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "1987年陕西法门寺地宫出土的一批瓷器，首次以实物证实了唐代诗文中神秘的哪种瓷器确实存在？",
+    "options": [
+      "秘色瓷",
+      "甜白瓷",
+      "影青瓷",
+      "天目瓷"
+    ],
+    "correctAnswer": 0,
+    "explanation": "「秘色瓷」此前只在陆龟蒙「夺得千峰翠色来」等诗句中出现，人们一直不确定它长什么样。法门寺地宫出土的越窑瓷器连同记录清单一同现身，终于坐实了它的真面目。"
+  },
+  {
+    "id": "chinese-history-047",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "被誉为「天下第二行书」、由颜真卿追祭在安史之乱中殉国的侄子而写下的作品是？",
+    "options": [
+      "《兰亭集序》",
+      "《祭侄文稿》",
+      "《寒食帖》",
+      "《自叙帖》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "颜真卿在极度悲愤中写下《祭侄文稿》，字迹涂改潦草却气势磅礴，被公认为仅次于王羲之《兰亭集序》的「天下第二行书」，现藏台北故宫博物院。"
+  },
+  {
+    "id": "chinese-history-048",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "河南洛阳的龙门石窟始凿于哪个朝代迁都洛阳前后？",
+    "options": [
+      "北齐",
+      "隋朝",
+      "北魏",
+      "唐朝"
+    ],
+    "correctAnswer": 2,
+    "explanation": "龙门石窟开凿始于北魏迁都洛阳前后，历经东魏、西魏、北齐直至唐宋延续营造，其中最大的卢舍那大佛完工于唐高宗、武则天当政的年代，与敦煌莫高窟、大同云冈石窟并称中国三大石窟。"
+  },
+  {
+    "id": "chinese-history-049",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "苏州古典园林中现存规模最大的一座，也是中国四大名园之一，是哪一座？",
+    "options": [
+      "留园",
+      "网师园",
+      "沧浪亭",
+      "拙政园"
+    ],
+    "correctAnswer": 3,
+    "explanation": "拙政园始建于明代，是苏州现存最大的古典园林，与北京颐和园、承德避暑山庄、苏州留园并称中国四大名园，1997年随苏州古典园林一起列入世界遗产。"
+  },
+  {
+    "id": "chinese-history-050",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "被誉为「国粹」的京剧，是在哪个历史事件之后融合徽调、汉调等声腔逐渐形成的？",
+    "options": [
+      "徽班进京",
+      "郑和下西洋",
+      "康乾南巡",
+      "洋务运动"
+    ],
+    "correctAnswer": 0,
+    "explanation": "清代乾隆末年，多个徽班陆续进京献艺，与汉调、昆曲等相互融合，历经几十年演变，逐渐形成了如今的京剧。它虽然名字带「京」，源头却在安徽和湖北。"
+  },
+  {
+    "id": "chinese-history-051",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "2011年在江西南昌发现、出土大量金器和简牍、墓主曾当过27天皇帝的西汉墓葬是？",
+    "options": [
+      "妇好墓",
+      "海昏侯墓",
+      "曾侯乙墓",
+      "马王堆汉墓"
+    ],
+    "correctAnswer": 1,
+    "explanation": "海昏侯刘贺墓是我国迄今发现保存最完整、结构最清晰的西汉列侯墓园。墓主刘贺当过27天皇帝就被废黜，没想到两千年后却因为墓里出土的巨额财富重新「翻红」。"
+  },
+  {
+    "id": "chinese-history-052",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "1970年施工队在西安南郊意外刨出的一处唐代窖藏，出土上千件金银器和珍宝，后来被称为什么？",
+    "options": [
+      "法门寺地宫宝藏",
+      "海昏侯宝藏",
+      "何家村遗宝",
+      "满城汉墓宝藏"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1970年西安何家村基建工地意外发现两个大陶瓮，里面装满金银器皿、玉带、钱币等珍宝，数量之多、工艺之精堪称唐代金银器的巅峰展示，被称为「何家村遗宝」。"
+  },
+  {
+    "id": "chinese-history-053",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "商代晚期青铜器中，四角各铸有一只卷角羊头、现藏中国国家博物馆的重器是？",
+    "options": [
+      "后母戊鼎",
+      "大盂鼎",
+      "毛公鼎",
+      "四羊方尊"
+    ],
+    "correctAnswer": 3,
+    "explanation": "四羊方尊出土于湖南宁乡，将四只立体羊头和方尊巧妙融为一体，是商代青铜铸造工艺的巅峰之作，也是极具代表性的国宝重器。"
+  },
+  {
+    "id": "chinese-history-054",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "被后人尊称为「茶圣」、写下世界第一部茶叶专著《茶经》的唐代人物是谁？",
+    "options": [
+      "陆羽",
+      "陆游",
+      "卢仝",
+      "皎然"
+    ],
+    "correctAnswer": 0,
+    "explanation": "陆羽历时数年写成《茶经》，系统总结了茶的种植、采制、烹煮和品饮方法，被后世尊为「茶圣」。卢仝虽也爱茶成痴，写过著名的《七碗茶歌》，但著《茶经》的是陆羽。"
+  },
+  {
+    "id": "chinese-history-055",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "因在明代某个年号期间工艺最为精湛、常用蓝色釉料而得名的传统工艺「景泰蓝」，学名叫什么？",
+    "options": [
+      "錾胎珐琅彩",
+      "铜胎掐丝珐琅",
+      "画珐琅",
+      "剔红漆器"
+    ],
+    "correctAnswer": 1,
+    "explanation": "景泰蓝学名「铜胎掐丝珐琅」，因明代景泰年间工艺水平达到高峰、又多用宝蓝色釉料而得名，是北京著名的传统金属工艺品，制作要经过掐丝、点蓝、烧蓝等十几道工序。"
+  },
+  {
+    "id": "chinese-history-056",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "有「纸中之王」美誉、主产地在安徽泾县的传统书画用纸是？",
+    "options": [
+      "竹纸",
+      "毛边纸",
+      "宣纸",
+      "桑皮纸"
+    ],
+    "correctAnswer": 2,
+    "explanation": "宣纸因唐代泾县隶属宣州而得名，以青檀树皮和沙田稻草为主要原料，有「纸寿千年」的美誉，是历代书画家钟爱的载体。"
+  },
+  {
+    "id": "chinese-history-057",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "与苏州桃花坞年画并称「南桃北柳」的著名木版年画产地，位于今天的哪座城市？",
+    "options": [
+      "河北武强",
+      "山东潍坊",
+      "河南开封",
+      "天津"
+    ],
+    "correctAnswer": 3,
+    "explanation": "天津杨柳青年画始于明代，以细腻的手工彩绘和喜庆的题材著称，与江苏苏州桃花坞年画并称「南桃北柳」，是中国木版年画的两大代表流派。"
+  },
+  {
+    "id": "chinese-history-058",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "用兽皮或纸板雕刻人物、借灯光将剪影投射在幕布上表演的传统戏曲艺术是？",
+    "options": [
+      "皮影戏",
+      "木偶戏",
+      "傩戏",
+      "评弹"
+    ],
+    "correctAnswer": 0,
+    "explanation": "皮影戏至少在宋代就已流行，艺人一边操纵影人一边配唱，2011年被列入人类非物质文化遗产代表作名录。有意思的是，它还被认为是世界上最早的「屏幕影像艺术」之一。"
+  },
+  {
+    "id": "chinese-history-059",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "科举制度正式诞生于哪个朝代？",
+    "options": [
+      "汉朝",
+      "隋朝",
+      "唐朝",
+      "宋朝"
+    ],
+    "correctAnswer": 1,
+    "explanation": "隋炀帝时期正式设置进士科，标志着科举制度诞生。这套选官制度此后延续约1300年，直到1905年清末新政时才被废除。"
+  },
+  {
+    "id": "chinese-history-060",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "清朝雍正年间推行的「摊丁入亩」具体指的是什么？",
+    "options": [
+      "按每户人口数量重新分配国有土地",
+      "取消田赋，只按人丁征收人头税",
+      "把按人丁征收的丁银摊入田赋，合并征收",
+      "废除货币税，赋税全部改收粮食实物"
+    ],
+    "correctAnswer": 2,
+    "explanation": "摊丁入亩（又称摊丁入地）把按人丁征收的丁银摊进田赋里一起收，等于废除了延续两千多年的人头税，无地少地的农民因此卸下了一大负担。"
+  },
+  {
+    "id": "chinese-history-061",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "郑和船队第一次下西洋，是在明朝哪位皇帝在位期间？",
+    "options": [
+      "明太祖朱元璋",
+      "建文帝朱允炆",
+      "明仁宗朱高炽",
+      "明成祖朱棣"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1405年（永乐三年）郑和首下西洋，正是明成祖朱棣在位时。民间还流传着朱棣想借此寻找失踪的建文帝下落的说法。"
+  },
+  {
+    "id": "chinese-history-062",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "「王与马，共天下」这句流传一时的民谣，形容的是哪个王朝初年的政治格局？",
+    "options": [
+      "东晋",
+      "西晋",
+      "东吴",
+      "南朝宋"
+    ],
+    "correctAnswer": 0,
+    "explanation": "东晋建立时，晋元帝司马睿全靠琅邪王氏的王导、王敦兄弟扶持上位，时人称「王与马，共天下」，堪称门阀政治的标志性名场面。"
+  },
+  {
+    "id": "chinese-history-063",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "1449年的「土木堡之变」中，被瓦剌军队俘虏的明朝皇帝是哪一位？",
+    "options": [
+      "明代宗朱祁钰",
+      "明武宗朱厚照",
+      "明英宗朱祁镇",
+      "明世宗朱厚熜"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1449年明英宗朱祁镇在宦官王振怂恿下御驾亲征瓦剌，在土木堡兵败被俘。他的弟弟朱祁钰随后登基，即明代宗。"
+  },
+  {
+    "id": "chinese-history-064",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "今天我国「省」这一级行政区划的源头——行省制度，始创于哪个朝代？",
+    "options": [
+      "唐朝",
+      "宋朝",
+      "明朝",
+      "元朝"
+    ],
+    "correctAnswer": 3,
+    "explanation": "元朝在全国设行中书省管理地方，简称行省，是今天省级行政区的直接源头。明清两代沿袭并完善了这套制度。"
+  },
+  {
+    "id": "chinese-history-065",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "汉武帝时期提出「罢黜百家，独尊儒术」并被采纳的学者是谁？",
+    "options": [
+      "主父偃",
+      "董仲舒",
+      "桑弘羊",
+      "公孙弘"
+    ],
+    "correctAnswer": 1,
+    "explanation": "汉武帝采纳董仲舒「天人三策」中的建议，确立儒学独尊地位，深刻影响了中国此后两千多年的思想文化走向。"
+  },
+  {
+    "id": "chinese-history-066",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "曹魏政权采纳陈群建议创立的「九品中正制」，是在哪位君主时期确立的？",
+    "options": [
+      "魏文帝曹丕",
+      "魏武帝曹操",
+      "魏明帝曹叡",
+      "晋武帝司马炎"
+    ],
+    "correctAnswer": 0,
+    "explanation": "220年前后，曹丕在代汉称帝之际采纳吏部尚书陈群的建议，设立九品中正制（九品官人法）。它后来演变成「上品无寒门，下品无士族」的门第游戏。注意曹操生前并未称帝，「魏武帝」是追尊。"
+  },
+  {
+    "id": "chinese-history-067",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "世界上最早的纸币「交子」，最早出现在哪个朝代、哪个地区？",
+    "options": [
+      "南宋 临安",
+      "唐朝 扬州",
+      "北宋 四川",
+      "元朝 大都"
+    ],
+    "correctAnswer": 2,
+    "explanation": "北宋初年的四川地区出现了「交子」，是世界上最早的纸币，比欧洲出现纸币早了约六百年。起初由商人发行，后来收归官府办理。"
+  },
+  {
+    "id": "chinese-history-068",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "1689年康熙年间，清朝与沙俄签订的第一个边界条约是哪一份？",
+    "options": [
+      "《瑷珲条约》",
+      "《恰克图条约》",
+      "《北京条约》",
+      "《尼布楚条约》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1689年清朝在雅克萨之战后与沙俄签订《尼布楚条约》，划定了中俄东段边界。《瑷珲条约》和《北京条约》都是晚清时期的不平等条约，可别搞混了。"
+  },
+  {
+    "id": "chinese-history-069",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "使唐朝由盛转衰的「安史之乱」，爆发于哪位皇帝在位期间？",
+    "options": [
+      "唐玄宗",
+      "唐太宗",
+      "唐高宗",
+      "唐代宗"
+    ],
+    "correctAnswer": 0,
+    "explanation": "755年安禄山、史思明起兵叛乱，正值唐玄宗天宝年间。这场持续约八年的战乱让开元盛世的繁华一去不复返，唐朝从此由盛转衰。"
+  },
+  {
+    "id": "chinese-history-070",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "明朝张居正改革中「一条鞭法」的核心内容是什么？",
+    "options": [
+      "只按人头统一征税，不再征收田赋",
+      "把田赋、徭役和各种杂征合并为一，折成银两征收",
+      "恢复井田制，把土地平均分给农民耕种",
+      "赋税全部改收粮食，禁止用白银缴税"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1581年张居正在全国推行一条鞭法，把田赋、徭役和各种杂税合并为一项、折银征收，大大简化了税制，也顺应了明代白银货币化的潮流。"
+  },
+  {
+    "id": "chinese-history-071",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "战国时期在秦国主持变法、让秦国一跃成为最强国的改革家是谁？",
+    "options": [
+      "李悝",
+      "吴起",
+      "商鞅",
+      "申不害"
+    ],
+    "correctAnswer": 2,
+    "explanation": "商鞅在秦孝公支持下两次变法，废井田、奖军功、行郡县，为秦统一六国打下基础。冷知识：李悝在魏国、吴起在楚国也都主持过变法，只是成效都不如商鞅持久。"
+  },
+  {
+    "id": "chinese-history-072",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "汉武帝采纳主父偃的建议颁布「推恩令」，它的具体内容是什么？",
+    "options": [
+      "允许诸侯王把封地分给所有子弟，而非只传嫡长子",
+      "把诸侯王的封地全部收归中央直辖",
+      "强迫诸侯王举家迁居京城以便监视",
+      "按军功大小重新分封一批诸侯王"
+    ],
+    "correctAnswer": 0,
+    "explanation": "推恩令规定诸侯王除嫡长子外，其余子弟也能分到一块封地，结果诸侯国越分越小，中央兵不血刃就瓦解了地方割据。这招被称为「阳谋」，明知道是坑也得跳。"
+  },
+  {
+    "id": "chinese-history-073",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "秦始皇统一六国后，在全国推行以取代分封制的地方行政制度是什么？",
+    "options": [
+      "宗法制",
+      "郡县制",
+      "礼乐制",
+      "井田制"
+    ],
+    "correctAnswer": 1,
+    "explanation": "秦始皇采纳李斯建议，在全国推行郡县制，郡守县令由中央直接任免，开创了此后两千多年中央集权地方行政的基本格局。"
+  },
+  {
+    "id": "chinese-history-074",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "383年淝水之战中，率领八十多万大军却惨败给东晋的前秦皇帝是谁？",
+    "options": [
+      "石勒",
+      "慕容垂",
+      "拓跋珪",
+      "苻坚"
+    ],
+    "correctAnswer": 3,
+    "explanation": "前秦皇帝苻坚不听王猛临终劝告执意伐晋，结果在淝水之战一败涂地，「风声鹤唳，草木皆兵」说的就是他的败军。前秦此后迅速崩溃，北方再度分裂。"
+  },
+  {
+    "id": "chinese-history-075",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "发动「玄武门之变」后登基、开创「贞观之治」的皇帝是谁？",
+    "options": [
+      "唐高祖李渊",
+      "唐太宗李世民",
+      "唐高宗李治",
+      "唐玄宗李隆基"
+    ],
+    "correctAnswer": 1,
+    "explanation": "626年李世民在玄武门伏杀太子李建成和齐王李元吉，不久即位为唐太宗。他即位后虚心纳谏、轻徭薄赋，开创了中国历史上著名的贞观之治。"
+  },
+  {
+    "id": "chinese-history-076",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "北宋与辽订立「澶渊之盟」，约定北宋每年送给辽的「岁币」是多少？",
+    "options": [
+      "银五万两、绢十万匹",
+      "银二十万两、绢五十万匹",
+      "银十万两、绢二十万匹",
+      "银五十万两、绢一百万匹"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1005年宋辽澶渊之盟约定：宋每年给辽银十万两、绢二十万匹，双方约为兄弟之国。这笔钱换来宋辽百余年的和平，对北宋财政来说其实相当划算。"
+  },
+  {
+    "id": "chinese-history-077",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "目前所知我国最早的成熟文字「甲骨文」，主要出土于哪里？",
+    "options": [
+      "陕西西安半坡遗址",
+      "河南安阳殷墟",
+      "山东泰安大汶口遗址",
+      "浙江余姚河姆渡遗址"
+    ],
+    "correctAnswer": 1,
+    "explanation": "甲骨文主要出土于河南安阳小屯村的殷墟，是商朝晚期的占卜记录。1899年王懿荣最先识别出它的价值，据说他本是在中药「龙骨」上发现的刻痕。"
+  },
+  {
+    "id": "chinese-history-078",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "我国第一部纪传体通史《史记》的作者是谁？",
+    "options": [
+      "司马光",
+      "班固",
+      "左丘明",
+      "司马迁"
+    ],
+    "correctAnswer": 3,
+    "explanation": "西汉司马迁忍辱负重写成《史记》，记载了从黄帝到汉武帝约三千年的历史，被鲁迅誉为「史家之绝唱，无韵之离骚」。注意别和司马光搞混，他写的是编年体的《资治通鉴》。"
+  },
+  {
+    "id": "chinese-history-079",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "494年北魏孝文帝力排众议迁都洛阳以推行汉化改革，他迁出的旧都是哪里？",
+    "options": [
+      "平城",
+      "盛乐",
+      "晋阳",
+      "邺城"
+    ],
+    "correctAnswer": 0,
+    "explanation": "北魏此前定都平城（今山西大同），孝文帝以南征为名率百官迁都洛阳，随后禁鲜卑语、改汉姓、穿汉服，他自己率先把「拓跋」改成了「元」姓。"
+  },
+  {
+    "id": "chinese-history-080",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "通过「杯酒释兵权」和平解除开国武将兵权的皇帝是谁？",
+    "options": [
+      "汉高祖刘邦",
+      "隋文帝杨坚",
+      "宋太祖赵匡胤",
+      "明太祖朱元璋"
+    ],
+    "correctAnswer": 2,
+    "explanation": "961年宋太祖赵匡胤设宴款待石守信等大将，酒酣之际劝他们交出兵权、回乡享福，一顿饭就解决了藩镇拥兵的隐患，堪称史上性价比最高的一场酒局。"
+  },
+  {
+    "id": "chinese-history-081",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "1127年「靖康之变」中，被金兵掳往北方、导致北宋灭亡的是哪两位皇帝？",
+    "options": [
+      "宋真宗、宋仁宗",
+      "宋徽宗、宋钦宗",
+      "宋英宗、宋神宗",
+      "宋哲宗、宋徽宗"
+    ],
+    "correctAnswer": 1,
+    "explanation": "靖康二年（1127年）金军攻破开封，掳走宋徽宗、宋钦宗父子及宗室数千人，北宋就此灭亡。侥幸逃脱的康王赵构随后在应天府即位，建立南宋。"
+  },
+  {
+    "id": "chinese-history-082",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "1380年借「胡惟庸案」废除延续一千多年丞相制度的皇帝是谁？",
+    "options": [
+      "明成祖朱棣",
+      "明仁宗朱高炽",
+      "明宣宗朱瞻基",
+      "明太祖朱元璋"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1380年明太祖朱元璋以谋反罪诛杀丞相胡惟庸，随即废除中书省和丞相制，六部直接对皇帝负责，皇权达到空前高度，此后明清两朝再未设丞相。"
+  },
+  {
+    "id": "chinese-history-083",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "清乾隆年间编纂的大型丛书《四库全书》，「四库」指的是哪四部？",
+    "options": [
+      "诗、书、礼、易",
+      "甲、乙、丙、丁",
+      "经、史、子、集",
+      "风、雅、颂、赋"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《四库全书》按经、史、子、集四部分类，收录古籍三千五百余种，由纪昀等三百多位学者耗时约十年编成。它既是文化盛事，也因修书期间大量禁毁「违碍」书籍而备受争议。"
+  },
+  {
+    "id": "chinese-history-084",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "被尊为「至圣先师」的儒家学派创始人孔子，生活在哪个时期？",
+    "options": [
+      "春秋时期",
+      "战国时期",
+      "秦朝",
+      "汉朝"
+    ],
+    "correctAnswer": 0,
+    "explanation": "孔子名丘，字仲尼，是春秋末期鲁国人，创办私学、有教无类，据说弟子三千、贤者七十二。他生前没能实现政治抱负，身后却成了影响中国两千多年的「顶流」。"
+  },
+  {
+    "id": "chinese-history-085",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "西汉时两次出使西域、为开辟丝绸之路立下大功的使者是谁？",
+    "options": [
+      "卫青",
+      "霍去病",
+      "班超",
+      "张骞"
+    ],
+    "correctAnswer": 3,
+    "explanation": "汉武帝派张骞两次出使西域，打通了连接中原与西域的通道，后人称为「凿空」。葡萄、苜蓿、核桃等物产据说就是那时传入中原的。"
+  },
+  {
+    "id": "chinese-history-086",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "东汉时改进造纸术、让纸张得以普及的宦官是谁？",
+    "options": [
+      "张衡",
+      "蔡伦",
+      "毕昇",
+      "祖冲之"
+    ],
+    "correctAnswer": 1,
+    "explanation": "105年蔡伦总结前人经验，用树皮、麻头、破布等造出便宜好用的纸，人称「蔡侯纸」。造纸术后来传遍世界，被列为我国古代四大发明之一。"
+  },
+  {
+    "id": "chinese-history-087",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "被后人尊称为「诗圣」的唐代大诗人是谁？",
+    "options": [
+      "李白",
+      "白居易",
+      "杜甫",
+      "王维"
+    ],
+    "correctAnswer": 2,
+    "explanation": "杜甫一生写下大量反映战乱与民生疾苦的诗篇，被称为「诗圣」，他的诗也被称为「诗史」。和他齐名的李白则是「诗仙」，二人合称「李杜」。"
+  },
+  {
+    "id": "chinese-history-088",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "中国历史上唯一得到普遍承认的女皇帝是谁？",
+    "options": [
+      "吕雉",
+      "慈禧太后",
+      "孝庄太后",
+      "武则天"
+    ],
+    "correctAnswer": 3,
+    "explanation": "武则天在690年正式称帝，改国号为周，是中国历史上唯一一位女皇帝。她去世后留下一块无字碑，功过任凭后人评说。"
+  },
+  {
+    "id": "chinese-history-089",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "北宋时发明活字印刷术的平民发明家是谁？",
+    "options": [
+      "沈括",
+      "毕昇",
+      "郭守敬",
+      "宋应星"
+    ],
+    "correctAnswer": 1,
+    "explanation": "北宋庆历年间，平民毕昇发明泥活字印刷术，比德国古登堡的铅活字早了约四百年。这件事被沈括记在了《梦溪笔谈》里。"
+  },
+  {
+    "id": "chinese-history-090",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "讲述唐僧师徒西天取经的神魔小说《西游记》，作者是谁？",
+    "options": [
+      "罗贯中",
+      "施耐庵",
+      "吴承恩",
+      "蒲松龄"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《西游记》一般认为是明代吴承恩所著，是我国古代四大名著之一。罗贯中写《三国演义》，施耐庵写《水浒传》，蒲松龄写的则是《聊斋志异》。"
+  },
+  {
+    "id": "chinese-history-091",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "被誉为中国古典小说巅峰之作的《红楼梦》，作者是谁？",
+    "options": [
+      "曹雪芹",
+      "吴敬梓",
+      "李汝珍",
+      "汤显祖"
+    ],
+    "correctAnswer": 0,
+    "explanation": "清代曹雪芹「披阅十载，增删五次」写成《红楼梦》前八十回，后四十回一般认为是高鹗续写。研究这本书甚至形成了一门专门的学问——「红学」。"
+  },
+  {
+    "id": "chinese-history-092",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "「王侯将相宁有种乎」这句气势十足的口号，出自哪次农民起义？",
+    "options": [
+      "黄巾起义",
+      "黄巢起义",
+      "瓦岗军起义",
+      "陈胜吴广起义"
+    ],
+    "correctAnswer": 3,
+    "explanation": "公元前209年陈胜、吴广在大泽乡起义，喊出「王侯将相宁有种乎」，是中国历史上第一次大规模农民起义，虽然很快失败，却给了秦朝致命一击。"
+  },
+  {
+    "id": "chinese-history-093",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "楚汉之争中，项羽在鸿门设宴，本想借机除掉的对手是谁？",
+    "options": [
+      "韩信",
+      "刘邦",
+      "英布",
+      "彭越"
+    ],
+    "correctAnswer": 1,
+    "explanation": "鸿门宴上项羽本有机会除掉刘邦，却因谋士范增的计策未能果断执行，刘邦借故脱身。后世常用「鸿门宴」比喻暗藏杀机的宴席。"
+  },
+  {
+    "id": "chinese-history-094",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "楚汉相争的最后一战「垓下之战」中，兵败后自刎于乌江边的是谁？",
+    "options": [
+      "项羽",
+      "刘邦",
+      "韩信",
+      "范增"
+    ],
+    "correctAnswer": 0,
+    "explanation": "公元前202年，项羽在垓下被汉军重重包围，四面楚歌之下率残部突围至乌江，自觉无颜见江东父老，最终自刎而死，楚汉之争至此落幕。"
+  },
+  {
+    "id": "chinese-history-095",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "公元9年篡夺西汉皇位、建立「新」朝的外戚是谁？",
+    "options": [
+      "霍光",
+      "窦宪",
+      "梁冀",
+      "王莽"
+    ],
+    "correctAnswer": 3,
+    "explanation": "王莽以外戚身份长期掌权，最终逼迫孺子婴禅位，建立新朝并推行了一系列复古改制，但因政策混乱失民心，仅十几年就被绿林、赤眉起义推翻。"
+  },
+  {
+    "id": "chinese-history-096",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "推翻王莽新朝、重建汉朝（史称东汉）的开国皇帝是谁？",
+    "options": [
+      "刘秀",
+      "刘邦",
+      "刘备",
+      "刘协"
+    ],
+    "correctAnswer": 0,
+    "explanation": "刘秀在新朝末年的乱局中起兵，25年称帝定都洛阳，史称东汉，其在位期间休养生息、恢复国力，史称「光武中兴」。"
+  },
+  {
+    "id": "chinese-history-097",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "东汉末年提出「苍天已死，黄天当立」口号、发动黄巾起义的是谁？",
+    "options": [
+      "张角",
+      "董卓",
+      "曹操",
+      "黄巢"
+    ],
+    "correctAnswer": 0,
+    "explanation": "张角自称「大贤良师」，以「太平道」为号召，184年发动黄巾起义。起义几个月内就被镇压，却直接动摇了东汉统治根基，各地军阀由此崛起。"
+  },
+  {
+    "id": "chinese-history-098",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "三国时期孙刘联军用火攻大败曹操大军的著名战役是？",
+    "options": [
+      "官渡之战",
+      "夷陵之战",
+      "赤壁之战",
+      "淝水之战"
+    ],
+    "correctAnswer": 2,
+    "explanation": "208年孙权、刘备联军在长江赤壁一带用火攻击溃曹操大军，奠定了此后三国鼎立的基本格局。演义里「借东风」「草船借箭」的桥段就出自这场战役。"
+  },
+  {
+    "id": "chinese-history-099",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "西晋时期司马氏宗室诸王为争夺中央政权而爆发的长期内乱，史称什么？",
+    "options": [
+      "七国之乱",
+      "靖难之役",
+      "安史之乱",
+      "八王之乱"
+    ],
+    "correctAnswer": 3,
+    "explanation": "291年到306年间，西晋多位宗室王爷混战不休，史称「八王之乱」，严重耗损了国力，也给北方少数民族政权南下提供了可乘之机，直接引发了此后的五胡乱华。"
+  },
+  {
+    "id": "chinese-history-100",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "结束魏晋南北朝近三百年分裂局面、重新统一中国的隋朝皇帝是谁？",
+    "options": [
+      "隋炀帝杨广",
+      "隋文帝杨坚",
+      "隋恭帝杨侑",
+      "北周武帝宇文邕"
+    ],
+    "correctAnswer": 1,
+    "explanation": "隋文帝杨坚581年代北周称帝，589年挥师灭陈，结束了自西晋末年以来近三百年的分裂局面，他还创立了影响深远的三省六部制。北周武帝宇文邕是杨坚篡位前的北周皇帝，和统一全国没关系，纯属混淆项。"
+  },
+  {
+    "id": "chinese-history-101",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "隋炀帝在位期间大举征发民力开凿、以洛阳为中心沟通南北的水利工程是什么？",
+    "options": [
+      "都江堰",
+      "郑国渠",
+      "隋唐大运河",
+      "灵渠"
+    ],
+    "correctAnswer": 2,
+    "explanation": "隋炀帝下令开凿沟通南北的大运河，北至涿郡、南至余杭，工程浩大也耗尽民力，是隋朝速亡的原因之一，却也为此后千年的南北漕运打下了基础。"
+  },
+  {
+    "id": "chinese-history-102",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "唐太宗曾感叹「以人为镜，可以明得失」，这位去世后让他深感失去一面镜子的直臣是谁？",
+    "options": [
+      "房玄龄",
+      "长孙无忌",
+      "杜如晦",
+      "魏征"
+    ],
+    "correctAnswer": 3,
+    "explanation": "魏征一生犯颜直谏两百多次，去世后唐太宗痛惜地说从此少了一面能照见自己得失的镜子。他原本还是太子李建成的旧部，被李世民不计前嫌重用。"
+  },
+  {
+    "id": "chinese-history-103",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "唐玄宗开元初年，被后世并称「救时宰相」、辅佐开创「开元盛世」的两位名相是谁？",
+    "options": [
+      "房玄龄与杜如晦",
+      "姚崇与宋璟",
+      "狄仁杰与张柬之",
+      "李林甫与杨国忠"
+    ],
+    "correctAnswer": 1,
+    "explanation": "姚崇、宋璟先后担任唐玄宗前期宰相，整顿吏治、抑制奢靡，为开元盛世打下基础。后期唐玄宗任用李林甫、杨国忠，朝政急转直下，最终酿成安史之乱。"
+  },
+  {
+    "id": "chinese-history-104",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "晚唐时期写下「待到秋来九月八，我花开后百花杀」、后来发动大规模起义并一度攻占长安的人物是谁？",
+    "options": [
+      "黄巢",
+      "朱温",
+      "王仙芝",
+      "李克用"
+    ],
+    "correctAnswer": 0,
+    "explanation": "黄巢屡试不第，愤而起兵，875年发动大起义，880年一度攻入长安称帝，国号「大齐」。这场起义虽最终失败，却给已经风雨飘摇的唐王朝致命一击。"
+  },
+  {
+    "id": "chinese-history-105",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "907年废黜唐哀帝、自立为帝并建立后梁的人物是谁？",
+    "options": [
+      "黄巢",
+      "李克用",
+      "石敬瑭",
+      "朱温"
+    ],
+    "correctAnswer": 3,
+    "explanation": "朱温本是黄巢起义军旧将，后投降唐朝并逐渐掌握大权，907年逼迫唐哀帝禅位，建立后梁，唐朝就此灭亡，中国历史进入五代十国的分裂时期。"
+  },
+  {
+    "id": "chinese-history-106",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "960年赵匡胤在陈桥驿被部下拥立、「黄袍加身」而建立的朝代是？",
+    "options": [
+      "后周",
+      "南唐",
+      "北宋",
+      "北汉"
+    ],
+    "correctAnswer": 2,
+    "explanation": "960年赵匡胤奉命出征时在陈桥驿被部将披上黄袍拥立为帝，随后回师夺取后周政权，建立北宋。这场兵变几乎兵不血刃，赵匡胤本人也算是「被逼」当上了皇帝。"
+  },
+  {
+    "id": "chinese-history-107",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "北宋宋神宗时期，主持推行青苗法、募役法等一系列改革的宰相是谁？",
+    "options": [
+      "司马光",
+      "范仲淹",
+      "王安石",
+      "欧阳修"
+    ],
+    "correctAnswer": 2,
+    "explanation": "王安石于1069年起推行变法，涉及财政、军事、科举等多个领域，史称「王安石变法」或「熙宁变法」。反对他最力的司马光后来当上宰相，又把这些新法基本废除了。"
+  },
+  {
+    "id": "chinese-history-108",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "南宋抗金名将岳飞，最终被秦桧以什么罪名陷害致死？",
+    "options": [
+      "通敌叛国",
+      "莫须有",
+      "结党营私",
+      "图谋篡位"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1142年岳飞被以「莫须有」（也许有）这种毫无实证的罪名杀害于风波亭。这个词后来成了「欲加之罪，何患无辞」的代名词，专指毫无根据的诬陷。"
+  },
+  {
+    "id": "chinese-history-109",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "1279年南宋最后的抵抗力量在崖山海战中溃败，大臣陆秀夫背着谁跳海殉国？",
+    "options": [
+      "宋恭帝赵㬎",
+      "宋端宗赵昰",
+      "宋少帝赵昺",
+      "宋理宗赵昀"
+    ],
+    "correctAnswer": 2,
+    "explanation": "崖山海战后，南宋大臣陆秀夫见大势已去，背着年仅八岁的末帝赵昺跳海殉国，随行军民也纷纷跳海殉国，南宋至此彻底灭亡。"
+  },
+  {
+    "id": "chinese-history-110",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "1206年在斡难河源头被推举为大汗、统一蒙古草原各部的是谁？",
+    "options": [
+      "忽必烈",
+      "拖雷",
+      "铁木真（成吉思汗）",
+      "窝阔台"
+    ],
+    "correctAnswer": 2,
+    "explanation": "铁木真历经多年征战统一蒙古各部，1206年被推举为大汗，尊号「成吉思汗」。他的孙子忽必烈后来才建立元朝，二者常被弄混。"
+  },
+  {
+    "id": "chinese-history-111",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "1271年将国号定为「大元」、随后又灭南宋统一全国的蒙古大汗是谁？",
+    "options": [
+      "成吉思汗",
+      "窝阔台",
+      "忽必烈",
+      "蒙哥"
+    ],
+    "correctAnswer": 2,
+    "explanation": "忽必烈取《易经》「大哉乾元」之意，将国号定为「大元」，1279年灭南宋，建立起疆域空前辽阔的元朝，他也是元朝的开国皇帝元世祖。"
+  },
+  {
+    "id": "chinese-history-112",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "出身贫苦、当过和尚，后来加入红巾军并最终建立明朝的皇帝是谁？",
+    "options": [
+      "朱棣",
+      "朱允炆",
+      "陈友谅",
+      "朱元璋"
+    ],
+    "correctAnswer": 3,
+    "explanation": "朱元璋早年当过放牛娃和游方和尚，后投奔郭子兴的红巾军，一路征战，1368年在应天府称帝，建立明朝，年号洪武。"
+  },
+  {
+    "id": "chinese-history-113",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "明朝「靖难之役」中，燕王朱棣以「清君侧」为名起兵，最终夺取了谁的皇位？",
+    "options": [
+      "明太祖朱元璋",
+      "建文帝朱允炆",
+      "明仁宗朱高炽",
+      "明代宗朱祁钰"
+    ],
+    "correctAnswer": 1,
+    "explanation": "朱元璋去世后传位给皇孙朱允炆，燕王朱棣以「清君侧」为名起兵靖难，历时三年攻入南京，建文帝下落成谜，朱棣随后登基即明成祖。"
+  },
+  {
+    "id": "chinese-history-114",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "1616年在赫图阿拉建立「大金」（史称后金）政权的女真首领是谁？",
+    "options": [
+      "皇太极",
+      "努尔哈赤",
+      "多尔衮",
+      "多铎"
+    ],
+    "correctAnswer": 1,
+    "explanation": "努尔哈赤统一女真各部后，1616年称汗建立后金政权。他的儿子皇太极后来才将国号改为「大清」，族名也从「女真」改为「满洲」。"
+  },
+  {
+    "id": "chinese-history-115",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "1636年将国号由「大金」改为「大清」的清朝统治者是谁？",
+    "options": [
+      "努尔哈赤",
+      "顺治帝",
+      "多尔衮",
+      "皇太极"
+    ],
+    "correctAnswer": 3,
+    "explanation": "皇太极1636年在盛京称帝，改国号为「大清」，并将族名「女真」改为「满洲」。此时清朝尚未入关，真正入主中原要到他儿子顺治帝在位时。"
+  },
+  {
+    "id": "chinese-history-116",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "康熙年间以吴三桂为首、最终被朝廷平定的地方割据势力叛乱，史称什么？",
+    "options": [
+      "三藩之乱",
+      "七国之乱",
+      "八王之乱",
+      "靖难之役"
+    ],
+    "correctAnswer": 0,
+    "explanation": "清初分封的三位藩王吴三桂、尚可喜、耿精忠拥兵自重，1673年吴三桂起兵反清，史称「三藩之乱」，历时八年才被年轻的康熙帝彻底平定。"
+  },
+  {
+    "id": "chinese-history-117",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "明朝的最后一个皇帝是谁？",
+    "options": [
+      "朱由检",
+      "朱祁镇",
+      "朱厚照",
+      "朱允炆"
+    ],
+    "correctAnswer": 0,
+    "explanation": "崇祯帝朱由检是明朝末代皇帝。1644年李自成攻入北京，他在煤山（今景山）自缢，明朝灭亡。朱祁镇是明英宗，朱厚照是明武宗，朱允炆是建文帝。"
+  },
+  {
+    "id": "chinese-history-118",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "1405年至1433年间，郑和先后几次率船队下西洋？",
+    "options": [
+      "五次",
+      "六次",
+      "七次",
+      "八次"
+    ],
+    "correctAnswer": 2,
+    "explanation": "从1405年到1433年，郑和先后七次率船队远航，最远到达非洲东海岸和红海沿岸。郑和下西洋比哥伦布1492年到达美洲早了近九十年。"
+  },
+  {
+    "id": "chinese-history-119",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "明代医药学家李时珍编著的药物学巨著是？",
+    "options": [
+      "《千金方》",
+      "《本草纲目》",
+      "《伤寒杂病论》",
+      "《黄帝内经》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "李时珍历时近三十年编成《本草纲目》，记载药物1892种，被誉为「东方药物巨典」。《千金方》是唐代孙思邈所著，《伤寒杂病论》是东汉张仲景所著。"
+  },
+  {
+    "id": "chinese-history-120",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "戚继光率「戚家军」在东南沿海抗击的「倭寇」，主要来自哪个国家？",
+    "options": [
+      "朝鲜",
+      "越南",
+      "日本",
+      "荷兰"
+    ],
+    "correctAnswer": 2,
+    "explanation": "明代中期，部分日本武士、浪人与沿海走私商人勾结，形成「倭寇」之患。戚继光在浙江、福建一带屡破倭寇，基本平定了东南沿海的倭患。"
+  },
+  {
+    "id": "chinese-history-121",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "1368年朱元璋建立明朝时，都城定在哪里？",
+    "options": [
+      "北京",
+      "开封",
+      "洛阳",
+      "南京"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1368年朱元璋在应天府（今南京）称帝，定都南京。直到明成祖朱棣即位后，才于1421年（永乐十九年）正式将都城迁往北京。"
+  },
+  {
+    "id": "chinese-history-122",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "明末领导农民起义、于1644年攻入北京推翻明朝的领袖是谁？",
+    "options": [
+      "张献忠",
+      "李自成",
+      "刘伯温",
+      "郑成功"
+    ],
+    "correctAnswer": 1,
+    "explanation": "李自成率起义军于1644年攻入北京，崇祯帝自缢，明朝灭亡。张献忠则是在四川建立了大西政权；刘伯温是明初开国功臣，郑成功是明末清初抗清名将。"
+  },
+  {
+    "id": "chinese-history-123",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "明朝把都城从南京迁往北京的皇帝是谁？",
+    "options": [
+      "明太祖朱元璋",
+      "明仁宗朱高炽",
+      "明宣宗朱瞻基",
+      "明成祖朱棣"
+    ],
+    "correctAnswer": 3,
+    "explanation": "明成祖朱棣即位后，为巩固北方边防并摆脱南京旧势力影响，于永乐十九年（1421年）正式迁都北京。注意：定都南京的是朱元璋，迁都北京的是朱棣。"
+  },
+  {
+    "id": "chinese-history-124",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "明成祖朱棣在位时编纂的巨型类书《永乐大典》，由谁主持？",
+    "options": [
+      "解缙",
+      "宋濂",
+      "刘基",
+      "杨士奇"
+    ],
+    "correctAnswer": 0,
+    "explanation": "明成祖命解缙主持编纂《永乐大典》，全书约3.7亿字、11095册，是中国古代规模最大的类书，姚广孝等人也参与了监修。宋濂、刘基是明初的著名文臣，与编纂《永乐大典》关系不大。"
+  },
+  {
+    "id": "chinese-history-125",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "明代科举考试的乡试、会试，规定使用哪种格式化文体作答？",
+    "options": [
+      "律诗",
+      "骈文",
+      "八股文",
+      "策论"
+    ],
+    "correctAnswer": 2,
+    "explanation": "明代的乡试、会试规定用八股文作答。八股文有破题、承题、起讲、入题、起股、中股、后股、束股等固定格式，严重禁锢了士人思想。"
+  },
+  {
+    "id": "chinese-history-126",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "1449年瓦剌大军兵临北京城下时，力主坚守并指挥北京保卫战的大臣是谁？",
+    "options": [
+      "于谦",
+      "徐有贞",
+      "李贤",
+      "杨士奇"
+    ],
+    "correctAnswer": 0,
+    "explanation": "土木堡之变后明英宗被俘，瓦剌直逼北京。于谦力排众议、拥立景泰帝，并亲自指挥北京保卫战击退瓦剌。写下《石灰吟》「粉身碎骨浑不怕，要留清白在人间」的正是这位民族英雄。"
+  },
+  {
+    "id": "chinese-history-127",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "明朝中后期，逐渐取代铜钱、成为全国主要流通货币的是什么？",
+    "options": [
+      "黄金",
+      "白银",
+      "铁钱",
+      "交子"
+    ],
+    "correctAnswer": 1,
+    "explanation": "明代中后期，随着商品经济发展和一条鞭法等赋税改革推行，白银逐渐取代铜钱，成为全国普遍流通的主要货币。交子是北宋四川地区出现的纸币，与本题无关。"
+  },
+  {
+    "id": "chinese-history-128",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "万历年间与徐光启合作、把《几何原本》译成中文的意大利传教士是谁？",
+    "options": [
+      "利玛窦",
+      "汤若望",
+      "南怀仁",
+      "郎世宁"
+    ],
+    "correctAnswer": 0,
+    "explanation": "意大利耶稣会传教士利玛窦1582年来华，1601年入京，与徐光启合作翻译了《几何原本》前六卷，「几何」一词即由此而来。汤若望、南怀仁是清初来华的传教士，郎世宁是清代宫廷画家。"
+  },
+  {
+    "id": "chinese-history-129",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "明朝嘉靖年间，最先获准在中国澳门居留的欧洲国家是？",
+    "options": [
+      "葡萄牙",
+      "西班牙",
+      "荷兰",
+      "英国"
+    ],
+    "correctAnswer": 0,
+    "explanation": "嘉靖年间（1553年前后），葡萄牙人以晾晒货物为名，通过贿赂广东地方官获准在澳门登陆居留，此后澳门逐渐成为葡萄牙人的居留地。香港被英国占据是鸦片战争以后的事。"
+  },
+  {
+    "id": "chinese-history-130",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "明末权倾朝野、被朝臣们争相称为「九千岁」的宦官是谁？",
+    "options": [
+      "刘瑾",
+      "魏忠贤",
+      "汪直",
+      "王振"
+    ],
+    "correctAnswer": 1,
+    "explanation": "明熹宗天启年间，宦官魏忠贤专权，党羽遍布朝堂，人称「九千岁」，崇祯帝即位后被铲除。王振是怂恿英宗亲征致土木堡之变的宦官，刘瑾是明武宗时期的权阉。"
+  },
+  {
+    "id": "chinese-history-131",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "1619年，明朝四路大军被后金各个击破、从此转入战略防御的战役是？",
+    "options": [
+      "松锦之战",
+      "萨尔浒之战",
+      "宁远之战",
+      "广宁之战"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1619年，明朝经略杨镐率四路大军围剿后金，努尔哈赤采用「集中兵力、各个击破」的战法，在萨尔浒一带大败明军，史称萨尔浒之战。此战是明清兴亡的关键转折点。"
+  },
+  {
+    "id": "chinese-history-132",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "一般历史教科书的说法中，中国最早的「资本主义萌芽」出现于什么时期？",
+    "options": [
+      "宋朝中原地区",
+      "元朝大都地区",
+      "清朝前期广东沿海",
+      "明朝中后期的江南地区"
+    ],
+    "correctAnswer": 3,
+    "explanation": "明朝中后期，江南地区的丝织业等行业出现「机户出资、机工出力」的雇佣劳动关系，通常被视为中国最早的资本主义萌芽。注意它的时间点是明朝中后期，而非宋朝或元朝。"
+  },
+  {
+    "id": "chinese-history-133",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "史称「万历三大征」的三场战争，指的是哪三场？",
+    "options": [
+      "宁夏之役、朝鲜之役、播州之役",
+      "宁夏之役、蓟州之役、松锦之役",
+      "辽东之役、播州之役、宣府之役",
+      "朝鲜之役、扬州之役、大同之役"
+    ],
+    "correctAnswer": 0,
+    "explanation": "万历三大征指万历年间明廷先后平定的宁夏之役（哱拜之乱）、朝鲜之役（抗倭援朝）和播州之役（杨应龙之乱）。三战虽胜，却也极大消耗了明朝国力。"
+  },
+  {
+    "id": "chinese-history-134",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "1644年李自成在西安称帝时建立的农民政权，国号是？",
+    "options": [
+      "大西",
+      "大齐",
+      "大顺",
+      "大周"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1644年李自成在西安称帝，建立「大顺」政权，随后攻入北京推翻明朝。张献忠同年在成都建立的是「大西」政权，「大齐」则是晚唐黄巢建立的政权。"
+  },
+  {
+    "id": "chinese-history-135",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "明代徐霞客的《徐霞客游记》，最早对哪种特殊地貌进行了系统的科学考察？",
+    "options": [
+      "丹霞地貌",
+      "雅丹地貌",
+      "黄土地貌",
+      "喀斯特（石灰岩）地貌"
+    ],
+    "correctAnswer": 3,
+    "explanation": "明代地理学家徐霞客历时三十余年游历考察，著成《徐霞客游记》，对西南地区喀斯特（石灰岩）地貌的成因和分布进行了世界上最早的详细记述。该书既是科学著作，也是优美的文学游记。"
+  },
+  {
+    "id": "chinese-history-136",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "16世纪末，日本丰臣秀吉两度入侵朝鲜，明朝出兵援朝，这场战争史称？",
+    "options": [
+      "洪武北伐",
+      "万历朝鲜之役",
+      "甲午战争",
+      "土木之变"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1592年和1597年，日本丰臣秀吉两度侵略朝鲜，明朝派兵援朝并大败日军，史称万历朝鲜之役（朝鲜称「壬辰倭乱」）。这场战争不仅保卫了朝鲜，也挫败了日本扩张的野心。"
+  },
+  {
+    "id": "chinese-history-137",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "隋朝的建立者、开国皇帝是谁？",
+    "options": [
+      "杨坚",
+      "杨广",
+      "李渊",
+      "李密"
+    ],
+    "correctAnswer": 0,
+    "explanation": "581年北周外戚杨坚代周建隋，定都长安，史称隋文帝；杨广是其子隋炀帝，李渊是唐朝开国皇帝，李密是隋末瓦岗起义军首领。"
+  },
+  {
+    "id": "chinese-history-138",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "唐朝的开国皇帝是谁？",
+    "options": [
+      "李世民",
+      "李隆基",
+      "李治",
+      "李渊"
+    ],
+    "correctAnswer": 3,
+    "explanation": "617年李渊在太原起兵，618年称帝建唐，即唐高祖；李世民是他的儿子（唐太宗），李治是高宗，李隆基是唐玄宗。"
+  },
+  {
+    "id": "chinese-history-139",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "李白被后人尊称为什么？",
+    "options": [
+      "诗圣",
+      "诗魔",
+      "诗鬼",
+      "诗仙"
+    ],
+    "correctAnswer": 3,
+    "explanation": "李白诗风豪放飘逸，被尊为'诗仙'；'诗圣'是杜甫，'诗魔'是白居易，'诗鬼'是晚唐诗人李贺。"
+  },
+  {
+    "id": "chinese-history-140",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "'开元盛世'出现在哪位皇帝统治时期？",
+    "options": [
+      "唐太宗",
+      "唐高宗",
+      "唐中宗",
+      "唐玄宗"
+    ],
+    "correctAnswer": 3,
+    "explanation": "唐玄宗李隆基在位前期励精图治，年号开元（713—741年），唐朝进入全盛时期，史称'开元盛世'。"
+  },
+  {
+    "id": "chinese-history-141",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "隋朝大运河是由哪位皇帝下令开凿的？",
+    "options": [
+      "隋文帝",
+      "隋炀帝",
+      "唐太宗",
+      "武则天"
+    ],
+    "correctAnswer": 1,
+    "explanation": "605年起隋炀帝杨广下令开凿大运河，以洛阳为中心，北抵涿郡、南达余杭，全长两千多公里，沟通海河、黄河、淮河、长江、钱塘江五大水系。"
+  },
+  {
+    "id": "chinese-history-142",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "科举制中的'进士科'是由哪位皇帝正式设置的？",
+    "options": [
+      "隋文帝",
+      "唐太宗",
+      "隋炀帝",
+      "武则天"
+    ],
+    "correctAnswer": 2,
+    "explanation": "隋炀帝大业年间设置进士科，标志科举制度正式形成；隋文帝只是废除九品中正制、开始分科考试，唐太宗、武则天是后来的完善者，这是常考易混点。"
+  },
+  {
+    "id": "chinese-history-143",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "隋唐三省六部制中，负责执行政令的是哪一省？",
+    "options": [
+      "尚书省",
+      "中书省",
+      "门下省",
+      "内史省"
+    ],
+    "correctAnswer": 0,
+    "explanation": "三省分工：中书省草拟诏令，门下省审核封驳，尚书省负责执行，下设吏、户、礼、兵、刑、工六部；内史省只是隋朝对中书省的称呼，并非第四省。"
+  },
+  {
+    "id": "chinese-history-144",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "626年玄武门之变中，李世民除掉了哪两个人？",
+    "options": [
+      "太子李建成和齐王李元吉",
+      "父亲李渊和太子李建成",
+      "李建成和程咬金",
+      "李密和王世充"
+    ],
+    "correctAnswer": 0,
+    "explanation": "626年李世民在玄武门发动政变，杀死太子李建成和齐王李元吉，随后即位为唐太宗；政变对象并不包括其父李渊，李渊事后不久便退位成为太上皇。"
+  },
+  {
+    "id": "chinese-history-145",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "文成公主入藏和亲，嫁给了哪位吐蕃赞普？",
+    "options": [
+      "尺带珠丹",
+      "禄东赞",
+      "赤松德赞",
+      "松赞干布"
+    ],
+    "correctAnswer": 3,
+    "explanation": "641年唐太宗将文成公主嫁给松赞干布，促进了唐蕃友好与汉藏文化交流；尺带珠丹迎娶的是金城公主，禄东赞是吐蕃求婚使者兼大臣，多与文成公主故事混记。"
+  },
+  {
+    "id": "chinese-history-146",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "标志着唐朝由盛转衰的'安史之乱'是由谁发动的？",
+    "options": [
+      "黄巢和朱温",
+      "李密和翟让",
+      "安禄山和史思明",
+      "安禄山和黄巢"
+    ],
+    "correctAnswer": 2,
+    "explanation": "755年安禄山、史思明在范阳起兵叛乱，史称安史之乱，历时八年，唐朝从此由盛转衰并出现藩镇割据；黄巢起义发生在唐末，李密、翟让是隋末瓦岗军首领。"
+  },
+  {
+    "id": "chinese-history-147",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "唐代高僧鉴真先后六次东渡，最终抵达哪个国家传播佛法文化？",
+    "options": [
+      "天竺",
+      "日本",
+      "波斯",
+      "新罗"
+    ],
+    "correctAnswer": 1,
+    "explanation": "鉴真历经磨难六次东渡，753年第六次成功抵达日本，传播佛法、医药、书法等，并主持修建唐招提寺；前往天竺取经并著《大唐西域记》的是玄奘。"
+  },
+  {
+    "id": "chinese-history-148",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "科举考试中由皇帝亲自主持的'殿试'首创于哪位皇帝？",
+    "options": [
+      "唐太宗",
+      "唐高宗",
+      "唐玄宗",
+      "武则天"
+    ],
+    "correctAnswer": 3,
+    "explanation": "武则天主政时首创殿试（皇帝亲试举人）和武举，并扩大科举取士规模；唐太宗时科举以进士、明经两科为主，唐玄宗时诗赋成为进士科主要考试内容，殿试皆晚于武则天时期。"
+  },
+  {
+    "id": "chinese-history-149",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "唐代的'两税法'是由哪位大臣主持推行的？",
+    "options": [
+      "杨炎",
+      "姚崇",
+      "李林甫",
+      "王安石"
+    ],
+    "correctAnswer": 0,
+    "explanation": "780年（唐德宗建中元年）宰相杨炎推行两税法，按土地和财产多少分夏、秋两季征税，改变了以人丁为主的赋税制度；姚崇、李林甫是唐玄宗时的宰相，王安石是北宋人。"
+  },
+  {
+    "id": "chinese-history-150",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "世界上现存最早、标有确切年代的雕版印刷品是下列哪一件？",
+    "options": [
+      "《大唐西域记》",
+      "《道德经》",
+      "《金刚经》",
+      "《兰亭集序》"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1900年在敦煌发现的唐咸通九年（868年）刻本《金刚经》，是世界上现存最早、有确切日期的雕版印刷品；《大唐西域记》为玄奘手著流传，《兰亭集序》是书法作品。"
+  },
+  {
+    "id": "chinese-history-151",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "世界上第一次实测子午线长度，是由哪位唐代科学家主持完成的？",
+    "options": [
+      "僧一行",
+      "孙思邈",
+      "李淳风",
+      "郭守敬"
+    ],
+    "correctAnswer": 0,
+    "explanation": "唐玄宗开元年间，僧一行（俗名张遂）主持在全国十三个地点实测子午线长度，这在世界上是第一次，并据此编制《大衍历》；孙思邈是医药学家，李淳风是天文历算家，郭守敬是元代人。"
+  },
+  {
+    "id": "chinese-history-152",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "907年朱温废唐哀帝称帝、建立后梁，唐朝就此灭亡。这标志着哪一历史时期的开始？",
+    "options": [
+      "隋朝统一全国",
+      "五代十国时期",
+      "安史之乱爆发",
+      "黄巢起义爆发"
+    ],
+    "correctAnswer": 1,
+    "explanation": "907年朱温在开封称帝建立后梁，唐朝灭亡，五代十国时期正式开始；安史之乱爆发于755年、黄巢起义爆发于875年，都在唐朝灭亡之前。"
+  },
+  {
+    "id": "chinese-history-153",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "唐朝租庸调制中，'庸'具体指什么？",
+    "options": [
+      "缴纳定量的谷物",
+      "纳绢或布代替服徭役",
+      "缴纳定量的绢或布",
+      "抽签服兵役"
+    ],
+    "correctAnswer": 1,
+    "explanation": "租庸调制以人丁为本：'租'是缴纳谷物，'调'是缴纳绢布，'庸'指不去服徭役的人可以纳绢或布代役，保证了农民的生产时间，三者含义是常考的易混点。"
+  },
+  {
+    "id": "chinese-history-154",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "春秋时期第一个称霸中原、打出「尊王攘夷」旗号的诸侯是谁？",
+    "options": [
+      "齐桓公",
+      "宋襄公",
+      "秦穆公",
+      "楚庄王"
+    ],
+    "correctAnswer": 0,
+    "explanation": "齐桓公在管仲辅佐下「尊王攘夷」，会盟诸侯，成为春秋第一位霸主。宋襄公、秦穆公也是《史记》所记「春秋五霸」的说法之一，常被拿来和齐桓公记混。"
+  },
+  {
+    "id": "chinese-history-155",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "「战国七雄」不包括下列哪个诸侯国？",
+    "options": [
+      "齐",
+      "鲁",
+      "楚",
+      "魏"
+    ],
+    "correctAnswer": 1,
+    "explanation": "战国七雄指齐、楚、燕、韩、赵、魏、秦七国。鲁国春秋时还是重要诸侯，战国时逐渐衰落，最终为楚国所灭，不在七雄之列。"
+  },
+  {
+    "id": "chinese-history-156",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "儒家学派中，被后世尊为「亚圣」的思想家是谁？",
+    "options": [
+      "孔子",
+      "荀子",
+      "孟子",
+      "曾子"
+    ],
+    "correctAnswer": 2,
+    "explanation": "孟子继承并发展了孔子的学说，主张「仁政」和「民贵君轻」，被后世尊为「亚圣」，与孔子并称「孔孟」。别把他和主张「性恶论」的荀子弄混。"
+  },
+  {
+    "id": "chinese-history-157",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "成语「纸上谈兵」典故的主人公是哪位赵国将领？",
+    "options": [
+      "赵括",
+      "白起",
+      "蒙恬",
+      "赵奢"
+    ],
+    "correctAnswer": 0,
+    "explanation": "赵括是名将赵奢之子，只会夸夸其谈，长平之战中取代廉颇后惨败于白起。他的父亲赵奢是赫赫有名的战将，题目问的是儿子赵括。"
+  },
+  {
+    "id": "chinese-history-158",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "道家学派的创始人是哪位思想家？",
+    "options": [
+      "老子",
+      "孔子",
+      "庄子",
+      "孟子"
+    ],
+    "correctAnswer": 0,
+    "explanation": "老子（李耳）是道家创始人，著《道德经》，主张「无为而治」「道法自然」。庄子是道家此后的集大成者，常与老子并称「老庄」，但创始人不是他。"
+  },
+  {
+    "id": "chinese-history-159",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "战国末年「荆轲刺秦王」中，荆轲受燕太子丹之托要刺杀的是哪位君主？",
+    "options": [
+      "韩王",
+      "赵王",
+      "秦王",
+      "楚王"
+    ],
+    "correctAnswer": 2,
+    "explanation": "公元前227年，荆轲受燕太子丹之托刺杀秦王嬴政，图穷匕见却功败垂成。他刺的是日后统一六国的秦始皇，可别记成其他国家的君王。"
+  },
+  {
+    "id": "chinese-history-160",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "「三家分晋」中，最终瓜分晋国的是哪三家？",
+    "options": [
+      "齐、楚、燕",
+      "韩、赵、魏",
+      "秦、楚、齐",
+      "韩、赵、燕"
+    ],
+    "correctAnswer": 1,
+    "explanation": "韩、赵、魏三家大夫瓜分了晋国，因此这三家又称「三晋」，后来跻身战国七雄。选项里的齐、楚、燕虽然也是七雄，却不是由晋国分裂而来的。"
+  },
+  {
+    "id": "chinese-history-161",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "桂陵之战中，为齐国献上「围魏救赵」之计、大败魏军的军师是谁？",
+    "options": [
+      "田忌",
+      "庞涓",
+      "孙膑",
+      "乐毅"
+    ],
+    "correctAnswer": 2,
+    "explanation": "公元前354年魏国围攻赵都邯郸，齐国救赵时避实击虚直捣魏都大梁，迫使魏军回援，次年（前353年）在桂陵大败魏军，「围魏救赵」由此得名。计谋出自军师孙膑，主帅田忌只是执行者，别选错。"
+  },
+  {
+    "id": "chinese-history-162",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "城濮之战中上演「退避三舍」、最终击败楚军称霸的是哪位晋国国君？",
+    "options": [
+      "晋文公",
+      "晋襄公",
+      "晋景公",
+      "晋悼公"
+    ],
+    "correctAnswer": 0,
+    "explanation": "晋文公重耳流亡楚国时曾许诺「退避三舍」，城濮之战中他兑现诺言后撤九十里，再大破楚军，会盟诸侯确立霸主地位——这正是「退避三舍」的来历。晋襄公是他的儿子，后三位都是其后的晋君。"
+  },
+  {
+    "id": "chinese-history-163",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "典故「问鼎中原」出自春秋时期的哪位霸主？",
+    "options": [
+      "齐桓公",
+      "晋文公",
+      "秦穆公",
+      "楚庄王"
+    ],
+    "correctAnswer": 3,
+    "explanation": "楚庄王进兵洛水之滨，向周定王的使者询问象征王权的九鼎轻重，暴露了取代周室的野心，「问鼎中原」由此而来。他的「一鸣惊人」典故也在春秋为人熟知。"
+  },
+  {
+    "id": "chinese-history-164",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "马陵之战中，中了孙膑「减灶诱敌」之计而兵败身死的魏军统帅是谁？",
+    "options": [
+      "庞涓",
+      "孙膑",
+      "赵括",
+      "白起"
+    ],
+    "correctAnswer": 0,
+    "explanation": "公元前341年孙膑以「减灶」示弱诱敌深入，设伏马陵，魏军主帅庞涓中计被围，自刎而死。庞涓与孙膑曾同门学兵法，同门相争的结局常让他俩弄混。"
+  },
+  {
+    "id": "chinese-history-165",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "战国时期主张六国「合纵」联合抗秦的代表人物是谁？",
+    "options": [
+      "张仪",
+      "苏秦",
+      "李斯",
+      "商鞅"
+    ],
+    "correctAnswer": 1,
+    "explanation": "「合纵」主张南北各国联合共同抗秦，代表人物是苏秦，传说他曾佩六国相印。张仪是反过来为秦国游说、主张「连横」的代表，两个人经常被记反。"
+  },
+  {
+    "id": "chinese-history-166",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "主张「性恶论」、强调「隆礼重法」的战国思想家是谁？",
+    "options": [
+      "孟子",
+      "荀子",
+      "董仲舒",
+      "韩非子"
+    ],
+    "correctAnswer": 1,
+    "explanation": "荀子认为人性本恶，须用「礼」规范、用「法」约束，即「隆礼重法」，与孟子「性善论」正好相对。他的学生韩非、李斯后来成为法家的代表人物。"
+  },
+  {
+    "id": "chinese-history-167",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "战国末期将「法、术、势」三者结合、被称为法家集大成者的思想家是谁？",
+    "options": [
+      "商鞅",
+      "申不害",
+      "韩非子",
+      "李悝"
+    ],
+    "correctAnswer": 2,
+    "explanation": "韩非子综合商鞅之「法」、申不害之「术」、慎到之「势」，是法家集大成者。商鞅重「法」、申不害重「术」，李悝则在魏国变法，各有所重，常被混淆成同一人。"
+  },
+  {
+    "id": "chinese-history-168",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "历史学界通常以哪个事件作为春秋与战国两个时期的分界标志？",
+    "options": [
+      "周平王东迁",
+      "长平之战",
+      "桂陵之战",
+      "三家分晋"
+    ],
+    "correctAnswer": 3,
+    "explanation": "学界多以「三家分晋」（公元前403年周威烈王册命韩、赵、魏为诸侯）作为战国开始的标志，《资治通鉴》也由此开篇。周平王东迁（前770年）标志的是东周开始、春秋揭开序幕，别搞混。"
+  },
+  {
+    "id": "chinese-history-169",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "「田氏代齐」中，被田氏取代的齐国，其开国始祖是哪位西周功臣？",
+    "options": [
+      "周公旦",
+      "姜太公",
+      "召公奭",
+      "微子启"
+    ],
+    "correctAnswer": 1,
+    "explanation": "齐国的开国始祖是辅佐武王伐纣的姜太公（吕尚），故齐国又称「姜齐」。战国初年田氏架空并取代姜氏，史称「田氏代齐」，齐国君主从此姓田不姓姜。周公旦封于鲁、召公奭封于燕、微子启封于宋。"
+  },
+  {
+    "id": "chinese-history-170",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "为秦国提出「远交近攻」策略、后被封为「应侯」的谋士是谁？",
+    "options": [
+      "张仪",
+      "范雎",
+      "魏冉",
+      "吕不韦"
+    ],
+    "correctAnswer": 1,
+    "explanation": "范雎向秦昭襄王献上「远交近攻」之策——交好远国、先攻邻国，使秦国蚕食六国的进程大大提速，他也因此受封应侯。张仪的高光时刻在秦惠文王时期、主打「连横」，两人常被混淆。"
+  },
+  {
+    "id": "chinese-history-171",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "公元前594年鲁国实行的、按土地亩数征收赋税的制度叫什么？",
+    "options": [
+      "初税亩",
+      "井田制",
+      "均田制",
+      "一条鞭法"
+    ],
+    "correctAnswer": 0,
+    "explanation": "鲁宣公十五年（前594年）鲁国推行「初税亩」，不论公田私田一律按亩收税，事实上承认了土地私有，标志着井田制开始瓦解。井田制是西周的旧制，初税亩正是要终结它。"
+  },
+  {
+    "id": "chinese-history-172",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "提出「白马非马」这一著名命题的先秦名家代表人物是谁？",
+    "options": [
+      "惠施",
+      "公孙龙",
+      "邹衍",
+      "许行"
+    ],
+    "correctAnswer": 1,
+    "explanation": "公孙龙以「白马非马」「离坚白」之辩闻名，是名家「离坚白」一派的代表。同属名家的惠施主张「合同异」，两人常被并列讨论，但「白马非马」明确是公孙龙的命题。"
+  },
+  {
+    "id": "chinese-history-173",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "战国「窃符救赵」的主人公，是战国四公子中的哪一位？",
+    "options": [
+      "平原君赵胜",
+      "信陵君魏无忌",
+      "孟尝君田文",
+      "春申君黄歇"
+    ],
+    "correctAnswer": 1,
+    "explanation": "秦军围赵都邯郸，信陵君魏无忌在门客侯嬴谋划下窃取魏王虎符、假传王命夺得晋鄙兵权，率兵救赵解围。四公子里赵有平原君、齐有孟尝君、楚有春申君，都是迷惑项。"
+  },
+  {
+    "id": "chinese-history-174",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "官渡之战打到胶着时，是谁从袁绍阵营连夜投奔曹操，献上奇袭乌巢的计策？",
+    "options": [
+      "许攸",
+      "郭嘉",
+      "荀攸",
+      "贾诩"
+    ],
+    "correctAnswer": 0,
+    "explanation": "许攸本是袁绍谋士，因家人被审配治罪而愤然投曹，建议曹操亲率轻兵夜袭乌巢烧毁袁军粮草，直接扭转了官渡战局。荀攸的成名作是白马之战的声东击西，郭嘉则提出了著名的「十胜十败」论。"
+  },
+  {
+    "id": "chinese-history-175",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "《三国演义》里「温酒斩华雄」让关羽一战成名，但按正史《三国志》的记载，真正击杀华雄的是谁？",
+    "options": [
+      "关羽",
+      "孙坚",
+      "潘凤",
+      "吕布"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《三国志·孙破虏讨逆传》记载，孙坚在阳人之战中大破董卓军，「枭其都督华雄」。罗贯中把这份功劳「借」给了关羽，至于「上将潘凤」，纯粹是演义里的搞笑担当。"
+  },
+  {
+    "id": "chinese-history-176",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "魏、蜀、吴三国正式称帝的顺序有先后，其中最晚称帝的是谁？",
+    "options": [
+      "曹丕",
+      "刘备",
+      "孙权",
+      "司马昭"
+    ],
+    "correctAnswer": 2,
+    "explanation": "曹丕220年称帝、刘备221年称帝，孙权却拖到229年才登基，此前还一度接受曹丕册封的「吴王」。而司马昭一生都没称帝，称帝的是他儿子司马炎。"
+  },
+  {
+    "id": "chinese-history-177",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "《三国演义》写庞统献连环计、诸葛亮借东风，但《三国志》明确记载，赤壁之战中最早向周瑜提出火攻之计的是谁？",
+    "options": [
+      "周瑜",
+      "庞统",
+      "诸葛亮",
+      "黄盖"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《三国志·周瑜传》记载黄盖进言：「今寇众我寡，难与持久。然观操军船舰首尾相接，可烧而走也。」随后他还亲自诈降、点火冲阵。正史里曹军战船是曹操自己连起来的，「庞统献连环」纯属演义加戏。"
+  },
+  {
+    "id": "chinese-history-178",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "「草船借箭」是诸葛亮的招牌神操作，但裴松之注引《魏略》记载的「借箭」原型故事，主角其实是谁？",
+    "options": [
+      "诸葛亮",
+      "孙权",
+      "周瑜",
+      "吕蒙"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《魏略》记载濡须之战时孙权乘大船侦察曹营，曹军万箭齐发射满船身一侧，船身倾斜，孙权下令调转船头让另一面受箭，船平衡后从容返航。这段经历被罗贯中移花接木安到了诸葛亮头上。"
+  },
+  {
+    "id": "chinese-history-179",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "曹操一生「挟天子以令诸侯」却始终没有称帝，那么他生前获得的最高爵位封号是什么？",
+    "options": [
+      "魏武帝",
+      "丞相",
+      "魏王",
+      "魏公"
+    ],
+    "correctAnswer": 2,
+    "explanation": "曹操213年封魏公、216年进爵魏王，这是两汉人臣的爵位天花板。「魏武帝」是他死后曹丕称帝时追尊的庙号称谓，而「丞相」是官职不是爵位。"
+  },
+  {
+    "id": "chinese-history-180",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "刘备夷陵大败后退守白帝城，上演了著名的「白帝城托孤」。这座城位于今天的哪里？",
+    "options": [
+      "湖北宜昌",
+      "四川成都",
+      "陕西汉中",
+      "重庆奉节"
+    ],
+    "correctAnswer": 3,
+    "explanation": "白帝城在今重庆市奉节县瞿塘峡口的白帝山上，李白「朝辞白帝彩云间」说的也是这里。顺带一提，托孤时刘备对诸葛亮说的是「君可自取」，堪称史上最重的嘱托。"
+  },
+  {
+    "id": "chinese-history-181",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "赵云在演义里是「五虎上将」，但正史中刘备只封了前后左右四方将军。赵云一生担任过的最高军职是？",
+    "options": [
+      "镇东将军",
+      "骠骑将军",
+      "车骑将军",
+      "卫将军"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《三国志·赵云传》记载，建兴元年赵云由中护军、征南将军「迁镇东将军」，直到建兴七年病逝。蜀汉的骠骑将军是马超、车骑将军是张飞——正史中并没有「五虎上将」这个编制，那是演义的说法。"
+  },
+  {
+    "id": "chinese-history-182",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "「司马昭之心，路人皆知」这句名言，出自曹魏哪位皇帝之口？",
+    "options": [
+      "曹芳",
+      "曹奂",
+      "曹髦",
+      "汉献帝刘协"
+    ],
+    "correctAnswer": 2,
+    "explanation": "说这话的是高贵乡公曹髦（曹丕之孙），见《汉晋春秋》。260年他不甘做傀儡，率宫中僮仆讨伐司马昭，途中被成济当街弑杀，年仅十九岁——这份血性在亡国之君里相当罕见。"
+  },
+  {
+    "id": "chinese-history-183",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "关羽字「云长」人尽皆知，但《三国志》记载他最早其实另有一个字，后来才改为云长。关羽的「本字」是什么？",
+    "options": [
+      "文长",
+      "长生",
+      "汉升",
+      "仲达"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《三国志·关羽传》开篇就写「关羽字云长，本字长生」。顺便送个冷知识：正史里张飞字「益德」，而不是演义里的「翼德」。"
+  },
+  {
+    "id": "chinese-history-184",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "夷陵之战刘备惨败，蜀军有一位将领因退路被吴军截断、走投无路而投降了曹魏，他是谁？",
+    "options": [
+      "马良",
+      "冯习",
+      "傅肜",
+      "黄权"
+    ],
+    "correctAnswer": 3,
+    "explanation": "黄权当时率江北军防备曹魏，刘备兵败后他的归路被吴军切断，只能降魏。马良遇害、冯习与傅肜战死。刘备知道后说「孤负黄权，权不负孤也」，依然善待黄权留在蜀汉的家属，气度令人佩服。"
+  },
+  {
+    "id": "chinese-history-185",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "263年魏灭蜀之战中，是谁率奇兵偷渡阴平小道、翻越摩天岭，直插成都迫使刘禅投降？",
+    "options": [
+      "邓艾",
+      "钟会",
+      "司马昭",
+      "羊祜"
+    ],
+    "correctAnswer": 0,
+    "explanation": "邓艾率精兵穿越七百里阴平无人区，遇绝壁时以毛毡裹身滚下山崖，随后破江油、克绵竹，兵临成都。当时钟会还在剑阁和姜维对峙。可惜邓艾灭蜀后遭钟会诬陷，最终父子被杀。"
+  },
+  {
+    "id": "chinese-history-186",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "演义中周瑜被诸葛亮「三气」而亡，纯属虚构。按《三国志》记载，周瑜是在准备西取益州的途中病逝于何处？",
+    "options": [
+      "柴桑",
+      "江陵",
+      "巴丘",
+      "夏口"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《三国志·周瑜传》记载周瑜准备入川伐蜀，「还江陵，为行装，而道于巴丘病卒，时年三十六」。江陵只是他原定出发筹备的地方，「既生瑜何生亮」的遗言更是子虚乌有。"
+  },
+  {
+    "id": "chinese-history-187",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "逍遥津之战孙权败退，津桥已被拆去一丈多。是谁跟在孙权马后扬鞭助势，帮他的坐骑飞跃断桥逃出生天？",
+    "options": [
+      "凌统",
+      "周泰",
+      "贺齐",
+      "谷利"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《江表传》记载：孙权骑马冲桥，桥南已拆，谷利在马后「著鞭，以助马势」，孙权才得以飞越。凌统当时率三百亲兵死战断后，贺齐则率三千人在津南接应——分工明确，但抽鞭子的是谷利。"
+  },
+  {
+    "id": "chinese-history-188",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "曹操为立嗣私下征询贾诩，贾诩沉默良久后说：「我在想袁绍、刘表父子的事。」这句意味深长的话帮谁敲定了世子之位？",
+    "options": [
+      "曹植",
+      "曹丕",
+      "曹彰",
+      "曹冲"
+    ],
+    "correctAnswer": 1,
+    "explanation": "袁绍、刘表都因废长立幼导致内乱败亡，贾诩一句话点醒曹操「立长不立贤」，曹丕的太子之位就此尘埃落定。贾诩全程没提一个「丕」字，却是曹魏夺嫡中最致命的一击，毒士果然名不虚传。"
+  },
+  {
+    "id": "chinese-history-189",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "裴松之驳斥「空城计」时指出：西城之围发生时，司马懿根本不在前线——他当时的职务与驻地是？",
+    "options": [
+      "坐镇洛阳辅政",
+      "都督关中、镇守长安",
+      "荆州都督、镇守宛城",
+      "留守许昌拱卫都城"
+    ],
+    "correctAnswer": 2,
+    "explanation": "裴松之在注中反驳：诸葛亮屯阳平时，司马懿尚为荆州都督、镇守宛城，直到曹真死后才到关中与诸葛亮对峙。两人当时相隔千里，这出「弹琴退仲达」的对手戏根本无从上演。"
+  },
+  {
+    "id": "chinese-history-190",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "吕蒙「白衣渡江」偷袭荆州，让精兵藏于船中，摇橹的士兵一律身穿白衣，伪装成什么身份瞒过关羽的沿江哨所？",
+    "options": [
+      "渔民",
+      "驿使",
+      "商人",
+      "降卒"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《三国志·吕蒙传》记载吕蒙「使白衣摇橹，作商贾人服，昼夜兼行」，把船队伪装成商队，一路拔掉关羽设置的烽火台哨兵。这里的「白衣」指平民便服，并非穿白衣服那么字面。"
+  },
+  {
+    "id": "chinese-history-191",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "诸葛亮去世后，蜀汉有一个官职从此再未授予任何人，蒋琬、费祎、姜维都无缘担任。这个官职是？",
+    "options": [
+      "丞相",
+      "大将军",
+      "大司马",
+      "尚书令"
+    ],
+    "correctAnswer": 0,
+    "explanation": "诸葛亮死后蜀汉不再设丞相，蒋琬以大司马、费祎与姜维以大将军先后主政，尚书令也一直有人担任（如蒋琬、费祎、董允）。「丞相」二字从此成了诸葛亮的专属标签。"
+  },
+  {
+    "id": "chinese-history-192",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "关羽在襄樊之战水淹七军、擒于禁斩庞德，吓得曹操想迁都避锋芒。《三国志》用哪个四字评语形容他当时的威势？",
+    "options": [
+      "威震四海",
+      "威震华夏",
+      "名震天下",
+      "威加海内"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《三国志·关羽传》原文「羽威震华夏，曹公议徙许都以避其锐」。这是整部《三国志》里独一份的待遇，「威震华夏」四个字后来也成了关羽的专属标签。"
+  },
+  {
+    "id": "chinese-history-193",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "诸葛亮第四次北伐因粮尽退军，一位曹魏名将不听劝阻执意追击，在木门道中箭身亡。他是谁？",
+    "options": [
+      "郭淮",
+      "曹真",
+      "张郃",
+      "夏侯渊"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《三国志·张郃传》记载张郃追至木门，「飞矢中郃右膝，薨」。有说法称主帅司马懿强令追击，让本已看出「归师勿遏」的张郃送命。夏侯渊则早在这之前二十年就死于定军山了。"
+  },
+  {
+    "id": "chinese-history-194",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "关羽丢荆州后「败走麦城」，最终身首异处。这座留下千古之叹的麦城，遗址位于今天湖北哪座城市？",
+    "options": [
+      "江陵",
+      "襄阳",
+      "公安",
+      "当阳"
+    ],
+    "correctAnswer": 3,
+    "explanation": "麦城遗址在今湖北省当阳市两河镇。巧合的是，赵云血战的长坂坡也在当阳——同一座城，见证了蜀汉五虎将最辉煌与最悲情的两个瞬间。"
+  },
+  {
+    "id": "chinese-history-195",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "252年孙权刚去世，司马昭便三路伐吴，结果在东兴之战中大败而归。指挥吴军打赢这一仗的主帅是谁？",
+    "options": [
+      "诸葛恪",
+      "丁奉",
+      "陆逊",
+      "陆抗"
+    ],
+    "correctAnswer": 0,
+    "explanation": "东兴之战的主帅是诸葛恪（诸葛亮之侄），他率四万大军驰援东兴。丁奉「雪中奋短兵」率敢死队突袭魏军前部、立下头功，但他是前锋而非主帅。此战后诸葛恪声望达到顶峰，次年却因新城惨败身死族灭。"
+  },
+  {
+    "id": "chinese-history-196",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "「髀肉复生」的典故里，刘备上厕所时发现自己大腿长了赘肉，悲叹岁月虚度、功业未成。当时他正寄居在谁的地盘上？",
+    "options": [
+      "曹操",
+      "刘表",
+      "吕布",
+      "袁绍"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《九州春秋》记载刘备在荆州依附刘表数年，一次席间如厕，「见髀里肉生，慨然流涕」。久不骑马征战，大腿自然长肉——这份壮志未酬的焦虑，后来成了「髀肉复生」这个成语。"
+  },
+  {
+    "id": "chinese-history-197",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "曹操曾隔江遥望孙权的军容，喟然长叹「生子当如孙仲谋，刘景升儿子若豚犬耳」。这句著名感叹是在哪次对峙中发出的？",
+    "options": [
+      "赤壁之战",
+      "合肥之战",
+      "汉中之战",
+      "濡须之战"
+    ],
+    "correctAnswer": 3,
+    "explanation": "裴松之注引《吴历》记载，213年濡须之战中曹操见孙权水军「舟船器仗军伍整肃」，发出这句感叹。辛弃疾「生子当如孙仲谋」的名句就化用自此，而「刘景升儿子」指的是坐拥荆州却拱手投降的刘琮。"
+  },
+  {
+    "id": "chinese-history-198",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "曹操「煮酒论英雄」，说出「今天下英雄，惟使君与操耳」的那一刻，正在吃饭的刘备有什么失态反应？",
+    "options": [
+      "惊得筷子勺子掉落在地",
+      "当场大笑连声称不敢",
+      "举杯回敬一饮而尽",
+      "起身告辞拂袖而去"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《三国志·先主传》记载「先主方食，失匕箸」——刘备吓得匙筷都掉了。《华阳国志》补充恰好一声惊雷，刘备顺势掩饰说「迅雷风烈必变」，堪称教科书级的临场急智。"
+  },
+  {
+    "id": "chinese-history-199",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "「桃园三结义」里，除了刘备和关羽，第三位磕头结拜的兄弟是谁？",
+    "options": [
+      "赵云",
+      "张飞",
+      "诸葛亮",
+      "马超"
+    ],
+    "correctAnswer": 1,
+    "explanation": "桃园结义的三兄弟是刘备、关羽、张飞，誓词「不求同年同月同日生，但愿同年同月同日死」流传千古。正史中三人只是「恩若兄弟」，结拜仪式是《三国演义》的艺术创作。"
+  },
+  {
+    "id": "chinese-history-200",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "刘备「三顾茅庐」，冒着风雪跑了三趟隆中，诚心请出山的是哪位高人？",
+    "options": [
+      "庞统",
+      "徐庶",
+      "诸葛亮",
+      "司马徽"
+    ],
+    "correctAnswer": 2,
+    "explanation": "三顾茅庐请的是「卧龙」诸葛亮，一篇《隆中对》就把三分天下安排得明明白白。顺便记住：卧龙是诸葛亮，凤雏是庞统，推荐他们的「水镜先生」则是司马徽。"
+  },
+  {
+    "id": "chinese-history-201",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "行军途中士兵口渴难耐，一句「前面有片大梅林」让大家口水直流、忘了口渴。想出这招「望梅止渴」的是谁？",
+    "options": [
+      "刘备",
+      "诸葛亮",
+      "孙权",
+      "曹操"
+    ],
+    "correctAnswer": 3,
+    "explanation": "「望梅止渴」出自《世说新语》，主角是曹操。士兵们想到酸梅嘴里生津，靠精神胜利法撑到了水源——堪称心理暗示的祖师爷级操作。"
+  },
+  {
+    "id": "chinese-history-202",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "长坂桥头，谁横矛立马、一声怒吼「我乃燕人张翼德也，谁敢与我决一死战」，吓得曹操大军不敢上前？",
+    "options": [
+      "张飞",
+      "关羽",
+      "赵云",
+      "吕布"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《三国演义》里张飞连声大喝，曹军将领夏侯杰竟被吓得坠马而死，曹军掉头就跑。正史也记载张飞「据水断桥」瞋目横矛喝退追兵——嗓门大真的能当武器。"
+  },
+  {
+    "id": "chinese-history-203",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "《三国演义》中，关羽中了毒箭后「刮骨疗毒」，一边开刀一边喝酒下棋、面不改色。为他操刀的神医是谁？",
+    "options": [
+      "张仲景",
+      "董奉",
+      "华佗",
+      "扁鹊"
+    ],
+    "correctAnswer": 2,
+    "explanation": "演义里为关羽刮骨去毒的是名医华佗，手术全程关羽谈笑自若，把华佗都看呆了。不过正史《三国志》虽确有其事，却没记载医生的姓名，这段高光算是华佗「借」来的。"
+  },
+  {
+    "id": "chinese-history-204",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "蜀汉灭亡后，哪位后主被带到洛阳，在宴会上笑呵呵地说出「此间乐，不思蜀」这句名言？",
+    "options": [
+      "刘谌",
+      "刘禅",
+      "孙皓",
+      "曹奂"
+    ],
+    "correctAnswer": 1,
+    "explanation": "司马昭设宴，蜀地歌舞一响，蜀汉旧臣个个落泪，只有刘禅看得开心：「此间乐，不思蜀。」成语「乐不思蜀」就此诞生，他也坐稳了「扶不起的阿斗」这个称号。"
+  },
+  {
+    "id": "chinese-history-205",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "「出师未捷身先死，长使英雄泪满襟」——诸葛亮最后一次北伐时积劳成疾，病逝于何处？",
+    "options": [
+      "白帝城",
+      "定军山",
+      "街亭",
+      "五丈原"
+    ],
+    "correctAnswer": 3,
+    "explanation": "234年，诸葛亮病逝于五丈原（今陕西岐山南）军中，享年五十四岁。蜀军撤退时推出他的木像，竟把追来的司马懿吓跑，留下「死诸葛能走生仲达」的段子。"
+  },
+  {
+    "id": "chinese-history-206",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "「人中吕布，马中赤兔」——《三国演义》中吕布败亡后，曹操把赤兔马赠给了哪位猛将，从此它驮着主人过五关斩六将？",
+    "options": [
+      "关羽",
+      "黄忠",
+      "张辽",
+      "徐晃"
+    ],
+    "correctAnswer": 0,
+    "explanation": "吕布死后赤兔归了曹操，曹操为笼络关羽将马相赠。后来关羽骑着它斩颜良、过五关，赤兔也成了「忠义座驾」。正史只记载吕布有赤兔马，赠马关羽则是演义的加戏。"
+  },
+  {
+    "id": "chinese-history-207",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "曹丕逼弟弟曹植在七步之内作诗，否则问斩，曹植脱口而出的《七步诗》里，用什么东西比喻兄弟相残？",
+    "options": [
+      "梅花与雪",
+      "兰草与荆棘",
+      "豆子与豆萁",
+      "松柏与秋霜"
+    ],
+    "correctAnswer": 2,
+    "explanation": "「煮豆燃豆萁，豆在釜中泣。本是同根生，相煎何太急」——曹植用豆子和烧豆子的豆萁比喻兄弟本是一体却自相残杀，一句诗把曹丕说得脸上挂不住，这才饶了他一命。这个故事最早见于《世说新语》，是否完全属实史学界仍有争论，但丝毫不影响它成为千古名句。"
+  },
+  {
+    "id": "chinese-history-208",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "诸葛亮过江说服孙权联刘抗曹，「舌战群儒」的这场唇枪舌剑发生在东吴当时的驻地哪里？",
+    "options": [
+      "柴桑",
+      "建业",
+      "江陵",
+      "夏口"
+    ],
+    "correctAnswer": 0,
+    "explanation": "当时孙权的大本营还在柴桑（今江西九江一带），赤壁之战后势力东扩才迁往建业（今南京）。诸葛亮在柴桑舌战张昭、虞翻等一众文臣，一番「破曹兵、下荆州」的说辞，硬是把主降派怼得哑口无言。"
+  },
+  {
+    "id": "chinese-history-209",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "小说里「六出祁山」广为人知，但据《三国志》记载，诸葛亮一生实际发起北伐曹魏的次数是几次？",
+    "options": [
+      "四次",
+      "六次",
+      "七次",
+      "五次"
+    ],
+    "correctAnswer": 3,
+    "explanation": "正史中诸葛亮一生共北伐五次，其中真正兵出祁山的只有两次（第一次和第四次），其余几次分别走的是陈仓、武都阴平和斜谷道。「六出祁山」是《三国演义》为了叙事整齐，把北伐次数和「出祁山」画上等号才凑出来的说法。"
+  },
+  {
+    "id": "chinese-history-210",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "夷陵之战中，东吴年轻统帅用一把大火烧毁蜀军连绵数百里的营寨，大破刘备大军，这位统帅是谁？",
+    "options": [
+      "吕蒙",
+      "陆逊",
+      "周瑜",
+      "陆抗"
+    ],
+    "correctAnswer": 1,
+    "explanation": "陆逊当时不过三十多岁，却顶住蜀军咄咄逼人的攻势，坚守不出拖到酷暑，趁蜀军扎营于林木茂密处，一把火烧得刘备几乎全军覆没，狼狈逃回白帝城。陆逊之子陆抗后来也成了东吴名将，父子俩都是三国后期难得的顶梁柱。"
+  },
+  {
+    "id": "chinese-history-211",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "《三国演义》里促成王允离间董卓、吕布的绝色美女貂蝉，在陈寿所著的正史《三国志》中是什么情况？",
+    "options": [
+      "确有其人，正史立传",
+      "是董卓的义女",
+      "查无此人，纯属虚构",
+      "是吕布的原配妻子"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《三国志》里压根没有「貂蝉」这个名字，只记载吕布曾与董卓身边一名侍婢私通，因此心怀恐惧不安。罗贯中把这段语焉不详的记载，敷衍成了一整出「美人计离间董吕」的大戏，貂蝉也因此成了四大美女里唯一一位纯属虚构的角色。"
+  },
+  {
+    "id": "chinese-history-212",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "曹植千古名篇《洛神赋》，相传是他因思念一位女子而写，民间传说中这位女子是谁？",
+    "options": [
+      "甄宓",
+      "蔡文姬",
+      "大乔",
+      "孙尚香"
+    ],
+    "correctAnswer": 0,
+    "explanation": "民间传说曹植爱慕的是嫂子甄宓（曹丕之妻），甄氏死后曹植途经洛水，感梦而作《洛神赋》寄托哀思。不过这纯属后世附会的浪漫传说，正史里并无曹植与甄宓有私情的确凿记载，学界普遍认为可信度不高。"
+  },
+  {
+    "id": "chinese-history-213",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "神医华佗因忤逆曹操被下狱处死，临死前他想把一部医书托付给狱吏保存，狱吏却因害怕受牵连不敢收下，华佗最后是怎么处理这部医书的？",
+    "options": [
+      "偷偷埋在牢房墙角",
+      "硬塞给狱吏",
+      "托人带回家乡",
+      "忍痛当面烧毁"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《三国志·华佗传》记载，华佗见狱吏不敢接，也不强求，讨了把火当场把自己毕生医术烧了个干净。后世传说这部书就是《青囊经》，连曹操后来都为此懊悔不已——只是懊悔的多半是自己没了免费保健医，而非爱惜人才。"
+  },
+  {
+    "id": "chinese-history-214",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "张飞在阆中被部下范强、张达暗杀，两人砍下他的首级后，投奔的是谁？",
+    "options": [
+      "曹操",
+      "孙权",
+      "诸葛亮",
+      "刘禅"
+    ],
+    "correctAnswer": 1,
+    "explanation": "范强、张达因张飞常年鞭打士卒、限期三日置办白旗白甲祭奠关羽而走投无路，趁夜割了张飞首级顺江东下投奔孙权，把首级当作投名状献上。刘备闻讯只叹一句「噫！飞死矣」，果然是听到这消息就猜中了几分。"
+  },
+  {
+    "id": "chinese-history-215",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "「单刀赴会」经演义渲染成关羽只身赴东吴「鸿门宴」、气吞山河，但据《三国志·鲁肃传》记载，这场「单刀俱会」的会面方式其实是谁主动提议的？",
+    "options": [
+      "关羽",
+      "孙权",
+      "鲁肃",
+      "吕蒙"
+    ],
+    "correctAnswer": 2,
+    "explanation": "正史记载是鲁肃主动邀约关羽「各驻兵马百步上，但请将军单刀赴会」，双方隔着酒宴据理力争荆州归属，慷慨陈词、占据上风的其实是鲁肃而非关羽。演义把这场外交交涉，写成了关羽单刀赴宴、力压江东群英的个人秀。"
+  },
+  {
+    "id": "chinese-history-216",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "曹魏「五子良将」之一在襄樊之战中兵败投降关羽，辗转被送回魏国后，曹丕命人预先在陵屋墙壁上画好他兵败请降的耻辱画面羞辱他，他因此羞愧发病而死。这位名将是谁？",
+    "options": [
+      "于禁",
+      "徐晃",
+      "张郃",
+      "乐进"
+    ],
+    "correctAnswer": 0,
+    "explanation": "于禁跟随曹操三十余年、位列五子良将之首，却因水淹七军之败投降关羽，晚节不保。曹丕表面上安抚他，暗地里却命画工在陵屋墙壁画下「庞德愤怒、于禁乞降」的场景，于禁看后羞愤成疾，不久病逝，谥号竟是带贬义的「厉侯」。"
+  },
+  {
+    "id": "chinese-history-217",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "孙策遇刺重伤将死之际，把江东基业托付给弟弟孙权，留下「举江东之众，决机于两阵之间，卿不如我；举贤任能，各尽其心，以保江东」的遗言，这段话是对谁说的？",
+    "options": [
+      "周瑜",
+      "张昭",
+      "孙翊",
+      "孙权"
+    ],
+    "correctAnswer": 3,
+    "explanation": "孙策临终把印绶交给孙权，坦言论打仗孙权不如自己，但论用人识才、保境安民，自己反倒不如孙权——这份清醒的自我评估，堪称三国最早的「知人善任」教科书。至于「内事不决问张昭，外事不决问周瑜」，则是孙策对张昭另外交代的托付。"
+  },
+  {
+    "id": "chinese-history-218",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "汉献帝刘协将皇位「禅让」给曹丕后，被降封为什么？",
+    "options": [
+      "安乐公",
+      "山阳公",
+      "陈留王",
+      "魏公"
+    ],
+    "correctAnswer": 1,
+    "explanation": "刘协被封为山阳公，仍可用天子礼仪、食邑一万户，一直活到234年才去世，比曹丕还长寿了几年。有意思的是，三个亡国之君三种归宿各不相同：刘协封山阳公，蜀汉刘禅降魏后封安乐公，魏末代皇帝曹奂禅位给司马炎后则被封为陈留王。"
+  },
+  {
+    "id": "chinese-history-219",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "东吴有一对姐妹花「大乔、小乔」，大乔嫁给了孙策，小乔则嫁给了谁？",
+    "options": [
+      "孙策",
+      "孙权",
+      "周瑜",
+      "鲁肃"
+    ],
+    "correctAnswer": 2,
+    "explanation": "小乔嫁给了周瑜，一对姐妹分别嫁给了江东最耀眼的两位少年英雄。苏轼「小乔初嫁了，雄姿英发」写的就是周瑜，不过考据起来，小乔嫁给周瑜其实比赤壁之战早了十年，苏轼这句纯属文学夸张。"
+  },
+  {
+    "id": "chinese-history-220",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "「鞠躬尽瘁，死而后已」这句千古名言，出自诸葛亮的哪篇奏章？",
+    "options": [
+      "《后出师表》",
+      "《前出师表》",
+      "《隆中对》",
+      "《诫子书》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "「鞠躬尽瘁，死而后已」出自《后出师表》，广为人知的「受命以来，夙夜忧叹」「亲贤臣，远小人」则出自《前出师表》。冷知识：《后出师表》并未收录在陈寿《三国志》正文里，是裴松之注引《汉晋春秋》才得以流传，不少学者甚至怀疑它并非诸葛亮亲笔所作。"
+  },
+  {
+    "id": "chinese-history-221",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "《三国演义》里曹操疑心病重，扬言「吾梦中好杀人」，一次侍从好心为他盖被子，竟被他一剑杀死。事后曹操让人怎么处理这位侍从，来蒙骗众人相信自己真是梦游杀人？",
+    "options": [
+      "嫁祸给别的仆人顶罪",
+      "秘不发丧，悄悄丢弃尸体",
+      "当众杖责侍从的家人",
+      "命人厚葬，自己还假装痛哭"
+    ],
+    "correctAnswer": 3,
+    "explanation": "曹操命人将近侍收殓厚葬，自己还装模作样痛哭一场，唬得众人都信了「梦中杀人」这套说辞。唯独主簿杨修看穿真相，叹道「丞相非在梦中，君乃在梦中耳」——这份聪明，后来也成了杨修被曹操寻由杀掉的伏笔之一。"
+  },
+  {
+    "id": "chinese-history-222",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "诸葛亮初见刘备便定下三分天下之策，建议他先夺取哪个地方作为「立身之基」，再图取西川？",
+    "options": [
+      "江东",
+      "荆州",
+      "汉中",
+      "徐州"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这正是《隆中对》的核心战略——先取荆州立足，再取益州（西川）作根基，联合孙权、对抗曹操，待天下有变再两路出兵中原。刘备后来果然按这个蓝图一步步走，只可惜「跨有荆益」的局面没能守住多久，荆州就丢给了东吴。"
+  },
+  {
+    "id": "chinese-history-223",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "潼关之战中，马超杀得曹操狼狈逃窜，曹操情急之下用了什么办法企图蒙混过关、避免被认出？",
+    "options": [
+      "脱盔卸甲，扮作士卒",
+      "剃光头发，扮成和尚",
+      "割须弃袍",
+      "躲进死尸堆里装死"
+    ],
+    "correctAnswer": 2,
+    "explanation": "曹操先听见士兵喊「穿红袍的是曹操」，赶紧脱下红袍；又听见「长须者是曹操」，情急之下拔剑割掉胡须；最后干脆扯旗裹住下巴狼狈逃窜。「割须弃袍」由此成了他一生中最狼狈的名场面之一，后世还被改编成了戏曲桥段。"
+  },
+  {
+    "id": "chinese-history-224",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "奠定三国鼎立局面基础的著名战役是？",
+    "options": [
+      "官渡之战",
+      "赤壁之战",
+      "夷陵之战",
+      "淝水之战"
+    ],
+    "correctAnswer": 1,
+    "explanation": "208年孙刘联军在赤壁大败曹操主力，曹操退回北方，此后形成曹操据北方、孙权据江东、刘备据荆益的大势，三分格局逐渐奠定。"
+  },
+  {
+    "id": "chinese-history-225",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "赤壁之战中，孙吴方面实际指挥作战的主帅是？",
+    "options": [
+      "周瑜",
+      "鲁肃",
+      "吕蒙",
+      "陆逊"
+    ],
+    "correctAnswer": 0,
+    "explanation": "赤壁之战孙吴主帅为周瑜，他采纳黄盖火攻之策大破曹军；鲁肃主联刘，吕蒙、陆逊为后辈将领。"
+  },
+  {
+    "id": "chinese-history-226",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "曹操'挟天子以令诸侯'，其迎奉的'天子'是？",
+    "options": [
+      "汉质帝",
+      "汉献帝",
+      "汉灵帝",
+      "汉少帝"
+    ],
+    "correctAnswer": 1,
+    "explanation": "196年曹操迎汉献帝刘协至许都，取得'奉天子以令不臣'的政治优势；质帝、灵帝、少帝均为此前在位皇帝。"
+  },
+  {
+    "id": "chinese-history-227",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "曹丕代汉建魏后，曹魏的都城定于？",
+    "options": [
+      "洛阳",
+      "许昌",
+      "邺城",
+      "长安"
+    ],
+    "correctAnswer": 0,
+    "explanation": "曹操为汉相时曾奉天子都许，并以邺城为根本之地；220年曹丕称帝后正式定都洛阳。"
+  },
+  {
+    "id": "chinese-history-228",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "官渡之战中，曹操奇袭并焚毁袁绍囤粮基地而奠定胜局，该基地位于？",
+    "options": [
+      "白马",
+      "街亭",
+      "乌巢",
+      "阳平"
+    ],
+    "correctAnswer": 2,
+    "explanation": "200年曹操采纳许攸之计，亲率精骑夜袭乌巢，焚毁袁绍粮草辎重，袁军军心大乱而溃败。"
+  },
+  {
+    "id": "chinese-history-229",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "'白衣渡江'袭取荆州、使关羽败走麦城的主将是哪位吴将？",
+    "options": [
+      "陆逊",
+      "甘宁",
+      "周瑜",
+      "吕蒙"
+    ],
+    "correctAnswer": 3,
+    "explanation": "219年吕蒙让精兵伪装成商旅白衣渡江，奇袭南郡荆州，关羽腹背受敌，败走麦城后为吴军擒杀。"
+  },
+  {
+    "id": "chinese-history-230",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "公元249年'高平陵之变'中，司马懿诛除的曹魏宗室权臣是？",
+    "options": [
+      "曹植",
+      "曹真",
+      "曹爽",
+      "曹彰"
+    ],
+    "correctAnswer": 2,
+    "explanation": "249年司马懿趁曹爽随魏帝曹芳出谒高平陵之机发动政变，诛杀曹爽及其党羽，从此曹魏大权尽归司马氏。"
+  },
+  {
+    "id": "chinese-history-231",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "'士别三日，当刮目相待'的典故，说的是孙权劝哪位吴国将领读书成才？",
+    "options": [
+      "吕蒙",
+      "周瑜",
+      "陆逊",
+      "甘宁"
+    ],
+    "correctAnswer": 0,
+    "explanation": "孙权劝吕蒙、蒋钦多读书，吕蒙发愤苦学，鲁肃再见时惊叹他'非复吴下阿蒙'，吕蒙答'士别三日，即更刮目相待'。"
+  },
+  {
+    "id": "chinese-history-232",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "刘备于成都称帝后，其政权正式的国号是？",
+    "options": [
+      "蜀",
+      "汉",
+      "蜀汉",
+      "汉中"
+    ],
+    "correctAnswer": 1,
+    "explanation": "刘备以续承汉统自居，国号仍为'汉'（史称蜀汉、季汉）；'蜀'是《三国志》等后世史书及曹魏方面的称呼。"
+  },
+  {
+    "id": "chinese-history-233",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "关于'空城计'的情节，下列说法符合史实的是？",
+    "options": [
+      "出自《三国演义》的虚构创作，正史并无依据",
+      "确有其事，见于《三国志·诸葛亮传》",
+      "确有其事，见于《三国志·司马懿传》",
+      "为曹操在官渡之战时所用之计"
+    ],
+    "correctAnswer": 0,
+    "explanation": "诸葛亮以空城吓退司马懿出自《三国演义》，《三国志》正文及裴松之注均无记载，属演义虚构情节。"
+  },
+  {
+    "id": "chinese-history-234",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "关于关羽'刮骨疗毒'，下列说法符合正史的是？",
+    "options": [
+      "正史确载其事，施术者正是神医华佗",
+      "属《三国演义》虚构，正史并无记载",
+      "正史确载其事，但施术医者并非华佗",
+      "据正史，关羽中箭后从未医治"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《三国志·关羽传》确有'刮骨去毒'的记载，但未记医者姓名；华佗约在208年前已被曹操处死，而关羽刮骨在214年之后，故施术者不可能是华佗。"
+  },
+  {
+    "id": "chinese-history-235",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "正史中219年关羽'水淹七军'、擒于禁斩庞德的真相是？",
+    "options": [
+      "关羽于上游筑坝蓄水，决堤灌淹魏军",
+      "正值秋季大雨，汉水暴涨，于禁七军尽没",
+      "庞德临阵倒戈，于禁孤立无援所致",
+      "关羽先以火攻焚魏军水寨再引水淹之"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《三国志·关羽传》载'秋，大霖雨，汉水泛溢'，于禁七军被淹而降；筑坝放水是《三国演义》的渲染。"
+  },
+  {
+    "id": "chinese-history-236",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "「仁」是哪位先秦思想家思想体系的核心概念？",
+    "options": [
+      "老子",
+      "孔子",
+      "墨子",
+      "韩非子"
+    ],
+    "correctAnswer": 1,
+    "explanation": "孔子把「仁」视为儒家思想的核心，主张「仁者爱人」「克己复礼为仁」。「仁」后来成为中华伦理传统中最重要的价值之一。"
+  },
+  {
+    "id": "chinese-history-237",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "道家学派的开创者，相传著有《道德经》的是谁？",
+    "options": [
+      "庄子",
+      "列子",
+      "老子",
+      "杨朱"
+    ],
+    "correctAnswer": 2,
+    "explanation": "老子被尊为道家创始人，《道德经》（又称《老子》）以「道」为核心，主张「无为而治」「上善若水」。"
+  },
+  {
+    "id": "chinese-history-238",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "主张「兼爱」「非攻」，并创立了墨家学派的是谁？",
+    "options": [
+      "墨子",
+      "孟子",
+      "荀子",
+      "管子"
+    ],
+    "correctAnswer": 0,
+    "explanation": "墨子提出「兼爱」（无差别地爱所有人）和「非攻」（反对不义战争），墨家在战国时期与儒家并称「显学」。"
+  },
+  {
+    "id": "chinese-history-239",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "「性善论」是哪一位儒家代表人物的人性观？",
+    "options": [
+      "孔子",
+      "荀子",
+      "孟子",
+      "董仲舒"
+    ],
+    "correctAnswer": 2,
+    "explanation": "孟子主张「性善论」，认为人有「恻隐、羞恶、辞让、是非」四端，仁义礼智根植于人心。"
+  },
+  {
+    "id": "chinese-history-240",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "与孟子「性善论」相对，提出「性恶论」的儒家思想家是谁？",
+    "options": [
+      "孔子",
+      "荀子",
+      "韩非子",
+      "告子"
+    ],
+    "correctAnswer": 1,
+    "explanation": "荀子主张「人之性恶，其善者伪也」，认为人的善性来自后天的礼义教化和学习积累。"
+  },
+  {
+    "id": "chinese-history-241",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "法家思想的集大成者，著有《韩非子》的是谁？",
+    "options": [
+      "商鞅",
+      "李斯",
+      "申不害",
+      "韩非"
+    ],
+    "correctAnswer": 3,
+    "explanation": "韩非综合商鞅的「法」、申不害的「术」、慎到的「势」，形成系统的法家理论，对秦统一六国影响深远。"
+  },
+  {
+    "id": "chinese-history-242",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "「白马非马」这一著名命题出自先秦哪一学派？",
+    "options": [
+      "名家",
+      "阴阳家",
+      "纵横家",
+      "农家"
+    ],
+    "correctAnswer": 0,
+    "explanation": "「白马非马」是名家代表人物公孙龙的命题，名家专注于「名实之辩」，探讨概念与事物的关系。"
+  },
+  {
+    "id": "chinese-history-243",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "兵家经典《孙子兵法》的作者是谁？",
+    "options": [
+      "孙膑",
+      "孙武",
+      "吴起",
+      "白起"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《孙子兵法》相传由春秋末期齐国人孙武所作，是世界上现存最早的军事理论著作之一。"
+  },
+  {
+    "id": "chinese-history-244",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "「九流十家」中的「十家」除了儒、道、阴阳、法、名、墨、纵横、杂、农，还包括哪一家？",
+    "options": [
+      "兵家",
+      "医家",
+      "小说家",
+      "商家"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《汉书·艺文志》把先秦诸子分为「九流十家」，九流之外加上「小说家」合为十家，故有「小说家者流，盖出于稗官」之说。"
+  },
+  {
+    "id": "chinese-history-245",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "「治大国若烹小鲜」这句话出自哪部道家经典？",
+    "options": [
+      "《庄子》",
+      "《老子》",
+      "《列子》",
+      "《淮南子》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "「治大国若烹小鲜」出自《老子》第六十章，比喻治理大国要像煎小鱼一样谨慎，不可频繁翻动扰民。"
+  },
+  {
+    "id": "chinese-history-246",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "「天行有常，不为尧存，不为桀亡」体现了荀子的什么思想？",
+    "options": [
+      "天命不可违",
+      "自然运行有客观规律",
+      "君主受命于天",
+      "人性本善"
+    ],
+    "correctAnswer": 1,
+    "explanation": "荀子认为天（自然）的运行有其恒常规律，不因人的善恶而改变；人应当「制天命而用之」，发挥主观能动性。"
+  },
+  {
+    "id": "chinese-history-247",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "「民为贵，社稷次之，君为轻」出自哪部儒家典籍？",
+    "options": [
+      "《论语》",
+      "《孟子》",
+      "《大学》",
+      "《荀子》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这句话出自《孟子·尽心下》，集中体现了孟子的民本思想。"
+  },
+  {
+    "id": "chinese-history-248",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "主张「无为而治」「小国寡民」的思想家主要属于哪一派？",
+    "options": [
+      "儒家",
+      "道家",
+      "法家",
+      "墨家"
+    ],
+    "correctAnswer": 1,
+    "explanation": "老子在《道德经》中描绘「小国寡民」的理想社会，主张统治者「无为而治」，让百姓自然化育。"
+  },
+  {
+    "id": "chinese-history-249",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "「阴阳五行」学说在先秦主要由哪一家学派系统阐述并运用于政治历史解释？",
+    "options": [
+      "阴阳家",
+      "道家",
+      "儒家",
+      "医家"
+    ],
+    "correctAnswer": 0,
+    "explanation": "阴阳家以邹衍为代表，将阴阳消长与五行相生相克结合，用以解释自然变化和历史王朝的更替，如「五德终始说」。"
+  },
+  {
+    "id": "chinese-history-250",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "纵横家的代表人物苏秦、张仪，其主要活动是什么？",
+    "options": [
+      "著书立说，教授弟子",
+      "游说各国，推行合纵连横",
+      "改良农具，发展农业",
+      "主持变法，富国强兵"
+    ],
+    "correctAnswer": 1,
+    "explanation": "纵横家以鬼谷子为宗，擅长游说和权谋。苏秦主张「合纵」六国抗秦，张仪主张「连横」事秦，左右战国中后期的国际格局。"
+  },
+  {
+    "id": "chinese-history-251",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "「梦蝶」典故出自《庄子》中的哪一篇？",
+    "options": [
+      "《逍遥游》",
+      "《齐物论》",
+      "《养生主》",
+      "《人间世》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "「庄周梦蝶」出自《庄子·齐物论》，庄子借此探讨物我两忘、生死齐一的哲学境界。"
+  },
+  {
+    "id": "chinese-history-252",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "「不患寡而患不均，不患贫而患不安」出自《论语》中哪位人物之口？",
+    "options": [
+      "孔子",
+      "颜回",
+      "子路",
+      "冉有"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这句话出自《论语·季氏》，是孔子回答冉有时所说，反映了他对社会公平与安定的重视。"
+  },
+  {
+    "id": "chinese-history-253",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "吕不韦主持编纂、汇合先秦诸家思想的著作是哪一部？",
+    "options": [
+      "《吕氏春秋》",
+      "《淮南子》",
+      "《管子》",
+      "《晏子春秋》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《吕氏春秋》（又称《吕览》）由吕不韦集门客编成，兼采儒、道、墨、法、农诸家，属于杂家代表作。"
+  },
+  {
+    "id": "chinese-history-254",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "question": "「己所不欲，勿施于人」被孔子视为什么准则？",
+    "options": [
+      "仁之方",
+      "礼之本",
+      "义之道",
+      "智之端"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《论语·颜渊》中孔子对仲弓说「己所不欲，勿施于人」，并称之为「仁之方」，即实践仁道的方法。"
+  },
+  {
+    "id": "chinese-history-255",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "「明于天人之分」是谁提出的重要思想？",
+    "options": [
+      "孔子",
+      "孟子",
+      "荀子",
+      "韩非子"
+    ],
+    "correctAnswer": 2,
+    "explanation": "荀子提出「明于天人之分」，认为天道自然与人事祸福没有必然联系，人应当依靠自己的努力而不是祈求上天。"
+  }
+]
