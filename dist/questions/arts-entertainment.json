@@ -2840,5 +2840,845 @@
     ],
     "correctAnswer": 0,
     "explanation": "EDG夺冠当晚，全国多所高校学生自发在操场燃放烟花庆祝，话题一度冲上热搜，被网友调侃'像高考出成绩一样全民狂欢'。"
+  },
+  {
+    "id": "arts-entertainment-204",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "TVB经典剧集《上海滩》里，那首“浪奔，浪流”的主题曲，是谁唱的？",
+    "options": [
+      "汪明荃",
+      "甄妮",
+      "叶丽仪",
+      "徐小凤"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这首歌由黄霑作词、顾嘉辉作曲，是港剧金曲的代表作；这对词曲搭档还合作过《狮子山下》，同样成了几代香港人的集体记忆。"
+  },
+  {
+    "id": "arts-entertainment-205",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "1982年TVB剧集《万水千山总是情》的同名金曲，由哪位歌手演唱？",
+    "options": [
+      "甄妮",
+      "叶丽仪",
+      "汪明荃",
+      "徐小凤"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这首歌由顾嘉辉谱曲、邓伟雄填词，据说还成了香港培正中学的非官方校歌，至今仍家传户晓。"
+  },
+  {
+    "id": "arts-entertainment-206",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "香港电台节目《狮子山下》换上罗文的同名歌曲之前，主题曲是哪首粤乐？",
+    "options": [
+      "《旱天雷》",
+      "《平湖秋月》",
+      "《步步高》",
+      "《雨打芭蕉》"
+    ],
+    "correctAnswer": 2,
+    "explanation": "黄霑起初嫌“香港精神”这个题材太闷，经再三邀请才肯接活；这首他填词、顾嘉辉谱曲的歌刚面世时并不流行，直到八十年代中后期才逐渐成为港人共鸣的名曲。"
+  },
+  {
+    "id": "arts-entertainment-207",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "林子祥《男儿当自强》那段气势磅礴的旋律，改编自哪首古琵琶曲？",
+    "options": [
+      "《霸王卸甲》",
+      "《将军令》",
+      "《阳春白雪》",
+      "《十面埋伏》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1991年这首歌为电影《黄飞鸿》而作；据说黄霑先后改了五个版本，导演徐克都不满意，直到得知林子祥一直想唱《将军令》，才一天就写好了词，结尾那句高八度也是林子祥即兴唱出来的。"
+  },
+  {
+    "id": "arts-entertainment-208",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "1990年电影《笑傲江湖》的主题曲《沧海一声笑》，词曲由谁一手包办？",
+    "options": [
+      "黄霑",
+      "林夕",
+      "黎小田",
+      "顾嘉辉"
+    ],
+    "correctAnswer": 0,
+    "explanation": "黄霑写这首歌时刻意采用简单的中国五声音阶，首版由许冠杰、黄霑和张伟文分别代唱三位角色；它后来还拿下了十大中文金曲奖。"
+  },
+  {
+    "id": "arts-entertainment-209",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "被尊为粤语流行曲“开山祖师”的许冠杰，1972年靠哪首歌在TVB《双星报喜》里成名？",
+    "options": [
+      "《浪子心声》",
+      "《铁塔凌云》",
+      "《鬼马双星》",
+      "《半斤八两》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1972年许冠杰在无线电视节目《双星报喜》里唱出《铁塔凌云》，掀开了粤语流行曲的新篇章；他与黎小田、顾嘉辉常被视为粤语流行曲的奠基者。"
+  },
+  {
+    "id": "arts-entertainment-210",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "1983年红磡体育馆（红馆）启用后，第一位在这里开个人演唱会的歌手是？",
+    "options": [
+      "许冠杰",
+      "张国荣",
+      "徐小凤",
+      "谭咏麟"
+    ],
+    "correctAnswer": 0,
+    "explanation": "红馆1983年4月启用，许冠杰在头两周内就连开三场《总督许冠杰演唱会》；此后能在红馆开个唱，成了香港歌手事业上的里程碑。"
+  },
+  {
+    "id": "arts-entertainment-211",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "1977年，张国荣参加亚洲歌唱大赛，靠翻唱哪首英文老歌拿下香港区亚军？",
+    "options": [
+      "《Let It Be》",
+      "《Hotel California》",
+      "《American Pie》",
+      "《Imagine》"
+    ],
+    "correctAnswer": 2,
+    "explanation": "那场比赛由丽的电视举办，张国荣凭《American Pie》获得香港区亚军，之后被宝丽多唱片发掘，正式踏入乐坛。"
+  },
+  {
+    "id": "arts-entertainment-212",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "2000年张国荣《热·情演唱会》上惊艳全场的造型，出自哪位法国时装大师之手？",
+    "options": [
+      "伊夫·圣罗兰",
+      "皮尔·卡丹",
+      "克里斯汀·迪奥",
+      "让-保罗·高缇耶"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这场演唱会的服装特别邀请法国时装大师高缇耶（Jean Paul Gaultier）打造，舞台上一件件大胆前卫的造型，至今仍被乐迷津津乐道。"
+  },
+  {
+    "id": "arts-entertainment-213",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "1989年底，张国荣宣布告别乐坛，在红磡体育馆一共开了多少场告别演唱会？",
+    "options": [
+      "33场",
+      "13场",
+      "23场",
+      "43场"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这一系列告别演出在红馆连开33场，堪称港乐黄金年代的一个注脚；不过告别并不是终点，他此后仍以歌手与演员的身份活跃于舞台与银幕。"
+  },
+  {
+    "id": "arts-entertainment-214",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "梅艳芳当年靠一曲《风的季节》夺冠出道，这首歌原是哪位前辈的名曲？",
+    "options": [
+      "甄妮",
+      "汪明荃",
+      "徐小凤",
+      "叶丽仪"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1982年梅艳芳在一场电视台歌唱比赛上演唱徐小凤的名曲《风的季节》，一举夺冠，从此踏上“香港的女儿”的传奇之路。"
+  },
+  {
+    "id": "arts-entertainment-215",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "梅艳芳、郑秀文、陈奕迅，当年都是从哪个歌唱比赛脱颖而出的？",
+    "options": [
+      "新秀歌唱大赛",
+      "校际歌唱比赛",
+      "十八区业余歌唱大赛",
+      "亚洲歌唱大赛"
+    ],
+    "correctAnswer": 0,
+    "explanation": "梅艳芳1982年夺冠，郑秀文1988年获季军，陈奕迅1995年夺冠；张国荣走的是亚洲歌唱大赛，张学友则是十八区业余歌唱大赛的冠军。"
+  },
+  {
+    "id": "arts-entertainment-216",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "陈慧娴的《千千阙歌》，旋律翻唱自日本哪位歌手的《夕焼けの歌》？",
+    "options": [
+      "玉置浩二",
+      "中岛美雪",
+      "谷村新司",
+      "近藤真彦"
+    ],
+    "correctAnswer": 3,
+    "explanation": "原曲由近藤真彦在1989年2月推出，粤语填词的是林振强；陈慧娴的版本同年6月收录在《永远是你的朋友》里，成了一代人的告别之歌。"
+  },
+  {
+    "id": "arts-entertainment-217",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "《千千阙歌》大红之后，陈慧娴1990年赴美国雪城大学，读的是什么专业？",
+    "options": [
+      "音乐",
+      "新闻传播",
+      "工商管理",
+      "心理学"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1989年9月开完《几时再见演唱会》，她就暂别乐坛去读书，期间每逢暑假才返港录音，1994年底以全优生身份毕业回港。"
+  },
+  {
+    "id": "arts-entertainment-218",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "王菲1992年的粤语名曲《容易受伤的女人》，旋律出自哪位日本创作女歌手？",
+    "options": [
+      "竹内玛莉亚",
+      "松任谷由实",
+      "中岛美雪",
+      "宇多田光"
+    ],
+    "correctAnswer": 2,
+    "explanation": "原曲是1977年千秋直美演唱的《口红》，由中岛美雪作曲；当时王菲还用艺名“王靖雯”，直到后来的专辑《胡思乱想》才改叫王菲。"
+  },
+  {
+    "id": "arts-entertainment-219",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "迈克学摇滚乐队的《Take Me to Your Heart》，翻唱自哪首华语金曲？",
+    "options": [
+      "张学友《吻别》",
+      "周华健《朋友》",
+      "郭富城《对你爱不完》",
+      "刘德华《忘情水》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《吻别》1993年由张学友唱红，何启弘填词、殷文琦作曲；十多年后，丹麦乐队Michael Learns to Rock（迈克学摇滚）在2004年推出英文版，反过来又风靡亚洲。"
+  },
+  {
+    "id": "arts-entertainment-220",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "张学友的演唱会因为现场屡屡抓到在逃嫌疑人，被网友戏称为什么？",
+    "options": [
+      "逃犯克星",
+      "治安大使",
+      "抓贼歌神",
+      "神探学友"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2018年内地巡演期间，警方借助人脸识别在他的演唱会现场拘捕了大批逃犯，“逃犯克星”由此走红；他在2010至2011年的12个月内巡演观众逾204万人次，还创下了吉尼斯世界纪录。"
+  },
+  {
+    "id": "arts-entertainment-221",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "张学友的《每天爱你多一些》，旋律翻唱自日本哪个乐队的《真夏の果实》？",
+    "options": [
+      "恰克与飞鸟",
+      "安全地带",
+      "南方之星",
+      "少年队"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这首1991年的歌原曲是南方之星的《真夏の果实》；张学友1990年的《李香兰》同样是翻唱，原曲是玉置浩二的《不要走》。"
+  },
+  {
+    "id": "arts-entertainment-222",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "李宗盛与林忆莲合唱的《当爱已成往事》，是哪部电影的主题曲？",
+    "options": [
+      "《胭脂扣》",
+      "《阮玲玉》",
+      "《东邪西毒》",
+      "《霸王别姬》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1993年，李宗盛首度与林忆莲合作，为电影《霸王别姬》合唱了这首主题曲，它后来成了华语乐坛最经典的男女对唱之一。"
+  },
+  {
+    "id": "arts-entertainment-223",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "1988年，Beyond首次登陆内地开演唱会，他们去的是哪座城市？",
+    "options": [
+      "广州",
+      "上海",
+      "深圳",
+      "北京"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1988年10月15日至16日，Beyond在北京首都体育馆开唱；乐队1983年成军，成员是黄家驹、黄贯中、黄家强和叶世荣。"
+  },
+  {
+    "id": "arts-entertainment-224",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "Beyond在1991年办的第一个红馆演唱会，名字叫什么？",
+    "options": [
+      "《乐与怒》",
+      "《大地》",
+      "《命运派对》",
+      "《生命接触》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1991年9月19日至23日，Beyond在红磡体育馆连开五场《生命接触演唱会》；这一年他们还发行了专辑《犹豫》，收录《Amani》《不再犹豫》。"
+  },
+  {
+    "id": "arts-entertainment-225",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "香港乐队Beyond的团名，寓意是什么？",
+    "options": [
+      "永不放弃",
+      "光辉岁月",
+      "海阔天空",
+      "超越自己"
+    ],
+    "correctAnswer": 3,
+    "explanation": "团名由创队成员邓炜谦所起，表达要“超越”自己、超越一般乐队所涉足的音乐领域；乐队1983年成军，后来留下了《真的爱你》《喜欢你》《海阔天空》等无数金曲。"
+  },
+  {
+    "id": "arts-entertainment-226",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "达明一派的名曲《石头记》，歌名取自哪部古典名著的别称？",
+    "options": [
+      "《红楼梦》",
+      "《西游记》",
+      "《水浒传》",
+      "《聊斋志异》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《石头记》是《红楼梦》的原名之一，达明一派1987年推出同名专辑；组合由刘以达和黄耀明组成，“达明一派”这个名字还是资深电台人俞琤起的。"
+  },
+  {
+    "id": "arts-entertainment-227",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "香港组合Twins的阿Sa和阿娇，名字叫“双生儿”，两人实际是什么关系？",
+    "options": [
+      "同卵双胞胎",
+      "没有血缘的搭档",
+      "亲生姐妹",
+      "堂姐妹"
+    ],
+    "correctAnswer": 1,
+    "explanation": "两人因长相相似常被误认，公司才定名Twins；她们2001年出道，仅用483天就登上红馆开演唱会，创下最短时间纪录。"
+  },
+  {
+    "id": "arts-entertainment-228",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "香港叱咤乐坛流行榜颁奖典礼，自1995年起固定在哪一天举行？",
+    "options": [
+      "元旦",
+      "圣诞节",
+      "除夕",
+      "情人节"
+    ],
+    "correctAnswer": 0,
+    "explanation": "叱咤颁奖礼由商业电台叱咤903主办，1989年首届；因为用电脑统计播放率，1995年起固定每年元旦举行，是香港唯一日期固定的流行音乐颁奖礼。"
+  },
+  {
+    "id": "arts-entertainment-229",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "陈奕迅2005年专辑《U87》里的《浮夸》，词作者是哪位词人？",
+    "options": [
+      "周耀辉",
+      "林夕",
+      "陈少琪",
+      "黄伟文"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《浮夸》由黄伟文作词、C.Y. Kong作曲，当年拿下CASH金帆音乐奖的最佳歌词和最佳男歌手演绎奖。"
+  },
+  {
+    "id": "arts-entertainment-230",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "郑秀文为电影《瘦身男女》唱的主题曲，拿下金像奖最佳原创电影歌曲，是哪首？",
+    "options": [
+      "《终身美丽》",
+      "《Do Re Mi》",
+      "《眉飞色舞》",
+      "《值得》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《终身美丽》是2001年的作品，为郑秀文赢得香港电影金像奖最佳原创电影歌曲；她在红馆开过的个人演唱会已超过100场。"
+  },
+  {
+    "id": "arts-entertainment-231",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "邓丽君唱红《月亮代表我的心》之前，1973年最先录唱这首歌的是谁？",
+    "options": [
+      "凤飞飞",
+      "甄妮",
+      "陈芬兰",
+      "姚苏蓉"
+    ],
+    "correctAnswer": 2,
+    "explanation": "陈芬兰1973年在专辑《梦乡》里首唱，邓丽君1977年底才录制自己的版本；据说作曲家翁清溪曾觉得这首曲子不够好想丢掉，是词人孙仪从废稿里翻出来填了词，才有了今天的经典。"
+  },
+  {
+    "id": "arts-entertainment-232",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "1974年邓丽君赴日发展，以哪首歌出道，同年拿下日本唱片大赏新人奖？",
+    "options": [
+      "《空港》",
+      "《爱人》",
+      "《小城故事》",
+      "《别离的预感》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《空港》是邓丽君在日本的出道曲，她当年就拿下日本唱片大赏的新人奖，此后在日本乐坛也留下了不少名曲。"
+  },
+  {
+    "id": "arts-entertainment-233",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "邓丽君的《我只在乎你》，其实源自她在日本唱红的一首日文歌，是哪首？",
+    "options": [
+      "《津轻海峡·冬景色》",
+      "《昂首向前走》",
+      "《北国之春》",
+      "《任时光流逝》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这首日文歌名为《時の流れに身をまかせ》，荒木丰久作词、三木刚作曲；邓丽君在日本唱红后又推出国语版《我只在乎你》，成了她最经典的代表作之一。"
+  },
+  {
+    "id": "arts-entertainment-234",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "1975年杨弦把哪位诗人的作品谱成歌，被视为台湾“现代民歌运动”的起点？",
+    "options": [
+      "郑愁予",
+      "徐志摩",
+      "余光中",
+      "席慕蓉"
+    ],
+    "correctAnswer": 2,
+    "explanation": "那年杨弦在台北中山堂发表了八首谱自余光中诗集《白玉苦瓜》的作品，“唱自己的歌”成为口号；之后有了金韵奖，也孕育出许多日后的华语流行乐要角。"
+  },
+  {
+    "id": "arts-entertainment-235",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "“不要问我从哪里来，我的故乡在远方”，《橄榄树》的歌词是哪位作家写的？",
+    "options": [
+      "席慕蓉",
+      "三毛",
+      "龙应台",
+      "琼瑶"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这首歌由三毛作词、李泰祥作曲、齐豫演唱；三毛在西班牙看到很多小毛驴在原野上奔跑，觉得像童话一样诗意，最初把它取名《小毛驴》，后来才成了传唱两岸三地的《橄榄树》。"
+  },
+  {
+    "id": "arts-entertainment-236",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "台湾女歌手齐豫，和唱《外面的世界》的“北方的狼”齐秦是什么关系？",
+    "options": [
+      "夫妻",
+      "姐弟",
+      "兄妹",
+      "师徒"
+    ],
+    "correctAnswer": 1,
+    "explanation": "齐豫是姐姐，齐秦是弟弟；据说齐豫曾用参加金韵奖赢得的奖金，给弟弟买了人生第一把吉他，开启了他的音乐路。"
+  },
+  {
+    "id": "arts-entertainment-237",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "写出《之乎者也》《明天会更好》的罗大佑，成名前其实是个执业的什么？",
+    "options": [
+      "建筑师",
+      "医生",
+      "律师",
+      "中学老师"
+    ],
+    "correctAnswer": 1,
+    "explanation": "罗大佑毕业于中国医药学院医学系，通过医师高考，曾做过放射科、外科和内科医师；1982年发行首张专辑《之乎者也》后，转身改写了华语流行乐的面貌。"
+  },
+  {
+    "id": "arts-entertainment-238",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "1985年，60位华语歌手合唱《明天会更好》，这首歌效仿的是美国哪首公益合唱曲？",
+    "options": [
+      "《Let It Be》",
+      "《Imagine》",
+      "《Heal the World》",
+      "《We Are the World》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1985年10月发行的《明天会更好》由罗大佑作曲，张艾嘉、李寿全等多人参与制作与填词；它效仿的正是美国群星合唱的《We Are the World》，同时也参考了英国的《Do They Know It’s Christmas?》，是华语乐坛最著名的群星合唱之一。"
+  },
+  {
+    "id": "arts-entertainment-239",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "2009年，罗大佑、李宗盛、周华健和哪位台湾摇滚歌手组成“纵贯线”巡演？",
+    "options": [
+      "张信哲",
+      "张震岳",
+      "陈升",
+      "伍佰"
+    ],
+    "correctAnswer": 1,
+    "explanation": "“纵贯线SUPER BAND”由四位不同世代的音乐人组成，2009年3月起展开巡回演唱会，堪称华语乐坛最强的跨世代组合之一。"
+  },
+  {
+    "id": "arts-entertainment-240",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "李宗盛除了写歌，2002年还创立了一个手作品牌，做的是什么？",
+    "options": [
+      "皮鞋",
+      "吉他",
+      "钢琴",
+      "提琴"
+    ],
+    "correctAnswer": 1,
+    "explanation": "他创立了Lee Guitars手工吉他品牌，说制琴是“一生的事”，后来还在北京798艺术区开了手工吉他作坊；出道初期他甚至要靠帮父亲送瓦斯维生。"
+  },
+  {
+    "id": "arts-entertainment-241",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "《我是一只小小鸟》是李宗盛写给哪位歌手的作品？",
+    "options": [
+      "齐秦",
+      "赵传",
+      "周华健",
+      "张信哲"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这首歌由赵传演唱，李宗盛的词唱出了年轻人在大城市打拼时的不甘与倔强，至今仍是KTV里的热门曲目。"
+  },
+  {
+    "id": "arts-entertainment-242",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "生在香港米店的周华健，1981年考进台湾大学哪个系？",
+    "options": [
+      "中文系",
+      "音乐系",
+      "建筑系",
+      "数学系"
+    ],
+    "correctAnswer": 3,
+    "explanation": "周华健出生于香港西营盘，家里经营“周记米店”；1986年在李宗盛的推荐下进入滚石唱片当制作助理，1987年发行首张专辑《心的方向》。"
+  },
+  {
+    "id": "arts-entertainment-243",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "周华健1993年的《花心》，旋律翻唱自哪位冲绳歌手的《花》？",
+    "options": [
+      "喜纳昌吉",
+      "吉田拓郎",
+      "坂本九",
+      "玉置浩二"
+    ],
+    "correctAnswer": 0,
+    "explanation": "原曲是喜纳昌吉的《花～すべての人の心に花を～》；周华健1991年的《让我欢喜让我忧》同样是翻唱，原曲是恰克与飞鸟1981年的《男と女》。"
+  },
+  {
+    "id": "arts-entertainment-244",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "台湾女歌手张惠妹，出身哪个原住民族群？",
+    "options": [
+      "泰雅族",
+      "阿美族",
+      "排湾族",
+      "卑南族"
+    ],
+    "correctAnswer": 3,
+    "explanation": "张惠妹是台东卑南族人；1995年在台北酒吧驻唱时被发掘，1996年12月推出首张专辑正式出道。"
+  },
+  {
+    "id": "arts-entertainment-245",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "被称为“音乐魔术师”的张雨生，1996年发掘并亲自参与制作了哪位歌手的首张专辑？",
+    "options": [
+      "范晓萱",
+      "辛晓琪",
+      "梁静茹",
+      "张惠妹"
+    ],
+    "correctAnswer": 3,
+    "explanation": "那张专辑叫《姊妹》，1996年12月发行，张雨生担任制作人，张惠妹从此一跃成为家喻户晓的歌手；他本人则在1997年因车祸英年早逝。"
+  },
+  {
+    "id": "arts-entertainment-246",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "1997年，周杰伦陪同学参加选秀节目《超级新人王》，他当时的身份是？",
+    "options": [
+      "参赛选手",
+      "钢琴伴奏",
+      "现场观众",
+      "节目编曲"
+    ],
+    "correctAnswer": 1,
+    "explanation": "他是为同学担任钢琴伴奏，主持人吴宗宪对他的才华印象深刻，之后签约发掘他进入乐坛，开启了后来的传奇。"
+  },
+  {
+    "id": "arts-entertainment-247",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "周杰伦2006年专辑《依然范特西》里，与他合唱《千里之外》的老牌歌手是？",
+    "options": [
+      "姜育恒",
+      "齐豫",
+      "费玉清",
+      "费翔"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《千里之外》是《依然范特西》里的经典合唱，周杰伦和费玉清一新一老，把古风旋律唱出了别样的味道。"
+  },
+  {
+    "id": "arts-entertainment-248",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "周杰伦2003年的专辑《叶惠美》，专辑名是谁的名字？",
+    "options": [
+      "他的外婆",
+      "他的钢琴老师",
+      "他的母亲",
+      "他的唱片监制"
+    ],
+    "correctAnswer": 2,
+    "explanation": "叶惠美就是周杰伦的母亲，这张专辑收录了《晴天》《东风破》《以父之名》等歌，是他的第四张专辑。"
+  },
+  {
+    "id": "arts-entertainment-249",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "台湾女团S.H.E的团名，其实取自什么？",
+    "options": [
+      "三位成员姓氏的首字母",
+      "三位成员英文名的首字母",
+      "唱片公司名的缩写",
+      "一句英文歌词的缩写"
+    ],
+    "correctAnswer": 1,
+    "explanation": "S.H.E就是Selina、Hebe、Ella三人英文名的首字母；她们2001年9月11日发行首张专辑《女生宿舍》，主打歌《恋人未满》让她们一炮而红。"
+  },
+  {
+    "id": "arts-entertainment-250",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "五月天的英文团名MAYDAY，最初是团员玛莎的什么？",
+    "options": [
+      "第一辆机车的车牌",
+      "网络BBS代号",
+      "高中社团名",
+      "小时候的外号"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1997年，前身So Band的团员为了报名野台开唱，借用了玛莎在BBS上的代号MAYDAY当团名，五月天就这样诞生了；成员大多毕业于台北师大附中。"
+  },
+  {
+    "id": "arts-entertainment-251",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "2012年4月，五月天成为首个登上北京哪个标志性场馆开唱的华人乐团？",
+    "options": [
+      "工人体育场",
+      "水立方",
+      "鸟巢",
+      "首都体育馆"
+    ],
+    "correctAnswer": 2,
+    "explanation": "那是五月天首次在鸟巢开唱，此后他们的舞台越做越大。"
+  },
+  {
+    "id": "arts-entertainment-252",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "“我和我最后的倔强，握紧双手绝对不放”，出自五月天哪首歌？",
+    "options": [
+      "《倔强》",
+      "《知足》",
+      "《突然好想你》",
+      "《温柔》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《倔强》是五月天演唱会上全场大合唱的常客，唱的是不向现实低头的少年心气。"
+  },
+  {
+    "id": "arts-entertainment-253",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "孙燕姿和林俊杰这两位华语乐坛大牌，都来自哪个国家？",
+    "options": [
+      "新加坡",
+      "马来西亚",
+      "泰国",
+      "印度尼西亚"
+    ],
+    "correctAnswer": 0,
+    "explanation": "两人都是新加坡华裔：孙燕姿2000年首张同名专辑拿下当年台湾唱片销量冠军，林俊杰则在2003年以《乐行者》出道；同样来自东南亚的梁静茹是马来西亚人。"
+  },
+  {
+    "id": "arts-entertainment-254",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "“风到这里就是黏，黏住过客的思念”，这句歌词出自林俊杰哪首歌？",
+    "options": [
+      "《不为谁而作的歌》",
+      "《曹操》",
+      "《修炼爱情》",
+      "《江南》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《江南》收录在2004年的专辑《第二天堂》，由林俊杰作曲，还入围了第16届金曲奖最佳作曲人奖，是他早期最红的代表作。"
+  },
+  {
+    "id": "arts-entertainment-255",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "王力宏1995年发行的首张专辑，名字很有古典味，叫什么？",
+    "options": [
+      "《心中的日月》",
+      "《公转自转》",
+      "《情敌贝多芬》",
+      "《不可思议》"
+    ],
+    "correctAnswer": 2,
+    "explanation": "王力宏生于美国纽约州罗切斯特，本科毕业于威廉姆斯学院，后来又在伯克利音乐学院深造；他把R&B、嘻哈和中国传统音乐融合成自己的“Chinked-out”风格。"
+  },
+  {
+    "id": "arts-entertainment-256",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "蔡依林2008年专辑《特务J》的主打舞曲，是下面哪首？",
+    "options": [
+      "《Play我呸》",
+      "《舞娘》",
+      "《美人计》",
+      "《日不落》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《日不落》收录在《特务J》；后来的《美人计》（2010年《Myself》）和《Play我呸》（2014年《呸》）也都是她的舞曲代表作，她被视为华语流行舞曲的指标性人物。"
+  },
+  {
+    "id": "arts-entertainment-257",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "1984年春晚上，第一位登台的港台歌手唱了《我的中国心》，他是谁？",
+    "options": [
+      "张明敏",
+      "谭咏麟",
+      "许冠杰",
+      "罗文"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《我的中国心》由黄霑作词、王福龄作曲，1983年为香港青年联合会的公益项目创作；张明敏1984年在春晚演唱，成为首位在春晚表演的港台歌手。"
+  },
+  {
+    "id": "arts-entertainment-258",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "2008年由100位歌手合唱的《北京欢迎你》，歌词是香港哪位词人写的？",
+    "options": [
+      "黄伟文",
+      "林夕",
+      "黄霑",
+      "郑国江"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《北京欢迎你》由林夕作词、小柯作曲，2008年为北京奥运会推出，由一百位歌手共同演唱，是奥运歌曲里传唱度极高的一首。"
+  },
+  {
+    "id": "arts-entertainment-259",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "1994年“摇滚中国乐势力”在红磡体育馆开唱，被并称为“魔岩三杰”的是哪三位？",
+    "options": [
+      "张楚、何勇、汪峰",
+      "窦唯、郑钧、张楚",
+      "窦唯、张楚、何勇",
+      "崔健、窦唯、何勇"
+    ],
+    "correctAnswer": 2,
+    "explanation": "魔岩文化1994年同时推出窦唯《黑梦》、张楚《孤独的人是可耻的》、何勇《垃圾场》三张专辑；同年12月17日，他们和唐朝乐队一起登上了红磡舞台。"
+  },
+  {
+    "id": "arts-entertainment-260",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "刘欢《好汉歌》里，“大河向东流哇”的下一句是？",
+    "options": [
+      "生死之交一碗酒哇",
+      "你有我有全都有哇",
+      "天上的星星参北斗哇",
+      "说走咱就走哇"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《好汉歌》是1998年电视剧《水浒传》的经典歌曲，由刘欢演唱；那句「说走咱就走哇」，成了红遍大江南北的口头禅。"
+  },
+  {
+    "id": "arts-entertainment-261",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "老狼唱红的校园民谣《同桌的你》，词曲是谁写的？",
+    "options": [
+      "郑钧",
+      "高晓松",
+      "朴树",
+      "许巍"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《同桌的你》由高晓松创作、老狼演唱，是九十年代校园民谣的代表作；它的名字后来还成了2014年一部同名电影的片名。"
+  },
+  {
+    "id": "arts-entertainment-262",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "1998年央视春晚上，王菲和哪位歌手合唱了《相约1998》？",
+    "options": [
+      "那英",
+      "韩红",
+      "孙楠",
+      "毛阿敏"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这次合唱让那英在内地的知名度进一步提升，同年她推出《征服》专辑；二十年后的2018年春晚，两人又一次同台，合唱了《岁月》。"
+  },
+  {
+    "id": "arts-entertainment-263",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "刘若英的《后来》，旋律翻唱自日本哪个组合的《未来へ》？",
+    "options": [
+      "Mr.Children",
+      "Kiroro",
+      "少年队",
+      "SMAP"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《未来へ》1998年由玉城千春作词作曲；刘若英2000年1月推出国语版《后来》，收录在专辑《我等你》里，成了她最广为人知的代表作。"
   }
 ]
