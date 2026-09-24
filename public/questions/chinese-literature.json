@@ -882,20 +882,6 @@
     "explanation": "魏延误闯帐中报说魏兵来袭，脚步太急带风扑灭主灯，姜维气得拔剑要杀他，孔明长叹「生死有命」，不久便星落五丈原。"
   },
   {
-    "id": "chinese-literature-064",
-    "category": "chinese-literature",
-    "difficulty": "hard",
-    "question": "栊翠庵品茶时，妙玉单请宝钗、黛玉喝「体己茶」，泡茶用的水是什么？",
-    "options": [
-      "五年前收的梅花上的雪水",
-      "旧年蠲的雨水",
-      "清晨荷叶上的露水",
-      "无锡惠山的「天下第二泉」泉水"
-    ],
-    "correctAnswer": 0,
-    "explanation": "妙玉用五年前在玄墓蟠香寺收的梅花雪水泡体己茶，给贾母用的才是旧年雨水；黛玉没尝出雪水，还被妙玉讥为「大俗人」。"
-  },
-  {
     "id": "chinese-literature-065",
     "category": "chinese-literature",
     "difficulty": "medium",
@@ -936,20 +922,6 @@
     ],
     "correctAnswer": 1,
     "explanation": "周瑜伪造蔡瑁、张允通敌的书信故意让蒋干偷走，曹操中反间计斩了这两位最懂水战的都督，反让于禁、毛玠接任——等于自断臂膀。"
-  },
-  {
-    "id": "chinese-literature-068",
-    "category": "chinese-literature",
-    "difficulty": "hard",
-    "question": "宝玉梦游太虚幻境，警幻仙姑设宴款待，小丫鬟捧上的那盏茶叫什么名字？",
-    "options": [
-      "群芳髓",
-      "万艳同杯",
-      "千红一窟",
-      "枫露茶"
-    ],
-    "correctAnswer": 2,
-    "explanation": "茶名「千红一窟」，谐音「千红一哭」，暗伏众女儿悲剧；「万艳同杯」是酒名，「群芳髓」是熏香名，枫露茶则是宝玉在怡红院日常喝的茶。"
   },
   {
     "id": "chinese-literature-069",
@@ -1076,20 +1048,6 @@
     ],
     "correctAnswer": 3,
     "explanation": "周瑜出主意让孙权以妹妹为饵骗刘备到东吴，结果婚事弄假成真，刘备带着孙夫人全身而退；岸边蜀兵齐喊「周郎妙计安天下，赔了夫人又折兵」，气得周瑜箭疮迸裂。"
-  },
-  {
-    "id": "chinese-literature-078",
-    "category": "chinese-literature",
-    "difficulty": "hard",
-    "question": "贾府四春的贴身丫鬟名字暗藏「琴棋书画」：抱琴、司棋、入画各归其主，那么「书」——侍书是谁的丫鬟？",
-    "options": [
-      "迎春",
-      "探春",
-      "惜春",
-      "元春"
-    ],
-    "correctAnswer": 1,
-    "explanation": "元春配抱琴、迎春配司棋、探春配侍书、惜春配入画，合成琴棋书画；探春善书法，屋里摆着米芾的《烟雨图》和颜真卿墨迹，丫鬟名字正合主人所长。"
   },
   {
     "id": "chinese-literature-079",
@@ -1342,20 +1300,6 @@
     ],
     "correctAnswer": 2,
     "explanation": "这就是「王熙凤弄权铁槛寺」一回：凤姐假借老尼静虚之口插手退婚案，从中收了好处，间接逼死了张金哥和她的未婚夫。铁槛寺原是贾府家庙，讽刺的是，寺名暗合范成大「纵有千年铁门槛，终须一个土馒头」——再显赫也逃不过因果。"
-  },
-  {
-    "id": "chinese-literature-097",
-    "category": "chinese-literature",
-    "difficulty": "hard",
-    "question": "贾宝玉挨了父亲贾政一顿毒打，导火索之一是他背着家里跟忠顺王府一位当红戏子过从甚密、还互换了汗巾子。这位戏子艺名叫什么？",
-    "options": [
-      "藕官",
-      "琪官",
-      "龄官",
-      "芳官"
-    ],
-    "correctAnswer": 1,
-    "explanation": "琪官本名蒋玉菡，忠顺王府派人上门「要人」，贾政才知道宝玉私交优伶，气得往死里打。有意思的是，宝玉换给琪官的那条大红汗巾子其实原是袭人的，这个物件后来还成了「花袭人有始有终」嫁给蒋玉菡的伏笔。"
   },
   {
     "id": "chinese-literature-098",
@@ -2868,5 +2812,3099 @@
     ],
     "correctAnswer": 1,
     "explanation": "气体的溶解度随压强减小而减小，开盖后压强骤降，溶解的二氧化碳大量逸出形成气泡。"
+  },
+  {
+    "id": "chinese-literature-206",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "官渡之战打到胶着时，是谁从袁绍阵营连夜投奔曹操，献上奇袭乌巢的计策？",
+    "options": [
+      "许攸",
+      "郭嘉",
+      "荀攸",
+      "贾诩"
+    ],
+    "correctAnswer": 0,
+    "explanation": "许攸本是袁绍谋士，因家人被审配治罪而愤然投曹，建议曹操亲率轻兵夜袭乌巢烧毁袁军粮草，直接扭转了官渡战局。荀攸的成名作是白马之战的声东击西，郭嘉则提出了著名的「十胜十败」论。"
+  },
+  {
+    "id": "chinese-literature-207",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "《三国演义》里「温酒斩华雄」让关羽一战成名，但按正史《三国志》的记载，真正击杀华雄的是谁？",
+    "options": [
+      "关羽",
+      "孙坚",
+      "潘凤",
+      "吕布"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《三国志·孙破虏讨逆传》记载，孙坚在阳人之战中大破董卓军，「枭其都督华雄」。罗贯中把这份功劳「借」给了关羽，至于「上将潘凤」，纯粹是演义里的搞笑担当。"
+  },
+  {
+    "id": "chinese-literature-208",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "魏、蜀、吴三国正式称帝的顺序有先后，其中最晚称帝的是谁？",
+    "options": [
+      "曹丕",
+      "刘备",
+      "孙权",
+      "司马昭"
+    ],
+    "correctAnswer": 2,
+    "explanation": "曹丕220年称帝、刘备221年称帝，孙权却拖到229年才登基，此前还一度接受曹丕册封的「吴王」。而司马昭一生都没称帝，称帝的是他儿子司马炎。"
+  },
+  {
+    "id": "chinese-literature-209",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "《三国演义》写庞统献连环计、诸葛亮借东风，但《三国志》明确记载，赤壁之战中最早向周瑜提出火攻之计的是谁？",
+    "options": [
+      "周瑜",
+      "庞统",
+      "诸葛亮",
+      "黄盖"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《三国志·周瑜传》记载黄盖进言：「今寇众我寡，难与持久。然观操军船舰首尾相接，可烧而走也。」随后他还亲自诈降、点火冲阵。正史里曹军战船是曹操自己连起来的，「庞统献连环」纯属演义加戏。"
+  },
+  {
+    "id": "chinese-literature-210",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "「草船借箭」是诸葛亮的招牌神操作，但裴松之注引《魏略》记载的「借箭」原型故事，主角其实是谁？",
+    "options": [
+      "诸葛亮",
+      "孙权",
+      "周瑜",
+      "吕蒙"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《魏略》记载濡须之战时孙权乘大船侦察曹营，曹军万箭齐发射满船身一侧，船身倾斜，孙权下令调转船头让另一面受箭，船平衡后从容返航。这段经历被罗贯中移花接木安到了诸葛亮头上。"
+  },
+  {
+    "id": "chinese-literature-211",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "曹操一生「挟天子以令诸侯」却始终没有称帝，那么他生前获得的最高爵位封号是什么？",
+    "options": [
+      "魏武帝",
+      "丞相",
+      "魏王",
+      "魏公"
+    ],
+    "correctAnswer": 2,
+    "explanation": "曹操213年封魏公、216年进爵魏王，这是两汉人臣的爵位天花板。「魏武帝」是他死后曹丕称帝时追尊的庙号称谓，而「丞相」是官职不是爵位。"
+  },
+  {
+    "id": "chinese-literature-212",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "刘备夷陵大败后退守白帝城，上演了著名的「白帝城托孤」。这座城位于今天的哪里？",
+    "options": [
+      "湖北宜昌",
+      "四川成都",
+      "陕西汉中",
+      "重庆奉节"
+    ],
+    "correctAnswer": 3,
+    "explanation": "白帝城在今重庆市奉节县瞿塘峡口的白帝山上，李白「朝辞白帝彩云间」说的也是这里。顺带一提，托孤时刘备对诸葛亮说的是「君可自取」，堪称史上最重的嘱托。"
+  },
+  {
+    "id": "chinese-literature-213",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "赵云在演义里是「五虎上将」，但正史中刘备只封了前后左右四方将军。赵云一生担任过的最高军职是？",
+    "options": [
+      "镇东将军",
+      "骠骑将军",
+      "车骑将军",
+      "卫将军"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《三国志·赵云传》记载，建兴元年赵云由中护军、征南将军「迁镇东将军」，直到建兴七年病逝。蜀汉的骠骑将军是马超、车骑将军是张飞——正史中并没有「五虎上将」这个编制，那是演义的说法。"
+  },
+  {
+    "id": "chinese-literature-214",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "「司马昭之心，路人皆知」这句名言，出自曹魏哪位皇帝之口？",
+    "options": [
+      "曹芳",
+      "曹奂",
+      "曹髦",
+      "汉献帝刘协"
+    ],
+    "correctAnswer": 2,
+    "explanation": "说这话的是高贵乡公曹髦（曹丕之孙），见《汉晋春秋》。260年他不甘做傀儡，率宫中僮仆讨伐司马昭，途中被成济当街弑杀，年仅十九岁——这份血性在亡国之君里相当罕见。"
+  },
+  {
+    "id": "chinese-literature-215",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "关羽字「云长」人尽皆知，但《三国志》记载他最早其实另有一个字，后来才改为云长。关羽的「本字」是什么？",
+    "options": [
+      "文长",
+      "长生",
+      "汉升",
+      "仲达"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《三国志·关羽传》开篇就写「关羽字云长，本字长生」。顺便送个冷知识：正史里张飞字「益德」，而不是演义里的「翼德」。"
+  },
+  {
+    "id": "chinese-literature-216",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "夷陵之战刘备惨败，蜀军有一位将领因退路被吴军截断、走投无路而投降了曹魏，他是谁？",
+    "options": [
+      "马良",
+      "冯习",
+      "傅肜",
+      "黄权"
+    ],
+    "correctAnswer": 3,
+    "explanation": "黄权当时率江北军防备曹魏，刘备兵败后他的归路被吴军切断，只能降魏。马良遇害、冯习与傅肜战死。刘备知道后说「孤负黄权，权不负孤也」，依然善待黄权留在蜀汉的家属，气度令人佩服。"
+  },
+  {
+    "id": "chinese-literature-217",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "263年魏灭蜀之战中，是谁率奇兵偷渡阴平小道、翻越摩天岭，直插成都迫使刘禅投降？",
+    "options": [
+      "邓艾",
+      "钟会",
+      "司马昭",
+      "羊祜"
+    ],
+    "correctAnswer": 0,
+    "explanation": "邓艾率精兵穿越七百里阴平无人区，遇绝壁时以毛毡裹身滚下山崖，随后破江油、克绵竹，兵临成都。当时钟会还在剑阁和姜维对峙。可惜邓艾灭蜀后遭钟会诬陷，最终父子被杀。"
+  },
+  {
+    "id": "chinese-literature-218",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "演义中周瑜被诸葛亮「三气」而亡，纯属虚构。按《三国志》记载，周瑜是在准备西取益州的途中病逝于何处？",
+    "options": [
+      "柴桑",
+      "江陵",
+      "巴丘",
+      "夏口"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《三国志·周瑜传》记载周瑜准备入川伐蜀，「还江陵，为行装，而道于巴丘病卒，时年三十六」。江陵只是他原定出发筹备的地方，「既生瑜何生亮」的遗言更是子虚乌有。"
+  },
+  {
+    "id": "chinese-literature-219",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "逍遥津之战孙权败退，津桥已被拆去一丈多。是谁跟在孙权马后扬鞭助势，帮他的坐骑飞跃断桥逃出生天？",
+    "options": [
+      "凌统",
+      "周泰",
+      "贺齐",
+      "谷利"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《江表传》记载：孙权骑马冲桥，桥南已拆，谷利在马后「著鞭，以助马势」，孙权才得以飞越。凌统当时率三百亲兵死战断后，贺齐则率三千人在津南接应——分工明确，但抽鞭子的是谷利。"
+  },
+  {
+    "id": "chinese-literature-220",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "曹操为立嗣私下征询贾诩，贾诩沉默良久后说：「我在想袁绍、刘表父子的事。」这句意味深长的话帮谁敲定了世子之位？",
+    "options": [
+      "曹植",
+      "曹丕",
+      "曹彰",
+      "曹冲"
+    ],
+    "correctAnswer": 1,
+    "explanation": "袁绍、刘表都因废长立幼导致内乱败亡，贾诩一句话点醒曹操「立长不立贤」，曹丕的太子之位就此尘埃落定。贾诩全程没提一个「丕」字，却是曹魏夺嫡中最致命的一击，毒士果然名不虚传。"
+  },
+  {
+    "id": "chinese-literature-221",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "裴松之驳斥「空城计」时指出：西城之围发生时，司马懿根本不在前线——他当时的职务与驻地是？",
+    "options": [
+      "坐镇洛阳辅政",
+      "都督关中、镇守长安",
+      "荆州都督、镇守宛城",
+      "留守许昌拱卫都城"
+    ],
+    "correctAnswer": 2,
+    "explanation": "裴松之在注中反驳：诸葛亮屯阳平时，司马懿尚为荆州都督、镇守宛城，直到曹真死后才到关中与诸葛亮对峙。两人当时相隔千里，这出「弹琴退仲达」的对手戏根本无从上演。"
+  },
+  {
+    "id": "chinese-literature-222",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "吕蒙「白衣渡江」偷袭荆州，让精兵藏于船中，摇橹的士兵一律身穿白衣，伪装成什么身份瞒过关羽的沿江哨所？",
+    "options": [
+      "渔民",
+      "驿使",
+      "商人",
+      "降卒"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《三国志·吕蒙传》记载吕蒙「使白衣摇橹，作商贾人服，昼夜兼行」，把船队伪装成商队，一路拔掉关羽设置的烽火台哨兵。这里的「白衣」指平民便服，并非穿白衣服那么字面。"
+  },
+  {
+    "id": "chinese-literature-223",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "诸葛亮去世后，蜀汉有一个官职从此再未授予任何人，蒋琬、费祎、姜维都无缘担任。这个官职是？",
+    "options": [
+      "丞相",
+      "大将军",
+      "大司马",
+      "尚书令"
+    ],
+    "correctAnswer": 0,
+    "explanation": "诸葛亮死后蜀汉不再设丞相，蒋琬以大司马、费祎与姜维以大将军先后主政，尚书令也一直有人担任（如蒋琬、费祎、董允）。「丞相」二字从此成了诸葛亮的专属标签。"
+  },
+  {
+    "id": "chinese-literature-224",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "关羽在襄樊之战水淹七军、擒于禁斩庞德，吓得曹操想迁都避锋芒。《三国志》用哪个四字评语形容他当时的威势？",
+    "options": [
+      "威震四海",
+      "威震华夏",
+      "名震天下",
+      "威加海内"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《三国志·关羽传》原文「羽威震华夏，曹公议徙许都以避其锐」。这是整部《三国志》里独一份的待遇，「威震华夏」四个字后来也成了关羽的专属标签。"
+  },
+  {
+    "id": "chinese-literature-225",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "诸葛亮第四次北伐因粮尽退军，一位曹魏名将不听劝阻执意追击，在木门道中箭身亡。他是谁？",
+    "options": [
+      "郭淮",
+      "曹真",
+      "张郃",
+      "夏侯渊"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《三国志·张郃传》记载张郃追至木门，「飞矢中郃右膝，薨」。有说法称主帅司马懿强令追击，让本已看出「归师勿遏」的张郃送命。夏侯渊则早在这之前二十年就死于定军山了。"
+  },
+  {
+    "id": "chinese-literature-226",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "关羽丢荆州后「败走麦城」，最终身首异处。这座留下千古之叹的麦城，遗址位于今天湖北哪座城市？",
+    "options": [
+      "江陵",
+      "襄阳",
+      "公安",
+      "当阳"
+    ],
+    "correctAnswer": 3,
+    "explanation": "麦城遗址在今湖北省当阳市两河镇。巧合的是，赵云血战的长坂坡也在当阳——同一座城，见证了蜀汉五虎将最辉煌与最悲情的两个瞬间。"
+  },
+  {
+    "id": "chinese-literature-227",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "252年孙权刚去世，司马昭便三路伐吴，结果在东兴之战中大败而归。指挥吴军打赢这一仗的主帅是谁？",
+    "options": [
+      "诸葛恪",
+      "丁奉",
+      "陆逊",
+      "陆抗"
+    ],
+    "correctAnswer": 0,
+    "explanation": "东兴之战的主帅是诸葛恪（诸葛亮之侄），他率四万大军驰援东兴。丁奉「雪中奋短兵」率敢死队突袭魏军前部、立下头功，但他是前锋而非主帅。此战后诸葛恪声望达到顶峰，次年却因新城惨败身死族灭。"
+  },
+  {
+    "id": "chinese-literature-228",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "「髀肉复生」的典故里，刘备上厕所时发现自己大腿长了赘肉，悲叹岁月虚度、功业未成。当时他正寄居在谁的地盘上？",
+    "options": [
+      "曹操",
+      "刘表",
+      "吕布",
+      "袁绍"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《九州春秋》记载刘备在荆州依附刘表数年，一次席间如厕，「见髀里肉生，慨然流涕」。久不骑马征战，大腿自然长肉——这份壮志未酬的焦虑，后来成了「髀肉复生」这个成语。"
+  },
+  {
+    "id": "chinese-literature-229",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "曹操曾隔江遥望孙权的军容，喟然长叹「生子当如孙仲谋，刘景升儿子若豚犬耳」。这句著名感叹是在哪次对峙中发出的？",
+    "options": [
+      "赤壁之战",
+      "合肥之战",
+      "汉中之战",
+      "濡须之战"
+    ],
+    "correctAnswer": 3,
+    "explanation": "裴松之注引《吴历》记载，213年濡须之战中曹操见孙权水军「舟船器仗军伍整肃」，发出这句感叹。辛弃疾「生子当如孙仲谋」的名句就化用自此，而「刘景升儿子」指的是坐拥荆州却拱手投降的刘琮。"
+  },
+  {
+    "id": "chinese-literature-230",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "曹操「煮酒论英雄」，说出「今天下英雄，惟使君与操耳」的那一刻，正在吃饭的刘备有什么失态反应？",
+    "options": [
+      "惊得筷子勺子掉落在地",
+      "当场大笑连声称不敢",
+      "举杯回敬一饮而尽",
+      "起身告辞拂袖而去"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《三国志·先主传》记载「先主方食，失匕箸」——刘备吓得匙筷都掉了。《华阳国志》补充恰好一声惊雷，刘备顺势掩饰说「迅雷风烈必变」，堪称教科书级的临场急智。"
+  },
+  {
+    "id": "chinese-literature-231",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "「桃园三结义」里，除了刘备和关羽，第三位磕头结拜的兄弟是谁？",
+    "options": [
+      "赵云",
+      "张飞",
+      "诸葛亮",
+      "马超"
+    ],
+    "correctAnswer": 1,
+    "explanation": "桃园结义的三兄弟是刘备、关羽、张飞，誓词「不求同年同月同日生，但愿同年同月同日死」流传千古。正史中三人只是「恩若兄弟」，结拜仪式是《三国演义》的艺术创作。"
+  },
+  {
+    "id": "chinese-literature-232",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "刘备「三顾茅庐」，冒着风雪跑了三趟隆中，诚心请出山的是哪位高人？",
+    "options": [
+      "庞统",
+      "徐庶",
+      "诸葛亮",
+      "司马徽"
+    ],
+    "correctAnswer": 2,
+    "explanation": "三顾茅庐请的是「卧龙」诸葛亮，一篇《隆中对》就把三分天下安排得明明白白。顺便记住：卧龙是诸葛亮，凤雏是庞统，推荐他们的「水镜先生」则是司马徽。"
+  },
+  {
+    "id": "chinese-literature-233",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "行军途中士兵口渴难耐，一句「前面有片大梅林」让大家口水直流、忘了口渴。想出这招「望梅止渴」的是谁？",
+    "options": [
+      "刘备",
+      "诸葛亮",
+      "孙权",
+      "曹操"
+    ],
+    "correctAnswer": 3,
+    "explanation": "「望梅止渴」出自《世说新语》，主角是曹操。士兵们想到酸梅嘴里生津，靠精神胜利法撑到了水源——堪称心理暗示的祖师爷级操作。"
+  },
+  {
+    "id": "chinese-literature-234",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "长坂桥头，谁横矛立马、一声怒吼「我乃燕人张翼德也，谁敢与我决一死战」，吓得曹操大军不敢上前？",
+    "options": [
+      "张飞",
+      "关羽",
+      "赵云",
+      "吕布"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《三国演义》里张飞连声大喝，曹军将领夏侯杰竟被吓得坠马而死，曹军掉头就跑。正史也记载张飞「据水断桥」瞋目横矛喝退追兵——嗓门大真的能当武器。"
+  },
+  {
+    "id": "chinese-literature-235",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "《三国演义》中，关羽中了毒箭后「刮骨疗毒」，一边开刀一边喝酒下棋、面不改色。为他操刀的神医是谁？",
+    "options": [
+      "张仲景",
+      "董奉",
+      "华佗",
+      "扁鹊"
+    ],
+    "correctAnswer": 2,
+    "explanation": "演义里为关羽刮骨去毒的是名医华佗，手术全程关羽谈笑自若，把华佗都看呆了。不过正史《三国志》虽确有其事，却没记载医生的姓名，这段高光算是华佗「借」来的。"
+  },
+  {
+    "id": "chinese-literature-236",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "蜀汉灭亡后，哪位后主被带到洛阳，在宴会上笑呵呵地说出「此间乐，不思蜀」这句名言？",
+    "options": [
+      "刘谌",
+      "刘禅",
+      "孙皓",
+      "曹奂"
+    ],
+    "correctAnswer": 1,
+    "explanation": "司马昭设宴，蜀地歌舞一响，蜀汉旧臣个个落泪，只有刘禅看得开心：「此间乐，不思蜀。」成语「乐不思蜀」就此诞生，他也坐稳了「扶不起的阿斗」这个称号。"
+  },
+  {
+    "id": "chinese-literature-237",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "「出师未捷身先死，长使英雄泪满襟」——诸葛亮最后一次北伐时积劳成疾，病逝于何处？",
+    "options": [
+      "白帝城",
+      "定军山",
+      "街亭",
+      "五丈原"
+    ],
+    "correctAnswer": 3,
+    "explanation": "234年，诸葛亮病逝于五丈原（今陕西岐山南）军中，享年五十四岁。蜀军撤退时推出他的木像，竟把追来的司马懿吓跑，留下「死诸葛能走生仲达」的段子。"
+  },
+  {
+    "id": "chinese-literature-238",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "「人中吕布，马中赤兔」——《三国演义》中吕布败亡后，曹操把赤兔马赠给了哪位猛将，从此它驮着主人过五关斩六将？",
+    "options": [
+      "关羽",
+      "黄忠",
+      "张辽",
+      "徐晃"
+    ],
+    "correctAnswer": 0,
+    "explanation": "吕布死后赤兔归了曹操，曹操为笼络关羽将马相赠。后来关羽骑着它斩颜良、过五关，赤兔也成了「忠义座驾」。正史只记载吕布有赤兔马，赠马关羽则是演义的加戏。"
+  },
+  {
+    "id": "chinese-literature-239",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "曹丕逼弟弟曹植在七步之内作诗，否则问斩，曹植脱口而出的《七步诗》里，用什么东西比喻兄弟相残？",
+    "options": [
+      "梅花与雪",
+      "兰草与荆棘",
+      "豆子与豆萁",
+      "松柏与秋霜"
+    ],
+    "correctAnswer": 2,
+    "explanation": "「煮豆燃豆萁，豆在釜中泣。本是同根生，相煎何太急」——曹植用豆子和烧豆子的豆萁比喻兄弟本是一体却自相残杀，一句诗把曹丕说得脸上挂不住，这才饶了他一命。这个故事最早见于《世说新语》，是否完全属实史学界仍有争论，但丝毫不影响它成为千古名句。"
+  },
+  {
+    "id": "chinese-literature-240",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "诸葛亮过江说服孙权联刘抗曹，「舌战群儒」的这场唇枪舌剑发生在东吴当时的驻地哪里？",
+    "options": [
+      "柴桑",
+      "建业",
+      "江陵",
+      "夏口"
+    ],
+    "correctAnswer": 0,
+    "explanation": "当时孙权的大本营还在柴桑（今江西九江一带），赤壁之战后势力东扩才迁往建业（今南京）。诸葛亮在柴桑舌战张昭、虞翻等一众文臣，一番「破曹兵、下荆州」的说辞，硬是把主降派怼得哑口无言。"
+  },
+  {
+    "id": "chinese-literature-241",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "小说里「六出祁山」广为人知，但据《三国志》记载，诸葛亮一生实际发起北伐曹魏的次数是几次？",
+    "options": [
+      "四次",
+      "六次",
+      "七次",
+      "五次"
+    ],
+    "correctAnswer": 3,
+    "explanation": "正史中诸葛亮一生共北伐五次，其中真正兵出祁山的只有两次（第一次和第四次），其余几次分别走的是陈仓、武都阴平和斜谷道。「六出祁山」是《三国演义》为了叙事整齐，把北伐次数和「出祁山」画上等号才凑出来的说法。"
+  },
+  {
+    "id": "chinese-literature-242",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "夷陵之战中，东吴年轻统帅用一把大火烧毁蜀军连绵数百里的营寨，大破刘备大军，这位统帅是谁？",
+    "options": [
+      "吕蒙",
+      "陆逊",
+      "周瑜",
+      "陆抗"
+    ],
+    "correctAnswer": 1,
+    "explanation": "陆逊当时不过三十多岁，却顶住蜀军咄咄逼人的攻势，坚守不出拖到酷暑，趁蜀军扎营于林木茂密处，一把火烧得刘备几乎全军覆没，狼狈逃回白帝城。陆逊之子陆抗后来也成了东吴名将，父子俩都是三国后期难得的顶梁柱。"
+  },
+  {
+    "id": "chinese-literature-243",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "《三国演义》里促成王允离间董卓、吕布的绝色美女貂蝉，在陈寿所著的正史《三国志》中是什么情况？",
+    "options": [
+      "确有其人，正史立传",
+      "是董卓的义女",
+      "查无此人，纯属虚构",
+      "是吕布的原配妻子"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《三国志》里压根没有「貂蝉」这个名字，只记载吕布曾与董卓身边一名侍婢私通，因此心怀恐惧不安。罗贯中把这段语焉不详的记载，敷衍成了一整出「美人计离间董吕」的大戏，貂蝉也因此成了四大美女里唯一一位纯属虚构的角色。"
+  },
+  {
+    "id": "chinese-literature-244",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "曹植千古名篇《洛神赋》，相传是他因思念一位女子而写，民间传说中这位女子是谁？",
+    "options": [
+      "甄宓",
+      "蔡文姬",
+      "大乔",
+      "孙尚香"
+    ],
+    "correctAnswer": 0,
+    "explanation": "民间传说曹植爱慕的是嫂子甄宓（曹丕之妻），甄氏死后曹植途经洛水，感梦而作《洛神赋》寄托哀思。不过这纯属后世附会的浪漫传说，正史里并无曹植与甄宓有私情的确凿记载，学界普遍认为可信度不高。"
+  },
+  {
+    "id": "chinese-literature-245",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "神医华佗因忤逆曹操被下狱处死，临死前他想把一部医书托付给狱吏保存，狱吏却因害怕受牵连不敢收下，华佗最后是怎么处理这部医书的？",
+    "options": [
+      "偷偷埋在牢房墙角",
+      "硬塞给狱吏",
+      "托人带回家乡",
+      "忍痛当面烧毁"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《三国志·华佗传》记载，华佗见狱吏不敢接，也不强求，讨了把火当场把自己毕生医术烧了个干净。后世传说这部书就是《青囊经》，连曹操后来都为此懊悔不已——只是懊悔的多半是自己没了免费保健医，而非爱惜人才。"
+  },
+  {
+    "id": "chinese-literature-246",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "张飞在阆中被部下范强、张达暗杀，两人砍下他的首级后，投奔的是谁？",
+    "options": [
+      "曹操",
+      "孙权",
+      "诸葛亮",
+      "刘禅"
+    ],
+    "correctAnswer": 1,
+    "explanation": "范强、张达因张飞常年鞭打士卒、限期三日置办白旗白甲祭奠关羽而走投无路，趁夜割了张飞首级顺江东下投奔孙权，把首级当作投名状献上。刘备闻讯只叹一句「噫！飞死矣」，果然是听到这消息就猜中了几分。"
+  },
+  {
+    "id": "chinese-literature-247",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "「单刀赴会」经演义渲染成关羽只身赴东吴「鸿门宴」、气吞山河，但据《三国志·鲁肃传》记载，这场「单刀俱会」的会面方式其实是谁主动提议的？",
+    "options": [
+      "关羽",
+      "孙权",
+      "鲁肃",
+      "吕蒙"
+    ],
+    "correctAnswer": 2,
+    "explanation": "正史记载是鲁肃主动邀约关羽「各驻兵马百步上，但请将军单刀赴会」，双方隔着酒宴据理力争荆州归属，慷慨陈词、占据上风的其实是鲁肃而非关羽。演义把这场外交交涉，写成了关羽单刀赴宴、力压江东群英的个人秀。"
+  },
+  {
+    "id": "chinese-literature-248",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "曹魏「五子良将」之一在襄樊之战中兵败投降关羽，辗转被送回魏国后，曹丕命人预先在陵屋墙壁上画好他兵败请降的耻辱画面羞辱他，他因此羞愧发病而死。这位名将是谁？",
+    "options": [
+      "于禁",
+      "徐晃",
+      "张郃",
+      "乐进"
+    ],
+    "correctAnswer": 0,
+    "explanation": "于禁跟随曹操三十余年、位列五子良将之首，却因水淹七军之败投降关羽，晚节不保。曹丕表面上安抚他，暗地里却命画工在陵屋墙壁画下「庞德愤怒、于禁乞降」的场景，于禁看后羞愤成疾，不久病逝，谥号竟是带贬义的「厉侯」。"
+  },
+  {
+    "id": "chinese-literature-249",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "孙策遇刺重伤将死之际，把江东基业托付给弟弟孙权，留下「举江东之众，决机于两阵之间，卿不如我；举贤任能，各尽其心，以保江东」的遗言，这段话是对谁说的？",
+    "options": [
+      "周瑜",
+      "张昭",
+      "孙翊",
+      "孙权"
+    ],
+    "correctAnswer": 3,
+    "explanation": "孙策临终把印绶交给孙权，坦言论打仗孙权不如自己，但论用人识才、保境安民，自己反倒不如孙权——这份清醒的自我评估，堪称三国最早的「知人善任」教科书。至于「内事不决问张昭，外事不决问周瑜」，则是孙策对张昭另外交代的托付。"
+  },
+  {
+    "id": "chinese-literature-250",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "汉献帝刘协将皇位「禅让」给曹丕后，被降封为什么？",
+    "options": [
+      "安乐公",
+      "山阳公",
+      "陈留王",
+      "魏公"
+    ],
+    "correctAnswer": 1,
+    "explanation": "刘协被封为山阳公，仍可用天子礼仪、食邑一万户，一直活到234年才去世，比曹丕还长寿了几年。有意思的是，三个亡国之君三种归宿各不相同：刘协封山阳公，蜀汉刘禅降魏后封安乐公，魏末代皇帝曹奂禅位给司马炎后则被封为陈留王。"
+  },
+  {
+    "id": "chinese-literature-251",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "东吴有一对姐妹花「大乔、小乔」，大乔嫁给了孙策，小乔则嫁给了谁？",
+    "options": [
+      "孙策",
+      "孙权",
+      "周瑜",
+      "鲁肃"
+    ],
+    "correctAnswer": 2,
+    "explanation": "小乔嫁给了周瑜，一对姐妹分别嫁给了江东最耀眼的两位少年英雄。苏轼「小乔初嫁了，雄姿英发」写的就是周瑜，不过考据起来，小乔嫁给周瑜其实比赤壁之战早了十年，苏轼这句纯属文学夸张。"
+  },
+  {
+    "id": "chinese-literature-252",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "「鞠躬尽瘁，死而后已」这句千古名言，出自诸葛亮的哪篇奏章？",
+    "options": [
+      "《后出师表》",
+      "《前出师表》",
+      "《隆中对》",
+      "《诫子书》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "「鞠躬尽瘁，死而后已」出自《后出师表》，广为人知的「受命以来，夙夜忧叹」「亲贤臣，远小人」则出自《前出师表》。冷知识：《后出师表》并未收录在陈寿《三国志》正文里，是裴松之注引《汉晋春秋》才得以流传，不少学者甚至怀疑它并非诸葛亮亲笔所作。"
+  },
+  {
+    "id": "chinese-literature-253",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "《三国演义》里曹操疑心病重，扬言「吾梦中好杀人」，一次侍从好心为他盖被子，竟被他一剑杀死。事后曹操让人怎么处理这位侍从，来蒙骗众人相信自己真是梦游杀人？",
+    "options": [
+      "嫁祸给别的仆人顶罪",
+      "秘不发丧，悄悄丢弃尸体",
+      "当众杖责侍从的家人",
+      "命人厚葬，自己还假装痛哭"
+    ],
+    "correctAnswer": 3,
+    "explanation": "曹操命人将近侍收殓厚葬，自己还装模作样痛哭一场，唬得众人都信了「梦中杀人」这套说辞。唯独主簿杨修看穿真相，叹道「丞相非在梦中，君乃在梦中耳」——这份聪明，后来也成了杨修被曹操寻由杀掉的伏笔之一。"
+  },
+  {
+    "id": "chinese-literature-254",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "诸葛亮初见刘备便定下三分天下之策，建议他先夺取哪个地方作为「立身之基」，再图取西川？",
+    "options": [
+      "江东",
+      "荆州",
+      "汉中",
+      "徐州"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这正是《隆中对》的核心战略——先取荆州立足，再取益州（西川）作根基，联合孙权、对抗曹操，待天下有变再两路出兵中原。刘备后来果然按这个蓝图一步步走，只可惜「跨有荆益」的局面没能守住多久，荆州就丢给了东吴。"
+  },
+  {
+    "id": "chinese-literature-255",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "潼关之战中，马超杀得曹操狼狈逃窜，曹操情急之下用了什么办法企图蒙混过关、避免被认出？",
+    "options": [
+      "脱盔卸甲，扮作士卒",
+      "剃光头发，扮成和尚",
+      "割须弃袍",
+      "躲进死尸堆里装死"
+    ],
+    "correctAnswer": 2,
+    "explanation": "曹操先听见士兵喊「穿红袍的是曹操」，赶紧脱下红袍；又听见「长须者是曹操」，情急之下拔剑割掉胡须；最后干脆扯旗裹住下巴狼狈逃窜。「割须弃袍」由此成了他一生中最狼狈的名场面之一，后世还被改编成了戏曲桥段。"
+  },
+  {
+    "id": "chinese-literature-256",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "奠定三国鼎立局面基础的著名战役是？",
+    "options": [
+      "官渡之战",
+      "赤壁之战",
+      "夷陵之战",
+      "淝水之战"
+    ],
+    "correctAnswer": 1,
+    "explanation": "208年孙刘联军在赤壁大败曹操主力，曹操退回北方，此后形成曹操据北方、孙权据江东、刘备据荆益的大势，三分格局逐渐奠定。"
+  },
+  {
+    "id": "chinese-literature-257",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "赤壁之战中，孙吴方面实际指挥作战的主帅是？",
+    "options": [
+      "周瑜",
+      "鲁肃",
+      "吕蒙",
+      "陆逊"
+    ],
+    "correctAnswer": 0,
+    "explanation": "赤壁之战孙吴主帅为周瑜，他采纳黄盖火攻之策大破曹军；鲁肃主联刘，吕蒙、陆逊为后辈将领。"
+  },
+  {
+    "id": "chinese-literature-258",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "曹操'挟天子以令诸侯'，其迎奉的'天子'是？",
+    "options": [
+      "汉质帝",
+      "汉献帝",
+      "汉灵帝",
+      "汉少帝"
+    ],
+    "correctAnswer": 1,
+    "explanation": "196年曹操迎汉献帝刘协至许都，取得'奉天子以令不臣'的政治优势；质帝、灵帝、少帝均为此前在位皇帝。"
+  },
+  {
+    "id": "chinese-literature-259",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "曹丕代汉建魏后，曹魏的都城定于？",
+    "options": [
+      "洛阳",
+      "许昌",
+      "邺城",
+      "长安"
+    ],
+    "correctAnswer": 0,
+    "explanation": "曹操为汉相时曾奉天子都许，并以邺城为根本之地；220年曹丕称帝后正式定都洛阳。"
+  },
+  {
+    "id": "chinese-literature-260",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "官渡之战中，曹操奇袭并焚毁袁绍囤粮基地而奠定胜局，该基地位于？",
+    "options": [
+      "白马",
+      "街亭",
+      "乌巢",
+      "阳平"
+    ],
+    "correctAnswer": 2,
+    "explanation": "200年曹操采纳许攸之计，亲率精骑夜袭乌巢，焚毁袁绍粮草辎重，袁军军心大乱而溃败。"
+  },
+  {
+    "id": "chinese-literature-261",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "'白衣渡江'袭取荆州、使关羽败走麦城的主将是哪位吴将？",
+    "options": [
+      "陆逊",
+      "甘宁",
+      "周瑜",
+      "吕蒙"
+    ],
+    "correctAnswer": 3,
+    "explanation": "219年吕蒙让精兵伪装成商旅白衣渡江，奇袭南郡荆州，关羽腹背受敌，败走麦城后为吴军擒杀。"
+  },
+  {
+    "id": "chinese-literature-262",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "公元249年'高平陵之变'中，司马懿诛除的曹魏宗室权臣是？",
+    "options": [
+      "曹植",
+      "曹真",
+      "曹爽",
+      "曹彰"
+    ],
+    "correctAnswer": 2,
+    "explanation": "249年司马懿趁曹爽随魏帝曹芳出谒高平陵之机发动政变，诛杀曹爽及其党羽，从此曹魏大权尽归司马氏。"
+  },
+  {
+    "id": "chinese-literature-263",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "'士别三日，当刮目相待'的典故，说的是孙权劝哪位吴国将领读书成才？",
+    "options": [
+      "吕蒙",
+      "周瑜",
+      "陆逊",
+      "甘宁"
+    ],
+    "correctAnswer": 0,
+    "explanation": "孙权劝吕蒙、蒋钦多读书，吕蒙发愤苦学，鲁肃再见时惊叹他'非复吴下阿蒙'，吕蒙答'士别三日，即更刮目相待'。"
+  },
+  {
+    "id": "chinese-literature-264",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "刘备于成都称帝后，其政权正式的国号是？",
+    "options": [
+      "蜀",
+      "汉",
+      "蜀汉",
+      "汉中"
+    ],
+    "correctAnswer": 1,
+    "explanation": "刘备以续承汉统自居，国号仍为'汉'（史称蜀汉、季汉）；'蜀'是《三国志》等后世史书及曹魏方面的称呼。"
+  },
+  {
+    "id": "chinese-literature-265",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "关于'空城计'的情节，下列说法符合史实的是？",
+    "options": [
+      "出自《三国演义》的虚构创作，正史并无依据",
+      "确有其事，见于《三国志·诸葛亮传》",
+      "确有其事，见于《三国志·司马懿传》",
+      "为曹操在官渡之战时所用之计"
+    ],
+    "correctAnswer": 0,
+    "explanation": "诸葛亮以空城吓退司马懿出自《三国演义》，《三国志》正文及裴松之注均无记载，属演义虚构情节。"
+  },
+  {
+    "id": "chinese-literature-266",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "关于关羽'刮骨疗毒'，下列说法符合正史的是？",
+    "options": [
+      "正史确载其事，施术者正是神医华佗",
+      "属《三国演义》虚构，正史并无记载",
+      "正史确载其事，但施术医者并非华佗",
+      "据正史，关羽中箭后从未医治"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《三国志·关羽传》确有'刮骨去毒'的记载，但未记医者姓名；华佗约在208年前已被曹操处死，而关羽刮骨在214年之后，故施术者不可能是华佗。"
+  },
+  {
+    "id": "chinese-literature-267",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "正史中219年关羽'水淹七军'、擒于禁斩庞德的真相是？",
+    "options": [
+      "关羽于上游筑坝蓄水，决堤灌淹魏军",
+      "正值秋季大雨，汉水暴涨，于禁七军尽没",
+      "庞德临阵倒戈，于禁孤立无援所致",
+      "关羽先以火攻焚魏军水寨再引水淹之"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《三国志·关羽传》载'秋，大霖雨，汉水泛溢'，于禁七军被淹而降；筑坝放水是《三国演义》的渲染。"
+  },
+  {
+    "id": "chinese-literature-268",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "黛玉前世是灵河岸边受神瑛侍者甘露灌溉的一株草，下凡要用一生眼泪还情，这株草叫什么？",
+    "options": [
+      "绛珠仙草",
+      "瑶池蟠桃",
+      "千年灵芝",
+      "并蒂莲"
+    ],
+    "correctAnswer": 0,
+    "explanation": "神瑛侍者就是宝玉的前身，他每天用甘露浇灌这株草；草修成女体后为报灌溉之恩，发愿下凡把一生的眼泪还给他——这就是「木石前盟」的由来。"
+  },
+  {
+    "id": "chinese-literature-269",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "贾府大小姐「元春」的名字，来自她出生在哪一天？",
+    "options": [
+      "正月初一",
+      "腊月初八",
+      "元宵节",
+      "立春那天"
+    ],
+    "correctAnswer": 0,
+    "explanation": "第二回冷子兴介绍荣国府时说，大小姐是正月初一所生，所以叫元春，后面的妹妹才顺着用「春」字，成了迎春、探春、惜春。"
+  },
+  {
+    "id": "chinese-literature-270",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "宝玉第一次见到黛玉，细细端详后笑着说了句什么名台词？",
+    "options": [
+      "这位妹妹真是神仙下凡",
+      "这个妹妹我曾见过的",
+      "原来你就是黛玉妹妹",
+      "早听说林妹妹才貌双全"
+    ],
+    "correctAnswer": 1,
+    "explanation": "贾母笑骂他胡说，宝玉却说虽然没见过，但看着面善，「心里就算是旧相识，今日只作远别重逢」——很多读者认为这是在暗示两人前世的缘分。"
+  },
+  {
+    "id": "chinese-literature-271",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "宝玉初见黛玉，听说她没有玉，抓起自己的通灵宝玉狠命摔去。他的理由是什么？",
+    "options": [
+      "被贾政逼着读书，拿玉出气",
+      "神仙似的妹妹都没有，可见不是好东西",
+      "被姐妹们取笑，恼羞成怒",
+      "嫌它太沉，压得脖子疼"
+    ],
+    "correctAnswer": 1,
+    "explanation": "贾母急得搂住他说：「你生气打骂人容易，何苦摔那命根子！」宝玉哭着说，家里姐妹都没有，单我有，如今神仙似的妹妹也没有，可知这不是个好东西。"
+  },
+  {
+    "id": "chinese-literature-272",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "《红楼梦》曲里唱「一个是阆苑仙葩，一个是美玉无瑕」，这首《枉凝眉》唱的是谁和谁？",
+    "options": [
+      "贾琏和凤姐",
+      "柳湘莲和尤三姐",
+      "宝玉和黛玉",
+      "宝玉和宝钗"
+    ],
+    "correctAnswer": 2,
+    "explanation": "「阆苑仙葩」指前世是仙草的黛玉，「美玉无瑕」指宝玉；曲子接着唱他们「一个是水中月，一个是镜中花」，把这段爱情终成泡影的遗憾唱得凄婉。"
+  },
+  {
+    "id": "chinese-literature-273",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "判词「玉带林中挂，金簪雪里埋」用了倒读和谐音，把哪两位姑娘的名字藏了进去？",
+    "options": [
+      "史湘云和贾探春",
+      "林黛玉和薛宝钗",
+      "妙玉和贾惜春",
+      "贾元春和贾迎春"
+    ],
+    "correctAnswer": 1,
+    "explanation": "「玉带林」倒过来读就是「林黛玉」（带、黛谐音），「金簪雪」的「雪」谐音「薛」，指薛宝钗。这句判词把钗、黛画在同一幅图里，暗示两人的命运纠缠。"
+  },
+  {
+    "id": "chinese-literature-274",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "薛宝钗从娘胎里带来一股「热毒」，靠一种用四季白花花蕊配成的药丸压着，这药叫什么？",
+    "options": [
+      "人参养荣丸",
+      "天王补心丹",
+      "冷香丸",
+      "六味地黄丸"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这是和尚给的海上方：春夏秋冬四种白花的花蕊，分别用雨水、白露、霜降、小雪的水调和，做成丸子埋在花根底下，发病时取一丸，用黄柏煎汤送服。"
+  },
+  {
+    "id": "chinese-literature-275",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "贾瑞迷恋凤姐害了相思病，跛足道人送他一面镜子，叮嘱千万别照正面，他偏照了。这镜子叫什么？",
+    "options": [
+      "菱花铜镜",
+      "太虚宝镜",
+      "照妖镜",
+      "风月宝鉴"
+    ],
+    "correctAnswer": 3,
+    "explanation": "镜子正面是凤姐向他招手，他一次次钻进镜中，最后一命呜呼；反面其实是个骷髅。「风月宝鉴」还是《红楼梦》早期的书名之一，由东鲁孔梅溪所题。"
+  },
+  {
+    "id": "chinese-literature-276",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "黛玉扛着花锄把落花埋进花冢，边埋边吟《葬花吟》。下面哪一句出自这首诗？",
+    "options": [
+      "落红不是无情物，化作春泥更护花",
+      "知否知否，应是绿肥红瘦",
+      "无可奈何花落去，似曾相识燕归来",
+      "花谢花飞花满天，红消香断有谁怜"
+    ],
+    "correctAnswer": 3,
+    "explanation": "宝玉在山坡上听见她吟诵，听得恸倒在地，怀里兜的落花撒了一地。「落红不是无情物」是龚自珍的诗，别弄混了。"
+  },
+  {
+    "id": "chinese-literature-277",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "晴雯就爱听撕扇子的声响，宝玉笑着由她撕，还引了哪句古话？",
+    "options": [
+      "红袖添香夜读书",
+      "一诺千金",
+      "花开堪折直须折",
+      "千金难买一笑"
+    ],
+    "correctAnswer": 3,
+    "explanation": "第三十一回的回目就叫「撕扇子作千金一笑」。宝玉说东西原是给人用的，撕着玩也使得，只是不能拿它出气；麝月还在一旁提议干脆把整匣扇子搬来让她撕。"
+  },
+  {
+    "id": "chinese-literature-278",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "刘姥姥在大观园被凤姐插了满头花，众人笑说把她打扮成了个什么？",
+    "options": [
+      "老妖精",
+      "老寿星",
+      "老封君",
+      "老菩萨"
+    ],
+    "correctAnswer": 0,
+    "explanation": "刘姥姥一点不恼，还笑着说自己年轻时也风流，爱个花儿粉儿的，「今儿老风流才好」，把满屋子人又逗乐了。"
+  },
+  {
+    "id": "chinese-literature-279",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "史湘云喝醉了，躺在大观园的山石凳上睡着，蜂蝶围着她转，她拿什么当枕头？",
+    "options": [
+      "一摞刚写好的诗稿",
+      "包着芍药花瓣的手帕",
+      "丫鬟抱来的软枕",
+      "宝玉递来的披风"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这是第六十二回「憨湘云醉眠芍药裀」的名场面：花瓣落了她一身，连手里的扇子也被落花埋了半边。"
+  },
+  {
+    "id": "chinese-literature-280",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "柳湘莲把一件家传宝物交给贾琏当聘礼，托他送给尤三姐，这件宝物是什么？",
+    "options": [
+      "紫金冠",
+      "羊脂玉佩",
+      "鸳鸯剑",
+      "金麒麟"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这是一对剑，一柄刻着「鸳」，一柄刻着「鸯」。后来柳湘莲听了风言风语上门退亲，尤三姐当场拔出雌剑自刎；柳湘莲悔恨不已，随一位道士出家而去。"
+  },
+  {
+    "id": "chinese-literature-281",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "宝玉大婚，新娘不是他一心要娶的黛玉，这是王熙凤献上的哪条计策？",
+    "options": [
+      "借剑杀人",
+      "调虎离山",
+      "掉包计",
+      "毒设相思局"
+    ],
+    "correctAnswer": 2,
+    "explanation": "凤姐向贾母献策：对宝玉只说是把林姑娘配给他，实际娶进门的却是宝钗，她管这叫「掉包儿的法子」。新房里的热闹与潇湘馆里的凄凉，成了后四十回最令人心碎的对照。"
+  },
+  {
+    "id": "chinese-literature-282",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "《红楼梦》通行的一百二十回本，后四十回长期以来被认为是谁续写的？",
+    "options": [
+      "高鹗",
+      "吴敬梓",
+      "脂砚斋",
+      "李汝珍"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1791年，程伟元、高鹗用木活字排印出一百二十回的「程甲本」，胡适等人认为后四十回是高鹗续作。不过至今仍有争议，人民文学出版社2008年的新校本就改署「后四十回无名氏续」。"
+  },
+  {
+    "id": "chinese-literature-283",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "黄巾起义的三兄弟里，张角自称「天公将军」，张宝称「地公将军」，三弟张梁称什么？",
+    "options": [
+      "神公将军",
+      "星公将军",
+      "人公将军",
+      "雷公将军"
+    ],
+    "correctAnswer": 2,
+    "explanation": "书里的张角本是个落第秀才，入山采药时遇到自称「南华老仙」的老人，得了三卷《太平要术》，从此散符水治病，喊出「苍天已死，黄天当立」。"
+  },
+  {
+    "id": "chinese-literature-284",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "桃园结义后，三兄弟请匠人打造兵器。性格火爆的张飞，手里使的是哪一件？",
+    "options": [
+      "双股剑",
+      "方天画戟",
+      "青龙偃月刀",
+      "丈八蛇矛"
+    ],
+    "correctAnswer": 3,
+    "explanation": "刘备用双股剑，关羽使青龙偃月刀，张飞这杆矛长一丈八尺。虎牢关前，三人就是靠这几样家伙围着吕布「转灯儿般厮杀」。"
+  },
+  {
+    "id": "chinese-literature-285",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "关羽那口重八十二斤的青龙偃月刀，书中说它还有一个别名，叫什么？",
+    "options": [
+      "冷艳锯",
+      "断水刀",
+      "寒月钩",
+      "龙吟刀"
+    ],
+    "correctAnswer": 0,
+    "explanation": "第一回里三兄弟结义后请良匠打造兵器，这口大刀「重八十二斤」。虎牢关前，关羽就是舞着它来夹攻吕布的。"
+  },
+  {
+    "id": "chinese-literature-286",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "十八路诸侯会盟讨董，谁最先开口提议推举袁绍当盟主，理由是「四世三公，门多故吏」？",
+    "options": [
+      "曹操",
+      "孙坚",
+      "袁术",
+      "公孙瓒"
+    ],
+    "correctAnswer": 0,
+    "explanation": "曹操把盟主之位捧给了袁绍；十年之后，两人在官渡拼死决战，曹操大获全胜。"
+  },
+  {
+    "id": "chinese-literature-287",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "虎牢关前，张飞破口大骂吕布「三姓家奴」。吕布先后认过哪两位义父？",
+    "options": [
+      "丁原、袁术",
+      "丁原、董卓",
+      "董卓、李儒",
+      "王允、董卓"
+    ],
+    "correctAnswer": 1,
+    "explanation": "李肃拿赤兔马、黄金一千两和一条玉带收买吕布，当夜他就提刀杀了丁原，转拜董卓为义父。"
+  },
+  {
+    "id": "chinese-literature-288",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "曹操行刺董卓失手，急中生智谎称「来献刀」脱身。这把刀叫什么？",
+    "options": [
+      "龙泉宝剑",
+      "湛卢宝剑",
+      "七星宝刀",
+      "尚方宝剑"
+    ],
+    "correctAnswer": 2,
+    "explanation": "刀是王允借给他的，「长尺余，七宝嵌饰，极其锋利」，董卓看了说「果宝刀也」，顺手递给吕布收着。"
+  },
+  {
+    "id": "chinese-literature-289",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "曹操逃亡借宿吕伯奢家，听见后院有人说「缚而杀之」，拔剑就杀。后院其实要杀的是什么？",
+    "options": [
+      "一只羊",
+      "一条狗",
+      "一头猪",
+      "一只鸡"
+    ],
+    "correctAnswer": 2,
+    "explanation": "曹操一连杀了八口，才在厨下看见被捆着的猪；路上又撞见买酒回来的吕伯奢，索性补了一剑，还留下名言「宁教我负天下人，休教天下人负我」。"
+  },
+  {
+    "id": "chinese-literature-290",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "孙坚攻入洛阳后，从井里捞出一具宫女尸体，颈下锦囊的朱红小匣里装着什么？",
+    "options": [
+      "先帝遗诏",
+      "天子虎符",
+      "镇国宝鼎",
+      "传国玉玺"
+    ],
+    "correctAnswer": 3,
+    "explanation": "孙坚偷偷藏起玉玺想带回江东，被袁绍逼问时指天发誓「若私藏，死于刀箭之下」。后来他果然死在岘山的乱石乱箭之中。"
+  },
+  {
+    "id": "chinese-literature-291",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "王允施连环计，吕布与貂蝉在董卓相府后园私会，被董卓撞个正着。这座亭子叫什么？",
+    "options": [
+      "邀月亭",
+      "凤仪亭",
+      "长乐亭",
+      "听雨亭"
+    ],
+    "correctAnswer": 1,
+    "explanation": "董卓夺过吕布倚在一旁的画戟，追出园门朝他掷去，义父义子从此反目。"
+  },
+  {
+    "id": "chinese-literature-292",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "董卓被吕布刺死后，尸首拉到街头示众。因为他太胖，看尸的士兵在他肚脐里做了什么？",
+    "options": [
+      "插了一面小旗",
+      "塞满铜钱",
+      "压了一块大石",
+      "点起一盏灯"
+    ],
+    "correctAnswer": 3,
+    "explanation": "书里写「以火置其脐中为灯，膏油满地」。过路的百姓无不朝他的脑袋扔东西、往尸体上踩。"
+  },
+  {
+    "id": "chinese-literature-293",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "吕布在辕门一箭射中远处画戟的小枝，一举化解了袁术大将纪灵与谁的战事？",
+    "options": [
+      "曹操",
+      "公孙瓒",
+      "孙策",
+      "刘备"
+    ],
+    "correctAnswer": 3,
+    "explanation": "吕布把戟插在一百五十步之外，说「射中小枝，你两家罢兵」，一箭命中，纪灵只得退兵。这就是「辕门射戟」。"
+  },
+  {
+    "id": "chinese-literature-294",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "宛城之败，曹操折了长子曹昂和爱侄曹安民，可他当着众将痛哭的却是另一个人。是谁？",
+    "options": [
+      "典韦",
+      "郭嘉",
+      "夏侯惇",
+      "许褚"
+    ],
+    "correctAnswer": 0,
+    "explanation": "起因是他迷上了张济的遗孀邹氏，激怒了张绣。事后他亲自设祭，边哭边说「吾折长子、爱侄，俱无深痛；独号泣典韦也」。"
+  },
+  {
+    "id": "chinese-literature-295",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "许田打围，曹操竟拿天子的宝雕弓射中了鹿，还大模大样接受群臣山呼万岁。谁气得提刀要斩曹操？",
+    "options": [
+      "赵云",
+      "张飞",
+      "董承",
+      "关羽"
+    ],
+    "correctAnswer": 3,
+    "explanation": "曹操纵马遮在天子面前迎受欢呼，群臣无不失色。刘备慌忙摇手送目，关羽才不敢动，事后还被大哥用「投鼠忌器」劝住。"
+  },
+  {
+    "id": "chinese-literature-296",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "孙策怒斩了一位被百姓奉为神仙的道士，后来照镜子见他立在镜中，气得金疮迸裂。这位道士是？",
+    "options": [
+      "左慈",
+      "管辂",
+      "于吉",
+      "张角"
+    ],
+    "correctAnswer": 2,
+    "explanation": "孙策认定他是妖人，说「吾杀之，何异屠猪狗」。他本在养刺客留下的箭伤，被这一吓伤口崩裂，临终把江东托给弟弟孙权，叮嘱「内事不决问张昭，外事不决问周瑜」。"
+  },
+  {
+    "id": "chinese-literature-297",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "寄居许都的刘备，为了让曹操放松警惕，天天在后园里忙活什么？",
+    "options": [
+      "种菜浇水",
+      "养鸟遛马",
+      "读书写字",
+      "练剑习武"
+    ],
+    "correctAnswer": 0,
+    "explanation": "关羽、张飞见大哥不理天下大事，反去干「小人之事」，急得直问；刘备只回一句「此非二弟所知也」。"
+  },
+  {
+    "id": "chinese-literature-298",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "关羽斩颜良后夸弟弟张飞「于百万军中取上将之头，如探囊取物」。曹操大惊，立刻做了什么？",
+    "options": [
+      "让人把张飞的名字写在衣襟底下",
+      "下令全军见到张飞就绕道走",
+      "派人去劝降张飞，收为己用",
+      "当场重赏关羽并加官晋爵"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这个提醒后来应验了：长坂桥头张飞一声怒喝，曹操脱口就说「我向曾闻云长言，翼德于百万军中取上将之首」，不敢轻敌。"
+  },
+  {
+    "id": "chinese-literature-299",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "官渡大胜后，曹操搜出一束自己部下私通袁绍的书信，左右劝他按名单逐个杀掉。他怎么做？",
+    "options": [
+      "当众宣读羞辱他们",
+      "只杀带头的几个人",
+      "全部烧掉，一个不问",
+      "封存起来日后再算账"
+    ],
+    "correctAnswer": 2,
+    "explanation": "他说「当绍之强，孤亦不能自保，况他人乎？」把书信尽数焚毁，再不追问。"
+  },
+  {
+    "id": "chinese-literature-300",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "曹操送关羽一件崭新的锦袍，关羽却穿在里面，外面仍罩着旧袍。他给出的理由是？",
+    "options": [
+      "新袍尺寸太小，穿着不合身",
+      "新袍太华贵，怕遭人非议",
+      "旧袍是刘备所赐，穿它如见兄长",
+      "旧袍陪他打过许多胜仗"
+    ],
+    "correctAnswer": 2,
+    "explanation": "曹操嘴上感叹「真义士也」，心里其实很不痛快。"
+  },
+  {
+    "id": "chinese-literature-301",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "曹操故意安排关羽与两位嫂嫂同住一屋，想乱他的君臣之礼。关羽是怎么做的？",
+    "options": [
+      "手持蜡烛立在门外，通宵不睡",
+      "连夜把嫂嫂送到张辽家借住",
+      "让自己的亲兵搬进屋里同住",
+      "请曹操另换一处住所"
+    ],
+    "correctAnswer": 0,
+    "explanation": "曹操见了「愈加敬服」。到许昌后，关羽又把宅子分成内外两院，自己住外院，内门派老军十人把守。"
+  },
+  {
+    "id": "chinese-literature-302",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "关羽多次登门向曹操辞行，曹操每回都在门口挂出什么牌子，躲着不见？",
+    "options": [
+      "休沐牌",
+      "病假牌",
+      "回避牌",
+      "免战牌"
+    ],
+    "correctAnswer": 2,
+    "explanation": "关羽连去数次都见不着人，又去张辽家，张辽也托病不出。他只好写信辞谢，封金挂印，把汉寿亭侯印悬在堂上，护着二嫂上路。"
+  },
+  {
+    "id": "chinese-literature-303",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "关羽辞别曹操，曹操带人追到桥头赠袍。关羽怕有诈，不肯下马，是怎么接袍的？",
+    "options": [
+      "拒不接受，策马而去",
+      "用刀尖挑起披在身上",
+      "下马跪接谢恩",
+      "请嫂嫂代为收下"
+    ],
+    "correctAnswer": 1,
+    "explanation": "许褚恼他无礼，曹操却叹「彼一人一骑，吾数十余人，安得不疑」，还是放他走了。这一幕后世常被称作「灞桥挑袍」。"
+  },
+  {
+    "id": "chinese-literature-304",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "过五关斩六将时，汜水关镇国寺里一位与关羽同乡的和尚举戒刀示警，他法名叫什么？",
+    "options": [
+      "法明",
+      "无相",
+      "慧觉",
+      "普净"
+    ],
+    "correctAnswer": 3,
+    "explanation": "汜水关守将卞喜在寺里埋伏了二百多刀斧手，约好击盏为号。关羽早已望见壁衣后有人，大喝一声，一刀劈了暗施飞锤的卞喜。"
+  },
+  {
+    "id": "chinese-literature-305",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "古城相会，张飞疑关羽降曹，要他在三通鼓罢前斩杀追来的曹将蔡阳。关羽实际用了多久？",
+    "options": [
+      "一通鼓还没擂完",
+      "擂到第二通鼓",
+      "擂完三通仍未得手",
+      "三通鼓刚好擂完"
+    ],
+    "correctAnswer": 0,
+    "explanation": "张飞亲自擂鼓，蔡阳的头已经落地。他又把小卒抓来细问关羽在许都的所作所为，这才信了二哥的清白。"
+  },
+  {
+    "id": "chinese-literature-306",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "刘备被蔡瑁追杀，前有大溪拦路，那匹「妨主」的的卢马猛地一跃，飞过了哪条溪？",
+    "options": [
+      "泗水",
+      "汉水",
+      "白河",
+      "檀溪"
+    ],
+    "correctAnswer": 3,
+    "explanation": "刘备情急大喊「的卢，的卢！今日妨吾！」，那马竟从水中涌身一跃三丈。后来有人劝他别骑妨主的马，他却说「死生有命，岂马所能妨」。"
+  },
+  {
+    "id": "chinese-literature-307",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "曹操为逼徐庶投奔，让谁先骗得徐母的笔迹，再模仿她的字体伪造家书？",
+    "options": [
+      "荀彧",
+      "程昱",
+      "贾诩",
+      "郭嘉"
+    ],
+    "correctAnswer": 1,
+    "explanation": "徐母怒骂曹操「名为汉相，实为汉贼」，还抡起石砚砸他。徐庶拿着假家书泣别刘备，临走推荐了诸葛亮。"
+  },
+  {
+    "id": "chinese-literature-308",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "刘备三顾茅庐，诸葛亮睡午觉迟迟不醒，等急了的张飞嚷嚷着要干什么？",
+    "options": [
+      "一脚踹开大门",
+      "扛来大锣猛敲",
+      "翻墙进去把他拖起来",
+      "到屋后放一把火"
+    ],
+    "correctAnswer": 3,
+    "explanation": "关羽再三劝住。刘备却拱手站在阶下，又静静等了一个时辰，诸葛亮才吟着「大梦谁先觉」醒来。"
+  },
+  {
+    "id": "chinese-literature-309",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "诸葛亮出山不久，看见刘备兴致勃勃亲手在做一样东西，立刻正色批评他「无复有远志」。刘备在做什么？",
+    "options": [
+      "亲手削竹做箭",
+      "用竹篾编草鞋",
+      "用牦牛尾编帽子",
+      "给战马刷毛"
+    ],
+    "correctAnswer": 2,
+    "explanation": "刘备赶紧把帽子扔在地上，说「吾聊假此以忘忧耳」。诸葛亮接着追问他自己比曹操如何，他老实承认「不如也」。"
+  },
+  {
+    "id": "chinese-literature-310",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "诸葛亮出山后烧的「第一把火」，烧的是曹操哪位大将的十万大军？",
+    "options": [
+      "曹仁",
+      "夏侯惇",
+      "许褚",
+      "张辽"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这场仗叫博望坡之战。关羽、张飞起初很不服气，诸葛亮却给赵云下了道怪军令：「不要赢，只要输」。"
+  },
+  {
+    "id": "chinese-literature-311",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "火烧新野之夜，诸葛亮让关羽在白河上游「蓄水待发」，靠什么把河水拦住？",
+    "options": [
+      "临时垒起的木坝",
+      "装满沙土的布袋",
+      "新凿的引水渠",
+      "成排的木筏"
+    ],
+    "correctAnswer": 1,
+    "explanation": "曹军入城被火烧后仓皇逃命，关羽一声令下取起布袋放水，下游的曹军人喊马嘶，又被大水一冲。"
+  },
+  {
+    "id": "chinese-literature-312",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "曹军将至，刘备带着十几万百姓每天只走十来里。部下劝他先撤，他怎么答？",
+    "options": [
+      "举大事者必以人为本，怎能弃之",
+      "百姓自有天命，不必过分挂怀",
+      "先保全三军，再顾百姓",
+      "留两千兵断后，其余人先走"
+    ],
+    "correctAnswer": 0,
+    "explanation": "百姓听了无不感动，只是行军太慢，曹操的追兵也就越逼越近。"
+  },
+  {
+    "id": "chinese-literature-313",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "长坂坡上，身受重伤的糜夫人把阿斗托付给赵云。为了不拖累他，她做了什么？",
+    "options": [
+      "拔剑自刎",
+      "独自引开追兵",
+      "投入枯井自尽",
+      "跳下山崖"
+    ],
+    "correctAnswer": 2,
+    "explanation": "赵云怕曹军盗尸，推倒土墙掩住枯井，才解开勒甲绦、放下掩心镜，把阿斗抱护在怀里上马。"
+  },
+  {
+    "id": "chinese-literature-314",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "长坂坡，赵云刺死曹操的背剑将夏侯恩，夺得一口「砍铁如泥」的宝剑。剑名是？",
+    "options": [
+      "青釭剑",
+      "龙渊剑",
+      "倚天剑",
+      "湛卢剑"
+    ],
+    "correctAnswer": 0,
+    "explanation": "曹操有两口宝剑：倚天自己佩带，青釭交给夏侯恩背着。赵云后来杀出重围时，一路就靠这口剑乱砍。"
+  },
+  {
+    "id": "chinese-literature-315",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "赵云在长坂坡杀得曹军大乱，曹操在景山顶上望见，连声称赞「真虎将也」，下令怎样对待他？",
+    "options": [
+      "不许放冷箭，只要活捉",
+      "悬赏千金取其首级",
+      "集中弓弩万箭齐发",
+      "亲自率军围堵"
+    ],
+    "correctAnswer": 0,
+    "explanation": "多亏这道命令，赵云才得以脱身，书里说这「亦阿斗之福所致也」。他这一路杀死的曹营名将有五十余员。"
+  },
+  {
+    "id": "chinese-literature-316",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "赵云血战长坂坡救出阿斗，把孩子递给刘备。刘备接过来做了什么？",
+    "options": [
+      "立刻交给糜竺照看",
+      "把孩子摔在地上",
+      "当场把佩剑赠给赵云",
+      "抱着孩子放声大哭"
+    ],
+    "correctAnswer": 1,
+    "explanation": "他说「为汝这孺子，几损我一员大将！」赵云连忙抱起阿斗，泣拜说肝脑涂地也难报答。歇后语「刘备摔孩子——收买人心」就出自这里。"
+  },
+  {
+    "id": "chinese-literature-317",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "长坂桥头，张飞让手下二十多骑在桥东树林里干什么，制造伏兵重重的假象？",
+    "options": [
+      "满林遍插各色旗帜",
+      "马尾拴树枝，来回奔跑扬尘",
+      "轮流擂鼓，齐声呐喊",
+      "埋锅造饭，让炊烟四起"
+    ],
+    "correctAnswer": 1,
+    "explanation": "曹军见桥后尘土大起，又怕是诸葛亮的计谋，个个不敢上前，只能一字排开在桥西干瞪眼。"
+  },
+  {
+    "id": "chinese-literature-318",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "张飞喝退曹军后拆断长坂桥，刘备却说他「勇则勇矣，惜失于计较」。理由是？",
+    "options": [
+      "桥一拆，曹操就看出他心虚必来追",
+      "这座桥是百姓渡江的唯一通道",
+      "桥断后自己人也无路可退",
+      "拆桥的动静太大会惊动曹军"
+    ],
+    "correctAnswer": 0,
+    "explanation": "果然曹操听说桥断，断定张飞心怯，连夜搭三座浮桥追击。刘备早料到「彼有百万之众，虽涉江、汉，可填而过，岂惧一桥之断耶」。"
+  },
+  {
+    "id": "chinese-literature-319",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "舌战群儒时，诸葛亮讥讽东吴谋士「小儿之见」。这位谋士小时候曾在袁术宴席上偷藏橘子孝敬母亲，他是谁？",
+    "options": [
+      "虞翻",
+      "严畯",
+      "陆绩",
+      "薛综"
+    ],
+    "correctAnswer": 2,
+    "explanation": "陆绩嘲笑刘备是「织席贩屦之夫」，诸葛亮回敬：汉高祖不也是亭长出身吗？织席贩屦有何可耻？"
+  },
+  {
+    "id": "chinese-literature-320",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "草船借箭得手后，诸葛亮让每条船上的军士齐声高喊什么，曹军这才发觉上当？",
+    "options": [
+      "江东水军到",
+      "谢丞相赐箭",
+      "周郎在此",
+      "曹贼休走"
+    ],
+    "correctAnswer": 1,
+    "explanation": "他三天前就算准会有大雾，才敢向周瑜立下「三日」军令状。等雾散日高，船已放出二十多里，曹操追悔莫及。（小说原文是「谢丞相箭」，通行说法作「谢丞相赐箭」。）"
+  },
+  {
+    "id": "chinese-literature-321",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "歇后语「周瑜打黄盖——」，后半句是？",
+    "options": [
+      "打得皮开肉绽",
+      "两败俱伤",
+      "有苦难言",
+      "一个愿打，一个愿挨"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这就是苦肉计：黄盖当众顶撞周瑜，被结结实实打了五十脊杖，好让曹操相信他真心来降。连鲁肃都被蒙在鼓里，只有诸葛亮一眼看穿。"
+  },
+  {
+    "id": "chinese-literature-322",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "苦肉计之后，阚泽带着黄盖的诈降书连夜去见曹操。他乔装成什么身份，驾小舟到曹军水寨？",
+    "options": [
+      "游方道士",
+      "卖酒商贩",
+      "樵夫",
+      "渔翁"
+    ],
+    "correctAnswer": 3,
+    "explanation": "曹操看完信拍案大怒要斩他，阚泽却仰天大笑，说「吾笑黄公覆不识人耳」。他反过来讥曹操不懂「背主作窃，不可定期」，把多疑的曹操说服了。"
+  },
+  {
+    "id": "chinese-literature-323",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "庞统献连环计后，一位曹营谋士怕火攻殃及自己，靠散布「马腾、韩遂造反」的谣言脱身。他是谁？",
+    "options": [
+      "徐庶",
+      "蒋干",
+      "毛玠",
+      "荀攸"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这是庞统悄悄教他的脱身之计：徐庶趁机请缨去守散关。他早说过「终身不设一谋」，所以既没揭穿连环计，也没替曹操出过主意。"
+  },
+  {
+    "id": "chinese-literature-324",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "赤壁前夜宴，曹操横槊赋诗，酒后一槊刺死了说「乌鹊南飞」不吉利的扬州刺史。他是谁？",
+    "options": [
+      "蒋干",
+      "刘馥",
+      "荀攸",
+      "毛玠"
+    ],
+    "correctAnswer": 1,
+    "explanation": "曹操酒醒后懊悔不已，对刘馥之子说「吾昨因醉误伤汝父，悔之无及」，用三公之礼厚葬。"
+  },
+  {
+    "id": "chinese-literature-325",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "周瑜因缺东风急得吐血，诸葛亮提笔写下十六字「药方」：「欲破曹公，宜用火攻；万事俱备，……」",
+    "options": [
+      "只欠粮草",
+      "只欠一将",
+      "只欠东风",
+      "只欠良机"
+    ],
+    "correctAnswer": 2,
+    "explanation": "周瑜见了大惊，暗想「孔明真神人也」。诸葛亮趁势说自己曾遇异人，得授奇门遁甲天书，能呼风唤雨。"
+  },
+  {
+    "id": "chinese-literature-326",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "诸葛亮为周瑜「借东风」，在南屏山上筑起的高台叫什么？",
+    "options": [
+      "北斗坛",
+      "祭风台",
+      "八卦台",
+      "七星坛"
+    ],
+    "correctAnswer": 3,
+    "explanation": "此坛高九尺，分三层，由一百二十人执旗围绕。诸葛亮说十一月二十日甲子日祭风，到二十二日丙寅日风息。"
+  },
+  {
+    "id": "chinese-literature-327",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "诸葛亮借到东风，乘赵云的小船脱身，东吴徐盛驾船追杀。赵云一箭射断了追兵船上的什么？",
+    "options": [
+      "篷索",
+      "锚链",
+      "桨",
+      "船舵"
+    ],
+    "correctAnswer": 0,
+    "explanation": "船篷坠落水中，徐盛的船当场横在水面。赵云还说「本待一箭射死你，恐失了两家和气」。"
+  },
+  {
+    "id": "chinese-literature-328",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "华容道上，诸葛亮特意让关羽在山边做一件事，反而「引」曹操走这条小路。是什么？",
+    "options": [
+      "放出风声说此路平安",
+      "埋下大批绊马索",
+      "堆柴放烟，装作有埋伏",
+      "满山遍插旗帜擂鼓"
+    ],
+    "correctAnswer": 2,
+    "explanation": "曹操果然中了「虚虚实实」，认定诸葛亮是「使人于山僻烧烟，使我军不敢从这条路走」，偏偏走了华容道，还得意「吾料已定」。"
+  },
+  {
+    "id": "chinese-literature-329",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "赤壁败逃途中，曹操三次仰天大笑，嘲笑周瑜、诸葛亮不会用兵，每笑一次就冒出一路伏兵。三路伏兵依次是？",
+    "options": [
+      "关羽、张飞、赵云",
+      "赵云、张飞、关羽",
+      "张飞、赵云、关羽",
+      "赵云、关羽、张飞"
+    ],
+    "correctAnswer": 1,
+    "explanation": "三处依次是乌林西、葫芦口、华容道。每次曹操都说「若是我用兵，必在此埋伏一军」，话音未落伏兵就杀出来了。"
+  },
+  {
+    "id": "chinese-literature-330",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "华容道上关羽念旧情放走曹操，按军令状本该问斩。是谁出面求情保下了他？",
+    "options": [
+      "鲁肃",
+      "刘备",
+      "张飞",
+      "赵云"
+    ],
+    "correctAnswer": 1,
+    "explanation": "刘备说「昔吾三人结义时，誓同生死」，不忍违了前盟。其实诸葛亮夜观乾象，早知曹操命不该绝，有意留个人情给关羽。"
+  },
+  {
+    "id": "chinese-literature-331",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "周瑜与曹仁苦战南郡，好不容易打赢，赶到城下，却见城头一员大将笑道「都督少罪」。此人是谁？",
+    "options": [
+      "糜竺",
+      "张飞",
+      "赵云",
+      "关羽"
+    ],
+    "correctAnswer": 2,
+    "explanation": "赵云说「吾奉军师将令，已取城了」。诸葛亮又用兵符诈取荆州、襄阳，周瑜听完大叫一声，金疮迸裂，这是「一气周瑜」。"
+  },
+  {
+    "id": "chinese-literature-332",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "周瑜想借「替刘备取西川」为名顺路夺荆州，被诸葛亮一眼看破。这条计用的是哪个成语典故？",
+    "options": [
+      "假途灭虢",
+      "声东击西",
+      "暗度陈仓",
+      "围魏救赵"
+    ],
+    "correctAnswer": 0,
+    "explanation": "诸葛亮大笑说这等计策「小儿也瞒不过」，早早备好「窝弓以擒猛虎，香饵以钓鳌鱼」，只等周瑜上门。"
+  },
+  {
+    "id": "chinese-literature-333",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "周瑜被诸葛亮气得箭疮迸裂，临终前仰天长叹的那句名言是？",
+    "options": [
+      "时也命也，夫复何言",
+      "既生瑜，何生亮！",
+      "天不假年，奈何奈何",
+      "此生无憾，来世再战"
+    ],
+    "correctAnswer": 1,
+    "explanation": "书里写他连叫数声而亡，年仅三十六岁。临终前还上书孙权，推荐鲁肃接任都督。"
+  },
+  {
+    "id": "chinese-literature-334",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "诸葛亮吊孝周瑜，刚要上船，一位道袍竹冠的人揪住他笑道「你气死周郎，又来吊孝」。此人是谁？",
+    "options": [
+      "鲁肃",
+      "徐庶",
+      "司马徽",
+      "庞统"
+    ],
+    "correctAnswer": 3,
+    "explanation": "来人正是凤雏庞统。诸葛亮大笑，还留下一封信，叫他在东吴不如意时可去荆州投奔刘备。"
+  },
+  {
+    "id": "chinese-literature-335",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "刘备称汉中王后封「五虎上将」：关羽、张飞、赵云、马超，还有哪一位？",
+    "options": [
+      "魏延",
+      "姜维",
+      "廖化",
+      "黄忠"
+    ],
+    "correctAnswer": 3,
+    "explanation": "老将黄忠在定军山一刀斩了夏侯渊，成了「老当益壮」的代言人。书里原文写作「五虎大将军」。"
+  },
+  {
+    "id": "chinese-literature-336",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "张松只看一遍就背下曹操亲著的《孟德新书》，还讥它是抄的。曹操得知后怎么处理这本书？",
+    "options": [
+      "交给杨修修订后颁行",
+      "收入相府藏书阁珍藏",
+      "重赏张松以堵其口",
+      "下令把书扯碎烧掉"
+    ],
+    "correctAnswer": 3,
+    "explanation": "张松笑说此书“蜀中三尺小童亦能暗诵”，是战国无名氏所作，当场背诵如流，连杨修都惊呼“天下奇才”。曹操索性下令扯碎烧了，张松被逐出后一路投奔荆州，把西川地图献给了刘备。"
+  },
+  {
+    "id": "chinese-literature-337",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "“凤雏”庞统死在名叫“落凤坡”的山道上，指挥伏兵将他乱箭射杀的西川名将是谁？",
+    "options": [
+      "吴懿",
+      "严颜",
+      "张任",
+      "冷苞"
+    ],
+    "correctAnswer": 2,
+    "explanation": "庞统的马失前蹄，刘备把自己的白马换给他骑。张任的伏兵一听“骑白马者必是刘备”，立刻万箭齐发，一代凤雏就此陨落。"
+  },
+  {
+    "id": "chinese-literature-338",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "张飞生擒巴郡老将严颜，严颜昂首说“我州但有断头将军，无降将军”。张飞听后怎么做？",
+    "options": [
+      "当场斩首，悬头于城门示众",
+      "亲自松绑，扶他上座并下拜赔礼",
+      "罚他去后营喂马，永不录用",
+      "押往成都，向刘备请功领赏"
+    ],
+    "correctAnswer": 1,
+    "explanation": "严颜被这一拜感动，当即归降，还自请当前部：沿途关隘多是他的旧部，纷纷开门迎降，蜀军几乎兵不血刃直抵雒城。"
+  },
+  {
+    "id": "chinese-literature-339",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "关羽听说马超归降，想千里入川与他比武。诸葛亮回信怎么夸关羽，让他捋须大笑？",
+    "options": [
+      "夸他是美髯公，绝伦超群，马超难及",
+      "说马超已被刘备冷落，根本不值一战",
+      "说荆州要地，请他务必坐镇不要擅离",
+      "说马超其实是他的故交，不宜出手比武"
+    ],
+    "correctAnswer": 0,
+    "explanation": "诸葛亮在信里说马超不过是黥布、彭越之流，只能与张飞并驱争先，“犹未及美髯公之绝伦超群也”。关羽自绰其髯笑道“孔明知我心也”，把信传给宾客们看，再也没提入川的事。"
+  },
+  {
+    "id": "chinese-literature-340",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "刘备称汉中王后封“五虎上将”，关羽嫌其中一位是老卒，气得不肯接印。这位老将是谁？",
+    "options": [
+      "黄忠",
+      "魏延",
+      "马超",
+      "赵云"
+    ],
+    "correctAnswer": 0,
+    "explanation": "关羽怒道“黄忠何等人，敢与吾同列”，直到使者费诗劝他：“将军即汉中王，汉中王即将军也，岂与诸人等哉？”关羽这才拜受印绶。"
+  },
+  {
+    "id": "chinese-literature-341",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "定军山上黄忠按兵不动，直到对面山头红旗招展才冲下山，一刀斩了夏侯渊。举旗发令的军师是谁？",
+    "options": [
+      "李恢",
+      "简雍",
+      "法正",
+      "诸葛亮"
+    ],
+    "correctAnswer": 2,
+    "explanation": "法正事先交代黄忠：“待他倦怠，吾举红旗，将军便下山击之。”黄忠随即如天崩地塌般冲下，一刀把夏侯渊连头带肩砍成两段。"
+  },
+  {
+    "id": "chinese-literature-342",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "汉水之战，谁大开寨门、偃旗息鼓，单枪匹马立于营外，吓退曹军，被刘备夸“一身都是胆”？",
+    "options": [
+      "黄忠",
+      "赵云",
+      "魏延",
+      "张飞"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这比诸葛亮的空城计还早了将近十年。次日刘备亲到赵云营中，感叹“子龙一身都是胆也”，还给他封了“虎威将军”的称号。"
+  },
+  {
+    "id": "chinese-literature-343",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "汉中之战进退两难，曹操随口把夜间口令定为“鸡肋”，杨修一听就叫人收拾行装。他断定曹操要做什么？",
+    "options": [
+      "下令撤兵班师",
+      "就地扎营坚守到底",
+      "派使者向刘备求和",
+      "连夜偷袭蜀营"
+    ],
+    "correctAnswer": 0,
+    "explanation": "杨修的解读是：鸡肋吃着没肉、扔了又可惜，正像眼下的汉中，丞相这是准备退兵了。曹操却以“造言乱我军心”为由把他斩首——其实早就对他的聪明又忌又恨。"
+  },
+  {
+    "id": "chinese-literature-344",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "曹操在一盒酥上写了“一合酥”三个字，杨修拿起来就和众人分吃了。他的理由是什么？",
+    "options": [
+      "拆字：“一合酥”即“一人一口酥”",
+      "酥放久了容易变质，不如趁早吃掉",
+      "那天正是杨修生日，曹操默许了他",
+      "曹操事先口头许诺，要赏给帐下众将"
+    ],
+    "correctAnswer": 0,
+    "explanation": "杨修还振振有词：“盒上明书一人一口酥，岂敢违丞相之命乎？”曹操表面上笑了，心里却越发厌恶他这份自作聪明。"
+  },
+  {
+    "id": "chinese-literature-345",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "孙权派诸葛瑾替儿子向关羽求亲，关羽怒骂“吾虎女安肯嫁___乎”，还差点斩了使者。空格是？",
+    "options": [
+      "鼠辈",
+      "犬子",
+      "竖子",
+      "匹夫"
+    ],
+    "correctAnswer": 1,
+    "explanation": "关羽接着撂下一句“不看汝弟之面，立斩汝首”——这个“弟”指的就是诸葛亮。孙权闻讯大怒，转头就召张昭等人商议夺取荆州。"
+  },
+  {
+    "id": "chinese-literature-346",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "关羽死后英魂不散，在玉泉山夜夜高喊“还我头来”，一位老僧用一句反问点醒了他。这位老僧法号是？",
+    "options": [
+      "法明",
+      "普净",
+      "慧远",
+      "道安"
+    ],
+    "correctAnswer": 1,
+    "explanation": "普净反问：“颜良、文丑、五关六将之头，又向谁索？”关羽恍然大悟。这位老僧，正是当年在汜水关镇国寺与他相会的旧识。"
+  },
+  {
+    "id": "chinese-literature-347",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "张飞为给二哥报仇，限两名部将三日内置办什么，逼得二人铤而走险刺杀了他？",
+    "options": [
+      "供全军三月之用的军粮",
+      "祭奠关羽用的百口棺木",
+      "渡江用的三千条战船",
+      "全军挂孝用的白旗白甲"
+    ],
+    "correctAnswer": 3,
+    "explanation": "三天办齐全军白旗白甲根本不可能，二人怕被鞭打处死，便趁张飞醉卧帐中先下了手，提着首级投奔东吴。"
+  },
+  {
+    "id": "chinese-literature-348",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "陆逊追击刘备误入诸葛亮布下的“八阵图”，飞沙走石险些困死。最后是谁从死门把他领了出来？",
+    "options": [
+      "崔州平",
+      "司马徽",
+      "徐庶",
+      "黄承彦"
+    ],
+    "correctAnswer": 3,
+    "explanation": "黄承彦是诸葛亮的岳父，女婿早有交代不许救东吴人，他却“平生好善”，还是把陆逊带出了阵。陆逊感叹：“孔明真卧龙也，吾不能及！”"
+  },
+  {
+    "id": "chinese-literature-349",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "白帝城托孤，刘备说“若嗣子可辅则辅之，如其不才——”，下半句让诸葛亮吓得汗流遍体。是什么？",
+    "options": [
+      "君可挟之，南下归附孙权",
+      "君可托之赵云，自退隐山林",
+      "君可自为成都之主",
+      "君可废之，另立宗室贤者"
+    ],
+    "correctAnswer": 2,
+    "explanation": "诸葛亮手足失措，泣拜于地：“臣安敢不竭股肱之力，效忠贞之节，继之以死乎！”叩头流血。刘备又嘱咐三个儿子，都要“以父事丞相”。"
+  },
+  {
+    "id": "chinese-literature-350",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "托孤时，刘备私下提醒诸葛亮：“此人言过其实，不可大用。”被点名的是谁？",
+    "options": [
+      "李严",
+      "马谡",
+      "杨仪",
+      "魏延"
+    ],
+    "correctAnswer": 1,
+    "explanation": "后来诸葛亮没把这话完全放在心上，街亭一败，他挥泪斩了马谡，说自己哭的是“追思先帝之明，深恨己之不明”。"
+  },
+  {
+    "id": "chinese-literature-351",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "七擒孟获中，孟获的妻子祝融夫人亲自上阵，背插五口什么，百发百中？",
+    "options": [
+      "飞爪",
+      "飞叉",
+      "飞斧",
+      "飞刀"
+    ],
+    "correctAnswer": 3,
+    "explanation": "祝融夫人手挺丈八长标，骑一匹卷毛赤兔马，一出场就活捉了蜀将张嶷和马忠。"
+  },
+  {
+    "id": "chinese-literature-352",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "乌戈国的藤甲兵刀枪不入，诸葛亮在盘蛇谷用什么办法把他们全歼？",
+    "options": [
+      "滚木礌石",
+      "万箭齐射",
+      "放火焚烧",
+      "决堤水淹"
+    ],
+    "correctAnswer": 2,
+    "explanation": "藤甲是用油浸泡过的，刀箭不入，见火却一点就着。烧尽藤甲兵后，诸葛亮落泪叹道：“吾虽有功于社稷，必损寿矣！”"
+  },
+  {
+    "id": "chinese-literature-353",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "南征时木鹿大王骑白象、摇蒂钟，驱赶虎豹豺狼冲阵。诸葛亮用什么办法把这支“野兽军团”吓回了老巢？",
+    "options": [
+      "让士兵披上虎皮冒充猛兽",
+      "放出成群的毒蜂毒蛇",
+      "口吐火焰的木刻假巨兽",
+      "撒下药粉迷倒所有猛兽"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这些彩画木兽用五色绒线做毛、钢铁做牙爪，口喷火焰、鼻冒黑烟。真野兽吓得不敢前进，纷纷奔回蛮洞。"
+  },
+  {
+    "id": "chinese-literature-354",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "南征途中蜀军误饮哑泉毒水，隐士孟节指点用安乐泉水解毒。孟节和孟获是什么关系？",
+    "options": [
+      "亲弟弟",
+      "叔父",
+      "亲哥哥",
+      "结义兄弟"
+    ],
+    "correctAnswer": 2,
+    "explanation": "孟节自述兄弟三人：长兄孟节，次孟获，三弟孟优。他隐居草庵，不仅指点安乐泉解毒，还教蜀军口含薤叶防瘴气。"
+  },
+  {
+    "id": "chinese-literature-355",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "诸葛亮南征班师，泸水风浪不止，当地说要杀人头祭河神。他改用面皮包牛羊肉塑成人头，小说里叫它什么？",
+    "options": [
+      "烧麦",
+      "馒头",
+      "饺子",
+      "汤圆"
+    ],
+    "correctAnswer": 1,
+    "explanation": "诸葛亮说“本为人死而成怨鬼，岂可又杀生人耶”，于是有了这份“假人头”祭品。这当然是小说家言，却给“馒头”的来历添了一段传奇。"
+  },
+  {
+    "id": "chinese-literature-356",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "祁山阵前，诸葛亮凭一张嘴骂得魏国司徒王朗气满胸膛，王朗的下场是什么？",
+    "options": [
+      "大叫一声，撞死马下",
+      "气晕过去被抬回营",
+      "羞愤之下拔剑自刎",
+      "当场下马跪地请降"
+    ],
+    "correctAnswer": 0,
+    "explanation": "诸葛亮骂他“皓首匹夫，苍髯老贼”，一番话把王朗气得撞死于马下，是《三国演义》里最解气的“口才杀人”名场面。"
+  },
+  {
+    "id": "chinese-literature-357",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "诸葛亮嫌赵云年纪大不让他挂帅，赵云怒道：“我虽年迈，尚有___之勇，马援之雄！”空格是谁？",
+    "options": [
+      "李牧",
+      "廉颇",
+      "王翦",
+      "白起"
+    ],
+    "correctAnswer": 1,
+    "explanation": "赵云还放话：“如不教我为先锋，就撞死于阶下！”诸葛亮只好让他出战，赵云在凤鸣山一人连斩西凉大将韩德和他的四个儿子。"
+  },
+  {
+    "id": "chinese-literature-358",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "姜维推出诸葛亮木像，吓得司马懿狼狈逃窜。跑远后他用手摸着自己的头，问将领一句什么？",
+    "options": [
+      "蜀兵可曾追来？",
+      "孔明真死否？",
+      "我的战马何在？",
+      "我有头否？"
+    ],
+    "correctAnswer": 3,
+    "explanation": "二将忙劝“都督休怕，蜀兵去远了”。事后蜀中流传谚语“死诸葛能走生仲达”，司马懿苦笑道：“吾能料其生，不能料其死也。”"
+  },
+  {
+    "id": "chinese-literature-359",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "魏军抢走木牛流马后，蜀军只需扭转它们的什么，它们就一动不动，魏兵拖也拖不走？",
+    "options": [
+      "舌头",
+      "车轴",
+      "耳朵",
+      "尾巴"
+    ],
+    "correctAnswer": 0,
+    "explanation": "诸葛亮早有安排：王平率兵杀散魏军，把牛马的舌头扭回来，它们又能照常行走；张嶷还扮成六丁六甲神兵，把魏兵吓得不敢追。"
+  },
+  {
+    "id": "chinese-literature-360",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "诸葛亮送妇人衣饰激司马懿出战，他佯笑收下，却向使者打听诸葛亮的什么，从而断定他活不久？",
+    "options": [
+      "寝食多少与政务繁简",
+      "麾下将领与兵力多少",
+      "有无病痛与服药情况",
+      "粮草储备与运输路线"
+    ],
+    "correctAnswer": 0,
+    "explanation": "使者如实相告：诸葛亮事必躬亲、吃得极少。司马懿对诸将说：“孔明食少事烦，其能久乎！”不久，诸葛亮果然病逝五丈原。"
+  },
+  {
+    "id": "chinese-literature-361",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "上方谷一把大火眼看要烧死司马懿父子，忽然大雨倾盆浇灭火焰。诸葛亮仰天长叹的话是？",
+    "options": [
+      "谋事在人，成事在天",
+      "既生瑜，何生亮",
+      "天不佑汉，奈何奈何",
+      "此天亡我也，非战之罪"
+    ],
+    "correctAnswer": 0,
+    "explanation": "司马懿被困谷中，下马抱着两个儿子大哭“我父子三人皆死于此处矣”，谁知暴雨骤至。诸葛亮叹完还补了一句：“不可强也！”"
+  },
+  {
+    "id": "chinese-literature-362",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "诸葛亮死后魏延谋反，阵前狂喊“谁敢杀我？”，一人应声“吾敢杀汝！”手起刀落。这人是谁？",
+    "options": [
+      "杨仪",
+      "马岱",
+      "王平",
+      "姜维"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这是诸葛亮锦囊里的安排：杨仪当面挑衅，引魏延喊出那句话，早已受命的马岱趁机一刀把他斩于马下。"
+  },
+  {
+    "id": "chinese-literature-363",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "姜维兵败自刎后，魏兵争相剖开他的腹部，发现某个器官大如鸡卵。是什么？",
+    "options": [
+      "肾",
+      "胆",
+      "肝",
+      "心"
+    ],
+    "correctAnswer": 1,
+    "explanation": "“其胆大如鸡卵”，成了姜维一生胆略的注脚。他临终前仰天大叫：“吾计不成，乃天命也！”"
+  },
+  {
+    "id": "chinese-literature-364",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "司马懿装病骗曹爽，探病的李胜说要去荆州赴任，他故意装聋听成了哪个州？",
+    "options": [
+      "幽州",
+      "扬州",
+      "并州",
+      "益州"
+    ],
+    "correctAnswer": 2,
+    "explanation": "他还装作喝粥流得满襟都是、要靠两个婢女搀扶，李胜回去禀报，曹爽大喜：“此老若死，吾无忧矣！”不久司马懿就发动了高平陵之变。"
+  },
+  {
+    "id": "chinese-literature-365",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "刘禅决定降魏时，他的一个儿子拒不投降，先杀妻儿，再在昭烈庙自刎殉国。这位“北地王”是谁？",
+    "options": [
+      "刘永",
+      "刘理",
+      "刘谌",
+      "刘璿"
+    ],
+    "correctAnswer": 2,
+    "explanation": "刘谌力劝父亲背城一战，被斥“汝小儿岂识天时”，便在先帝庙前杀了妻子和三个儿子，再自刎。这一回的回目就叫“哭祖庙一王死孝”。"
+  },
+  {
+    "id": "chinese-literature-366",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "孙皓降晋后觐见，司马炎说“朕设此座以待卿久矣”，孙皓怎么回答？",
+    "options": [
+      "臣在江东，久闻陛下贤名",
+      "亡国之君，岂敢当此座",
+      "陛下神武，臣愿终身为奴",
+      "臣于南方，亦设此座以待陛下"
+    ],
+    "correctAnswer": 3,
+    "explanation": "晋帝听了大笑。贾充又当面讥问他为何“凿人眼、剥人面皮”，孙皓答“人臣弑君及奸佞不忠者，则加此刑”，贾充默然甚愧——他自己就曾指使人弑杀魏帝曹髦。"
+  },
+  {
+    "id": "chinese-literature-367",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "宛城夜袭中，曹操的坐骑被一箭射中马眼倒地，谁把自己的马让给父亲，自己被乱箭射死？",
+    "options": [
+      "曹彰",
+      "曹植",
+      "曹昂",
+      "曹丕"
+    ],
+    "correctAnswer": 2,
+    "explanation": "曹昂是曹操的长子。事后曹操祭奠时说：“吾折长子、爱侄，俱无深痛。”最让他号啕大哭的，是另一位为他死战到底的爱将。"
+  },
+  {
+    "id": "chinese-literature-368",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "曹操见一位猛将下马一手扶住被大风吹倒的大旗，纹丝不动，赞叹“此古之恶来也”。他是谁？",
+    "options": [
+      "张辽",
+      "典韦",
+      "夏侯惇",
+      "许褚"
+    ],
+    "correctAnswer": 1,
+    "explanation": "“恶来”是商纣王手下的第一勇士。典韦使一对铁戟，曹操当场拜他为都尉；后来他在宛城为掩护曹操死战而亡，也应了这个名号。"
+  },
+  {
+    "id": "chinese-literature-369",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "夏侯惇左眼中箭，拔箭时连眼珠一并带出，他大喝“父精母血，不可弃也”，然后怎么处理那颗眼珠？",
+    "options": [
+      "交给军医设法妥善保存",
+      "郑重包好带回营中安葬",
+      "就地挖坑将它埋进土里",
+      "一口塞进嘴里吞了下去"
+    ],
+    "correctAnswer": 3,
+    "explanation": "接着他挺枪纵马，一枪刺透射箭的曹性面门。“拔矢啖睛”由此成了三国头号狠人的招牌动作。"
+  },
+  {
+    "id": "chinese-literature-370",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "潼关大战，许褚战到性起，卸甲赤膊再战马超。马超叹道“吾见恶战者，莫如许褚，真___也”，空格是？",
+    "options": [
+      "猛虎",
+      "虎侯",
+      "虎将",
+      "虎痴"
+    ],
+    "correctAnswer": 3,
+    "explanation": "两人还在马上夺枪，许褚力大，一声响拗断枪杆，各持半截对打，他臂上也中了两箭。至于“虎侯”，则是曹操对他的爱称。"
+  },
+  {
+    "id": "chinese-literature-371",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "铜雀台落成宴上，众将射箭夺西川锦袍，徐晃射断柳条夺得锦袍，随后谁冲上来抢，把袍子扯成了碎片？",
+    "options": [
+      "许褚",
+      "曹洪",
+      "张郃",
+      "夏侯渊"
+    ],
+    "correctAnswer": 0,
+    "explanation": "先后射中红心的有曹休、文聘、曹洪、张郃，徐晃却独出奇招射断柳条。曹操大笑，索性叫诸将都上台，每人赏蜀锦一匹。"
+  },
+  {
+    "id": "chinese-literature-372",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "《三国演义》里曹操临终遗命，在彰德府讲武城外设多少座疑冢，不让人知道他的真正葬处？",
+    "options": [
+      "一百零八座",
+      "九十九座",
+      "三十六座",
+      "七十二座"
+    ],
+    "correctAnswer": 3,
+    "explanation": "他的理由是“恐为人所发掘故也”；还嘱咐侍妾们多做丝履卖钱自给，多居铜雀台中，每日设祭、奏乐上食。"
+  },
+  {
+    "id": "chinese-literature-373",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "《三国演义》有“三绝”之说：智绝诸葛亮，义绝关羽，那么“奸绝”是谁？",
+    "options": [
+      "曹操",
+      "司马懿",
+      "董卓",
+      "吕布"
+    ],
+    "correctAnswer": 0,
+    "explanation": "“三绝”是清初评点家总结出来的。曹操的奸被写得深入骨髓，偏偏又爱才、有魄力，反倒成了全书最立体的人物。"
+  },
+  {
+    "id": "chinese-literature-374",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "“滚滚长江东逝水，浪花淘尽英雄”这首《临江仙》如今是《三国演义》的开篇词，它的作者是谁？",
+    "options": [
+      "罗贯中",
+      "杨慎",
+      "苏轼",
+      "辛弃疾"
+    ],
+    "correctAnswer": 1,
+    "explanation": "它原是明代杨慎《廿一史弹词》里的一首词，后来被放到《三国演义》卷首，反倒成了这部小说的“代言词”。"
+  },
+  {
+    "id": "chinese-literature-375",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "罗贯中写成的《三国演义》，最初的书名是什么？",
+    "options": [
+      "《三国志通俗演义》",
+      "《三国志平话》",
+      "《三国全传》",
+      "《三国志后传》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "“演义”是敷衍史事、通俗讲述的意思。罗贯中以陈寿《三国志》和民间流传的《三国志平话》等为基础，写成了这部历史演义小说的开山之作。"
+  },
+  {
+    "id": "chinese-literature-376",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "下列哪位曹魏名将不属于“五子良将”？",
+    "options": [
+      "张辽",
+      "乐进",
+      "夏侯惇",
+      "徐晃"
+    ],
+    "correctAnswer": 2,
+    "explanation": "“五子良将”指张辽、乐进、于禁、张郃、徐晃。夏侯惇、夏侯渊这样的宗室将领资历再深，也不在此列。"
+  },
+  {
+    "id": "chinese-literature-377",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "“伏龙、凤雏，两人得一，可安天下”，这句话是谁对刘备说的？",
+    "options": [
+      "水镜先生司马徽",
+      "黄承彦",
+      "徐庶",
+      "崔州平"
+    ],
+    "correctAnswer": 0,
+    "explanation": "刘备追问“伏龙、凤雏何人也”，水镜先生只是抚掌大笑“好！好！”，就是不肯明说。“伏龙”“凤雏”指的正是诸葛亮和庞统。"
+  },
+  {
+    "id": "chinese-literature-378",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "曹操平定汉中，司马懿劝他乘势攻蜀，他叹“人苦不知足，既得陇，复望蜀耶”。这话后来凝成哪个成语？",
+    "options": [
+      "唇亡齿寒",
+      "得陇望蜀",
+      "见好就收",
+      "欲擒故纵"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这话原是东汉光武帝写给岑彭的信中所说，曹操拿来当挡箭牌，没有乘势攻蜀。"
+  },
+  {
+    "id": "chinese-literature-379",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "成语“势如破竹”出自晋军灭吴时，哪位将领对众人说的话？",
+    "options": [
+      "羊祜",
+      "杜预",
+      "王濬",
+      "贾充"
+    ],
+    "correctAnswer": 1,
+    "explanation": "杜预以乐毅济西一战并强齐为例，说“如破竹之势，数节之后，皆迎刃而解”；接着王濬用灌满麻油的火炬烧断吴人的横江铁索，孙皓不久就降了。"
+  },
+  {
+    "id": "chinese-literature-380",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "成语“才高八斗”，据说是谢灵运感叹天下文才共一石，独有谁一人占了八斗？",
+    "options": [
+      "曹植",
+      "曹操",
+      "王粲",
+      "曹丕"
+    ],
+    "correctAnswer": 0,
+    "explanation": "谢灵运的原话是：“天下才共一石，曹子建独占八斗，我得一斗，天下共分一斗。”"
+  },
+  {
+    "id": "chinese-literature-381",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "俗语“关公战秦琼”，常用来讽刺什么荒唐事？",
+    "options": [
+      "强者欺负弱者的不公平对决",
+      "两大高手英雄相惜的切磋",
+      "小人物挑战大人物的自不量力",
+      "时代错乱、乱点鸳鸯谱"
+    ],
+    "correctAnswer": 3,
+    "explanation": "关羽是东汉末年人，秦琼是唐朝初年的名将，相隔四百多年，怎么打得起来？民间便用它讽刺张冠李戴、乱点鸳鸯谱的荒唐事。"
+  },
+  {
+    "id": "chinese-literature-382",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "歇后语“张飞卖豆腐——”，下一句是？",
+    "options": [
+      "货真价实",
+      "粗中有细",
+      "人硬货软",
+      "一锤子买卖"
+    ],
+    "correctAnswer": 2,
+    "explanation": "张飞是出了名的猛汉，豆腐却是最软的货，这个反差就是笑点。"
+  },
+  {
+    "id": "chinese-literature-383",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "俗话说“蜀中无大将，___作先锋”，空格里那位老将是谁？",
+    "options": [
+      "王平",
+      "马岱",
+      "张翼",
+      "廖化"
+    ],
+    "correctAnswer": 3,
+    "explanation": "廖化年轻时追随关羽，一直活到蜀汉后期，资历极老；蜀国后期大将凋零，这样的老将也被推到先锋位置上。这话后来成了“缺乏人才、矮子里拔将军”的代名词。"
+  },
+  {
+    "id": "chinese-literature-384",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "如今通行的120回本《三国演义》，是清初哪位评点家与父亲一起修订而成的？",
+    "options": [
+      "李贽",
+      "脂砚斋",
+      "金圣叹",
+      "毛宗岗"
+    ],
+    "correctAnswer": 3,
+    "explanation": "毛氏父子在康熙年间辨正史事、增删文字、整理回目，并增强了“尊刘贬曹”的倾向，才有了今天通行的“毛本”。"
+  },
+  {
+    "id": "chinese-literature-385",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "《出师表》里，诸葛亮向刘禅推荐一位将军，夸他“性行淑均，晓畅军事”。这位将军是谁？",
+    "options": [
+      "王平",
+      "赵云",
+      "向宠",
+      "吴懿"
+    ],
+    "correctAnswer": 2,
+    "explanation": "诸葛亮说他早年试用时“先帝称之曰能”，所以众议举他为“督”，营中之事都可以向他咨询。此外他还推荐了郭攸之、费祎、董允三位“良实”之臣。"
+  },
+  {
+    "id": "chinese-literature-386",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "《说岳全传》开篇交代，岳飞的前世是佛祖座下的哪种神鸟？",
+    "options": [
+      "朱雀",
+      "大鹏金翅鸟",
+      "五色凤凰",
+      "青鸾"
+    ],
+    "correctAnswer": 1,
+    "explanation": "大鹏金翅鸟在灵山听经时，因嫌女土蝠污秽，一怒之下将其啄死，被佛祖贬下凡间偿还冤债，转世成了岳飞。后来这只女土蝠投胎成了秦桧之妻王氏，冤冤相报。"
+  },
+  {
+    "id": "chinese-literature-387",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "《说岳全传》里，岳飞考武举时，在校场上一枪挑死了谁？",
+    "options": [
+      "老臣宗泽",
+      "奸相张邦昌",
+      "同科考生王贵",
+      "小梁王柴桂"
+    ],
+    "correctAnswer": 3,
+    "explanation": "小梁王仗势要抢状元，岳飞立下生死文书后应战，一枪将他挑下马——这场校场大战，是《说岳全传》前半部最惊险的名场面。"
+  },
+  {
+    "id": "chinese-literature-388",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "岳飞背上的刺字，《宋史》记载是「尽忠报国」，《说岳全传》里岳母刺的却是哪四个字？",
+    "options": [
+      "保家卫国",
+      "还我河山",
+      "誓雪靖康耻",
+      "精忠报国"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《宋史·何铸传》写岳飞袒背示人，「背有旧涅『尽忠报国』四大字，深入肤理」；小说改成了「精忠报国」，恰与宋高宗御书赐给岳家军的「精忠岳飞」战旗呼应，后世流传的多是这个版本。"
+  },
+  {
+    "id": "chinese-literature-389",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "《说岳全传》里，康王赵构被金兵追到大江边，靠一匹什么「神马」渡过了江？",
+    "options": [
+      "白龙马",
+      "汗血宝马",
+      "木马",
+      "泥马"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这就是「泥马渡康王」的传说：泥塑的马显灵驮着他过江，后来他登基成了宋高宗，也就是日后下令处死岳飞的那位皇帝。"
+  },
+  {
+    "id": "chinese-literature-390",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "《说岳全传》里，王佐自断一臂、诈降金营去说降陆文龙，用的是哪条计策？",
+    "options": [
+      "苦肉计",
+      "连环计",
+      "美人计",
+      "空城计"
+    ],
+    "correctAnswer": 0,
+    "explanation": "书中说王佐效仿的是春秋刺客要离断臂刺庆忌的故事。他在金营借陆文龙乳母之口，让这位被金人养大的宋将之子得知真实身世，最终反正归宋。"
+  },
+  {
+    "id": "chinese-literature-391",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "《说岳全传》原著里，高宠连挑了多少辆铁滑车后战马力竭，被滑车碾死？",
+    "options": [
+      "十八辆",
+      "六辆",
+      "十一辆",
+      "九辆"
+    ],
+    "correctAnswer": 2,
+    "explanation": "挑到第十二辆时，他胯下战马力尽筋疲、口吐鲜血蹲倒，高宠被掀翻在地，让铁滑车碾死。原书感叹「华车未破身先丧，可惜将军马不良」，「华车」即滑车。"
+  },
+  {
+    "id": "chinese-literature-392",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "《说岳全传》大结局里，牛皋骑在金兀术背上，兀术大喊「气死我也」当场毙命。牛皋自己怎么死的？",
+    "options": [
+      "力战数员金将后阵亡",
+      "受伤后在军营中不治而亡",
+      "被金兵乱箭射死在阵前",
+      "笑得喘不上气，笑死了"
+    ],
+    "correctAnswer": 3,
+    "explanation": "书里把这一幕概括为「虎骑龙背，气死兀术，笑杀牛皋」：牛皋一句「兀术！你也有被俺擒住之日么？」哈哈大笑，竟一口气没接上，笑死在兀术身上。"
+  },
+  {
+    "id": "chinese-literature-393",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "《说岳全传》里，秦桧之妻王氏在东窗下用火箸在炭灰上写下哪句话，坚定了杀岳飞之心？",
+    "options": [
+      "斩草除根，永绝后患",
+      "缚虎容易纵虎难",
+      "一不做，二不休",
+      "养虎为患，后悔莫及"
+    ],
+    "correctAnswer": 1,
+    "explanation": "秦桧看后连连点头，随即写了一封密信藏进挖空的黄柑（橘子）里，托人送给万俟卨——一只橘子，就这样传去了处死岳飞父子的命令。后世的「东窗事发」，说的便是这对夫妇的密谋败露。"
+  },
+  {
+    "id": "chinese-literature-394",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "岳飞被「十二道金牌」从前线召回，宋代所谓的「金牌」其实是什么？",
+    "options": [
+      "金国送来的议和文书",
+      "纯金铸成的皇家令牌",
+      "皇帝御赐的免死金牌",
+      "朱漆金字的木质急递牌"
+    ],
+    "correctAnswer": 3,
+    "explanation": "「金字牌」是宋代最紧急的官方文书传递凭证，朱漆木牌上刻金字，据说能日行四五百里、昼夜不停，路人见了无不避让。至于是否真在一天内连发十二道，历史上也有不同说法。"
+  },
+  {
+    "id": "chinese-literature-395",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "岳飞父子遇害后，哪位狱卒冒死背出遗体，悄悄葬在临安城外？",
+    "options": [
+      "张宪",
+      "施全",
+      "汤怀",
+      "隗顺"
+    ],
+    "correctAnswer": 3,
+    "explanation": "隗顺把遗体背出城，埋在九曲丛祠旁；二十年后宋孝宗为岳飞平反，才把他改葬到西湖边的栖霞岭，就是今天的岳王庙。"
+  },
+  {
+    "id": "chinese-literature-396",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "岳飞的箭术老师周侗去世后，岳飞每逢初一、十五，会去墓前做什么？",
+    "options": [
+      "拉弓连射三箭祭奠",
+      "舞一套枪法给他看",
+      "焚烧一整本兵书",
+      "在墓前守夜三天"
+    ],
+    "correctAnswer": 0,
+    "explanation": "史书里这位老师写作「周同」，岳飞十九岁从他学射，据说能左右开弓；师父早逝后，他朔望必到墓前，拉弓连射三箭以祭。《说岳全传》里则写周侗传授弓箭之术，岳飞能开三百余斤的神臂弓。"
+  },
+  {
+    "id": "chinese-literature-397",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "北宋名将杨业（杨令公）骁勇无比，史书记载他有个响当当的外号，是什么？",
+    "options": [
+      "杨大刀",
+      "杨铁枪",
+      "杨无敌",
+      "杨万胜"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《宋史》说他「所向克捷，国人号为『无敌』」；到了评书演义里，他又成了使一口大刀的「金刀令公」。"
+  },
+  {
+    "id": "chinese-literature-398",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "评书演义里，杨令公被困两狼山，最后一头撞死在了谁的碑上？",
+    "options": [
+      "霍去病碑",
+      "王昭君碑",
+      "李陵碑",
+      "苏武碑"
+    ],
+    "correctAnswer": 2,
+    "explanation": "李陵是兵败投降匈奴的汉将，令公对着这样一块碑以死明志，格外悲壮。历史上的杨业则是在陈家谷兵败被俘，绝食三日而死。"
+  },
+  {
+    "id": "chinese-literature-399",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "评书常叫杨令公「杨继业」，可他本名杨重贵，「继业」这个名字是他早年在哪个政权被赐的？",
+    "options": [
+      "辽国",
+      "后周",
+      "北宋",
+      "北汉"
+    ],
+    "correctAnswer": 3,
+    "explanation": "杨业原名重贵，在北汉时被赐姓刘、名继业；宋太宗灭北汉后，他复姓杨、改名杨业。所以「杨继业」可以说是民间把前后两个名字拼在了一起的叫法。"
+  },
+  {
+    "id": "chinese-literature-400",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "京剧《四郎探母》里，被辽国招为驸马的杨四郎，隐姓埋名时用的化名是什么？",
+    "options": [
+      "耶律易",
+      "金易",
+      "木易",
+      "杨明"
+    ],
+    "correctAnswer": 2,
+    "explanation": "把「杨」字拆开，便是「木」和「易」。杨延辉被俘后隐去真名，成了辽国铁镜公主的驸马，一藏就是十多年，直到思母心切，才有了「坐宫」「探母」的故事。"
+  },
+  {
+    "id": "chinese-literature-401",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "金沙滩一战后，杨五郎杀出重围选择出家，他去的是哪座佛教名山？",
+    "options": [
+      "峨眉山",
+      "普陀山",
+      "五台山",
+      "九华山"
+    ],
+    "correctAnswer": 2,
+    "explanation": "杨五郎（杨延德）在五台山出家，练就了名震江湖的「五郎八卦棍」。五台山、峨眉山、普陀山、九华山，正好是中国佛教的四大名山。"
+  },
+  {
+    "id": "chinese-literature-402",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "杨七郎擂台上打死了潘仁美的儿子潘豹，后来潘仁美怎样报复他？",
+    "options": [
+      "将他绑起来乱箭射死",
+      "将他打入死牢活活饿死",
+      "用毒酒把他毒死",
+      "设下伏兵将他乱刀砍死"
+    ],
+    "correctAnswer": 0,
+    "explanation": "杨七郎冲出重围搬救兵，偏偏撞上了记仇的潘仁美，被绑在树上万箭穿身而死，杨家从此折了一员猛将。"
+  },
+  {
+    "id": "chinese-literature-403",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "《杨家将》里的佘太君，学界一般认为其历史原型是杨业之妻，她是什么太君？",
+    "options": [
+      "高太君",
+      "柴太君",
+      "折太君",
+      "呼太君"
+    ],
+    "correctAnswer": 2,
+    "explanation": "折太君是永安军节度使折德扆的女儿，出身府州折氏将门；「折」旧读 shé，与「佘」音近，一说民间传着传着就成了佘太君。"
+  },
+  {
+    "id": "chinese-literature-404",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "为破辽国的天门阵，杨宗保去穆柯寨求取什么宝物，结果被女寨主穆桂英擒住？",
+    "options": [
+      "降龙木",
+      "降魔杵",
+      "打神鞭",
+      "定海神针"
+    ],
+    "correctAnswer": 0,
+    "explanation": "降龙木是破阵所需的斧柄木料。穆桂英不肯轻借，却看中了这位年轻将军，两人在穆柯寨结为夫妻，后来大破天门阵的正是这位女英雄。"
+  },
+  {
+    "id": "chinese-literature-405",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "杨家将里有位出身「烧火丫头」的女将杨排风，她赫赫有名的「兵器」是什么？",
+    "options": [
+      "扁担",
+      "烧火棍",
+      "擀面杖",
+      "锄头"
+    ],
+    "correctAnswer": 1,
+    "explanation": "杨排风原是杨府的烧火丫头，一根烧火棍打遍辽营，京剧里还有专门演她的《杨排风》。"
+  },
+  {
+    "id": "chinese-literature-406",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "史书记载，杨延昭（杨六郎）守遂城时，寒冬里想出什么妙招，让辽军攻不上城？",
+    "options": [
+      "把城墙涂满桐油再点火",
+      "汲水浇城，冻成冰壁",
+      "在城外遍撒铁蒺藜",
+      "在城下挖满深沟陷阱"
+    ],
+    "correctAnswer": 1,
+    "explanation": "杨延昭趁严寒让军民汲水灌城，一夜之间城墙冻成滑溜溜的冰壁，辽军无法攀爬，遂城因此号称「铁遂城」。契丹人对他又敬又怕，甚至传说他是天上「六郎星」的化身。"
+  },
+  {
+    "id": "chinese-literature-407",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "《隋唐演义》里，秦叔宝欠下饭钱，先当锏、再卖掉的爱马是哪一匹？",
+    "options": [
+      "黄骠马",
+      "白龙马",
+      "赤兔马",
+      "乌骓马"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这匹马「遍体黄毛，并无半点杂色」，买主是潞州二贤庄庄主单雄信——他专爱结交豪杰，一场卖马，竟卖出了一位生死之交。"
+  },
+  {
+    "id": "chinese-literature-408",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "过年贴的门神秦琼和尉迟恭，传说是因为替唐太宗做了什么，才成为门神？",
+    "options": [
+      "在战场上替他挡过毒箭",
+      "亲手修建了皇宫大门",
+      "夜里守宫门，驱赶鬼魅",
+      "押送皇杠立下头等大功"
+    ],
+    "correctAnswer": 2,
+    "explanation": "据《西游记》，唐太宗被泾河龙王的冤魂搅得夜夜不宁，秦琼、尉迟恭披甲守在宫门外，他才得以安睡；后来改画二人像贴在门上，逐渐沿袭成俗。"
+  },
+  {
+    "id": "chinese-literature-409",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "「半路杀出个程咬金」这句俗语，来自程咬金在《说唐》里做了什么？",
+    "options": [
+      "半路拦住秦琼要结拜",
+      "半路截了李世民的头功",
+      "半路抢走别人的新娘",
+      "半路劫下官府的皇杠"
+    ],
+    "correctAnswer": 3,
+    "explanation": "「皇杠」指押送官银的队伍；程咬金抡起板斧突然杀出，靠一套只有三招半的斧法吓退对手，「三板斧」也由此得名。后来这句话就成了「突然冒出个搅局者」的意思。"
+  },
+  {
+    "id": "chinese-literature-410",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "《说唐》「隋唐十八条好汉」榜上排名第一、号称天下无敌的「西府赵王」是谁？",
+    "options": [
+      "罗成",
+      "秦琼",
+      "李元霸",
+      "宇文成都"
+    ],
+    "correctAnswer": 2,
+    "explanation": "李元霸使一对大锤，力大无穷；可历史上的李玄霸是李渊的第三子，十六岁就早逝，几乎没留下什么事迹——演义把他写成了「天下第一」。"
+  },
+  {
+    "id": "chinese-literature-411",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "《说唐》里排名第二的「天保大将军」宇文成都，使的是什么兵器？",
+    "options": [
+      "方天画戟",
+      "凤翅镏金镗",
+      "青龙偃月刀",
+      "丈八蛇矛"
+    ],
+    "correctAnswer": 1,
+    "explanation": "宇文成都在《说唐》里位列十八条好汉第二，是隋朝的头号猛将。不过历史上宇文化及只有宇文承基、宇文承趾两个儿子，宇文成都纯属演义虚构。"
+  },
+  {
+    "id": "chinese-literature-412",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "跨越隋唐两朝的长篇小说《隋唐演义》，作者是清初的哪位文人？",
+    "options": [
+      "钱彩",
+      "蔡元放",
+      "石玉昆",
+      "褚人获"
+    ],
+    "correctAnswer": 3,
+    "explanation": "褚人获约在1675年编成此书，1695年付梓，大量借鉴了明末袁于令的《隋史遗文》。"
+  },
+  {
+    "id": "chinese-literature-413",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "《隋唐演义》结尾用轮回收束全书：唐明皇和杨贵妃被写成了谁的转世？",
+    "options": [
+      "李世民和长孙皇后",
+      "宇文化及和萧皇后",
+      "隋炀帝和朱贵儿",
+      "陈后主和张丽华"
+    ],
+    "correctAnswer": 2,
+    "explanation": "书中说隋炀帝与爱妃朱贵儿的情缘未了，二人转世成了唐明皇与杨贵妃。作者借这条因果线，把隋亡与唐乱首尾相连。"
+  },
+  {
+    "id": "chinese-literature-414",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "成语「杀手锏」原写作「撒手锏」，相传是隋唐故事里哪位好汉的绝招？",
+    "options": [
+      "秦琼",
+      "程咬金",
+      "尉迟恭",
+      "单雄信"
+    ],
+    "correctAnswer": 0,
+    "explanation": "秦琼使一对金装锏，绝招是趁对手不备把锏脱手掷出，打对方个措手不及。「撒手锏」后来转写成「杀手锏」，比喻关键时刻使出的最后王牌。"
+  },
+  {
+    "id": "chinese-literature-415",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "《三侠五义》里，展昭因身手矫健，被皇帝亲封了什么外号？",
+    "options": [
+      "御鼠",
+      "御猫",
+      "御虎",
+      "御鹰"
+    ],
+    "correctAnswer": 1,
+    "explanation": "展昭被封为四品带刀护卫、赐号「御猫」，这可惹恼了外号「锦毛鼠」的白玉堂——他偏不服气，要和「御猫」一较高下，于是有了「五鼠闹东京」的热闹故事。"
+  },
+  {
+    "id": "chinese-literature-416",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "《三侠五义》里，「锦毛鼠」白玉堂最终殉难在哪里？",
+    "options": [
+      "陷空岛的机关阵",
+      "襄阳王的水牢中",
+      "冲霄楼的铜网阵",
+      "开封府的铡刀下"
+    ],
+    "correctAnswer": 2,
+    "explanation": "白玉堂为盗取襄阳王的盟书，三探冲霄楼，不幸落入铜网阵殉难。他与展昭从对头到知己，结局令人唏嘘。"
+  },
+  {
+    "id": "chinese-literature-417",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "民间传说包公有三口铡刀，专铡皇亲国戚的是哪一口？",
+    "options": [
+      "龙头铡",
+      "蛇头铡",
+      "狗头铡",
+      "虎头铡"
+    ],
+    "correctAnswer": 0,
+    "explanation": "龙头铡铡皇亲国戚，虎头铡铡贪官污吏，狗头铡铡平民百姓。《铡美案》里那位被铡的驸马陈世美，其实也是戏曲编出来的虚构人物。"
+  },
+  {
+    "id": "chinese-literature-418",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "《三侠五义》最早源于清代哪位说书艺人的说唱作品《龙图公案》？",
+    "options": [
+      "石玉昆",
+      "俞樾",
+      "柳敬亭",
+      "蒲松龄"
+    ],
+    "correctAnswer": 0,
+    "explanation": "石玉昆在咸丰年间说唱《龙图公案》，后人节录成《龙图耳录》，再改编成《三侠五义》。学者俞樾后来又把它改成《七侠五义》，把「三侠」扩成了「七侠」。"
+  },
+  {
+    "id": "chinese-literature-419",
+    "category": "chinese-literature",
+    "difficulty": "hard",
+    "question": "北宋名将呼延赞（《呼家将》里呼家的先祖）为表忠心，让自己和妻儿仆人身上都刺了哪四个字？",
+    "options": [
+      "忠孝传家",
+      "精忠报国",
+      "誓灭契丹",
+      "赤心杀贼"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这比岳母刺字早了一百多年。呼延赞是真实的北宋将领，史载他在皇帝面前还耍过铁鞭和枣木槊；他的后代故事后来被写成了小说评书《呼家将》。"
+  },
+  {
+    "id": "chinese-literature-420",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "明初猛将常遇春（《英烈传》里的常将军）夸口能横行天下，军中因此送他一个什么外号？",
+    "options": [
+      "常十万",
+      "常无敌",
+      "常百胜",
+      "常先锋"
+    ],
+    "correctAnswer": 0,
+    "explanation": "史载他自言「能将十万众，横行天下」，军中便称他「常十万」。他与徐达是朱元璋最倚重的两员大将，却只活到四十岁。"
+  },
+  {
+    "id": "chinese-literature-421",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "1979年，评书《岳飞传》通过电台广播风靡全国，让哪位评书演员一举成名？",
+    "options": [
+      "单田芳",
+      "刘兰芳",
+      "袁阔成",
+      "田连元"
+    ],
+    "correctAnswer": 1,
+    "explanation": "刘兰芳凭《岳飞传》一举成名，另一部代表作正是《杨家将》——可以说，一个人把「岳」「杨」两大英雄传奇都送到了千家万户的收音机旁。"
+  },
+  {
+    "id": "chinese-literature-422",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "「将军三箭定天山，战士长歌入汉关」，这句军中歌谣里的「将军」是谁？",
+    "options": [
+      "薛仁贵",
+      "程咬金",
+      "罗成",
+      "尉迟恭"
+    ],
+    "correctAnswer": 0,
+    "explanation": "龙朔二年，铁勒骁骑几十人前来挑战，薛仁贵连发三箭射死三人，铁勒九姓被迫归降，军中于是传唱这句歌谣。《薛仁贵征东》里那位白袍小将，就是他的演义形象。"
+  },
+  {
+    "id": "chinese-literature-423",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "《封神演义》里，姜子牙在渭水边钓鱼，那只钓钩有什么古怪？",
+    "options": [
+      "用纯金打造的钩子",
+      "笔直的针，没有弯钩",
+      "钩尖朝上倒挂在竿头",
+      "钩上拴着一锭金元宝"
+    ],
+    "correctAnswer": 1,
+    "explanation": "樵夫武吉笑他钓鱼该把针烧红打弯，子牙却答「宁在直中取，不向曲中求，不为锦鳞设，只钓王与侯」——后来果然等来了访贤的周文王。"
+  },
+  {
+    "id": "chinese-literature-424",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "《封神演义》里，李靖的夫人怀哪吒，足足怀了多久才生下一个肉球？",
+    "options": [
+      "一年半",
+      "三年六个月",
+      "七年",
+      "十个月"
+    ],
+    "correctAnswer": 1,
+    "explanation": "李靖以为是妖怪，拔剑劈开肉球，里面跳出的就是哪吒。后来哪吒剔骨还父、割肉还母，师父太乙真人用莲花和莲藕为他重塑了肉身。"
+  },
+  {
+    "id": "chinese-literature-425",
+    "category": "chinese-literature",
+    "difficulty": "medium",
+    "question": "《东周列国志》的前身《新列国志》，是哪位编写「三言」的明代文人改编的？",
+    "options": [
+      "罗贯中",
+      "冯梦龙",
+      "蒲松龄",
+      "凌濛初"
+    ],
+    "correctAnswer": 1,
+    "explanation": "冯梦龙依据《左传》《史记》等，把余邵鱼的《列国志传》改写成108回的《新列国志》；清乾隆年间蔡元放再作评点修订，书名也变成了《东周列国志》。"
+  },
+  {
+    "id": "chinese-literature-426",
+    "category": "chinese-literature",
+    "difficulty": "easy",
+    "question": "《东周列国志》里，周幽王为博褒姒一笑戏耍诸侯，等犬戎真的打来时结果如何？",
+    "options": [
+      "诸侯当是玩笑，没人来救",
+      "褒姒亲自披甲，击退犬戎",
+      "犬戎见了烽火，吓得退兵",
+      "诸侯星夜赶来，大破犬戎"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这是最早的「狼来了」：幽王被杀于骊山脚下，西周灭亡，次年平王东迁，东周开始。此事见于《东周列国志》第二回。"
   }
 ]
