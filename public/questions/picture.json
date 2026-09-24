@@ -1,0 +1,1186 @@
+[
+  {
+    "id": "picture-001",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅举世闻名的肖像画，名字是什么？",
+    "image": "/questions/images/pic-art-01.jpg",
+    "imageCredit": "达·芬奇《蒙娜丽莎》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "抱银貂的女子",
+      "戴珍珠耳环的少女",
+      "蒙娜丽莎",
+      "椅中圣母"
+    ],
+    "correctAnswer": 2,
+    "explanation": "画中人被认为是佛罗伦萨丝绸商人的妻子丽莎·盖拉尔迪尼。1911年它被一名曾在卢浮宫干活的工人偷走，两年后才被找回，新闻轰动全球，画反而更出名了。"
+  },
+  {
+    "id": "picture-002",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅旋转的夜空令人过目难忘，它叫什么名字？",
+    "image": "/questions/images/pic-art-02.jpg",
+    "imageCredit": "梵高《星月夜》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "星月夜",
+      "夜晚的露天咖啡座",
+      "麦田群鸦",
+      "阿尔勒的卧室"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1889年6月，梵高住在圣雷米的精神病院里，凭着回忆和想象画下了这片夜空，画中的村庄是他想象出来的。这幅画如今收藏在纽约现代艺术博物馆。"
+  },
+  {
+    "id": "picture-003",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅充满焦虑感的表现主义名作，作者是谁？",
+    "image": "/questions/images/pic-art-03.jpg",
+    "imageCredit": "蒙克《呐喊》(1893)｜公有领域｜Wikimedia Commons",
+    "options": [
+      "埃贡·席勒",
+      "爱德华·蒙克",
+      "古斯塔夫·克里姆特",
+      "文森特·梵高"
+    ],
+    "correctAnswer": 1,
+    "explanation": "蒙克在日记里写道：他与朋友走在峡湾边，夕阳把天空染成血红，他忽然感到一声贯穿自然的巨大尖叫。眼前这个1893年的版本，1994年冬奥会开幕当天曾从奥斯陆国家美术馆被盗，几个月后才追回。"
+  },
+  {
+    "id": "picture-004",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "梵高为迎接好友高更来到阿尔勒，特意画了几幅这样的花瓶静物来装饰房间。这幅画叫什么？",
+    "image": "/questions/images/pic-art-04.jpg",
+    "imageCredit": "梵高《向日葵》(伦敦版)｜公有领域｜Wikimedia Commons",
+    "options": [
+      "玫瑰",
+      "杏花",
+      "向日葵",
+      "鸢尾花"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这幅1888年的作品几乎全靠深浅不同的黄色画成，花瓶上还签着“Vincent”。它现藏伦敦国家美术馆，梵高后来又照着它临摹了好几个版本。"
+  },
+  {
+    "id": "picture-005",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅日本浮世绘木版画的名字是什么？",
+    "image": "/questions/images/pic-art-05.jpg",
+    "imageCredit": "葛饰北斋《神奈川冲浪里》(局部)｜公有领域｜Wikimedia Commons",
+    "options": [
+      "山下白雨",
+      "大桥骤雨",
+      "凯风快晴",
+      "神奈川冲浪里"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这是葛饰北斋《富岳三十六景》中的一幅：巨浪张牙舞爪，远处的富士山却小小的、静静的。浓烈的蓝色来自当时刚传入日本的普鲁士蓝颜料，德彪西《大海》乐谱的初版封面用的就是这幅画。"
+  },
+  {
+    "id": "picture-006",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅画在米兰一座修道院食堂的墙上，出自文艺复兴大师达·芬奇之手。它叫什么？",
+    "image": "/questions/images/pic-art-06.jpg",
+    "imageCredit": "达·芬奇《最后的晚餐》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "岩间圣母",
+      "西斯廷圣母",
+      "雅典学院",
+      "最后的晚餐"
+    ],
+    "correctAnswer": 3,
+    "explanation": "达·芬奇没有采用传统的湿壁画技法，而是在干墙上试验新颜料，结果没过多久颜料就开始剥落，几百年来一修再修。二战中修道院遭轰炸，这面墙靠沙袋保护才幸存下来。"
+  },
+  {
+    "id": "picture-007",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅荷兰画家维米尔笔下回眸的少女像，常被称作“北方的蒙娜丽莎”。它叫什么？",
+    "image": "/questions/images/pic-art-07.jpg",
+    "imageCredit": "维米尔《戴珍珠耳环的少女》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "花边女工",
+      "戴珍珠耳环的少女",
+      "读信的蓝衣女子",
+      "倒牛奶的女仆"
+    ],
+    "correctAnswer": 1,
+    "explanation": "严格说这不是某位真人的肖像，而是一幅叫“特罗尼”（tronie）的人物头像习作，少女的身份至今是谜。她头巾上鲜亮的蓝色，用的是由青金石研磨而成、价格昂贵的天然群青。"
+  },
+  {
+    "id": "picture-008",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅描绘池塘水面与花叶的画作，作者是谁？",
+    "image": "/questions/images/pic-art-08.jpg",
+    "imageCredit": "莫奈《睡莲》(1906)｜公有领域｜Wikimedia Commons",
+    "options": [
+      "克劳德·莫奈",
+      "皮埃尔-奥古斯特·雷诺阿",
+      "卡米耶·毕沙罗",
+      "爱德华·马奈"
+    ],
+    "correctAnswer": 0,
+    "explanation": "莫奈晚年在吉维尼的自家花园里打造了睡莲池，前后画了约250幅《睡莲》，成为他最执着的主题。后来他患上白内障，画面里的色彩也变得越来越浓重模糊。"
+  },
+  {
+    "id": "picture-009",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅宋代长卷的局部，画的是一座拱桥上下的热闹景象。它叫什么名字？",
+    "image": "/questions/images/pic-art-09.jpg",
+    "imageCredit": "张择端《清明上河图》(局部)｜公有领域｜Wikimedia Commons",
+    "options": [
+      "清明上河图",
+      "韩熙载夜宴图",
+      "富春山居图",
+      "千里江山图"
+    ],
+    "correctAnswer": 0,
+    "explanation": "作者是北宋画家张择端。画中的虹桥是一座不用桥墩的木拱桥，一条大船正冒险过桥，船夫忙着放倒桅杆，桥上的看客围成一圈——这被认为是全卷最惊险的一幕。"
+  },
+  {
+    "id": "picture-010",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅出自伦勃朗之手的巨幅群像画，叫什么名字？",
+    "image": "/questions/images/pic-art-10.jpg",
+    "imageCredit": "伦勃朗《夜巡》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "夜巡",
+      "布商公会的理事们",
+      "杜尔普教授的解剖课",
+      "浪子回头"
+    ],
+    "correctAnswer": 0,
+    "explanation": "画的其实是白天的场景，只因表面的旧清漆年深日久发黑，后人才误称它为《夜巡》。1715年为了挂进阿姆斯特丹市政厅，画布四边被裁去一圈，左侧被裁得最多。"
+  },
+  {
+    "id": "picture-011",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅描绘雾气笼罩下清晨港口的画作，1872年画于法国勒阿弗尔。它叫什么名字？",
+    "image": "/questions/images/pic-art-11.jpg",
+    "imageCredit": "莫奈《日出·印象》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "睡莲",
+      "干草堆",
+      "鲁昂大教堂",
+      "日出·印象"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1874年首届印象派画展上，评论家勒鲁瓦嘲讽这幅画“只是一个印象”，“印象派”的名字就这样诞生了。1985年它还曾被武装劫匪从马摩丹博物馆抢走，五年后才追回。"
+  },
+  {
+    "id": "picture-012",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅描绘三位农妇弯腰劳作的19世纪法国名画，叫什么名字？",
+    "image": "/questions/images/pic-art-12.jpg",
+    "imageCredit": "米勒《拾穗者》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "晚钟",
+      "拾穗者",
+      "牧羊女",
+      "播种者"
+    ],
+    "correctAnswer": 1,
+    "explanation": "米勒画的是收割后被允许捡拾遗落麦穗的最贫穷的农妇，远处堆积如山的麦垛与前景的辛劳形成鲜明对比。1857年展出时，一些评论家觉得它在替穷人发声，很不高兴。"
+  },
+  {
+    "id": "picture-013",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅描绘英国乡村水边景色的名作，作者是谁？",
+    "image": "/questions/images/pic-art-13.jpg",
+    "imageCredit": "康斯太布尔《干草车》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "托马斯·庚斯博罗",
+      "约翰·康斯太布尔",
+      "乔舒亚·雷诺兹",
+      "约瑟夫·透纳"
+    ],
+    "correctAnswer": 1,
+    "explanation": "画名《干草车》，画的是萨福克郡斯陶尔河畔的农舍和一辆涉水而过的干草车。1824年它在巴黎沙龙获得金奖，据说德拉克罗瓦看后重新修改了自己参展的《希奥岛的屠杀》。"
+  },
+  {
+    "id": "picture-014",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅德国浪漫主义名作中，一个背对观众的男子站在山巅。它叫什么名字？",
+    "image": "/questions/images/pic-art-14.jpg",
+    "imageCredit": "弗里德里希《雾海上的旅人》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "橡树下的修道院",
+      "吕根岛的白垩崖",
+      "雾海上的旅人",
+      "海边的僧侣"
+    ],
+    "correctAnswer": 2,
+    "explanation": "弗里德里希用这个背影把观众的目光引向浩瀚的自然，成为浪漫主义的标志性画面。背景的群山其实是把德国萨克森瑞士一带的多处景观拼合而成，并非某一处实景。"
+  },
+  {
+    "id": "picture-015",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅19世纪末的名画由无数细小的彩色圆点拼成，画的是巴黎郊外河边休闲的人群。它叫什么？",
+    "image": "/questions/images/pic-art-15.jpg",
+    "imageCredit": "修拉《大碗岛的星期天下午》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "游船上的午餐",
+      "撑阳伞的女人",
+      "煎饼磨坊的舞会",
+      "大碗岛的星期天下午"
+    ],
+    "correctAnswer": 3,
+    "explanation": "修拉用并置的小色点，让观众的眼睛自己完成混色，这种技法叫点彩法。他为这幅画花了两年时间，还画了几十幅习作；画面右前方的贵妇牵着一只小猴子。"
+  },
+  {
+    "id": "picture-016",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅色彩浓丽的青绿山水长卷，画名是什么？",
+    "image": "/questions/images/pic-art-16.jpg",
+    "imageCredit": "王希孟《千里江山图》(局部)｜公有领域｜Wikimedia Commons",
+    "options": [
+      "早春图",
+      "千里江山图",
+      "万壑松风图",
+      "溪山行旅图"
+    ],
+    "correctAnswer": 1,
+    "explanation": "作者王希孟是宋徽宗时期的少年画家，据蔡京的题跋记载，他画此卷时只有十八岁，这也是他唯一传世的作品。全卷长近12米，鲜艳的蓝绿来自石青、石绿等矿物颜料，近千年后依然明亮。"
+  },
+  {
+    "id": "picture-017",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅元代的水墨山水长卷，画名是什么？",
+    "image": "/questions/images/pic-art-17.jpg",
+    "imageCredit": "黄公望《富春山居图》(局部)｜公有领域｜Wikimedia Commons",
+    "options": [
+      "鹊华秋色图",
+      "六君子图",
+      "渔庄秋霁图",
+      "富春山居图"
+    ],
+    "correctAnswer": 3,
+    "explanation": "作者黄公望晚年隐居富春江畔，花了数年才画成。明末收藏者吴洪裕临终要把它烧掉殉葬，被侄子从火中抢出，画卷因此断成两段：前一小段叫《剩山图》，藏浙江省博物馆；后一大段叫《无用师卷》，藏台北故宫。"
+  },
+  {
+    "id": "picture-018",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅五代南唐的人物画长卷（现存为宋代摹本）的局部，叫什么名字？",
+    "image": "/questions/images/pic-art-18.jpg",
+    "imageCredit": "顾闳中《韩熙载夜宴图》(宋摹本局部)｜公有领域｜Wikimedia Commons",
+    "options": [
+      "簪花仕女图",
+      "历代帝王图",
+      "韩熙载夜宴图",
+      "捣练图"
+    ],
+    "correctAnswer": 2,
+    "explanation": "南唐后主李煜想重用韩熙载，又听说他夜夜笙歌，便派画院的顾闳中夜里去他家观察，回来凭记忆画成此卷。一般认为，韩熙载是故意纵情声色来避祸。这一段画的是众人听琵琶，名为“听乐”。"
+  },
+  {
+    "id": "picture-019",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅唐代宫廷人物画（现存为宋代摹本）的局部，叫什么名字？",
+    "image": "/questions/images/pic-art-19.jpg",
+    "imageCredit": "阎立本《步辇图》(宋摹本局部)｜公有领域｜Wikimedia Commons",
+    "options": [
+      "簪花仕女图",
+      "历代帝王图",
+      "捣练图",
+      "步辇图"
+    ],
+    "correctAnswer": 3,
+    "explanation": "作者是初唐画家阎立本。画的是唐太宗接见吐蕃使者禄东赞，后来文成公主入藏和亲。画中皇帝被宫女簇拥着，身形格外高大，是古画“以大小显尊卑”的手法。"
+  },
+  {
+    "id": "picture-020",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这幅15世纪尼德兰绘画的墙上挂着一面凸面镜，映出了整个房间。它叫什么名字？",
+    "image": "/questions/images/pic-art-20.jpg",
+    "imageCredit": "扬·凡·艾克《阿尔诺芬尼夫妇像》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "阿尔诺芬尼夫妇像",
+      "农民的婚礼",
+      "大使们",
+      "查理四世一家"
+    ],
+    "correctAnswer": 0,
+    "explanation": "扬·凡·艾克在镜子上方题写了“扬·凡·艾克曾在此，1434年”，像一份签在画里的见证书。镜子里还映出两位站在门口的来客，其中一位可能就是画家本人。"
+  },
+  {
+    "id": "picture-021",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这幅17世纪西班牙宫廷名画里，画家把自己也画了进去，还用一面镜子藏了两位“画外人”。它叫什么？",
+    "image": "/questions/images/pic-art-21.jpg",
+    "imageCredit": "委拉斯凯兹《宫娥》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "教皇英诺森十世",
+      "纺织女",
+      "宫娥",
+      "查理四世一家"
+    ],
+    "correctAnswer": 2,
+    "explanation": "画中央的小公主是玛格丽特，镜子里映出的是国王腓力四世夫妇，仿佛就站在观众的位置上。委拉斯凯兹胸前的红色十字勋章，传说是后来由国王亲手补上的；毕加索还以这幅画为蓝本画了58幅变奏作品。"
+  },
+  {
+    "id": "picture-022",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这幅唐代画作里的牛神态各异、笔墨朴拙，它是唐代哪位画家的作品？",
+    "image": "/questions/images/pic-art-22.jpg",
+    "imageCredit": "韩滉《五牛图》(局部)｜公有领域｜Wikimedia Commons",
+    "options": [
+      "曹霸",
+      "戴嵩",
+      "韩滉",
+      "韩干"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《五牛图》的作者韩滉曾任唐德宗朝的宰相，画牛也许与他重视农事有关。这是中国现存最早的纸本绘画之一，五头牛的姿态、毛色和表情各不相同，笔法朴拙而生动。"
+  },
+  {
+    "id": "picture-023",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这幅长卷传为东晋大画家顾恺之所作，现存为宋代摹本。它叫什么名字？",
+    "image": "/questions/images/pic-art-23.jpg",
+    "imageCredit": "顾恺之《洛神赋图》(宋摹本局部)｜公有领域｜Wikimedia Commons",
+    "options": [
+      "洛神赋图",
+      "汉宫春晓图",
+      "女史箴图",
+      "列女仁智图"
+    ],
+    "correctAnswer": 0,
+    "explanation": "画的是曹植《洛神赋》里，他在洛水边邂逅洛神的故事。同一个人物在长卷里反复出现，让故事像连环画一样展开，这种手法叫“异时同图”。顾恺之的原作早已失传，如今能看到的都是后人的摹本。"
+  },
+  {
+    "id": "picture-024",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这幅唐代画作（传为宋徽宗摹本）中，一队贵族男女骑马缓缓而行。它叫什么名字？",
+    "image": "/questions/images/pic-art-24.jpg",
+    "imageCredit": "张萱《虢国夫人游春图》(传宋摹本局部)｜公有领域｜Wikimedia Commons",
+    "options": [
+      "挥扇仕女图",
+      "虢国夫人游春图",
+      "簪花仕女图",
+      "捣练图"
+    ],
+    "correctAnswer": 1,
+    "explanation": "画的是杨贵妃的姐姐虢国夫人一行春日出游。唐人以丰腴为美，画中的仕女和骏马都体态圆润；全画不画背景，全靠人物与马匹的姿态表现悠闲春意。张祜的诗说她“却嫌脂粉污颜色，淡扫蛾眉朝至尊”。"
+  },
+  {
+    "id": "picture-025",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位站在黑板前的物理学家是谁？",
+    "image": "/questions/images/pic-person-01.jpg",
+    "imageCredit": "爱因斯坦，1921年，摄影：费迪南德·施密茨｜公有领域｜Wikimedia Commons",
+    "options": [
+      "玻尔",
+      "麦克斯韦",
+      "普朗克",
+      "爱因斯坦"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这张1921年在维也纳讲学时拍下的照片，成了他最经典的肖像之一。有趣的是，他的诺贝尔物理学奖并非因为相对论，而是因为解释了光电效应。"
+  },
+  {
+    "id": "picture-026",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位思想家是谁？",
+    "image": "/questions/images/pic-person-02.jpg",
+    "imageCredit": "孔子，《孔子燕居像》，佚名画作｜公有领域｜Wikimedia Commons",
+    "options": [
+      "老子",
+      "孟子",
+      "孔子",
+      "庄子"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这幅《孔子燕居像》画的是他平日闲居的模样。《史记》记载他身高九尺六寸，人们都叫他“长人”。"
+  },
+  {
+    "id": "picture-027",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这幅自画像的作者是谁？",
+    "image": "/questions/images/pic-person-03.jpg",
+    "imageCredit": "梵高《自画像》，1887年｜公有领域｜Wikimedia Commons",
+    "options": [
+      "梵高",
+      "高更",
+      "莫奈",
+      "塞尚"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这幅1887年的自画像画于巴黎，细碎的彩色笔触受到了点彩派的启发。据说他请不起模特，常拿自己练手，一生留下三十多幅自画像。"
+  },
+  {
+    "id": "picture-028",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位仰首行吟的唐代诗人是谁？",
+    "image": "/questions/images/pic-person-04.jpg",
+    "imageCredit": "李白，《李白行吟图》，传南宋梁楷作｜公有领域｜Wikimedia Commons",
+    "options": [
+      "李白",
+      "杜甫",
+      "白居易",
+      "王维"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这幅《李白行吟图》传为南宋画家梁楷所作，只用寥寥几笔的“减笔”画法，就勾出诗人豪放洒脱的神态。原画现藏东京国立博物馆。"
+  },
+  {
+    "id": "picture-029",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位女科学家与丈夫共同发现了哪两种元素？",
+    "image": "/questions/images/pic-person-05.jpg",
+    "imageCredit": "居里夫人，约1920年，摄影：亨利·马努埃尔｜公有领域｜Wikimedia Commons",
+    "options": [
+      "钋和镭",
+      "氦和氖",
+      "氧和氮",
+      "钠和钾"
+    ],
+    "correctAnswer": 0,
+    "explanation": "她是唯一在物理学和化学两个不同领域都获得诺贝尔奖的人。“钋”这个名字，取自她的祖国波兰（Polonia）。"
+  },
+  {
+    "id": "picture-030",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这幅油画像描绘的是清朝的哪位大臣？",
+    "image": "/questions/images/pic-person-06.jpg",
+    "imageCredit": "林则徐，19世纪油画，关乔昌（Lam Qua）｜公有领域｜Wikimedia Commons",
+    "options": [
+      "李鸿章",
+      "林则徐",
+      "左宗棠",
+      "曾国藩"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这幅画像相传出自广州画家关乔昌之手。林则徐1839年在虎门销毁近两万箱鸦片，后来被流放新疆伊犁，仍在当地兴修水利。"
+  },
+  {
+    "id": "picture-031",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位手握铅笔的作曲家是谁？",
+    "image": "/questions/images/pic-person-07.jpg",
+    "imageCredit": "贝多芬，1820年，画家：约瑟夫·施蒂勒｜公有领域｜Wikimedia Commons",
+    "options": [
+      "贝多芬",
+      "莫扎特",
+      "巴赫",
+      "舒伯特"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这幅1820年的肖像，是画家施蒂勒在他创作《庄严弥撒》期间所绘。贝多芬晚年几乎完全失聪，却依然写出了第九交响曲。"
+  },
+  {
+    "id": "picture-032",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位头戴冕旒的帝王是谁？",
+    "image": "/questions/images/pic-person-08.jpg",
+    "imageCredit": "秦始皇，19世纪画册肖像，佚名｜公有领域｜Wikimedia Commons",
+    "options": [
+      "隋炀帝",
+      "秦始皇",
+      "汉武帝",
+      "唐太宗"
+    ],
+    "correctAnswer": 1,
+    "explanation": "秦始皇13岁即位秦王，公元前221年统一六国并自称“皇帝”。没有人知道他真正的长相，这类画像都是后人想象出来的。"
+  },
+  {
+    "id": "picture-033",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位坐在长椅上的俄国文豪是谁？",
+    "image": "/questions/images/pic-person-09.jpg",
+    "imageCredit": "托尔斯泰，1908年，摄影：普罗库金-戈尔斯基｜公有领域｜Wikimedia Commons",
+    "options": [
+      "托尔斯泰",
+      "屠格涅夫",
+      "陀思妥耶夫斯基",
+      "契诃夫"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这是1908年摄影师普罗库金-戈尔斯基用早期彩色摄影术拍下的托尔斯泰，当时他已近80岁，两年后离世。一张一百多年前的彩色照片，是不是很神奇？"
+  },
+  {
+    "id": "picture-034",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位近代历史人物是谁？",
+    "image": "/questions/images/pic-person-10.jpg",
+    "imageCredit": "孙中山，1922年，上海波尔照相馆｜公有领域｜Wikimedia Commons",
+    "options": [
+      "梁启超",
+      "黄兴",
+      "蔡元培",
+      "孙中山"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这是1922年在上海拍摄的肖像，流传最广，被称为他的“标准像”。他早年在香港学习西医，后来才走上革命道路。"
+  },
+  {
+    "id": "picture-035",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位科学家最出名的成就是？",
+    "image": "/questions/images/pic-person-11.jpg",
+    "imageCredit": "达尔文，约1854年，摄影：Maull & Fox｜公有领域｜Wikimedia Commons",
+    "options": [
+      "提出日心说与地动学说",
+      "提出自然选择的进化论",
+      "提出万有引力与运动定律",
+      "提出狭义与广义相对论"
+    ],
+    "correctAnswer": 1,
+    "explanation": "他乘“小猎犬号”环球考察近五年，途中的见闻给了他重要启发；他把想法压了二十多年，直到1859年才出版《物种起源》。"
+  },
+  {
+    "id": "picture-036",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位唐代诗人被后世尊称为什么？",
+    "image": "/questions/images/pic-person-12.jpg",
+    "imageCredit": "杜甫，清宫旧藏画像，佚名｜公有领域｜Wikimedia Commons",
+    "options": [
+      "诗佛",
+      "诗仙",
+      "诗圣",
+      "诗鬼"
+    ],
+    "correctAnswer": 2,
+    "explanation": "他一生颠沛流离，写下“安得广厦千万间，大庇天下寒士俱欢颜”的名句，诗风沉郁，因此被称为“诗圣”。“诗仙”是李白，“诗佛”是王维，“诗鬼”是李贺。"
+  },
+  {
+    "id": "picture-037",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位美国总统是谁？",
+    "image": "/questions/images/pic-person-13.jpg",
+    "imageCredit": "林肯，1863年，摄影：亚历山大·加德纳｜公有领域｜Wikimedia Commons",
+    "options": [
+      "杰斐逊",
+      "格兰特",
+      "华盛顿",
+      "林肯"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这张照片拍摄于1863年11月8日，十一天后他发表了著名的葛底斯堡演说。据说他留胡子，是听了一位11岁小女孩的来信建议。"
+  },
+  {
+    "id": "picture-038",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这幅朝服像的主人，在位期间平定三藩、收复台湾，他是谁？",
+    "image": "/questions/images/pic-person-14.jpg",
+    "imageCredit": "康熙帝朝服像，清代宫廷画家，故宫博物院藏｜公有领域｜Wikimedia Commons",
+    "options": [
+      "雍正帝",
+      "乾隆帝",
+      "康熙帝",
+      "顺治帝"
+    ],
+    "correctAnswer": 2,
+    "explanation": "康熙8岁登基，16岁时智擒权臣鳌拜，在位61年，是中国历史上在位时间最长的皇帝之一。"
+  },
+  {
+    "id": "picture-039",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这幅红粉笔头像，被认为是哪位文艺复兴巨匠的自画像？",
+    "image": "/questions/images/pic-person-15.jpg",
+    "imageCredit": "传达·芬奇自画像（红粉笔），约1510年代｜公有领域｜Wikimedia Commons",
+    "options": [
+      "拉斐尔",
+      "达·芬奇",
+      "提香",
+      "米开朗基罗"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这幅红粉笔素描约绘于1510年代，收藏在意大利都灵皇家图书馆，因纸张十分脆弱，很少公开展出。不过学界对它是否真是自画像仍有争议。"
+  },
+  {
+    "id": "picture-040",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位现代文学家、思想家是谁？",
+    "image": "/questions/images/pic-person-16.jpg",
+    "imageCredit": "鲁迅，1933年，雪怀照相馆｜公有领域(PD-China)｜Wikimedia Commons",
+    "options": [
+      "巴金",
+      "鲁迅",
+      "老舍",
+      "茅盾"
+    ],
+    "correctAnswer": 1,
+    "explanation": "“鲁迅”这个笔名，1918年首次用于发表《狂人日记》。他早年赴日本学医，后来弃医从文，想用笔唤醒国人。"
+  },
+  {
+    "id": "picture-041",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位科学家是谁？",
+    "image": "/questions/images/pic-person-17.jpg",
+    "imageCredit": "伽利略，1636年，画家：苏斯特曼斯｜公有领域｜Wikimedia Commons",
+    "options": [
+      "哥白尼",
+      "第谷",
+      "开普勒",
+      "伽利略"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1610年他用自制望远镜发现了木星的四颗卫星，后来因支持日心说被宗教裁判所审判，晚年被软禁在家。"
+  },
+  {
+    "id": "picture-042",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位清末的太后是谁？",
+    "image": "/questions/images/pic-person-18.jpg",
+    "imageCredit": "慈禧太后，清末，摄影：裕勋龄｜公有领域｜Wikimedia Commons",
+    "options": [
+      "孝庄太后",
+      "慈安太后",
+      "慈禧太后",
+      "隆裕太后"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这张照片出自宫廷摄影师裕勋龄之手。晚年的慈禧很爱拍照，还曾扮成观音留影。"
+  },
+  {
+    "id": "picture-043",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位发明家最出名的成就是？",
+    "image": "/questions/images/pic-person-19.jpg",
+    "imageCredit": "特斯拉，约1890年，摄影：拿破仑·萨罗尼｜公有领域｜Wikimedia Commons",
+    "options": [
+      "发明交流感应电动机",
+      "发明实用的白炽灯泡",
+      "发明实用的蒸汽机车",
+      "发明第一部电话机"
+    ],
+    "correctAnswer": 0,
+    "explanation": "他1884年来到美国，一度为爱迪生工作，后来两人因直流电与交流电的“电流之战”成为对手。如今磁感应强度的单位“特斯拉”就以他命名。"
+  },
+  {
+    "id": "picture-044",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位手持竹杖的宋代文学家是谁？",
+    "image": "/questions/images/pic-person-20.jpg",
+    "imageCredit": "苏轼像，元代赵孟頫绘，台北故宫藏｜公有领域｜Wikimedia Commons",
+    "options": [
+      "欧阳修",
+      "苏轼",
+      "辛弃疾",
+      "王安石"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这幅白描像出自元代书画大家赵孟頫之手。苏轼被贬黄州时在城东坡地垦荒，自号“东坡居士”，相传“东坡肉”也是他在黄州时的创制。"
+  },
+  {
+    "id": "picture-045",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位留着长卷发的科学家是谁？",
+    "image": "/questions/images/pic-person-21.jpg",
+    "imageCredit": "牛顿，1689年，画家：戈弗雷·内勒｜公有领域｜Wikimedia Commons",
+    "options": [
+      "哥白尼",
+      "伽利略",
+      "牛顿",
+      "开普勒"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这幅1689年的肖像出自英国宫廷画家戈弗雷·内勒之手，画中的牛顿46岁，《自然哲学的数学原理》已在两年前问世。"
+  },
+  {
+    "id": "picture-046",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位身穿军装、一手插在背心里的人物是谁？",
+    "image": "/questions/images/pic-person-22.jpg",
+    "imageCredit": "《书房中的拿破仑》，1812年，画家：雅克-路易·大卫｜公有领域｜Wikimedia Commons",
+    "options": [
+      "路易十四",
+      "腓特烈大帝",
+      "彼得大帝",
+      "拿破仑"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这是1812年大卫的名作《书房中的拿破仑》：画中蜡烛快燃尽，座钟指向凌晨4点13分，暗示这位皇帝彻夜勤政。"
+  },
+  {
+    "id": "picture-047",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位身穿红色礼服的作曲家是谁？",
+    "image": "/questions/images/pic-person-23.jpg",
+    "imageCredit": "莫扎特，1819年，画家：芭芭拉·克拉夫特｜公有领域｜Wikimedia Commons",
+    "options": [
+      "舒伯特",
+      "海顿",
+      "巴赫",
+      "莫扎特"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这幅画完成于1819年，那时莫扎特已去世近三十年，画家是根据其他画像和亲友回忆绘成的。他只活了35岁，却留下了600多部作品。"
+  },
+  {
+    "id": "picture-048",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位戴着耳环的剧作家是谁？",
+    "image": "/questions/images/pic-person-24.jpg",
+    "imageCredit": "莎士比亚（钱多斯肖像），传约翰·泰勒作｜公有领域｜Wikimedia Commons",
+    "options": [
+      "莫里哀",
+      "本·琼森",
+      "莎士比亚",
+      "马洛"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这幅“钱多斯肖像”约绘于17世纪初，1856年成为伦敦国家肖像馆的第一件藏品。画中人是否真是莎士比亚，学界至今仍有争论。"
+  },
+  {
+    "id": "picture-049",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这座著名的高塔叫什么名字？",
+    "image": "/questions/images/pic-place-01.jpg",
+    "imageCredit": "埃菲尔铁塔，摄影：Benh Lieu Song｜CC BY-SA 3.0｜Wikimedia Commons",
+    "options": [
+      "东方明珠塔",
+      "广州塔",
+      "东京塔",
+      "埃菲尔铁塔"
+    ],
+    "correctAnswer": 3,
+    "explanation": "埃菲尔铁塔为1889年巴黎世博会而建，原本只打算保留20年，后来因为能架设无线电天线才躲过拆除。夏天铁受热膨胀，塔尖会比冬天高出十几厘米。"
+  },
+  {
+    "id": "picture-050",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这座古代巨型金字塔，位于哪个国家？",
+    "image": "/questions/images/pic-place-02.jpg",
+    "imageCredit": "金字塔，摄影：Douwe C. van der Zee｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "秘鲁",
+      "墨西哥",
+      "苏丹",
+      "埃及"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这是吉萨的胡夫金字塔，约4500年前建成，原高约146.6米，保持“世界最高人造建筑”的纪录长达3800多年。有趣的是，苏丹境内的金字塔数量其实比埃及还多。"
+  },
+  {
+    "id": "picture-051",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这座矗立在港口岛上的巨大雕像，是哪座城市的象征？",
+    "image": "/questions/images/pic-place-03.jpg",
+    "imageCredit": "自由女神像，摄影：AskALotl｜CC0｜Wikimedia Commons",
+    "options": [
+      "旧金山",
+      "波士顿",
+      "纽约",
+      "华盛顿"
+    ],
+    "correctAnswer": 2,
+    "explanation": "自由女神像是1886年法国赠给美国的礼物，铜皮只有约2.4毫米厚。它刚落成时是闪亮的红铜色，几十年后氧化才变成如今的青绿色。"
+  },
+  {
+    "id": "picture-052",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这处蜿蜒于山岭之间的古代防御工程叫什么？",
+    "image": "/questions/images/pic-place-04.jpg",
+    "imageCredit": "长城金山岭段，摄影：Severin.stalder｜CC BY-SA 3.0｜Wikimedia Commons",
+    "options": [
+      "南京明城墙",
+      "西安城墙",
+      "长城",
+      "平遥古城墙"
+    ],
+    "correctAnswer": 2,
+    "explanation": "图中是河北滦平的金山岭长城，以敌楼密集著称，明代名将戚继光曾主持这一带长城的修筑。“太空中肉眼能看见长城”其实是个流传很广的误会，中国首位航天员杨利伟就说过自己没看到。"
+  },
+  {
+    "id": "picture-053",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这座白色帆壳造型的建筑，位于哪座城市？",
+    "image": "/questions/images/pic-place-05.jpg",
+    "imageCredit": "悉尼歌剧院，摄影：Bernard Spragg｜CC0｜Wikimedia Commons",
+    "options": [
+      "墨尔本",
+      "奥克兰",
+      "新加坡",
+      "悉尼"
+    ],
+    "correctAnswer": 3,
+    "explanation": "悉尼歌剧院1973年启用，设计者是丹麦建筑师约恩·乌松。他在工程中途因与政府发生争执离开澳大利亚，此后再也没有回来亲眼看到它建成。"
+  },
+  {
+    "id": "picture-054",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这座白色大理石建筑叫什么名字？",
+    "image": "/questions/images/pic-place-06.jpg",
+    "imageCredit": "泰姬陵，摄影：Yann（Jim Carter 编辑）｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "胡马雍陵",
+      "泰姬陵",
+      "金庙",
+      "红堡"
+    ],
+    "correctAnswer": 1,
+    "explanation": "泰姬陵是莫卧儿皇帝沙·贾汉为纪念爱妻慕塔兹·玛哈尔所建，从1632年起前后花了约22年。四座宣礼塔都微微向外倾斜，据说是为了万一倒塌也不会砸到主陵。"
+  },
+  {
+    "id": "picture-055",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这座倾斜的白色塔楼，位于意大利哪座城市？",
+    "image": "/questions/images/pic-place-07.jpg",
+    "imageCredit": "比萨斜塔，摄影：Arne Müseler｜CC BY-SA 3.0 DE｜Wikimedia Commons",
+    "options": [
+      "米兰",
+      "佛罗伦萨",
+      "比萨",
+      "威尼斯"
+    ],
+    "correctAnswer": 2,
+    "explanation": "比萨斜塔1173年动工，盖到第三层时因一侧地基松软开始倾斜，前后断断续续修了近200年。伽利略在塔上做落体实验的故事，多半只是后人的传说。"
+  },
+  {
+    "id": "picture-056",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这座残缺的椭圆形古建筑是什么？",
+    "image": "/questions/images/pic-place-08.jpg",
+    "imageCredit": "罗马斗兽场，摄影：FeaturedPics｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "卡拉卡拉浴场",
+      "万神殿",
+      "罗马斗兽场",
+      "帕特农神庙"
+    ],
+    "correctAnswer": 2,
+    "explanation": "罗马斗兽场约公元80年落成，可容纳数万名观众，拱门上刻有编号，观众凭票号找入口，相当于两千年前的“对号入座”。外墙缺了一大块，是中世纪地震和后人拆石取材造成的。"
+  },
+  {
+    "id": "picture-057",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这座橙红色的悬索大桥叫什么名字？",
+    "image": "/questions/images/pic-place-09.jpg",
+    "imageCredit": "金门大桥，摄影：Frank Schulenburg｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "伦敦塔桥",
+      "悉尼港湾大桥",
+      "布鲁克林大桥",
+      "金门大桥"
+    ],
+    "correctAnswer": 3,
+    "explanation": "金门大桥1937年通车，它的橙红色叫“国际橙”，本来只是钢材的防锈底漆色，因为与海岸景色相衬又便于在雾中辨认而被保留。美国海军当年还曾建议漆成黑黄条纹，被否决了。"
+  },
+  {
+    "id": "picture-058",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这片被红墙环绕的古代皇家宫殿建筑群叫什么？",
+    "image": "/questions/images/pic-place-10.jpg",
+    "imageCredit": "故宫，摄影：Pixelflake｜CC BY-SA 3.0｜Wikimedia Commons",
+    "options": [
+      "故宫",
+      "天坛",
+      "承德避暑山庄",
+      "颐和园"
+    ],
+    "correctAnswer": 0,
+    "explanation": "故宫又称紫禁城，1420年基本建成，相传共有9999间半房屋，比天宫少半间——因为只有玉皇大帝才配拥有整一万间。实际统计的数字则是八千多间。"
+  },
+  {
+    "id": "picture-059",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这座依山而建、红白相间的宫殿式建筑是哪里？",
+    "image": "/questions/images/pic-place-11.jpg",
+    "imageCredit": "布达拉宫，摄影：cattan2011（裁剪）｜CC BY 2.0｜Wikimedia Commons",
+    "options": [
+      "布达拉宫",
+      "扎什伦布寺",
+      "大昭寺",
+      "塔尔寺"
+    ],
+    "correctAnswer": 0,
+    "explanation": "布达拉宫海拔约3700米，是世界上海拔最高的宫殿之一，居中的红色部分是红宫，两侧的白色部分是白宫。现存主体主要由五世达赖喇嘛在17世纪中叶起重建。"
+  },
+  {
+    "id": "picture-060",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这座山顶积雪的锥形火山是哪座山？",
+    "image": "/questions/images/pic-place-12.jpg",
+    "imageCredit": "富士山，摄影：Suicasmo｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "埃特纳火山",
+      "富士山",
+      "乞力马扎罗山",
+      "玉山"
+    ],
+    "correctAnswer": 1,
+    "explanation": "富士山海拔3776米，是日本最高峰，也是一座至今仍被视为活火山的山，最近一次喷发在1707年，火山灰甚至落到了江户（今东京）。"
+  },
+  {
+    "id": "picture-061",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这座倒映在荷塘边的五塔寺庙群，位于哪个国家？",
+    "image": "/questions/images/pic-place-13.jpg",
+    "imageCredit": "吴哥窟，摄影：Bjørn Christian Tørrissen｜CC BY-SA 4.0｜Commons",
+    "options": [
+      "柬埔寨",
+      "泰国",
+      "缅甸",
+      "印度尼西亚"
+    ],
+    "correctAnswer": 0,
+    "explanation": "吴哥窟建于12世纪，最初是献给毗湿奴的印度教神庙，后来才逐渐转为佛教寺庙，占地约162公顷，是世界上最大的宗教建筑群。柬埔寨国旗上就印着它的剪影。"
+  },
+  {
+    "id": "picture-062",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这座建在山脊上的古城遗址，是哪个古文明的杰作？",
+    "image": "/questions/images/pic-place-14.jpg",
+    "imageCredit": "马丘比丘，摄影：Draceane｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "阿兹特克文明",
+      "纳斯卡文明",
+      "印加文明",
+      "玛雅文明"
+    ],
+    "correctAnswer": 2,
+    "explanation": "马丘比丘约建于15世纪中叶，据信是印加皇帝帕查库提的离宫。西班牙殖民者始终没有找到它，因此它躲过了劫掠，直到1911年才被美国探险家海勒姆·宾厄姆带向世界。"
+  },
+  {
+    "id": "picture-063",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这座直接凿刻在红色砂岩崖壁上的宏伟建筑，位于哪处著名遗址？",
+    "image": "/questions/images/pic-place-15.jpg",
+    "imageCredit": "佩特拉修道院，摄影：Azurfrog｜CC BY-SA 3.0｜Wikimedia Commons",
+    "options": [
+      "佩特拉",
+      "帕尔米拉",
+      "阿布辛拜勒",
+      "以弗所"
+    ],
+    "correctAnswer": 0,
+    "explanation": "图中是佩特拉最大的建筑“修道院”，宽约47米、高约48米，比更有名的“宝库”还大。“修道院”是后人的叫法，它其实更可能是纳巴泰人纪念国王奥博达斯一世的神庙。"
+  },
+  {
+    "id": "picture-064",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这尊依江边崖壁凿成的巨大石佛，位于中国哪个省份？",
+    "image": "/questions/images/pic-place-16.jpg",
+    "imageCredit": "乐山大佛，摄影：xiquinhosilva｜CC BY 2.0｜Wikimedia Commons",
+    "options": [
+      "四川",
+      "河南",
+      "甘肃",
+      "山西"
+    ],
+    "correctAnswer": 0,
+    "explanation": "乐山大佛高71米，是世界上最大的石刻佛像，由僧人海通发愿修建，从唐开元初年开凿，前后花了约90年才完工。佛像头部、耳后等处还暗藏排水系统，用来保护石身。"
+  },
+  {
+    "id": "picture-065",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag-01.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "孟加拉国",
+      "日本",
+      "韩国",
+      "帕劳"
+    ],
+    "correctAnswer": 1,
+    "explanation": "日本国旗叫“日章旗”，白底红日；“日本”这个国名的本意就是“日出之处”。不过直到1999年，日章旗才通过《国旗国歌法》正式成为法定国旗。"
+  },
+  {
+    "id": "picture-066",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag-02.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "新西兰",
+      "澳大利亚",
+      "斐济",
+      "英国"
+    ],
+    "correctAnswer": 3,
+    "explanation": "英国国旗俗称“米字旗”，由英格兰的圣乔治十字、苏格兰的圣安德鲁十字和爱尔兰的圣帕特里克十字叠合而成。威尔士的红龙没有出现在旗上，因为威尔士早已被并入英格兰王国。"
+  },
+  {
+    "id": "picture-067",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag-03.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "奥地利",
+      "加拿大",
+      "黎巴嫩",
+      "秘鲁"
+    ],
+    "correctAnswer": 1,
+    "explanation": "加拿大国旗于1965年启用，此前长期使用带有英国米字旗的旗帜，换旗前还掀起过一场激烈的“国旗大辩论”。枫叶有11个尖角，两侧红边常被解读为大西洋与太平洋。"
+  },
+  {
+    "id": "picture-068",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag-04.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "美国",
+      "乌拉圭",
+      "马来西亚",
+      "利比里亚"
+    ],
+    "correctAnswer": 0,
+    "explanation": "美国国旗上13道条纹代表最初的13个殖民地，50颗星代表50个州。现行的50星旗其实出自一位17岁高中生的历史课作业，老师最初只给了B-，设计入选后才改成A。"
+  },
+  {
+    "id": "picture-069",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag-05.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "澳大利亚",
+      "斐济",
+      "新西兰",
+      "图瓦卢"
+    ],
+    "correctAnswer": 2,
+    "explanation": "新西兰国旗上是4颗红色白边的南十字星，而澳大利亚的南十字星是白色的，另外还多一颗大七角联邦星。2016年新西兰曾就换旗举行全民公投，约57%的人选择保留现在的旗。"
+  },
+  {
+    "id": "picture-070",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag-06.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "波兰",
+      "摩纳哥",
+      "印度尼西亚",
+      "奥地利"
+    ],
+    "correctAnswer": 0,
+    "explanation": "波兰国旗上白下红，红白两色源自国徽——红底上的白鹰。印度尼西亚和摩纳哥的国旗则是上红下白，配色相同只是上下颠倒，而且这两面旗本身也几乎一模一样，只有长宽比不同。"
+  },
+  {
+    "id": "picture-071",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag-07.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "安道尔",
+      "罗马尼亚",
+      "摩尔多瓦",
+      "比利时"
+    ],
+    "correctAnswer": 1,
+    "explanation": "罗马尼亚国旗与乍得国旗几乎一模一样。1989年罗马尼亚革命时，示威者把旗子中央的共产党国徽剪掉，举着有洞的旗帜游行，这成为革命的象征。"
+  },
+  {
+    "id": "picture-072",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag-08.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "荷兰",
+      "克罗地亚",
+      "俄罗斯",
+      "卢森堡"
+    ],
+    "correctAnswer": 3,
+    "explanation": "卢森堡国旗是红白浅蓝三色，和荷兰国旗（红白深蓝）极其相似，区别在于蓝色更浅、旗面也更长（3:5对2:3）。颜色取自卢森堡大公国国徽上的红狮与蓝白条纹。"
+  },
+  {
+    "id": "picture-073",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag-09.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "老挝",
+      "尼泊尔",
+      "斯里兰卡",
+      "不丹"
+    ],
+    "correctAnswer": 1,
+    "explanation": "尼泊尔国旗是世界上唯一非四边形的国旗，由两面三角旗叠成，上面的月亮与太阳寄托着国家像日月一样长存的愿望。它的画法还被详细写进了宪法。"
+  },
+  {
+    "id": "picture-074",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag-10.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "津巴布韦",
+      "莫桑比克",
+      "安哥拉",
+      "肯尼亚"
+    ],
+    "correctAnswer": 1,
+    "explanation": "莫桑比克国旗上有一支AK-47步枪、一把锄头和一本书，分别象征保卫国家、农业和教育，是世界上最著名的“带枪国旗”。"
+  }
+]

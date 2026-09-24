@@ -1,0 +1,659 @@
+[
+  {
+    "file": "pic-art-01.jpg",
+    "subject": "Mona Lisa (c.1503-1519), Louvre",
+    "author": "Leonardo da Vinci",
+    "licence": "Public domain (PD-art / PD-old-100-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+    "note": "Full painting; C2RMF-based retouched scan."
+  },
+  {
+    "file": "pic-art-02.jpg",
+    "subject": "The Starry Night (1889), MoMA New York",
+    "author": "Vincent van Gogh",
+    "licence": "Public domain (PD-Art / PD-old-100-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+    "note": "Full painting (this file is the MoMA Starry Night; NOT the 'Starry Night over the Rhone' file that has a similar name)."
+  },
+  {
+    "file": "pic-art-03.jpg",
+    "subject": "The Scream (1893 tempera/crayon version), National Gallery of Norway",
+    "author": "Edvard Munch",
+    "licence": "Public domain (PD-Art / PD-old-auto-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Edvard_Munch,_1893,_The_Scream,_oil,_tempera_and_pastel_on_cardboard,_91_x_73_cm,_National_Gallery_of_Norway.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg",
+    "note": "Full painting (includes painted signature only)."
+  },
+  {
+    "file": "pic-art-04.jpg",
+    "subject": "Sunflowers (Aug 1888, 15-flower version), National Gallery London",
+    "author": "Vincent van Gogh",
+    "licence": "Public domain (PD-Art / PD-old-100-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Vincent_Willem_van_Gogh_127.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Vincent_Willem_van_Gogh_127.jpg",
+    "note": "Full painting; signature 'Vincent' on vase is part of the painting."
+  },
+  {
+    "file": "pic-art-05.jpg",
+    "subject": "The Great Wave off Kanagawa (c.1831), Thirty-Six Views of Mount Fuji",
+    "author": "Katsushika Hokusai",
+    "licence": "Public domain (PD-Art / PD-old-auto-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tsunami_by_hokusai_19th_century.jpg",
+    "note": "Cropped: left ~14.5% removed to eliminate the printed title cartouche and publisher signature; resized from 960px Commons thumbnail."
+  },
+  {
+    "file": "pic-art-06.jpg",
+    "subject": "The Last Supper (1495-98), Santa Maria delle Grazie, Milan",
+    "author": "Leonardo da Vinci",
+    "licence": "Public domain (PD-Art / PD-old-100-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_(1452-1519)_-_The_Last_Supper_(1495-1498).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Leonardo_da_Vinci_%281452-1519%29_-_The_Last_Supper_%281495-1498%29.jpg",
+    "note": "Full painting."
+  },
+  {
+    "file": "pic-art-07.jpg",
+    "subject": "Girl with a Pearl Earring (c.1665), Mauritshuis",
+    "author": "Johannes Vermeer",
+    "licence": "Public domain (PD-Art / PD-old-100-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_(1632-1675)_-_The_Girl_With_The_Pearl_Earring_(1665).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Johannes_Vermeer_%281632-1675%29_-_The_Girl_With_The_Pearl_Earring_%281665%29.jpg",
+    "note": "Full painting."
+  },
+  {
+    "file": "pic-art-08.jpg",
+    "subject": "Water Lilies (1906), Art Institute of Chicago",
+    "author": "Claude Monet",
+    "licence": "Public domain (PD-Art / PD-old-auto-1923)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Water_Lilies_-_1906,_Ryerson.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Claude_Monet_-_Water_Lilies_-_1906%2C_Ryerson.jpg",
+    "note": "Full painting; painted signature 'Claude Monet 1906' bottom right."
+  },
+  {
+    "file": "pic-art-09.jpg",
+    "subject": "Along the River During the Qingming Festival (12th c.), Palace Museum Beijing",
+    "author": "Zhang Zeduan (张择端)",
+    "licence": "Public domain (PD-Art / PD-old-100-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Alongtheriver_QingMing.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Alongtheriver_QingMing.jpg",
+    "note": "Cropped detail of the Rainbow Bridge section, x=18000-20700 of 38414 px wide scan."
+  },
+  {
+    "file": "pic-art-10.jpg",
+    "subject": "The Night Watch (1642), Rijksmuseum",
+    "author": "Rembrandt van Rijn",
+    "licence": "Public domain (PD-Art / PD-old-auto-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Night_Watch_-_HD.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/The_Night_Watch_-_HD.jpg",
+    "note": "Full painting incl. frame edge."
+  },
+  {
+    "file": "pic-art-11.jpg",
+    "subject": "Impression, Sunrise (1872), Musee Marmottan Monet",
+    "author": "Claude Monet",
+    "licence": "Public domain (PD-old-auto-1996)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Monet_-_Impression,_Sunrise.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Monet_-_Impression%2C_Sunrise.jpg",
+    "note": "Full painting; painted signature 'Claude Monet 72'."
+  },
+  {
+    "file": "pic-art-12.jpg",
+    "subject": "The Gleaners (1857), Musee d'Orsay",
+    "author": "Jean-François Millet",
+    "licence": "Public domain (PD-Art / PD-old-auto-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg",
+    "note": "Full painting."
+  },
+  {
+    "file": "pic-art-13.jpg",
+    "subject": "The Hay Wain (1821), National Gallery London",
+    "author": "John Constable",
+    "licence": "Public domain (PD-Art / PD-old-auto-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:John_Constable_-_The_Hay_Wain_(1821).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/John_Constable_-_The_Hay_Wain_%281821%29.jpg",
+    "note": "Full painting."
+  },
+  {
+    "file": "pic-art-14.jpg",
+    "subject": "Wanderer above the Sea of Fog (c.1818), Hamburger Kunsthalle",
+    "author": "Caspar David Friedrich",
+    "licence": "Public domain (PD-Art / PD-old-100-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg",
+    "note": "Full painting."
+  },
+  {
+    "file": "pic-art-15.jpg",
+    "subject": "A Sunday Afternoon on the Island of La Grande Jatte (1884-86), Art Institute of Chicago",
+    "author": "Georges Seurat",
+    "licence": "Public domain (PD-Art / PD-old-100-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg",
+    "note": "Full painting incl. painted dotted border."
+  },
+  {
+    "file": "pic-art-16.jpg",
+    "subject": "A Thousand Li of Rivers and Mountains (1113), Palace Museum Beijing",
+    "author": "Wang Ximeng (王希孟)",
+    "licence": "Public domain (PD-Art / PD-old-100-1923)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Wang_Ximeng._A_Thousand_Li_of_Rivers_and_Mountains._(Complete,_51,3x1191,5_cm)._1113._Palace_museum,_Beijing.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Wang_Ximeng._A_Thousand_Li_of_Rivers_and_Mountains._%28Complete%2C_51%2C3x1191%2C5_cm%29._1113._Palace_museum%2C_Beijing.jpg",
+    "note": "Cropped detail x=14700-17100 of 39974 px wide scan (colophon and seals excluded)."
+  },
+  {
+    "file": "pic-art-17.jpg",
+    "subject": "Dwelling in the Fuchun Mountains (c.1350), National Palace Museum Taipei",
+    "author": "Huang Gongwang (黄公望)",
+    "licence": "Public domain (PD-Art / PD-old-auto-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Huang_Gongwang._Dwelling_in_the_Fuchun_Mountains._detail._National_Palace_Museum,_Taipei.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Huang_Gongwang._Dwelling_in_the_Fuchun_Mountains._detail._National_Palace_Museum%2C_Taipei.jpg",
+    "note": "Cropped detail: left 1500 px of a 2200 px wide detail scan."
+  },
+  {
+    "file": "pic-art-18.jpg",
+    "subject": "Night Revels of Han Xizai (Song copy), Palace Museum Beijing",
+    "author": "After Gu Hongzhong (顾闳中), anonymous Song-dynasty copy",
+    "licence": "Public domain (PD-Art / PD-old-100-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Gu_Hongzhong%27s_Night_Revels_1_complete_scene.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Gu_Hongzhong%27s_Night_Revels_1_complete_scene.jpg",
+    "note": "Cropped detail of the pipa-playing ('listening to music') scene from the stitched full scroll, x=10422-12222 of 13898 px."
+  },
+  {
+    "file": "pic-art-19.jpg",
+    "subject": "Emperor Taizong Receiving the Tibetan Envoy / Bunian Tu (Song copy), Palace Museum Beijing",
+    "author": "Yan Liben (阎立本), Song-dynasty copy",
+    "licence": "Public domain (PD-Art / PD-old-auto-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Yan_Liben._Emperor_Taizong_gives_an_audience_to_Gar,_the_ambassador_of_Tibet._Palace_Museum,_Beijing.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Yan_Liben._Emperor_Taizong_gives_an_audience_to_Gar%2C_the_ambassador_of_Tibet._Palace_Museum%2C_Beijing.jpg",
+    "note": "Cropped: only the right ~50% (emperor in palanquin and attendants) is kept, because the left-centre of the scan shows a later calligraphic title inscription reading the painting's name."
+  },
+  {
+    "file": "pic-art-20.jpg",
+    "subject": "Arnolfini Portrait (1434), National Gallery London",
+    "author": "Jan van Eyck",
+    "licence": "Public domain (PD-Art / PD-old-100-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Van_Eyck_-_Arnolfini_Portrait.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Van_Eyck_-_Arnolfini_Portrait.jpg",
+    "note": "Full painting; tiny Latin signature inscription on wall is part of painting."
+  },
+  {
+    "file": "pic-art-21.jpg",
+    "subject": "Las Meninas (1656), Museo del Prado",
+    "author": "Diego Velázquez",
+    "licence": "Public domain (PD-Art / PD-old-auto-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Meninas,_by_Diego_Vel%C3%A1zquez,_from_Prado_in_Google_Earth.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg",
+    "note": "Full painting."
+  },
+  {
+    "file": "pic-art-22.jpg",
+    "subject": "Five Oxen / Wu Niu Tu (Tang), Palace Museum Beijing",
+    "author": "Han Huang (韩滉)",
+    "licence": "Public domain (PD-Art / PD-old-auto-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:%D0%A5%D0%B0%D0%BD%D1%8C_%D0%A5%D1%83%D0%B0%D0%BD._%D0%9F%D1%8F%D1%82%D1%8C_%D0%B1%D1%8B%D0%BA%D0%BE%D0%B2._%D0%93%D1%83%D0%B3%D1%83%D0%BD,_%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD.1.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/%D0%A5%D0%B0%D0%BD%D1%8C_%D0%A5%D1%83%D0%B0%D0%BD._%D0%9F%D1%8F%D1%82%D1%8C_%D0%B1%D1%8B%D0%BA%D0%BE%D0%B2._%D0%93%D1%83%D0%B3%D1%83%D0%BD%2C_%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD.1.jpg",
+    "note": "Cropped detail: right two oxen of five (the colophon text in the middle of the scroll is excluded)."
+  },
+  {
+    "file": "pic-art-23.jpg",
+    "subject": "Nymph of the Luo River / Luoshen Fu Tu (Song copy), Palace Museum Beijing",
+    "author": "After Gu Kaizhi (顾恺之), Song-dynasty copy",
+    "licence": "Public domain (PD-Art / PD-old-auto-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Gu_Kaizhi_river_Lo.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Gu_Kaizhi_river_Lo.jpg",
+    "note": "Uncropped detail scan (Palace Museum version, matches the section with seated Cao Zhi under a parasol)."
+  },
+  {
+    "file": "pic-art-24.jpg",
+    "subject": "Lady Guoguo's Spring Outing / Guoguo Furen Youchun Tu (Song copy), Liaoning Provincial Museum",
+    "author": "Zhang Xuan (张萱), attributed Song Huizong copy",
+    "licence": "Public domain (PD-Art / PD-old-auto-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:%E8%99%A2%E5%9B%BD%E5%A4%AB%E4%BA%BA%E6%B8%B8%E6%98%A5%E5%9B%BE.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/%E8%99%A2%E5%9B%BD%E5%A4%AB%E4%BA%BA%E6%B8%B8%E6%98%A5%E5%9B%BE.jpg",
+    "note": "Cropped detail: x=1500-3900 of 4674 px scan (left-hand blank paper with later calligraphy colophon excluded)."
+  },
+  {
+    "file": "pic-flag-01.jpg",
+    "subject": "日本国旗",
+    "author": "Various",
+    "licence": "Public domain",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Flag_of_Japan.svg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg",
+    "note": "SVG rendered to PNG by Commons thumbnailer, scaled and centred on a 720x480 light-grey (#D5D9E0) canvas so white areas stay visible; saved as JPEG."
+  },
+  {
+    "file": "pic-flag-02.jpg",
+    "subject": "英国国旗",
+    "author": "Original: Acts of Union 1800 Vector:  Yaddah",
+    "licence": "Public domain",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Kingdom_(3-5).svg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg",
+    "note": "SVG rendered to PNG by Commons thumbnailer, scaled and centred on a 720x480 light-grey (#D5D9E0) canvas so white areas stay visible; saved as JPEG."
+  },
+  {
+    "file": "pic-flag-03.jpg",
+    "subject": "加拿大国旗",
+    "author": "Original: George F. G. Stanley  Modified by: The original uploader was Illegitimate Barrister at  Wikimedia Commons.  The current SVG encoding is a rewrite performed by MapGrid.",
+    "licence": "Public domain",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Flag_of_Canada_(Pantone).svg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg",
+    "note": "SVG rendered to PNG by Commons thumbnailer, scaled and centred on a 720x480 light-grey (#D5D9E0) canvas so white areas stay visible; saved as JPEG."
+  },
+  {
+    "file": "pic-flag-04.jpg",
+    "subject": "美国国旗",
+    "author": "Uploaded by Dbenbenn; edited by users such as Zscout370, Jacobolus, Indolences, and Technion.",
+    "licence": "Public domain",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg",
+    "note": "SVG rendered to PNG by Commons thumbnailer, scaled and centred on a 720x480 light-grey (#D5D9E0) canvas so white areas stay visible; saved as JPEG."
+  },
+  {
+    "file": "pic-flag-05.jpg",
+    "subject": "新西兰国旗",
+    "author": "Original: Albert Hastings Markham Vector:  Zscout370, Hugh Jass, s. File history",
+    "licence": "Public domain",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Flag_of_New_Zealand.svg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+    "note": "SVG rendered to PNG by Commons thumbnailer, scaled and centred on a 720x480 light-grey (#D5D9E0) canvas so white areas stay visible; saved as JPEG."
+  },
+  {
+    "file": "pic-flag-06.jpg",
+    "subject": "波兰国旗",
+    "author": "See below.",
+    "licence": "Public domain",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Flag_of_Poland.svg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg",
+    "note": "SVG rendered to PNG by Commons thumbnailer, scaled and centred on a 720x480 light-grey (#D5D9E0) canvas so white areas stay visible; saved as JPEG."
+  },
+  {
+    "file": "pic-flag-07.jpg",
+    "subject": "罗马尼亚国旗",
+    "author": "AdiJapan",
+    "licence": "Public domain",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Flag_of_Romania.svg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg",
+    "note": "SVG rendered to PNG by Commons thumbnailer, scaled and centred on a 720x480 light-grey (#D5D9E0) canvas so white areas stay visible; saved as JPEG."
+  },
+  {
+    "file": "pic-flag-08.jpg",
+    "subject": "卢森堡国旗",
+    "author": "Drawn by User:SKopp",
+    "licence": "Public domain",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Flag_of_Luxembourg.svg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg",
+    "note": "SVG rendered to PNG by Commons thumbnailer, scaled and centred on a 720x480 light-grey (#D5D9E0) canvas so white areas stay visible; saved as JPEG."
+  },
+  {
+    "file": "pic-flag-09.jpg",
+    "subject": "尼泊尔国旗",
+    "author": "Drawn by Pumbaa80, Achim1999",
+    "licence": "Public domain",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Flag_of_Nepal.svg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg",
+    "note": "SVG rendered to PNG by Commons thumbnailer, scaled and centred on a 720x480 light-grey (#D5D9E0) canvas so white areas stay visible; saved as JPEG."
+  },
+  {
+    "file": "pic-flag-10.jpg",
+    "subject": "莫桑比克国旗",
+    "author": "FRELIMO",
+    "licence": "Public domain",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Flag_of_Mozambique.svg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg",
+    "note": "SVG rendered to PNG by Commons thumbnailer, scaled and centred on a 720x480 light-grey (#D5D9E0) canvas so white areas stay visible; saved as JPEG."
+  },
+  {
+    "file": "pic-person-01.jpg",
+    "subject": "爱因斯坦",
+    "author": "Ferdinand Schmutzer (photographer, 1921); restoration by Adam Cuerden",
+    "licence": "Public domain (PD-Austria; PD-old-auto-expired, author d. 1928)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+    "note": "Cropped to head/upper body; blackboard letter 'K' cropped out"
+  },
+  {
+    "file": "pic-person-02.jpg",
+    "subject": "孔子",
+    "author": "Unknown (Qing-era portrait, 《孔子燕居像》, Confucius Museum, Qufu)",
+    "licence": "Public domain (PD-Art, PD-old-100)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:%E5%AD%94%E5%AD%90%E7%87%95%E5%B1%85%E5%83%8F.png",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/%E5%AD%94%E5%AD%90%E7%87%95%E5%B1%85%E5%83%8F.png",
+    "note": "Cropped to head/upper body"
+  },
+  {
+    "file": "pic-person-03.jpg",
+    "subject": "梵高",
+    "author": "Vincent van Gogh",
+    "licence": "Public domain (PD-Art, PD-old-100-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_(454045).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg",
+    "note": "Full image, no crop"
+  },
+  {
+    "file": "pic-person-04.jpg",
+    "subject": "李白",
+    "author": "Attributed to Liang Kai (Southern Song); Tokyo National Museum; digitally warmed copy on Commons",
+    "licence": "Public domain (PD-Art, PD-old-100-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Liang_Kai_-_Li_Bai_Strolling.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Liang_Kai_-_Li_Bai_Strolling.jpg",
+    "note": "Cropped to figure; top red collector's seal and bottom-left signature cropped out"
+  },
+  {
+    "file": "pic-person-05.jpg",
+    "subject": "居里夫人",
+    "author": "Henri Manuel",
+    "licence": "Public domain (PD-old-auto-1923, author d. 1947)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Marie_Curie_c._1920s.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Marie_Curie_c._1920s.jpg",
+    "note": "Cropped to head/upper body"
+  },
+  {
+    "file": "pic-person-06.jpg",
+    "subject": "林则徐",
+    "author": "Lam Qua (Guan Qiaochang), 19th century; Opium War Museum",
+    "licence": "Public domain (PD-art-old-100-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Portrait_of_Lin_Zexu.jpeg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Portrait_of_Lin_Zexu.jpeg",
+    "note": "Cropped to head/upper body"
+  },
+  {
+    "file": "pic-person-07.jpg",
+    "subject": "贝多芬",
+    "author": "Joseph Karl Stieler",
+    "licence": "Public domain (PD-Art, PD-old-100-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg",
+    "note": "Cropped to face/upper body; the score cover with 'Missa solemnis' lettering cropped out"
+  },
+  {
+    "file": "pic-person-08.jpg",
+    "subject": "秦始皇",
+    "author": "Unknown (19th-century album portrait, copy of a 1609 Chinese portrait)",
+    "licence": "Public domain (PD-art-old-100-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Portrait_of_Qin_Shi_Huang.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Portrait_of_Qin_Shi_Huang.jpg",
+    "note": "Cropped to head/upper body; right-hand vertical inscription (contains '始皇') cropped out"
+  },
+  {
+    "file": "pic-person-09.jpg",
+    "subject": "托尔斯泰",
+    "author": "Sergei Prokudin-Gorskii",
+    "licence": "Public domain (PD-old-auto-expired, author d. 1944)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Leo_Tolstoy_1908_Portrait_(3x4_cropped).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Leo_Tolstoy_1908_Portrait_%283x4_cropped%29.jpg",
+    "note": "Cropped to remove bottom/top margins"
+  },
+  {
+    "file": "pic-person-10.jpg",
+    "subject": "孙中山",
+    "author": "上海波尔照相馆 (Shanghai Bo'er Studio), 15 Nov 1922",
+    "licence": "Public domain (PD-China, PD-US-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg",
+    "note": "Cropped bottom"
+  },
+  {
+    "file": "pic-person-11.jpg",
+    "subject": "达尔文",
+    "author": "Maull & Fox (Henry Maull and John Fox); crop by Beao",
+    "licence": "Public domain (PD-1923, PD-old-70)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Charles_Darwin_seated_crop.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Charles_Darwin_seated_crop.jpg",
+    "note": "Cropped to head/upper body"
+  },
+  {
+    "file": "pic-person-12.jpg",
+    "subject": "杜甫",
+    "author": "Unknown (Qing palace collection portrait, National Museum of China)",
+    "licence": "Public domain (PD-Art, PD-old-100)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Dufu.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Dufu.jpg",
+    "note": "Cropped; top-right caption strip (contains '杜甫') cropped out"
+  },
+  {
+    "file": "pic-person-13.jpg",
+    "subject": "林肯",
+    "author": "Alexander Gardner, 8 Nov 1863",
+    "licence": "Public domain (PD-scan, PD-old-auto-1923, author d. 1882)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+    "note": "Cropped bottom"
+  },
+  {
+    "file": "pic-person-14.jpg",
+    "subject": "康熙帝",
+    "author": "Anonymous Qing court painter (late Kangxi period); Palace Museum, Beijing",
+    "licence": "Public domain (PD-Art, PD-old-100, PD-China)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E5%9C%A3%E7%A5%96%E5%BA%B7%E7%86%99%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E5%9C%A3%E7%A5%96%E5%BA%B7%E7%86%99%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg",
+    "note": "Cropped to head/upper body"
+  },
+  {
+    "file": "pic-person-15.jpg",
+    "subject": "达·芬奇",
+    "author": "Leonardo da Vinci (presumed self-portrait, c. 1510s; Biblioteca Reale, Turin)",
+    "licence": "Public domain (PD-art, PD-old-100-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg",
+    "note": "Cropped to face region"
+  },
+  {
+    "file": "pic-person-16.jpg",
+    "subject": "鲁迅",
+    "author": "雪怀照相馆 (Xuehuai Studio), 26 May 1933",
+    "licence": "Public domain (PD-China-1996)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:%E9%B2%81%E8%BF%85_1933%E5%B9%B45%E6%9C%8826%E6%97%A5%E6%91%84%E4%BA%8E%E4%B8%8A%E6%B5%B7.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/%E9%B2%81%E8%BF%85_1933%E5%B9%B45%E6%9C%8826%E6%97%A5%E6%91%84%E4%BA%8E%E4%B8%8A%E6%B5%B7.jpg",
+    "note": "Cropped bottom"
+  },
+  {
+    "file": "pic-person-17.jpg",
+    "subject": "伽利略",
+    "author": "Justus Sustermans, 1636",
+    "licence": "Public domain (PD-Art-old-100)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg",
+    "note": "Cropped bottom"
+  },
+  {
+    "file": "pic-person-18.jpg",
+    "subject": "慈禧太后",
+    "author": "John Yu Shuinling (裕勋龄 / Yu Xunling), court photographer, c. 1902-1904",
+    "licence": "Public domain (PD-old-auto-expired, author d. 1944)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Ci-Xi_Imperial_Dowager_Empress_(9.2).PNG",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Ci-Xi_Imperial_Dowager_Empress_%289.2%29.PNG",
+    "note": "Cropped to upper body/throne"
+  },
+  {
+    "file": "pic-person-19.jpg",
+    "subject": "特斯拉",
+    "author": "Napoleon Sarony, c. 1890",
+    "licence": "Public domain (PD-old-100-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Tesla_circa_1890.jpeg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg",
+    "note": "Cropped bottom"
+  },
+  {
+    "file": "pic-person-20.jpg",
+    "subject": "苏轼",
+    "author": "Zhao Mengfu (Yuan dynasty); National Palace Museum, Taipei",
+    "licence": "Public domain (PD-Art)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Su_shi.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Su_shi.jpg",
+    "note": "Cropped to upper figure; the red seal at top-right (Zhao Mengfu's seal) retouched out with a matching paper-colour fill"
+  },
+  {
+    "file": "pic-person-21.jpg",
+    "subject": "牛顿",
+    "author": "Godfrey Kneller, 1689",
+    "licence": "Public domain (PD-Art, PD-old-auto-expired, author d. 1723)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689_(brightened).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg",
+    "note": "Cropped to head/upper body"
+  },
+  {
+    "file": "pic-person-22.jpg",
+    "subject": "拿破仑",
+    "author": "Jacques-Louis David, 1812 ('The Emperor Napoleon in His Study at the Tuileries')",
+    "licence": "Public domain (PD-Art, PD-old-100-1923)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+    "note": "Cropped to upper half of the full-length painting"
+  },
+  {
+    "file": "pic-person-23.jpg",
+    "subject": "莫扎特",
+    "author": "Barbara Krafft, 1819 (posthumous portrait)",
+    "licence": "Public domain (PD-art-old-100-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Wolfgang-amadeus-mozart_1.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Wolfgang-amadeus-mozart_1.jpg",
+    "note": "Cropped bottom"
+  },
+  {
+    "file": "pic-person-24.jpg",
+    "subject": "莎士比亚",
+    "author": "Attributed to John Taylor (Chandos portrait), early 17th century; National Portrait Gallery, London",
+    "licence": "Public domain (PD-art-old-100-expired)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:William_Shakespeare_by_John_Taylor,_edited.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/William_Shakespeare_by_John_Taylor%2C_edited.jpg",
+    "note": "Cropped to head/upper body"
+  },
+  {
+    "file": "pic-place-01.jpg",
+    "subject": "埃菲尔铁塔（法国巴黎）",
+    "author": "Benh LIEU SONG",
+    "licence": "CC BY-SA 3.0 (photo; Commons LicenseShortName shows 'Public domain' via Licensed-PD dual template)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons_(cropped).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg",
+    "note": "Commons metadata shows 'Public domain' because the file carries {{Licensed-PD}} = PD-old-auto-expired (for the tower, Eiffel d.1923) + cc-by-sa-3.0 (for the photo). Credited conservatively as CC BY-SA 3.0. Image kept full frame (portrait 480x800)."
+  },
+  {
+    "file": "pic-place-02.jpg",
+    "subject": "吉萨胡夫金字塔（埃及）",
+    "author": "Douwe C. van der Zee",
+    "licence": "CC BY-SA 4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg"
+  },
+  {
+    "file": "pic-place-03.jpg",
+    "subject": "自由女神像（美国纽约）",
+    "author": "AskALotl",
+    "licence": "CC0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Front_view_of_Statue_of_Liberty_(cropped).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg",
+    "note": "Additionally cropped (removed bottom of pedestal) to 614x800."
+  },
+  {
+    "file": "pic-place-04.jpg",
+    "subject": "长城金山岭段（河北滦平）",
+    "author": "Severin.stalder",
+    "licence": "CC BY-SA 3.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg"
+  },
+  {
+    "file": "pic-place-05.jpg",
+    "subject": "悉尼歌剧院（澳大利亚）",
+    "author": "Bernard Spragg. NZ from Christchurch, New Zealand",
+    "licence": "CC0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Sydney_Australia._(21339175489).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sydney_Australia._%2821339175489%29.jpg"
+  },
+  {
+    "file": "pic-place-06.jpg",
+    "subject": "泰姬陵（印度阿格拉）",
+    "author": "Yann; edited by Jim Carter",
+    "licence": "CC BY-SA 4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_(Edited).jpeg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Taj_Mahal_%28Edited%29.jpeg"
+  },
+  {
+    "file": "pic-place-07.jpg",
+    "subject": "比萨斜塔（意大利比萨）",
+    "author": "Arne Müseler",
+    "licence": "CC BY-SA 3.0 de",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Italy_-_Pisa_-_Leaning_Tower.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Italy_-_Pisa_-_Leaning_Tower.jpg",
+    "note": "Commons file carries an 'ita-mibac' restriction tag (Italian cultural-heritage reproduction notice; not a copyright restriction on the photo)."
+  },
+  {
+    "file": "pic-place-08.jpg",
+    "subject": "罗马斗兽场（意大利罗马）",
+    "author": "FeaturedPics",
+    "licence": "CC BY-SA 4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Colosseo_2020.jpg",
+    "note": "Commons file carries an 'ita-mibac' restriction tag (Italian cultural-heritage reproduction notice; not a copyright restriction on the photo). Uploader name on Commons is 'FeaturedPics'."
+  },
+  {
+    "file": "pic-place-09.jpg",
+    "subject": "金门大桥（美国旧金山）",
+    "author": "Frank Schulenburg",
+    "licence": "CC BY-SA 4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_as_seen_from_Battery_East.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg"
+  },
+  {
+    "file": "pic-place-10.jpg",
+    "subject": "故宫（北京，景山俯瞰午门方向）",
+    "author": "Pixelflake",
+    "licence": "CC BY-SA 3.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Forbidden_City_-_View_from_Coal_Hill.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Forbidden_City_-_View_from_Coal_Hill.jpg",
+    "note": "A tiny gate plaque (Meridian Gate) is present but illegible at 800px."
+  },
+  {
+    "file": "pic-place-11.jpg",
+    "subject": "布达拉宫（西藏拉萨）",
+    "author": "cattan2011",
+    "licence": "CC BY 2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Potala_Palace_-_Lhasa,_Tibet_-_27907563698.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Potala_Palace_-_Lhasa%2C_Tibet_-_27907563698.jpg",
+    "note": "Cropped: bottom ~150px (fence with event banners) removed from the 960px thumbnail. Flickr source https://www.flickr.com/photos/68166820@N08/27907563698/ . Replaced the lead image 'Potala Palace HQ.jpg' because it is nominated for deletion on Commons (no evidence of licence)."
+  },
+  {
+    "file": "pic-place-12.jpg",
+    "subject": "富士山（日本）",
+    "author": "Suicasmo",
+    "licence": "CC BY-SA 4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg"
+  },
+  {
+    "file": "pic-place-13.jpg",
+    "subject": "吴哥窟（柬埔寨）",
+    "author": "Bjørn Christian Tørrissen",
+    "licence": "CC BY-SA 4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Angkor_Wat.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Angkor_Wat.jpg"
+  },
+  {
+    "file": "pic-place-14.jpg",
+    "subject": "马丘比丘（秘鲁）",
+    "author": "Draceane",
+    "licence": "CC BY-SA 4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_2023_(012).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Machu_Picchu%2C_2023_%28012%29.jpg"
+  },
+  {
+    "file": "pic-place-15.jpg",
+    "subject": "佩特拉“修道院”（约旦）",
+    "author": "Azurfrog",
+    "licence": "CC BY-SA 3.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Al_Deir_Petra.JPG",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Al_Deir_Petra.JPG"
+  },
+  {
+    "file": "pic-place-16.jpg",
+    "subject": "乐山大佛（四川乐山）",
+    "author": "xiquinhosilva",
+    "licence": "CC BY 2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:36275-Leshan_(49067653383).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/36275-Leshan_%2849067653383%29.jpg",
+    "note": "Flickr-sourced (FlickreviewR passed). A cliff inscription and a tour boat are visible; inscription is small and illegible."
+  }
+]

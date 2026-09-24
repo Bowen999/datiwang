@@ -255,6 +255,7 @@
     "id": "chinese-literature-019",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "苏轼《念奴娇·赤壁怀古》中「羽扇纶巾，谈笑间，樯橹灰飞烟灭」，描写的是哪位三国人物？",
     "options": [
       "诸葛亮",
@@ -619,6 +620,7 @@
     "id": "chinese-literature-045",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "说岳",
     "question": "「莫等闲，白了少年头，空悲切」出自岳飞的哪首词？",
     "options": [
       "《六州歌头》",
@@ -773,6 +775,7 @@
     "id": "chinese-literature-056",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "西游",
     "question": "《西游记》里如来佛祖交给观音金、紧、禁三个箍儿，「紧箍儿」套住了孙悟空，那「金箍儿」最后戴在了谁头上？",
     "options": [
       "黑熊精",
@@ -787,6 +790,7 @@
     "id": "chinese-literature-057",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "红楼梦",
     "question": "《红楼梦》里香菱想学作诗，最后拜了谁当老师？",
     "options": [
       "薛宝钗",
@@ -801,6 +805,7 @@
     "id": "chinese-literature-058",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "赤壁之战前，曹操的战船被铁索连环锁成一片，这条「连环计」是谁跑到曹营献给曹操的？",
     "options": [
       "诸葛亮",
@@ -815,6 +820,7 @@
     "id": "chinese-literature-059",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "水浒",
     "question": "《水浒传》里鲁智深征方腊后，是在哪里听着钱塘江潮信圆寂的？",
     "options": [
       "五台山文殊院",
@@ -829,6 +835,7 @@
     "id": "chinese-literature-060",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "西游",
     "question": "通天河的老鼋驮唐僧师徒过河，托唐僧代问如来一件事，唐僧却忘了——他忘了问什么？",
     "options": [
       "自己何时能脱去龟壳、修得人身",
@@ -843,6 +850,7 @@
     "id": "chinese-literature-061",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "红楼梦",
     "question": "大观园里的海棠诗社由探春发起，但大伙公推的「社长」是谁？",
     "options": [
       "贾探春",
@@ -857,6 +865,7 @@
     "id": "chinese-literature-062",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "水浒",
     "question": "智取生辰纲时，扮作卖酒汉子挑着两桶酒上黄泥冈、最终麻翻杨志一行的是谁？",
     "options": [
       "白日鼠白胜",
@@ -871,6 +880,7 @@
     "id": "chinese-literature-063",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "五丈原上诸葛亮设坛禳星续命，主灯须七日不灭，是谁闯进大帐带起的风把主灯扑灭了？",
     "options": [
       "姜维",
@@ -885,6 +895,7 @@
     "id": "chinese-literature-065",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "西游",
     "question": "取经功德圆满，如来论功行赏，猪八戒最后被封为什么？",
     "options": [
       "斗战胜佛",
@@ -899,6 +910,7 @@
     "id": "chinese-literature-066",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "水浒",
     "question": "燕青相扑天下无双，他在泰安州擂台上把两年未遇敌手、绰号「擎天柱」的擂主摔下台——这位擂主是谁？",
     "options": [
       "任原",
@@ -913,6 +925,7 @@
     "id": "chinese-literature-067",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "群英会上蒋干盗书，曹操中计后一怒之下斩了哪两位荆州降将、水军都督？",
     "options": [
       "于禁、毛玠",
@@ -927,6 +940,7 @@
     "id": "chinese-literature-069",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "水浒",
     "question": "高俅设局陷害林冲，让带刀的他误入哪处军机要地，坐实了死罪？",
     "options": [
       "白虎节堂",
@@ -941,6 +955,7 @@
     "id": "chinese-literature-070",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "街亭之战，马谡执意舍弃水源上山扎营，哪位副将苦苦劝谏无效，却也因此战后的表现被诸葛亮提拔？",
     "options": [
       "马岱",
@@ -955,6 +970,7 @@
     "id": "chinese-literature-071",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "西游",
     "question": "孙悟空漂洋过海拜师学艺，授他七十二变和筋斗云的菩提祖师住在何处？",
     "options": [
       "蓬莱仙岛",
@@ -969,6 +985,7 @@
     "id": "chinese-literature-072",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "红楼梦",
     "question": "晴雯含冤病死后，宝玉悲痛之下写了哪一篇祭文来悼念她？",
     "options": [
       "《葬花吟》",
@@ -983,6 +1000,7 @@
     "id": "chinese-literature-073",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "成语「髀肉复生」说的是谁寄人篱下时摸着自己大腿上长的赘肉，感叹功业未建而老之将至？",
     "options": [
       "刘备",
@@ -997,6 +1015,7 @@
     "id": "chinese-literature-074",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "水浒",
     "question": "宋江在浔阳楼醉酒题了反诗，是谁一眼看出诗中「敢笑黄巢不丈夫」的反意并去告发，害宋江下了死牢？",
     "options": [
       "蔡九知府",
@@ -1011,6 +1030,7 @@
     "id": "chinese-literature-075",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "水浒",
     "question": "智多星吴用在《水浒传》中出场时，明面上的身份是什么？",
     "options": [
       "东溪村教书先生",
@@ -1025,6 +1045,7 @@
     "id": "chinese-literature-076",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "西游",
     "question": "孙悟空在太上老君的八卦炉里炼了七七四十九天没烧死，反炼出火眼金睛——他当时躲在炉中哪个方位？",
     "options": [
       "乾位",
@@ -1039,6 +1060,7 @@
     "id": "chinese-literature-077",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "「赔了夫人又折兵」这句名言嘲讽的是谁设下的美人计被诸葛亮将计就计、落得两头空？",
     "options": [
       "孙权",
@@ -1053,6 +1075,7 @@
     "id": "chinese-literature-079",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "水浒",
     "question": "武松上景阳冈前在酒店连喝了十八碗酒，店家门前挑出的酒旗上写着哪五个字？",
     "options": [
       "醉里乾坤大",
@@ -1067,6 +1090,7 @@
     "id": "chinese-literature-080",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "红楼梦",
     "question": "贾宝玉衔玉而生的那块通灵宝玉，正面刻着哪八个字？",
     "options": [
       "不离不弃，芳龄永继",
@@ -1081,6 +1105,7 @@
     "id": "chinese-literature-081",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "刘备、关羽、张飞焚香盟誓「不求同年同月同日生，只愿同年同月同日死」，这场结义发生在哪里？",
     "options": [
       "杏园",
@@ -1095,6 +1120,7 @@
     "id": "chinese-literature-082",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "西游",
     "question": "猪八戒被贬下凡、错投猪胎之前，在天庭当的什么官？",
     "options": [
       "卷帘大将",
@@ -1109,6 +1135,7 @@
     "id": "chinese-literature-083",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "红楼梦",
     "question": "刘姥姥进贾府，大开眼界逛了一回那座为元妃省亲而建的大园子——它叫什么名字？",
     "options": [
       "大观园",
@@ -1123,6 +1150,7 @@
     "id": "chinese-literature-084",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "水浒",
     "question": "《水浒传》里在大相国寺菜园「倒拔垂杨柳」，镇住一众泼皮的是哪位好汉？",
     "options": [
       "李逵",
@@ -1137,6 +1165,7 @@
     "id": "chinese-literature-085",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "刘备冒着风雪三次登门拜访，终于请出隆中草庐里的哪位军师？",
     "options": [
       "庞统",
@@ -1151,6 +1180,7 @@
     "id": "chinese-literature-086",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "西游",
     "question": "孙悟空的兵器如意金箍棒，原本是东海龙宫里大禹治水留下的什么宝贝？",
     "options": [
       "混天绫",
@@ -1165,6 +1195,7 @@
     "id": "chinese-literature-087",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "红楼梦",
     "question": "《红楼梦》里贾母口中的「凤辣子」、把荣国府上下管得服服帖帖的管家奶奶是谁？",
     "options": [
       "李纨",
@@ -1179,6 +1210,7 @@
     "id": "chinese-literature-088",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "水浒",
     "question": "梁山好汉中绰号「黑旋风」、抡着两把板斧横冲直撞的是谁？",
     "options": [
       "李逵",
@@ -1193,6 +1225,7 @@
     "id": "chinese-literature-089",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "西游",
     "question": "孙悟空大闹天宫后被如来压在五行山下，直到唐僧路过才将他救出——他一共在山下压了多少年？",
     "options": [
       "三百年",
@@ -1207,6 +1240,7 @@
     "id": "chinese-literature-090",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "西游",
     "question": "白龙马驮着唐僧走完十万八千里取经路，他本是西海龙王敖闰的第几个儿子？",
     "options": [
       "大太子",
@@ -1221,6 +1255,7 @@
     "id": "chinese-literature-091",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "西游",
     "question": "孙悟空一时冲动推倒了五庄观的人参果树，镇元大仙要唐僧师徒赔命，最后是谁用玉净瓶甘露水把树救活的？",
     "options": [
       "观音菩萨",
@@ -1263,6 +1298,7 @@
     "id": "chinese-literature-094",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "西游",
     "question": "车迟国斗法比「砍头再生」，孙悟空见虎力大仙的头砍下后又要长回去，便使了个障眼法——他变成什么，把那颗头叼进河里，让虎力大仙再也接不回头？",
     "options": [
       "苍鹰",
@@ -1277,6 +1313,7 @@
     "id": "chinese-literature-095",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "红楼梦",
     "question": "贾府的元春、迎春、探春、惜春四位小姐，名字连起来是个谐音双关，暗藏了她们各自的命运，念起来是哪四个字？",
     "options": [
       "原应叹息",
@@ -1291,6 +1328,7 @@
     "id": "chinese-literature-096",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "红楼梦",
     "question": "王熙凤为了拆散一桩婚事、暗中吃了一笔银子，逼得一对未婚男女双双自尽，这桩「弄权」丑事发生在哪座寺庙？",
     "options": [
       "水月庵",
@@ -1305,6 +1343,7 @@
     "id": "chinese-literature-098",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "红楼梦",
     "question": "宝玉的贴身丫鬟花珍珠，被他按一句诗改了名字叫「袭人」，这句诗是？",
     "options": [
       "花气袭人知骤暖",
@@ -1319,6 +1358,7 @@
     "id": "chinese-literature-099",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "红楼梦",
     "question": "大观园试才题对额时，宝玉给怡红院拟了「红香绿玉」四个字，元妃省亲后却把它改成了什么，「怡红院」的名字才由此而来？",
     "options": [
       "蘅芷清芬",
@@ -1333,6 +1373,7 @@
     "id": "chinese-literature-100",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "红楼梦",
     "question": "贾宝玉出生时嘴里衔着的那块通灵宝玉，据说本是女娲补天剩下的一块顽石，被弃置在哪座山下？",
     "options": [
       "花果山水帘洞",
@@ -1347,6 +1388,7 @@
     "id": "chinese-literature-101",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "水浒",
     "question": "梁山泊聚义厅前立着一块石碣，上面刻着一百零八将的星号，由三十六天罡星和多少地煞星组成？",
     "options": [
       "七十二个",
@@ -1361,6 +1403,7 @@
     "id": "chinese-literature-102",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "水浒",
     "question": "林冲上梁山投奔的第一任寨主心胸狭窄、容不下他，最终被林冲一刀火并——这位梁山「开山寨主」是谁？",
     "options": [
       "杜迁",
@@ -1375,6 +1418,7 @@
     "id": "chinese-literature-103",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "水浒",
     "question": "梁山女将「一丈青」扈三娘武艺高强，后来被宋江做主许配给了哪位头领为妻？",
     "options": [
       "菜园子张青",
@@ -1389,6 +1433,7 @@
     "id": "chinese-literature-104",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "水浒",
     "question": "潘金莲毒死武大郎后本想瞒天过海，是哪位仵作在验尸时看出蹊跷、悄悄留下骨殖和银子作为呈堂证据，日后帮武松告倒了西门庆？",
     "options": [
       "张团头",
@@ -1403,6 +1448,7 @@
     "id": "chinese-literature-105",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "水浒",
     "question": "宋江在楚州被朝廷赐下的毒酒害死前，特意把哪位兄弟骗来同饮鸩酒，为的是怕他日后知道真相、造反坏了自己「忠义」的名声？",
     "options": [
       "吴用",
@@ -1459,6 +1505,7 @@
     "id": "chinese-literature-109",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "“三顾茅庐”请诸葛亮出山的是谁？",
     "options": [
       "曹操",
@@ -1557,6 +1604,7 @@
     "id": "chinese-literature-116",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "“桃园三结义”的三人中不包括？",
     "options": [
       "刘备",
@@ -1571,6 +1619,7 @@
     "id": "chinese-literature-117",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "西游",
     "question": "《西游记》中孙悟空的武器是？",
     "options": [
       "方天画戟",
@@ -1585,6 +1634,7 @@
     "id": "chinese-literature-118",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "红楼梦",
     "question": "《红楼梦》又名什么？",
     "options": [
       "《金玉缘》",
@@ -1599,6 +1649,7 @@
     "id": "chinese-literature-119",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "水浒",
     "question": "《水浒传》中梁山好汉共有多少位？",
     "options": [
       "72位",
@@ -1904,919 +1955,10 @@
     "explanation": "出自北宋范仲淹《岳阳楼记》，表达了以天下为己任的情怀。"
   },
   {
-    "id": "chinese-literature-141",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "声音不能在下列哪种环境中传播？",
-    "options": [
-      "水中",
-      "空气中",
-      "真空中",
-      "钢铁中"
-    ],
-    "correctAnswer": 2,
-    "explanation": "声音传播需要介质，真空中没有介质，声音无法传播，所以太空是寂静的。"
-  },
-  {
-    "id": "chinese-literature-142",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "光在真空中的速度约为每秒多少千米？",
-    "options": [
-      "3万千米",
-      "30万千米",
-      "300万千米",
-      "3000万千米"
-    ],
-    "correctAnswer": 1,
-    "explanation": "光速约为30万千米/秒（精确为299792千米/秒），是目前已知最快的速度。"
-  },
-  {
-    "id": "chinese-literature-143",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "放大镜利用的是哪种透镜？",
-    "options": [
-      "凹透镜",
-      "凸透镜",
-      "平面镜",
-      "棱镜"
-    ],
-    "correctAnswer": 1,
-    "explanation": "放大镜是凸透镜，物体放在焦点以内时成正立放大的虚像。"
-  },
-  {
-    "id": "chinese-literature-144",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "近视眼应该佩戴哪种透镜矫正？",
-    "options": [
-      "凸透镜",
-      "凹透镜",
-      "平面镜",
-      "不用戴眼镜"
-    ],
-    "correctAnswer": 1,
-    "explanation": "近视是像成在视网膜前，用凹透镜（发散透镜）把光线适当发散来矫正。"
-  },
-  {
-    "id": "chinese-literature-145",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "老花眼（远视）佩戴的眼镜是？",
-    "options": [
-      "凹透镜",
-      "凸透镜",
-      "变色镜",
-      "墨镜"
-    ],
-    "correctAnswer": 1,
-    "explanation": "远视是像成在视网膜后，用凸透镜（会聚透镜）矫正。"
-  },
-  {
-    "id": "chinese-literature-146",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "影子的形成说明光具有什么特性？",
-    "options": [
-      "沿直线传播",
-      "会拐弯",
-      "能被吸收",
-      "有颜色"
-    ],
-    "correctAnswer": 0,
-    "explanation": "光沿直线传播，遇到不透明物体被挡住，在物体后方形成光照不到的阴影。"
-  },
-  {
-    "id": "chinese-literature-147",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "水中筷子看起来“折断”了，这是光的什么现象？",
-    "options": [
-      "反射",
-      "折射",
-      "衍射",
-      "色散"
-    ],
-    "correctAnswer": 1,
-    "explanation": "光从水中进入空气时发生偏折（折射），使筷子在水面处看起来“折”了。"
-  },
-  {
-    "id": "chinese-literature-148",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "照镜子能看到自己，属于光的什么现象？",
-    "options": [
-      "折射",
-      "反射",
-      "散射",
-      "衍射"
-    ],
-    "correctAnswer": 1,
-    "explanation": "平面镜成像利用光的反射，所成的是正立等大的虚像。"
-  },
-  {
-    "id": "chinese-literature-149",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "晴朗的天空呈蔚蓝色，主要原因是光的？",
-    "options": [
-      "直线传播",
-      "反射",
-      "散射",
-      "折射"
-    ],
-    "correctAnswer": 2,
-    "explanation": "大气分子对阳光中的短波光（蓝光）散射更强，所以天空看起来是蓝色的。"
-  },
-  {
-    "id": "chinese-literature-150",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "声音的三要素不包括？",
-    "options": [
-      "音调",
-      "响度",
-      "音色",
-      "亮度"
-    ],
-    "correctAnswer": 3,
-    "explanation": "声音的三要素是音调（高低）、响度（强弱）、音色（品质），亮度是光的属性。"
-  },
-  {
-    "id": "chinese-literature-151",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "人耳能听到的声音频率大约是多少？",
-    "options": [
-      "2~20赫兹",
-      "20~20000赫兹",
-      "2000~20000赫兹",
-      "20万赫兹以上"
-    ],
-    "correctAnswer": 1,
-    "explanation": "人耳听觉范围约20~20000赫兹，低于20赫兹是次声波，高于20000赫兹是超声波。"
-  },
-  {
-    "id": "chinese-literature-152",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "敲鼓时用力越大鼓声越响，说明响度与什么有关？",
-    "options": [
-      "频率",
-      "振幅",
-      "音色",
-      "温度"
-    ],
-    "correctAnswer": 1,
-    "explanation": "用力越大，鼓面振动的振幅越大，响度就越大；音调才由频率决定。"
-  },
-  {
-    "id": "chinese-literature-153",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "吉他弦绷得越紧，弹出的音调越？",
-    "options": [
-      "低",
-      "高",
-      "不变",
-      "沙哑"
-    ],
-    "correctAnswer": 1,
-    "explanation": "弦越紧，振动频率越高，音调越高。"
-  },
-  {
-    "id": "chinese-literature-154",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "液体温度计是根据液体的什么性质制成的？",
-    "options": [
-      "热胀冷缩",
-      "流动性",
-      "导电性",
-      "蒸发"
-    ],
-    "correctAnswer": 0,
-    "explanation": "温度升高液体膨胀、液柱上升，温度降低收缩、液柱下降，这就是热胀冷缩原理。"
-  },
-  {
-    "id": "chinese-literature-155",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "冬天从嘴里呼出的“白气”属于什么现象？",
-    "options": [
-      "汽化",
-      "液化",
-      "升华",
-      "凝华"
-    ],
-    "correctAnswer": 1,
-    "explanation": "口中呼出的水蒸气遇冷液化成小水滴，悬浮在空气中形成“白气”。"
-  },
-  {
-    "id": "chinese-literature-156",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "湿衣服晾干了，属于什么物态变化？",
-    "options": [
-      "熔化",
-      "凝固",
-      "汽化（蒸发）",
-      "凝华"
-    ],
-    "correctAnswer": 2,
-    "explanation": "水由液态变成气态散发到空气中，属于汽化中的蒸发现象。"
-  },
-  {
-    "id": "chinese-literature-157",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "衣柜里的樟脑丸放久了会变小消失，这是？",
-    "options": [
-      "熔化",
-      "汽化",
-      "升华",
-      "凝固"
-    ],
-    "correctAnswer": 2,
-    "explanation": "樟脑丸由固态直接变成气态，属于升华现象。"
-  },
-  {
-    "id": "chinese-literature-158",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "深秋早晨草地上的霜是怎样形成的？",
-    "options": [
-      "露水凝固",
-      "水蒸气直接凝华",
-      "雨水蒸发",
-      "雾气液化"
-    ],
-    "correctAnswer": 1,
-    "explanation": "气温低于0℃时，空气中的水蒸气直接由气态变成固态冰晶，附着在草叶上形成霜，这叫凝华。"
-  },
-  {
-    "id": "chinese-literature-159",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "冰化成水属于什么物态变化？",
-    "options": [
-      "凝固",
-      "熔化",
-      "液化",
-      "汽化"
-    ],
-    "correctAnswer": 1,
-    "explanation": "物质由固态变成液态叫熔化，熔化需要吸热。"
-  },
-  {
-    "id": "chinese-literature-160",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "水结成冰属于什么物态变化？",
-    "options": [
-      "熔化",
-      "汽化",
-      "凝固",
-      "凝华"
-    ],
-    "correctAnswer": 2,
-    "explanation": "物质由液态变成固态叫凝固，凝固会放出热量。"
-  },
-  {
-    "id": "chinese-literature-161",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "公交车突然刹车时，乘客身体会向前倾，这是因为？",
-    "options": [
-      "惯性",
-      "引力",
-      "摩擦力消失",
-      "空气阻力"
-    ],
-    "correctAnswer": 0,
-    "explanation": "车减速而人由于惯性仍保持原来的运动状态，所以上身向前倾。"
-  },
-  {
-    "id": "chinese-literature-162",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "牛顿第一定律又叫什么定律？",
-    "options": [
-      "惯性定律",
-      "万有引力定律",
-      "作用力定律",
-      "能量守恒定律"
-    ],
-    "correctAnswer": 0,
-    "explanation": "牛顿第一定律指出物体在不受外力时保持静止或匀速直线运动，也叫惯性定律。"
-  },
-  {
-    "id": "chinese-literature-163",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "重力的方向总是？",
-    "options": [
-      "竖直向下",
-      "垂直于地面",
-      "指向地心之外",
-      "水平方向"
-    ],
-    "correctAnswer": 0,
-    "explanation": "重力的方向总是竖直向下（大致指向地心），所以苹果会落地、水往低处流。"
-  },
-  {
-    "id": "chinese-literature-164",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "成熟的苹果从树上掉下来，是因为它受到？",
-    "options": [
-      "浮力",
-      "重力",
-      "磁力",
-      "弹力"
-    ],
-    "correctAnswer": 1,
-    "explanation": "地球吸引苹果产生重力，重力的方向竖直向下。"
-  },
-  {
-    "id": "chinese-literature-165",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "干燥天气脱毛衣时听到“噼啪”声，这是因为？",
-    "options": [
-      "静电现象",
-      "雷声",
-      "毛衣在响",
-      "气流震动"
-    ],
-    "correctAnswer": 0,
-    "explanation": "摩擦使衣物带电，电荷放电时产生噼啪声，属于静电现象。"
-  },
-  {
-    "id": "chinese-literature-166",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "雷雨天气时，下列做法正确的是？",
-    "options": [
-      "躲在大树下避雨",
-      "在空旷处打伞行走",
-      "尽快进入有避雷设施的建筑内",
-      "在水边逗留"
-    ],
-    "correctAnswer": 2,
-    "explanation": "大树、空旷高地和水边都容易遭雷击，应尽快进入装有避雷装置的房屋或汽车内。"
-  },
-  {
-    "id": "chinese-literature-167",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "中国家庭电路的电压是？",
-    "options": [
-      "110伏",
-      "220伏",
-      "380伏",
-      "36伏"
-    ],
-    "correctAnswer": 1,
-    "explanation": "中国民用电压是220伏（日本、美国等是110伏）；380伏是工业三相电。"
-  },
-  {
-    "id": "chinese-literature-168",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "一节普通干电池的电压约为？",
-    "options": [
-      "1.5伏",
-      "3伏",
-      "9伏",
-      "12伏"
-    ],
-    "correctAnswer": 0,
-    "explanation": "一节5号或7号干电池标称电压为1.5伏。"
-  },
-  {
-    "id": "chinese-literature-169",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "对人体安全的电压一般不高于多少伏？",
-    "options": [
-      "220伏",
-      "110伏",
-      "36伏",
-      "380伏"
-    ],
-    "correctAnswer": 2,
-    "explanation": "一般认为不高于36伏的电压对人体相对安全，潮湿环境下安全电压更低。"
-  },
-  {
-    "id": "chinese-literature-170",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "下列物品中属于导体的是？",
-    "options": [
-      "橡皮",
-      "铜钥匙",
-      "塑料尺",
-      "陶瓷杯"
-    ],
-    "correctAnswer": 1,
-    "explanation": "金属容易导电属于导体；橡皮、塑料、陶瓷都不易导电，属于绝缘体。"
-  },
-  {
-    "id": "chinese-literature-171",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "电工师傅带电作业时常戴橡胶手套，因为橡胶是？",
-    "options": [
-      "导体",
-      "绝缘体",
-      "半导体",
-      "超导体"
-    ],
-    "correctAnswer": 1,
-    "explanation": "橡胶几乎不导电，是良好的绝缘体，能防止触电。"
-  },
-  {
-    "id": "chinese-literature-172",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "指南针静止时指向南方的那一端叫？",
-    "options": [
-      "北极（N极）",
-      "南极（S极）",
-      "东极",
-      "西极"
-    ],
-    "correctAnswer": 1,
-    "explanation": "指南针指南的一端叫南极（S极），指北的一端叫北极（N极）。"
-  },
-  {
-    "id": "chinese-literature-173",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "电动机工作时主要把什么能转化为什么能？",
-    "options": [
-      "机械能转化为电能",
-      "电能转化为机械能",
-      "热能转化为光能",
-      "化学能转化为热能"
-    ],
-    "correctAnswer": 1,
-    "explanation": "电动机通电后转动，把电能转化为机械能；发电机正好相反。"
-  },
-  {
-    "id": "chinese-literature-174",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "核电站发电利用的是哪种能量？",
-    "options": [
-      "风能",
-      "核能（核裂变）",
-      "水能",
-      "太阳能"
-    ],
-    "correctAnswer": 1,
-    "explanation": "核电站通过铀等核燃料的链式裂变反应释放能量，再转化为电能。"
-  },
-  {
-    "id": "chinese-literature-175",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "冬天户外摸铁比摸木头感觉更冷，这是因为？",
-    "options": [
-      "铁的温度更低",
-      "铁的导热性更好",
-      "木头更粗糙",
-      "铁更重"
-    ],
-    "correctAnswer": 1,
-    "explanation": "铁和木头温度相同，但铁导热快，能迅速把手上的热量带走，所以感觉更冷。"
-  },
-  {
-    "id": "chinese-literature-176",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "能使澄清石灰水变浑浊的气体是？",
-    "options": [
-      "氧气",
-      "氢气",
-      "二氧化碳",
-      "氮气"
-    ],
-    "correctAnswer": 2,
-    "explanation": "二氧化碳与石灰水中的氢氧化钙反应生成白色碳酸钙沉淀，使石灰水变浑浊，这是检验CO2的常用方法。"
-  },
-  {
-    "id": "chinese-literature-177",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "空气中含量最多的气体是？",
-    "options": [
-      "氧气",
-      "氮气",
-      "二氧化碳",
-      "稀有气体"
-    ],
-    "correctAnswer": 1,
-    "explanation": "氮气约占空气体积的78%，氧气约占21%。"
-  },
-  {
-    "id": "chinese-literature-178",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "能支持燃烧、供给呼吸的气体是？",
-    "options": [
-      "氮气",
-      "二氧化碳",
-      "氧气",
-      "水蒸气"
-    ],
-    "correctAnswer": 2,
-    "explanation": "氧气能支持燃烧和供给呼吸，约占空气体积的21%。"
-  },
-  {
-    "id": "chinese-literature-179",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "水的化学式是？",
-    "options": [
-      "CO2",
-      "H2O",
-      "O2",
-      "H2O2"
-    ],
-    "correctAnswer": 1,
-    "explanation": "一个水分子由两个氢原子和一个氧原子构成，化学式为H2O。"
-  },
-  {
-    "id": "chinese-literature-180",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "地壳中含量最多的元素是？",
-    "options": [
-      "铁",
-      "硅",
-      "铝",
-      "氧"
-    ],
-    "correctAnswer": 3,
-    "explanation": "地壳中含量前四的元素依次是：氧、硅、铝、铁，氧约占一半。"
-  },
-  {
-    "id": "chinese-literature-181",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "地壳中含量最多的金属元素是？",
-    "options": [
-      "铁",
-      "铜",
-      "铝",
-      "金"
-    ],
-    "correctAnswer": 2,
-    "explanation": "铝占地壳质量的约8%，是地壳中含量最多的金属元素。"
-  },
-  {
-    "id": "chinese-literature-182",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "人体胃液的主要成分是？",
-    "options": [
-      "硫酸",
-      "盐酸",
-      "醋酸",
-      "硝酸"
-    ],
-    "correctAnswer": 1,
-    "explanation": "胃液中含有盐酸，能帮助消化食物、杀灭细菌。"
-  },
-  {
-    "id": "chinese-literature-183",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "食盐的主要成分是？",
-    "options": [
-      "碳酸钠",
-      "氯化钠",
-      "碳酸钙",
-      "硫酸钠"
-    ],
-    "correctAnswer": 1,
-    "explanation": "食盐的主要成分是氯化钠（NaCl），是重要的调味品和人体必需物质。"
-  },
-  {
-    "id": "chinese-literature-184",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "厨房里常说的小苏打是？",
-    "options": [
-      "碳酸钠",
-      "碳酸氢钠",
-      "氢氧化钠",
-      "氯化钠"
-    ],
-    "correctAnswer": 1,
-    "explanation": "小苏打是碳酸氢钠（NaHCO3），常用于发面和中和酸性物质；纯碱是碳酸钠。"
-  },
-  {
-    "id": "chinese-literature-185",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "石灰石和大理石的主要成分是？",
-    "options": [
-      "碳酸钙",
-      "碳酸钠",
-      "氧化钙",
-      "氢氧化钙"
-    ],
-    "correctAnswer": 0,
-    "explanation": "石灰石、大理石、贝壳的主要成分都是碳酸钙（CaCO3）。"
-  },
-  {
-    "id": "chinese-literature-186",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "金刚石和石墨都是由哪种元素组成的？",
-    "options": [
-      "硅",
-      "碳",
-      "氧",
-      "硫"
-    ],
-    "correctAnswer": 1,
-    "explanation": "金刚石和石墨都是由碳元素组成，只因原子排列方式不同，性质差异巨大。"
-  },
-  {
-    "id": "chinese-literature-187",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "煤气中毒主要是因为哪种气体？",
-    "options": [
-      "二氧化碳",
-      "一氧化碳",
-      "甲烷",
-      "氧气"
-    ],
-    "correctAnswer": 1,
-    "explanation": "一氧化碳能与血红蛋白结合且不易分离，使人体缺氧中毒，俗称煤气中毒。"
-  },
-  {
-    "id": "chinese-literature-188",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "造成温室效应的主要气体是？",
-    "options": [
-      "氧气",
-      "氢气",
-      "二氧化碳",
-      "氮气"
-    ],
-    "correctAnswer": 2,
-    "explanation": "二氧化碳等温室气体像温室玻璃一样截留热量，是全球变暖的主因。"
-  },
-  {
-    "id": "chinese-literature-189",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "酸雨的形成主要与哪种气体排放有关？",
-    "options": [
-      "二氧化硫和氮氧化物",
-      "氧气和氮气",
-      "二氧化碳和氢气",
-      "稀有气体"
-    ],
-    "correctAnswer": 0,
-    "explanation": "煤燃烧排放的二氧化硫和汽车尾气中的氮氧化物溶于雨水形成酸雨。"
-  },
-  {
-    "id": "chinese-literature-190",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "pH小于7的溶液呈什么性？",
-    "options": [
-      "酸性",
-      "碱性",
-      "中性",
-      "无法判断"
-    ],
-    "correctAnswer": 0,
-    "explanation": "pH=7为中性，小于7为酸性，大于7为碱性。"
-  },
-  {
-    "id": "chinese-literature-191",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "用pH试纸测定溶液酸碱度时，正确的操作是？",
-    "options": [
-      "把试纸直接伸进试剂瓶",
-      "用玻璃棒蘸取溶液滴在试纸上",
-      "把试剂倒到试纸上",
-      "用手拿试纸蘸溶液"
-    ],
-    "correctAnswer": 1,
-    "explanation": "应把溶液滴在放在玻璃片上的pH试纸上再比色，直接伸入试剂会污染整瓶试剂。"
-  },
-  {
-    "id": "chinese-literature-192",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "铁生锈需要与下列哪些物质接触？",
-    "options": [
-      "只有水",
-      "只有氧气",
-      "水和氧气",
-      "氮气"
-    ],
-    "correctAnswer": 2,
-    "explanation": "铁生锈是铁与空气中的氧气、水共同作用的结果，缺一不可。"
-  },
-  {
-    "id": "chinese-literature-193",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "下列哪种方法不能防止铁制品生锈？",
-    "options": [
-      "刷油漆",
-      "涂油",
-      "镀其他金属",
-      "经常用水冲洗"
-    ],
-    "correctAnswer": 3,
-    "explanation": "防锈的原理是隔绝水和氧气，刷漆、涂油、镀层都能做到；用水冲洗反而加速生锈。"
-  },
-  {
-    "id": "chinese-literature-194",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "燃烧需要的三个条件不包括？",
-    "options": [
-      "可燃物",
-      "助燃物（如氧气）",
-      "温度达到着火点",
-      "充足的光照"
-    ],
-    "correctAnswer": 3,
-    "explanation": "燃烧三要素是可燃物、助燃物和温度达到着火点，光照不是必要条件。"
-  },
-  {
-    "id": "chinese-literature-195",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "用水灭火的主要原理是？",
-    "options": [
-      "隔绝了所有氧气",
-      "把温度降到着火点以下",
-      "水能燃烧",
-      "增加可燃物"
-    ],
-    "correctAnswer": 1,
-    "explanation": "水蒸发吸热，使可燃物温度降到着火点以下，火就灭了。"
-  },
-  {
-    "id": "chinese-literature-196",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "家中油锅起火，正确的处理方法是？",
-    "options": [
-      "立即浇水",
-      "端起油锅跑到室外",
-      "盖上锅盖隔绝空气并关火",
-      "用嘴用力吹灭"
-    ],
-    "correctAnswer": 2,
-    "explanation": "油的密度比水小，浇水会让油飞溅、火势扩大；盖上锅盖隔绝氧气并关火最安全。"
-  },
-  {
-    "id": "chinese-literature-197",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "活性炭能用于净水，主要利用它的什么性质？",
-    "options": [
-      "导电性",
-      "吸附性",
-      "可燃性",
-      "酸性"
-    ],
-    "correctAnswer": 1,
-    "explanation": "活性炭疏松多孔，有很强的吸附能力，可以吸附水中的色素和异味。"
-  },
-  {
-    "id": "chinese-literature-198",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "电解水实验产生的气体是？",
-    "options": [
-      "氧气和氮气",
-      "氢气和氧气",
-      "二氧化碳和氧气",
-      "氮气和氢气"
-    ],
-    "correctAnswer": 1,
-    "explanation": "电解水时负极产生氢气、正极产生氧气，体积比约为2:1，证明水由氢氧元素组成。"
-  },
-  {
-    "id": "chinese-literature-199",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "氢气在空气中燃烧生成什么？",
-    "options": [
-      "二氧化碳",
-      "一氧化碳",
-      "水",
-      "氧气"
-    ],
-    "correctAnswer": 2,
-    "explanation": "氢气燃烧的产物只有水，所以氢气被认为是理想的清洁燃料。"
-  },
-  {
-    "id": "chinese-literature-200",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "检验一瓶气体是否是氧气，常用的方法是？",
-    "options": [
-      "闻气味",
-      "倒入石灰水",
-      "伸入带火星的木条",
-      "放入金属片"
-    ],
-    "correctAnswer": 2,
-    "explanation": "氧气能使带火星的木条复燃，这是检验氧气的特征方法。"
-  },
-  {
-    "id": "chinese-literature-201",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "霓虹灯能发出五颜六色的光，灯管内充的是哪种气体？",
-    "options": [
-      "氧气",
-      "稀有气体",
-      "二氧化碳",
-      "水蒸气"
-    ],
-    "correctAnswer": 1,
-    "explanation": "稀有气体通电时会发出不同颜色的光，如氖气发红光、氩气发蓝光，常用于霓虹灯。"
-  },
-  {
-    "id": "chinese-literature-202",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "碘酒是常用的皮肤消毒剂，它属于？",
-    "options": [
-      "纯净物",
-      "混合物",
-      "单质",
-      "碱"
-    ],
-    "correctAnswer": 1,
-    "explanation": "碘酒是碘溶解在酒精中形成的溶液，由多种物质组成，属于混合物。"
-  },
-  {
-    "id": "chinese-literature-203",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "下列物质中属于单质的是？",
-    "options": [
-      "水",
-      "二氧化碳",
-      "氧气",
-      "食盐"
-    ],
-    "correctAnswer": 2,
-    "explanation": "单质是由同一种元素组成的纯净物，氧气（O2）只含氧元素；水、二氧化碳是化合物，食盐是混合物。"
-  },
-  {
-    "id": "chinese-literature-204",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "把白糖加热到熔化，继续加热会变成黑色的炭，这说明白糖中含有？",
-    "options": [
-      "碳元素",
-      "铁元素",
-      "铜元素",
-      "银元素"
-    ],
-    "correctAnswer": 0,
-    "explanation": "化学变化前后元素种类不变，生成黑色的碳说明白糖中含有碳元素。"
-  },
-  {
-    "id": "chinese-literature-205",
-    "category": "chinese-literature",
-    "difficulty": "easy",
-    "question": "打开汽水瓶盖时冒出大量气泡，这是因为？",
-    "options": [
-      "温度升高气体溶解增多",
-      "压强减小，二氧化碳溶解度减小",
-      "水变成了气体",
-      "瓶子产生了气体"
-    ],
-    "correctAnswer": 1,
-    "explanation": "气体的溶解度随压强减小而减小，开盖后压强骤降，溶解的二氧化碳大量逸出形成气泡。"
-  },
-  {
     "id": "chinese-literature-206",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "官渡之战打到胶着时，是谁从袁绍阵营连夜投奔曹操，献上奇袭乌巢的计策？",
     "options": [
       "许攸",
@@ -2831,6 +1973,7 @@
     "id": "chinese-literature-207",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "《三国演义》里「温酒斩华雄」让关羽一战成名，但按正史《三国志》的记载，真正击杀华雄的是谁？",
     "options": [
       "关羽",
@@ -2845,6 +1988,7 @@
     "id": "chinese-literature-208",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "魏、蜀、吴三国正式称帝的顺序有先后，其中最晚称帝的是谁？",
     "options": [
       "曹丕",
@@ -2859,6 +2003,7 @@
     "id": "chinese-literature-209",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "《三国演义》写庞统献连环计、诸葛亮借东风，但《三国志》明确记载，赤壁之战中最早向周瑜提出火攻之计的是谁？",
     "options": [
       "周瑜",
@@ -2873,6 +2018,7 @@
     "id": "chinese-literature-210",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "「草船借箭」是诸葛亮的招牌神操作，但裴松之注引《魏略》记载的「借箭」原型故事，主角其实是谁？",
     "options": [
       "诸葛亮",
@@ -2887,6 +2033,7 @@
     "id": "chinese-literature-211",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "曹操一生「挟天子以令诸侯」却始终没有称帝，那么他生前获得的最高爵位封号是什么？",
     "options": [
       "魏武帝",
@@ -2901,6 +2048,7 @@
     "id": "chinese-literature-212",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "刘备夷陵大败后退守白帝城，上演了著名的「白帝城托孤」。这座城位于今天的哪里？",
     "options": [
       "湖北宜昌",
@@ -2915,6 +2063,7 @@
     "id": "chinese-literature-213",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "赵云在演义里是「五虎上将」，但正史中刘备只封了前后左右四方将军。赵云一生担任过的最高军职是？",
     "options": [
       "镇东将军",
@@ -2943,6 +2092,7 @@
     "id": "chinese-literature-215",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "关羽字「云长」人尽皆知，但《三国志》记载他最早其实另有一个字，后来才改为云长。关羽的「本字」是什么？",
     "options": [
       "文长",
@@ -2957,6 +2107,7 @@
     "id": "chinese-literature-216",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "夷陵之战刘备惨败，蜀军有一位将领因退路被吴军截断、走投无路而投降了曹魏，他是谁？",
     "options": [
       "马良",
@@ -2971,6 +2122,7 @@
     "id": "chinese-literature-217",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "263年魏灭蜀之战中，是谁率奇兵偷渡阴平小道、翻越摩天岭，直插成都迫使刘禅投降？",
     "options": [
       "邓艾",
@@ -2985,6 +2137,7 @@
     "id": "chinese-literature-218",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "演义中周瑜被诸葛亮「三气」而亡，纯属虚构。按《三国志》记载，周瑜是在准备西取益州的途中病逝于何处？",
     "options": [
       "柴桑",
@@ -2999,6 +2152,7 @@
     "id": "chinese-literature-219",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "逍遥津之战孙权败退，津桥已被拆去一丈多。是谁跟在孙权马后扬鞭助势，帮他的坐骑飞跃断桥逃出生天？",
     "options": [
       "凌统",
@@ -3013,6 +2167,7 @@
     "id": "chinese-literature-220",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "曹操为立嗣私下征询贾诩，贾诩沉默良久后说：「我在想袁绍、刘表父子的事。」这句意味深长的话帮谁敲定了世子之位？",
     "options": [
       "曹植",
@@ -3027,6 +2182,7 @@
     "id": "chinese-literature-221",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "裴松之驳斥「空城计」时指出：西城之围发生时，司马懿根本不在前线——他当时的职务与驻地是？",
     "options": [
       "坐镇洛阳辅政",
@@ -3041,6 +2197,7 @@
     "id": "chinese-literature-222",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "吕蒙「白衣渡江」偷袭荆州，让精兵藏于船中，摇橹的士兵一律身穿白衣，伪装成什么身份瞒过关羽的沿江哨所？",
     "options": [
       "渔民",
@@ -3055,6 +2212,7 @@
     "id": "chinese-literature-223",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "诸葛亮去世后，蜀汉有一个官职从此再未授予任何人，蒋琬、费祎、姜维都无缘担任。这个官职是？",
     "options": [
       "丞相",
@@ -3069,6 +2227,7 @@
     "id": "chinese-literature-224",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "关羽在襄樊之战水淹七军、擒于禁斩庞德，吓得曹操想迁都避锋芒。《三国志》用哪个四字评语形容他当时的威势？",
     "options": [
       "威震四海",
@@ -3083,6 +2242,7 @@
     "id": "chinese-literature-225",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "诸葛亮第四次北伐因粮尽退军，一位曹魏名将不听劝阻执意追击，在木门道中箭身亡。他是谁？",
     "options": [
       "郭淮",
@@ -3097,6 +2257,7 @@
     "id": "chinese-literature-226",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "关羽丢荆州后「败走麦城」，最终身首异处。这座留下千古之叹的麦城，遗址位于今天湖北哪座城市？",
     "options": [
       "江陵",
@@ -3111,6 +2272,7 @@
     "id": "chinese-literature-227",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "252年孙权刚去世，司马昭便三路伐吴，结果在东兴之战中大败而归。指挥吴军打赢这一仗的主帅是谁？",
     "options": [
       "诸葛恪",
@@ -3125,6 +2287,7 @@
     "id": "chinese-literature-228",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "「髀肉复生」的典故里，刘备上厕所时发现自己大腿长了赘肉，悲叹岁月虚度、功业未成。当时他正寄居在谁的地盘上？",
     "options": [
       "曹操",
@@ -3139,6 +2302,7 @@
     "id": "chinese-literature-229",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "曹操曾隔江遥望孙权的军容，喟然长叹「生子当如孙仲谋，刘景升儿子若豚犬耳」。这句著名感叹是在哪次对峙中发出的？",
     "options": [
       "赤壁之战",
@@ -3153,6 +2317,7 @@
     "id": "chinese-literature-230",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "曹操「煮酒论英雄」，说出「今天下英雄，惟使君与操耳」的那一刻，正在吃饭的刘备有什么失态反应？",
     "options": [
       "惊得筷子勺子掉落在地",
@@ -3167,6 +2332,7 @@
     "id": "chinese-literature-231",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "「桃园三结义」里，除了刘备和关羽，第三位磕头结拜的兄弟是谁？",
     "options": [
       "赵云",
@@ -3181,6 +2347,7 @@
     "id": "chinese-literature-232",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "刘备「三顾茅庐」，冒着风雪跑了三趟隆中，诚心请出山的是哪位高人？",
     "options": [
       "庞统",
@@ -3195,6 +2362,7 @@
     "id": "chinese-literature-233",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "行军途中士兵口渴难耐，一句「前面有片大梅林」让大家口水直流、忘了口渴。想出这招「望梅止渴」的是谁？",
     "options": [
       "刘备",
@@ -3209,6 +2377,7 @@
     "id": "chinese-literature-234",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "长坂桥头，谁横矛立马、一声怒吼「我乃燕人张翼德也，谁敢与我决一死战」，吓得曹操大军不敢上前？",
     "options": [
       "张飞",
@@ -3223,6 +2392,7 @@
     "id": "chinese-literature-235",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "《三国演义》中，关羽中了毒箭后「刮骨疗毒」，一边开刀一边喝酒下棋、面不改色。为他操刀的神医是谁？",
     "options": [
       "张仲景",
@@ -3237,6 +2407,7 @@
     "id": "chinese-literature-236",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "蜀汉灭亡后，哪位后主被带到洛阳，在宴会上笑呵呵地说出「此间乐，不思蜀」这句名言？",
     "options": [
       "刘谌",
@@ -3251,6 +2422,7 @@
     "id": "chinese-literature-237",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "「出师未捷身先死，长使英雄泪满襟」——诸葛亮最后一次北伐时积劳成疾，病逝于何处？",
     "options": [
       "白帝城",
@@ -3265,6 +2437,7 @@
     "id": "chinese-literature-238",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "「人中吕布，马中赤兔」——《三国演义》中吕布败亡后，曹操把赤兔马赠给了哪位猛将，从此它驮着主人过五关斩六将？",
     "options": [
       "关羽",
@@ -3279,6 +2452,7 @@
     "id": "chinese-literature-239",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "曹丕逼弟弟曹植在七步之内作诗，否则问斩，曹植脱口而出的《七步诗》里，用什么东西比喻兄弟相残？",
     "options": [
       "梅花与雪",
@@ -3293,6 +2467,7 @@
     "id": "chinese-literature-240",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "诸葛亮过江说服孙权联刘抗曹，「舌战群儒」的这场唇枪舌剑发生在东吴当时的驻地哪里？",
     "options": [
       "柴桑",
@@ -3307,6 +2482,7 @@
     "id": "chinese-literature-241",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "小说里「六出祁山」广为人知，但据《三国志》记载，诸葛亮一生实际发起北伐曹魏的次数是几次？",
     "options": [
       "四次",
@@ -3321,6 +2497,7 @@
     "id": "chinese-literature-242",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "夷陵之战中，东吴年轻统帅用一把大火烧毁蜀军连绵数百里的营寨，大破刘备大军，这位统帅是谁？",
     "options": [
       "吕蒙",
@@ -3335,6 +2512,7 @@
     "id": "chinese-literature-243",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "《三国演义》里促成王允离间董卓、吕布的绝色美女貂蝉，在陈寿所著的正史《三国志》中是什么情况？",
     "options": [
       "确有其人，正史立传",
@@ -3349,6 +2527,7 @@
     "id": "chinese-literature-244",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "曹植千古名篇《洛神赋》，相传是他因思念一位女子而写，民间传说中这位女子是谁？",
     "options": [
       "甄宓",
@@ -3363,6 +2542,7 @@
     "id": "chinese-literature-245",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "神医华佗因忤逆曹操被下狱处死，临死前他想把一部医书托付给狱吏保存，狱吏却因害怕受牵连不敢收下，华佗最后是怎么处理这部医书的？",
     "options": [
       "偷偷埋在牢房墙角",
@@ -3377,6 +2557,7 @@
     "id": "chinese-literature-246",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "张飞在阆中被部下范强、张达暗杀，两人砍下他的首级后，投奔的是谁？",
     "options": [
       "曹操",
@@ -3391,6 +2572,7 @@
     "id": "chinese-literature-247",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "「单刀赴会」经演义渲染成关羽只身赴东吴「鸿门宴」、气吞山河，但据《三国志·鲁肃传》记载，这场「单刀俱会」的会面方式其实是谁主动提议的？",
     "options": [
       "关羽",
@@ -3405,6 +2587,7 @@
     "id": "chinese-literature-248",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "曹魏「五子良将」之一在襄樊之战中兵败投降关羽，辗转被送回魏国后，曹丕命人预先在陵屋墙壁上画好他兵败请降的耻辱画面羞辱他，他因此羞愧发病而死。这位名将是谁？",
     "options": [
       "于禁",
@@ -3419,6 +2602,7 @@
     "id": "chinese-literature-249",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "孙策遇刺重伤将死之际，把江东基业托付给弟弟孙权，留下「举江东之众，决机于两阵之间，卿不如我；举贤任能，各尽其心，以保江东」的遗言，这段话是对谁说的？",
     "options": [
       "周瑜",
@@ -3433,6 +2617,7 @@
     "id": "chinese-literature-250",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "汉献帝刘协将皇位「禅让」给曹丕后，被降封为什么？",
     "options": [
       "安乐公",
@@ -3447,6 +2632,7 @@
     "id": "chinese-literature-251",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "东吴有一对姐妹花「大乔、小乔」，大乔嫁给了孙策，小乔则嫁给了谁？",
     "options": [
       "孙策",
@@ -3461,6 +2647,7 @@
     "id": "chinese-literature-252",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "「鞠躬尽瘁，死而后已」这句千古名言，出自诸葛亮的哪篇奏章？",
     "options": [
       "《后出师表》",
@@ -3475,6 +2662,7 @@
     "id": "chinese-literature-253",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "《三国演义》里曹操疑心病重，扬言「吾梦中好杀人」，一次侍从好心为他盖被子，竟被他一剑杀死。事后曹操让人怎么处理这位侍从，来蒙骗众人相信自己真是梦游杀人？",
     "options": [
       "嫁祸给别的仆人顶罪",
@@ -3489,6 +2677,7 @@
     "id": "chinese-literature-254",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "诸葛亮初见刘备便定下三分天下之策，建议他先夺取哪个地方作为「立身之基」，再图取西川？",
     "options": [
       "江东",
@@ -3503,6 +2692,7 @@
     "id": "chinese-literature-255",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "潼关之战中，马超杀得曹操狼狈逃窜，曹操情急之下用了什么办法企图蒙混过关、避免被认出？",
     "options": [
       "脱盔卸甲，扮作士卒",
@@ -3517,6 +2707,7 @@
     "id": "chinese-literature-256",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "奠定三国鼎立局面基础的著名战役是？",
     "options": [
       "官渡之战",
@@ -3531,6 +2722,7 @@
     "id": "chinese-literature-257",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "赤壁之战中，孙吴方面实际指挥作战的主帅是？",
     "options": [
       "周瑜",
@@ -3545,6 +2737,7 @@
     "id": "chinese-literature-258",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "曹操'挟天子以令诸侯'，其迎奉的'天子'是？",
     "options": [
       "汉质帝",
@@ -3559,6 +2752,7 @@
     "id": "chinese-literature-259",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "曹丕代汉建魏后，曹魏的都城定于？",
     "options": [
       "洛阳",
@@ -3573,6 +2767,7 @@
     "id": "chinese-literature-260",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "官渡之战中，曹操奇袭并焚毁袁绍囤粮基地而奠定胜局，该基地位于？",
     "options": [
       "白马",
@@ -3587,6 +2782,7 @@
     "id": "chinese-literature-261",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "'白衣渡江'袭取荆州、使关羽败走麦城的主将是哪位吴将？",
     "options": [
       "陆逊",
@@ -3601,6 +2797,7 @@
     "id": "chinese-literature-262",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "公元249年'高平陵之变'中，司马懿诛除的曹魏宗室权臣是？",
     "options": [
       "曹植",
@@ -3615,6 +2812,7 @@
     "id": "chinese-literature-263",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "'士别三日，当刮目相待'的典故，说的是孙权劝哪位吴国将领读书成才？",
     "options": [
       "吕蒙",
@@ -3629,6 +2827,7 @@
     "id": "chinese-literature-264",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "刘备于成都称帝后，其政权正式的国号是？",
     "options": [
       "蜀",
@@ -3643,6 +2842,7 @@
     "id": "chinese-literature-265",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "关于'空城计'的情节，下列说法符合史实的是？",
     "options": [
       "出自《三国演义》的虚构创作，正史并无依据",
@@ -3657,6 +2857,7 @@
     "id": "chinese-literature-266",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "关于关羽'刮骨疗毒'，下列说法符合正史的是？",
     "options": [
       "正史确载其事，施术者正是神医华佗",
@@ -3671,6 +2872,7 @@
     "id": "chinese-literature-267",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "正史中219年关羽'水淹七军'、擒于禁斩庞德的真相是？",
     "options": [
       "关羽于上游筑坝蓄水，决堤灌淹魏军",
@@ -3685,6 +2887,7 @@
     "id": "chinese-literature-268",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "红楼梦",
     "question": "黛玉前世是灵河岸边受神瑛侍者甘露灌溉的一株草，下凡要用一生眼泪还情，这株草叫什么？",
     "options": [
       "绛珠仙草",
@@ -3699,6 +2902,7 @@
     "id": "chinese-literature-269",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "红楼梦",
     "question": "贾府大小姐「元春」的名字，来自她出生在哪一天？",
     "options": [
       "正月初一",
@@ -3713,6 +2917,7 @@
     "id": "chinese-literature-270",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "红楼梦",
     "question": "宝玉第一次见到黛玉，细细端详后笑着说了句什么名台词？",
     "options": [
       "这位妹妹真是神仙下凡",
@@ -3727,6 +2932,7 @@
     "id": "chinese-literature-271",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "红楼梦",
     "question": "宝玉初见黛玉，听说她没有玉，抓起自己的通灵宝玉狠命摔去。他的理由是什么？",
     "options": [
       "被贾政逼着读书，拿玉出气",
@@ -3741,6 +2947,7 @@
     "id": "chinese-literature-272",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "红楼梦",
     "question": "《红楼梦》曲里唱「一个是阆苑仙葩，一个是美玉无瑕」，这首《枉凝眉》唱的是谁和谁？",
     "options": [
       "贾琏和凤姐",
@@ -3769,6 +2976,7 @@
     "id": "chinese-literature-274",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "红楼梦",
     "question": "薛宝钗从娘胎里带来一股「热毒」，靠一种用四季白花花蕊配成的药丸压着，这药叫什么？",
     "options": [
       "人参养荣丸",
@@ -3783,6 +2991,7 @@
     "id": "chinese-literature-275",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "红楼梦",
     "question": "贾瑞迷恋凤姐害了相思病，跛足道人送他一面镜子，叮嘱千万别照正面，他偏照了。这镜子叫什么？",
     "options": [
       "菱花铜镜",
@@ -3797,6 +3006,7 @@
     "id": "chinese-literature-276",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "红楼梦",
     "question": "黛玉扛着花锄把落花埋进花冢，边埋边吟《葬花吟》。下面哪一句出自这首诗？",
     "options": [
       "落红不是无情物，化作春泥更护花",
@@ -3811,6 +3021,7 @@
     "id": "chinese-literature-277",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "红楼梦",
     "question": "晴雯就爱听撕扇子的声响，宝玉笑着由她撕，还引了哪句古话？",
     "options": [
       "红袖添香夜读书",
@@ -3825,6 +3036,7 @@
     "id": "chinese-literature-278",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "红楼梦",
     "question": "刘姥姥在大观园被凤姐插了满头花，众人笑说把她打扮成了个什么？",
     "options": [
       "老妖精",
@@ -3839,6 +3051,7 @@
     "id": "chinese-literature-279",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "红楼梦",
     "question": "史湘云喝醉了，躺在大观园的山石凳上睡着，蜂蝶围着她转，她拿什么当枕头？",
     "options": [
       "一摞刚写好的诗稿",
@@ -3853,6 +3066,7 @@
     "id": "chinese-literature-280",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "红楼梦",
     "question": "柳湘莲把一件家传宝物交给贾琏当聘礼，托他送给尤三姐，这件宝物是什么？",
     "options": [
       "紫金冠",
@@ -3867,6 +3081,7 @@
     "id": "chinese-literature-281",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "红楼梦",
     "question": "宝玉大婚，新娘不是他一心要娶的黛玉，这是王熙凤献上的哪条计策？",
     "options": [
       "借剑杀人",
@@ -3881,6 +3096,7 @@
     "id": "chinese-literature-282",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "红楼梦",
     "question": "《红楼梦》通行的一百二十回本，后四十回长期以来被认为是谁续写的？",
     "options": [
       "高鹗",
@@ -3909,6 +3125,7 @@
     "id": "chinese-literature-284",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "桃园结义后，三兄弟请匠人打造兵器。性格火爆的张飞，手里使的是哪一件？",
     "options": [
       "双股剑",
@@ -3923,6 +3140,7 @@
     "id": "chinese-literature-285",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "关羽那口重八十二斤的青龙偃月刀，书中说它还有一个别名，叫什么？",
     "options": [
       "冷艳锯",
@@ -3937,6 +3155,7 @@
     "id": "chinese-literature-286",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "十八路诸侯会盟讨董，谁最先开口提议推举袁绍当盟主，理由是「四世三公，门多故吏」？",
     "options": [
       "曹操",
@@ -3951,6 +3170,7 @@
     "id": "chinese-literature-287",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "虎牢关前，张飞破口大骂吕布「三姓家奴」。吕布先后认过哪两位义父？",
     "options": [
       "丁原、袁术",
@@ -3965,6 +3185,7 @@
     "id": "chinese-literature-288",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "曹操行刺董卓失手，急中生智谎称「来献刀」脱身。这把刀叫什么？",
     "options": [
       "龙泉宝剑",
@@ -3979,6 +3200,7 @@
     "id": "chinese-literature-289",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "曹操逃亡借宿吕伯奢家，听见后院有人说「缚而杀之」，拔剑就杀。后院其实要杀的是什么？",
     "options": [
       "一只羊",
@@ -4007,6 +3229,7 @@
     "id": "chinese-literature-291",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "王允施连环计，吕布与貂蝉在董卓相府后园私会，被董卓撞个正着。这座亭子叫什么？",
     "options": [
       "邀月亭",
@@ -4021,6 +3244,7 @@
     "id": "chinese-literature-292",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "董卓被吕布刺死后，尸首拉到街头示众。因为他太胖，看尸的士兵在他肚脐里做了什么？",
     "options": [
       "插了一面小旗",
@@ -4035,6 +3259,7 @@
     "id": "chinese-literature-293",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "吕布在辕门一箭射中远处画戟的小枝，一举化解了袁术大将纪灵与谁的战事？",
     "options": [
       "曹操",
@@ -4049,6 +3274,7 @@
     "id": "chinese-literature-294",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "宛城之败，曹操折了长子曹昂和爱侄曹安民，可他当着众将痛哭的却是另一个人。是谁？",
     "options": [
       "典韦",
@@ -4063,6 +3289,7 @@
     "id": "chinese-literature-295",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "许田打围，曹操竟拿天子的宝雕弓射中了鹿，还大模大样接受群臣山呼万岁。谁气得提刀要斩曹操？",
     "options": [
       "赵云",
@@ -4077,6 +3304,7 @@
     "id": "chinese-literature-296",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "孙策怒斩了一位被百姓奉为神仙的道士，后来照镜子见他立在镜中，气得金疮迸裂。这位道士是？",
     "options": [
       "左慈",
@@ -4091,6 +3319,7 @@
     "id": "chinese-literature-297",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "寄居许都的刘备，为了让曹操放松警惕，天天在后园里忙活什么？",
     "options": [
       "种菜浇水",
@@ -4105,6 +3334,7 @@
     "id": "chinese-literature-298",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "关羽斩颜良后夸弟弟张飞「于百万军中取上将之头，如探囊取物」。曹操大惊，立刻做了什么？",
     "options": [
       "让人把张飞的名字写在衣襟底下",
@@ -4119,6 +3349,7 @@
     "id": "chinese-literature-299",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "官渡大胜后，曹操搜出一束自己部下私通袁绍的书信，左右劝他按名单逐个杀掉。他怎么做？",
     "options": [
       "当众宣读羞辱他们",
@@ -4133,6 +3364,7 @@
     "id": "chinese-literature-300",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "曹操送关羽一件崭新的锦袍，关羽却穿在里面，外面仍罩着旧袍。他给出的理由是？",
     "options": [
       "新袍尺寸太小，穿着不合身",
@@ -4147,6 +3379,7 @@
     "id": "chinese-literature-301",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "曹操故意安排关羽与两位嫂嫂同住一屋，想乱他的君臣之礼。关羽是怎么做的？",
     "options": [
       "手持蜡烛立在门外，通宵不睡",
@@ -4161,6 +3394,7 @@
     "id": "chinese-literature-302",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "关羽多次登门向曹操辞行，曹操每回都在门口挂出什么牌子，躲着不见？",
     "options": [
       "休沐牌",
@@ -4175,6 +3409,7 @@
     "id": "chinese-literature-303",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "关羽辞别曹操，曹操带人追到桥头赠袍。关羽怕有诈，不肯下马，是怎么接袍的？",
     "options": [
       "拒不接受，策马而去",
@@ -4189,6 +3424,7 @@
     "id": "chinese-literature-304",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "过五关斩六将时，汜水关镇国寺里一位与关羽同乡的和尚举戒刀示警，他法名叫什么？",
     "options": [
       "法明",
@@ -4203,6 +3439,7 @@
     "id": "chinese-literature-305",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "古城相会，张飞疑关羽降曹，要他在三通鼓罢前斩杀追来的曹将蔡阳。关羽实际用了多久？",
     "options": [
       "一通鼓还没擂完",
@@ -4217,6 +3454,7 @@
     "id": "chinese-literature-306",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "刘备被蔡瑁追杀，前有大溪拦路，那匹「妨主」的的卢马猛地一跃，飞过了哪条溪？",
     "options": [
       "泗水",
@@ -4231,6 +3469,7 @@
     "id": "chinese-literature-307",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "曹操为逼徐庶投奔，让谁先骗得徐母的笔迹，再模仿她的字体伪造家书？",
     "options": [
       "荀彧",
@@ -4245,6 +3484,7 @@
     "id": "chinese-literature-308",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "刘备三顾茅庐，诸葛亮睡午觉迟迟不醒，等急了的张飞嚷嚷着要干什么？",
     "options": [
       "一脚踹开大门",
@@ -4259,6 +3499,7 @@
     "id": "chinese-literature-309",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "诸葛亮出山不久，看见刘备兴致勃勃亲手在做一样东西，立刻正色批评他「无复有远志」。刘备在做什么？",
     "options": [
       "亲手削竹做箭",
@@ -4273,6 +3514,7 @@
     "id": "chinese-literature-310",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "诸葛亮出山后烧的「第一把火」，烧的是曹操哪位大将的十万大军？",
     "options": [
       "曹仁",
@@ -4287,6 +3529,7 @@
     "id": "chinese-literature-311",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "火烧新野之夜，诸葛亮让关羽在白河上游「蓄水待发」，靠什么把河水拦住？",
     "options": [
       "临时垒起的木坝",
@@ -4301,6 +3544,7 @@
     "id": "chinese-literature-312",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "曹军将至，刘备带着十几万百姓每天只走十来里。部下劝他先撤，他怎么答？",
     "options": [
       "举大事者必以人为本，怎能弃之",
@@ -4315,6 +3559,7 @@
     "id": "chinese-literature-313",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "长坂坡上，身受重伤的糜夫人把阿斗托付给赵云。为了不拖累他，她做了什么？",
     "options": [
       "拔剑自刎",
@@ -4329,6 +3574,7 @@
     "id": "chinese-literature-314",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "长坂坡，赵云刺死曹操的背剑将夏侯恩，夺得一口「砍铁如泥」的宝剑。剑名是？",
     "options": [
       "青釭剑",
@@ -4343,6 +3589,7 @@
     "id": "chinese-literature-315",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "赵云在长坂坡杀得曹军大乱，曹操在景山顶上望见，连声称赞「真虎将也」，下令怎样对待他？",
     "options": [
       "不许放冷箭，只要活捉",
@@ -4357,6 +3604,7 @@
     "id": "chinese-literature-316",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "赵云血战长坂坡救出阿斗，把孩子递给刘备。刘备接过来做了什么？",
     "options": [
       "立刻交给糜竺照看",
@@ -4371,6 +3619,7 @@
     "id": "chinese-literature-317",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "长坂桥头，张飞让手下二十多骑在桥东树林里干什么，制造伏兵重重的假象？",
     "options": [
       "满林遍插各色旗帜",
@@ -4385,6 +3634,7 @@
     "id": "chinese-literature-318",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "张飞喝退曹军后拆断长坂桥，刘备却说他「勇则勇矣，惜失于计较」。理由是？",
     "options": [
       "桥一拆，曹操就看出他心虚必来追",
@@ -4399,6 +3649,7 @@
     "id": "chinese-literature-319",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "舌战群儒时，诸葛亮讥讽东吴谋士「小儿之见」。这位谋士小时候曾在袁术宴席上偷藏橘子孝敬母亲，他是谁？",
     "options": [
       "虞翻",
@@ -4413,6 +3664,7 @@
     "id": "chinese-literature-320",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "草船借箭得手后，诸葛亮让每条船上的军士齐声高喊什么，曹军这才发觉上当？",
     "options": [
       "江东水军到",
@@ -4427,6 +3679,7 @@
     "id": "chinese-literature-321",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "歇后语「周瑜打黄盖——」，后半句是？",
     "options": [
       "打得皮开肉绽",
@@ -4441,6 +3694,7 @@
     "id": "chinese-literature-322",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "苦肉计之后，阚泽带着黄盖的诈降书连夜去见曹操。他乔装成什么身份，驾小舟到曹军水寨？",
     "options": [
       "游方道士",
@@ -4455,6 +3709,7 @@
     "id": "chinese-literature-323",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "庞统献连环计后，一位曹营谋士怕火攻殃及自己，靠散布「马腾、韩遂造反」的谣言脱身。他是谁？",
     "options": [
       "徐庶",
@@ -4469,6 +3724,7 @@
     "id": "chinese-literature-324",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "赤壁前夜宴，曹操横槊赋诗，酒后一槊刺死了说「乌鹊南飞」不吉利的扬州刺史。他是谁？",
     "options": [
       "蒋干",
@@ -4483,6 +3739,7 @@
     "id": "chinese-literature-325",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "周瑜因缺东风急得吐血，诸葛亮提笔写下十六字「药方」：「欲破曹公，宜用火攻；万事俱备，……」",
     "options": [
       "只欠粮草",
@@ -4497,6 +3754,7 @@
     "id": "chinese-literature-326",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "诸葛亮为周瑜「借东风」，在南屏山上筑起的高台叫什么？",
     "options": [
       "北斗坛",
@@ -4511,6 +3769,7 @@
     "id": "chinese-literature-327",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "诸葛亮借到东风，乘赵云的小船脱身，东吴徐盛驾船追杀。赵云一箭射断了追兵船上的什么？",
     "options": [
       "篷索",
@@ -4525,6 +3784,7 @@
     "id": "chinese-literature-328",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "华容道上，诸葛亮特意让关羽在山边做一件事，反而「引」曹操走这条小路。是什么？",
     "options": [
       "放出风声说此路平安",
@@ -4539,6 +3799,7 @@
     "id": "chinese-literature-329",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "赤壁败逃途中，曹操三次仰天大笑，嘲笑周瑜、诸葛亮不会用兵，每笑一次就冒出一路伏兵。三路伏兵依次是？",
     "options": [
       "关羽、张飞、赵云",
@@ -4553,6 +3814,7 @@
     "id": "chinese-literature-330",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "华容道上关羽念旧情放走曹操，按军令状本该问斩。是谁出面求情保下了他？",
     "options": [
       "鲁肃",
@@ -4567,6 +3829,7 @@
     "id": "chinese-literature-331",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "周瑜与曹仁苦战南郡，好不容易打赢，赶到城下，却见城头一员大将笑道「都督少罪」。此人是谁？",
     "options": [
       "糜竺",
@@ -4581,6 +3844,7 @@
     "id": "chinese-literature-332",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "周瑜想借「替刘备取西川」为名顺路夺荆州，被诸葛亮一眼看破。这条计用的是哪个成语典故？",
     "options": [
       "假途灭虢",
@@ -4595,6 +3859,7 @@
     "id": "chinese-literature-333",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "周瑜被诸葛亮气得箭疮迸裂，临终前仰天长叹的那句名言是？",
     "options": [
       "时也命也，夫复何言",
@@ -4609,6 +3874,7 @@
     "id": "chinese-literature-334",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "诸葛亮吊孝周瑜，刚要上船，一位道袍竹冠的人揪住他笑道「你气死周郎，又来吊孝」。此人是谁？",
     "options": [
       "鲁肃",
@@ -4623,6 +3889,7 @@
     "id": "chinese-literature-335",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "刘备称汉中王后封「五虎上将」：关羽、张飞、赵云、马超，还有哪一位？",
     "options": [
       "魏延",
@@ -4637,6 +3904,7 @@
     "id": "chinese-literature-336",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "张松只看一遍就背下曹操亲著的《孟德新书》，还讥它是抄的。曹操得知后怎么处理这本书？",
     "options": [
       "交给杨修修订后颁行",
@@ -4651,6 +3919,7 @@
     "id": "chinese-literature-337",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "“凤雏”庞统死在名叫“落凤坡”的山道上，指挥伏兵将他乱箭射杀的西川名将是谁？",
     "options": [
       "吴懿",
@@ -4665,6 +3934,7 @@
     "id": "chinese-literature-338",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "张飞生擒巴郡老将严颜，严颜昂首说“我州但有断头将军，无降将军”。张飞听后怎么做？",
     "options": [
       "当场斩首，悬头于城门示众",
@@ -4679,6 +3949,7 @@
     "id": "chinese-literature-339",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "关羽听说马超归降，想千里入川与他比武。诸葛亮回信怎么夸关羽，让他捋须大笑？",
     "options": [
       "夸他是美髯公，绝伦超群，马超难及",
@@ -4693,6 +3964,7 @@
     "id": "chinese-literature-340",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "刘备称汉中王后封“五虎上将”，关羽嫌其中一位是老卒，气得不肯接印。这位老将是谁？",
     "options": [
       "黄忠",
@@ -4707,6 +3979,7 @@
     "id": "chinese-literature-341",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "定军山上黄忠按兵不动，直到对面山头红旗招展才冲下山，一刀斩了夏侯渊。举旗发令的军师是谁？",
     "options": [
       "李恢",
@@ -4721,6 +3994,7 @@
     "id": "chinese-literature-342",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "汉水之战，谁大开寨门、偃旗息鼓，单枪匹马立于营外，吓退曹军，被刘备夸“一身都是胆”？",
     "options": [
       "黄忠",
@@ -4735,6 +4009,7 @@
     "id": "chinese-literature-343",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "汉中之战进退两难，曹操随口把夜间口令定为“鸡肋”，杨修一听就叫人收拾行装。他断定曹操要做什么？",
     "options": [
       "下令撤兵班师",
@@ -4749,6 +4024,7 @@
     "id": "chinese-literature-344",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "曹操在一盒酥上写了“一合酥”三个字，杨修拿起来就和众人分吃了。他的理由是什么？",
     "options": [
       "拆字：“一合酥”即“一人一口酥”",
@@ -4763,6 +4039,7 @@
     "id": "chinese-literature-345",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "孙权派诸葛瑾替儿子向关羽求亲，关羽怒骂“吾虎女安肯嫁___乎”，还差点斩了使者。空格是？",
     "options": [
       "鼠辈",
@@ -4777,6 +4054,7 @@
     "id": "chinese-literature-346",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "关羽死后英魂不散，在玉泉山夜夜高喊“还我头来”，一位老僧用一句反问点醒了他。这位老僧法号是？",
     "options": [
       "法明",
@@ -4791,6 +4069,7 @@
     "id": "chinese-literature-347",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "张飞为给二哥报仇，限两名部将三日内置办什么，逼得二人铤而走险刺杀了他？",
     "options": [
       "供全军三月之用的军粮",
@@ -4805,6 +4084,7 @@
     "id": "chinese-literature-348",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "陆逊追击刘备误入诸葛亮布下的“八阵图”，飞沙走石险些困死。最后是谁从死门把他领了出来？",
     "options": [
       "崔州平",
@@ -4819,6 +4099,7 @@
     "id": "chinese-literature-349",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "白帝城托孤，刘备说“若嗣子可辅则辅之，如其不才——”，下半句让诸葛亮吓得汗流遍体。是什么？",
     "options": [
       "君可挟之，南下归附孙权",
@@ -4833,6 +4114,7 @@
     "id": "chinese-literature-350",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "托孤时，刘备私下提醒诸葛亮：“此人言过其实，不可大用。”被点名的是谁？",
     "options": [
       "李严",
@@ -4847,6 +4129,7 @@
     "id": "chinese-literature-351",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "七擒孟获中，孟获的妻子祝融夫人亲自上阵，背插五口什么，百发百中？",
     "options": [
       "飞爪",
@@ -4861,6 +4144,7 @@
     "id": "chinese-literature-352",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "乌戈国的藤甲兵刀枪不入，诸葛亮在盘蛇谷用什么办法把他们全歼？",
     "options": [
       "滚木礌石",
@@ -4875,6 +4159,7 @@
     "id": "chinese-literature-353",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "南征时木鹿大王骑白象、摇蒂钟，驱赶虎豹豺狼冲阵。诸葛亮用什么办法把这支“野兽军团”吓回了老巢？",
     "options": [
       "让士兵披上虎皮冒充猛兽",
@@ -4903,6 +4188,7 @@
     "id": "chinese-literature-355",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "诸葛亮南征班师，泸水风浪不止，当地说要杀人头祭河神。他改用面皮包牛羊肉塑成人头，小说里叫它什么？",
     "options": [
       "烧麦",
@@ -4917,6 +4203,7 @@
     "id": "chinese-literature-356",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "祁山阵前，诸葛亮凭一张嘴骂得魏国司徒王朗气满胸膛，王朗的下场是什么？",
     "options": [
       "大叫一声，撞死马下",
@@ -4931,6 +4218,7 @@
     "id": "chinese-literature-357",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "诸葛亮嫌赵云年纪大不让他挂帅，赵云怒道：“我虽年迈，尚有___之勇，马援之雄！”空格是谁？",
     "options": [
       "李牧",
@@ -4945,6 +4233,7 @@
     "id": "chinese-literature-358",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "姜维推出诸葛亮木像，吓得司马懿狼狈逃窜。跑远后他用手摸着自己的头，问将领一句什么？",
     "options": [
       "蜀兵可曾追来？",
@@ -4973,6 +4262,7 @@
     "id": "chinese-literature-360",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "诸葛亮送妇人衣饰激司马懿出战，他佯笑收下，却向使者打听诸葛亮的什么，从而断定他活不久？",
     "options": [
       "寝食多少与政务繁简",
@@ -4987,6 +4277,7 @@
     "id": "chinese-literature-361",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "上方谷一把大火眼看要烧死司马懿父子，忽然大雨倾盆浇灭火焰。诸葛亮仰天长叹的话是？",
     "options": [
       "谋事在人，成事在天",
@@ -5001,6 +4292,7 @@
     "id": "chinese-literature-362",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "诸葛亮死后魏延谋反，阵前狂喊“谁敢杀我？”，一人应声“吾敢杀汝！”手起刀落。这人是谁？",
     "options": [
       "杨仪",
@@ -5015,6 +4307,7 @@
     "id": "chinese-literature-363",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "姜维兵败自刎后，魏兵争相剖开他的腹部，发现某个器官大如鸡卵。是什么？",
     "options": [
       "肾",
@@ -5029,6 +4322,7 @@
     "id": "chinese-literature-364",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "司马懿装病骗曹爽，探病的李胜说要去荆州赴任，他故意装聋听成了哪个州？",
     "options": [
       "幽州",
@@ -5043,6 +4337,7 @@
     "id": "chinese-literature-365",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "刘禅决定降魏时，他的一个儿子拒不投降，先杀妻儿，再在昭烈庙自刎殉国。这位“北地王”是谁？",
     "options": [
       "刘永",
@@ -5071,6 +4366,7 @@
     "id": "chinese-literature-367",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "宛城夜袭中，曹操的坐骑被一箭射中马眼倒地，谁把自己的马让给父亲，自己被乱箭射死？",
     "options": [
       "曹彰",
@@ -5085,6 +4381,7 @@
     "id": "chinese-literature-368",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "曹操见一位猛将下马一手扶住被大风吹倒的大旗，纹丝不动，赞叹“此古之恶来也”。他是谁？",
     "options": [
       "张辽",
@@ -5099,6 +4396,7 @@
     "id": "chinese-literature-369",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "夏侯惇左眼中箭，拔箭时连眼珠一并带出，他大喝“父精母血，不可弃也”，然后怎么处理那颗眼珠？",
     "options": [
       "交给军医设法妥善保存",
@@ -5113,6 +4411,7 @@
     "id": "chinese-literature-370",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "潼关大战，许褚战到性起，卸甲赤膊再战马超。马超叹道“吾见恶战者，莫如许褚，真___也”，空格是？",
     "options": [
       "猛虎",
@@ -5127,6 +4426,7 @@
     "id": "chinese-literature-371",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "铜雀台落成宴上，众将射箭夺西川锦袍，徐晃射断柳条夺得锦袍，随后谁冲上来抢，把袍子扯成了碎片？",
     "options": [
       "许褚",
@@ -5141,6 +4441,7 @@
     "id": "chinese-literature-372",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "《三国演义》里曹操临终遗命，在彰德府讲武城外设多少座疑冢，不让人知道他的真正葬处？",
     "options": [
       "一百零八座",
@@ -5155,6 +4456,7 @@
     "id": "chinese-literature-373",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "《三国演义》有“三绝”之说：智绝诸葛亮，义绝关羽，那么“奸绝”是谁？",
     "options": [
       "曹操",
@@ -5169,6 +4471,7 @@
     "id": "chinese-literature-374",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "“滚滚长江东逝水，浪花淘尽英雄”这首《临江仙》如今是《三国演义》的开篇词，它的作者是谁？",
     "options": [
       "罗贯中",
@@ -5183,6 +4486,7 @@
     "id": "chinese-literature-375",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "三国",
     "question": "罗贯中写成的《三国演义》，最初的书名是什么？",
     "options": [
       "《三国志通俗演义》",
@@ -5211,6 +4515,7 @@
     "id": "chinese-literature-377",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "“伏龙、凤雏，两人得一，可安天下”，这句话是谁对刘备说的？",
     "options": [
       "水镜先生司马徽",
@@ -5225,6 +4530,7 @@
     "id": "chinese-literature-378",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "曹操平定汉中，司马懿劝他乘势攻蜀，他叹“人苦不知足，既得陇，复望蜀耶”。这话后来凝成哪个成语？",
     "options": [
       "唇亡齿寒",
@@ -5239,6 +4545,7 @@
     "id": "chinese-literature-379",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "成语“势如破竹”出自晋军灭吴时，哪位将领对众人说的话？",
     "options": [
       "羊祜",
@@ -5253,6 +4560,7 @@
     "id": "chinese-literature-380",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "成语“才高八斗”，据说是谢灵运感叹天下文才共一石，独有谁一人占了八斗？",
     "options": [
       "曹植",
@@ -5267,6 +4575,7 @@
     "id": "chinese-literature-381",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "俗语“关公战秦琼”，常用来讽刺什么荒唐事？",
     "options": [
       "强者欺负弱者的不公平对决",
@@ -5281,6 +4590,7 @@
     "id": "chinese-literature-382",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "三国",
     "question": "歇后语“张飞卖豆腐——”，下一句是？",
     "options": [
       "货真价实",
@@ -5309,6 +4619,7 @@
     "id": "chinese-literature-384",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "如今通行的120回本《三国演义》，是清初哪位评点家与父亲一起修订而成的？",
     "options": [
       "李贽",
@@ -5323,6 +4634,7 @@
     "id": "chinese-literature-385",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "三国",
     "question": "《出师表》里，诸葛亮向刘禅推荐一位将军，夸他“性行淑均，晓畅军事”。这位将军是谁？",
     "options": [
       "王平",
@@ -5337,6 +4649,7 @@
     "id": "chinese-literature-386",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "说岳",
     "question": "《说岳全传》开篇交代，岳飞的前世是佛祖座下的哪种神鸟？",
     "options": [
       "朱雀",
@@ -5351,6 +4664,7 @@
     "id": "chinese-literature-387",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "说岳",
     "question": "《说岳全传》里，岳飞考武举时，在校场上一枪挑死了谁？",
     "options": [
       "老臣宗泽",
@@ -5365,6 +4679,7 @@
     "id": "chinese-literature-388",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "说岳",
     "question": "岳飞背上的刺字，《宋史》记载是「尽忠报国」，《说岳全传》里岳母刺的却是哪四个字？",
     "options": [
       "保家卫国",
@@ -5379,6 +4694,7 @@
     "id": "chinese-literature-389",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "说岳",
     "question": "《说岳全传》里，康王赵构被金兵追到大江边，靠一匹什么「神马」渡过了江？",
     "options": [
       "白龙马",
@@ -5393,6 +4709,7 @@
     "id": "chinese-literature-390",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "说岳",
     "question": "《说岳全传》里，王佐自断一臂、诈降金营去说降陆文龙，用的是哪条计策？",
     "options": [
       "苦肉计",
@@ -5407,6 +4724,7 @@
     "id": "chinese-literature-391",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "说岳",
     "question": "《说岳全传》原著里，高宠连挑了多少辆铁滑车后战马力竭，被滑车碾死？",
     "options": [
       "十八辆",
@@ -5421,6 +4739,7 @@
     "id": "chinese-literature-392",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "说岳",
     "question": "《说岳全传》大结局里，牛皋骑在金兀术背上，兀术大喊「气死我也」当场毙命。牛皋自己怎么死的？",
     "options": [
       "力战数员金将后阵亡",
@@ -5435,6 +4754,7 @@
     "id": "chinese-literature-393",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "说岳",
     "question": "《说岳全传》里，秦桧之妻王氏在东窗下用火箸在炭灰上写下哪句话，坚定了杀岳飞之心？",
     "options": [
       "斩草除根，永绝后患",
@@ -5449,6 +4769,7 @@
     "id": "chinese-literature-394",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "说岳",
     "question": "岳飞被「十二道金牌」从前线召回，宋代所谓的「金牌」其实是什么？",
     "options": [
       "金国送来的议和文书",
@@ -5463,6 +4784,7 @@
     "id": "chinese-literature-395",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "说岳",
     "question": "岳飞父子遇害后，哪位狱卒冒死背出遗体，悄悄葬在临安城外？",
     "options": [
       "张宪",
@@ -5477,6 +4799,7 @@
     "id": "chinese-literature-396",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "说岳",
     "question": "岳飞的箭术老师周侗去世后，岳飞每逢初一、十五，会去墓前做什么？",
     "options": [
       "拉弓连射三箭祭奠",
@@ -5491,6 +4814,7 @@
     "id": "chinese-literature-397",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "杨家将",
     "question": "北宋名将杨业（杨令公）骁勇无比，史书记载他有个响当当的外号，是什么？",
     "options": [
       "杨大刀",
@@ -5505,6 +4829,7 @@
     "id": "chinese-literature-398",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "杨家将",
     "question": "评书演义里，杨令公被困两狼山，最后一头撞死在了谁的碑上？",
     "options": [
       "霍去病碑",
@@ -5519,6 +4844,7 @@
     "id": "chinese-literature-399",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "杨家将",
     "question": "评书常叫杨令公「杨继业」，可他本名杨重贵，「继业」这个名字是他早年在哪个政权被赐的？",
     "options": [
       "辽国",
@@ -5561,6 +4887,7 @@
     "id": "chinese-literature-402",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "杨家将",
     "question": "杨七郎擂台上打死了潘仁美的儿子潘豹，后来潘仁美怎样报复他？",
     "options": [
       "将他绑起来乱箭射死",
@@ -5575,6 +4902,7 @@
     "id": "chinese-literature-403",
     "category": "chinese-literature",
     "difficulty": "hard",
+    "topic": "杨家将",
     "question": "《杨家将》里的佘太君，学界一般认为其历史原型是杨业之妻，她是什么太君？",
     "options": [
       "高太君",
@@ -5589,6 +4917,7 @@
     "id": "chinese-literature-404",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "杨家将",
     "question": "为破辽国的天门阵，杨宗保去穆柯寨求取什么宝物，结果被女寨主穆桂英擒住？",
     "options": [
       "降龙木",
@@ -5603,6 +4932,7 @@
     "id": "chinese-literature-405",
     "category": "chinese-literature",
     "difficulty": "easy",
+    "topic": "杨家将",
     "question": "杨家将里有位出身「烧火丫头」的女将杨排风，她赫赫有名的「兵器」是什么？",
     "options": [
       "扁担",
@@ -5617,6 +4947,7 @@
     "id": "chinese-literature-406",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "杨家将",
     "question": "史书记载，杨延昭（杨六郎）守遂城时，寒冬里想出什么妙招，让辽军攻不上城？",
     "options": [
       "把城墙涂满桐油再点火",
@@ -5827,6 +5158,7 @@
     "id": "chinese-literature-421",
     "category": "chinese-literature",
     "difficulty": "medium",
+    "topic": "说岳",
     "question": "1979年，评书《岳飞传》通过电台广播风靡全国，让哪位评书演员一举成名？",
     "options": [
       "单田芳",

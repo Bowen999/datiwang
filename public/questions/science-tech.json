@@ -4002,5 +4002,1783 @@
     ],
     "correctAnswer": 1,
     "explanation": "抖音2016年9月上线时定位是音乐短视频社区，次年才推出海外版TikTok，短短几年就从一款“跳舞神器”长成了国民级应用。"
+  },
+  {
+    "id": "science-tech-287",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "《天体运行论》付印时，被人擅自加了篇匿名序言，称日心说只是计算用的假设。加序言的是谁？",
+    "options": [
+      "哥白尼的学生雷蒂库斯",
+      "路德宗牧师奥西安德尔",
+      "教皇保罗三世",
+      "印刷商彼得雷乌斯"
+    ],
+    "correctAnswer": 1,
+    "explanation": "奥西安德尔是接手校印的路德宗牧师，他怕日心说惹怒教会和神学家，便自作主张把它说成只是便于推算的数学工具。哥白尼本人的立场恰恰相反，学生雷蒂库斯得知后勃然大怒。"
+  },
+  {
+    "id": "science-tech-288",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "丹麦天文学家第谷年轻时因争论「谁的数学更强」和人决斗，结果丢了什么？",
+    "options": [
+      "一部分鼻子",
+      "一只眼睛",
+      "一只耳朵",
+      "两根手指"
+    ],
+    "correctAnswer": 0,
+    "explanation": "他此后一直戴着金属义鼻。民间传说那是金银打造的，2010年开棺检测却发现其实是黄铜。他留下的火星观测数据，后来帮开普勒发现了行星轨道是椭圆。"
+  },
+  {
+    "id": "science-tech-289",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "「伽利略在比萨斜塔同时扔下两个铁球」的故事，最早出自哪里？",
+    "options": [
+      "他的学生维维亚尼所写的传记",
+      "罗马教廷的审判记录",
+      "同时代旅行家的游记",
+      "他女儿的书信"
+    ],
+    "correctAnswer": 0,
+    "explanation": "维维亚尼的传记写于1654年，伽利略去世十多年之后，多数史学家认为斜塔实验更像传说或思想实验。有据可查的类似实验，是1586年荷兰的斯蒂文等人从教堂塔上抛下铅球。"
+  },
+  {
+    "id": "science-tech-290",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "1971年，阿波罗15号宇航员在月球上同时松手放下锤子和羽毛，会发生什么？",
+    "options": [
+      "羽毛先落地",
+      "同时落地",
+      "羽毛慢悠悠飘落",
+      "锤子先落地"
+    ],
+    "correctAnswer": 1,
+    "explanation": "月球几乎没有大气，羽毛不受空气阻力，和锤子一起砸进了月尘。指令长斯科特当场感慨：伽利略先生是对的。"
+  },
+  {
+    "id": "science-tech-291",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "「大爆炸」这个名字，最早出自一位并不相信该理论的英国天文学家之口，他是？",
+    "options": [
+      "弗雷德·霍伊尔",
+      "乔治·伽莫夫",
+      "乔治·勒梅特",
+      "史蒂芬·霍金"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1949年，霍伊尔在BBC广播里用「大爆炸」形容对手阵营的宇宙模型，他自己主张宇宙是稳恒不变的。他后来否认这是讽刺，只说是个形象的说法，但这个名字从此流传开来。"
+  },
+  {
+    "id": "science-tech-292",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "1986年挑战者号事故听证会上，费曼用一杯冰水和一小块橡胶圈当场演示了什么？",
+    "options": [
+      "橡胶在真空中会膨胀爆裂",
+      "火箭燃料遇冷会结块",
+      "低温下橡胶密封圈会失去弹性",
+      "冰水能让金属迅速开裂"
+    ],
+    "correctAnswer": 2,
+    "explanation": "费曼把助推器密封用的O型环样品夹紧后浸进冰水，取出后它久久无法回弹。事故发射那天异常寒冷，远低于以往任何一次发射。"
+  },
+  {
+    "id": "science-tech-293",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "牛顿的《自然哲学的数学原理》能够问世，靠一位好友劝他动笔，还自掏腰包出版。这位好友是？",
+    "options": [
+      "埃德蒙·哈雷",
+      "克里斯托弗·雷恩",
+      "罗伯特·胡克",
+      "罗伯特·波义耳"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1684年哈雷登门请教行星轨道问题，牛顿说自己早就算过，哈雷便一再催他写成书。当时皇家学会拿不出出版经费，哈雷自己垫钱印了出来。"
+  },
+  {
+    "id": "science-tech-294",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "1919年，爱丁顿远赴西非小岛拍摄日全食，想验证爱因斯坦的什么预言？",
+    "options": [
+      "光在真空中速度不变",
+      "高速运动的时钟会变慢",
+      "星光经过太阳附近会弯曲",
+      "质量和能量可以互相转化"
+    ],
+    "correctAnswer": 2,
+    "explanation": "日全食时太阳的光芒被遮住，才能拍到太阳边缘的星星。结果显示星光确实发生了偏折，与广义相对论的预言相符，消息传开后，爱因斯坦成了家喻户晓的世界名人。"
+  },
+  {
+    "id": "science-tech-295",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "1820年，奥斯特在一次课堂演示中发现了什么现象，揭开了电磁学的序幕？",
+    "options": [
+      "运动的磁铁能在线圈中产生电流",
+      "通电导线会让旁边的小磁针偏转",
+      "闪电会使指南针失灵",
+      "摩擦过的琥珀能吸起纸屑"
+    ],
+    "correctAnswer": 1,
+    "explanation": "一根通电的导线竟让附近的磁针猛地偏了一下，电和磁第一次被证明有联系。消息传出后，安培、法拉第等人迅速跟进，电动机和发电机随后应运而生。"
+  },
+  {
+    "id": "science-tech-296",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "18世纪末，伽伐尼发现青蛙腿碰到金属会抽搐，他认为这股电来自哪里？",
+    "options": [
+      "两种金属的接触",
+      "青蛙自身的「动物电」",
+      "空气中的静电",
+      "解剖刀上的磁性"
+    ],
+    "correctAnswer": 1,
+    "explanation": "伏特不同意，认为电来自两种不同金属的接触，并在争论中发明了伏打电堆，也就是世界上第一个电池。其实两人各对了一半：金属接触确实能产生电压，动物体内也确实存在生物电。"
+  },
+  {
+    "id": "science-tech-297",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "赫兹用实验证明电磁波存在后，被问到这有什么用，他怎么回答？",
+    "options": [
+      "「它能让人隔着大洋通话」",
+      "「没什么用，只是证明麦克斯韦是对的」",
+      "「它可以取代所有电线」",
+      "「它会彻底改变战争」"
+    ],
+    "correctAnswer": 1,
+    "explanation": "赫兹36岁就去世了，没能看到电磁波的用途，不久之后马可尼就用它发明了无线电报。为了纪念他，频率的单位被命名为「赫兹」。"
+  },
+  {
+    "id": "science-tech-298",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "1942年首座核反应堆成功运行后，电话暗语说「意大利航海家已登上新大陆」，「航海家」指谁？",
+    "options": [
+      "阿尔伯特·爱因斯坦",
+      "罗伯特·奥本海默",
+      "恩里科·费米",
+      "尼尔斯·玻尔"
+    ],
+    "correctAnswer": 2,
+    "explanation": "康普顿打电话给哈佛校长康南特：「意大利航海家已抵达新大陆。」对方问：「当地人友好吗？」答：「非常友好。」意思是链式反应顺利可控。这座反应堆就建在芝加哥大学橄榄球场的看台下面。"
+  },
+  {
+    "id": "science-tech-299",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "1944年诺贝尔化学奖只授予了发现核裂变的哈恩，被遗漏的是从理论上解释裂变的哪位女物理学家？",
+    "options": [
+      "伊雷娜·约里奥-居里",
+      "玛丽亚·梅耶",
+      "莉泽·迈特纳",
+      "多萝西·霍奇金"
+    ],
+    "correctAnswer": 2,
+    "explanation": "迈特纳因犹太血统被迫逃离德国，在流亡中与外甥弗里施用「液滴模型」解释了铀核为何分裂，「裂变」一词还是弗里施向生物学家借来的。1997年，第109号元素以她的名字命名为「鿏」。"
+  },
+  {
+    "id": "science-tech-300",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "19世纪初，泊松想用「圆盘阴影中心该有亮点」的推论驳倒光的波动说，结果怎样？",
+    "options": [
+      "阴影中心纯黑一片",
+      "实验中亮点真的出现了",
+      "亮点忽明忽暗",
+      "亮点出现在阴影外围"
+    ],
+    "correctAnswer": 1,
+    "explanation": "泊松是评审委员，他推算出菲涅耳的波动理论会得出这个荒谬结论，可1819年阿拉戈亲手做了实验，圆盘阴影中心果然出现了亮斑。「泊松亮斑」反倒成了波动说的铁证。"
+  },
+  {
+    "id": "science-tech-301",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "1676年，罗默靠观察木星的哪种现象，首次推断出光速是有限的？",
+    "options": [
+      "木星自转周期的缓慢变化",
+      "木星大红斑的移动速度",
+      "木星亮度的周期起伏",
+      "木卫一进出木星阴影的时刻忽早忽晚"
+    ],
+    "correctAnswer": 3,
+    "explanation": "地球靠近木星时，木卫一进出木星阴影的时刻比预测更早，远离时则更晚。罗默由此推断：光走这段多出来的路需要时间。他估算的光速虽然偏小，却是人类第一次证明光速有限。"
+  },
+  {
+    "id": "science-tech-302",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "1669年，德国炼金术士为找「点金石」而蒸煮大量什么，意外得到了会发光的磷？",
+    "options": [
+      "木炭",
+      "动物骨头",
+      "海水",
+      "尿液"
+    ],
+    "correctAnswer": 3,
+    "explanation": "布兰德囤了大批尿液，煮成糊状再猛火灼烧，竟得到一种在黑暗中发出幽幽冷光的白色蜡状物。「磷」在希腊语里意为「带来光明者」，他通常被视为第一个有明确记载的元素发现者。"
+  },
+  {
+    "id": "science-tech-303",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "提出近代原子论的道尔顿，还有一种以他姓氏命名的「道尔顿症」，指的是什么？",
+    "options": [
+      "夜盲",
+      "健忘症",
+      "色盲",
+      "失读症"
+    ],
+    "correctAnswer": 2,
+    "explanation": "道尔顿发现自己和弟弟分不清红色与绿色，1794年发表了对色盲的早期系统描述，所以色盲在不少语言里就叫「道尔顿症」。1995年，人们对他保存下来的眼球做检测，证实他确实是红绿色盲。"
+  },
+  {
+    "id": "science-tech-304",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "1828年，维勒在实验室用无机物意外合成了尿素，动摇了哪种流行观念？",
+    "options": [
+      "有机物只能由生命体产生",
+      "水是一种基本元素",
+      "一切物质都由原子构成",
+      "空气里含有氧气"
+    ],
+    "correctAnswer": 0,
+    "explanation": "维勒本想合成氰酸铵，得到的白色晶体却是尿素，一种当时被认为只有生物体才能制造的有机物。他给老师写信说：「我不用肾脏就能造出尿素。」此后「生命力论」才逐渐瓦解。"
+  },
+  {
+    "id": "science-tech-305",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "据凯库勒自述，他是梦见什么，才悟出苯分子是首尾相连的环状结构？",
+    "options": [
+      "一条盘旋上升的楼梯",
+      "一群手拉手跳舞的小人",
+      "一个不停转动的车轮",
+      "一条蛇咬住自己的尾巴"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1890年他在纪念会上讲起这个梦：蛇咬住尾巴的画面，让他想到苯的六个碳原子首尾相连成环。有学者怀疑这是他事后编的故事，但它早已成为科学史上最出名的「梦中灵感」。"
+  },
+  {
+    "id": "science-tech-306",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "1856年，18岁的珀金想合成抗疟药奎宁，却意外得到了什么，催生了合成染料工业？",
+    "options": [
+      "一种黑色墨水",
+      "一种黄色颜料",
+      "一种红色染料",
+      "一种紫色染料"
+    ],
+    "correctAnswer": 3,
+    "explanation": "复活节假期，他躲在自家花园的小棚屋里做实验，烧瓶里的残渣竟能把丝绸染成鲜艳的紫色，这就是「苯胺紫」。此前紫色染料极为昂贵，他很快办起了工厂，掀起了合成染料的热潮。"
+  },
+  {
+    "id": "science-tech-307",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "居里夫妇1898年发现的新元素「钋」，是为纪念居里夫人的祖国而命名的，这个国家是？",
+    "options": [
+      "波兰",
+      "法国",
+      "俄罗斯",
+      "德国"
+    ],
+    "correctAnswer": 0,
+    "explanation": "当时的波兰被俄、普、奥三国瓜分，地图上并不存在。居里夫人希望借新元素的名字让世人关注祖国的处境，钋可能是第一个带有政治色彩的元素名。"
+  },
+  {
+    "id": "science-tech-308",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "瑞利发现，从空气中提取的氮气总比化学法制得的氮气略重，追查到底后发现了什么？",
+    "options": [
+      "氩",
+      "氡",
+      "氖",
+      "氦"
+    ],
+    "correctAnswer": 0,
+    "explanation": "两者的密度只差约千分之五，瑞利没有把它当作误差放过。1894年他与拉姆齐从「空气氮」里分离出一种几乎不参与反应的新气体，取名「氩」，希腊语意为「懒惰」。"
+  },
+  {
+    "id": "science-tech-309",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "首次用自制显微镜看到「微小动物」的列文虎克，本职工作是什么？",
+    "options": [
+      "大学教授",
+      "药剂师",
+      "眼镜匠",
+      "布料商人"
+    ],
+    "correctAnswer": 3,
+    "explanation": "他是荷兰代尔夫特的布商，没上过大学，为了看清布料的织线才自己磨透镜。后来他在雨水、牙垢里看到了会动的「微小动物」，也就是细菌和原生生物，并写信向英国皇家学会汇报了大量发现。"
+  },
+  {
+    "id": "science-tech-310",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "1847年，哪位医生要求同事接生前用漂白粉水洗手，产妇死亡率骤降，自己却遭同行排挤？",
+    "options": [
+      "李斯特",
+      "巴斯德",
+      "塞麦尔维斯",
+      "詹纳"
+    ],
+    "correctAnswer": 2,
+    "explanation": "在维也纳总医院，医生从解剖室直接去接生的病房，产褥热死亡率远高于助产士病房；强制洗手后，死亡率从约18%降到2%左右。可他讲不出原理，被嘲笑排挤，直到细菌学说兴起后才被证明是对的。"
+  },
+  {
+    "id": "science-tech-311",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "漱口水「李施德林」的名字，来自哪位推广外科消毒法的医生？",
+    "options": [
+      "路易·巴斯德",
+      "弗洛伦斯·南丁格尔",
+      "约瑟夫·李斯特",
+      "罗伯特·科赫"
+    ],
+    "correctAnswer": 2,
+    "explanation": "19世纪60年代，李斯特用石炭酸（苯酚）给手术器械、伤口和空气消毒，术后感染死亡率大幅下降，被称为「外科消毒之父」。1879年，美国圣路易斯的一位化学家借用他的名字，命名了自己配制的消毒液。"
+  },
+  {
+    "id": "science-tech-312",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "1816年，法国医生雷奈克为了避免把耳朵直接贴上女病人的胸口，随手卷起了什么，发明了听诊器？",
+    "options": [
+      "一条毛巾",
+      "一只小喇叭",
+      "一卷纸",
+      "一根竹管"
+    ],
+    "correctAnswer": 2,
+    "explanation": "他发现纸筒不但化解了尴尬，听到的心跳声还比直接贴耳更清晰，随后改用木管。「听诊器」一词来自希腊语的「胸」和「观察」。"
+  },
+  {
+    "id": "science-tech-313",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "美国遗传学家麦克林托克研究哪种作物，发现了「跳跃基因」，却被冷落几十年才获诺奖？",
+    "options": [
+      "豌豆",
+      "玉米",
+      "水稻",
+      "小麦"
+    ],
+    "correctAnswer": 1,
+    "explanation": "她发现玉米籽粒上斑驳的颜色，是基因会在染色体上「跳来跳去」造成的。当时的同行难以接受，她从1953年起不再发表这方面的研究。1983年，年过八旬的她独享了诺贝尔生理学或医学奖。"
+  },
+  {
+    "id": "science-tech-314",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "17世纪哈维推翻旧说、提出血液循环，最有力的论据竟是一笔「算术账」，算的是什么？",
+    "options": [
+      "心脏泵出的血量远超人体的血量",
+      "全身血管的总长度",
+      "血液颜色的深浅变化",
+      "脉搏次数与年龄的关系"
+    ],
+    "correctAnswer": 0,
+    "explanation": "盖伦认为血液在肝脏生成、在全身被消耗掉。哈维粗略一算：心脏一天泵出的血比人体总重还多，人不可能造出这么多血，只能是同一批血在体内循环。他的《心血运动论》于1628年出版。"
+  },
+  {
+    "id": "science-tech-315",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "1848年，铁路工人盖奇被一根铁棍从脸颊贯穿头顶却活了下来。据医生记录，他之后最明显的变化是？",
+    "options": [
+      "无法行走",
+      "双目失明",
+      "性格大变",
+      "忘记母语"
+    ],
+    "correctAnswer": 2,
+    "explanation": "铁棍穿过了他的左侧额叶。医生哈洛记载，原本稳重的盖奇变得易怒、爱说脏话，朋友说他「不再是盖奇了」。这成了「大脑不同区域负责不同功能」的著名案例，不过后人指出，这些描述有不少夸大。"
+  },
+  {
+    "id": "science-tech-316",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "1854年伦敦霍乱期间，医生斯诺靠给病例「点地图」，最终把矛头指向了什么？",
+    "options": [
+      "街头一口公用水井的水泵",
+      "一家拥挤的肉铺",
+      "泰晤士河上的雾气",
+      "附近的一片墓地"
+    ],
+    "correctAnswer": 0,
+    "explanation": "当时的主流看法是「瘴气」致病。斯诺发现死者集中在宽街水泵周围，说服官员卸下了水泵把手，他也因此被视为流行病学的奠基人。不过，当时疫情其实已在自然减退。"
+  },
+  {
+    "id": "science-tech-317",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "为证明胃病与细菌有关，澳大利亚医生马歇尔1984年做了一件疯狂的事，是什么？",
+    "options": [
+      "给自己注射大量胃酸",
+      "亲自喝下含幽门螺杆菌的培养液",
+      "连续一周只吃辣椒",
+      "把细菌喂给自己的学生"
+    ],
+    "correctAnswer": 1,
+    "explanation": "几天后他果然得了严重的胃炎，随后用抗生素治好了自己。马歇尔和沃伦因发现幽门螺杆菌获得2005年诺贝尔生理学或医学奖，此后胃溃疡才被当作一种可以治愈的细菌感染。"
+  },
+  {
+    "id": "science-tech-318",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "链霉素是首个能治肺结核的抗生素，诺贝尔奖只发给了瓦克斯曼，法院却判定谁也是共同发现者？",
+    "options": [
+      "他的博士生沙茨",
+      "他的合作者弗洛里",
+      "资助他的药厂老板",
+      "青霉素的弗莱明"
+    ],
+    "correctAnswer": 0,
+    "explanation": "沙茨是瓦克斯曼在罗格斯大学的博士生，在地下室里埋头筛选菌株，几个月就分离出了链霉素。后来他因专利收益问题告上法庭，法院判他是共同发现者，但此后他很难再进入一流的微生物实验室。"
+  },
+  {
+    "id": "science-tech-319",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "1952年，米勒在烧瓶里模拟远古地球的闪电和大气，几天后水中出现了什么？",
+    "options": [
+      "多种氨基酸",
+      "会动的细胞",
+      "DNA长链",
+      "完整的细菌"
+    ],
+    "correctAnswer": 0,
+    "explanation": "他用甲烷、氨、氢和水蒸气模拟原始大气，连续放电约一周，检测到了多种氨基酸。这首次表明，构成生命的「积木」可能在原始地球上自然生成；不过后来有人认为，他当时设定的大气成分并不准确。"
+  },
+  {
+    "id": "science-tech-320",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "为巴贝奇的「分析机」写下被称为最早公开发表的计算机程序的阿达，父亲是哪位诗人？",
+    "options": [
+      "雪莱",
+      "拜伦",
+      "济慈",
+      "华兹华斯"
+    ],
+    "correctAnswer": 1,
+    "explanation": "阿达翻译一篇介绍分析机的论文时，加上了篇幅远超原文的注释，其中一份计算伯努利数的步骤，常被称为世界上第一个公开发表的计算机程序。不过史学界对「第一位程序员」的头衔有争议，因为巴贝奇本人也写过程序。"
+  },
+  {
+    "id": "science-tech-321",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "1946年，早期电子计算机ENIAC诞生时，负责为它「编程」的主力是一群什么人？",
+    "options": [
+      "年轻的女数学家",
+      "退役的海军军官",
+      "电报员",
+      "大学教授"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ENIAC没有键盘和屏幕，得靠插拔电缆、拨动数以千计的开关来「编程」，这份活儿落在六位年轻女性身上。她们长期没有得到公开承认，直到1997年才入选国际女性科技名人堂。"
+  },
+  {
+    "id": "science-tech-322",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "二战中，图灵在英国布莱切利园带队破解的是德军的哪种密码机？",
+    "options": [
+      "日本「紫密」",
+      "恩尼格玛",
+      "洛伦兹密码机",
+      "美国M-209"
+    ],
+    "correctAnswer": 1,
+    "explanation": "图灵设计了名为「炸弹机」的机电装置，大大加快了对恩尼格玛密码的破译。这份功绩因严格保密，直到战后很多年才逐渐为公众所知。"
+  },
+  {
+    "id": "science-tech-323",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "1913年，一位印度小职员把满纸自创公式的信寄给英国数学家哈代，因此被请到剑桥。他是？",
+    "options": [
+      "拉马努金",
+      "拉曼",
+      "博斯",
+      "钱德拉塞卡"
+    ],
+    "correctAnswer": 0,
+    "explanation": "他几乎全靠自学，信里的公式有些连哈代都没法证明，起初哈代还怀疑是骗子。拉马努金自称这些灵感来自家乡的女神娜玛卡尔。"
+  },
+  {
+    "id": "science-tech-324",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "古希腊的埃拉托色尼靠比较两地的什么，估算出了地球的周长？",
+    "options": [
+      "北极星的亮度",
+      "夏至正午的日影",
+      "海平线的高度",
+      "月食的时间"
+    ],
+    "correctAnswer": 1,
+    "explanation": "早在公元前3世纪，他听说塞恩的井底在夏至正午能被阳光直射，而亚历山大同一时刻的竿影有约7.2度的夹角，再乘以两地距离，算出地球周长约25万斯塔迪亚，与真实值相当接近。"
+  },
+  {
+    "id": "science-tech-325",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "1911年，阿蒙森抢在英国人斯科特之前抵达南极点，他的团队主要靠什么赶路？",
+    "options": [
+      "满洲矮种马",
+      "人力拉雪橇",
+      "机动雪橇",
+      "狗拉雪橇"
+    ],
+    "correctAnswer": 3,
+    "explanation": "阿蒙森学习因纽特人的经验，靠狗拉雪橇，并沿途设了补给站；斯科特队依靠矮种马和人力拉雪橇，到达南极点时发现挪威人早到了一个多月，返程途中全队遇难。"
+  },
+  {
+    "id": "science-tech-326",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "19世纪末的「电流之战」中，特斯拉和威斯汀豪斯押注的是哪种电？",
+    "options": [
+      "静电",
+      "脉冲电",
+      "直流电",
+      "交流电"
+    ],
+    "correctAnswer": 3,
+    "explanation": "爱迪生阵营主推直流电，而交流电可以升压后远距离输送，最终胜出。尼亚加拉瀑布水电站建成后向布法罗输送交流电，被视为这场战争的转折点。"
+  },
+  {
+    "id": "science-tech-327",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "1888年，贝尔塔·本茨瞒着丈夫开车远行，途中木刹车失灵，鞋匠给它钉上什么，成了首副刹车片？",
+    "options": [
+      "橡胶",
+      "皮革",
+      "麻布",
+      "铁皮"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这趟约106公里的旅程既是长途试驾，也是最好的广告：她还在药店买了石油溶剂当燃料，用帽针疏通油管，用袜带当绝缘材料。她的丈夫卡尔·本茨，是汽车发明者之一。"
+  },
+  {
+    "id": "science-tech-328",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "1838年达盖尔拍下巴黎街景，是已知最早拍到人的照片，可为何繁忙的街上只留下一两个人影？",
+    "options": [
+      "拍摄时正值清晨，街上本就没人",
+      "银版对人影不感光",
+      "行人都被后期涂掉了",
+      "曝光长达几分钟，走动的人没被记录"
+    ],
+    "correctAnswer": 3,
+    "explanation": "那张银版照片曝光了四五分钟，川流不息的车马行人都没能留下影像，只有站着擦皮鞋的人一动不动，成了已知最早被相机拍下的人物。"
+  },
+  {
+    "id": "science-tech-329",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "1844年，莫尔斯用电报机从华盛顿向巴尔的摩发出的第一条正式电文是？",
+    "options": [
+      "「祝全世界平安！」",
+      "「你好，巴尔的摩！」",
+      "「电报将征服距离！」",
+      "「上帝创造了何等奇迹！」"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这句话出自《圣经·民数记》，是专利局局长的女儿安妮·埃尔斯沃思挑选的。电文从国会大厦里的最高法院会议厅发出，收报处是巴尔的摩的一座火车站。"
+  },
+  {
+    "id": "science-tech-330",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "1902年开利发明现代空调，最初是为了解决一家印刷厂的什么难题？",
+    "options": [
+      "机器过热引发火灾",
+      "夏天工人热得无法工作",
+      "湿度变化让纸张涨缩、套色对不准",
+      "油墨在冬天冻住"
+    ],
+    "correctAnswer": 2,
+    "explanation": "夏天潮湿时纸张会胀缩，彩色印刷要过好几遍机器，每一遍的套印就对不齐。开利设计的设备不但降温，更重要的是控制湿度。所以空调最初是为了让纸张「听话」，而不是让人凉快。"
+  },
+  {
+    "id": "science-tech-331",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "魔术贴的灵感，来自发明者带狗打猎回来后，粘满裤腿和狗毛的什么？",
+    "options": [
+      "蜘蛛丝",
+      "松脂",
+      "蒲公英种子",
+      "牛蒡刺果"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1941年，瑞士工程师德梅斯特拉尔从阿尔卑斯山打猎回来，被牛蒡刺果粘得满身，放到显微镜下一看，果实上全是能勾住线圈的小钩子。他又花了约十年，才用尼龙做出魔术贴。"
+  },
+  {
+    "id": "science-tech-332",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "1969年，计算机首次通过阿帕网互传信息，只传出「LO」两个字母系统就崩溃了，它本想发送哪个词？",
+    "options": [
+      "LOVE",
+      "LOAD",
+      "LOOK",
+      "LOGIN"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1969年10月29日，加州大学洛杉矶分校向斯坦福研究所发送「LOGIN」（登录），输到第二个字母时系统崩溃，随后调整重试才成功登录。这两个字母，就是互联网前身传出的第一条信息。"
+  },
+  {
+    "id": "science-tech-333",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "1957年，「八叛逆」离开肖克利的实验室自立门户，创办了后来催生硅谷的哪家公司？",
+    "options": [
+      "仙童半导体",
+      "德州仪器",
+      "英特尔",
+      "苹果"
+    ],
+    "correctAnswer": 0,
+    "explanation": "肖克利是晶体管的发明人之一，却因管理苛刻，让八位年轻人集体出走。仙童后来孕育了英特尔、AMD等一大批公司，被称为硅谷的「孵化器」；「硅谷」之名，也来自用硅制造的半导体芯片。"
+  },
+  {
+    "id": "science-tech-334",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "古腾堡在15世纪造印刷机时，改造了哪种农家常用的机械？",
+    "options": [
+      "纺织机",
+      "水磨",
+      "钟表",
+      "榨葡萄酒的螺旋压榨机"
+    ],
+    "correctAnswer": 3,
+    "explanation": "螺旋压榨机早在罗马时代就有，农民用它压葡萄酿酒、榨橄榄油。古腾堡把它改造成能均匀施压的印刷机，再配上可拆换的金属活字和油性油墨，1450年代印出了《42行圣经》。"
+  },
+  {
+    "id": "science-tech-335",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "「石油」这个名字，最早由北宋哪位科学家在著作中提出，还预言它「必大行于世」？",
+    "options": [
+      "沈括",
+      "宋应星",
+      "郭守敬",
+      "苏颂"
+    ],
+    "correctAnswer": 0,
+    "explanation": "沈括在《梦溪笔谈》里记录了陕北延州一带的石油，还试着用它燃烧的烟灰制墨，发现「黑光如漆，松墨不及」。他断言这东西日后必将大行于世。"
+  },
+  {
+    "id": "science-tech-336",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "北宋苏颂水运仪象台里，控制水轮匀速转动的「天衡」装置，被视为后世钟表哪个核心部件的先驱？",
+    "options": [
+      "游丝",
+      "发条",
+      "擒纵器",
+      "表冠"
+    ],
+    "correctAnswer": 2,
+    "explanation": "水运仪象台高约12米，集观测、演示和报时于一体，还有木人按时出来击鼓摇铃。李约瑟称它是欧洲天文钟的直接祖先，其中「天衡」被认为是擒纵机构的先驱。"
+  },
+  {
+    "id": "science-tech-337",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "《九章算术》最早提出了负数。古人用算筹计算时，正数用哪种颜色的算筹表示？",
+    "options": [
+      "红色",
+      "黑色",
+      "白色",
+      "黄色"
+    ],
+    "correctAnswer": 0,
+    "explanation": "刘徽为《九章算术》作注时写道「正算赤，负算黑」：红筹代表正数，黑筹代表负数，与今天财务上用红字表示亏损（赤字）的习惯正好相反。西方直到17世纪才普遍接受负数。"
+  },
+  {
+    "id": "science-tech-338",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "祖冲之的儿子祖暅提出的「幂势既同，则积不容异」，在西方被称为什么原理？",
+    "options": [
+      "阿基米德原理",
+      "卡瓦列里原理",
+      "帕斯卡原理",
+      "伯努利原理"
+    ],
+    "correctAnswer": 1,
+    "explanation": "意思是两个等高的立体，如果各处截面积都相等，体积就相等。祖暅在5至6世纪前后用它推出了球的体积，比意大利人卡瓦列里的同类发现早了一千多年。"
+  },
+  {
+    "id": "science-tech-339",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "南宋宋慈所著的《洗冤集录》，被公认是世界上最早的一部系统的什么著作？",
+    "options": [
+      "天文学",
+      "药物学",
+      "法医学",
+      "地理学"
+    ],
+    "correctAnswer": 2,
+    "explanation": "该书成于1247年，比欧洲第一部法医学专著（1598年）早了三百多年，详细记载了验尸、辨别死因和急救方法，后来被翻译成多种文字。"
+  },
+  {
+    "id": "science-tech-340",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "中国的量子科学实验卫星取名「墨子号」，是因为墨子最早做过哪项光学实验？",
+    "options": [
+      "三棱镜色散",
+      "凹面镜聚光",
+      "小孔成像",
+      "光的干涉"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《墨经》记载了世界上最早的小孔成像实验，指出光沿直线传播。2016年8月，「墨子号」从酒泉发射升空，是世界首颗量子科学实验卫星。"
+  },
+  {
+    "id": "science-tech-341",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "2019年嫦娥四号首次在月球背面软着陆，为了让它与地球通信，事先发射了哪颗卫星当「中继站」？",
+    "options": [
+      "东方红",
+      "鹊桥",
+      "北斗",
+      "天宫"
+    ],
+    "correctAnswer": 1,
+    "explanation": "月球背面永远背对地球，信号会被月球挡住。2018年5月，「鹊桥」中继星升空，进入地月拉格朗日L2点附近的轨道，像神话里的鹊桥一样，把月背和地球连了起来。"
+  },
+  {
+    "id": "science-tech-342",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "1970年发射的中国第一颗人造地球卫星「东方红一号」，在太空中向地面播放的是什么？",
+    "options": [
+      "一段录音讲话",
+      "《义勇军进行曲》",
+      "「嘀嘀」的电报声",
+      "《东方红》乐曲"
+    ],
+    "correctAnswer": 3,
+    "explanation": "卫星以20.009兆赫向地面播送《东方红》乐曲，地面上能直接收听到。它的设计寿命只有20天，实际工作了28天，卫星本体至今仍在轨道上飞行。"
+  },
+  {
+    "id": "science-tech-343",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "1957年杨振宁、李政道因「宇称不守恒」获诺贝尔奖，用钴-60实验证实预言却未获奖的物理学家是？",
+    "options": [
+      "谢希德",
+      "王承书",
+      "何泽慧",
+      "吴健雄"
+    ],
+    "correctAnswer": 3,
+    "explanation": "吴健雄的实验证明，弱相互作用中宇称确实不守恒，是杨、李理论的关键证据。她多次获得诺贝尔奖提名却始终未能获奖，1978年成为首位沃尔夫物理学奖得主，被称为「中国的居里夫人」。"
+  },
+  {
+    "id": "science-tech-344",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "只有初中学历的华罗庚，因数学论文被清华数学系主任发现，请到了清华，这位伯乐是？",
+    "options": [
+      "陈省身",
+      "姜立夫",
+      "熊庆来",
+      "苏步青"
+    ],
+    "correctAnswer": 2,
+    "explanation": "华罗庚家境贫寒，自学成才，1929年至1930年间接连发表论文，引起了熊庆来的注意。1931年起，他在清华一边工作一边学习，后来成为中国现代数学的奠基人之一。"
+  },
+  {
+    "id": "science-tech-345",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "陈景润推进哥德巴赫猜想的著名成果，被简称为「几加几」？",
+    "options": [
+      "2+2",
+      "1+2",
+      "1+3",
+      "1+1"
+    ],
+    "correctAnswer": 1,
+    "explanation": "他证明了每个充分大的偶数，都是一个素数与一个「不超过两个素数之积」的数之和，即「1+2」，被称为陈氏定理。要彻底证明猜想，还差最后一步「1+1」。他是华罗庚的学生。"
+  },
+  {
+    "id": "science-tech-346",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "杂交水稻的关键突破口，是袁隆平团队在海南发现的野生稻「野败」，它有什么关键特点？",
+    "options": [
+      "耐盐碱",
+      "花粉败育，雄性不育",
+      "植株特别矮",
+      "抗稻瘟病"
+    ],
+    "correctAnswer": 1,
+    "explanation": "雄性不育的稻株自己不能结种，只能靠别的品种授粉，这让大规模生产杂交种子成为可能。20世纪70年代初，助手李必湖、冯克珊在海南发现了它，1973年袁隆平团队育成籼型杂交水稻「三系」配套。"
+  },
+  {
+    "id": "science-tech-347",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "被称为「糖丸爷爷」的顾方舟，研制的糖丸疫苗预防的是哪种疾病？",
+    "options": [
+      "天花",
+      "麻疹",
+      "结核病",
+      "小儿麻痹症"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1962年，他把疫苗做成裹着糖衣的糖丸，孩子当糖吃就能预防疾病，在室温下还能保存约一周，方便偏远地区使用。2000年，中国通过了消灭脊髓灰质炎的证实。"
+  },
+  {
+    "id": "science-tech-348",
+    "category": "science-tech",
+    "difficulty": "hard",
+    "question": "1957年除夕，微生物学家汤飞凡为证明沙眼病原体的致病性，做了一件什么事？",
+    "options": [
+      "把它掺进饮水里自己喝下",
+      "只在猴子身上反复试验",
+      "把它接种到自己的眼睛里",
+      "让志愿者接种后观察半年"
+    ],
+    "correctAnswer": 2,
+    "explanation": "他1955年在世界上首次分离出沙眼病原体，为了证明它就是元凶，除夕那天亲手把它接种进自己的眼睛，出现了典型的沙眼症状，硬撑了四十多天才接受治疗。"
+  },
+  {
+    "id": "science-tech-349",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "詹天佑主持修建京张铁路时，为让火车爬上陡坡，在青龙桥一带采用了什么独特的线路设计？",
+    "options": [
+      "缆索拉升",
+      "螺旋盘山线",
+      "「人」字形线路",
+      "齿轨爬坡"
+    ],
+    "correctAnswer": 2,
+    "explanation": "列车爬到折返点后换向，再沿另一条线继续上行，线路像个「人」字，八达岭隧道因此从约1800米缩短到约1090米。京张铁路1909年通车，是中国人自己设计并建造的第一条铁路。"
+  },
+  {
+    "id": "science-tech-350",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "声音不能在下列哪种环境中传播？",
+    "options": [
+      "水中",
+      "空气中",
+      "真空中",
+      "钢铁中"
+    ],
+    "correctAnswer": 2,
+    "explanation": "声音传播需要介质，真空中没有介质，声音无法传播，所以太空是寂静的。"
+  },
+  {
+    "id": "science-tech-351",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "光在真空中的速度约为每秒多少千米？",
+    "options": [
+      "3万千米",
+      "30万千米",
+      "300万千米",
+      "3000万千米"
+    ],
+    "correctAnswer": 1,
+    "explanation": "光速约为30万千米/秒（精确为299792千米/秒），是目前已知最快的速度。"
+  },
+  {
+    "id": "science-tech-352",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "放大镜利用的是哪种透镜？",
+    "options": [
+      "凹透镜",
+      "凸透镜",
+      "平面镜",
+      "棱镜"
+    ],
+    "correctAnswer": 1,
+    "explanation": "放大镜是凸透镜，物体放在焦点以内时成正立放大的虚像。"
+  },
+  {
+    "id": "science-tech-353",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "近视眼应该佩戴哪种透镜矫正？",
+    "options": [
+      "凸透镜",
+      "凹透镜",
+      "平面镜",
+      "不用戴眼镜"
+    ],
+    "correctAnswer": 1,
+    "explanation": "近视是像成在视网膜前，用凹透镜（发散透镜）把光线适当发散来矫正。"
+  },
+  {
+    "id": "science-tech-354",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "老花眼（远视）佩戴的眼镜是？",
+    "options": [
+      "凹透镜",
+      "凸透镜",
+      "变色镜",
+      "墨镜"
+    ],
+    "correctAnswer": 1,
+    "explanation": "远视是像成在视网膜后，用凸透镜（会聚透镜）矫正。"
+  },
+  {
+    "id": "science-tech-355",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "影子的形成说明光具有什么特性？",
+    "options": [
+      "沿直线传播",
+      "会拐弯",
+      "能被吸收",
+      "有颜色"
+    ],
+    "correctAnswer": 0,
+    "explanation": "光沿直线传播，遇到不透明物体被挡住，在物体后方形成光照不到的阴影。"
+  },
+  {
+    "id": "science-tech-356",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "水中筷子看起来“折断”了，这是光的什么现象？",
+    "options": [
+      "反射",
+      "折射",
+      "衍射",
+      "色散"
+    ],
+    "correctAnswer": 1,
+    "explanation": "光从水中进入空气时发生偏折（折射），使筷子在水面处看起来“折”了。"
+  },
+  {
+    "id": "science-tech-357",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "照镜子能看到自己，属于光的什么现象？",
+    "options": [
+      "折射",
+      "反射",
+      "散射",
+      "衍射"
+    ],
+    "correctAnswer": 1,
+    "explanation": "平面镜成像利用光的反射，所成的是正立等大的虚像。"
+  },
+  {
+    "id": "science-tech-358",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "晴朗的天空呈蔚蓝色，主要原因是光的？",
+    "options": [
+      "直线传播",
+      "反射",
+      "散射",
+      "折射"
+    ],
+    "correctAnswer": 2,
+    "explanation": "大气分子对阳光中的短波光（蓝光）散射更强，所以天空看起来是蓝色的。"
+  },
+  {
+    "id": "science-tech-359",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "声音的三要素不包括？",
+    "options": [
+      "音调",
+      "响度",
+      "音色",
+      "亮度"
+    ],
+    "correctAnswer": 3,
+    "explanation": "声音的三要素是音调（高低）、响度（强弱）、音色（品质），亮度是光的属性。"
+  },
+  {
+    "id": "science-tech-360",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "人耳能听到的声音频率大约是多少？",
+    "options": [
+      "2~20赫兹",
+      "20~20000赫兹",
+      "2000~20000赫兹",
+      "20万赫兹以上"
+    ],
+    "correctAnswer": 1,
+    "explanation": "人耳听觉范围约20~20000赫兹，低于20赫兹是次声波，高于20000赫兹是超声波。"
+  },
+  {
+    "id": "science-tech-361",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "敲鼓时用力越大鼓声越响，说明响度与什么有关？",
+    "options": [
+      "频率",
+      "振幅",
+      "音色",
+      "温度"
+    ],
+    "correctAnswer": 1,
+    "explanation": "用力越大，鼓面振动的振幅越大，响度就越大；音调才由频率决定。"
+  },
+  {
+    "id": "science-tech-362",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "吉他弦绷得越紧，弹出的音调越？",
+    "options": [
+      "低",
+      "高",
+      "不变",
+      "沙哑"
+    ],
+    "correctAnswer": 1,
+    "explanation": "弦越紧，振动频率越高，音调越高。"
+  },
+  {
+    "id": "science-tech-363",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "液体温度计是根据液体的什么性质制成的？",
+    "options": [
+      "热胀冷缩",
+      "流动性",
+      "导电性",
+      "蒸发"
+    ],
+    "correctAnswer": 0,
+    "explanation": "温度升高液体膨胀、液柱上升，温度降低收缩、液柱下降，这就是热胀冷缩原理。"
+  },
+  {
+    "id": "science-tech-364",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "冬天从嘴里呼出的“白气”属于什么现象？",
+    "options": [
+      "汽化",
+      "液化",
+      "升华",
+      "凝华"
+    ],
+    "correctAnswer": 1,
+    "explanation": "口中呼出的水蒸气遇冷液化成小水滴，悬浮在空气中形成“白气”。"
+  },
+  {
+    "id": "science-tech-365",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "湿衣服晾干了，属于什么物态变化？",
+    "options": [
+      "熔化",
+      "凝固",
+      "汽化（蒸发）",
+      "凝华"
+    ],
+    "correctAnswer": 2,
+    "explanation": "水由液态变成气态散发到空气中，属于汽化中的蒸发现象。"
+  },
+  {
+    "id": "science-tech-366",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "衣柜里的樟脑丸放久了会变小消失，这是？",
+    "options": [
+      "熔化",
+      "汽化",
+      "升华",
+      "凝固"
+    ],
+    "correctAnswer": 2,
+    "explanation": "樟脑丸由固态直接变成气态，属于升华现象。"
+  },
+  {
+    "id": "science-tech-367",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "深秋早晨草地上的霜是怎样形成的？",
+    "options": [
+      "露水凝固",
+      "水蒸气直接凝华",
+      "雨水蒸发",
+      "雾气液化"
+    ],
+    "correctAnswer": 1,
+    "explanation": "气温低于0℃时，空气中的水蒸气直接由气态变成固态冰晶，附着在草叶上形成霜，这叫凝华。"
+  },
+  {
+    "id": "science-tech-368",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "冰化成水属于什么物态变化？",
+    "options": [
+      "凝固",
+      "熔化",
+      "液化",
+      "汽化"
+    ],
+    "correctAnswer": 1,
+    "explanation": "物质由固态变成液态叫熔化，熔化需要吸热。"
+  },
+  {
+    "id": "science-tech-369",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "水结成冰属于什么物态变化？",
+    "options": [
+      "熔化",
+      "汽化",
+      "凝固",
+      "凝华"
+    ],
+    "correctAnswer": 2,
+    "explanation": "物质由液态变成固态叫凝固，凝固会放出热量。"
+  },
+  {
+    "id": "science-tech-370",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "公交车突然刹车时，乘客身体会向前倾，这是因为？",
+    "options": [
+      "惯性",
+      "引力",
+      "摩擦力消失",
+      "空气阻力"
+    ],
+    "correctAnswer": 0,
+    "explanation": "车减速而人由于惯性仍保持原来的运动状态，所以上身向前倾。"
+  },
+  {
+    "id": "science-tech-371",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "牛顿第一定律又叫什么定律？",
+    "options": [
+      "惯性定律",
+      "万有引力定律",
+      "作用力定律",
+      "能量守恒定律"
+    ],
+    "correctAnswer": 0,
+    "explanation": "牛顿第一定律指出物体在不受外力时保持静止或匀速直线运动，也叫惯性定律。"
+  },
+  {
+    "id": "science-tech-372",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "重力的方向总是？",
+    "options": [
+      "竖直向下",
+      "垂直于地面",
+      "指向地心之外",
+      "水平方向"
+    ],
+    "correctAnswer": 0,
+    "explanation": "重力的方向总是竖直向下（大致指向地心），所以苹果会落地、水往低处流。"
+  },
+  {
+    "id": "science-tech-373",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "成熟的苹果从树上掉下来，是因为它受到？",
+    "options": [
+      "浮力",
+      "重力",
+      "磁力",
+      "弹力"
+    ],
+    "correctAnswer": 1,
+    "explanation": "地球吸引苹果产生重力，重力的方向竖直向下。"
+  },
+  {
+    "id": "science-tech-374",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "干燥天气脱毛衣时听到“噼啪”声，这是因为？",
+    "options": [
+      "静电现象",
+      "雷声",
+      "毛衣在响",
+      "气流震动"
+    ],
+    "correctAnswer": 0,
+    "explanation": "摩擦使衣物带电，电荷放电时产生噼啪声，属于静电现象。"
+  },
+  {
+    "id": "science-tech-375",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "雷雨天气时，下列做法正确的是？",
+    "options": [
+      "躲在大树下避雨",
+      "在空旷处打伞行走",
+      "尽快进入有避雷设施的建筑内",
+      "在水边逗留"
+    ],
+    "correctAnswer": 2,
+    "explanation": "大树、空旷高地和水边都容易遭雷击，应尽快进入装有避雷装置的房屋或汽车内。"
+  },
+  {
+    "id": "science-tech-376",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "中国家庭电路的电压是？",
+    "options": [
+      "110伏",
+      "220伏",
+      "380伏",
+      "36伏"
+    ],
+    "correctAnswer": 1,
+    "explanation": "中国民用电压是220伏（日本、美国等是110伏）；380伏是工业三相电。"
+  },
+  {
+    "id": "science-tech-377",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "一节普通干电池的电压约为？",
+    "options": [
+      "1.5伏",
+      "3伏",
+      "9伏",
+      "12伏"
+    ],
+    "correctAnswer": 0,
+    "explanation": "一节5号或7号干电池标称电压为1.5伏。"
+  },
+  {
+    "id": "science-tech-378",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "对人体安全的电压一般不高于多少伏？",
+    "options": [
+      "220伏",
+      "110伏",
+      "36伏",
+      "380伏"
+    ],
+    "correctAnswer": 2,
+    "explanation": "一般认为不高于36伏的电压对人体相对安全，潮湿环境下安全电压更低。"
+  },
+  {
+    "id": "science-tech-379",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "下列物品中属于导体的是？",
+    "options": [
+      "橡皮",
+      "铜钥匙",
+      "塑料尺",
+      "陶瓷杯"
+    ],
+    "correctAnswer": 1,
+    "explanation": "金属容易导电属于导体；橡皮、塑料、陶瓷都不易导电，属于绝缘体。"
+  },
+  {
+    "id": "science-tech-380",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "电工师傅带电作业时常戴橡胶手套，因为橡胶是？",
+    "options": [
+      "导体",
+      "绝缘体",
+      "半导体",
+      "超导体"
+    ],
+    "correctAnswer": 1,
+    "explanation": "橡胶几乎不导电，是良好的绝缘体，能防止触电。"
+  },
+  {
+    "id": "science-tech-381",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "指南针静止时指向南方的那一端叫？",
+    "options": [
+      "北极（N极）",
+      "南极（S极）",
+      "东极",
+      "西极"
+    ],
+    "correctAnswer": 1,
+    "explanation": "指南针指南的一端叫南极（S极），指北的一端叫北极（N极）。"
+  },
+  {
+    "id": "science-tech-382",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "电动机工作时主要把什么能转化为什么能？",
+    "options": [
+      "机械能转化为电能",
+      "电能转化为机械能",
+      "热能转化为光能",
+      "化学能转化为热能"
+    ],
+    "correctAnswer": 1,
+    "explanation": "电动机通电后转动，把电能转化为机械能；发电机正好相反。"
+  },
+  {
+    "id": "science-tech-383",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "核电站发电利用的是哪种能量？",
+    "options": [
+      "风能",
+      "核能（核裂变）",
+      "水能",
+      "太阳能"
+    ],
+    "correctAnswer": 1,
+    "explanation": "核电站通过铀等核燃料的链式裂变反应释放能量，再转化为电能。"
+  },
+  {
+    "id": "science-tech-384",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "冬天户外摸铁比摸木头感觉更冷，这是因为？",
+    "options": [
+      "铁的温度更低",
+      "铁的导热性更好",
+      "木头更粗糙",
+      "铁更重"
+    ],
+    "correctAnswer": 1,
+    "explanation": "铁和木头温度相同，但铁导热快，能迅速把手上的热量带走，所以感觉更冷。"
+  },
+  {
+    "id": "science-tech-385",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "能使澄清石灰水变浑浊的气体是？",
+    "options": [
+      "氧气",
+      "氢气",
+      "二氧化碳",
+      "氮气"
+    ],
+    "correctAnswer": 2,
+    "explanation": "二氧化碳与石灰水中的氢氧化钙反应生成白色碳酸钙沉淀，使石灰水变浑浊，这是检验CO2的常用方法。"
+  },
+  {
+    "id": "science-tech-386",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "空气中含量最多的气体是？",
+    "options": [
+      "氧气",
+      "氮气",
+      "二氧化碳",
+      "稀有气体"
+    ],
+    "correctAnswer": 1,
+    "explanation": "氮气约占空气体积的78%，氧气约占21%。"
+  },
+  {
+    "id": "science-tech-387",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "能支持燃烧、供给呼吸的气体是？",
+    "options": [
+      "氮气",
+      "二氧化碳",
+      "氧气",
+      "水蒸气"
+    ],
+    "correctAnswer": 2,
+    "explanation": "氧气能支持燃烧和供给呼吸，约占空气体积的21%。"
+  },
+  {
+    "id": "science-tech-388",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "水的化学式是？",
+    "options": [
+      "CO2",
+      "H2O",
+      "O2",
+      "H2O2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "一个水分子由两个氢原子和一个氧原子构成，化学式为H2O。"
+  },
+  {
+    "id": "science-tech-389",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "地壳中含量最多的元素是？",
+    "options": [
+      "铁",
+      "硅",
+      "铝",
+      "氧"
+    ],
+    "correctAnswer": 3,
+    "explanation": "地壳中含量前四的元素依次是：氧、硅、铝、铁，氧约占一半。"
+  },
+  {
+    "id": "science-tech-390",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "人体胃液的主要成分是？",
+    "options": [
+      "硫酸",
+      "盐酸",
+      "醋酸",
+      "硝酸"
+    ],
+    "correctAnswer": 1,
+    "explanation": "胃液中含有盐酸，能帮助消化食物、杀灭细菌。"
+  },
+  {
+    "id": "science-tech-391",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "食盐的主要成分是？",
+    "options": [
+      "碳酸钠",
+      "氯化钠",
+      "碳酸钙",
+      "硫酸钠"
+    ],
+    "correctAnswer": 1,
+    "explanation": "食盐的主要成分是氯化钠（NaCl），是重要的调味品和人体必需物质。"
+  },
+  {
+    "id": "science-tech-392",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "厨房里常说的小苏打是？",
+    "options": [
+      "碳酸钠",
+      "碳酸氢钠",
+      "氢氧化钠",
+      "氯化钠"
+    ],
+    "correctAnswer": 1,
+    "explanation": "小苏打是碳酸氢钠（NaHCO3），常用于发面和中和酸性物质；纯碱是碳酸钠。"
+  },
+  {
+    "id": "science-tech-393",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "石灰石和大理石的主要成分是？",
+    "options": [
+      "碳酸钙",
+      "碳酸钠",
+      "氧化钙",
+      "氢氧化钙"
+    ],
+    "correctAnswer": 0,
+    "explanation": "石灰石、大理石、贝壳的主要成分都是碳酸钙（CaCO3）。"
+  },
+  {
+    "id": "science-tech-394",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "金刚石和石墨都是由哪种元素组成的？",
+    "options": [
+      "硅",
+      "碳",
+      "氧",
+      "硫"
+    ],
+    "correctAnswer": 1,
+    "explanation": "金刚石和石墨都是由碳元素组成，只因原子排列方式不同，性质差异巨大。"
+  },
+  {
+    "id": "science-tech-395",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "煤气中毒主要是因为哪种气体？",
+    "options": [
+      "二氧化碳",
+      "一氧化碳",
+      "甲烷",
+      "氧气"
+    ],
+    "correctAnswer": 1,
+    "explanation": "一氧化碳能与血红蛋白结合且不易分离，使人体缺氧中毒，俗称煤气中毒。"
+  },
+  {
+    "id": "science-tech-396",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "造成温室效应的主要气体是？",
+    "options": [
+      "氧气",
+      "氢气",
+      "二氧化碳",
+      "氮气"
+    ],
+    "correctAnswer": 2,
+    "explanation": "二氧化碳等温室气体像温室玻璃一样截留热量，是全球变暖的主因。"
+  },
+  {
+    "id": "science-tech-397",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "酸雨的形成主要与哪种气体排放有关？",
+    "options": [
+      "二氧化硫和氮氧化物",
+      "氧气和氮气",
+      "二氧化碳和氢气",
+      "稀有气体"
+    ],
+    "correctAnswer": 0,
+    "explanation": "煤燃烧排放的二氧化硫和汽车尾气中的氮氧化物溶于雨水形成酸雨。"
+  },
+  {
+    "id": "science-tech-398",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "pH小于7的溶液呈什么性？",
+    "options": [
+      "酸性",
+      "碱性",
+      "中性",
+      "无法判断"
+    ],
+    "correctAnswer": 0,
+    "explanation": "pH=7为中性，小于7为酸性，大于7为碱性。"
+  },
+  {
+    "id": "science-tech-399",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "用pH试纸测定溶液酸碱度时，正确的操作是？",
+    "options": [
+      "把试纸直接伸进试剂瓶",
+      "用玻璃棒蘸取溶液滴在试纸上",
+      "把试剂倒到试纸上",
+      "用手拿试纸蘸溶液"
+    ],
+    "correctAnswer": 1,
+    "explanation": "应把溶液滴在放在玻璃片上的pH试纸上再比色，直接伸入试剂会污染整瓶试剂。"
+  },
+  {
+    "id": "science-tech-400",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "铁生锈需要与下列哪些物质接触？",
+    "options": [
+      "只有水",
+      "只有氧气",
+      "水和氧气",
+      "氮气"
+    ],
+    "correctAnswer": 2,
+    "explanation": "铁生锈是铁与空气中的氧气、水共同作用的结果，缺一不可。"
+  },
+  {
+    "id": "science-tech-401",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "下列哪种方法不能防止铁制品生锈？",
+    "options": [
+      "刷油漆",
+      "涂油",
+      "镀其他金属",
+      "经常用水冲洗"
+    ],
+    "correctAnswer": 3,
+    "explanation": "防锈的原理是隔绝水和氧气，刷漆、涂油、镀层都能做到；用水冲洗反而加速生锈。"
+  },
+  {
+    "id": "science-tech-402",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "燃烧需要的三个条件不包括？",
+    "options": [
+      "可燃物",
+      "助燃物（如氧气）",
+      "温度达到着火点",
+      "充足的光照"
+    ],
+    "correctAnswer": 3,
+    "explanation": "燃烧三要素是可燃物、助燃物和温度达到着火点，光照不是必要条件。"
+  },
+  {
+    "id": "science-tech-403",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "用水灭火的主要原理是？",
+    "options": [
+      "隔绝了所有氧气",
+      "把温度降到着火点以下",
+      "水能燃烧",
+      "增加可燃物"
+    ],
+    "correctAnswer": 1,
+    "explanation": "水蒸发吸热，使可燃物温度降到着火点以下，火就灭了。"
+  },
+  {
+    "id": "science-tech-404",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "家中油锅起火，正确的处理方法是？",
+    "options": [
+      "立即浇水",
+      "端起油锅跑到室外",
+      "盖上锅盖隔绝空气并关火",
+      "用嘴用力吹灭"
+    ],
+    "correctAnswer": 2,
+    "explanation": "油的密度比水小，浇水会让油飞溅、火势扩大；盖上锅盖隔绝氧气并关火最安全。"
+  },
+  {
+    "id": "science-tech-405",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "活性炭能用于净水，主要利用它的什么性质？",
+    "options": [
+      "导电性",
+      "吸附性",
+      "可燃性",
+      "酸性"
+    ],
+    "correctAnswer": 1,
+    "explanation": "活性炭疏松多孔，有很强的吸附能力，可以吸附水中的色素和异味。"
+  },
+  {
+    "id": "science-tech-406",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "电解水实验产生的气体是？",
+    "options": [
+      "氧气和氮气",
+      "氢气和氧气",
+      "二氧化碳和氧气",
+      "氮气和氢气"
+    ],
+    "correctAnswer": 1,
+    "explanation": "电解水时负极产生氢气、正极产生氧气，体积比约为2:1，证明水由氢氧元素组成。"
+  },
+  {
+    "id": "science-tech-407",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "氢气在空气中燃烧生成什么？",
+    "options": [
+      "二氧化碳",
+      "一氧化碳",
+      "水",
+      "氧气"
+    ],
+    "correctAnswer": 2,
+    "explanation": "氢气燃烧的产物只有水，所以氢气被认为是理想的清洁燃料。"
+  },
+  {
+    "id": "science-tech-408",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "检验一瓶气体是否是氧气，常用的方法是？",
+    "options": [
+      "闻气味",
+      "倒入石灰水",
+      "伸入带火星的木条",
+      "放入金属片"
+    ],
+    "correctAnswer": 2,
+    "explanation": "氧气能使带火星的木条复燃，这是检验氧气的特征方法。"
+  },
+  {
+    "id": "science-tech-409",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "霓虹灯能发出五颜六色的光，灯管内充的是哪种气体？",
+    "options": [
+      "氧气",
+      "稀有气体",
+      "二氧化碳",
+      "水蒸气"
+    ],
+    "correctAnswer": 1,
+    "explanation": "稀有气体通电时会发出不同颜色的光，如氖气发红光、氩气发蓝光，常用于霓虹灯。"
+  },
+  {
+    "id": "science-tech-410",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "碘酒是常用的皮肤消毒剂，它属于？",
+    "options": [
+      "纯净物",
+      "混合物",
+      "单质",
+      "碱"
+    ],
+    "correctAnswer": 1,
+    "explanation": "碘酒是碘溶解在酒精中形成的溶液，由多种物质组成，属于混合物。"
+  },
+  {
+    "id": "science-tech-411",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "下列物质中属于单质的是？",
+    "options": [
+      "水",
+      "二氧化碳",
+      "氧气",
+      "食盐"
+    ],
+    "correctAnswer": 2,
+    "explanation": "单质是由同一种元素组成的纯净物，氧气（O2）只含氧元素；水、二氧化碳是化合物，食盐是混合物。"
+  },
+  {
+    "id": "science-tech-412",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "把白糖加热到熔化，继续加热会变成黑色的炭，这说明白糖中含有？",
+    "options": [
+      "碳元素",
+      "铁元素",
+      "铜元素",
+      "银元素"
+    ],
+    "correctAnswer": 0,
+    "explanation": "化学变化前后元素种类不变，生成黑色的碳说明白糖中含有碳元素。"
+  },
+  {
+    "id": "science-tech-413",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "打开汽水瓶盖时冒出大量气泡，这是因为？",
+    "options": [
+      "温度升高气体溶解增多",
+      "压强减小，二氧化碳溶解度减小",
+      "水变成了气体",
+      "瓶子产生了气体"
+    ],
+    "correctAnswer": 1,
+    "explanation": "气体的溶解度随压强减小而减小，开盖后压强骤降，溶解的二氧化碳大量逸出形成气泡。"
   }
 ]

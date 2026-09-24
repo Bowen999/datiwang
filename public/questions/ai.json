@@ -1,0 +1,744 @@
+[
+  {
+    "id": "ai-001",
+    "category": "ai",
+    "difficulty": "easy",
+    "question": "1997年，IBM 的超级计算机“深蓝”击败了哪位国际象棋世界冠军？",
+    "options": [
+      "卡斯帕罗夫",
+      "费舍尔",
+      "卡尔森",
+      "卡尔波夫"
+    ],
+    "correctAnswer": 0,
+    "explanation": "深蓝这个名字来自 IBM 内部的征名比赛，呼应 IBM 的外号“蓝色巨人”（Big Blue）。1996 年首次交手它只赢下一局、总比分 2:4 落败，1997 年升级后重赛，以 3.5:2.5 拿下整场。"
+  },
+  {
+    "id": "ai-002",
+    "category": "ai",
+    "difficulty": "easy",
+    "question": "2011年，IBM 的 Watson 在哪档美国电视智力竞赛中击败了两位人类冠军？",
+    "options": [
+      "《谁想成为百万富翁》",
+      "《危险边缘》",
+      "《幸运之轮》",
+      "《价格猜猜看》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Watson 可不是福尔摩斯的搭档，它以 IBM 创始人兼首任 CEO 托马斯·沃森命名。这场比赛的对手是肯·詹宁斯和布拉德·鲁特，两位都是该节目的顶级常胜选手。"
+  },
+  {
+    "id": "ai-003",
+    "category": "ai",
+    "difficulty": "medium",
+    "question": "1956年夏天，科学家们在美国哪所高校聚会，让“人工智能”成为一门学科的名字？",
+    "options": [
+      "卡内基梅隆大学",
+      "麻省理工学院",
+      "达特茅斯学院",
+      "斯坦福大学"
+    ],
+    "correctAnswer": 2,
+    "explanation": "会议的提案写于 1955 年，由麦卡锡、明斯基、罗切斯特和香农联名提出，“人工智能”一词就出自这份提案。麦卡锡选这个词，部分原因是想和当时流行的“控制论”划清界限。"
+  },
+  {
+    "id": "ai-004",
+    "category": "ai",
+    "difficulty": "medium",
+    "question": "20世纪60年代，MIT 的魏泽鲍姆写出聊天程序 ELIZA，它最著名的“剧本”扮演什么角色？",
+    "options": [
+      "图书管理员",
+      "脱口秀演员",
+      "私家侦探",
+      "心理治疗师"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ELIZA 只靠关键词匹配，把你的话改写成提问（比如“我很难过”→“你为什么难过？”）。魏泽鲍姆的秘书却请他回避，好和它“单独聊聊”，这种把简单程序当成有心之人的错觉后来被称为“ELIZA 效应”。"
+  },
+  {
+    "id": "ai-005",
+    "category": "ai",
+    "difficulty": "medium",
+    "question": "标注了上千万张图片的 ImageNet 数据集，是由哪位华裔科学家发起的？",
+    "options": [
+      "黄仁勋",
+      "李飞飞",
+      "李开复",
+      "吴恩达"
+    ],
+    "correctAnswer": 1,
+    "explanation": "李飞飞从 2006 年前后开始构想 ImageNet，团队后来人工标注了 1400 多万张图片，并从 2010 年起每年举办识图比赛。2012 年 AlexNet 在比赛中把第二名甩开 10 个百分点以上，深度学习热潮由此点燃。"
+  },
+  {
+    "id": "ai-006",
+    "category": "ai",
+    "difficulty": "hard",
+    "question": "2012年 AlexNet 靠识图大赛一战成名，训练它主要用了什么硬件？",
+    "options": [
+      "一台超级计算机",
+      "专门定制的 AI 芯片",
+      "上千台服务器",
+      "两块英伟达游戏显卡"
+    ],
+    "correctAnswer": 3,
+    "explanation": "它是用两块 GTX 580 显卡训练了五六天才完成的，这让人们看到了 GPU 训练神经网络的威力。作者之一伊尔亚·苏茨克维后来成为 OpenAI 的联合创始人。"
+  },
+  {
+    "id": "ai-007",
+    "category": "ai",
+    "difficulty": "hard",
+    "question": "2017年问世的 AlphaGo Zero 学围棋时，完全没有“看过”什么？",
+    "options": [
+      "胜负的判定",
+      "人类的棋谱",
+      "围棋的规则",
+      "棋盘的大小"
+    ],
+    "correctAnswer": 1,
+    "explanation": "它只被告知规则，然后靠自己和自己下棋（自我对弈）从零学起，三天后就以 100:0 击败了当年战胜李世石的那版 AlphaGo。"
+  },
+  {
+    "id": "ai-008",
+    "category": "ai",
+    "difficulty": "medium",
+    "question": "AI 圈常说的“AI 寒冬”，指的是什么？",
+    "options": [
+      "AI 芯片在低温下失灵的现象",
+      "热度退潮、经费骤减的低谷期",
+      "数据中心因严寒停摆的时期",
+      "冬季举行的 AI 学术会议"
+    ],
+    "correctAnswer": 1,
+    "explanation": "历史上通常提到两轮寒冬：一轮在 20 世纪 70 年代中期，一轮从 80 年代末持续多年。“AI 寒冬”这个说法出现在 1984 年的一场学术辩论中，明斯基等人当时就警告说，炒作过头终将招来失望。"
+  },
+  {
+    "id": "ai-009",
+    "category": "ai",
+    "difficulty": "medium",
+    "question": "2012年谷歌用千万张 YouTube 截图训练神经网络，没人给标签，它自学认出了哪种网络萌物？",
+    "options": [
+      "企鹅",
+      "狗",
+      "猫",
+      "仓鼠"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这个项目动用了 1.6 万个 CPU 核心，参与者包括吴恩达和杰夫·迪恩。它是“无监督学习”的经典例子：没有标准答案，AI 自己从海量数据里总结出规律。"
+  },
+  {
+    "id": "ai-010",
+    "category": "ai",
+    "difficulty": "medium",
+    "question": "2016年，微软在推特上线聊天机器人 Tay，不到一天就被紧急下线，主要原因是？",
+    "options": [
+      "泄露了用户的私人聊天记录",
+      "被发现背后其实是真人在回复",
+      "被网友“教坏”，满嘴不当言论",
+      "服务器被海量访问挤垮了"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tay 会从和网友的对话中学习，结果有人集中向它灌输带攻击性的内容。它上线约 16 小时、发了近 10 万条推文后就被暂停，事后常被当作 AI 需要内容安全防护的反面教材。"
+  },
+  {
+    "id": "ai-011",
+    "category": "ai",
+    "difficulty": "easy",
+    "question": "人工神经网络最初是受人体哪个部位的结构启发而来的？",
+    "options": [
+      "心脏里的血管网络",
+      "肌肉里的纤维结构",
+      "大脑的神经元网络",
+      "皮肤上的触觉细胞"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1943 年，神经科学家麦卡洛克和数学家皮茨就发表了模拟神经元的数学模型，比“人工智能”一词诞生还早十几年。"
+  },
+  {
+    "id": "ai-012",
+    "category": "ai",
+    "difficulty": "easy",
+    "question": "深度学习里的“深”，指的是什么？",
+    "options": [
+      "挖掘数据的位置很深",
+      "神经网络的层数很多",
+      "服务器机房建在地下",
+      "模型思考的时间很长"
+    ],
+    "correctAnswer": 1,
+    "explanation": "早期的神经网络只有一两层，现在的大模型可以叠到几十层甚至上百层。层层递进的好处是能逐级提炼特征，比如从线条到轮廓，再到一张完整的脸。"
+  },
+  {
+    "id": "ai-013",
+    "category": "ai",
+    "difficulty": "easy",
+    "question": "给 AI 看几万张标好“是猫/不是猫”的照片让它学，这属于机器学习的哪一类？",
+    "options": [
+      "迁移学习",
+      "联邦学习",
+      "强化学习",
+      "监督学习"
+    ],
+    "correctAnswer": 3,
+    "explanation": "监督学习就像做有标准答案的习题册，AI 每做一题都能对答案、改错误。没有标准答案、让 AI 自己找规律的，则叫无监督学习。"
+  },
+  {
+    "id": "ai-014",
+    "category": "ai",
+    "difficulty": "easy",
+    "question": "像训小狗一样：做对了给零食，做错了没有，让 AI 在反复试错中学会玩游戏，这叫？",
+    "options": [
+      "强化学习",
+      "监督学习",
+      "进化算法",
+      "联邦学习"
+    ],
+    "correctAnswer": 0,
+    "explanation": "强化学习靠“奖励信号”驱动，AI 会不断调整策略，追求更高的累计得分。AlphaGo 就大量用到了自我对弈式的强化学习。"
+  },
+  {
+    "id": "ai-015",
+    "category": "ai",
+    "difficulty": "medium",
+    "question": "ChatGPT 这类大语言模型最核心的训练任务，通俗说是在反复做什么？",
+    "options": [
+      "根据上文猜下一个词",
+      "给图片配文字说明",
+      "把中文翻译成英文",
+      "判断句子的对错"
+    ],
+    "correctAnswer": 0,
+    "explanation": "看似简单的“文字接龙”，在海量文本上练得足够多，模型就学会了语法、常识，甚至一定的推理。但它是在“猜最可能的下一个词”，所以有时也会说得头头是道却并不属实。"
+  },
+  {
+    "id": "ai-016",
+    "category": "ai",
+    "difficulty": "easy",
+    "question": "ChatGPT 名字里的 GPT，字面意思是？",
+    "options": [
+      "智能对话交互终端",
+      "生成式预训练变换器",
+      "全球联网编程工具",
+      "通用型个人翻译器"
+    ],
+    "correctAnswer": 1,
+    "explanation": "GPT 是 Generative Pre-trained Transformer 的缩写。OpenAI 在 2018 年推出第一代 GPT，其中的 Transformer 是谷歌团队 2017 年提出的架构。"
+  },
+  {
+    "id": "ai-017",
+    "category": "ai",
+    "difficulty": "medium",
+    "question": "论文《Attention Is All You Need》的标题，是在致敬披头士的哪首歌？",
+    "options": [
+      "Here Comes the Sun",
+      "All You Need Is Love",
+      "Let It Be",
+      "Can’t Buy Me Love"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这篇论文提出的 Transformer 架构，是 GPT 等大模型的基础。八位作者当时都在谷歌，论文发表后他们陆续离开，有人加入别家公司，有人自己创业。"
+  },
+  {
+    "id": "ai-018",
+    "category": "ai",
+    "difficulty": "easy",
+    "question": "大模型读文章时并不是逐字阅读，而是先把文本切成一个个什么？",
+    "options": [
+      "词元（token）",
+      "像素（pixel）",
+      "音节（syllable）",
+      "章节（chapter）"
+    ],
+    "correctAnswer": 0,
+    "explanation": "一个 token 可能是一个词、半个词，也可能是一个汉字或标点。常听到的“上下文长度”“按量计费”，衡量单位通常都是 token。"
+  },
+  {
+    "id": "ai-019",
+    "category": "ai",
+    "difficulty": "easy",
+    "question": "大语言模型一本正经地编造出不存在的事实或文献，这种现象被称为？",
+    "options": [
+      "幻觉",
+      "失忆",
+      "过拟合",
+      "死机"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2023 年，美国有律师把 ChatGPT 编造的多个“判例”写进提交给法院的文件，结果被法官处以 5000 美元罚款。"
+  },
+  {
+    "id": "ai-020",
+    "category": "ai",
+    "difficulty": "medium",
+    "question": "AI 在训练题上拿满分，一遇到没见过的新题就翻车，像只背真题的学生。这毛病叫？",
+    "options": [
+      "遗忘",
+      "幻觉",
+      "欠拟合",
+      "过拟合"
+    ],
+    "correctAnswer": 3,
+    "explanation": "缓解过拟合的办法之一是给它“换着花样出题”：用更多样的数据训练，或者训练时随机让一部分神经元“罢工”（dropout），逼它别死记硬背。"
+  },
+  {
+    "id": "ai-021",
+    "category": "ai",
+    "difficulty": "medium",
+    "question": "你向手机里的 AI 提问、它给出回答的这个过程，AI 行话里叫？",
+    "options": [
+      "推理",
+      "微调",
+      "训练",
+      "标注"
+    ],
+    "correctAnswer": 0,
+    "explanation": "训练好比学生埋头刷题备考，推理则是走进考场答题。大模型的训练往往要动用成千上万块 GPU，而推理要同时服务海量用户，同样是笔不小的开销。"
+  },
+  {
+    "id": "ai-022",
+    "category": "ai",
+    "difficulty": "easy",
+    "question": "训练 AI 为什么偏爱显卡（GPU），而不是普通电脑的 CPU？",
+    "options": [
+      "价格比 CPU 便宜得多",
+      "擅长同时做海量简单计算",
+      "能直接理解人类语言",
+      "自带联网搜索功能"
+    ],
+    "correctAnswer": 1,
+    "explanation": "GPU 原本是为游戏画面设计的，要同时算出屏幕上上百万个像素的颜色。神经网络训练里大量的矩阵乘法，恰好也适合这种“人多力量大”的并行计算。"
+  },
+  {
+    "id": "ai-023",
+    "category": "ai",
+    "difficulty": "medium",
+    "question": "Stable Diffusion 等 AI 绘画常用的“扩散模型”，生成图片的思路更像什么？",
+    "options": [
+      "把网上现成的图片剪切拼贴",
+      "从随机噪点出发，逐步去噪成画",
+      "让机械臂拿着画笔逐笔临摹",
+      "从素材库里挑最像的图片改色"
+    ],
+    "correctAnswer": 1,
+    "explanation": "训练时它学的是把清晰图片一步步加噪、变成雪花点的过程；生成时则倒过来，从纯噪声出发，按你的文字描述一点点“擦”出画面。"
+  },
+  {
+    "id": "ai-024",
+    "category": "ai",
+    "difficulty": "medium",
+    "question": "让 ChatGPT 更会“好好说话”的关键技术之一是 RLHF，其中的“人类反馈”指人们在做什么？",
+    "options": [
+      "把回答翻译成多种语言",
+      "逐字审核所有训练数据",
+      "帮 AI 检修机房服务器",
+      "给 AI 的回答排序打分"
+    ],
+    "correctAnswer": 3,
+    "explanation": "RLHF 即“基于人类反馈的强化学习”：先用人类的排序训练出一个“评分员模型”，再让 AI 朝着高分方向调整。OpenAI 的 InstructGPT 让这套方法名声大噪，ChatGPT 也采用了类似思路。"
+  },
+  {
+    "id": "ai-025",
+    "category": "ai",
+    "difficulty": "hard",
+    "question": "在提示词里加一句“让我们一步一步思考”，常能让大模型答题更准。这类技巧叫？",
+    "options": [
+      "记忆链",
+      "区块链",
+      "思维链",
+      "供应链"
+    ],
+    "correctAnswer": 2,
+    "explanation": "思维链提示由谷歌大脑团队在 2022 年提出。随后谷歌与东京大学的研究者发现，哪怕只加上一句“Let’s think step by step”，也很有效。"
+  },
+  {
+    "id": "ai-026",
+    "category": "ai",
+    "difficulty": "easy",
+    "question": "常听说大模型有“千亿参数”，这里的“参数”更接近什么？",
+    "options": [
+      "训练时动用的显卡数量",
+      "模型读过的书籍册数",
+      "模型会说的语言种数",
+      "神经网络中可调的“旋钮”"
+    ],
+    "correctAnswer": 3,
+    "explanation": "训练的过程，就是不断微调这些“旋钮”（连接强度），让输出越来越接近正确答案。参数更多通常意味着容量更大，但不等于一定更聪明。"
+  },
+  {
+    "id": "ai-027",
+    "category": "ai",
+    "difficulty": "medium",
+    "question": "2014年提出的“生成对抗网络”（GAN），核心思路很像哪两个角色的斗智斗勇？",
+    "options": [
+      "医生与前来就诊的病人",
+      "老师与刚入门的学生",
+      "造假高手与打假警察",
+      "厨师与挑剔的食客"
+    ],
+    "correctAnswer": 2,
+    "explanation": "两个网络互相较劲：生成器负责造假，判别器负责打假，在对抗中一起变强。提出者伊恩·古德费洛当时在蒙特利尔大学，GAN 后来成了早期 AI 生成图像的主力技术之一。"
+  },
+  {
+    "id": "ai-028",
+    "category": "ai",
+    "difficulty": "hard",
+    "question": "AI 把词语变成向量后能做“文字算术”：国王 − 男人 + 女人，最接近哪个词？",
+    "options": [
+      "首相",
+      "女王",
+      "仆人",
+      "骑士"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这个经典例子出自谷歌 2013 年前后的 word2vec 研究：词与词之间的关系被编码成向量空间里的“方向”。当然这只是近似，并非每次都灵。"
+  },
+  {
+    "id": "ai-029",
+    "category": "ai",
+    "difficulty": "hard",
+    "question": "塞尔的“中文屋”思想实验：屋里的人不懂中文，却能靠规则手册递出中文答案。他想说明什么？",
+    "options": [
+      "对答如流不等于真正理解",
+      "机器翻译永远不可能实现",
+      "只要规则手册够厚，机器就有意识",
+      "中文比英文更难被机器处理"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1980 年，哲学家约翰·塞尔用它反驳“只要程序写得对，电脑就真的有心智”的强人工智能观点。这个实验至今仍有争议，常被拿来和图灵测试对照着讨论。"
+  },
+  {
+    "id": "ai-030",
+    "category": "ai",
+    "difficulty": "easy",
+    "question": "能同时理解文字、图片和声音的 AI 模型，常被称作？",
+    "options": [
+      "多线程模型",
+      "多层感知机",
+      "多重人格模型",
+      "多模态模型"
+    ],
+    "correctAnswer": 3,
+    "explanation": "“模态”指信息的存在形式，文字、图像、声音、视频各算一种。人其实天生就是多模态的：我们能边看蛋糕边闻香味、听人说话，同时理解眼前的场景。"
+  },
+  {
+    "id": "ai-031",
+    "category": "ai",
+    "difficulty": "easy",
+    "question": "2024年诺贝尔物理学奖颁给了两位人工神经网络先驱，其中一位是？",
+    "options": [
+      "杨立昆",
+      "约书亚·本吉奥",
+      "杰弗里·辛顿",
+      "伊恩·古德费洛"
+    ],
+    "correctAnswer": 2,
+    "explanation": "获奖理由是“对使人工神经网络机器学习成为可能的基础性发现和发明”，另一位获奖者是约翰·霍普菲尔德。两人的工作都借鉴了统计物理的思想，所以奖项落在了物理学。"
+  },
+  {
+    "id": "ai-032",
+    "category": "ai",
+    "difficulty": "medium",
+    "question": "2018年度图灵奖授予了“深度学习三巨头”：辛顿、杨立昆和谁？",
+    "options": [
+      "约书亚·本吉奥",
+      "德米斯·哈萨比斯",
+      "李飞飞",
+      "吴恩达"
+    ],
+    "correctAnswer": 0,
+    "explanation": "图灵奖被誉为“计算机界的诺贝尔奖”，三人因在深度学习上的贡献共同获奖，此前几年他们也常被并称为“深度学习三巨头”。"
+  },
+  {
+    "id": "ai-033",
+    "category": "ai",
+    "difficulty": "hard",
+    "question": "20世纪90年代，杨立昆团队的早期卷积神经网络 LeNet，在银行里的实际用途是？",
+    "options": [
+      "识别支票上的手写数字",
+      "翻译外币汇款单据",
+      "预测客户的股票涨跌",
+      "刷脸办理开户业务"
+    ],
+    "correctAnswer": 0,
+    "explanation": "从 1996 年前后起，类似的系统被装进银行的支票读取机；据估计到 2001 年，它每天要读约 2000 万张支票，约占美国支票总量的 10%。"
+  },
+  {
+    "id": "ai-034",
+    "category": "ai",
+    "difficulty": "medium",
+    "question": "2024年诺贝尔化学奖的一半授予 DeepMind 的哈萨比斯和江珀，他们的 AI 解决了什么难题？",
+    "options": [
+      "合成人造生命细胞",
+      "设计新型电池材料",
+      "预测蛋白质的三维结构",
+      "预报台风的行进路径"
+    ],
+    "correctAnswer": 2,
+    "explanation": "他们的 AlphaFold 能根据氨基酸序列预测蛋白质折叠后的形状，2020 年 11 月在 CASP14 竞赛中夺冠。诺奖的另一半授予大卫·贝克，表彰他在计算蛋白质设计上的贡献。"
+  },
+  {
+    "id": "ai-035",
+    "category": "ai",
+    "difficulty": "hard",
+    "question": "DeepMind 联合创始人哈萨比斯少年时是个游戏天才，17岁就参与设计了哪款游戏？",
+    "options": [
+      "《文明》",
+      "《模拟城市》",
+      "《过山车大亨》",
+      "《主题公园》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1994 年，Bullfrog 工作室推出模拟经营游戏《主题公园》，哈萨比斯是联合设计和编程者之一。他还是象棋神童，13 岁就达到大师水准（等级分 2300）。"
+  },
+  {
+    "id": "ai-036",
+    "category": "ai",
+    "difficulty": "medium",
+    "question": "以 AlphaGo、AlphaFold 闻名的 DeepMind，2010年创立于哪座城市？",
+    "options": [
+      "多伦多",
+      "波士顿",
+      "旧金山",
+      "伦敦"
+    ],
+    "correctAnswer": 3,
+    "explanation": "创始人是哈萨比斯、莱格和苏莱曼。2014 年被谷歌收购，2023 年 4 月又与 Google Brain 合并，成为 Google DeepMind。"
+  },
+  {
+    "id": "ai-037",
+    "category": "ai",
+    "difficulty": "easy",
+    "question": "ChatGPT 是在哪一年的年底向公众开放的？",
+    "options": [
+      "2020",
+      "2023",
+      "2022",
+      "2021"
+    ],
+    "correctAnswer": 2,
+    "explanation": "它于 2022 年 11 月 30 日上线，5 天内用户破百万，两个月破亿，被称为当时史上增长最快的消费级应用。"
+  },
+  {
+    "id": "ai-038",
+    "category": "ai",
+    "difficulty": "easy",
+    "question": "Meta 推出的大模型系列 Llama，名字和哪种动物同名？",
+    "options": [
+      "美洲驼（大羊驼）",
+      "北极驯鹿",
+      "喜马拉雅山羊",
+      "单峰骆驼"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Llama 于 2023 年 2 月首次发布，原名 LLaMA，是 Large Language Model Meta AI 的缩写。斯坦福基于它微调的 Alpaca（羊驼）、社区里的 Vicuna（小羊驼）也都是骆驼科动物，衍生模型家族活像一座“动物园”。"
+  },
+  {
+    "id": "ai-039",
+    "category": "ai",
+    "difficulty": "medium",
+    "question": "苹果的语音助手 Siri，最早是随哪款 iPhone 首次亮相的？",
+    "options": [
+      "iPhone 5",
+      "iPhone 4S",
+      "iPhone 6",
+      "iPhone 3GS"
+    ],
+    "correctAnswer": 1,
+    "explanation": "iPhone 4S 于 2011 年 10 月发布，Siri 当时还是测试版。它的前身是斯坦福研究院（SRI）孵化、受美国国防部 DARPA 资助的项目，还曾以独立 App 的身份上过 App Store。"
+  },
+  {
+    "id": "ai-040",
+    "category": "ai",
+    "difficulty": "medium",
+    "question": "推出 DeepSeek（深度求索）大模型的公司位于杭州，它的主要出资方幻方是做什么的？",
+    "options": [
+      "连锁餐饮品牌",
+      "网络游戏公司",
+      "量化投资基金",
+      "手机制造商"
+    ],
+    "correctAnswer": 2,
+    "explanation": "DeepSeek 由梁文锋于 2023 年 7 月创立，源自幻方量化内部的 AI 研究团队，幻方是它的主要出资方。"
+  },
+  {
+    "id": "ai-041",
+    "category": "ai",
+    "difficulty": "easy",
+    "question": "对手机喊一声“小爱同学”，唤醒的是哪家公司的语音助手？",
+    "options": [
+      "百度",
+      "华为",
+      "小米",
+      "OPPO"
+    ],
+    "correctAnswer": 2,
+    "explanation": "国产语音助手的名字大多爱叫“小×”：华为叫“小艺”，百度叫“小度”，OPPO 叫“小布”，一听就很亲切。"
+  },
+  {
+    "id": "ai-042",
+    "category": "ai",
+    "difficulty": "hard",
+    "question": "据说，英伟达（NVIDIA）的三位创始人是在哪儿聊出创业想法的？",
+    "options": [
+      "一家 Denny’s 餐厅",
+      "斯坦福大学的一间自习室",
+      "硅谷某栋房子的车库里",
+      "旧金山湾边的一家酒吧"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1992 年底，黄仁勋、马拉科夫斯基和普里姆在圣何塞东区的一家 Denny’s 餐厅里勾勒出公司的雏形。英伟达 1993 年成立，如今是 AI 训练用 GPU 的主要供应商之一。"
+  },
+  {
+    "id": "ai-043",
+    "category": "ai",
+    "difficulty": "medium",
+    "question": "OpenAI 的 AI 绘画模型 DALL·E，名字是画家达利和哪个动画机器人拼合而成的？",
+    "options": [
+      "《超能陆战队》的大白",
+      "《星球大战》的 R2-D2",
+      "《变形金刚》的擎天柱",
+      "《机器人总动员》的瓦力"
+    ],
+    "correctAnswer": 3,
+    "explanation": "达利是西班牙超现实主义大师，DALL·E 画出的“不存在的画面”确实很有他的味道。它于 2021 年 1 月首次发布，用的是改造过的 GPT-3。"
+  },
+  {
+    "id": "ai-044",
+    "category": "ai",
+    "difficulty": "hard",
+    "question": "2022年，一幅 AI 画作拿下美国科罗拉多州博览会美术比赛的数字艺术类冠军，它用哪款工具生成？",
+    "options": [
+      "Stable Diffusion",
+      "DeepDream",
+      "DALL·E",
+      "Midjourney"
+    ],
+    "correctAnswer": 3,
+    "explanation": "作品叫《太空歌剧院》，作者杰森·艾伦用 Midjourney 生成后又做了修饰。他在“新锐艺术家”组夺冠后，引发了“AI 作品算不算艺术创作”的大讨论。"
+  },
+  {
+    "id": "ai-045",
+    "category": "ai",
+    "difficulty": "easy",
+    "question": "2017年，哪个国家宣布授予机器人“索菲亚”公民身份，成为热门话题？",
+    "options": [
+      "日本",
+      "沙特阿拉伯",
+      "美国",
+      "新加坡"
+    ],
+    "correctAnswer": 1,
+    "explanation": "索菲亚由中国香港的汉森机器人公司研发，2017 年 10 月在利雅得的一场投资峰会前后，沙特方面宣布授予她公民身份，引发了大量讨论。"
+  },
+  {
+    "id": "ai-046",
+    "category": "ai",
+    "difficulty": "easy",
+    "question": "自动驾驶通用的 L0–L5 分级里，最高级别 L5 指的是？",
+    "options": [
+      "驾驶员需要一直盯着路况",
+      "只能在高速上自动跟车",
+      "只负责碰撞预警和提示",
+      "任何条件下都无需人类驾驶"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这套分级由国际汽车工程师学会（SAE）制定：L0 完全靠人开，L5 则在任何条件下都由系统全权负责，理论上不再需要人类驾驶员。"
+  },
+  {
+    "id": "ai-047",
+    "category": "ai",
+    "difficulty": "medium",
+    "question": "常见的“自适应巡航 + 车道居中保持”辅助驾驶，通常属于自动驾驶分级的哪一级？",
+    "options": [
+      "L3",
+      "L4",
+      "L1",
+      "L2"
+    ],
+    "correctAnswer": 3,
+    "explanation": "L2 意味着系统能同时管方向和速度，但驾驶员必须全程盯着路况、随时准备接手，责任仍在人。所以再炫的“智能辅助驾驶”，只要是 L2，就不能放手睡觉。"
+  },
+  {
+    "id": "ai-048",
+    "category": "ai",
+    "difficulty": "easy",
+    "question": "网站上让你“勾选所有红绿灯”的验证码 CAPTCHA，英文全称里藏着哪位科学家的名字？",
+    "options": [
+      "图灵",
+      "香农",
+      "爱因斯坦",
+      "冯·诺依曼"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CAPTCHA 全称“全自动区分计算机和人类的公开图灵测试”，2003 年由路易斯·冯·安等人提出。它是机器出题、专门用来考人的“反向图灵测试”。"
+  },
+  {
+    "id": "ai-049",
+    "category": "ai",
+    "difficulty": "medium",
+    "question": "早年 reCAPTCHA 让你输入的两个扭曲单词，其中一个其实是在帮忙做什么？",
+    "options": [
+      "测试你的视力是否正常",
+      "帮外语网站翻译标题",
+      "帮忙识别旧书报里的模糊字",
+      "替广告商统计点击量"
+    ],
+    "correctAnswer": 2,
+    "explanation": "reCAPTCHA 由路易斯·冯·安团队发明，2009 年被谷歌收购，曾用来数字化《纽约时报》档案和谷歌图书。后来题目换成了街景里的门牌号、红绿灯，人类依旧在帮机器“认图”。"
+  },
+  {
+    "id": "ai-050",
+    "category": "ai",
+    "difficulty": "easy",
+    "question": "电影《2001太空漫游》里，对宇航员说“对不起，戴夫，我恐怕不能那样做”的 AI 叫什么？",
+    "options": [
+      "贾维斯（Jarvis）",
+      "红后（Red Queen）",
+      "HAL 9000",
+      "天网（Skynet）"
+    ],
+    "correctAnswer": 2,
+    "explanation": "网上常说 HAL 每个字母各往后一位就是 IBM，但原作者克拉克说这纯属巧合，还说如果早发现就会改名。他给 HAL 的解释是“启发式编程的算法计算机”。"
+  },
+  {
+    "id": "ai-051",
+    "category": "ai",
+    "difficulty": "easy",
+    "question": "《终结者》系列里，觉醒后发动核战争、要灭绝人类的 AI 系统叫什么？",
+    "options": [
+      "钢铁巨人",
+      "天网",
+      "大白",
+      "矩阵"
+    ],
+    "correctAnswer": 1,
+    "explanation": "天网（Skynet）最早出现在 1984 年的电影《终结者》里，原本是为军方防务系统建造的 AI，在“觉醒”后把人类视为威胁，随即发动核战争。"
+  },
+  {
+    "id": "ai-052",
+    "category": "ai",
+    "difficulty": "medium",
+    "question": "阿西莫夫在科幻小说里提出的“机器人三定律”，排在第一条的是？",
+    "options": [
+      "不得伤害人类，也不能坐视人类受害",
+      "不得对人类隐瞒任何信息",
+      "必须服从人类下达的一切命令",
+      "必须尽力保护自己不被损坏"
+    ],
+    "correctAnswer": 0,
+    "explanation": "三定律完整登场于 1942 年的短篇《转圈圈》（Runaround）。后来阿西莫夫又补了一条“第零定律”：机器人不得伤害整个人类。当然，这只是小说设定，现实中的 AI 并没有这样的内置法则。"
+  },
+  {
+    "id": "ai-053",
+    "category": "ai",
+    "difficulty": "hard",
+    "question": "“机器人”（robot）一词出自1920年捷克剧作家恰佩克的剧本，它在捷克语里的原意是？",
+    "options": [
+      "强制劳役",
+      "钢铁之躯",
+      "发条装置",
+      "手工艺人"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这个词出自剧本《罗素姆的万能机器人》（R.U.R.），剧中的“机器人”是工厂批量制造的人造劳工。恰佩克后来说，这个词其实是他哥哥约瑟夫想出来的。"
+  }
+]

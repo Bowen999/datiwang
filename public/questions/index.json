@@ -21,8 +21,16 @@
       "name": "科学技术"
     },
     {
+      "id": "ai",
+      "name": "AI知识"
+    },
+    {
       "id": "arts-entertainment",
       "name": "艺术娱乐"
+    },
+    {
+      "id": "picture",
+      "name": "看图猜猜"
     },
     {
       "id": "sports",
