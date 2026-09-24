@@ -1,6 +1,7 @@
 import type { CategoryMeta, Difficulty, QuestionKind, QuizQuestion, RankChart } from '../types/game';
 import { shuffle } from '../utils/random';
 import { buildChartQuestion, chartQuestionId, parseChartQuestionId } from '../game/charts';
+import { questionFrequencyService } from './QuestionFrequencyService';
 
 /**
  * 题目数据源接口。
@@ -125,16 +126,33 @@ export class QuestionService {
       }
     }
 
-    if (dynamic.length === 0) return shuffle(pool).slice(0, count);
+    if (dynamic.length === 0) return this.pickWeighted(pool, count);
 
     if (rankingOnly) {
       // 纯排序局：排行榜动态题占一半,其余从静态排序题补满
       const needStatic = Math.max(0, count - dynamic.length);
-      const staticRank = shuffle(pool.filter((q) => q.kind === 'ranking')).slice(0, needStatic);
+      const staticRank = await this.pickWeighted(pool.filter((q) => q.kind === 'ranking'), needStatic);
       return shuffle([...staticRank, ...dynamic]).slice(0, count);
     }
     // 混合局：榜单动态题混入静态池随机抽取
-    return shuffle([...pool, ...dynamic]).slice(0, count);
+    const staticPool = await this.pickWeighted(pool, Math.max(0, count - dynamic.length));
+    return shuffle([...staticPool, ...dynamic]).slice(0, count);
+  }
+
+  /**
+   * 按全局出镜频率加权抽题：
+   * 优先选择被出过次数少的题目，同时保留一定随机性。
+   */
+  private async pickWeighted(pool: QuizQuestion[], count: number): Promise<QuizQuestion[]> {
+    if (pool.length <= count) return shuffle(pool);
+    const freq = await questionFrequencyService.getFrequencyMap();
+    const scored = pool.map((q) => ({ q, score: freq.get(q.id) ?? 0, rand: Math.random() }));
+    // 出镜次数少的排在前面；次数相同则随机打乱
+    scored.sort((a, b) => a.score - b.score || a.rand - b.rand);
+    // 取前 count*3（或全部）作为候选池，再随机抽取，避免结果过于固定
+    const oversample = Math.min(pool.length, Math.max(count * 3, count + 10));
+    const candidates = scored.slice(0, oversample).map((s) => s.q);
+    return shuffle(candidates).slice(0, count);
   }
 
   /** 按 id 批量取回完整题目（房主迁移时用于重建题目数据，含排行榜动态题重建） */

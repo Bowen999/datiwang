@@ -507,6 +507,7 @@ export function useRoom() {
       correct: mine.correct,
       category: st.activeQuestion.category,
       kind: st.activeQuestion.kind,
+      questionId: st.activeQuestion.id,
     });
   }, [room, selfId]);
 
