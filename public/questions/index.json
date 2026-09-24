@@ -47,6 +47,10 @@
     {
       "id": "fantasy",
       "name": "玄幻小说"
+    },
+    {
+      "id": "modern-medicine",
+      "name": "现代医学"
     }
   ]
 }

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "modern-medicine-001",
+    "category": "modern-medicine",
+    "difficulty": "easy",
+    "question": "成年人静息状态下的正常心率范围大约是每分钟多少次？",
+    "options": [
+      "40～60 次",
+      "60～100 次",
+      "100～120 次",
+      "120～140 次"
+    ],
+    "correctAnswer": 1,
+    "explanation": "成年人静息心率正常值一般为每分钟 60～100 次；运动员或长期锻炼者可能偏慢，但低于 60 次不一定异常。"
+  },
+  {
+    "id": "modern-medicine-002",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "按照现行医学标准，收缩压达到或超过多少毫米汞柱可被诊断为高血压？",
+    "options": [
+      "120 mmHg",
+      "130 mmHg",
+      "140 mmHg",
+      "160 mmHg"
+    ],
+    "correctAnswer": 2,
+    "explanation": "诊室血压收缩压 ≥140 mmHg 和/或舒张压 ≥90 mmHg 是常用诊断切点；家庭自测标准为 ≥135/85 mmHg。"
+  },
+  {
+    "id": "modern-medicine-003",
+    "category": "modern-medicine",
+    "difficulty": "easy",
+    "question": "人体最大的器官是什么？",
+    "options": [
+      "肝脏",
+      "皮肤",
+      "小肠",
+      "肺"
+    ],
+    "correctAnswer": 1,
+    "explanation": "皮肤是人体面积最大、重量最重的器官，总面积约 1.5～2 平方米，具有屏障、体温调节和感觉等功能。"
+  },
+  {
+    "id": "modern-medicine-004",
+    "category": "modern-medicine",
+    "difficulty": "easy",
+    "question": "健康成年人的腋下正常体温大约是多少？",
+    "options": [
+      "35.0～36.0℃",
+      "36.0～37.0℃",
+      "37.0～38.0℃",
+      "38.0～39.0℃"
+    ],
+    "correctAnswer": 1,
+    "explanation": "腋下体温正常范围约 36.0～37.0℃；口腔、直肠测温会略高。"
+  },
+  {
+    "id": "modern-medicine-005",
+    "category": "modern-medicine",
+    "difficulty": "easy",
+    "question": "ABO 血型系统将人类红细胞血型分为哪四种？",
+    "options": [
+      "A、B、C、D 型",
+      "A、B、AB、O 型",
+      "I、II、III、IV 型",
+      "甲、乙、丙、丁型"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ABO 血型包括 A 型、B 型、AB 型和 O 型，由红细胞表面的 A、B 抗原决定。"
+  },
+  {
+    "id": "modern-medicine-006",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "胰岛素在人体内的主要作用是什么？",
+    "options": [
+      "升高血糖",
+      "降低血糖",
+      "分解脂肪",
+      "促进胃酸分泌"
+    ],
+    "correctAnswer": 1,
+    "explanation": "胰岛素由胰腺 β 细胞分泌，能促进组织细胞摄取和利用葡萄糖，是体内降低血糖的主要激素。"
+  },
+  {
+    "id": "modern-medicine-007",
+    "category": "modern-medicine",
+    "difficulty": "easy",
+    "question": "长期缺乏维生素 C 容易患哪种疾病？",
+    "options": [
+      "夜盲症",
+      "坏血病",
+      "佝偻病",
+      "脚气病"
+    ],
+    "correctAnswer": 1,
+    "explanation": "维生素 C 缺乏会导致胶原蛋白合成障碍，引起坏血病，表现为牙龈出血、伤口愈合延迟等。"
+  },
+  {
+    "id": "modern-medicine-008",
+    "category": "modern-medicine",
+    "difficulty": "easy",
+    "question": "缺铁性贫血最常见的原因是什么？",
+    "options": [
+      "维生素 B12 缺乏",
+      "叶酸缺乏",
+      "铁摄入不足或丢失过多",
+      "脾功能亢进"
+    ],
+    "correctAnswer": 2,
+    "explanation": "缺铁性贫血主要因铁摄入不足、吸收障碍或慢性失血（如月经过多、消化道出血）导致铁丢失过多。"
+  },
+  {
+    "id": "modern-medicine-009",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "糖尿病的典型症状常被概括为「三多一少」，其中「一少」指的是什么？",
+    "options": [
+      "睡眠减少",
+      "尿量减少",
+      "体重减少",
+      "食欲减少"
+    ],
+    "correctAnswer": 2,
+    "explanation": "「三多一少」指多饮、多尿、多食和体重下降，是 1 型和血糖控制差的 2 型糖尿病的典型表现。"
+  },
+  {
+    "id": "modern-medicine-010",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "成人心肺复苏（CPR）胸外按压的部位应在胸骨的哪一段？",
+    "options": [
+      "胸骨上段",
+      "胸骨中下 1/3 交界处",
+      "胸骨左侧",
+      "肋骨下端"
+    ],
+    "correctAnswer": 1,
+    "explanation": "按压部位为胸骨中下 1/3 交界处（约两乳头连线中点），按压深度 5～6 厘米，频率 100～120 次/分。"
+  },
+  {
+    "id": "modern-medicine-011",
+    "category": "modern-medicine",
+    "difficulty": "easy",
+    "question": "普通感冒大多由什么病原体引起，因此抗生素通常无效？",
+    "options": [
+      "细菌",
+      "病毒",
+      "真菌",
+      "寄生虫"
+    ],
+    "correctAnswer": 1,
+    "explanation": "普通感冒约 90% 由病毒（如鼻病毒）引起，抗生素针对细菌，对病毒无效，滥用还会导致耐药。"
+  },
+  {
+    "id": "modern-medicine-012",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "疫苗预防疾病的主要机制是什么？",
+    "options": [
+      "直接杀死病原体",
+      "刺激机体产生特异性免疫记忆",
+      "替代抗生素作用",
+      "提高体温以杀菌"
+    ],
+    "correctAnswer": 1,
+    "explanation": "疫苗通过模拟病原体抗原，刺激免疫系统产生抗体和记忆细胞，从而在真正感染时快速应答。"
+  },
+  {
+    "id": "modern-medicine-013",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "动脉粥样硬化最常累及哪类血管，是导致冠心病和脑梗死的重要原因？",
+    "options": [
+      "毛细血管",
+      "大中动脉",
+      "小静脉",
+      "淋巴管"
+    ],
+    "correctAnswer": 1,
+    "explanation": "动脉粥样硬化主要累及大中动脉，斑块形成可导致血管狭窄或斑块破裂血栓形成，引发心梗、脑梗等。"
+  },
+  {
+    "id": "modern-medicine-014",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "脑卒中（中风）最常见的类型是？",
+    "options": [
+      "脑出血",
+      "蛛网膜下腔出血",
+      "脑梗死",
+      "短暂性脑缺血发作"
+    ],
+    "correctAnswer": 2,
+    "explanation": "脑梗死（缺血性脑卒中）约占全部脑卒中的 70%～80%，多由脑动脉血栓或栓塞引起。"
+  },
+  {
+    "id": "modern-medicine-015",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "白血病本质上属于哪一类疾病？",
+    "options": [
+      "遗传病",
+      "血液系统恶性肿瘤",
+      "自身免疫病",
+      "内分泌疾病"
+    ],
+    "correctAnswer": 1,
+    "explanation": "白血病是造血干细胞的恶性克隆性疾病，属于血液系统恶性肿瘤，俗称「血癌」。"
+  },
+  {
+    "id": "modern-medicine-016",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "白内障是眼球哪个结构发生混浊导致的视力下降？",
+    "options": [
+      "角膜",
+      "晶状体",
+      "玻璃体",
+      "视网膜"
+    ],
+    "correctAnswer": 1,
+    "explanation": "白内障是晶状体蛋白质变性、混浊导致的眼病，手术置换人工晶体是目前最有效的治疗方法。"
+  },
+  {
+    "id": "modern-medicine-017",
+    "category": "modern-medicine",
+    "difficulty": "easy",
+    "question": "青霉素是由哪位科学家发现的？",
+    "options": [
+      "路易·巴斯德",
+      "亚历山大·弗莱明",
+      "罗伯特·科赫",
+      "约瑟夫·李斯特"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1928 年英国细菌学家弗莱明发现青霉菌分泌的青霉素能抑制细菌生长，开创了抗生素时代。"
+  },
+  {
+    "id": "modern-medicine-018",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "CT 检查与 MRI 检查最主要的成像原理区别是什么？",
+    "options": [
+      "CT 用超声波，MRI 用电磁波",
+      "CT 用 X 射线，MRI 用磁场和射频脉冲",
+      "CT 用红外线，MRI 用紫外线",
+      "两者都用 X 射线"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CT 利用 X 射线断层扫描，MRI 利用强磁场和射频脉冲使体内氢质子共振成像，无电离辐射。"
+  },
+  {
+    "id": "modern-medicine-019",
+    "category": "modern-medicine",
+    "difficulty": "easy",
+    "question": "心电图（ECG/EKG）主要记录心脏的什么活动？",
+    "options": [
+      "心脏机械收缩",
+      "心脏电活动",
+      "心脏血流速度",
+      "心脏瓣膜开合"
+    ],
+    "correctAnswer": 1,
+    "explanation": "心电图记录心肌细胞除极和复极产生的电信号变化，用于诊断心律失常、心肌缺血等。"
+  },
+  {
+    "id": "modern-medicine-020",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "胃镜检查通常可以直接观察食管、胃以及哪个部位？",
+    "options": [
+      "口腔",
+      "十二指肠",
+      "空肠",
+      "结肠"
+    ],
+    "correctAnswer": 1,
+    "explanation": "胃镜经口进入，可直视食管、胃和十二指肠球部/降部，是诊断上消化道疾病的金标准之一。"
+  },
+  {
+    "id": "modern-medicine-021",
+    "category": "modern-medicine",
+    "difficulty": "hard",
+    "question": "临床上常用的肝功能检查指标 ALT 和 AST 主要存在于哪种细胞中？",
+    "options": [
+      "红细胞",
+      "肝细胞",
+      "肾小管上皮细胞",
+      "心肌细胞"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ALT（丙氨酸氨基转移酶）和 AST（天门冬氨酸氨基转移酶）主要存在于肝细胞，升高常提示肝细胞损伤。"
+  },
+  {
+    "id": "modern-medicine-022",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "急性阑尾炎最典型的早期症状是什么？",
+    "options": [
+      "右上腹痛",
+      "转移性右下腹痛",
+      "脐周绞痛伴腹泻",
+      "腰背部放射痛"
+    ],
+    "correctAnswer": 1,
+    "explanation": "急性阑尾炎典型表现为初期脐周或上腹痛，数小时后转移至右下腹并固定，伴发热、恶心等。"
+  },
+  {
+    "id": "modern-medicine-023",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "骨折现场急救时，对开放性骨折伴出血伤口的首要处理原则是什么？",
+    "options": [
+      "立即复位断骨",
+      "加压包扎止血并固定",
+      "用酒精冲洗伤口",
+      "热敷促进血液循环"
+    ],
+    "correctAnswer": 1,
+    "explanation": "开放性骨折应先加压包扎止血，用夹板固定伤肢避免进一步损伤，不要现场复位骨折端。"
+  },
+  {
+    "id": "modern-medicine-024",
+    "category": "modern-medicine",
+    "difficulty": "easy",
+    "question": "轻度烫伤或烧伤后，现场最推荐的急救措施是什么？",
+    "options": [
+      "立即涂抹牙膏或酱油",
+      "用流动冷水冲洗 15～20 分钟",
+      "刺破水泡加速愈合",
+      "用火烤或冰敷直接降温"
+    ],
+    "correctAnswer": 1,
+    "explanation": "烧伤后应立即用流动冷水冲洗 15～20 分钟降温止痛，不要涂抹民间偏方或刺破水泡。"
+  },
+  {
+    "id": "modern-medicine-025",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "成人发生气道异物梗阻时，海姆立克急救法的冲击部位是？",
+    "options": [
+      "胸部正中",
+      "上腹部（肚脐与剑突之间）",
+      "颈部两侧",
+      "后腰"
+    ],
+    "correctAnswer": 1,
+    "explanation": "海姆立克法通过快速向上向内冲击上腹部，使膈肌上抬、肺内气体排出，从而把异物冲出气道。"
+  },
+  {
+    "id": "modern-medicine-026",
+    "category": "modern-medicine",
+    "difficulty": "easy",
+    "question": "艾滋病（AIDS）是由哪种病原体感染引起的？",
+    "options": [
+      "人类免疫缺陷病毒（HIV）",
+      "人类乳头瘤病毒（HPV）",
+      "乙型肝炎病毒（HBV）",
+      "梅毒螺旋体"
+    ],
+    "correctAnswer": 0,
+    "explanation": "艾滋病由 HIV 攻击 CD4+T 淋巴细胞导致免疫功能缺陷，目前尚不能彻底治愈，但抗病毒治疗可有效控制。"
+  },
+  {
+    "id": "modern-medicine-027",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "结核病的主要病原体是什么？",
+    "options": [
+      "结核分枝杆菌",
+      "金黄色葡萄球菌",
+      "肺炎链球菌",
+      "白色念珠菌"
+    ],
+    "correctAnswer": 0,
+    "explanation": "结核病由结核分枝杆菌引起，最常累及肺（肺结核），也可侵犯淋巴结、骨骼、泌尿生殖系统等。"
+  },
+  {
+    "id": "modern-medicine-028",
+    "category": "modern-medicine",
+    "difficulty": "easy",
+    "question": "疟疾主要通过哪种生物叮咬传播给人类？",
+    "options": [
+      "苍蝇",
+      "蚊子",
+      "蜱虫",
+      "跳蚤"
+    ],
+    "correctAnswer": 1,
+    "explanation": "疟疾由按蚊叮咬传播疟原虫引起，是全球重要的寄生虫传染病，我国已获世卫组织消除疟疾认证。"
+  },
+  {
+    "id": "modern-medicine-029",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "被可疑疯动物咬伤后，预防狂犬病最关键的措施是什么？",
+    "options": [
+      "仅包扎伤口",
+      "尽快清洗伤口并接种狂犬病疫苗",
+      "服用抗生素",
+      "观察动物 10 天即可"
+    ],
+    "correctAnswer": 1,
+    "explanation": "狂犬病一旦发病几乎 100% 致死，暴露后应立即用肥皂水冲洗伤口 15 分钟以上，并尽快接种疫苗和/或免疫球蛋白。"
+  },
+  {
+    "id": "modern-medicine-030",
+    "category": "modern-medicine",
+    "difficulty": "hard",
+    "question": "下列哪类药物常用于高血压患者的长期降压治疗？",
+    "options": [
+      "ACEI/ARB 类",
+      "大环内酯类抗生素",
+      "糖皮质激素",
+      "非甾体抗炎药"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ACEI（如依那普利）和 ARB（如缬沙坦）是常用降压药，通过抑制肾素-血管紧张素系统降低血压。"
+  },
+  {
+    "id": "modern-medicine-031",
+    "category": "modern-medicine",
+    "difficulty": "hard",
+    "question": "血脂检查中「血脂四项」通常不包括下列哪项？",
+    "options": [
+      "总胆固醇（TC）",
+      "甘油三酯（TG）",
+      "高密度脂蛋白胆固醇（HDL-C）",
+      "血尿酸（UA）"
+    ],
+    "correctAnswer": 3,
+    "explanation": "血脂四项指总胆固醇、甘油三酯、高密度脂蛋白胆固醇和低密度脂蛋白胆固醇；血尿酸属于肾功能/代谢指标。"
+  },
+  {
+    "id": "modern-medicine-032",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "甲状腺功能亢进（甲亢）患者常出现下列哪组症状？",
+    "options": [
+      "怕冷、便秘、体重增加",
+      "怕热、多汗、心悸、体重下降",
+      "嗜睡、水肿、声音嘶哑",
+      "皮肤苍白、脱发、记忆力减退"
+    ],
+    "correctAnswer": 1,
+    "explanation": "甲亢因甲状腺激素过多导致代谢亢进，常见怕热多汗、心悸手抖、易饥消瘦、情绪易激动等。"
+  },
+  {
+    "id": "modern-medicine-033",
+    "category": "modern-medicine",
+    "difficulty": "easy",
+    "question": "预防骨质疏松，除了补钙外，通常还需要补充哪种维生素以促进钙吸收？",
+    "options": [
+      "维生素 A",
+      "维生素 D",
+      "维生素 E",
+      "维生素 K"
+    ],
+    "correctAnswer": 1,
+    "explanation": "维生素 D 能促进肠道钙吸收和骨骼矿化，缺乏时单纯补钙效果不佳；适当日晒也可促进皮肤合成维生素 D。"
+  },
+  {
+    "id": "modern-medicine-034",
+    "category": "modern-medicine",
+    "difficulty": "hard",
+    "question": "胃溃疡和十二指肠溃疡的疼痛节律特点通常有何不同？",
+    "options": [
+      "两者都在空腹时疼痛",
+      "胃溃疡多为餐后痛，十二指肠溃疡多为空腹痛/夜间痛",
+      "两者都在夜间加重",
+      "胃溃疡多为右上腹痛，十二指肠溃疡多为左上腹痛"
+    ],
+    "correctAnswer": 1,
+    "explanation": "胃溃疡常表现为餐后 0.5～1 小时疼痛；十二指肠溃疡多在空腹或夜间疼痛，进食后可缓解。"
+  },
+  {
+    "id": "modern-medicine-035",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "病毒性肝炎中，主要通过血液、母婴和性接触传播的是哪一型？",
+    "options": [
+      "甲型肝炎",
+      "乙型肝炎",
+      "戊型肝炎",
+      "所有类型都一样"
+    ],
+    "correctAnswer": 1,
+    "explanation": "乙肝和丙肝主要经血液、母婴和性传播；甲肝和戊肝主要经粪-口途径传播。"
+  },
+  {
+    "id": "modern-medicine-036",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "尿毒症是哪种器官功能严重衰竭导致的临床综合征？",
+    "options": [
+      "肝脏",
+      "肾脏",
+      "心脏",
+      "肺脏"
+    ],
+    "correctAnswer": 1,
+    "explanation": "尿毒症是慢性肾衰竭终末期，肾脏无法排出代谢废物和调节水电解质，需透析或肾移植治疗。"
+  },
+  {
+    "id": "modern-medicine-037",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "青光眼导致视力下降的主要机制是什么？",
+    "options": [
+      "晶状体混浊",
+      "视网膜脱落",
+      "视神经损害",
+      "角膜瘢痕"
+    ],
+    "correctAnswer": 2,
+    "explanation": "青光眼以眼压升高或正常眼压下视神经损害为特征，可造成不可逆的视野缺损和视力下降。"
+  },
+  {
+    "id": "modern-medicine-038",
+    "category": "modern-medicine",
+    "difficulty": "hard",
+    "question": "急性心肌梗死诊断中，血液里哪项指标升高最具特异性和敏感性？",
+    "options": [
+      "白细胞计数",
+      "肌钙蛋白（cTn）",
+      "血糖",
+      "血肌酐"
+    ],
+    "correctAnswer": 1,
+    "explanation": "心肌肌钙蛋白（cTnI/cTnT）是心肌损伤的特异性标志物，急性心梗时明显升高，是诊断的核心依据之一。"
+  },
+  {
+    "id": "modern-medicine-039",
+    "category": "modern-medicine",
+    "difficulty": "hard",
+    "question": "脑膜炎与脑炎的主要区别在于病变主要累及什么结构？",
+    "options": [
+      "脑膜 vs 脑实质",
+      "脑血管 vs 脑脊液",
+      "脑神经 vs 脊神经",
+      "脑干 vs 小脑"
+    ],
+    "correctAnswer": 0,
+    "explanation": "脑膜炎是脑膜炎症，脑炎是脑实质炎症；两者病因可为病毒、细菌等，临床表现可有重叠。"
+  },
+  {
+    "id": "modern-medicine-040",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "全身麻醉让患者「睡着」，主要抑制中枢神经系统的哪项功能？",
+    "options": [
+      "仅抑制痛觉",
+      "意识、痛觉、肌肉反射等多方面",
+      "仅抑制呼吸",
+      "仅抑制记忆"
+    ],
+    "correctAnswer": 1,
+    "explanation": "全麻通过抑制中枢神经系统，使患者意识消失、痛觉丧失、肌肉松弛、反射减弱，便于手术操作。"
+  },
+  {
+    "id": "modern-medicine-041",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "输血前为什么要做交叉配血试验？",
+    "options": [
+      "检查血液是否过期",
+      "检测受血者与供血者血液是否相容",
+      "测量血红蛋白浓度",
+      "判断是否有传染病"
+    ],
+    "correctAnswer": 1,
+    "explanation": "交叉配血可检测受血者血清与供血者红细胞之间、供血者血清与受血者红细胞之间是否发生凝集，预防输血反应。"
+  },
+  {
+    "id": "modern-medicine-042",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "手术室器械达到无菌要求最常用的方法是什么？",
+    "options": [
+      "酒精擦拭",
+      "高压蒸汽灭菌",
+      "紫外线照射",
+      "清水冲洗"
+    ],
+    "correctAnswer": 1,
+    "explanation": "高压蒸汽灭菌（autoclave）利用高温高压蒸汽杀灭微生物，是手术器械灭菌最可靠、最常用的方法。"
+  },
+  {
+    "id": "modern-medicine-043",
+    "category": "modern-medicine",
+    "difficulty": "hard",
+    "question": "医院内获得性肺炎（HAP）最常见的致病菌是哪类？",
+    "options": [
+      "革兰阳性球菌（如金黄色葡萄球菌）",
+      "革兰阴性杆菌（如铜绿假单胞菌、肺炎克雷伯菌）",
+      "真菌",
+      "病毒"
+    ],
+    "correctAnswer": 1,
+    "explanation": "医院获得性肺炎多见于机械通气等患者，常见革兰阴性杆菌和耐甲氧西林金黄色葡萄球菌（MRSA）等。"
+  },
+  {
+    "id": "modern-medicine-044",
+    "category": "modern-medicine",
+    "difficulty": "hard",
+    "question": "流行病学中，R0（基本再生数）表示什么含义？",
+    "options": [
+      "病死率",
+      "一个感染者平均能传染给多少易感者",
+      "潜伏期天数",
+      "疫苗保护率"
+    ],
+    "correctAnswer": 1,
+    "explanation": "R0 指在没有干预和所有人易感的情况下，一个感染者平均能传染给几个人；R0>1 疫情可扩散。"
+  },
+  {
+    "id": "modern-medicine-045",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "基础代谢率（BMR）主要反映人体在什么状态下的能量消耗？",
+    "options": [
+      "剧烈运动时",
+      "清醒、安静、空腹状态下维持生命所需的最低能量",
+      "睡眠做梦时",
+      "饭后消化时"
+    ],
+    "correctAnswer": 1,
+    "explanation": "BMR 指清醒、安静、空腹、室温适宜状态下，维持心跳、呼吸、体温等基本生命活动所需的最低能量。"
+  },
+  {
+    "id": "modern-medicine-046",
+    "category": "modern-medicine",
+    "difficulty": "easy",
+    "question": "膳食纤维对人体健康的主要作用不包括下列哪项？",
+    "options": [
+      "促进肠道蠕动",
+      "预防便秘",
+      "直接被人体消化吸收提供能量",
+      "有助于控制血糖和血脂"
+    ],
+    "correctAnswer": 2,
+    "explanation": "膳食纤维不能被人体消化酶分解吸收，但可促进肠道蠕动、增加饱腹感、调节血糖血脂。"
+  },
+  {
+    "id": "modern-medicine-047",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "阻塞性睡眠呼吸暂停低通气综合征（OSAHS）最常见的典型表现是什么？",
+    "options": [
+      "夜间打鼾伴呼吸暂停",
+      "白天过度兴奋",
+      "夜间多尿",
+      "持续高热"
+    ],
+    "correctAnswer": 0,
+    "explanation": "OSAHS 表现为睡眠时反复打鼾、呼吸暂停和低通气，导致白天嗜睡、注意力不集中，长期可损害心脑血管。"
+  },
+  {
+    "id": "modern-medicine-048",
+    "category": "modern-medicine",
+    "difficulty": "hard",
+    "question": "I 型超敏反应（速发型过敏反应）中，主要介导的抗体是什么？",
+    "options": [
+      "IgA",
+      "IgE",
+      "IgG",
+      "IgM"
+    ],
+    "correctAnswer": 1,
+    "explanation": "IgE 与肥大细胞和嗜碱性粒细胞表面受体结合，再次接触过敏原时触发脱颗粒，引起荨麻疹、哮喘、过敏性休克等。"
+  },
+  {
+    "id": "modern-medicine-049",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "癌症的发生通常与细胞的哪种关键改变密切相关？",
+    "options": [
+      "基因突变导致细胞失控增殖",
+      "细胞膜完全消失",
+      "线粒体数量减少一半",
+      "细胞核变成方形"
+    ],
+    "correctAnswer": 0,
+    "explanation": "癌症是体细胞基因突变累积，导致原癌基因激活、抑癌基因失活，细胞增殖失控、侵袭转移的结果。"
+  },
+  {
+    "id": "modern-medicine-050",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "姑息治疗（palliative care）的主要目标是什么？",
+    "options": [
+      "彻底治愈疾病",
+      "改善患者生活质量、缓解痛苦和症状",
+      "替代手术治疗",
+      "仅用于临终前几小时"
+    ],
+    "correctAnswer": 1,
+    "explanation": "姑息治疗通过控制疼痛和其他身心症状，改善患者及家庭生活质量，可在疾病任何阶段与根治性治疗并行。"
+  }
+]
