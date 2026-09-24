@@ -22300,5 +22300,425 @@
     ],
     "correctAnswer": 1,
     "explanation": "姑息治疗通过控制疼痛和其他身心症状，改善患者及家庭生活质量，可在疾病任何阶段与根治性治疗并行。"
+  },
+  {
+    "id": "examscope-1564",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "中国神话中，开天辟地、身体化为山川河流的神是谁？",
+    "options": [
+      "女娲",
+      "盘古",
+      "伏羲",
+      "共工"
+    ],
+    "correctAnswer": 1,
+    "explanation": "盘古开天辟地，死后身体各部分化为天地万物，是中国创世神话的核心人物。"
+  },
+  {
+    "id": "examscope-1565",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "女娲在中国神话中最著名的功绩是什么？",
+    "options": [
+      "射下九日",
+      "抟土造人、炼石补天",
+      "追逐太阳",
+      "衔石填海"
+    ],
+    "correctAnswer": 1,
+    "explanation": "女娲用黄土造人，又在天塌地陷时炼五色石补天，斩鳌足撑四极，是创世与救世女神。"
+  },
+  {
+    "id": "examscope-1566",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "后羿射日的神话中，天上原本有几个太阳？",
+    "options": [
+      "七个",
+      "八个",
+      "九个",
+      "十个"
+    ],
+    "correctAnswer": 3,
+    "explanation": "传说古时天上有十日并出，大地焦枯，后羿射落九日，只留下一个太阳。"
+  },
+  {
+    "id": "examscope-1567",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "「精卫填海」中的精卫原本是谁的女儿？",
+    "options": [
+      "黄帝",
+      "炎帝",
+      "尧帝",
+      "舜帝"
+    ],
+    "correctAnswer": 1,
+    "explanation": "精卫是炎帝之女女娃，溺于东海后化为神鸟，常衔西山木石以填东海。"
+  },
+  {
+    "id": "examscope-1568",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "中国神话中，掌管天界的最高神通常被称为什么？",
+    "options": [
+      "太上老君",
+      "玉皇大帝",
+      "元始天尊",
+      "如来佛祖"
+    ],
+    "correctAnswer": 1,
+    "explanation": "玉皇大帝是道教神话中天庭的最高统治者，统御三界十方，常与王母娘娘并提。"
+  },
+  {
+    "id": "examscope-1569",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "哪吒闹海中，哪吒自刎后以什么植物为骨、什么为肉重生？",
+    "options": [
+      "莲藕为骨、荷叶为肉",
+      "桃木为骨、泥土为肉",
+      "柳枝为骨、花瓣为肉",
+      "竹枝为骨、藤蔓为肉"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《封神演义》中，太乙真人以莲花、莲藕为哪吒重塑肉身，使其复活。"
+  },
+  {
+    "id": "examscope-1570",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "希腊神话中，众神之王宙斯的主要武器/象征是什么？",
+    "options": [
+      "三叉戟",
+      "雷霆（闪电）",
+      "弓箭",
+      "盾牌"
+    ],
+    "correctAnswer": 1,
+    "explanation": "宙斯是奥林匹斯众神之王，掌管天空与雷电，常手持雷霆或闪电。"
+  },
+  {
+    "id": "examscope-1571",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "希腊海神波塞冬的象征物是什么？",
+    "options": [
+      "闪电",
+      "三叉戟",
+      "长矛",
+      "竖琴"
+    ],
+    "correctAnswer": 1,
+    "explanation": "波塞冬是海洋、地震和海啸之神，手持三叉戟，能呼风唤浪。"
+  },
+  {
+    "id": "examscope-1572",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "北欧神话中，世界树的名字是什么？",
+    "options": [
+      "巴尔蒙克",
+      "伊格德拉修尔（Yggdrasil）",
+      "米蒙格尔",
+      "斯瓦塔尔法海姆"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yggdrasil（伊格德拉修尔）是北欧神话中连接九界的巨大梣树，是世界观的中心。"
+  },
+  {
+    "id": "examscope-1573",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "北欧神话中，雷神托尔使用的武器是什么？",
+    "options": [
+      "永恒之枪冈格尼尔",
+      "雷神之锤妙尔尼尔",
+      "宝剑提尔锋",
+      "魔剑莱瓦汀"
+    ],
+    "correctAnswer": 1,
+    "explanation": "妙尔尼尔（Mjölnir）是雷神托尔的神锤，投掷后能自动返回主人手中。"
+  },
+  {
+    "id": "examscope-1574",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "北欧神话里，引发诸神黄昏（Ragnarök）的诡计之神是谁？",
+    "options": [
+      "奥丁",
+      "托尔",
+      "洛基",
+      "巴德尔"
+    ],
+    "correctAnswer": 2,
+    "explanation": "洛基是火与诡计之神，因杀害光明神巴德尔等罪行被囚禁，其子女也参与引发诸神黄昏。"
+  },
+  {
+    "id": "examscope-1575",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "北欧神话中，奥丁为获取智慧付出了什么代价？",
+    "options": [
+      "一只眼睛",
+      "一只手臂",
+      "一条腿",
+      "一只耳朵"
+    ],
+    "correctAnswer": 0,
+    "explanation": "奥丁在密米尔之泉以一只眼睛为代价换取智慧，并常被描绘为独眼。"
+  },
+  {
+    "id": "examscope-1576",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "希腊神话中，雅典娜是哪个城市的守护神，并以什么象征物著称？",
+    "options": [
+      "斯巴达，长矛",
+      "雅典，猫头鹰",
+      "底比斯，蛇",
+      "科林斯，海豚"
+    ],
+    "correctAnswer": 1,
+    "explanation": "雅典娜是智慧与战争女神，雅典城以她命名，猫头鹰是她的象征。"
+  },
+  {
+    "id": "examscope-1577",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "希腊神话中，导致特洛伊战争爆发的金苹果上写着「献给最美的女神」，最终谁得到了它？",
+    "options": [
+      "赫拉",
+      "雅典娜",
+      "阿佛洛狄忒",
+      "阿尔忒弥斯"
+    ],
+    "correctAnswer": 2,
+    "explanation": "帕里斯把金苹果判给爱神阿佛洛狄忒，作为回报她让他拐走海伦，引发特洛伊战争。"
+  },
+  {
+    "id": "examscope-1578",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "埃及神话中，太阳神通常被称为什么？",
+    "options": [
+      "奥西里斯",
+      "阿努比斯",
+      "拉（Ra）",
+      "荷鲁斯"
+    ],
+    "correctAnswer": 2,
+    "explanation": "拉是古埃及最重要的太阳神，常与阿蒙神融合为阿蒙-拉，象征创造与生命。"
+  },
+  {
+    "id": "examscope-1579",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "埃及神话中，长着胡狼头、负责引导亡灵并主持木乃伊制作的神是谁？",
+    "options": [
+      "托特",
+      "塞特",
+      "阿努比斯",
+      "荷鲁斯"
+    ],
+    "correctAnswer": 2,
+    "explanation": "阿努比斯是亡灵与防腐之神，以胡狼头形象出现，负责称量死者心脏审判亡灵。"
+  },
+  {
+    "id": "examscope-1580",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "印度教三相神中，负责维护宇宙秩序的是哪一位？",
+    "options": [
+      "梵天（Brahma）",
+      "毗湿奴（Vishnu）",
+      "湿婆（Shiva）",
+      "因陀罗（Indra）"
+    ],
+    "correctAnswer": 1,
+    "explanation": "印度教三相神中，梵天司创造，毗湿奴司维护，湿婆司毁灭；毗湿奴多次化身下凡拯救世界。"
+  },
+  {
+    "id": "examscope-1581",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "日本神话中，太阳女神天照大神因躲进天岩户而使世界陷入黑暗，后来众神用什么办法引她出来？",
+    "options": [
+      "献上八咫镜和八尺琼勾玉",
+      "在天岩户前跳起神乐舞",
+      "敲响天沼琴",
+      "点燃千支火把"
+    ],
+    "correctAnswer": 1,
+    "explanation": "女神天宇受卖命在天岩户前跳起狂热的神乐舞，众神欢笑鼓掌，天照大神好奇探头，被天手力男神拉出来。"
+  },
+  {
+    "id": "examscope-1582",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "中国神话中，嫦娥奔月后居住在月宫的仙兽是什么？",
+    "options": [
+      "金乌",
+      "玉兔",
+      "蟾蜍",
+      "麒麟"
+    ],
+    "correctAnswer": 1,
+    "explanation": "嫦娥吞服不死药飞升月宫，身边有玉兔捣药；早期神话中也有蟾蜍意象，但玉兔更为人熟知。"
+  },
+  {
+    "id": "examscope-1583",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "《西游记》中，孙悟空的兵器如意金箍棒原本是谁用来定海的？",
+    "options": [
+      "东海龙王",
+      "玉皇大帝",
+      "太上老君",
+      "大禹"
+    ],
+    "correctAnswer": 3,
+    "explanation": "金箍棒原是大禹治水时定江海深浅的「定海神针铁」，后成为孙悟空兵器。"
+  },
+  {
+    "id": "examscope-1584",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "希腊神话中，冥王哈迪斯统治的领域是？",
+    "options": [
+      "奥林匹斯山",
+      "冥界",
+      "海洋",
+      "天空"
+    ],
+    "correctAnswer": 1,
+    "explanation": "哈迪斯是冥界之王，掌管死亡与地下世界，三兄弟中宙斯管天、波塞冬管海、哈迪斯管冥界。"
+  },
+  {
+    "id": "examscope-1585",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "北欧神话中，瓦尔基里（Valkyrie）的职责是什么？",
+    "options": [
+      "编织命运之网",
+      "在战场挑选英灵并带入英灵殿",
+      "守护世界树树根",
+      "为诸神酿造蜜酒"
+    ],
+    "correctAnswer": 1,
+    "explanation": "瓦尔基里是奥丁的女武神，骑马驰骋战场，挑选英勇战死者灵魂进入瓦尔哈拉（英灵殿）。"
+  },
+  {
+    "id": "examscope-1586",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "中国神话中，「夸父逐日」的结局是什么？",
+    "options": [
+      "追上太阳并捉住它",
+      "口渴而死，手杖化为桃林",
+      "被后羿射落",
+      "化作一座大山"
+    ],
+    "correctAnswer": 1,
+    "explanation": "夸父追逐太阳，途中干渴难耐，喝干黄河渭水仍不足，最终渴死；他的手杖化为邓林（桃林）。"
+  },
+  {
+    "id": "examscope-1587",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "希腊神话中，赫拉克勒斯（海格力斯）最著名的成就是完成了多少项苦役？",
+    "options": [
+      "十项",
+      "十二项",
+      "七项",
+      "九项"
+    ],
+    "correctAnswer": 1,
+    "explanation": "赫拉克勒斯因赫拉诅咒发疯杀死家人，后完成欧律斯透斯交给他的十二项苦役（十二功绩）以赎罪。"
+  },
+  {
+    "id": "examscope-1588",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "埃及神话中，死者的心脏会在审判时被与哪样物品称重？",
+    "options": [
+      "一片羽毛",
+      "一块石头",
+      "一枚金币",
+      "一根麦穗"
+    ],
+    "correctAnswer": 0,
+    "explanation": "亡者在冥界接受奥西里斯审判，心脏与象征真理正义的玛阿特之羽称重；心脏比羽毛重则被怪物吞噬。"
+  },
+  {
+    "id": "examscope-1589",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "印度史诗《摩诃婆罗多》中，黑天（Krishna）在战场上为阿周那讲解真理的篇章被称为什么？",
+    "options": [
+      "《罗摩衍那》",
+      "《薄伽梵歌》",
+      "《奥义书》",
+      "《吠陀经》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《薄伽梵歌》是《摩诃婆罗多》中的哲学对话诗，黑天向阿周那阐述责任、灵魂与解脱之道。"
+  },
+  {
+    "id": "examscope-1590",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "日本神话中，伊邪那岐和伊邪那美兄妹用什么东西搅拌海水创造日本列岛？",
+    "options": [
+      "天沼矛",
+      "八咫镜",
+      "草薙剑",
+      "天丛云剑"
+    ],
+    "correctAnswer": 0,
+    "explanation": "伊邪那岐与伊邪那美站在天之浮桥上，用天沼矛搅动大海，滴落的盐堆凝聚成日本列岛。"
+  },
+  {
+    "id": "examscope-1591",
+    "category": "examscope",
+    "difficulty": "easy",
+    "question": "中国神话中，「牛郎织女」每年相会的日期是农历哪一天？",
+    "options": [
+      "正月十五",
+      "五月初五",
+      "七月初七",
+      "八月十五"
+    ],
+    "correctAnswer": 2,
+    "explanation": "农历七月初七是七夕节，传说牛郎织女在这一天跨过鹊桥相会。"
+  },
+  {
+    "id": "examscope-1592",
+    "category": "examscope",
+    "difficulty": "medium",
+    "question": "希腊神话中，谁能 turning 任何被看一眼的东西变成石头？",
+    "options": [
+      "美杜莎",
+      "塞壬",
+      "斯芬克斯",
+      "哈耳庇厄"
+    ],
+    "correctAnswer": 0,
+    "explanation": "美杜莎是戈尔贡女妖之一，任何人直视她的眼睛都会变成石头；英雄珀尔修斯借盾面反射斩杀了她。"
+  },
+  {
+    "id": "examscope-1593",
+    "category": "examscope",
+    "difficulty": "hard",
+    "question": "北欧神话中，众神居住的神殿所在地叫什么？",
+    "options": [
+      "米德加尔特（Midgard）",
+      "阿斯加德（Asgard）",
+      "约顿海姆",
+      "尼福尔海姆"
+    ],
+    "correctAnswer": 1,
+    "explanation": "阿斯加德是阿萨神族的居所，以彩虹桥比弗罗斯特与人间中庭米德加尔特相连。"
   }
 ]
