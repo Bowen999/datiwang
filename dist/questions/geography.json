@@ -1,0 +1,772 @@
+[
+  {
+    "id": "geography-001",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "澳大利亚的首都是哪座城市？",
+    "options": [
+      "悉尼",
+      "墨尔本",
+      "堪培拉",
+      "布里斯班"
+    ],
+    "correctAnswer": 2,
+    "explanation": "堪培拉才是澳大利亚的首都！当年悉尼和墨尔本为争首都吵得不可开交，最后干脆在两城之间新建了堪培拉作为妥协方案。"
+  },
+  {
+    "id": "geography-002",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "世界上海拔最高的首都是哪座城市？",
+    "options": [
+      "基多",
+      "拉巴斯",
+      "波哥大",
+      "加德满都"
+    ],
+    "correctAnswer": 1,
+    "explanation": "玻利维亚政府所在地拉巴斯海拔约 3600 米，是世界最高的首都（其法定首都其实是苏克雷）。厄瓜多尔的基多以约 2850 米屈居第二。"
+  },
+  {
+    "id": "geography-003",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "陆地上最长的山脉是哪一条？",
+    "options": [
+      "安第斯山脉",
+      "喜马拉雅山脉",
+      "落基山脉",
+      "阿尔卑斯山脉"
+    ],
+    "correctAnswer": 0,
+    "explanation": "安第斯山脉纵贯南美洲西海岸，全长约 8900 公里，是陆地最长的山脉。喜马拉雅虽然最高，但比'长度'只能认输。"
+  },
+  {
+    "id": "geography-004",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "世界上最长的河流尼罗河，自南向北最终注入哪里？",
+    "options": [
+      "红海",
+      "波斯湾",
+      "阿拉伯海",
+      "地中海"
+    ],
+    "correctAnswer": 3,
+    "explanation": "尼罗河一路向北穿越撒哈拉，最终在埃及注入地中海，入海口形成了著名的尼罗河三角洲。"
+  },
+  {
+    "id": "geography-005",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "典型的地中海气候有什么特点？",
+    "options": [
+      "夏季炎热干燥、冬季温和多雨",
+      "全年高温多雨",
+      "夏季高温多雨、冬季寒冷干燥",
+      "全年温和湿润、降水均匀"
+    ],
+    "correctAnswer": 0,
+    "explanation": "地中海气候夏季受副热带高压控制炎热干燥，冬季受西风带影响温和多雨——所以地中海沿岸的夏天基本不用带伞。"
+  },
+  {
+    "id": "geography-006",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "如果算上海外领地，跨越时区数量最多的国家是哪个？",
+    "options": [
+      "俄罗斯",
+      "美国",
+      "法国",
+      "加拿大"
+    ],
+    "correctAnswer": 2,
+    "explanation": "法国本土虽只用 1 个时区，但海外领地遍布全球，共横跨 12 个时区，比俄罗斯的 11 个还多，堪称'日不落帝国 2.0'。"
+  },
+  {
+    "id": "geography-007",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "不考虑夏令时，北京（东八区）正午 12 点时，伦敦（中时区）是几点？",
+    "options": [
+      "早上 8 点",
+      "凌晨 4 点",
+      "前一天傍晚 6 点",
+      "当天晚上 8 点"
+    ],
+    "correctAnswer": 1,
+    "explanation": "北京是 UTC+8，伦敦是 UTC+0，相差 8 小时，所以北京正午 12 点时伦敦还是凌晨 4 点，英国人睡得正香。"
+  },
+  {
+    "id": "geography-008",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "世界上盐度最高的海是哪个？",
+    "options": [
+      "死海",
+      "地中海",
+      "红海",
+      "波罗的海"
+    ],
+    "correctAnswer": 2,
+    "explanation": "红海蒸发旺盛又几乎没有大河注入，盐度约 4%，居各海之冠。死海虽然更咸，但它是湖泊，没资格参赛。"
+  },
+  {
+    "id": "geography-009",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "目前世界上人口最多的国家是哪个？",
+    "options": [
+      "中国",
+      "美国",
+      "印度尼西亚",
+      "印度"
+    ],
+    "correctAnswer": 3,
+    "explanation": "根据联合国数据，印度在 2023 年正式超越中国，成为世界第一人口大国，而且这个位置预计会坐很多年。"
+  },
+  {
+    "id": "geography-010",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "世界上面积最大的内陆国（没有海岸线的国家）是哪个？",
+    "options": [
+      "蒙古国",
+      "哈萨克斯坦",
+      "乍得",
+      "巴拉圭"
+    ],
+    "correctAnswer": 1,
+    "explanation": "哈萨克斯坦面积约 272 万平方公里，是世界最大的内陆国，比第二名蒙古国大了将近一倍。"
+  },
+  {
+    "id": "geography-011",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "世界上最大的热带沙漠是哪个？",
+    "options": [
+      "撒哈拉沙漠",
+      "塔克拉玛干沙漠",
+      "阿拉伯沙漠",
+      "澳大利亚沙漠"
+    ],
+    "correctAnswer": 0,
+    "explanation": "撒哈拉沙漠面积约 920 万平方公里，几乎和美国本土相当。冷知识：若按广义荒漠定义，南极洲才是地球上最大的'荒漠'。"
+  },
+  {
+    "id": "geography-012",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "地球上最早迎接新一天（最早跨日）的国家是哪个？",
+    "options": [
+      "新西兰",
+      "日本",
+      "斐济",
+      "基里巴斯"
+    ],
+    "correctAnswer": 3,
+    "explanation": "基里巴斯在 1995 年把国际日期变更线'掰弯'，其莱恩群岛采用 UTC+14 时区，成为全球最早迎来新一天的地方。"
+  },
+  {
+    "id": "geography-013",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "土耳其的首都是哪座城市？",
+    "options": [
+      "伊斯坦布尔",
+      "安卡拉",
+      "伊兹密尔",
+      "安塔利亚"
+    ],
+    "correctAnswer": 1,
+    "explanation": "土耳其首都是安卡拉，不是伊斯坦布尔！伊斯坦布尔只是最大城市，1923 年土耳其共和国建国后就把首都迁到了内陆的安卡拉。"
+  },
+  {
+    "id": "geography-014",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "世界上流量最大、流域面积最广的河流是哪条？",
+    "options": [
+      "尼罗河",
+      "刚果河",
+      "亚马孙河",
+      "密西西比河"
+    ],
+    "correctAnswer": 2,
+    "explanation": "亚马孙河的流量约占全球河流入海总量的五分之一，比后面七条大河加起来还多。尼罗河虽长，但论'水量'完全不是对手。"
+  },
+  {
+    "id": "geography-015",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "欧洲最长的河流伏尔加河，最终注入哪个水域？",
+    "options": [
+      "黑海",
+      "波罗的海",
+      "地中海",
+      "里海"
+    ],
+    "correctAnswer": 3,
+    "explanation": "伏尔加河全长约 3530 公里，一路向南注入里海。它被俄罗斯人称为'母亲河'，而里海其实是世界最大的湖泊。"
+  },
+  {
+    "id": "geography-016",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "地球表面的最低点（海洋最深处）位于哪条海沟？",
+    "options": [
+      "马里亚纳海沟",
+      "汤加海沟",
+      "千岛-堪察加海沟",
+      "秘鲁-智利海沟"
+    ],
+    "correctAnswer": 0,
+    "explanation": "马里亚纳海沟的挑战者深渊深约 10900 米，把珠穆朗玛峰整个塞进去还差两千多米才能露出海面。"
+  },
+  {
+    "id": "geography-017",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "下列哪座城市属于典型的温带海洋性气候，全年温和湿润？",
+    "options": [
+      "罗马",
+      "伦敦",
+      "开罗",
+      "北京"
+    ],
+    "correctAnswer": 1,
+    "explanation": "温带海洋性气候分布在大陆西岸中高纬度地区，伦敦是典型代表——冬不冷夏不热，雨伞是伦敦人的本体。罗马是地中海气候，北京是温带季风气候。"
+  },
+  {
+    "id": "geography-018",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "世界上语言种类最多的国家是哪个？",
+    "options": [
+      "印度",
+      "印度尼西亚",
+      "尼日利亚",
+      "巴布亚新几内亚"
+    ],
+    "correctAnswer": 3,
+    "explanation": "巴布亚新几内亚人口不到一千万，却拥有约 840 种语言，占全球语言总数的十分之一以上，山谷之间常常'鸡同鸭讲'。"
+  },
+  {
+    "id": "geography-019",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "世界上面积最大的岛屿是哪个？",
+    "options": [
+      "格陵兰岛",
+      "新几内亚岛",
+      "加里曼丹岛",
+      "马达加斯加岛"
+    ],
+    "correctAnswer": 0,
+    "explanation": "格陵兰岛面积约 216 万平方公里，是世界第一大岛。澳大利亚虽然更大，但人家被算作大陆，不参与'岛屿排名'。"
+  },
+  {
+    "id": "geography-020",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "按理论时区划分，中国领土横跨几个时区？",
+    "options": [
+      "3 个",
+      "4 个",
+      "5 个",
+      "6 个"
+    ],
+    "correctAnswer": 2,
+    "explanation": "中国从东到西横跨东五区到东九区共 5 个时区，但全国统一使用北京时间（东八区），所以新疆的'上午十点'天才刚亮透。"
+  },
+  {
+    "id": "geography-021",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "世界上最深的湖泊是哪个？",
+    "options": [
+      "苏必利尔湖",
+      "坦噶尼喀湖",
+      "贝加尔湖",
+      "维多利亚湖"
+    ],
+    "correctAnswer": 2,
+    "explanation": "贝加尔湖最深处约 1642 米，是世界最深、也是淡水储量最大的湖泊，蓄水量比北美五大湖加起来还多。"
+  },
+  {
+    "id": "geography-022",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "世界上跨经度最广的大洋是哪个？",
+    "options": [
+      "太平洋",
+      "大西洋",
+      "北冰洋",
+      "印度洋"
+    ],
+    "correctAnswer": 2,
+    "explanation": "北冰洋环绕北极点，所有经线都在这里'会师'，因此它横跨全部 360 个经度，是名副其实的'跨经度冠军'。"
+  },
+  {
+    "id": "geography-023",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "在主权国家中，人口密度最高的是哪个？",
+    "options": [
+      "新加坡",
+      "梵蒂冈",
+      "巴林",
+      "摩纳哥"
+    ],
+    "correctAnswer": 3,
+    "explanation": "摩纳哥面积仅约 2 平方公里，却住了近 4 万人，人口密度居主权国家之首。它全国都是'市中心'，走路半小时就能出国。"
+  },
+  {
+    "id": "geography-024",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "世界上位置最靠南的首都是哪座城市？",
+    "options": [
+      "堪培拉",
+      "惠灵顿",
+      "布宜诺斯艾利斯",
+      "比勒陀利亚"
+    ],
+    "correctAnswer": 1,
+    "explanation": "新西兰首都惠灵顿位于南纬约 41 度，是世界最南端的首都，以常年大风闻名，外号'风城'。"
+  },
+  {
+    "id": "geography-025",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "印度半岛和中南半岛大部分地区属于什么气候类型？",
+    "options": [
+      "热带雨林气候",
+      "热带草原气候",
+      "热带季风气候",
+      "地中海气候"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这两大半半岛受季风支配，分明显的旱雨两季：夏季西南季风带来暴雨，冬季东北季风干爽凉快，是热带季风气候的标准课本案例。"
+  },
+  {
+    "id": "geography-026",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "日本的首都是哪座城市？",
+    "options": [
+      "首尔",
+      "东京",
+      "大阪",
+      "京都"
+    ],
+    "correctAnswer": 1,
+    "explanation": "东京是日本的首都和最大城市。京都是日本的千年古都，大阪是美食之都，但'首都'这个位置属于东京。"
+  },
+  {
+    "id": "geography-027",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "世界上海拔最高的山峰是哪座？",
+    "options": [
+      "乔戈里峰",
+      "干城章嘉峰",
+      "乞力马扎罗山",
+      "珠穆朗玛峰"
+    ],
+    "correctAnswer": 3,
+    "explanation": "珠穆朗玛峰海拔约 8848.86 米，是地球之巅，位于中国与尼泊尔边境。它每年还在以几毫米的速度'长高'。"
+  },
+  {
+    "id": "geography-028",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "中国最长的河流是哪条？",
+    "options": [
+      "长江",
+      "黄河",
+      "珠江",
+      "黑龙江"
+    ],
+    "correctAnswer": 0,
+    "explanation": "长江全长约 6300 公里，是中国第一长河，也是亚洲第一、世界第三长河。黄河虽被称为'母亲河'，但比长度得叫长江一声'大哥'。"
+  },
+  {
+    "id": "geography-029",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "世界上面积最大的大洋是哪个？",
+    "options": [
+      "大西洋",
+      "印度洋",
+      "太平洋",
+      "北冰洋"
+    ],
+    "correctAnswer": 2,
+    "explanation": "太平洋面积约 1.8 亿平方公里，占地球表面积的三分之一，比全世界陆地面积加起来还大。"
+  },
+  {
+    "id": "geography-030",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "七大洲中面积最大的是哪个洲？",
+    "options": [
+      "非洲",
+      "北美洲",
+      "欧洲",
+      "亚洲"
+    ],
+    "correctAnswer": 3,
+    "explanation": "亚洲面积约 4400 万平方公里，占全球陆地面积近三分之一，同时还是人口最多的大洲，妥妥的'双料冠军'。"
+  },
+  {
+    "id": "geography-031",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "法国的首都是哪座城市？",
+    "options": [
+      "伦敦",
+      "巴黎",
+      "柏林",
+      "马德里"
+    ],
+    "correctAnswer": 1,
+    "explanation": "巴黎是法国首都，埃菲尔铁塔、卢浮宫都在这儿。干扰项都是邻居家的首都：伦敦是英国的，柏林是德国的，马德里是西班牙的。"
+  },
+  {
+    "id": "geography-032",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "亚马孙雨林所在的赤道地区，典型气候特点是什么？",
+    "options": [
+      "全年寒冷干燥",
+      "夏季高温多雨、冬季寒冷干燥",
+      "全年高温多雨",
+      "全年温和、四季分明"
+    ],
+    "correctAnswer": 2,
+    "explanation": "赤道附近常年受赤道低气压控制，全年高温多雨，这就是热带雨林气候——又热又湿，树木才能疯长成'地球之肺'。"
+  },
+  {
+    "id": "geography-033",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "世界上国土面积最大的国家是哪个？",
+    "options": [
+      "俄罗斯",
+      "加拿大",
+      "中国",
+      "美国"
+    ],
+    "correctAnswer": 0,
+    "explanation": "俄罗斯面积约 1700 多万平方公里，横跨欧亚两大洲，比第二名加拿大了将近一倍，坐火车横穿全国要七天七夜。"
+  },
+  {
+    "id": "geography-034",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "冰岛国名意为「冰之地」，格陵兰岛（Greenland）名字却意为「绿色之地」，但实际上哪一个被冰川覆盖的面积更大？",
+    "options": [
+      "冰岛",
+      "格陵兰岛",
+      "两者被冰川覆盖的面积其实差不多",
+      "两者几乎都没有冰川"
+    ],
+    "correctAnswer": 1,
+    "explanation": "格陵兰岛约八成面积常年被厚厚的冰盖覆盖，反倒是「冰岛」因地热和暖流影响，绿地和温泉不少。传说中世纪探险家红胡子埃里克为吸引移民，故意把冰封的岛屿取了个好听的绿色名字，堪称「广告文案鼻祖」。"
+  },
+  {
+    "id": "geography-035",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "世界上面积最小的独立国家是哪一个？",
+    "options": [
+      "摩纳哥",
+      "梵蒂冈",
+      "圣马力诺",
+      "列支敦士登"
+    ],
+    "correctAnswer": 1,
+    "explanation": "梵蒂冈全境仅约0.44平方公里，整个国家完全「嵌」在意大利罗马城里，比不少城市公园还小，绕国境走一圈用不了一个小时。"
+  },
+  {
+    "id": "geography-036",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "世界上唯一一面不是长方形的国旗，属于哪个国家？",
+    "options": [
+      "不丹",
+      "斯里兰卡",
+      "缅甸",
+      "尼泊尔"
+    ],
+    "correctAnswer": 3,
+    "explanation": "尼泊尔国旗由两个叠放的三角形组成，代表连绵的喜马拉雅山峰，也象征当地的印度教与佛教信仰。这独特造型让统一规定国旗尺寸的国际标准着实费了一番脑筋。"
+  },
+  {
+    "id": "geography-037",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "领土同时横跨亚洲和欧洲两大洲的国家是哪一个？",
+    "options": [
+      "埃及",
+      "伊朗",
+      "沙特阿拉伯",
+      "土耳其"
+    ],
+    "correctAnswer": 3,
+    "explanation": "土耳其绝大部分领土（安纳托利亚）位于亚洲，只有伊斯坦布尔附近一小块（色雷斯）属于欧洲。跨过博斯普鲁斯海峡上的大桥，几分钟就能从亚洲「走」到欧洲。"
+  },
+  {
+    "id": "geography-038",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "南美洲面积最大的国家巴西，国名来源于什么？",
+    "options": [
+      "一种能提取红色染料的木材",
+      "当地盛产黄金的传说",
+      "首位登陆的葡萄牙探险家的姓氏",
+      "当地土著部落的自称"
+    ],
+    "correctAnswer": 0,
+    "explanation": "巴西得名于「巴西木」（pau-brasil），这种能提取红色染料的木材是殖民地早期最重要的出口商品，比后来让巴西闻名世界的咖啡和足球都要早得多。"
+  },
+  {
+    "id": "geography-039",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "赤道横穿了非洲、亚洲和南美洲的部分国家，却唯独没有经过下列哪个大洲？",
+    "options": [
+      "非洲",
+      "亚洲",
+      "南美洲",
+      "欧洲"
+    ],
+    "correctAnswer": 3,
+    "explanation": "赤道一共穿过十几个国家的领土，横跨非洲、亚洲（印度尼西亚）和南美洲，却从未踏入欧洲大陆一步。"
+  },
+  {
+    "id": "geography-040",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "论陆上邻国数量，中国与哪个国家并列世界第一（都是14个）？",
+    "options": [
+      "巴西",
+      "印度",
+      "俄罗斯",
+      "美国"
+    ],
+    "correctAnswer": 2,
+    "explanation": "中国和俄罗斯都拥有14个陆上邻国，并列世界最多。俄罗斯横跨欧亚，邻居从挪威一路排到朝鲜；中国的邻居则从俄罗斯排到越南，凑一桌麻将都不够坐。"
+  },
+  {
+    "id": "geography-041",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "非洲国家莱索托（Lesotho）的地理位置有什么特别之处？",
+    "options": [
+      "全境被南非一个国家完全包围",
+      "全境正好位于赤道正下方",
+      "是撒哈拉沙漠腹地的一部分",
+      "全境海拔低于海平面"
+    ],
+    "correctAnswer": 0,
+    "explanation": "莱索托是被单一国家完全包围的「国中国」，四周全是南非领土。全世界只有三个国家被完全包围在另一国境内：莱索托、圣马力诺和梵蒂冈（后两者被意大利包围）。"
+  },
+  {
+    "id": "geography-042",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "永久中立国瑞士，官方语言一共有几种？",
+    "options": [
+      "2种",
+      "3种",
+      "4种",
+      "1种"
+    ],
+    "correctAnswer": 2,
+    "explanation": "瑞士有德语、法语、意大利语、罗曼什语四种官方语言，一张瑞士法郎纸币上常常同时印着好几种文字，堪称「小国大语言库」。"
+  },
+  {
+    "id": "geography-043",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "直布罗陀海峡把哪两个大洲隔开？",
+    "options": [
+      "欧洲和非洲",
+      "欧洲和亚洲",
+      "亚洲和非洲",
+      "北美洲和南美洲"
+    ],
+    "correctAnswer": 0,
+    "explanation": "直布罗陀海峡最窄处不到15公里，天气晴朗时，站在西班牙一侧甚至能用肉眼望见对岸的摩洛哥，一眼望两洲。"
+  },
+  {
+    "id": "geography-044",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "巴拿马运河连接了哪两个大洋？",
+    "options": [
+      "太平洋和大西洋",
+      "太平洋和印度洋",
+      "大西洋和印度洋",
+      "北冰洋和太平洋"
+    ],
+    "correctAnswer": 0,
+    "explanation": "巴拿马运河凿穿中美洲地峡，让船只不必绕行南美洲最南端的合恩角，把往返两大洋的航程一下缩短了数千公里。"
+  },
+  {
+    "id": "geography-045",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "南美洲国家阿根廷（Argentina）的名字，来源于拉丁语中的哪个词？",
+    "options": [
+      "黄金",
+      "白银",
+      "太阳",
+      "高山"
+    ],
+    "correctAnswer": 1,
+    "explanation": "阿根廷得名于拉丁语「argentum」（白银），当年欧洲探险家误以为这片土地蕴藏大量银矿。流经布宜诺斯艾利斯的「拉普拉塔河」，名字也是「白银之河」的意思。"
+  },
+  {
+    "id": "geography-046",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "世界上规模最大的珊瑚礁群「大堡礁」，分布在哪个国家附近的海域？",
+    "options": [
+      "印度尼西亚",
+      "菲律宾",
+      "澳大利亚",
+      "马尔代夫"
+    ],
+    "correctAnswer": 2,
+    "explanation": "大堡礁绵延在澳大利亚东北海岸外，由数千个独立礁体组成，是地球上最大的生物结构，从太空中都能辨认出它的轮廓。"
+  },
+  {
+    "id": "geography-047",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "非洲著名的维多利亚瀑布，位于赞比亚和哪个国家的交界处？",
+    "options": [
+      "坦桑尼亚",
+      "肯尼亚",
+      "南非",
+      "津巴布韦"
+    ],
+    "correctAnswer": 3,
+    "explanation": "维多利亚瀑布横跨赞比西河，是赞比亚与津巴布韦的界河瀑布。当地原名意为「雷鸣的烟雾」，飞溅的水花能腾起数百米高的水雾，几公里外都能看见。"
+  },
+  {
+    "id": "geography-048",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "世界上仅有的两个「双重内陆国」（本国及所有邻国都没有海岸线）是列支敦士登和哪个国家？",
+    "options": [
+      "蒙古国",
+      "哈萨克斯坦",
+      "乌兹别克斯坦",
+      "白俄罗斯"
+    ],
+    "correctAnswer": 2,
+    "explanation": "乌兹别克斯坦周边邻国清一色都是内陆国，想从这里出海，至少要连续穿越两个国家。列支敦士登同理，被瑞士和奥地利这两个内陆国夹在中间，是全世界仅有的两个「双重内陆国」。"
+  },
+  {
+    "id": "geography-049",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "南美洲国家玻利维亚（Bolivia）的国名，是为了纪念哪位历史人物？",
+    "options": [
+      "哥伦布",
+      "西蒙·玻利瓦尔",
+      "麦哲伦",
+      "圣马丁"
+    ],
+    "correctAnswer": 1,
+    "explanation": "玻利维亚以南美独立运动领袖西蒙·玻利瓦尔命名，他领导多国摆脱西班牙殖民统治。委内瑞拉的正式国名「玻利瓦尔共和国」同样是为了致敬他。"
+  },
+  {
+    "id": "geography-050",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "地球海洋中离任何陆地都最远的一点，被称为「尼莫点」（Point Nemo），它位于哪个大洋？",
+    "options": [
+      "印度洋",
+      "大西洋",
+      "太平洋",
+      "北冰洋"
+    ],
+    "correctAnswer": 2,
+    "explanation": "尼莫点周围两千多公里内没有陆地，距离最近的人类往往是国际空间站上的宇航员——因为空间站的轨道高度比附近陆地还要近。"
+  },
+  {
+    "id": "geography-051",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "大西洋中的马尾藻海（萨尔加索海）有一项特殊之处：它是世界上唯一——",
+    "options": [
+      "完全由洋流而非陆地圈定边界的海",
+      "终年结冰的海",
+      "位于赤道正下方的海",
+      "盐度低于淡水湖的海"
+    ],
+    "correctAnswer": 0,
+    "explanation": "马尾藻海四周被墨西哥湾流等四条洋流环绕，没有任何一段海岸线，是名副其实「没有岸」的海。海面大片漂浮的马尾藻，也让百慕大三角的传说更添几分神秘。"
+  },
+  {
+    "id": "geography-052",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "世界上唯一在国旗图案中画有枪械（一支AK-47突击步枪）的国家是？",
+    "options": [
+      "安哥拉",
+      "津巴布韦",
+      "厄立特里亚",
+      "莫桑比克"
+    ],
+    "correctAnswer": 3,
+    "explanation": "莫桑比克国旗上的AK-47与锄头、书本交叉出现，分别象征保卫国家、发展农业和重视教育，用来纪念其艰苦漫长的独立战争历史。"
+  },
+  {
+    "id": "geography-053",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "巴西国土辽阔，几乎与南美洲所有国家接壤，只有两个国家例外，是哪两个？",
+    "options": [
+      "秘鲁和委内瑞拉",
+      "智利和厄瓜多尔",
+      "乌拉圭和圭亚那",
+      "哥伦比亚和苏里南"
+    ],
+    "correctAnswer": 1,
+    "explanation": "巴西一国就接壤10个邻国，南美洲其余12个国家里，只有智利和厄瓜多尔跟它不搭界——这两国恰好都被安第斯山脉和其他国家挡在了外面。"
+  },
+  {
+    "id": "geography-054",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "世界上面积最大的半岛是哪一个？",
+    "options": [
+      "中南半岛",
+      "斯堪的纳维亚半岛",
+      "印度半岛",
+      "阿拉伯半岛"
+    ],
+    "correctAnswer": 3,
+    "explanation": "阿拉伯半岛面积超过300万平方公里，比整个印度还要大，沙特阿拉伯一国就占据了其中的大部分。"
+  },
+  {
+    "id": "geography-055",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "世界上岛屿数量最多的国家是哪一个？",
+    "options": [
+      "挪威",
+      "菲律宾",
+      "印度尼西亚",
+      "日本"
+    ],
+    "correctAnswer": 2,
+    "explanation": "印度尼西亚由超过一万七千个岛屿组成，领土横跨三个时区，其中有常住人口的岛屿约六千个，堪称名副其实的「千岛之国」。"
+  }
+]

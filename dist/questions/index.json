@@ -1,0 +1,96 @@
+{
+  "categories": [
+    {
+      "id": "general",
+      "name": "生活常识"
+    },
+    {
+      "id": "history",
+      "name": "历史文化"
+    },
+    {
+      "id": "science",
+      "name": "科学探索"
+    },
+    {
+      "id": "astronomy",
+      "name": "天文"
+    },
+    {
+      "id": "schoolquiz",
+      "name": "中小学竞赛"
+    },
+    {
+      "id": "entertainment",
+      "name": "娱乐潮流"
+    },
+    {
+      "id": "poetry",
+      "name": "古诗"
+    },
+    {
+      "id": "sanguo",
+      "name": "三国"
+    },
+    {
+      "id": "novels",
+      "name": "四大名著"
+    },
+    {
+      "id": "geography",
+      "name": "世界地理"
+    },
+    {
+      "id": "cnhistory",
+      "name": "中国历史"
+    },
+    {
+      "id": "literature",
+      "name": "中外文学"
+    },
+    {
+      "id": "popculture",
+      "name": "流行文化"
+    },
+    {
+      "id": "food",
+      "name": "美食"
+    },
+    {
+      "id": "movies",
+      "name": "影视"
+    },
+    {
+      "id": "ranking",
+      "name": "排名题"
+    },
+    {
+      "id": "nations",
+      "name": "国家常识"
+    },
+    {
+      "id": "sports",
+      "name": "体育竞技"
+    },
+    {
+      "id": "music",
+      "name": "音乐天地"
+    },
+    {
+      "id": "tech",
+      "name": "科技网络"
+    },
+    {
+      "id": "business",
+      "name": "商业财经"
+    },
+    {
+      "id": "philosophy",
+      "name": "诸子百家"
+    },
+    {
+      "id": "examscope",
+      "name": "考题范围"
+    }
+  ]
+}

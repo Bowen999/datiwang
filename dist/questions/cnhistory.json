@@ -1,0 +1,1612 @@
+[
+  {
+    "id": "cnhistory-001",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "科举制度正式诞生于哪个朝代？",
+    "options": [
+      "汉朝",
+      "隋朝",
+      "唐朝",
+      "宋朝"
+    ],
+    "correctAnswer": 1,
+    "explanation": "隋炀帝时期正式设置进士科，标志着科举制度诞生。这套选官制度此后延续约1300年，直到1905年清末新政时才被废除。"
+  },
+  {
+    "id": "cnhistory-002",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "清朝雍正年间推行的「摊丁入亩」具体指的是什么？",
+    "options": [
+      "按每户人口数量重新分配国有土地",
+      "取消田赋，只按人丁征收人头税",
+      "把按人丁征收的丁银摊入田赋，合并征收",
+      "废除货币税，赋税全部改收粮食实物"
+    ],
+    "correctAnswer": 2,
+    "explanation": "摊丁入亩（又称摊丁入地）把按人丁征收的丁银摊进田赋里一起收，等于废除了延续两千多年的人头税，无地少地的农民因此卸下了一大负担。"
+  },
+  {
+    "id": "cnhistory-003",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "郑和船队第一次下西洋，是在明朝哪位皇帝在位期间？",
+    "options": [
+      "明太祖朱元璋",
+      "建文帝朱允炆",
+      "明仁宗朱高炽",
+      "明成祖朱棣"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1405年（永乐三年）郑和首下西洋，正是明成祖朱棣在位时。民间还流传着朱棣想借此寻找失踪的建文帝下落的说法。"
+  },
+  {
+    "id": "cnhistory-004",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "「王与马，共天下」这句流传一时的民谣，形容的是哪个王朝初年的政治格局？",
+    "options": [
+      "东晋",
+      "西晋",
+      "东吴",
+      "南朝宋"
+    ],
+    "correctAnswer": 0,
+    "explanation": "东晋建立时，晋元帝司马睿全靠琅邪王氏的王导、王敦兄弟扶持上位，时人称「王与马，共天下」，堪称门阀政治的标志性名场面。"
+  },
+  {
+    "id": "cnhistory-005",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "1449年的「土木堡之变」中，被瓦剌军队俘虏的明朝皇帝是哪一位？",
+    "options": [
+      "明代宗朱祁钰",
+      "明武宗朱厚照",
+      "明英宗朱祁镇",
+      "明世宗朱厚熜"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1449年明英宗朱祁镇在宦官王振怂恿下御驾亲征瓦剌，在土木堡兵败被俘。他的弟弟朱祁钰随后登基，即明代宗。"
+  },
+  {
+    "id": "cnhistory-006",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "今天我国「省」这一级行政区划的源头——行省制度，始创于哪个朝代？",
+    "options": [
+      "唐朝",
+      "宋朝",
+      "明朝",
+      "元朝"
+    ],
+    "correctAnswer": 3,
+    "explanation": "元朝在全国设行中书省管理地方，简称行省，是今天省级行政区的直接源头。明清两代沿袭并完善了这套制度。"
+  },
+  {
+    "id": "cnhistory-007",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "汉武帝时期提出「罢黜百家，独尊儒术」并被采纳的学者是谁？",
+    "options": [
+      "主父偃",
+      "董仲舒",
+      "桑弘羊",
+      "公孙弘"
+    ],
+    "correctAnswer": 1,
+    "explanation": "汉武帝采纳董仲舒「天人三策」中的建议，确立儒学独尊地位，深刻影响了中国此后两千多年的思想文化走向。"
+  },
+  {
+    "id": "cnhistory-008",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "曹魏政权采纳陈群建议创立的「九品中正制」，是在哪位君主时期确立的？",
+    "options": [
+      "魏文帝曹丕",
+      "魏武帝曹操",
+      "魏明帝曹叡",
+      "晋武帝司马炎"
+    ],
+    "correctAnswer": 0,
+    "explanation": "220年前后，曹丕在代汉称帝之际采纳吏部尚书陈群的建议，设立九品中正制（九品官人法）。它后来演变成「上品无寒门，下品无士族」的门第游戏。注意曹操生前并未称帝，「魏武帝」是追尊。"
+  },
+  {
+    "id": "cnhistory-009",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "世界上最早的纸币「交子」，最早出现在哪个朝代、哪个地区？",
+    "options": [
+      "南宋 临安",
+      "唐朝 扬州",
+      "北宋 四川",
+      "元朝 大都"
+    ],
+    "correctAnswer": 2,
+    "explanation": "北宋初年的四川地区出现了「交子」，是世界上最早的纸币，比欧洲出现纸币早了约六百年。起初由商人发行，后来收归官府办理。"
+  },
+  {
+    "id": "cnhistory-010",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "1689年康熙年间，清朝与沙俄签订的第一个边界条约是哪一份？",
+    "options": [
+      "《瑷珲条约》",
+      "《恰克图条约》",
+      "《北京条约》",
+      "《尼布楚条约》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1689年清朝在雅克萨之战后与沙俄签订《尼布楚条约》，划定了中俄东段边界。《瑷珲条约》和《北京条约》都是晚清时期的不平等条约，可别搞混了。"
+  },
+  {
+    "id": "cnhistory-011",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "使唐朝由盛转衰的「安史之乱」，爆发于哪位皇帝在位期间？",
+    "options": [
+      "唐玄宗",
+      "唐太宗",
+      "唐高宗",
+      "唐代宗"
+    ],
+    "correctAnswer": 0,
+    "explanation": "755年安禄山、史思明起兵叛乱，正值唐玄宗天宝年间。这场持续约八年的战乱让开元盛世的繁华一去不复返，唐朝从此由盛转衰。"
+  },
+  {
+    "id": "cnhistory-012",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "明朝张居正改革中「一条鞭法」的核心内容是什么？",
+    "options": [
+      "只按人头统一征税，不再征收田赋",
+      "把田赋、徭役和各种杂征合并为一，折成银两征收",
+      "恢复井田制，把土地平均分给农民耕种",
+      "赋税全部改收粮食，禁止用白银缴税"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1581年张居正在全国推行一条鞭法，把田赋、徭役和各种杂税合并为一项、折银征收，大大简化了税制，也顺应了明代白银货币化的潮流。"
+  },
+  {
+    "id": "cnhistory-013",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "战国时期在秦国主持变法、让秦国一跃成为最强国的改革家是谁？",
+    "options": [
+      "李悝",
+      "吴起",
+      "商鞅",
+      "申不害"
+    ],
+    "correctAnswer": 2,
+    "explanation": "商鞅在秦孝公支持下两次变法，废井田、奖军功、行郡县，为秦统一六国打下基础。冷知识：李悝在魏国、吴起在楚国也都主持过变法，只是成效都不如商鞅持久。"
+  },
+  {
+    "id": "cnhistory-014",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "汉武帝采纳主父偃的建议颁布「推恩令」，它的具体内容是什么？",
+    "options": [
+      "允许诸侯王把封地分给所有子弟，而非只传嫡长子",
+      "把诸侯王的封地全部收归中央直辖",
+      "强迫诸侯王举家迁居京城以便监视",
+      "按军功大小重新分封一批诸侯王"
+    ],
+    "correctAnswer": 0,
+    "explanation": "推恩令规定诸侯王除嫡长子外，其余子弟也能分到一块封地，结果诸侯国越分越小，中央兵不血刃就瓦解了地方割据。这招被称为「阳谋」，明知道是坑也得跳。"
+  },
+  {
+    "id": "cnhistory-015",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "秦始皇统一六国后，在全国推行以取代分封制的地方行政制度是什么？",
+    "options": [
+      "宗法制",
+      "郡县制",
+      "礼乐制",
+      "井田制"
+    ],
+    "correctAnswer": 1,
+    "explanation": "秦始皇采纳李斯建议，在全国推行郡县制，郡守县令由中央直接任免，开创了此后两千多年中央集权地方行政的基本格局。"
+  },
+  {
+    "id": "cnhistory-016",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "383年淝水之战中，率领八十多万大军却惨败给东晋的前秦皇帝是谁？",
+    "options": [
+      "石勒",
+      "慕容垂",
+      "拓跋珪",
+      "苻坚"
+    ],
+    "correctAnswer": 3,
+    "explanation": "前秦皇帝苻坚不听王猛临终劝告执意伐晋，结果在淝水之战一败涂地，「风声鹤唳，草木皆兵」说的就是他的败军。前秦此后迅速崩溃，北方再度分裂。"
+  },
+  {
+    "id": "cnhistory-017",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "发动「玄武门之变」后登基、开创「贞观之治」的皇帝是谁？",
+    "options": [
+      "唐高祖李渊",
+      "唐太宗李世民",
+      "唐高宗李治",
+      "唐玄宗李隆基"
+    ],
+    "correctAnswer": 1,
+    "explanation": "626年李世民在玄武门伏杀太子李建成和齐王李元吉，不久即位为唐太宗。他即位后虚心纳谏、轻徭薄赋，开创了中国历史上著名的贞观之治。"
+  },
+  {
+    "id": "cnhistory-018",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "北宋与辽订立「澶渊之盟」，约定北宋每年送给辽的「岁币」是多少？",
+    "options": [
+      "银五万两、绢十万匹",
+      "银二十万两、绢五十万匹",
+      "银十万两、绢二十万匹",
+      "银五十万两、绢一百万匹"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1005年宋辽澶渊之盟约定：宋每年给辽银十万两、绢二十万匹，双方约为兄弟之国。这笔钱换来宋辽百余年的和平，对北宋财政来说其实相当划算。"
+  },
+  {
+    "id": "cnhistory-019",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "目前所知我国最早的成熟文字「甲骨文」，主要出土于哪里？",
+    "options": [
+      "陕西西安半坡遗址",
+      "河南安阳殷墟",
+      "山东泰安大汶口遗址",
+      "浙江余姚河姆渡遗址"
+    ],
+    "correctAnswer": 1,
+    "explanation": "甲骨文主要出土于河南安阳小屯村的殷墟，是商朝晚期的占卜记录。1899年王懿荣最先识别出它的价值，据说他本是在中药「龙骨」上发现的刻痕。"
+  },
+  {
+    "id": "cnhistory-020",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "我国第一部纪传体通史《史记》的作者是谁？",
+    "options": [
+      "司马光",
+      "班固",
+      "左丘明",
+      "司马迁"
+    ],
+    "correctAnswer": 3,
+    "explanation": "西汉司马迁忍辱负重写成《史记》，记载了从黄帝到汉武帝约三千年的历史，被鲁迅誉为「史家之绝唱，无韵之离骚」。注意别和司马光搞混，他写的是编年体的《资治通鉴》。"
+  },
+  {
+    "id": "cnhistory-021",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "494年北魏孝文帝力排众议迁都洛阳以推行汉化改革，他迁出的旧都是哪里？",
+    "options": [
+      "平城",
+      "盛乐",
+      "晋阳",
+      "邺城"
+    ],
+    "correctAnswer": 0,
+    "explanation": "北魏此前定都平城（今山西大同），孝文帝以南征为名率百官迁都洛阳，随后禁鲜卑语、改汉姓、穿汉服，他自己率先把「拓跋」改成了「元」姓。"
+  },
+  {
+    "id": "cnhistory-022",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "通过「杯酒释兵权」和平解除开国武将兵权的皇帝是谁？",
+    "options": [
+      "汉高祖刘邦",
+      "隋文帝杨坚",
+      "宋太祖赵匡胤",
+      "明太祖朱元璋"
+    ],
+    "correctAnswer": 2,
+    "explanation": "961年宋太祖赵匡胤设宴款待石守信等大将，酒酣之际劝他们交出兵权、回乡享福，一顿饭就解决了藩镇拥兵的隐患，堪称史上性价比最高的一场酒局。"
+  },
+  {
+    "id": "cnhistory-023",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "1127年「靖康之变」中，被金兵掳往北方、导致北宋灭亡的是哪两位皇帝？",
+    "options": [
+      "宋真宗、宋仁宗",
+      "宋徽宗、宋钦宗",
+      "宋英宗、宋神宗",
+      "宋哲宗、宋徽宗"
+    ],
+    "correctAnswer": 1,
+    "explanation": "靖康二年（1127年）金军攻破开封，掳走宋徽宗、宋钦宗父子及宗室数千人，北宋就此灭亡。侥幸逃脱的康王赵构随后在应天府即位，建立南宋。"
+  },
+  {
+    "id": "cnhistory-024",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "1380年借「胡惟庸案」废除延续一千多年丞相制度的皇帝是谁？",
+    "options": [
+      "明成祖朱棣",
+      "明仁宗朱高炽",
+      "明宣宗朱瞻基",
+      "明太祖朱元璋"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1380年明太祖朱元璋以谋反罪诛杀丞相胡惟庸，随即废除中书省和丞相制，六部直接对皇帝负责，皇权达到空前高度，此后明清两朝再未设丞相。"
+  },
+  {
+    "id": "cnhistory-025",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "清乾隆年间编纂的大型丛书《四库全书》，「四库」指的是哪四部？",
+    "options": [
+      "诗、书、礼、易",
+      "甲、乙、丙、丁",
+      "经、史、子、集",
+      "风、雅、颂、赋"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《四库全书》按经、史、子、集四部分类，收录古籍三千五百余种，由纪昀等三百多位学者耗时约十年编成。它既是文化盛事，也因修书期间大量禁毁「违碍」书籍而备受争议。"
+  },
+  {
+    "id": "cnhistory-026",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "被尊为「至圣先师」的儒家学派创始人孔子，生活在哪个时期？",
+    "options": [
+      "春秋时期",
+      "战国时期",
+      "秦朝",
+      "汉朝"
+    ],
+    "correctAnswer": 0,
+    "explanation": "孔子名丘，字仲尼，是春秋末期鲁国人，创办私学、有教无类，据说弟子三千、贤者七十二。他生前没能实现政治抱负，身后却成了影响中国两千多年的「顶流」。"
+  },
+  {
+    "id": "cnhistory-027",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "西汉时两次出使西域、为开辟丝绸之路立下大功的使者是谁？",
+    "options": [
+      "卫青",
+      "霍去病",
+      "班超",
+      "张骞"
+    ],
+    "correctAnswer": 3,
+    "explanation": "汉武帝派张骞两次出使西域，打通了连接中原与西域的通道，后人称为「凿空」。葡萄、苜蓿、核桃等物产据说就是那时传入中原的。"
+  },
+  {
+    "id": "cnhistory-028",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "东汉时改进造纸术、让纸张得以普及的宦官是谁？",
+    "options": [
+      "张衡",
+      "蔡伦",
+      "毕昇",
+      "祖冲之"
+    ],
+    "correctAnswer": 1,
+    "explanation": "105年蔡伦总结前人经验，用树皮、麻头、破布等造出便宜好用的纸，人称「蔡侯纸」。造纸术后来传遍世界，被列为我国古代四大发明之一。"
+  },
+  {
+    "id": "cnhistory-029",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "被后人尊称为「诗圣」的唐代大诗人是谁？",
+    "options": [
+      "李白",
+      "白居易",
+      "杜甫",
+      "王维"
+    ],
+    "correctAnswer": 2,
+    "explanation": "杜甫一生写下大量反映战乱与民生疾苦的诗篇，被称为「诗圣」，他的诗也被称为「诗史」。和他齐名的李白则是「诗仙」，二人合称「李杜」。"
+  },
+  {
+    "id": "cnhistory-030",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "中国历史上唯一得到普遍承认的女皇帝是谁？",
+    "options": [
+      "吕雉",
+      "慈禧太后",
+      "孝庄太后",
+      "武则天"
+    ],
+    "correctAnswer": 3,
+    "explanation": "武则天在690年正式称帝，改国号为周，是中国历史上唯一一位女皇帝。她去世后留下一块无字碑，功过任凭后人评说。"
+  },
+  {
+    "id": "cnhistory-031",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "北宋时发明活字印刷术的平民发明家是谁？",
+    "options": [
+      "沈括",
+      "毕昇",
+      "郭守敬",
+      "宋应星"
+    ],
+    "correctAnswer": 1,
+    "explanation": "北宋庆历年间，平民毕昇发明泥活字印刷术，比德国古登堡的铅活字早了约四百年。这件事被沈括记在了《梦溪笔谈》里。"
+  },
+  {
+    "id": "cnhistory-032",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "讲述唐僧师徒西天取经的神魔小说《西游记》，作者是谁？",
+    "options": [
+      "罗贯中",
+      "施耐庵",
+      "吴承恩",
+      "蒲松龄"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《西游记》一般认为是明代吴承恩所著，是我国古代四大名著之一。罗贯中写《三国演义》，施耐庵写《水浒传》，蒲松龄写的则是《聊斋志异》。"
+  },
+  {
+    "id": "cnhistory-033",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "被誉为中国古典小说巅峰之作的《红楼梦》，作者是谁？",
+    "options": [
+      "曹雪芹",
+      "吴敬梓",
+      "李汝珍",
+      "汤显祖"
+    ],
+    "correctAnswer": 0,
+    "explanation": "清代曹雪芹「披阅十载，增删五次」写成《红楼梦》前八十回，后四十回一般认为是高鹗续写。研究这本书甚至形成了一门专门的学问——「红学」。"
+  },
+  {
+    "id": "cnhistory-034",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "「王侯将相宁有种乎」这句气势十足的口号，出自哪次农民起义？",
+    "options": [
+      "黄巾起义",
+      "黄巢起义",
+      "瓦岗军起义",
+      "陈胜吴广起义"
+    ],
+    "correctAnswer": 3,
+    "explanation": "公元前209年陈胜、吴广在大泽乡起义，喊出「王侯将相宁有种乎」，是中国历史上第一次大规模农民起义，虽然很快失败，却给了秦朝致命一击。"
+  },
+  {
+    "id": "cnhistory-035",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "楚汉之争中，项羽在鸿门设宴，本想借机除掉的对手是谁？",
+    "options": [
+      "韩信",
+      "刘邦",
+      "英布",
+      "彭越"
+    ],
+    "correctAnswer": 1,
+    "explanation": "鸿门宴上项羽本有机会除掉刘邦，却因谋士范增的计策未能果断执行，刘邦借故脱身。后世常用「鸿门宴」比喻暗藏杀机的宴席。"
+  },
+  {
+    "id": "cnhistory-036",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "楚汉相争的最后一战「垓下之战」中，兵败后自刎于乌江边的是谁？",
+    "options": [
+      "项羽",
+      "刘邦",
+      "韩信",
+      "范增"
+    ],
+    "correctAnswer": 0,
+    "explanation": "公元前202年，项羽在垓下被汉军重重包围，四面楚歌之下率残部突围至乌江，自觉无颜见江东父老，最终自刎而死，楚汉之争至此落幕。"
+  },
+  {
+    "id": "cnhistory-037",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "公元9年篡夺西汉皇位、建立「新」朝的外戚是谁？",
+    "options": [
+      "霍光",
+      "窦宪",
+      "梁冀",
+      "王莽"
+    ],
+    "correctAnswer": 3,
+    "explanation": "王莽以外戚身份长期掌权，最终逼迫孺子婴禅位，建立新朝并推行了一系列复古改制，但因政策混乱失民心，仅十几年就被绿林、赤眉起义推翻。"
+  },
+  {
+    "id": "cnhistory-038",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "推翻王莽新朝、重建汉朝（史称东汉）的开国皇帝是谁？",
+    "options": [
+      "刘秀",
+      "刘邦",
+      "刘备",
+      "刘协"
+    ],
+    "correctAnswer": 0,
+    "explanation": "刘秀在新朝末年的乱局中起兵，25年称帝定都洛阳，史称东汉，其在位期间休养生息、恢复国力，史称「光武中兴」。"
+  },
+  {
+    "id": "cnhistory-039",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "东汉末年提出「苍天已死，黄天当立」口号、发动黄巾起义的是谁？",
+    "options": [
+      "张角",
+      "董卓",
+      "曹操",
+      "黄巢"
+    ],
+    "correctAnswer": 0,
+    "explanation": "张角自称「大贤良师」，以「太平道」为号召，184年发动黄巾起义。起义几个月内就被镇压，却直接动摇了东汉统治根基，各地军阀由此崛起。"
+  },
+  {
+    "id": "cnhistory-040",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "三国时期孙刘联军用火攻大败曹操大军的著名战役是？",
+    "options": [
+      "官渡之战",
+      "夷陵之战",
+      "赤壁之战",
+      "淝水之战"
+    ],
+    "correctAnswer": 2,
+    "explanation": "208年孙权、刘备联军在长江赤壁一带用火攻击溃曹操大军，奠定了此后三国鼎立的基本格局。演义里「借东风」「草船借箭」的桥段就出自这场战役。"
+  },
+  {
+    "id": "cnhistory-041",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "西晋时期司马氏宗室诸王为争夺中央政权而爆发的长期内乱，史称什么？",
+    "options": [
+      "七国之乱",
+      "靖难之役",
+      "安史之乱",
+      "八王之乱"
+    ],
+    "correctAnswer": 3,
+    "explanation": "291年到306年间，西晋多位宗室王爷混战不休，史称「八王之乱」，严重耗损了国力，也给北方少数民族政权南下提供了可乘之机，直接引发了此后的五胡乱华。"
+  },
+  {
+    "id": "cnhistory-042",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "结束魏晋南北朝近三百年分裂局面、重新统一中国的隋朝皇帝是谁？",
+    "options": [
+      "隋炀帝杨广",
+      "隋文帝杨坚",
+      "隋恭帝杨侑",
+      "北周武帝宇文邕"
+    ],
+    "correctAnswer": 1,
+    "explanation": "隋文帝杨坚581年代北周称帝，589年挥师灭陈，结束了自西晋末年以来近三百年的分裂局面，他还创立了影响深远的三省六部制。北周武帝宇文邕是杨坚篡位前的北周皇帝，和统一全国没关系，纯属混淆项。"
+  },
+  {
+    "id": "cnhistory-043",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "隋炀帝在位期间大举征发民力开凿、以洛阳为中心沟通南北的水利工程是什么？",
+    "options": [
+      "都江堰",
+      "郑国渠",
+      "隋唐大运河",
+      "灵渠"
+    ],
+    "correctAnswer": 2,
+    "explanation": "隋炀帝下令开凿沟通南北的大运河，北至涿郡、南至余杭，工程浩大也耗尽民力，是隋朝速亡的原因之一，却也为此后千年的南北漕运打下了基础。"
+  },
+  {
+    "id": "cnhistory-044",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "唐太宗曾感叹「以人为镜，可以明得失」，这位去世后让他深感失去一面镜子的直臣是谁？",
+    "options": [
+      "房玄龄",
+      "长孙无忌",
+      "杜如晦",
+      "魏征"
+    ],
+    "correctAnswer": 3,
+    "explanation": "魏征一生犯颜直谏两百多次，去世后唐太宗痛惜地说从此少了一面能照见自己得失的镜子。他原本还是太子李建成的旧部，被李世民不计前嫌重用。"
+  },
+  {
+    "id": "cnhistory-045",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "唐玄宗开元初年，被后世并称「救时宰相」、辅佐开创「开元盛世」的两位名相是谁？",
+    "options": [
+      "房玄龄与杜如晦",
+      "姚崇与宋璟",
+      "狄仁杰与张柬之",
+      "李林甫与杨国忠"
+    ],
+    "correctAnswer": 1,
+    "explanation": "姚崇、宋璟先后担任唐玄宗前期宰相，整顿吏治、抑制奢靡，为开元盛世打下基础。后期唐玄宗任用李林甫、杨国忠，朝政急转直下，最终酿成安史之乱。"
+  },
+  {
+    "id": "cnhistory-046",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "晚唐时期写下「待到秋来九月八，我花开后百花杀」、后来发动大规模起义并一度攻占长安的人物是谁？",
+    "options": [
+      "黄巢",
+      "朱温",
+      "王仙芝",
+      "李克用"
+    ],
+    "correctAnswer": 0,
+    "explanation": "黄巢屡试不第，愤而起兵，875年发动大起义，880年一度攻入长安称帝，国号「大齐」。这场起义虽最终失败，却给已经风雨飘摇的唐王朝致命一击。"
+  },
+  {
+    "id": "cnhistory-047",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "907年废黜唐哀帝、自立为帝并建立后梁的人物是谁？",
+    "options": [
+      "黄巢",
+      "李克用",
+      "石敬瑭",
+      "朱温"
+    ],
+    "correctAnswer": 3,
+    "explanation": "朱温本是黄巢起义军旧将，后投降唐朝并逐渐掌握大权，907年逼迫唐哀帝禅位，建立后梁，唐朝就此灭亡，中国历史进入五代十国的分裂时期。"
+  },
+  {
+    "id": "cnhistory-048",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "960年赵匡胤在陈桥驿被部下拥立、「黄袍加身」而建立的朝代是？",
+    "options": [
+      "后周",
+      "南唐",
+      "北宋",
+      "北汉"
+    ],
+    "correctAnswer": 2,
+    "explanation": "960年赵匡胤奉命出征时在陈桥驿被部将披上黄袍拥立为帝，随后回师夺取后周政权，建立北宋。这场兵变几乎兵不血刃，赵匡胤本人也算是「被逼」当上了皇帝。"
+  },
+  {
+    "id": "cnhistory-049",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "北宋宋神宗时期，主持推行青苗法、募役法等一系列改革的宰相是谁？",
+    "options": [
+      "司马光",
+      "范仲淹",
+      "王安石",
+      "欧阳修"
+    ],
+    "correctAnswer": 2,
+    "explanation": "王安石于1069年起推行变法，涉及财政、军事、科举等多个领域，史称「王安石变法」或「熙宁变法」。反对他最力的司马光后来当上宰相，又把这些新法基本废除了。"
+  },
+  {
+    "id": "cnhistory-050",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "南宋抗金名将岳飞，最终被秦桧以什么罪名陷害致死？",
+    "options": [
+      "通敌叛国",
+      "莫须有",
+      "结党营私",
+      "图谋篡位"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1142年岳飞被以「莫须有」（也许有）这种毫无实证的罪名杀害于风波亭。这个词后来成了「欲加之罪，何患无辞」的代名词，专指毫无根据的诬陷。"
+  },
+  {
+    "id": "cnhistory-051",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "1279年南宋最后的抵抗力量在崖山海战中溃败，大臣陆秀夫背着谁跳海殉国？",
+    "options": [
+      "宋恭帝赵㬎",
+      "宋端宗赵昰",
+      "宋少帝赵昺",
+      "宋理宗赵昀"
+    ],
+    "correctAnswer": 2,
+    "explanation": "崖山海战后，南宋大臣陆秀夫见大势已去，背着年仅八岁的末帝赵昺跳海殉国，随行军民也纷纷跳海殉国，南宋至此彻底灭亡。"
+  },
+  {
+    "id": "cnhistory-052",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "1206年在斡难河源头被推举为大汗、统一蒙古草原各部的是谁？",
+    "options": [
+      "忽必烈",
+      "拖雷",
+      "铁木真（成吉思汗）",
+      "窝阔台"
+    ],
+    "correctAnswer": 2,
+    "explanation": "铁木真历经多年征战统一蒙古各部，1206年被推举为大汗，尊号「成吉思汗」。他的孙子忽必烈后来才建立元朝，二者常被弄混。"
+  },
+  {
+    "id": "cnhistory-053",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "1271年将国号定为「大元」、随后又灭南宋统一全国的蒙古大汗是谁？",
+    "options": [
+      "成吉思汗",
+      "窝阔台",
+      "忽必烈",
+      "蒙哥"
+    ],
+    "correctAnswer": 2,
+    "explanation": "忽必烈取《易经》「大哉乾元」之意，将国号定为「大元」，1279年灭南宋，建立起疆域空前辽阔的元朝，他也是元朝的开国皇帝元世祖。"
+  },
+  {
+    "id": "cnhistory-054",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "出身贫苦、当过和尚，后来加入红巾军并最终建立明朝的皇帝是谁？",
+    "options": [
+      "朱棣",
+      "朱允炆",
+      "陈友谅",
+      "朱元璋"
+    ],
+    "correctAnswer": 3,
+    "explanation": "朱元璋早年当过放牛娃和游方和尚，后投奔郭子兴的红巾军，一路征战，1368年在应天府称帝，建立明朝，年号洪武。"
+  },
+  {
+    "id": "cnhistory-055",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "明朝「靖难之役」中，燕王朱棣以「清君侧」为名起兵，最终夺取了谁的皇位？",
+    "options": [
+      "明太祖朱元璋",
+      "建文帝朱允炆",
+      "明仁宗朱高炽",
+      "明代宗朱祁钰"
+    ],
+    "correctAnswer": 1,
+    "explanation": "朱元璋去世后传位给皇孙朱允炆，燕王朱棣以「清君侧」为名起兵靖难，历时三年攻入南京，建文帝下落成谜，朱棣随后登基即明成祖。"
+  },
+  {
+    "id": "cnhistory-056",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "1616年在赫图阿拉建立「大金」（史称后金）政权的女真首领是谁？",
+    "options": [
+      "皇太极",
+      "努尔哈赤",
+      "多尔衮",
+      "多铎"
+    ],
+    "correctAnswer": 1,
+    "explanation": "努尔哈赤统一女真各部后，1616年称汗建立后金政权。他的儿子皇太极后来才将国号改为「大清」，族名也从「女真」改为「满洲」。"
+  },
+  {
+    "id": "cnhistory-057",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "1636年将国号由「大金」改为「大清」的清朝统治者是谁？",
+    "options": [
+      "努尔哈赤",
+      "顺治帝",
+      "多尔衮",
+      "皇太极"
+    ],
+    "correctAnswer": 3,
+    "explanation": "皇太极1636年在盛京称帝，改国号为「大清」，并将族名「女真」改为「满洲」。此时清朝尚未入关，真正入主中原要到他儿子顺治帝在位时。"
+  },
+  {
+    "id": "cnhistory-058",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "康熙年间以吴三桂为首、最终被朝廷平定的地方割据势力叛乱，史称什么？",
+    "options": [
+      "三藩之乱",
+      "七国之乱",
+      "八王之乱",
+      "靖难之役"
+    ],
+    "correctAnswer": 0,
+    "explanation": "清初分封的三位藩王吴三桂、尚可喜、耿精忠拥兵自重，1673年吴三桂起兵反清，史称「三藩之乱」，历时八年才被年轻的康熙帝彻底平定。"
+  },
+  {
+    "id": "cnhistory-059",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "明朝的最后一个皇帝是谁？",
+    "options": [
+      "朱由检",
+      "朱祁镇",
+      "朱厚照",
+      "朱允炆"
+    ],
+    "correctAnswer": 0,
+    "explanation": "崇祯帝朱由检是明朝末代皇帝。1644年李自成攻入北京，他在煤山（今景山）自缢，明朝灭亡。朱祁镇是明英宗，朱厚照是明武宗，朱允炆是建文帝。"
+  },
+  {
+    "id": "cnhistory-060",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "1405年至1433年间，郑和先后几次率船队下西洋？",
+    "options": [
+      "五次",
+      "六次",
+      "七次",
+      "八次"
+    ],
+    "correctAnswer": 2,
+    "explanation": "从1405年到1433年，郑和先后七次率船队远航，最远到达非洲东海岸和红海沿岸。郑和下西洋比哥伦布1492年到达美洲早了近九十年。"
+  },
+  {
+    "id": "cnhistory-061",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "明代医药学家李时珍编著的药物学巨著是？",
+    "options": [
+      "《千金方》",
+      "《本草纲目》",
+      "《伤寒杂病论》",
+      "《黄帝内经》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "李时珍历时近三十年编成《本草纲目》，记载药物1892种，被誉为「东方药物巨典」。《千金方》是唐代孙思邈所著，《伤寒杂病论》是东汉张仲景所著。"
+  },
+  {
+    "id": "cnhistory-062",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "戚继光率「戚家军」在东南沿海抗击的「倭寇」，主要来自哪个国家？",
+    "options": [
+      "朝鲜",
+      "越南",
+      "日本",
+      "荷兰"
+    ],
+    "correctAnswer": 2,
+    "explanation": "明代中期，部分日本武士、浪人与沿海走私商人勾结，形成「倭寇」之患。戚继光在浙江、福建一带屡破倭寇，基本平定了东南沿海的倭患。"
+  },
+  {
+    "id": "cnhistory-063",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "1368年朱元璋建立明朝时，都城定在哪里？",
+    "options": [
+      "北京",
+      "开封",
+      "洛阳",
+      "南京"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1368年朱元璋在应天府（今南京）称帝，定都南京。直到明成祖朱棣即位后，才于1421年（永乐十九年）正式将都城迁往北京。"
+  },
+  {
+    "id": "cnhistory-064",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "明末领导农民起义、于1644年攻入北京推翻明朝的领袖是谁？",
+    "options": [
+      "张献忠",
+      "李自成",
+      "刘伯温",
+      "郑成功"
+    ],
+    "correctAnswer": 1,
+    "explanation": "李自成率起义军于1644年攻入北京，崇祯帝自缢，明朝灭亡。张献忠则是在四川建立了大西政权；刘伯温是明初开国功臣，郑成功是明末清初抗清名将。"
+  },
+  {
+    "id": "cnhistory-065",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "明朝把都城从南京迁往北京的皇帝是谁？",
+    "options": [
+      "明太祖朱元璋",
+      "明仁宗朱高炽",
+      "明宣宗朱瞻基",
+      "明成祖朱棣"
+    ],
+    "correctAnswer": 3,
+    "explanation": "明成祖朱棣即位后，为巩固北方边防并摆脱南京旧势力影响，于永乐十九年（1421年）正式迁都北京。注意：定都南京的是朱元璋，迁都北京的是朱棣。"
+  },
+  {
+    "id": "cnhistory-066",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "明成祖朱棣在位时编纂的巨型类书《永乐大典》，由谁主持？",
+    "options": [
+      "解缙",
+      "宋濂",
+      "刘基",
+      "杨士奇"
+    ],
+    "correctAnswer": 0,
+    "explanation": "明成祖命解缙主持编纂《永乐大典》，全书约3.7亿字、11095册，是中国古代规模最大的类书，姚广孝等人也参与了监修。宋濂、刘基是明初的著名文臣，与编纂《永乐大典》关系不大。"
+  },
+  {
+    "id": "cnhistory-067",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "明代科举考试的乡试、会试，规定使用哪种格式化文体作答？",
+    "options": [
+      "律诗",
+      "骈文",
+      "八股文",
+      "策论"
+    ],
+    "correctAnswer": 2,
+    "explanation": "明代的乡试、会试规定用八股文作答。八股文有破题、承题、起讲、入题、起股、中股、后股、束股等固定格式，严重禁锢了士人思想。"
+  },
+  {
+    "id": "cnhistory-068",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "1449年瓦剌大军兵临北京城下时，力主坚守并指挥北京保卫战的大臣是谁？",
+    "options": [
+      "于谦",
+      "徐有贞",
+      "李贤",
+      "杨士奇"
+    ],
+    "correctAnswer": 0,
+    "explanation": "土木堡之变后明英宗被俘，瓦剌直逼北京。于谦力排众议、拥立景泰帝，并亲自指挥北京保卫战击退瓦剌。写下《石灰吟》「粉身碎骨浑不怕，要留清白在人间」的正是这位民族英雄。"
+  },
+  {
+    "id": "cnhistory-069",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "明朝中后期，逐渐取代铜钱、成为全国主要流通货币的是什么？",
+    "options": [
+      "黄金",
+      "白银",
+      "铁钱",
+      "交子"
+    ],
+    "correctAnswer": 1,
+    "explanation": "明代中后期，随着商品经济发展和一条鞭法等赋税改革推行，白银逐渐取代铜钱，成为全国普遍流通的主要货币。交子是北宋四川地区出现的纸币，与本题无关。"
+  },
+  {
+    "id": "cnhistory-070",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "万历年间与徐光启合作、把《几何原本》译成中文的意大利传教士是谁？",
+    "options": [
+      "利玛窦",
+      "汤若望",
+      "南怀仁",
+      "郎世宁"
+    ],
+    "correctAnswer": 0,
+    "explanation": "意大利耶稣会传教士利玛窦1582年来华，1601年入京，与徐光启合作翻译了《几何原本》前六卷，「几何」一词即由此而来。汤若望、南怀仁是清初来华的传教士，郎世宁是清代宫廷画家。"
+  },
+  {
+    "id": "cnhistory-071",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "明朝嘉靖年间，最先获准在中国澳门居留的欧洲国家是？",
+    "options": [
+      "葡萄牙",
+      "西班牙",
+      "荷兰",
+      "英国"
+    ],
+    "correctAnswer": 0,
+    "explanation": "嘉靖年间（1553年前后），葡萄牙人以晾晒货物为名，通过贿赂广东地方官获准在澳门登陆居留，此后澳门逐渐成为葡萄牙人的居留地。香港被英国占据是鸦片战争以后的事。"
+  },
+  {
+    "id": "cnhistory-072",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "明末权倾朝野、被朝臣们争相称为「九千岁」的宦官是谁？",
+    "options": [
+      "刘瑾",
+      "魏忠贤",
+      "汪直",
+      "王振"
+    ],
+    "correctAnswer": 1,
+    "explanation": "明熹宗天启年间，宦官魏忠贤专权，党羽遍布朝堂，人称「九千岁」，崇祯帝即位后被铲除。王振是怂恿英宗亲征致土木堡之变的宦官，刘瑾是明武宗时期的权阉。"
+  },
+  {
+    "id": "cnhistory-073",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "1619年，明朝四路大军被后金各个击破、从此转入战略防御的战役是？",
+    "options": [
+      "松锦之战",
+      "萨尔浒之战",
+      "宁远之战",
+      "广宁之战"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1619年，明朝经略杨镐率四路大军围剿后金，努尔哈赤采用「集中兵力、各个击破」的战法，在萨尔浒一带大败明军，史称萨尔浒之战。此战是明清兴亡的关键转折点。"
+  },
+  {
+    "id": "cnhistory-074",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "一般历史教科书的说法中，中国最早的「资本主义萌芽」出现于什么时期？",
+    "options": [
+      "宋朝中原地区",
+      "元朝大都地区",
+      "清朝前期广东沿海",
+      "明朝中后期的江南地区"
+    ],
+    "correctAnswer": 3,
+    "explanation": "明朝中后期，江南地区的丝织业等行业出现「机户出资、机工出力」的雇佣劳动关系，通常被视为中国最早的资本主义萌芽。注意它的时间点是明朝中后期，而非宋朝或元朝。"
+  },
+  {
+    "id": "cnhistory-075",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "史称「万历三大征」的三场战争，指的是哪三场？",
+    "options": [
+      "宁夏之役、朝鲜之役、播州之役",
+      "宁夏之役、蓟州之役、松锦之役",
+      "辽东之役、播州之役、宣府之役",
+      "朝鲜之役、扬州之役、大同之役"
+    ],
+    "correctAnswer": 0,
+    "explanation": "万历三大征指万历年间明廷先后平定的宁夏之役（哱拜之乱）、朝鲜之役（抗倭援朝）和播州之役（杨应龙之乱）。三战虽胜，却也极大消耗了明朝国力。"
+  },
+  {
+    "id": "cnhistory-076",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "1644年李自成在西安称帝时建立的农民政权，国号是？",
+    "options": [
+      "大西",
+      "大齐",
+      "大顺",
+      "大周"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1644年李自成在西安称帝，建立「大顺」政权，随后攻入北京推翻明朝。张献忠同年在成都建立的是「大西」政权，「大齐」则是晚唐黄巢建立的政权。"
+  },
+  {
+    "id": "cnhistory-077",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "明代徐霞客的《徐霞客游记》，最早对哪种特殊地貌进行了系统的科学考察？",
+    "options": [
+      "丹霞地貌",
+      "雅丹地貌",
+      "黄土地貌",
+      "喀斯特（石灰岩）地貌"
+    ],
+    "correctAnswer": 3,
+    "explanation": "明代地理学家徐霞客历时三十余年游历考察，著成《徐霞客游记》，对西南地区喀斯特（石灰岩）地貌的成因和分布进行了世界上最早的详细记述。该书既是科学著作，也是优美的文学游记。"
+  },
+  {
+    "id": "cnhistory-078",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "16世纪末，日本丰臣秀吉两度入侵朝鲜，明朝出兵援朝，这场战争史称？",
+    "options": [
+      "洪武北伐",
+      "万历朝鲜之役",
+      "甲午战争",
+      "土木之变"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1592年和1597年，日本丰臣秀吉两度侵略朝鲜，明朝派兵援朝并大败日军，史称万历朝鲜之役（朝鲜称「壬辰倭乱」）。这场战争不仅保卫了朝鲜，也挫败了日本扩张的野心。"
+  },
+  {
+    "id": "cnhistory-079",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "隋朝的建立者、开国皇帝是谁？",
+    "options": [
+      "杨坚",
+      "杨广",
+      "李渊",
+      "李密"
+    ],
+    "correctAnswer": 0,
+    "explanation": "581年北周外戚杨坚代周建隋，定都长安，史称隋文帝；杨广是其子隋炀帝，李渊是唐朝开国皇帝，李密是隋末瓦岗起义军首领。"
+  },
+  {
+    "id": "cnhistory-080",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "唐朝的开国皇帝是谁？",
+    "options": [
+      "李世民",
+      "李隆基",
+      "李治",
+      "李渊"
+    ],
+    "correctAnswer": 3,
+    "explanation": "617年李渊在太原起兵，618年称帝建唐，即唐高祖；李世民是他的儿子（唐太宗），李治是高宗，李隆基是唐玄宗。"
+  },
+  {
+    "id": "cnhistory-081",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "李白被后人尊称为什么？",
+    "options": [
+      "诗圣",
+      "诗魔",
+      "诗鬼",
+      "诗仙"
+    ],
+    "correctAnswer": 3,
+    "explanation": "李白诗风豪放飘逸，被尊为'诗仙'；'诗圣'是杜甫，'诗魔'是白居易，'诗鬼'是晚唐诗人李贺。"
+  },
+  {
+    "id": "cnhistory-082",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "'开元盛世'出现在哪位皇帝统治时期？",
+    "options": [
+      "唐太宗",
+      "唐高宗",
+      "唐中宗",
+      "唐玄宗"
+    ],
+    "correctAnswer": 3,
+    "explanation": "唐玄宗李隆基在位前期励精图治，年号开元（713—741年），唐朝进入全盛时期，史称'开元盛世'。"
+  },
+  {
+    "id": "cnhistory-083",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "隋朝大运河是由哪位皇帝下令开凿的？",
+    "options": [
+      "隋文帝",
+      "隋炀帝",
+      "唐太宗",
+      "武则天"
+    ],
+    "correctAnswer": 1,
+    "explanation": "605年起隋炀帝杨广下令开凿大运河，以洛阳为中心，北抵涿郡、南达余杭，全长两千多公里，沟通海河、黄河、淮河、长江、钱塘江五大水系。"
+  },
+  {
+    "id": "cnhistory-084",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "科举制中的'进士科'是由哪位皇帝正式设置的？",
+    "options": [
+      "隋文帝",
+      "唐太宗",
+      "隋炀帝",
+      "武则天"
+    ],
+    "correctAnswer": 2,
+    "explanation": "隋炀帝大业年间设置进士科，标志科举制度正式形成；隋文帝只是废除九品中正制、开始分科考试，唐太宗、武则天是后来的完善者，这是常考易混点。"
+  },
+  {
+    "id": "cnhistory-085",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "隋唐三省六部制中，负责执行政令的是哪一省？",
+    "options": [
+      "尚书省",
+      "中书省",
+      "门下省",
+      "内史省"
+    ],
+    "correctAnswer": 0,
+    "explanation": "三省分工：中书省草拟诏令，门下省审核封驳，尚书省负责执行，下设吏、户、礼、兵、刑、工六部；内史省只是隋朝对中书省的称呼，并非第四省。"
+  },
+  {
+    "id": "cnhistory-086",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "626年玄武门之变中，李世民除掉了哪两个人？",
+    "options": [
+      "太子李建成和齐王李元吉",
+      "父亲李渊和太子李建成",
+      "李建成和程咬金",
+      "李密和王世充"
+    ],
+    "correctAnswer": 0,
+    "explanation": "626年李世民在玄武门发动政变，杀死太子李建成和齐王李元吉，随后即位为唐太宗；政变对象并不包括其父李渊，李渊事后不久便退位成为太上皇。"
+  },
+  {
+    "id": "cnhistory-087",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "文成公主入藏和亲，嫁给了哪位吐蕃赞普？",
+    "options": [
+      "尺带珠丹",
+      "禄东赞",
+      "赤松德赞",
+      "松赞干布"
+    ],
+    "correctAnswer": 3,
+    "explanation": "641年唐太宗将文成公主嫁给松赞干布，促进了唐蕃友好与汉藏文化交流；尺带珠丹迎娶的是金城公主，禄东赞是吐蕃求婚使者兼大臣，多与文成公主故事混记。"
+  },
+  {
+    "id": "cnhistory-088",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "标志着唐朝由盛转衰的'安史之乱'是由谁发动的？",
+    "options": [
+      "黄巢和朱温",
+      "李密和翟让",
+      "安禄山和史思明",
+      "安禄山和黄巢"
+    ],
+    "correctAnswer": 2,
+    "explanation": "755年安禄山、史思明在范阳起兵叛乱，史称安史之乱，历时八年，唐朝从此由盛转衰并出现藩镇割据；黄巢起义发生在唐末，李密、翟让是隋末瓦岗军首领。"
+  },
+  {
+    "id": "cnhistory-089",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "唐代高僧鉴真先后六次东渡，最终抵达哪个国家传播佛法文化？",
+    "options": [
+      "天竺",
+      "日本",
+      "波斯",
+      "新罗"
+    ],
+    "correctAnswer": 1,
+    "explanation": "鉴真历经磨难六次东渡，753年第六次成功抵达日本，传播佛法、医药、书法等，并主持修建唐招提寺；前往天竺取经并著《大唐西域记》的是玄奘。"
+  },
+  {
+    "id": "cnhistory-090",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "科举考试中由皇帝亲自主持的'殿试'首创于哪位皇帝？",
+    "options": [
+      "唐太宗",
+      "唐高宗",
+      "唐玄宗",
+      "武则天"
+    ],
+    "correctAnswer": 3,
+    "explanation": "武则天主政时首创殿试（皇帝亲试举人）和武举，并扩大科举取士规模；唐太宗时科举以进士、明经两科为主，唐玄宗时诗赋成为进士科主要考试内容，殿试皆晚于武则天时期。"
+  },
+  {
+    "id": "cnhistory-091",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "唐代的'两税法'是由哪位大臣主持推行的？",
+    "options": [
+      "杨炎",
+      "姚崇",
+      "李林甫",
+      "王安石"
+    ],
+    "correctAnswer": 0,
+    "explanation": "780年（唐德宗建中元年）宰相杨炎推行两税法，按土地和财产多少分夏、秋两季征税，改变了以人丁为主的赋税制度；姚崇、李林甫是唐玄宗时的宰相，王安石是北宋人。"
+  },
+  {
+    "id": "cnhistory-092",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "世界上现存最早、标有确切年代的雕版印刷品是下列哪一件？",
+    "options": [
+      "《大唐西域记》",
+      "《道德经》",
+      "《金刚经》",
+      "《兰亭集序》"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1900年在敦煌发现的唐咸通九年（868年）刻本《金刚经》，是世界上现存最早、有确切日期的雕版印刷品；《大唐西域记》为玄奘手著流传，《兰亭集序》是书法作品。"
+  },
+  {
+    "id": "cnhistory-093",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "世界上第一次实测子午线长度，是由哪位唐代科学家主持完成的？",
+    "options": [
+      "僧一行",
+      "孙思邈",
+      "李淳风",
+      "郭守敬"
+    ],
+    "correctAnswer": 0,
+    "explanation": "唐玄宗开元年间，僧一行（俗名张遂）主持在全国十三个地点实测子午线长度，这在世界上是第一次，并据此编制《大衍历》；孙思邈是医药学家，李淳风是天文历算家，郭守敬是元代人。"
+  },
+  {
+    "id": "cnhistory-094",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "907年朱温废唐哀帝称帝、建立后梁，唐朝就此灭亡。这标志着哪一历史时期的开始？",
+    "options": [
+      "隋朝统一全国",
+      "五代十国时期",
+      "安史之乱爆发",
+      "黄巢起义爆发"
+    ],
+    "correctAnswer": 1,
+    "explanation": "907年朱温在开封称帝建立后梁，唐朝灭亡，五代十国时期正式开始；安史之乱爆发于755年、黄巢起义爆发于875年，都在唐朝灭亡之前。"
+  },
+  {
+    "id": "cnhistory-095",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "唐朝租庸调制中，'庸'具体指什么？",
+    "options": [
+      "缴纳定量的谷物",
+      "纳绢或布代替服徭役",
+      "缴纳定量的绢或布",
+      "抽签服兵役"
+    ],
+    "correctAnswer": 1,
+    "explanation": "租庸调制以人丁为本：'租'是缴纳谷物，'调'是缴纳绢布，'庸'指不去服徭役的人可以纳绢或布代役，保证了农民的生产时间，三者含义是常考的易混点。"
+  },
+  {
+    "id": "cnhistory-096",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "春秋时期第一个称霸中原、打出「尊王攘夷」旗号的诸侯是谁？",
+    "options": [
+      "齐桓公",
+      "宋襄公",
+      "秦穆公",
+      "楚庄王"
+    ],
+    "correctAnswer": 0,
+    "explanation": "齐桓公在管仲辅佐下「尊王攘夷」，会盟诸侯，成为春秋第一位霸主。宋襄公、秦穆公也是《史记》所记「春秋五霸」的说法之一，常被拿来和齐桓公记混。"
+  },
+  {
+    "id": "cnhistory-097",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "「战国七雄」不包括下列哪个诸侯国？",
+    "options": [
+      "齐",
+      "鲁",
+      "楚",
+      "魏"
+    ],
+    "correctAnswer": 1,
+    "explanation": "战国七雄指齐、楚、燕、韩、赵、魏、秦七国。鲁国春秋时还是重要诸侯，战国时逐渐衰落，最终为楚国所灭，不在七雄之列。"
+  },
+  {
+    "id": "cnhistory-098",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "儒家学派中，被后世尊为「亚圣」的思想家是谁？",
+    "options": [
+      "孔子",
+      "荀子",
+      "孟子",
+      "曾子"
+    ],
+    "correctAnswer": 2,
+    "explanation": "孟子继承并发展了孔子的学说，主张「仁政」和「民贵君轻」，被后世尊为「亚圣」，与孔子并称「孔孟」。别把他和主张「性恶论」的荀子弄混。"
+  },
+  {
+    "id": "cnhistory-099",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "成语「纸上谈兵」典故的主人公是哪位赵国将领？",
+    "options": [
+      "赵括",
+      "白起",
+      "蒙恬",
+      "赵奢"
+    ],
+    "correctAnswer": 0,
+    "explanation": "赵括是名将赵奢之子，只会夸夸其谈，长平之战中取代廉颇后惨败于白起。他的父亲赵奢是赫赫有名的战将，题目问的是儿子赵括。"
+  },
+  {
+    "id": "cnhistory-100",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "道家学派的创始人是哪位思想家？",
+    "options": [
+      "老子",
+      "孔子",
+      "庄子",
+      "孟子"
+    ],
+    "correctAnswer": 0,
+    "explanation": "老子（李耳）是道家创始人，著《道德经》，主张「无为而治」「道法自然」。庄子是道家此后的集大成者，常与老子并称「老庄」，但创始人不是他。"
+  },
+  {
+    "id": "cnhistory-101",
+    "category": "cnhistory",
+    "difficulty": "easy",
+    "question": "战国末年「荆轲刺秦王」中，荆轲受燕太子丹之托要刺杀的是哪位君主？",
+    "options": [
+      "韩王",
+      "赵王",
+      "秦王",
+      "楚王"
+    ],
+    "correctAnswer": 2,
+    "explanation": "公元前227年，荆轲受燕太子丹之托刺杀秦王嬴政，图穷匕见却功败垂成。他刺的是日后统一六国的秦始皇，可别记成其他国家的君王。"
+  },
+  {
+    "id": "cnhistory-102",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "「三家分晋」中，最终瓜分晋国的是哪三家？",
+    "options": [
+      "齐、楚、燕",
+      "韩、赵、魏",
+      "秦、楚、齐",
+      "韩、赵、燕"
+    ],
+    "correctAnswer": 1,
+    "explanation": "韩、赵、魏三家大夫瓜分了晋国，因此这三家又称「三晋」，后来跻身战国七雄。选项里的齐、楚、燕虽然也是七雄，却不是由晋国分裂而来的。"
+  },
+  {
+    "id": "cnhistory-103",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "桂陵之战中，为齐国献上「围魏救赵」之计、大败魏军的军师是谁？",
+    "options": [
+      "田忌",
+      "庞涓",
+      "孙膑",
+      "乐毅"
+    ],
+    "correctAnswer": 2,
+    "explanation": "公元前354年魏国围攻赵都邯郸，齐国救赵时避实击虚直捣魏都大梁，迫使魏军回援，次年（前353年）在桂陵大败魏军，「围魏救赵」由此得名。计谋出自军师孙膑，主帅田忌只是执行者，别选错。"
+  },
+  {
+    "id": "cnhistory-104",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "城濮之战中上演「退避三舍」、最终击败楚军称霸的是哪位晋国国君？",
+    "options": [
+      "晋文公",
+      "晋襄公",
+      "晋景公",
+      "晋悼公"
+    ],
+    "correctAnswer": 0,
+    "explanation": "晋文公重耳流亡楚国时曾许诺「退避三舍」，城濮之战中他兑现诺言后撤九十里，再大破楚军，会盟诸侯确立霸主地位——这正是「退避三舍」的来历。晋襄公是他的儿子，后三位都是其后的晋君。"
+  },
+  {
+    "id": "cnhistory-105",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "典故「问鼎中原」出自春秋时期的哪位霸主？",
+    "options": [
+      "齐桓公",
+      "晋文公",
+      "秦穆公",
+      "楚庄王"
+    ],
+    "correctAnswer": 3,
+    "explanation": "楚庄王进兵洛水之滨，向周定王的使者询问象征王权的九鼎轻重，暴露了取代周室的野心，「问鼎中原」由此而来。他的「一鸣惊人」典故也在春秋为人熟知。"
+  },
+  {
+    "id": "cnhistory-106",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "马陵之战中，中了孙膑「减灶诱敌」之计而兵败身死的魏军统帅是谁？",
+    "options": [
+      "庞涓",
+      "孙膑",
+      "赵括",
+      "白起"
+    ],
+    "correctAnswer": 0,
+    "explanation": "公元前341年孙膑以「减灶」示弱诱敌深入，设伏马陵，魏军主帅庞涓中计被围，自刎而死。庞涓与孙膑曾同门学兵法，同门相争的结局常让他俩弄混。"
+  },
+  {
+    "id": "cnhistory-107",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "战国时期主张六国「合纵」联合抗秦的代表人物是谁？",
+    "options": [
+      "张仪",
+      "苏秦",
+      "李斯",
+      "商鞅"
+    ],
+    "correctAnswer": 1,
+    "explanation": "「合纵」主张南北各国联合共同抗秦，代表人物是苏秦，传说他曾佩六国相印。张仪是反过来为秦国游说、主张「连横」的代表，两个人经常被记反。"
+  },
+  {
+    "id": "cnhistory-108",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "主张「性恶论」、强调「隆礼重法」的战国思想家是谁？",
+    "options": [
+      "孟子",
+      "荀子",
+      "董仲舒",
+      "韩非子"
+    ],
+    "correctAnswer": 1,
+    "explanation": "荀子认为人性本恶，须用「礼」规范、用「法」约束，即「隆礼重法」，与孟子「性善论」正好相对。他的学生韩非、李斯后来成为法家的代表人物。"
+  },
+  {
+    "id": "cnhistory-109",
+    "category": "cnhistory",
+    "difficulty": "medium",
+    "question": "战国末期将「法、术、势」三者结合、被称为法家集大成者的思想家是谁？",
+    "options": [
+      "商鞅",
+      "申不害",
+      "韩非子",
+      "李悝"
+    ],
+    "correctAnswer": 2,
+    "explanation": "韩非子综合商鞅之「法」、申不害之「术」、慎到之「势」，是法家集大成者。商鞅重「法」、申不害重「术」，李悝则在魏国变法，各有所重，常被混淆成同一人。"
+  },
+  {
+    "id": "cnhistory-110",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "历史学界通常以哪个事件作为春秋与战国两个时期的分界标志？",
+    "options": [
+      "周平王东迁",
+      "长平之战",
+      "桂陵之战",
+      "三家分晋"
+    ],
+    "correctAnswer": 3,
+    "explanation": "学界多以「三家分晋」（公元前403年周威烈王册命韩、赵、魏为诸侯）作为战国开始的标志，《资治通鉴》也由此开篇。周平王东迁（前770年）标志的是东周开始、春秋揭开序幕，别搞混。"
+  },
+  {
+    "id": "cnhistory-111",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "「田氏代齐」中，被田氏取代的齐国，其开国始祖是哪位西周功臣？",
+    "options": [
+      "周公旦",
+      "姜太公",
+      "召公奭",
+      "微子启"
+    ],
+    "correctAnswer": 1,
+    "explanation": "齐国的开国始祖是辅佐武王伐纣的姜太公（吕尚），故齐国又称「姜齐」。战国初年田氏架空并取代姜氏，史称「田氏代齐」，齐国君主从此姓田不姓姜。周公旦封于鲁、召公奭封于燕、微子启封于宋。"
+  },
+  {
+    "id": "cnhistory-112",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "为秦国提出「远交近攻」策略、后被封为「应侯」的谋士是谁？",
+    "options": [
+      "张仪",
+      "范雎",
+      "魏冉",
+      "吕不韦"
+    ],
+    "correctAnswer": 1,
+    "explanation": "范雎向秦昭襄王献上「远交近攻」之策——交好远国、先攻邻国，使秦国蚕食六国的进程大大提速，他也因此受封应侯。张仪的高光时刻在秦惠文王时期、主打「连横」，两人常被混淆。"
+  },
+  {
+    "id": "cnhistory-113",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "公元前594年鲁国实行的、按土地亩数征收赋税的制度叫什么？",
+    "options": [
+      "初税亩",
+      "井田制",
+      "均田制",
+      "一条鞭法"
+    ],
+    "correctAnswer": 0,
+    "explanation": "鲁宣公十五年（前594年）鲁国推行「初税亩」，不论公田私田一律按亩收税，事实上承认了土地私有，标志着井田制开始瓦解。井田制是西周的旧制，初税亩正是要终结它。"
+  },
+  {
+    "id": "cnhistory-114",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "提出「白马非马」这一著名命题的先秦名家代表人物是谁？",
+    "options": [
+      "惠施",
+      "公孙龙",
+      "邹衍",
+      "许行"
+    ],
+    "correctAnswer": 1,
+    "explanation": "公孙龙以「白马非马」「离坚白」之辩闻名，是名家「离坚白」一派的代表。同属名家的惠施主张「合同异」，两人常被并列讨论，但「白马非马」明确是公孙龙的命题。"
+  },
+  {
+    "id": "cnhistory-115",
+    "category": "cnhistory",
+    "difficulty": "hard",
+    "question": "战国「窃符救赵」的主人公，是战国四公子中的哪一位？",
+    "options": [
+      "平原君赵胜",
+      "信陵君魏无忌",
+      "孟尝君田文",
+      "春申君黄歇"
+    ],
+    "correctAnswer": 1,
+    "explanation": "秦军围赵都邯郸，信陵君魏无忌在门客侯嬴谋划下窃取魏王虎符、假传王命夺得晋鄙兵权，率兵救赵解围。四公子里赵有平原君、齐有孟尝君、楚有春申君，都是迷惑项。"
+  }
+]

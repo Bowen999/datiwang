@@ -1,0 +1,198 @@
+[
+  {
+    "id": "cn-city-gdp",
+    "name": "2024年中国城市GDP排行榜",
+    "difficulty": "medium",
+    "entries": [
+      { "name": "上海", "value": "53935亿元" },
+      { "name": "北京", "value": "49843亿元" },
+      { "name": "深圳", "value": "36802亿元" },
+      { "name": "重庆", "value": "32193亿元" },
+      { "name": "广州", "value": "31033亿元" },
+      { "name": "苏州", "value": "26709亿元" },
+      { "name": "成都", "value": "25246亿元" },
+      { "name": "杭州", "value": "21860亿元" },
+      { "name": "武汉", "value": "21162亿元" },
+      { "name": "南京", "value": "18501亿元" }
+    ]
+  },
+  {
+    "id": "cn-province-gdp",
+    "name": "2023年中国省份GDP排行榜",
+    "difficulty": "medium",
+    "entries": [
+      { "name": "广东", "value": "135673亿元" },
+      { "name": "江苏", "value": "128222亿元" },
+      { "name": "山东", "value": "92069亿元" },
+      { "name": "浙江", "value": "82553亿元" },
+      { "name": "四川", "value": "60133亿元" },
+      { "name": "河南", "value": "59132亿元" },
+      { "name": "湖北", "value": "55804亿元" },
+      { "name": "福建", "value": "54355亿元" },
+      { "name": "湖南", "value": "50013亿元" },
+      { "name": "上海", "value": "47218亿元" }
+    ]
+  },
+  {
+    "id": "country-pop",
+    "name": "2025年全球人口最多的国家",
+    "difficulty": "easy",
+    "entries": [
+      { "name": "印度", "value": "约14.4亿人" },
+      { "name": "中国", "value": "约14.1亿人" },
+      { "name": "美国", "value": "约3.4亿人" },
+      { "name": "印度尼西亚", "value": "约2.8亿人" },
+      { "name": "巴基斯坦", "value": "约2.4亿人" },
+      { "name": "尼日利亚", "value": "约2.3亿人" },
+      { "name": "巴西", "value": "约2.2亿人" },
+      { "name": "孟加拉国", "value": "约1.7亿人" },
+      { "name": "俄罗斯", "value": "约1.4亿人" },
+      { "name": "墨西哥", "value": "约1.3亿人" }
+    ]
+  },
+  {
+    "id": "country-area",
+    "name": "世界国土面积最大的国家",
+    "difficulty": "easy",
+    "entries": [
+      { "name": "俄罗斯", "value": "约1709.8万km²" },
+      { "name": "加拿大", "value": "约998.5万km²" },
+      { "name": "中国", "value": "约960.0万km²" },
+      { "name": "美国", "value": "约937.3万km²" },
+      { "name": "巴西", "value": "约851.5万km²" },
+      { "name": "澳大利亚", "value": "约769.2万km²" },
+      { "name": "印度", "value": "约328.7万km²" },
+      { "name": "阿根廷", "value": "约278.0万km²" },
+      { "name": "哈萨克斯坦", "value": "约272.5万km²" },
+      { "name": "阿尔及利亚", "value": "约238.2万km²" }
+    ]
+  },
+  {
+    "id": "river-length",
+    "name": "世界最长的河流",
+    "difficulty": "medium",
+    "entries": [
+      { "name": "尼罗河", "value": "约6670km" },
+      { "name": "亚马孙河", "value": "约6400km" },
+      { "name": "长江", "value": "约6300km" },
+      { "name": "密西西比河-密苏里河", "value": "约6275km" },
+      { "name": "黄河", "value": "约5464km" },
+      { "name": "额尔齐斯河-鄂毕河", "value": "约5410km" },
+      { "name": "澜沧江-湄公河", "value": "约4880km" },
+      { "name": "刚果河", "value": "约4700km" },
+      { "name": "黑龙江", "value": "约4440km" },
+      { "name": "勒拿河", "value": "约4400km" }
+    ]
+  },
+  {
+    "id": "mountain-height",
+    "name": "世界十大最高山峰",
+    "difficulty": "hard",
+    "entries": [
+      { "name": "珠穆朗玛峰", "value": "8848.86米" },
+      { "name": "乔戈里峰（K2）", "value": "8611米" },
+      { "name": "干城章嘉峰", "value": "8586米" },
+      { "name": "洛子峰", "value": "8516米" },
+      { "name": "马卡鲁峰", "value": "8485米" },
+      { "name": "卓奥友峰", "value": "8188米" },
+      { "name": "道拉吉里峰", "value": "8167米" },
+      { "name": "马纳斯鲁峰", "value": "8163米" },
+      { "name": "南迦帕尔巴特峰", "value": "8126米" },
+      { "name": "安纳布尔纳Ⅰ峰", "value": "8091米" }
+    ]
+  },
+  {
+    "id": "market-cap",
+    "name": "2024年底全球市值最高的公司",
+    "difficulty": "hard",
+    "entries": [
+      { "name": "苹果（Apple）", "value": "约3.7万亿美元" },
+      { "name": "微软（Microsoft）", "value": "约3.1万亿美元" },
+      { "name": "英伟达（NVIDIA）", "value": "约2.9万亿美元" },
+      { "name": "亚马逊（Amazon）", "value": "约2.3万亿美元" },
+      { "name": "谷歌（Alphabet）", "value": "约2.1万亿美元" },
+      { "name": "沙特阿美（Saudi Aramco）", "value": "约1.8万亿美元" },
+      { "name": "Meta", "value": "约1.5万亿美元" },
+      { "name": "特斯拉（Tesla）", "value": "约1.2万亿美元" },
+      { "name": "博通（Broadcom）", "value": "约1.1万亿美元" },
+      { "name": "伯克希尔·哈撒韦", "value": "约1.0万亿美元" }
+    ]
+  },
+  {
+    "id": "nba-titles",
+    "name": "NBA球队历史总冠军次数排行榜（截至2024年）",
+    "difficulty": "medium",
+    "entries": [
+      { "name": "波士顿凯尔特人", "value": "18次" },
+      { "name": "洛杉矶湖人", "value": "17次" },
+      { "name": "金州勇士", "value": "7次" },
+      { "name": "芝加哥公牛", "value": "6次" },
+      { "name": "圣安东尼奥马刺", "value": "5次" },
+      { "name": "底特律活塞", "value": "3次" }
+    ]
+  },
+  {
+    "id": "planet-diameter",
+    "name": "太阳系八大行星直径排行榜",
+    "difficulty": "easy",
+    "entries": [
+      { "name": "木星", "value": "约14.3万km" },
+      { "name": "土星", "value": "约12.1万km" },
+      { "name": "天王星", "value": "约5.1万km" },
+      { "name": "海王星", "value": "约5.0万km" },
+      { "name": "地球", "value": "约1.28万km" },
+      { "name": "金星", "value": "约1.21万km" },
+      { "name": "火星", "value": "约6792km" },
+      { "name": "水星", "value": "约4879km" }
+    ]
+  },
+  {
+    "id": "china-city-pop",
+    "name": "中国常住人口最多的城市（2023年）",
+    "difficulty": "easy",
+    "entries": [
+      { "name": "重庆", "value": "约3191万" },
+      { "name": "上海", "value": "约2487万" },
+      { "name": "北京", "value": "约2186万" },
+      { "name": "成都", "value": "约2140万" },
+      { "name": "广州", "value": "约1883万" },
+      { "name": "深圳", "value": "约1779万" },
+      { "name": "武汉", "value": "约1374万" },
+      { "name": "天津", "value": "约1364万" },
+      { "name": "西安", "value": "约1308万" },
+      { "name": "苏州", "value": "约1295万" }
+    ]
+  },
+  {
+    "id": "big-lake",
+    "name": "世界面积最大的湖泊（含咸水湖）",
+    "difficulty": "easy",
+    "entries": [
+      { "name": "里海", "value": "约37.1万km²" },
+      { "name": "苏必利尔湖", "value": "约8.2万km²" },
+      { "name": "维多利亚湖", "value": "约6.96万km²" },
+      { "name": "休伦湖", "value": "约5.96万km²" },
+      { "name": "密歇根湖", "value": "约5.8万km²" },
+      { "name": "坦噶尼喀湖", "value": "约3.26万km²" },
+      { "name": "贝加尔湖", "value": "约3.15万km²" },
+      { "name": "大熊湖", "value": "约3.1万km²" }
+    ]
+  },
+  {
+    "id": "univ-qs",
+    "name": "2025年QS世界大学排名（前10名）",
+    "difficulty": "hard",
+    "entries": [
+      { "name": "麻省理工学院（MIT）", "value": "第1名" },
+      { "name": "帝国理工学院（Imperial）", "value": "第2名" },
+      { "name": "牛津大学（Oxford）", "value": "第3名" },
+      { "name": "哈佛大学（Harvard）", "value": "第4名" },
+      { "name": "剑桥大学（Cambridge）", "value": "第5名" },
+      { "name": "斯坦福大学（Stanford）", "value": "第6名" },
+      { "name": "苏黎世联邦理工学院（ETH Zurich）", "value": "第7名" },
+      { "name": "新加坡国立大学（NUS）", "value": "第8名" },
+      { "name": "伦敦大学学院（UCL）", "value": "第9名" },
+      { "name": "加州理工学院（Caltech）", "value": "第10名" }
+    ]
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "popculture-001",
+    "category": "popculture",
+    "difficulty": "medium",
+    "question": "“双十一”剁手节并不是自古就有的，淘宝商城（后来的天猫）最早在哪一年发起了这场大促？",
+    "options": [
+      "2007年",
+      "2008年",
+      "2009年",
+      "2011年"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2009年11月11日，淘宝商城（2012年更名天猫）首次发起“双十一”促销，当年只有27个品牌参加、成交额5200万元，如今再看真是“小目标”的起点。"
+  },
+  {
+    "id": "popculture-002",
+    "category": "popculture",
+    "difficulty": "hard",
+    "question": "2009年那句火遍全网的“贾君鹏你妈妈喊你回家吃饭”，最早出现在百度哪个贴吧？",
+    "options": [
+      "李毅吧",
+      "魔兽世界吧",
+      "Dota吧",
+      "海贼王吧"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2009年7月16日，这个只有标题、正文空白的帖子出现在“魔兽世界吧”，一天内点击数百万、回复数十万。当时正值魔兽代理权从九城转交网易、国服停服，玩家们无聊到把一个空帖顶成了网络神话。"
+  },
+  {
+    "id": "popculture-003",
+    "category": "popculture",
+    "difficulty": "medium",
+    "question": "2018年，哪支战队为LPL赛区捧回了第一座《英雄联盟》全球总决赛（S赛）冠军奖杯？",
+    "options": [
+      "RNG",
+      "EDG",
+      "WE",
+      "iG"
+    ],
+    "correctAnswer": 3,
+    "explanation": "2018年S8决赛，iG（Invictus Gaming）3:0横扫欧洲劲旅Fnatic夺冠，“登峰造极境”一夜刷屏，LPL苦等七年的首冠让无数玩家泪目。"
+  },
+  {
+    "id": "popculture-004",
+    "category": "popculture",
+    "difficulty": "hard",
+    "question": "吉尼斯认证的全球销量最高录音室专辑是哪一张？",
+    "options": [
+      "AC/DC《Back in Black》",
+      "迈克尔·杰克逊《Thriller》",
+      "平克·弗洛伊德《The Dark Side of the Moon》",
+      "阿黛尔《21》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《Thriller》于1982年发行，全球销量超7000万张（部分统计口径破亿），至今无人能破。它的同名MV长达14分钟，还是第一部被美国国会图书馆国家影片登记表收录的音乐录影带。"
+  },
+  {
+    "id": "popculture-005",
+    "category": "popculture",
+    "difficulty": "hard",
+    "question": "每年7月16日被歌迷称为“周杰伦日”，这个日子纪念的是什么？",
+    "options": [
+      "周杰伦的生日",
+      "首张专辑《Jay》的发行日",
+      "《以父之名》全亚洲电台同步首播",
+      "他第一次拿下金曲奖"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2003年7月16日，《以父之名》在全亚洲50多家电台同步首播，估计约8亿人同时收听，7月16日从此成了“周杰伦日”。顺带一提，他的生日其实是1月18日。"
+  },
+  {
+    "id": "popculture-006",
+    "category": "popculture",
+    "difficulty": "medium",
+    "question": "爆款剧《狂飙》里，高启强发迹之前在旧厂街市场做什么营生？",
+    "options": [
+      "卖鱼",
+      "开大排档",
+      "卖手机",
+      "开出租车"
+    ],
+    "correctAnswer": 0,
+    "explanation": "高启强原本是个老实巴交的鱼贩，从卖鱼档一路“狂飙”成黑道大佬。剧火了之后，取景地江门的老街和他爱吃的猪脚面都成了打卡网红。"
+  },
+  {
+    "id": "popculture-007",
+    "category": "popculture",
+    "difficulty": "medium",
+    "question": "创立潮流品牌Off-White、后来又执掌路易威登（LV）男装的设计师是谁？",
+    "options": [
+      "维吉尔·阿布洛（Virgil Abloh）",
+      "坎耶·维斯特（Kanye West）",
+      "法瑞尔·威廉姆斯（Pharrell Williams）",
+      "金·琼斯（Kim Jones）"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Virgil Abloh于2013年创立Off-White，2018年出任LV男装艺术总监，是LV史上首位非裔艺术总监。他的“3%理论”——只改动3%就能创造新设计——在潮流圈广为流传。"
+  },
+  {
+    "id": "popculture-008",
+    "category": "popculture",
+    "difficulty": "hard",
+    "question": "电竞史上单届奖金池最高的赛事是哪一场？",
+    "options": [
+      "英雄联盟S11全球总决赛",
+      "2019年《堡垒之夜》世界杯",
+      "CS:GO的Major锦标赛",
+      "DOTA2国际邀请赛TI10"
+    ],
+    "correctAnswer": 3,
+    "explanation": "靠游戏内“勇士令状”玩家众筹，TI10（2021年举行）总奖金池突破4000万美元，冠军Team Spirit独揽约1820万美元，至今仍是电竞赛事的奖金天花板。"
+  },
+  {
+    "id": "popculture-009",
+    "category": "popculture",
+    "difficulty": "hard",
+    "question": "《中国好声音》第一季（2012年）的年度总冠军是谁？",
+    "options": [
+      "吴莫愁",
+      "梁博",
+      "吉克隽逸",
+      "金志文"
+    ],
+    "correctAnswer": 1,
+    "explanation": "那英组的梁博力压吴莫愁、吉克隽逸夺冠。夺冠后他低调出国做音乐，多年后凭《男孩》《日落大道》等原创作品再度翻红，堪称“最佛系的冠军”。"
+  },
+  {
+    "id": "popculture-010",
+    "category": "popculture",
+    "difficulty": "medium",
+    "question": "周杰伦的首张个人专辑《Jay》发行于哪一年？",
+    "options": [
+      "2000年",
+      "1998年",
+      "2002年",
+      "2004年"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2000年11月《Jay》横空出世，《星晴》《龙卷风》《可爱女人》首首能打，华语乐坛从此进入“周杰伦时代”，那年他才21岁。"
+  },
+  {
+    "id": "popculture-011",
+    "category": "popculture",
+    "difficulty": "hard",
+    "question": "Supreme那个经典的红底白字Box Logo，设计风格公认借鉴了哪位艺术家？",
+    "options": [
+      "安迪·沃霍尔",
+      "杰夫·昆斯",
+      "芭芭拉·克鲁格",
+      "草间弥生"
+    ],
+    "correctAnswer": 2,
+    "explanation": "红白配色加Futura字体的Box Logo，公认是向美国观念艺术家芭芭拉·克鲁格（Barbara Kruger）的标志性海报风格“致敬”。后来围绕抄袭官司，克鲁格本人还亲自下场开怼，潮圈无人敢接话。"
+  },
+  {
+    "id": "popculture-012",
+    "category": "popculture",
+    "difficulty": "medium",
+    "question": "天天挂在嘴边的“内卷”，最早是哪个学科的术语？",
+    "options": [
+      "经济学",
+      "心理学",
+      "物理学",
+      "人类学"
+    ],
+    "correctAnswer": 3,
+    "explanation": "“内卷化”（involution）原本是人类学术语，美国人类学家格尔茨在1963年研究印尼爪哇农业时将其发扬光大，指“没有质变的无效增长”。几十年后它漂洋过海，成了打工人和学生党的口头禅。"
+  },
+  {
+    "id": "popculture-013",
+    "category": "popculture",
+    "difficulty": "medium",
+    "question": "弹幕网站bilibili（B站）的名字，源自哪部动漫里女主角的外号？",
+    "options": [
+      "《某科学的超电磁炮》御坂美琴",
+      "《新世纪福音战士》绫波丽",
+      "《凉宫春日的忧郁》凉宫春日",
+      "《魔法少女小圆》鹿目圆"
+    ],
+    "correctAnswer": 0,
+    "explanation": "“bilibili”是《魔法禁书目录》及外传《某科学的超电磁炮》中御坂美琴“放电妹”外号的拟声词。B站前身叫Mikufans（初音未来粉丝站），2010年改名bilibili，站内的“投币”“充电”等设定也都在玩炮姐的梗。"
+  },
+  {
+    "id": "popculture-014",
+    "category": "popculture",
+    "difficulty": "hard",
+    "question": "皇后乐队那首近6分钟、结构神似歌剧的《波西米亚狂想曲》，最早收录在哪张专辑里？",
+    "options": [
+      "《News of the World》",
+      "《A Night at the Opera》",
+      "《Sheer Heart Attack》",
+      "《The Game》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《波西米亚狂想曲》收录于1975年发行的《A Night at the Opera》，这张专辑的名字就来自马克斯兄弟的同名喜剧电影。当年唱片公司嫌歌太长不给打单，结果它霸榜英国单曲榜九周，成了摇滚史上的传奇。"
+  },
+  {
+    "id": "popculture-015",
+    "category": "popculture",
+    "difficulty": "medium",
+    "question": "漫威电影宇宙（MCU）庞大帝国的开山之作是哪一部？",
+    "options": [
+      "《美国队长》",
+      "《无敌浩克》",
+      "《雷神》",
+      "《钢铁侠》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "2008年的《钢铁侠》是MCU的第一部电影。当时漫威押上几乎全部身家，还启用了事业低谷的小罗伯特·唐尼，结果全球狂揽5.8亿美元票房，片尾尼克·弗瑞登场的一句彩蛋开启了长达十余年的“宇宙”。"
+  },
+  {
+    "id": "popculture-016",
+    "category": "popculture",
+    "difficulty": "hard",
+    "question": "中国战队第一次捧起DOTA2国际邀请赛（TI）的不朽盾，是哪一届的哪支队伍？",
+    "options": [
+      "TI2的iG",
+      "TI4的Newbee",
+      "TI6的Wings",
+      "TI1的EHOME"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2012年TI2，iG战队3:1击败卫冕冠军Na'Vi，为中国DOTA拿下首座TI冠军。TI1时EHOME杀入决赛但输给了Na'Vi；Newbee（TI4）和Wings（TI6）则是后来的冠军。"
+  },
+  {
+    "id": "popculture-017",
+    "category": "popculture",
+    "difficulty": "medium",
+    "question": "潮鞋圈顶流“椰子鞋”Yeezy，最早其实是坎耶·维斯特和哪个品牌联名的？",
+    "options": [
+      "耐克",
+      "阿迪达斯",
+      "锐步",
+      "彪马"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2009年侃爷先与耐克合作推出Air Yeezy系列，因版税和创意控制权谈不拢，2013年才转投阿迪达斯，才有了后来烂大街又抢不到的Yeezy Boost。早期耐克版Air Yeezy 2如今在二手市场已是天价收藏。"
+  },
+  {
+    "id": "popculture-018",
+    "category": "popculture",
+    "difficulty": "hard",
+    "question": "第一支拿下美国公告牌（Billboard）Hot 100单曲榜冠军的K-pop歌曲是哪首？",
+    "options": [
+      "PSY《江南Style》",
+      "BTS《Dynamite》",
+      "BLACKPINK《DDU-DU DDU-DU》",
+      "BTS与Halsey合作的《Boy With Luv》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2020年BTS的全英文单曲《Dynamite》空降Hot 100冠军，创下K-pop历史。PSY的《江南Style》当年火遍全球却被卡在亚军整整七周，《Boy With Luv》最高第8名，《DDU-DU DDU-DU》最高第55名。"
+  },
+  {
+    "id": "popculture-019",
+    "category": "popculture",
+    "difficulty": "medium",
+    "question": "刷遍全网的“yyds（永远的神）”，最早是主播山泥若在解说比赛时盛赞哪位电竞选手？",
+    "options": [
+      "Faker",
+      "TheShy",
+      "厂长Clearlove",
+      "Uzi"
+    ],
+    "correctAnswer": 3,
+    "explanation": "主播山泥若在直播解说RNG比赛时高呼“乌兹！永远的神！”，“乌兹”是Uzi的谐音外号。这句话被二创视频带火后破圈，连完全不玩游戏的网友也开始逢人就夸“yyds”。"
+  },
+  {
+    "id": "popculture-020",
+    "category": "popculture",
+    "difficulty": "hard",
+    "question": "电影《流浪地球》里，人类为了推走地球，在全球建造了多少座行星发动机？",
+    "options": [
+      "一千座",
+      "五千座",
+      "一万座",
+      "十万座"
+    ],
+    "correctAnswer": 2,
+    "explanation": "设定中人类倾尽全球之力建造了一万座行星发动机，每座高达一万一千米，比珠穆朗玛峰还高两千多米，其中赤道附近的大型转向发动机负责调整地球航向。"
+  },
+  {
+    "id": "popculture-021",
+    "category": "popculture",
+    "difficulty": "medium",
+    "question": "国产3A大作《黑神话：悟空》出自哪家游戏公司之手？",
+    "options": [
+      "网易游戏",
+      "腾讯天美",
+      "游戏科学",
+      "米哈游"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《黑神话：悟空》由游戏科学（Game Science）开发，创始团队来自腾讯《斗战神》项目。2020年首支实机演示直接引爆全球游戏圈，2024年8月正式发售后迅速成为现象级爆款，顺带还带火了山西的古建筑旅游。"
+  },
+  {
+    "id": "popculture-022",
+    "category": "popculture",
+    "difficulty": "hard",
+    "question": "2020年爆款综艺《乘风破浪的姐姐》第一季，最终拿下第一名、C位成团的是谁？",
+    "options": [
+      "万茜",
+      "张雨绮",
+      "蓝盈莹",
+      "宁静"
+    ],
+    "correctAnswer": 3,
+    "explanation": "宁静以压倒性人气拿下第一名，成团夜还贡献了“我拿第一，不想成团”的名场面。这位手握金鸡百花双料影后的大姐大，在节目里一边喊着“还要自我介绍？那我这几十年白干了”，一边练舞练到吃速效救心丸。"
+  },
+  {
+    "id": "popculture-023",
+    "category": "popculture",
+    "difficulty": "medium",
+    "question": "国民手游《王者荣耀》是腾讯旗下哪个工作室群开发的？",
+    "options": [
+      "光子工作室群",
+      "天美工作室群",
+      "魔方工作室群",
+      "北极光工作室群"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《王者荣耀》由天美工作室群（TiMi）开发，2015年上线后一路成为国民级手游。光子做了《和平精英》，魔方做了《火影忍者》手游，北极光则主攻端游，几家在腾讯内部是“赛马”竞争关系。"
+  },
+  {
+    "id": "popculture-024",
+    "category": "popculture",
+    "difficulty": "medium",
+    "question": "“真香”这个传世名梗——上一秒放狠话绝食、下一秒吃得津津有味——出自哪档综艺节目？",
+    "options": [
+      "《变形计》",
+      "《爸爸去哪儿》",
+      "《奔跑吧兄弟》",
+      "《极限挑战》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2014年《变形计》第八季里，城市少年王境泽初到农村时撂下狠话“我王境泽就是饿死，死外边，从这跳下去，也不会吃你们一点东西”，结果转头端着饭碗直呼“真香”，成为打脸学的开山之作。"
+  },
+  {
+    "id": "popculture-025",
+    "category": "popculture",
+    "difficulty": "hard",
+    "question": "让科技巨头们集体上头的“元宇宙”（Metaverse）一词，最早出自哪部科幻小说？",
+    "options": [
+      "尼尔·斯蒂芬森《雪崩》",
+      "威廉·吉布森《神经漫游者》",
+      "恩斯特·克莱恩《头号玩家》",
+      "菲利普·迪克《仿生人会梦见电子羊吗》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1992年尼尔·斯蒂芬森在小说《雪崩》中首创“Metaverse”一词，书中人类以虚拟化身生活在数字城市里。2021年Facebook为此直接改名Meta，让这个词从科幻圈火进了财报圈。"
+  },
+  {
+    "id": "popculture-026",
+    "category": "popculture",
+    "difficulty": "easy",
+    "question": "“谁说站在光里的才算英雄”这句小学生都会唱的歌词，出自陈奕迅的哪首歌？",
+    "options": [
+      "《逆战》",
+      "《孤勇者》",
+      "《平凡之路》",
+      "《少年》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《孤勇者》是动画《双城之战》的中文主题曲，2021年上线后横扫各大榜单，还因为深受小学生喜爱被封为“儿歌顶流”，陈奕迅本人都调侃自己出了首儿歌。"
+  },
+  {
+    "id": "popculture-027",
+    "category": "popculture",
+    "difficulty": "easy",
+    "question": "一句魔性口音的“栓Q”火遍全网，它到底是哪句英文的谐音？",
+    "options": [
+      "Sorry",
+      "Excuse me",
+      "Thank you",
+      "Goodbye"
+    ],
+    "correctAnswer": 2,
+    "explanation": "“栓Q”来自广西阳朔一位农民导游刘涛用方言口音说的“thank you”，土味中透着真诚，走红后成了网友表达“无语式感谢”的万能用语。"
+  },
+  {
+    "id": "popculture-028",
+    "category": "popculture",
+    "difficulty": "easy",
+    "question": "“臣妾做不到啊！”这句表情包常客的名台词，出自哪部宫斗剧？",
+    "options": [
+      "《甄嬛传》",
+      "《如懿传》",
+      "《延禧攻略》",
+      "《芈月传》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这句台词出自《甄嬛传》里蔡少芬饰演的皇后乌拉那拉氏。播出十余年后，“臣妾做不到啊”依然是打工人拒绝加班、拒绝内卷的经典表情包素材。"
+  },
+  {
+    "id": "popculture-029",
+    "category": "popculture",
+    "difficulty": "easy",
+    "question": "“大吉大利，今晚吃鸡！”这句口号是哪款游戏带火的？",
+    "options": [
+      "《英雄联盟》",
+      "《穿越火线》",
+      "《守望先锋》",
+      "《绝地求生》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "在《绝地求生》（PUBG）里活到最后吃鸡时，屏幕会打出“Winner winner, chicken dinner”，国服翻译为“大吉大利，今晚吃鸡”。从此“吃鸡”成了这类大逃杀游戏的代名词。"
+  },
+  {
+    "id": "popculture-030",
+    "category": "popculture",
+    "difficulty": "easy",
+    "question": "被称为“大魔王”的传奇电竞选手Faker（李相赫），打的是哪款游戏？",
+    "options": [
+      "《DOTA2》",
+      "《英雄联盟》",
+      "《CS》",
+      "《星际争霸2》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Faker是《英雄联盟》T1战队的中单选手，多次夺得全球总决赛冠军，被公认为该项目的历史第一人。韩国媒体甚至把他和足球的孙兴慜并列为“韩国国宝”。"
+  },
+  {
+    "id": "popculture-031",
+    "category": "popculture",
+    "difficulty": "easy",
+    "question": "“你是我天边最美的云彩，让我用心把你留下来”——广场舞神曲的原唱组合凤凰传奇，这首歌叫什么？",
+    "options": [
+      "《月亮之上》",
+      "《荷塘月色》",
+      "《最炫民族风》",
+      "《自由飞翔》"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《最炫民族风》2009年发行后制霸全国广场舞，还曾火到NBA赛场的中场表演。凤凰传奇的其他几首也都是“听着前奏就会唱”的级别。"
+  },
+  {
+    "id": "popculture-032",
+    "category": "popculture",
+    "difficulty": "easy",
+    "question": "泡泡玛特带火的那种“付钱时不知道自己抽到哪一款”的潮玩销售形式，叫什么？",
+    "options": [
+      "众筹",
+      "预售",
+      "拼团",
+      "盲盒"
+    ],
+    "correctAnswer": 3,
+    "explanation": "盲盒把“开盒瞬间的惊喜感”做成了生意，泡泡玛特靠Molly等IP一路做到上市。抽到隐藏款的概率通常只有几十分之一，让无数人一边喊“戒盒”一边排队。"
+  },
+  {
+    "id": "popculture-033",
+    "category": "popculture",
+    "difficulty": "easy",
+    "question": "综艺《奔跑吧兄弟》里最经典的环节，是明星们互相撕掉对方背后贴的什么？",
+    "options": [
+      "名牌",
+      "气球",
+      "帽子",
+      "手环"
+    ],
+    "correctAnswer": 0,
+    "explanation": "“撕名牌”环节源自韩国综艺《Running Man》，嘉宾背后贴上自己名字的名牌，被撕掉即淘汰。这个环节当年火到公司团建、校园活动都在模仿。"
+  },
+  {
+    "id": "popculture-034",
+    "category": "popculture",
+    "difficulty": "easy",
+    "question": "弹幕、直播间里刷屏的'666'，最初是用数字谐音了哪个字，形容操作厉害？",
+    "options": [
+      "溜",
+      "牛",
+      "秀",
+      "强"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'666'最早在游戏直播弹幕里刷屏，用来夸奖'666=溜溜溜'的骚操作，后来泛化成万能彩虹屁，什么都能夸一句'666'。"
+  },
+  {
+    "id": "popculture-035",
+    "category": "popculture",
+    "difficulty": "easy",
+    "question": "网络热词'破防了'，最初是游戏里的什么被打破，才被引申成'心理防线被击溃'？",
+    "options": [
+      "攻击力",
+      "防御力",
+      "能量条",
+      "装备耐久度"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'破防'原指游戏角色的防御力被击穿，如今多用来形容被感动、被扎心到情绪失控——比如看到毕业照突然就'破防了'。"
+  },
+  {
+    "id": "popculture-036",
+    "category": "popculture",
+    "difficulty": "easy",
+    "question": "网络热词'凡尔赛文学'，形容的是一种什么样的说话方式？",
+    "options": [
+      "阴阳怪气地吐槽",
+      "故作深沉的文艺腔",
+      "先抑后扬、低调炫耀",
+      "夸张卖惨博同情"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这个梗源自网友对某博主'不经意间'晒豪门生活的调侃，因为像极了法国凡尔赛宫贵族的奢靡做派，所以得名'凡尔赛文学'。"
+  },
+  {
+    "id": "popculture-037",
+    "category": "popculture",
+    "difficulty": "easy",
+    "question": "双十一购物节里，先付定金、苦等到最后一天才付余款的消费者，被网友戏称为什么'人'？",
+    "options": [
+      "定金人",
+      "剁手人",
+      "凑单人",
+      "尾款人"
+    ],
+    "correctAnswer": 3,
+    "explanation": "'尾款人'和'打工人'是同一批网络热词的产物，调侃的是熬夜蹲点付尾款、第二天顶着黑眼圈去上班的真实写照。"
+  },
+  {
+    "id": "popculture-038",
+    "category": "popculture",
+    "difficulty": "medium",
+    "question": "网络热词'绝绝子'，最早是从哪个圈子流行开来，用来形容'好到极致'？",
+    "options": [
+      "饭圈（追星圈）",
+      "电竞圈",
+      "美食测评圈",
+      "职场社交圈"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'绝绝子'最早是粉丝夸偶像'绝了'的加强版说法，后来被泛用到各种场景，一度因为'万能又空洞'被吐槽为'文字失语症'的代表。"
+  },
+  {
+    "id": "popculture-039",
+    "category": "popculture",
+    "difficulty": "medium",
+    "question": "网络热梗'蚌埠住了'，其实是哪句话的谐音？",
+    "options": [
+      "不服输了",
+      "绷不住了",
+      "笨死了",
+      "办不到了"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'蚌埠'是安徽的一座城市，纯粹因为和'绷不住'发音相近被网友借用玩梗，蚌埠本地文旅账号后来还顺势蹭了一波热度。"
+  },
+  {
+    "id": "popculture-040",
+    "category": "popculture",
+    "difficulty": "medium",
+    "question": "网络热梗'尊嘟假嘟'，其实是哪句话的可爱化谐音？",
+    "options": [
+      "怎么可能",
+      "我不信",
+      "真的假的",
+      "这是真的"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这种把'zh/ch/sh'读成'z/c/s'的口音梗被称为'奶化音'，'尊嘟假嘟'走红后，一度让不少成年网友也跟风说起了'幼稚园腔'。"
+  },
+  {
+    "id": "popculture-041",
+    "category": "popculture",
+    "difficulty": "medium",
+    "question": "被称为'口红一哥'的头部主播，那句魔性的'OMG，买它买它！'是谁的口头禅？",
+    "options": [
+      "薇娅",
+      "辛巴",
+      "罗永浩",
+      "李佳琦"
+    ],
+    "correctAnswer": 3,
+    "explanation": "李佳琦曾创下5分钟卖出15000支口红的纪录，'OMG'也从他的口头禅变成了全民直播带货的通用语气词。"
+  },
+  {
+    "id": "popculture-042",
+    "category": "popculture",
+    "difficulty": "medium",
+    "question": "2023年因烧烤火出圈、被网友称为'进淄赶烤'的城市是哪里？",
+    "options": [
+      "淄博",
+      "潍坊",
+      "临沂",
+      "济南"
+    ],
+    "correctAnswer": 0,
+    "explanation": "淄博烧烤走红后，当地专门开通了'烧烤专列'和保障公交，把一场流量泼天富贵接得明明白白，也带火了'小饼卷万物'的吃法。"
+  },
+  {
+    "id": "popculture-043",
+    "category": "popculture",
+    "difficulty": "medium",
+    "question": "2023年流行的高饱和度、色彩鲜艳撞色的穿搭风格，被称为什么'穿搭'？",
+    "options": [
+      "文艺复兴穿搭",
+      "多巴胺穿搭",
+      "静奢风穿搭",
+      "美拉德穿搭"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'多巴胺穿搭'借用了让人快乐的神经递质'多巴胺'命名，主打鲜艳撞色让人心情变好；同一年秋天流行的'美拉德穿搭'则完全走相反的大地色系路线。"
+  },
+  {
+    "id": "popculture-044",
+    "category": "popculture",
+    "difficulty": "medium",
+    "question": "刷屏全网的蜜雪冰城洗脑主题曲'你爱我，我爱你'，其旋律改编自哪首经典英文民谣？",
+    "options": [
+      "《Oh My Darling, Clementine》",
+      "《Jingle Bells》",
+      "《Oh! Susanna》",
+      "《Auld Lang Syne》"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这首19世纪美国民谣原名《哦，苏珊娜》，被策划团队填上洗脑中文词后传唱全球，甚至还出了十几种语言的翻唱版本。"
+  },
+  {
+    "id": "popculture-045",
+    "category": "popculture",
+    "difficulty": "hard",
+    "question": "弹幕和社交平台上常见的缩写'awsl'，是哪句话的拼音首字母？",
+    "options": [
+      "啊，我睡了",
+      "爱我索罗",
+      "阿伟输了",
+      "啊，我死了"
+    ],
+    "correctAnswer": 3,
+    "explanation": "'awsl'表示被萌到、感动到'当场去世'，是弹幕文化里最早的一批拼音缩写梗之一，后来'yyds''nsdd'等缩写体都是同一套造词逻辑。"
+  },
+  {
+    "id": "popculture-046",
+    "category": "popculture",
+    "difficulty": "hard",
+    "question": "2003年，国家体育总局正式将电子竞技批准为国内第几个正式开展的体育项目？",
+    "options": [
+      "第99个",
+      "第78个",
+      "第85个",
+      "第108个"
+    ],
+    "correctAnswer": 0,
+    "explanation": "电子竞技2003年被列为第99个体育项目，2008年体育总局重新调整项目序号，它又被改列为第78个——很多人只记住了后面这个数字。"
+  },
+  {
+    "id": "popculture-047",
+    "category": "popculture",
+    "difficulty": "hard",
+    "question": "泡泡玛特头号顶流盲盒IP Molly，最初的原创设计师是谁？",
+    "options": [
+      "乐高之父",
+      "王信明（Kenny Wong）",
+      "高木直子",
+      "三浦春马"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Molly由香港设计师王信明2006年创作，2016年才与泡泡玛特开始合作，首个生肖系列上线天猫旗舰店仅4秒就被抢空。"
+  },
+  {
+    "id": "popculture-048",
+    "category": "popculture",
+    "difficulty": "hard",
+    "question": "2018年现象级选秀《创造101》总决赛，以超1.8亿点赞数登顶C位成团的选手是谁？",
+    "options": [
+      "吴宣仪",
+      "杨超越",
+      "孟美岐",
+      "Yamy"
+    ],
+    "correctAnswer": 2,
+    "explanation": "孟美岐率领的'火箭少女101'是国内第一支由粉丝点赞投票直接成团的女团。杨超越虽然实力争议不断，却凭超高人气拿下第三名，成了那年最大的'黑马'话题。"
+  },
+  {
+    "id": "popculture-049",
+    "category": "popculture",
+    "difficulty": "hard",
+    "question": "曾风靡一时、以夸张爆炸头著称的'杀马特'文化，这个名字其实是哪个英文单词的音译？",
+    "options": [
+      "star",
+      "smash",
+      "style",
+      "smart"
+    ],
+    "correctAnswer": 3,
+    "explanation": "'杀马特'音译自英文smart，本意是'时尚、聪明'，却被网友用来形容夸张浮夸的造型，充满了戏谑和反讽意味。"
+  },
+  {
+    "id": "popculture-050",
+    "category": "popculture",
+    "difficulty": "hard",
+    "question": "2021年，哪支LPL战队在冰岛雷克雅未克3:2逆转击败DK，捧起英雄联盟S11全球总决赛冠军奖杯？",
+    "options": [
+      "EDG",
+      "RNG",
+      "FPX",
+      "TES"
+    ],
+    "correctAnswer": 0,
+    "explanation": "EDG夺冠当晚，全国多所高校学生自发在操场燃放烟花庆祝，话题一度冲上热搜，被网友调侃'像高考出成绩一样全民狂欢'。"
+  }
+]

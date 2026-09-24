@@ -1,0 +1,814 @@
+[
+  {
+    "id": "history-004",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "唐朝的都城长安是今天的哪座城市？",
+    "options": [
+      "洛阳",
+      "西安",
+      "南京",
+      "开封"
+    ],
+    "correctAnswer": 1,
+    "explanation": "长安即今天的西安，是十三朝古都，唐代时为世界第一大都会。"
+  },
+  {
+    "id": "history-005",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "郑和下西洋发生在哪个朝代？",
+    "options": [
+      "宋朝",
+      "元朝",
+      "明朝",
+      "清朝"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1405 年起，郑和奉明成祖之命七下西洋，最远到达非洲东海岸。"
+  },
+  {
+    "id": "history-006",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "成语「卧薪尝胆」讲述的是哪位君主的故事？",
+    "options": [
+      "吴王夫差",
+      "越王勾践",
+      "齐桓公",
+      "楚庄王"
+    ],
+    "correctAnswer": 1,
+    "explanation": "越王勾践战败后睡柴草、尝苦胆以自励，最终灭吴复国。"
+  },
+  {
+    "id": "history-007",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "中国科举制度正式创立于哪个朝代？",
+    "options": [
+      "汉朝",
+      "隋朝",
+      "唐朝",
+      "宋朝"
+    ],
+    "correctAnswer": 1,
+    "explanation": "隋炀帝时期设进士科，标志科举制度正式形成，一直延续到清末 1905 年废除。"
+  },
+  {
+    "id": "history-008",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "《史记》的体例属于下列哪一种？",
+    "options": [
+      "编年体",
+      "纪传体",
+      "国别体",
+      "纪事本末体"
+    ],
+    "correctAnswer": 1,
+    "explanation": "司马迁的《史记》是中国第一部纪传体通史，被鲁迅誉为「史家之绝唱，无韵之离骚」。"
+  },
+  {
+    "id": "history-009",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "清明前一两天的寒食节有禁火吃冷食的习俗，相传这是为了纪念谁？",
+    "options": [
+      "屈原",
+      "伍子胥",
+      "伯夷",
+      "介子推"
+    ],
+    "correctAnswer": 3,
+    "explanation": "相传春秋时介子推抱木而死，晋文公重耳下令在其忌日禁火寒食以示纪念。寒食节后来逐渐与清明节合并。"
+  },
+  {
+    "id": "history-010",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "青铜器何尊的铭文中出现了目前所知最早的「中国」一词（「宅兹中国」），这件国宝铸造于什么时期？",
+    "options": [
+      "商代晚期",
+      "西周早期",
+      "春秋时期",
+      "战国中期"
+    ],
+    "correctAnswer": 1,
+    "explanation": "何尊铸造于西周周成王时期，铭文中「宅兹中国」是「中国」一词最早的实物见证，现藏宝鸡青铜器博物院。"
+  },
+  {
+    "id": "history-011",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "北宋毕昇发明的活字印刷术，使用的是什么材质的活字？",
+    "options": [
+      "木活字",
+      "铜活字",
+      "泥活字",
+      "铅活字"
+    ],
+    "correctAnswer": 2,
+    "explanation": "毕昇在北宋庆历年间发明胶泥活字，沈括《梦溪笔谈》详细记录了其制法。木活字要到元代王祯手中才大规模推广。"
+  },
+  {
+    "id": "history-012",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "元代黄公望的《富春山居图》在明末险些被烧殉葬，断为两段，其中较长的一段《无用师卷》现藏于哪里？",
+    "options": [
+      "北京故宫博物院",
+      "浙江省博物馆",
+      "台北故宫博物院",
+      "上海博物馆"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《无用师卷》藏于台北故宫博物院，较小的《剩山图》藏于浙江省博物馆，两段曾于 2011 年在台北合璧展出。"
+  },
+  {
+    "id": "history-013",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "2016 年被列入联合国人类非物质文化遗产的二十四节气，最早起源于哪个流域？",
+    "options": [
+      "黄河流域",
+      "长江流域",
+      "珠江流域",
+      "辽河流域"
+    ],
+    "correctAnswer": 0,
+    "explanation": "二十四节气起源于黄河中下游地区，是古人观察太阳周年运动总结出的时令体系，汉代《淮南子》中已有完整记载。"
+  },
+  {
+    "id": "history-014",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "世界上现存最早标有确切纪年的雕版印刷品《金刚经》（咸通九年，868 年），刻印于哪个朝代？",
+    "options": [
+      "隋朝",
+      "唐朝",
+      "五代十国",
+      "北宋"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这部唐咸通九年《金刚经》出自敦煌藏经洞，卷首版画精美，现藏大英图书馆，是雕版印刷成熟于唐代的铁证。"
+  },
+  {
+    "id": "history-015",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "改写世界音乐史的曾侯乙编钟，出土于今天的哪个省？",
+    "options": [
+      "湖南省",
+      "河南省",
+      "陕西省",
+      "湖北省"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1978 年曾侯乙编钟出土于湖北随州，全套 65 件，音域跨五个八度，还能「一钟双音」，是战国早期的青铜奇迹。"
+  },
+  {
+    "id": "history-016",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "宋代书法四大家「苏黄米蔡」中的「蔡」，今天通行的说法是指谁？",
+    "options": [
+      "蔡京",
+      "蔡襄",
+      "蔡邕",
+      "蔡卞"
+    ],
+    "correctAnswer": 1,
+    "explanation": "通行指蔡襄；一说原指蔡京，因其为人口碑太差而被替换。蔡邕是东汉人，蔡卞则是蔡京的弟弟。"
+  },
+  {
+    "id": "history-017",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "传统端午节习俗中，古人会饮用哪种酒来驱虫避邪？《白蛇传》里白娘子就是喝了它现出原形。",
+    "options": [
+      "屠苏酒",
+      "菊花酒",
+      "雄黄酒",
+      "桂花酒"
+    ],
+    "correctAnswer": 2,
+    "explanation": "端午饮雄黄酒、涂抹雄黄以避蛇虫；屠苏酒属春节，菊花酒属重阳，桂花酒属中秋。"
+  },
+  {
+    "id": "history-018",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "1900 年，敦煌莫高窟藏经洞（第 17 窟）重见天日，数万件文书震惊世界。发现它的人是谁？",
+    "options": [
+      "王圆箓",
+      "斯坦因",
+      "伯希和",
+      "张大千"
+    ],
+    "correctAnswer": 0,
+    "explanation": "道士王圆箓在清理积沙时偶然发现藏经洞。斯坦因、伯希和是后来闻风而至、大量购取文书的外国探险家。"
+  },
+  {
+    "id": "history-019",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "世界上现存最早的敞肩石拱桥赵州桥，由哪位工匠主持修建？",
+    "options": [
+      "鲁班",
+      "李冰",
+      "宇文恺",
+      "李春"
+    ],
+    "correctAnswer": 3,
+    "explanation": "赵州桥（安济桥）由隋朝工匠李春设计建造，已有 1400 多年历史，其敞肩拱设计比欧洲早了七百多年。"
+  },
+  {
+    "id": "history-020",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "殷墟考古中，唯一保存完整、未被盗掘且墓主身份明确的商代王室墓葬是哪一座？",
+    "options": [
+      "妇好墓",
+      "武官村大墓",
+      "侯家庄王陵",
+      "郭家庄墓"
+    ],
+    "correctAnswer": 0,
+    "explanation": "妇好墓 1976 年发掘，出土随葬品 1928 件。妇好是商王武丁的妻子，也是甲骨文记载中领兵打仗的第一位女将军。"
+  },
+  {
+    "id": "history-021",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "北宋张择端的传世名画《清明上河图》，描绘的是哪座城市的繁华景象？",
+    "options": [
+      "长安",
+      "洛阳",
+      "汴京（今开封）",
+      "临安（今杭州）"
+    ],
+    "correctAnswer": 2,
+    "explanation": "画卷描绘北宋都城东京（汴京，今河南开封）的城市生活，全卷画有 800 多个人物，被誉为「中华第一神品」。"
+  },
+  {
+    "id": "history-022",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "指南针的前身「司南」，其名称最早见于哪一部典籍？",
+    "options": [
+      "《梦溪笔谈》",
+      "《山海经》",
+      "《淮南子》",
+      "《韩非子》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《韩非子·有度》记载「先王立司南以端朝夕」。而《梦溪笔谈》则是首次记录人工磁化指南针法和磁偏角的著作。"
+  },
+  {
+    "id": "history-023",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "王羲之写下「天下第一行书」《兰亭集序》的那场曲水流觞雅集，发生在哪个传统节日？",
+    "options": [
+      "上巳节（三月三）",
+      "寒食节",
+      "重阳节",
+      "中秋节"
+    ],
+    "correctAnswer": 0,
+    "explanation": "东晋永和九年三月初三上巳节，王羲之与谢安等 42 人在兰亭修禊雅集，乘着酒兴写下《兰亭集序》。"
+  },
+  {
+    "id": "history-024",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "现存青铜器中铭文最长的是哪一件？铭文近五百字，被称为「抵得上一篇《尚书》」。",
+    "options": [
+      "后母戊鼎",
+      "毛公鼎",
+      "大盂鼎",
+      "散氏盘"
+    ],
+    "correctAnswer": 1,
+    "explanation": "西周毛公鼎铭文 497 字，是青铜器铭文之最，现藏台北故宫博物院。后母戊鼎铭文只有「后母戊」三个字。"
+  },
+  {
+    "id": "history-025",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "长沙马王堆汉墓出土的素纱襌衣轻薄得可以塞进火柴盒，它的重量大约只有多少？",
+    "options": [
+      "约 49 克",
+      "约 150 克",
+      "约 300 克",
+      "约 500 克"
+    ],
+    "correctAnswer": 0,
+    "explanation": "直裾素纱襌衣仅重 49 克，折叠后可放入火柴盒，代表了汉代养蚕缫丝和织造技术的巅峰，现藏湖南博物院。"
+  },
+  {
+    "id": "history-026",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "京杭大运河历史上最早开凿的一段「邗沟」，是春秋时期哪个诸侯国主持修建的？",
+    "options": [
+      "齐国",
+      "楚国",
+      "吴国",
+      "越国"
+    ],
+    "correctAnswer": 2,
+    "explanation": "公元前 486 年，吴王夫差为北上争霸开凿邗沟，连通长江与淮河，这一年也被视为中国大运河的开端之年。"
+  },
+  {
+    "id": "history-027",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "宋代五大名窑「汝、官、哥、钧、定」中，以「雨过天青」釉色闻名、窑址在今河南宝丰清凉寺的是哪个？",
+    "options": [
+      "钧窑",
+      "定窑",
+      "哥窑",
+      "汝窑"
+    ],
+    "correctAnswer": 3,
+    "explanation": "汝窑为五大名窑之首，传世品不足百件，天青釉色据说源自宋徽宗「雨过天青云破处」的审美要求。"
+  },
+  {
+    "id": "history-028",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "2019 年列入《世界遗产名录》、实证中华五千多年文明史的良渚古城遗址，位于今天的哪座城市？",
+    "options": [
+      "杭州",
+      "南京",
+      "苏州",
+      "宁波"
+    ],
+    "correctAnswer": 0,
+    "explanation": "良渚古城遗址位于杭州市余杭区，距今约 5300—4300 年，拥有大型水利系统和精美的玉琮，被誉为「中华第一城」。"
+  },
+  {
+    "id": "history-029",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "中秋节一家人围在一起赏月时，按传统要吃哪种圆滚滚的点心？",
+    "options": [
+      "粽子",
+      "月饼",
+      "汤圆",
+      "饺子"
+    ],
+    "correctAnswer": 1,
+    "explanation": "中秋吃月饼寓意团圆美满。粽子属于端午节，汤圆是元宵节的标配，饺子则是北方过年的主角。"
+  },
+  {
+    "id": "history-030",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "端午节吃粽子、赛龙舟的习俗，最广为人知是为了纪念哪位历史人物？",
+    "options": [
+      "李白",
+      "杜甫",
+      "屈原",
+      "白居易"
+    ],
+    "correctAnswer": 2,
+    "explanation": "相传战国诗人屈原于五月初五投汨罗江，百姓划船捞救、投粽喂鱼，演变成赛龙舟和吃粽子的习俗。"
+  },
+  {
+    "id": "history-031",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "春节时很多人家喜欢把「福」字倒过来贴，这么贴的寓意是什么？",
+    "options": [
+      "福到了",
+      "福气倒光了",
+      "福要迟到了",
+      "福星睡着了"
+    ],
+    "correctAnswer": 0,
+    "explanation": "「倒」与「到」谐音，倒贴福字取「福到了」的彩头，是春节最受欢迎的谐音梗之一。"
+  },
+  {
+    "id": "history-032",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "古人书房里离不开的「文房四宝」，指的是哪四样东西？",
+    "options": [
+      "琴棋书画",
+      "梅兰竹菊",
+      "诗词歌赋",
+      "笔墨纸砚"
+    ],
+    "correctAnswer": 3,
+    "explanation": "文房四宝即笔、墨、纸、砚，其中以湖笔、徽墨、宣纸、端砚最为出名。琴棋书画则是古代文人的「四艺」。"
+  },
+  {
+    "id": "history-033",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "造纸术、印刷术、火药、指南针并称中国古代「四大发明」，下列哪一项不在其中？",
+    "options": [
+      "造纸术",
+      "地动仪",
+      "印刷术",
+      "火药"
+    ],
+    "correctAnswer": 1,
+    "explanation": "地动仪是东汉张衡发明的测震仪器，虽很厉害但不属于四大发明。「四大发明」的说法由英国学者李约瑟大力宣扬而定型。"
+  },
+  {
+    "id": "history-034",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "汉代时奉命出使西域、为丝绸之路的开辟立下大功的使者是谁？",
+    "options": [
+      "玄奘",
+      "鉴真",
+      "张骞",
+      "郑和"
+    ],
+    "correctAnswer": 2,
+    "explanation": "汉武帝派张骞两次出使西域，史称「凿空之旅」。玄奘西行取经、鉴真东渡日本、郑和下西洋，都是后来的故事。"
+  },
+  {
+    "id": "history-035",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "万里长城沿线关隘众多，其中被誉为「天下第一关」的是哪一座？",
+    "options": [
+      "山海关",
+      "嘉峪关",
+      "居庸关",
+      "雁门关"
+    ],
+    "correctAnswer": 0,
+    "explanation": "山海关位于河北秦皇岛，是明长城的东北起点，匾额上「天下第一关」五个大字相传为明代书法家萧显所写。"
+  },
+  {
+    "id": "history-036",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "明清两代皇帝居住的北京故宫，还有一个更气派的名字叫什么？",
+    "options": [
+      "大明宫",
+      "阿房宫",
+      "未央宫",
+      "紫禁城"
+    ],
+    "correctAnswer": 3,
+    "explanation": "故宫旧称紫禁城，因古代以紫微星垣比喻天帝居所而得名。大明宫在唐代长安，阿房宫属秦，未央宫属汉。"
+  },
+  {
+    "id": "history-037",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "被誉为「世界第八大奇迹」、1974年因当地农民打井而意外重见天日的文物群是？",
+    "options": [
+      "秦始皇兵马俑",
+      "三星堆青铜面具",
+      "曾侯乙编钟",
+      "马王堆汉墓帛画"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1974年陕西临潼几位农民打井时意外挖出陶俑碎片，由此揭开了秦始皇陵兵马俑的惊世发现。数千件陶俑千人千面，据说没有两个长得完全一样。"
+  },
+  {
+    "id": "history-038",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "以造型奇特的青铜纵目面具和黄金面具闻名于世的三星堆遗址，位于哪个省份？",
+    "options": [
+      "重庆",
+      "四川",
+      "云南",
+      "贵州"
+    ],
+    "correctAnswer": 1,
+    "explanation": "三星堆遗址位于四川广汉，属于距今三四千年的古蜀文明，其青铜人像和面具风格独特，和中原青铜器差异很大，一度让人怀疑它是不是「外星文明」，其实只是古蜀先民独特的审美。"
+  },
+  {
+    "id": "history-039",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "战国时期由蜀郡太守李冰父子主持修建、至今仍在灌溉四川平原的水利工程是？",
+    "options": [
+      "灵渠",
+      "郑国渠",
+      "都江堰",
+      "京杭大运河"
+    ],
+    "correctAnswer": 2,
+    "explanation": "都江堰巧妙利用地形实现自动分洪排沙，两千多年来一直发挥灌溉作用，让成都平原成为「天府之国」。它没有一座大坝，全靠因势利导的设计取胜。"
+  },
+  {
+    "id": "history-040",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "正月十五元宵节，人们除了赏花灯、猜灯谜，传统上还要吃哪种应景食物？",
+    "options": [
+      "月饼",
+      "粽子",
+      "青团",
+      "汤圆"
+    ],
+    "correctAnswer": 3,
+    "explanation": "元宵节吃汤圆（北方也叫元宵）取团团圆圆之意，是春节年俗的收尾。月饼属中秋，粽子属端午，青团则是清明时节的江南小吃。"
+  },
+  {
+    "id": "history-041",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "农历九月初九的重阳节，古人有登高、插茱萸的习俗，这一天如今也被定为哪个主题的节日？",
+    "options": [
+      "老年节",
+      "儿童节",
+      "情人节",
+      "丰收节"
+    ],
+    "correctAnswer": 0,
+    "explanation": "因「九九」谐音「久久」，寓意长长久久，重阳节自古就有敬老的传统，2012年被正式定为「老年节」。王维那句「遍插茱萸少一人」说的正是这个节日。"
+  },
+  {
+    "id": "history-042",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "传说牛郎织女在鹊桥相会、姑娘们向织女乞求心灵手巧的传统节日是？",
+    "options": [
+      "上巳节",
+      "七夕节",
+      "中元节",
+      "花朝节"
+    ],
+    "correctAnswer": 1,
+    "explanation": "七夕节在农历七月初七，因「乞巧」习俗也被称为「乞巧节」，如今常被当作中国的「情人节」，但它最初的主角其实是心灵手巧这件事，而不是谈恋爱。"
+  },
+  {
+    "id": "history-043",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "农历腊月初八这天，家家户户熬煮五谷杂粮和干果的传统食俗是？",
+    "options": [
+      "八宝饭",
+      "重阳糕",
+      "腊八粥",
+      "五仁月饼"
+    ],
+    "correctAnswer": 2,
+    "explanation": "腊八节喝腊八粥的习俗相传与佛教纪念释迦牟尼成道有关，本是寺庙施粥济贫的做法，后来演变成家家户户都要吃的年俗。"
+  },
+  {
+    "id": "history-044",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "1965年在湖北江陵楚墓出土、历经两千多年依然寒光凛冽、毫无锈迹的青铜名剑是？",
+    "options": [
+      "干将莫邪剑",
+      "秦始皇佩剑",
+      "吴王夫差矛",
+      "越王勾践剑"
+    ],
+    "correctAnswer": 3,
+    "explanation": "越王勾践剑出土时插在墓主人身边的剑鞘里，剑刃依然锋利如新，能轻松划破多层纸张，剑身「越王鸠浅（勾践）自作用剑」的铭文确认了它的主人身份。"
+  },
+  {
+    "id": "history-045",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "现藏北京故宫博物院的青绿山水长卷《千里江山图》，作者王希孟完成这幅画时年仅多少岁？",
+    "options": [
+      "约18岁",
+      "约12岁",
+      "约25岁",
+      "约35岁"
+    ],
+    "correctAnswer": 0,
+    "explanation": "王希孟18岁左右完成这幅长近12米的青绿山水巨作，此后再无确切生平记载，让人唏嘘。他是北宋画院学生，曾得到宋徽宗亲自指点。"
+  },
+  {
+    "id": "history-046",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "东晋画家顾恺之根据哪位文学家的名篇创作了传世名画《洛神赋图》？",
+    "options": [
+      "曹丕",
+      "曹植",
+      "嵇康",
+      "陶渊明"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《洛神赋图》取材自曹植的《洛神赋》，描绘他与洛水女神相遇又无奈分离的浪漫故事。顾恺之原作已失传，如今能看到的都是宋代摹本。"
+  },
+  {
+    "id": "history-047",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "唐代盛行的陶器工艺「唐三彩」，其釉色以哪几种颜色为主？",
+    "options": [
+      "红、白、黑",
+      "蓝、紫、金",
+      "黄、绿、白（或褐）",
+      "青、灰、赭"
+    ],
+    "correctAnswer": 2,
+    "explanation": "唐三彩以黄、绿、白（有的还加褐色）等釉色交融流淌为特色，多用作陪葬明器，骆驼、胡人俑格外常见，从侧面反映了唐代丝路贸易的繁荣。"
+  },
+  {
+    "id": "history-048",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "因宋真宗把自己的年号赐给当地、从此因瓷闻名天下的「瓷都」是哪座城市？",
+    "options": [
+      "宜兴",
+      "龙泉",
+      "德化",
+      "景德镇"
+    ],
+    "correctAnswer": 3,
+    "explanation": "景德镇原名昌南镇，宋真宗景德年间因当地进贡的瓷器精美，便把年号「景德」赐作地名，此后历经元明清三代设立官窑，「瓷都」美名延续至今。"
+  },
+  {
+    "id": "history-049",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "1987年陕西法门寺地宫出土的一批瓷器，首次以实物证实了唐代诗文中神秘的哪种瓷器确实存在？",
+    "options": [
+      "秘色瓷",
+      "甜白瓷",
+      "影青瓷",
+      "天目瓷"
+    ],
+    "correctAnswer": 0,
+    "explanation": "「秘色瓷」此前只在陆龟蒙「夺得千峰翠色来」等诗句中出现，人们一直不确定它长什么样。法门寺地宫出土的越窑瓷器连同记录清单一同现身，终于坐实了它的真面目。"
+  },
+  {
+    "id": "history-050",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "被誉为「天下第二行书」、由颜真卿追祭在安史之乱中殉国的侄子而写下的作品是？",
+    "options": [
+      "《兰亭集序》",
+      "《祭侄文稿》",
+      "《寒食帖》",
+      "《自叙帖》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "颜真卿在极度悲愤中写下《祭侄文稿》，字迹涂改潦草却气势磅礴，被公认为仅次于王羲之《兰亭集序》的「天下第二行书」，现藏台北故宫博物院。"
+  },
+  {
+    "id": "history-051",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "河南洛阳的龙门石窟始凿于哪个朝代迁都洛阳前后？",
+    "options": [
+      "北齐",
+      "隋朝",
+      "北魏",
+      "唐朝"
+    ],
+    "correctAnswer": 2,
+    "explanation": "龙门石窟开凿始于北魏迁都洛阳前后，历经东魏、西魏、北齐直至唐宋延续营造，其中最大的卢舍那大佛完工于唐高宗、武则天当政的年代，与敦煌莫高窟、大同云冈石窟并称中国三大石窟。"
+  },
+  {
+    "id": "history-052",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "苏州古典园林中现存规模最大的一座，也是中国四大名园之一，是哪一座？",
+    "options": [
+      "留园",
+      "网师园",
+      "沧浪亭",
+      "拙政园"
+    ],
+    "correctAnswer": 3,
+    "explanation": "拙政园始建于明代，是苏州现存最大的古典园林，与北京颐和园、承德避暑山庄、苏州留园并称中国四大名园，1997年随苏州古典园林一起列入世界遗产。"
+  },
+  {
+    "id": "history-053",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "被誉为「国粹」的京剧，是在哪个历史事件之后融合徽调、汉调等声腔逐渐形成的？",
+    "options": [
+      "徽班进京",
+      "郑和下西洋",
+      "康乾南巡",
+      "洋务运动"
+    ],
+    "correctAnswer": 0,
+    "explanation": "清代乾隆末年，多个徽班陆续进京献艺，与汉调、昆曲等相互融合，历经几十年演变，逐渐形成了如今的京剧。它虽然名字带「京」，源头却在安徽和湖北。"
+  },
+  {
+    "id": "history-054",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "2011年在江西南昌发现、出土大量金器和简牍、墓主曾当过27天皇帝的西汉墓葬是？",
+    "options": [
+      "妇好墓",
+      "海昏侯墓",
+      "曾侯乙墓",
+      "马王堆汉墓"
+    ],
+    "correctAnswer": 1,
+    "explanation": "海昏侯刘贺墓是我国迄今发现保存最完整、结构最清晰的西汉列侯墓园。墓主刘贺当过27天皇帝就被废黜，没想到两千年后却因为墓里出土的巨额财富重新「翻红」。"
+  },
+  {
+    "id": "history-055",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "1970年施工队在西安南郊意外刨出的一处唐代窖藏，出土上千件金银器和珍宝，后来被称为什么？",
+    "options": [
+      "法门寺地宫宝藏",
+      "海昏侯宝藏",
+      "何家村遗宝",
+      "满城汉墓宝藏"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1970年西安何家村基建工地意外发现两个大陶瓮，里面装满金银器皿、玉带、钱币等珍宝，数量之多、工艺之精堪称唐代金银器的巅峰展示，被称为「何家村遗宝」。"
+  },
+  {
+    "id": "history-056",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "商代晚期青铜器中，四角各铸有一只卷角羊头、现藏中国国家博物馆的重器是？",
+    "options": [
+      "后母戊鼎",
+      "大盂鼎",
+      "毛公鼎",
+      "四羊方尊"
+    ],
+    "correctAnswer": 3,
+    "explanation": "四羊方尊出土于湖南宁乡，将四只立体羊头和方尊巧妙融为一体，是商代青铜铸造工艺的巅峰之作，也是极具代表性的国宝重器。"
+  },
+  {
+    "id": "history-057",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "被后人尊称为「茶圣」、写下世界第一部茶叶专著《茶经》的唐代人物是谁？",
+    "options": [
+      "陆羽",
+      "陆游",
+      "卢仝",
+      "皎然"
+    ],
+    "correctAnswer": 0,
+    "explanation": "陆羽历时数年写成《茶经》，系统总结了茶的种植、采制、烹煮和品饮方法，被后世尊为「茶圣」。卢仝虽也爱茶成痴，写过著名的《七碗茶歌》，但著《茶经》的是陆羽。"
+  },
+  {
+    "id": "history-058",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "因在明代某个年号期间工艺最为精湛、常用蓝色釉料而得名的传统工艺「景泰蓝」，学名叫什么？",
+    "options": [
+      "錾胎珐琅彩",
+      "铜胎掐丝珐琅",
+      "画珐琅",
+      "剔红漆器"
+    ],
+    "correctAnswer": 1,
+    "explanation": "景泰蓝学名「铜胎掐丝珐琅」，因明代景泰年间工艺水平达到高峰、又多用宝蓝色釉料而得名，是北京著名的传统金属工艺品，制作要经过掐丝、点蓝、烧蓝等十几道工序。"
+  },
+  {
+    "id": "history-059",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "有「纸中之王」美誉、主产地在安徽泾县的传统书画用纸是？",
+    "options": [
+      "竹纸",
+      "毛边纸",
+      "宣纸",
+      "桑皮纸"
+    ],
+    "correctAnswer": 2,
+    "explanation": "宣纸因唐代泾县隶属宣州而得名，以青檀树皮和沙田稻草为主要原料，有「纸寿千年」的美誉，是历代书画家钟爱的载体。"
+  },
+  {
+    "id": "history-060",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "与苏州桃花坞年画并称「南桃北柳」的著名木版年画产地，位于今天的哪座城市？",
+    "options": [
+      "河北武强",
+      "山东潍坊",
+      "河南开封",
+      "天津"
+    ],
+    "correctAnswer": 3,
+    "explanation": "天津杨柳青年画始于明代，以细腻的手工彩绘和喜庆的题材著称，与江苏苏州桃花坞年画并称「南桃北柳」，是中国木版年画的两大代表流派。"
+  },
+  {
+    "id": "history-061",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "用兽皮或纸板雕刻人物、借灯光将剪影投射在幕布上表演的传统戏曲艺术是？",
+    "options": [
+      "皮影戏",
+      "木偶戏",
+      "傩戏",
+      "评弹"
+    ],
+    "correctAnswer": 0,
+    "explanation": "皮影戏至少在宋代就已流行，艺人一边操纵影人一边配唱，2011年被列入人类非物质文化遗产代表作名录。有意思的是，它还被认为是世界上最早的「屏幕影像艺术」之一。"
+  }
+]
