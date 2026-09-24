@@ -83,6 +83,10 @@
     {
       "id": "business",
       "name": "商业财经"
+    },
+    {
+      "id": "philosophy",
+      "name": "诸子百家"
     }
   ]
 }
