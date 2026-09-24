@@ -4,7 +4,7 @@ import { join } from 'node:path';
 import { mulberry32, shuffle } from '../src/utils/random';
 import { QuestionService, type GetQuestionsOptions } from '../src/services/QuestionService';
 import { questionFrequencyService } from '../src/services/QuestionFrequencyService';
-import { CHART_SHARE, SAMPLER_ALPHA } from '../src/services/sampling';
+import { CHART_SHARE, SAMPLER_ALPHA, categoryWeights } from '../src/services/sampling';
 import { shuffleQuestionOptions } from '../src/game/gameLogic';
 import { buildChartQuestion, chartQuestionId, parseChartQuestionId } from '../src/game/charts';
 import type { CategoryMeta, QuizQuestion, RankChart } from '../src/types/game';
@@ -174,7 +174,7 @@ function universeFor(o: GetQuestionsOptions): QuizQuestion[] {
   return u;
 }
 
-/** 分类期望 = count·n_c^α/Σn^α，分类内按 topic 层题量比例分摊；返回每类/每层的期望题数 */
+/** 分类期望 = count·w_c/Σw（w = n_c^α，保底占比分类上调），分类内按 topic 层题量比例分摊；返回每类/每层的期望题数 */
 function expectedExposure(universe: QuizQuestion[], count: number) {
   const nCat = new Map<string, number>();
   const nStr = new Map<string, { cat: string; n: number }>();
@@ -185,8 +185,9 @@ function expectedExposure(universe: QuizQuestion[], count: number) {
     s.n++;
     nStr.set(k, s);
   }
-  const z = [...nCat.values()].reduce((s, n) => s + n ** SAMPLER_ALPHA, 0);
-  const cat = new Map([...nCat].map(([c, n]) => [c, (count * n ** SAMPLER_ALPHA) / z]));
+  const w = categoryWeights(nCat, SAMPLER_ALPHA);
+  const z = [...w.values()].reduce((s, x) => s + x, 0);
+  const cat = new Map([...w].map(([c, x]) => [c, (count * x) / z]));
   const stratum = new Map([...nStr].map(([k, s]) => [k, { n: s.n, e: cat.get(s.cat)! * (s.n / nCat.get(s.cat)!) }]));
   const capped = universe.length <= count || [...stratum.values()].some((s) => s.e > s.n);
   const pairOverlap = [...stratum.values()].reduce((t, s) => t + (s.e * s.e) / s.n, 0);
@@ -204,7 +205,10 @@ class Collector {
   maxCat: number[] = [];
   chartsPerGame: number[] = [];
   sanguo: number[] = [];
+  catSeries = new Map<string, number[]>();
+  readonly cats: string[];
   constructor(readonly universe: QuizQuestion[]) {
+    this.cats = [...new Set(universe.map((q) => q.category))];
     for (const q of universe) this.strata.set(stratumKey(q), { sum: 0, min: Infinity, max: 0 });
   }
   add(qs: QuizQuestion[]) {
@@ -232,6 +236,11 @@ class Collector {
       s.sum += v;
       s.min = Math.min(s.min, v);
       s.max = Math.max(s.max, v);
+    }
+    for (const c of this.cats) {
+      const l = this.catSeries.get(c) ?? [];
+      l.push(perCat.get(c) ?? 0);
+      this.catSeries.set(c, l);
     }
     this.maxCat.push(Math.max(0, ...perCat.values()));
     this.chartsPerGame.push(nChart);
@@ -297,6 +306,16 @@ async function staticSection() {
     const dev = (c: Collector) => Math.max(...[...ex.cat].map(([cat, e]) => Math.abs(c.perGame(cat) - e)));
     const maxAllowed = ceilE(Math.max(...ex.cat.values()));
     check('A1', `${name}：各分类每局题数与目标偏差 ≤ ${f(TOL, 3)}`, dev(next) <= TOL, `new 最大偏差 ${f(dev(next), 3)}，legacy ${f(dev(legacy), 3)}`);
+    const inRange = [...ex.cat].every(([cat, e]) => {
+      const l = next.catSeries.get(cat) ?? [];
+      return Math.min(...l) >= floorE(e) && Math.max(...l) <= ceilE(e);
+    });
+    check('A1', `${name}：每个分类每局题数 ∈ [floor, ceil](期望)`, inRange, `${ex.cat.size} 个分类`);
+    const pic = ex.cat.get('picture');
+    if (pic !== undefined) {
+      const l = next.catSeries.get('picture') ?? [];
+      check('A8', `${name}：每局图片题 ≥ ${floorE(pic)} 道（期望 ${f(pic)}）`, Math.min(...l) >= floorE(pic) && floorE(pic) >= 1, `new ${Math.min(...l)}~${Math.max(...l)} 道，legacy ${f(legacy.perGame('picture'))}/局，最少 ${Math.min(...(legacy.catSeries.get('picture') ?? [0]))} 道`);
+    }
     check('A1', `${name}：同一分类每局最多 ${maxAllowed} 题`, Math.max(...next.maxCat) <= maxAllowed, `new 最多 ${Math.max(...next.maxCat)}，legacy ${Math.max(...legacy.maxCat)}`);
     const expectedZeros = [...ex.stratum.values()].reduce((t, s) => t + s.n * Math.exp((-GAMES * s.e) / s.n), 0);
     if (expectedZeros < 0.01) check('A1', `${name}：没有从未被抽到的题`, ns.zeros === 0, `new ${ns.zeros}，legacy ${ls.zeros}`);
@@ -322,6 +341,7 @@ async function staticSection() {
       row('S1 商业财经每局题数（目标 ' + f(ex.cat.get('business') ?? 0) + '）', f(legacy.perGame('business')), f(next.perGame('business')));
       row('S1 中国文学每局题数（目标 ' + f(ex.cat.get('chinese-literature') ?? 0) + '）', f(legacy.perGame('chinese-literature')), f(next.perGame('chinese-literature')));
       row('S1 同一分类每局最多题数', String(Math.max(...legacy.maxCat)), String(Math.max(...next.maxCat)));
+      row('S1 每局图片题数量（保底 ≥ ' + floorE(ex.cat.get('picture') ?? 0) + '）', f(legacy.perGame('picture')) + ' / 最少 ' + Math.min(...(legacy.catSeries.get('picture') ?? [0])), f(next.perGame('picture')) + ' / 最少 ' + Math.min(...(next.catSeries.get('picture') ?? [0])));
       row('S1 三国簇每局均值（期望 ' + f(e) + '）', f(mean(legacy.sanguo)), f(mean(next.sanguo)));
       row('S1 三国簇每局 ≥3 道的局占比', pct(ge3(legacy)), pct(ge3(next)));
       row('S1 同分类内每题概率 CV（噪声参考 ' + f(ns.noise, 3) + '）', f(ls.within, 3), f(ns.within, 3));

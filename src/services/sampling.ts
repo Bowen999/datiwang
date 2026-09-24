@@ -8,6 +8,9 @@ export const SAMPLER_BETA = 1;
 /** 混合局里排名题名额换成动态榜单题的概率；纯排序局用它决定榜单题占比 */
 export const CHART_SHARE = 0.5;
 
+/** 分类保底占比：该分类被选中时，期望题数至少占整局这个比例（看图题每局 25 题约 2-3 道） */
+export const CATEGORY_MIN_SHARE: Readonly<Record<string, number>> = { picture: 0.1 };
+
 export type Rng = () => number;
 
 export interface SampleCandidate {
@@ -25,6 +28,7 @@ export interface SampleOptions {
   rng?: Rng;
   alpha?: number;
   beta?: number;
+  minShare?: Readonly<Record<string, number>>;
 }
 
 export interface Stratum {
@@ -47,8 +51,28 @@ export function esKey(weight: number, rng: Rng): number {
 
 const stratumKey = (category: string, topic?: string) => `${category}\u0000${topic ?? ''}`;
 
-/** 层 = (分类, topic)；分类权重 = 题量^alpha，分类内按各层题量比例分摊 */
-export function buildStrata(items: readonly SampleCandidate[], alpha: number): Stratum[] {
+/** 分类权重 = 题量^alpha；有保底占比的分类若权重占比低于保底，则上调到恰好等于保底占比 */
+export function categoryWeights(
+  size: ReadonlyMap<string, number>,
+  alpha: number,
+  minShare: Readonly<Record<string, number>> = CATEGORY_MIN_SHARE,
+): Map<string, number> {
+  const w = new Map([...size].map(([c, n]) => [c, Math.pow(n, alpha)] as const));
+  for (const [c, share] of Object.entries(minShare)) {
+    const own = w.get(c);
+    if (own === undefined) continue;
+    const others = [...w].reduce((t, [k, v]) => (k === c ? t : t + v), 0);
+    if (others > 0 && own / (own + others) < share) w.set(c, (share / (1 - share)) * others);
+  }
+  return w;
+}
+
+/** 层 = (分类, topic)；分类权重见 categoryWeights，分类内按各层题量比例分摊 */
+export function buildStrata(
+  items: readonly SampleCandidate[],
+  alpha: number,
+  minShare?: Readonly<Record<string, number>>,
+): Stratum[] {
   const catSize = new Map<string, number>();
   const layers = new Map<string, { group: string; n: number }>();
   for (const q of items) {
@@ -58,9 +82,10 @@ export function buildStrata(items: readonly SampleCandidate[], alpha: number): S
     if (s) s.n++;
     else layers.set(k, { group: q.category, n: 1 });
   }
+  const weight = categoryWeights(catSize, alpha, minShare);
   return [...layers].map(([key, { group, n }]) => {
     const nc = catSize.get(group)!;
-    return { key, group, capacity: n, weight: Math.pow(nc, alpha) * (n / nc) };
+    return { key, group, capacity: n, weight: weight.get(group)! * (n / nc) };
   });
 }
 
@@ -145,7 +170,7 @@ export function sampleBalanced<T extends SampleCandidate>(pool: readonly T[], op
     return [...fresh, ...stale.slice(0, count - fresh.length)];
   }
 
-  const quota = allocateQuotas(buildStrata(fresh, alpha), count, rng);
+  const quota = allocateQuotas(buildStrata(fresh, alpha, opts.minShare), count, rng);
   const ranked = fresh
     .map((q) => ({ q, key: esKey(freqWeight(opts.freq.get(q.id) ?? 0, beta), rng) }))
     .sort((a, b) => b.key - a.key)

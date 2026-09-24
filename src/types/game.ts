@@ -60,8 +60,8 @@ export interface CategoryMeta {
 
 /** 下发给客户端的题目（不含正确答案） */
 export type PublicQuestion =
-  | Omit<ChoiceQuestion, 'correctAnswer' | 'explanation'>
-  | Omit<RankingQuestion, 'correctOrder' | 'explanation'>;
+  | Omit<ChoiceQuestion, 'correctAnswer' | 'explanation' | 'imageCredit'>
+  | Omit<RankingQuestion, 'correctOrder' | 'explanation' | 'imageCredit'>;
 
 export interface Player {
   id: string;
@@ -114,6 +114,8 @@ export interface RevealData {
   correctAnswer?: number;
   correctOrder?: number[];
   explanation?: string;
+  /** 配图署名：常含答案，所以答题阶段不下发，揭晓时才带上 */
+  imageCredit?: string;
   results: AnswerRecord[];
   endsAt: number;
 }

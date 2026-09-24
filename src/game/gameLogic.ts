@@ -23,10 +23,10 @@ export function questionTimeMs(kind: QuestionKind, roundSeconds: number): number
 
 export function toPublicQuestion(q: QuizQuestion): PublicQuestion {
   if (q.kind === 'ranking') {
-    const { correctOrder: _c, explanation: _e, ...rest } = q;
+    const { correctOrder: _c, explanation: _e, imageCredit: _i, ...rest } = q;
     return rest;
   }
-  const { correctAnswer: _c, explanation: _e, ...rest } = q;
+  const { correctAnswer: _c, explanation: _e, imageCredit: _i, ...rest } = q;
   return rest;
 }
 
@@ -164,6 +164,7 @@ export function computeReveal(
       correctAnswer: question.kind === 'choice' ? question.correctAnswer : undefined,
       correctOrder: question.kind === 'ranking' ? question.correctOrder : undefined,
       explanation: question.explanation,
+      imageCredit: question.imageCredit,
       results,
       endsAt: now + REVEAL_MS,
     },

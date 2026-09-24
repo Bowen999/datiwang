@@ -141,7 +141,7 @@ export function QuizScreen({ room, selfId, isHost, categories, myAnswer, now, on
             {isRanking && <NeoBadge className="bg-neo-orange text-white">⏱️ 多 {RANKING_EXTRA_SECONDS} 秒</NeoBadge>}
           </div>
           <h2 className="break-words text-xl font-black leading-relaxed sm:text-2xl md:text-3xl">{q.question}</h2>
-          {q.image && <QuestionImage key={q.image} src={q.image} credit={q.imageCredit} showCredit={isReveal} />}
+          {q.image && <QuestionImage key={q.image} src={q.image} credit={room.reveal?.imageCredit} showCredit={isReveal} />}
         </NeoCard>
       </motion.div>
 
