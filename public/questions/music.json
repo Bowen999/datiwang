@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "music-001",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "80年代",
+    "question": "「任时光匆匆流去，我只在乎你」，下一句是？",
+    "options": [
+      "心甘情愿感染你的气息",
+      "失去生命的力量也不可惜",
+      "所以我求求你别让我离开你",
+      "人生几何能够得到知己"
+    ],
+    "correctAnswer": 0,
+    "explanation": "中文词由慎芝填写，旋律来自日本作曲家三木たかし；原曲是邓丽君1986年在日本发行的日文歌《时の流れに身をまかせ》，国语版收入1987年的同名专辑。"
+  },
+  {
+    "id": "music-002",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "80年代",
+    "question": "「人有悲欢离合，月有阴晴圆缺」，下一句是？",
+    "options": [
+      "何事长向别时圆",
+      "高处不胜寒",
+      "此事古难全",
+      "千里共婵娟"
+    ],
+    "correctAnswer": 2,
+    "explanation": "歌词几乎原封不动取自苏轼《水调歌头·明月几时有》，梁弘志谱曲，收录在邓丽君1983年2月的专辑《淡淡幽情》。"
+  },
+  {
+    "id": "music-003",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "80年代",
+    "question": "「发黄的相片，古老的信以及褪色的圣诞卡」，下一句是？",
+    "options": [
+      "遥远的路程，昨日的梦以及远去的笑声",
+      "年轻时为你写的歌，恐怕你早已忘了吧",
+      "刻划着多少美丽的诗，可是终究是一阵烟",
+      "过去的誓言就像那课本里缤纷的书签"
+    ],
+    "correctAnswer": 1,
+    "explanation": "词、曲、编曲全由罗大佑一人完成，收录于他1982年4月的首张专辑《之乎者也》。歌里的相片、旧信、圣诞卡、书签，件件都是怀旧的“物证”。"
+  },
+  {
+    "id": "music-004",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "80年代",
+    "question": "「过去多少快乐记忆，何妨与你一起去追」出自哪位歌手的歌？",
+    "options": [
+      "梅艳芳",
+      "谭咏麟",
+      "陈百强",
+      "张国荣"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《风继续吹》是张国荣1983年1月同名粤语专辑的主打，由华星唱片发行。"
+  },
+  {
+    "id": "music-005",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "80年代",
+    "question": "「无法可修饰的一对手，带出温暖永远在背后」这句歌词出自哪首歌？",
+    "options": [
+      "海阔天空",
+      "真的爱你",
+      "光辉岁月",
+      "喜欢你"
+    ],
+    "correctAnswer": 1,
+    "explanation": "歌名“真的爱你”只出现在副歌最后一句。歌里写的是母亲的那双手：“无法可修饰的一对手，带出温暖永远在背后”。"
+  },
+  {
+    "id": "music-006",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "80年代",
+    "question": "「心情就像风一样自由，突然发现，一个完全不同的我」出自哪位歌手的歌？",
+    "options": [
+      "苏芮",
+      "凤飞飞",
+      "邓丽君",
+      "陈淑桦"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《跟着感觉走》收录于苏芮1988年1月的专辑《台北·东京》，陈家丽填词、陈志远作曲。"
+  },
+  {
+    "id": "music-007",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "80年代",
+    "question": "「没有你的日子里，我会更加珍惜自己」，下一句是？",
+    "options": [
+      "你问我何时归故里，我也轻声地问自己",
+      "不要把残缺的爱留在这里",
+      "前方的路虽然太凄迷，请在笑容里为我祝福",
+      "没有我的岁月里，你要保重你自己"
+    ],
+    "correctAnswer": 3,
+    "explanation": "齐秦自己作词作曲，编曲是陈志远。陈志远还为苏芮的《跟着感觉走》谱曲、给郑智化的《水手》编曲，是台湾情歌背后的重要班底。"
+  },
+  {
+    "id": "music-008",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "80年代",
+    "question": "「不要谈什么分离」，下一句是？",
+    "options": [
+      "如今虽然没有你",
+      "在我的歌声中早已没有你",
+      "我不会因为这样而哭泣",
+      "那只是昨夜的一场梦而已"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这是王杰第一张专辑《一场游戏一场梦》的同名主打，1987年12月发行，由李寿全担任制作。"
+  },
+  {
+    "id": "music-009",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "80年代",
+    "question": "「我虽然欢喜，却没对你说」，下一句是？",
+    "options": [
+      "熊熊火焰温暖了我的心窝",
+      "每次当你悄悄走近我身边",
+      "你的大眼睛，明亮又闪烁",
+      "我也知道你，是真心喜欢我"
+    ],
+    "correctAnswer": 3,
+    "explanation": "原曲是爱尔兰组合The Nolans的《Sexy Music》，庄奴填词，最早由高凌风唱红；1987年费翔在春晚上再唱，才火遍大陆。"
+  },
+  {
+    "id": "music-010",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "80年代",
+    "question": "「徐徐回望，曾属于彼此的晚上」这句歌词出自哪首歌？",
+    "options": [
+      "千千阙歌",
+      "爱在深秋",
+      "似水流年",
+      "风继续吹"
+    ],
+    "correctAnswer": 0,
+    "explanation": "林振强填词，旋律改编自近藤真彦的《夕焼けの歌》，收录于陈慧娴1989年的专辑《永远是你的朋友》，并拿下当年叱咤乐坛我最喜爱的歌曲大奖。"
+  },
+  {
+    "id": "music-011",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "80年代",
+    "question": "「要知道伤心总是难免的」，下一句是？",
+    "options": [
+      "你又何苦一往情深",
+      "在每一个梦醒时分",
+      "何必在意那一点点温存",
+      "有些人你永远不必等"
+    ],
+    "correctAnswer": 1,
+    "explanation": "李宗盛词曲并为陈淑桦量身打造，收录于1989年的专辑《跟你说 听你说》。注意“早知道”与“要知道”这两句长得几乎一样，后面接的却不同。"
+  },
+  {
+    "id": "music-012",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "80年代",
+    "question": "「沉醉于音阶她不赞赏」，下一句是？",
+    "options": [
+      "叮嘱我跌倒不应放弃",
+      "决心冲开心中挣扎",
+      "母亲的爱却永未退让",
+      "春风化雨暖透我的心"
+    ],
+    "correctAnswer": 2,
+    "explanation": "黄家驹作曲、小美作词，1989年为歌颂母爱而作，是电影《开心鬼救开心鬼》的插曲，收录于专辑《Beyond IV》。"
+  },
+  {
+    "id": "music-013",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "80年代",
+    "question": "「望着海一片，满怀倦，无泪也无言」这句歌词出自哪首歌？",
+    "options": [
+      "爱在深秋",
+      "千千阙歌",
+      "似水流年",
+      "一生所爱"
+    ],
+    "correctAnswer": 2,
+    "explanation": "梅艳芳唱的同名电影《似水流年》主题曲，2017年入选香港电台“挚爱20真经典”华语金曲十大。"
+  },
+  {
+    "id": "music-014",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "80年代",
+    "question": "「脚下这地在走」，下一句是？",
+    "options": [
+      "身边那水在流",
+      "为何你总笑个没够",
+      "我曾经问个不休",
+      "这时你的泪在流"
+    ],
+    "correctAnswer": 0,
+    "explanation": "崔健词曲，1986年在北京“纪念国际和平年百名歌星演唱会”上首唱，被视为中国摇滚的开山之作。原词是“脚下这地在走，身边那水在流”。"
+  },
+  {
+    "id": "music-015",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "80年代",
+    "question": "「因为我不在乎别人怎么说」，下一句是？",
+    "options": [
+      "一次一次徘徊在十字街头",
+      "我认真的过每一分钟",
+      "对自己的承诺，对爱的执着",
+      "我从来没有忘记我"
+    ],
+    "correctAnswer": 3,
+    "explanation": "陈家丽作词、翁孝良作曲，张雨生1988年凭这首歌一举成名；陈家丽同时也是苏芮《跟着感觉走》的词作者。"
+  },
+  {
+    "id": "music-016",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "90年代",
+    "question": "「还没跟你牵着手，走过荒芜的沙丘」这句歌词出自哪首歌？",
+    "options": [
+      "我愿意",
+      "红豆",
+      "传奇",
+      "匆匆那年"
+    ],
+    "correctAnswer": 1,
+    "explanation": "红豆在古诗里象征相思，王维写“红豆生南国，春来发几枝”；林夕用它写了一首“还没来得及”的情歌。"
+  },
+  {
+    "id": "music-017",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "90年代",
+    "question": "「写信告诉我今天，海是什么颜色」，下一句是？",
+    "options": [
+      "夜夜陪着你的海，心情又如何",
+      "而漂泊的你，狂浪的心",
+      "写信告诉我今夜，你想要梦什么",
+      "灰色是不想说，蓝色是忧郁"
+    ],
+    "correctAnswer": 0,
+    "explanation": "林秋离作词、涂惠源作曲，张雨生担任制作，收录于张惠妹1997年6月的专辑《Bad Boy》。林秋离后来还为林俊杰写了《曹操》。"
+  },
+  {
+    "id": "music-018",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "90年代",
+    "question": "「爱过的人，我已不再拥有」，下一句是？",
+    "options": [
+      "错过的人，是否可以回首",
+      "许多故事，有伤心的理由",
+      "爱过的心，没有任何请求",
+      "走过的路，再也不能停留"
+    ],
+    "correctAnswer": 1,
+    "explanation": "邢增华作词、李偲菘作曲，收录于张学友1995年的《真爱 新曲+真正精选》。李偲菘后来还是孙燕姿《遇见》的制作人。"
+  },
+  {
+    "id": "music-019",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "90年代",
+    "question": "「不问你为何流眼泪，不在乎你心里还有谁」，下一句是？",
+    "options": [
+      "既然爱了就不后悔，再多的苦我也愿意背",
+      "你该知道这样会让我心碎",
+      "走过千山万水，在我心里你永远是那么美",
+      "且让我给你安慰，不论结局是喜是悲"
+    ],
+    "correctAnswer": 3,
+    "explanation": "歌词出自李宗盛之手，黎沸挥作曲，收录于张信哲1993年的专辑《心事》。"
+  },
+  {
+    "id": "music-020",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "90年代",
+    "question": "「苦涩的沙，吹痛脸庞的感觉」，下一句是？",
+    "options": [
+      "年少的我，喜欢一个人在海边",
+      "总是幻想海洋的尽头有另一个世界",
+      "像父亲的责骂，母亲的哭泣",
+      "卷起裤管光着脚丫踩在沙滩上"
+    ],
+    "correctAnswer": 2,
+    "explanation": "郑智化自己作词作曲、陈志远编曲，收录于1992年专辑《私房歌》。郑智化因小儿麻痹长年拄拐，这首歌也是他的人生写照。"
+  },
+  {
+    "id": "music-021",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "90年代",
+    "question": "「夜深了你还不想睡，你还在想着他吗」，下一句是？",
+    "options": [
+      "只不过想好好爱一个人",
+      "你这样痴情到底累不累",
+      "多余的牺牲他不懂心疼",
+      "可惜他无法给你满分"
+    ],
+    "correctAnswer": 1,
+    "explanation": "词曲都出自小虫，收录于任贤齐1996年12月发行的同名专辑《心太软》。"
+  },
+  {
+    "id": "music-022",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "90年代",
+    "question": "「外表健康的你心里伤痕无数，顽强的我是这场战役的俘虏」出自哪位歌手的歌？",
+    "options": [
+      "田震",
+      "毛阿敏",
+      "那英",
+      "韦唯"
+    ],
+    "correctAnswer": 2,
+    "explanation": "那英是辽宁沈阳人，2001年凭专辑《心酸的浪漫》成为金曲奖史上第一位获“最佳国语女演唱人”的大陆歌手。"
+  },
+  {
+    "id": "music-023",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "90年代",
+    "question": "「让我将你心儿摘下，试着将它慢慢溶化」这句歌词出自哪首歌？",
+    "options": [
+      "心太软",
+      "当",
+      "爱如潮水",
+      "挪威的森林"
+    ],
+    "correctAnswer": 3,
+    "explanation": "伍佰自己作词作曲，是伍佰 & China Blue最广为传唱的情歌之一。"
+  },
+  {
+    "id": "music-024",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "90年代",
+    "question": "「今天我寒夜里看雪飘过，怀着冷却了的心窝飘远方」这句歌词出自哪首歌？",
+    "options": [
+      "海阔天空",
+      "不再犹豫",
+      "大地",
+      "光辉岁月"
+    ],
+    "correctAnswer": 0,
+    "explanation": "据报道，2022年这首歌的官方MV在YouTube上点击破亿，成为首支破亿的粤语歌MV。"
+  },
+  {
+    "id": "music-025",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "90年代",
+    "question": "「曾经年少爱追梦，一心只想往前飞」，下一句是？",
+    "options": [
+      "行遍千山和万水，一路走来不能回",
+      "如果你不曾心碎，你不会懂得我伤悲",
+      "才明白爱恨情仇，最伤最痛是后悔",
+      "蓦然回首情已远，身不由己在天边"
+    ],
+    "correctAnswer": 0,
+    "explanation": "李安修作词、陈耀川作曲，收录于刘德华1994年4月发行的同名国语专辑。"
+  },
+  {
+    "id": "music-026",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "90年代",
+    "question": "「你总是心太软，心太软，独自一个人流泪到天亮」出自哪位歌手的歌？",
+    "options": [
+      "伍佰",
+      "任贤齐",
+      "张信哲",
+      "周华健"
+    ],
+    "correctAnswer": 1,
+    "explanation": "任贤齐的同名专辑《心太软》发行于1996年圣诞前夕。"
+  },
+  {
+    "id": "music-027",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "90年代",
+    "question": "「终于你找到一个方式分出了胜负」，下一句是？",
+    "options": [
+      "顽强的我是这场战役的俘虏",
+      "外表健康的你心里伤痕无数",
+      "放一把火烧掉你送我的礼物",
+      "输赢的代价是彼此粉身碎骨"
+    ],
+    "correctAnswer": 3,
+    "explanation": "词曲都出自台湾音乐人袁惟仁，收录于那英1998年的专辑《征服》。"
+  },
+  {
+    "id": "music-028",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "90年代",
+    "question": "「冷冷的冰雨在脸上胡乱的拍」，下一句是？",
+    "options": [
+      "眼前的色彩忽然被掩盖",
+      "你的影子无情在身边徘徊",
+      "暖暖的眼泪跟寒雨混成一块",
+      "我是在等待你的回来"
+    ],
+    "correctAnswer": 2,
+    "explanation": "歌词由刘德华亲自参与填词（与李密合写），潘协庆作曲，是他演唱会上的保留曲目。"
+  },
+  {
+    "id": "music-029",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "90年代",
+    "question": "「从那遥远海边，慢慢消失的你」这句歌词出自哪首歌？",
+    "options": [
+      "水手",
+      "涛声依旧",
+      "听海",
+      "大海"
+    ],
+    "correctAnswer": 3,
+    "explanation": "陈大力填词，陈大力与陈秀男谱曲，收录于张雨生1992年的同名专辑《大海》。"
+  },
+  {
+    "id": "music-030",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "90年代",
+    "question": "「可否不分肤色的界限」，下一句是？",
+    "options": [
+      "缤纷色彩闪出的美丽",
+      "愿这土地里，不分你我高低",
+      "一生经过彷徨的挣扎",
+      "风雨中抱紧自由"
+    ],
+    "correctAnswer": 1,
+    "explanation": "国语版收进Beyond 1991年在台湾发行的同名国语专辑，种族议题被淡化，改成激励年轻人的主题。"
+  },
+  {
+    "id": "music-031",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "90年代",
+    "question": "「是否对你承诺了太多」，下一句是？",
+    "options": [
+      "还是我原本给的就不够",
+      "关于流言，我装作无动于衷",
+      "你始终有千万种理由",
+      "我一直都跟随你的感受"
+    ],
+    "correctAnswer": 0,
+    "explanation": "陈佳明作词、曹俊鸿作曲并担任制作，与《爱如潮水》《别怕我伤心》并称张信哲的代表作。"
+  },
+  {
+    "id": "music-032",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "90年代",
+    "question": "「老师们都已想不起，猜不出问题的你」出自哪位歌手的歌？",
+    "options": [
+      "郑钧",
+      "朴树",
+      "老狼",
+      "窦唯"
+    ],
+    "correctAnswer": 2,
+    "explanation": "老狼本名王阳，是九十年代“校园民谣”的代表歌手，这首歌由高晓松创作。"
+  },
+  {
+    "id": "music-033",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "90年代",
+    "question": "「钟声响起归家的讯号，在他生命里」这句歌词出自哪首歌？",
+    "options": [
+      "大地",
+      "海阔天空",
+      "光辉岁月",
+      "真的爱你"
+    ],
+    "correctAnswer": 2,
+    "explanation": "粤语原版由黄家驹作词，国语版则由周治平、何启弘另填新词。"
+  },
+  {
+    "id": "music-034",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "90年代",
+    "question": "「当山峰没有棱角的时候，当河水不再流」出自哪位歌手的歌？",
+    "options": [
+      "小虎队",
+      "动力火车",
+      "优客李林",
+      "无印良品"
+    ],
+    "correctAnswer": 1,
+    "explanation": "动力火车由尤秋兴、颜志琳两位排湾族歌手组成；《当》1998年就收录在《琼瑶98年度主题曲精选大碟》里，据署名词作者是琼瑶。"
+  },
+  {
+    "id": "music-035",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "90年代",
+    "question": "「这一张旧船票，能否登上你的客船」这句歌词出自哪首歌？",
+    "options": [
+      "涛声依旧",
+      "同桌的你",
+      "征服",
+      "白桦林"
+    ],
+    "correctAnswer": 0,
+    "explanation": "歌词化用唐代张继《枫桥夜泊》的意境，1993年毛宁在央视春晚上演唱后红极一时。"
+  },
+  {
+    "id": "music-036",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "90年代",
+    "question": "「我以为我会哭，但是我没有」这句歌词出自哪首歌？",
+    "options": [
+      "红豆",
+      "我愿意",
+      "听海",
+      "领悟"
+    ],
+    "correctAnswer": 3,
+    "explanation": "李宗盛词曲并担任制作，收录于辛晓琪1994年8月的专辑《领悟》，她因此被称为“疗伤歌后”。"
+  },
+  {
+    "id": "music-037",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "90年代",
+    "question": "「相聚离开，都有时候」，下一句是？",
+    "options": [
+      "我会相信一切有尽头",
+      "等到风景都看透",
+      "没有什么会永垂不朽",
+      "宁愿选择留恋不放手"
+    ],
+    "correctAnswer": 2,
+    "explanation": "林夕作词、柳重言作曲，收录于王菲1998年的专辑《唱游》，粤语版叫《偿还》，词同样出自林夕。"
+  },
+  {
+    "id": "music-038",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "90年代",
+    "question": "「一句话，一辈子，一生情，一杯酒」这句歌词出自哪首歌？",
+    "options": [
+      "心太软",
+      "朋友",
+      "爱如潮水",
+      "水手"
+    ],
+    "correctAnswer": 1,
+    "explanation": "刘思铭作词、刘志宏作曲，收录于周华健1997年4月发行的同名国语专辑《朋友》。"
+  },
+  {
+    "id": "music-039",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "90年代",
+    "question": "「原谅我这一生不羁放纵爱自由」，下一句是？",
+    "options": [
+      "也会怕有一天会跌倒",
+      "哪会怕有一天只你共我",
+      "仍然自由自我，永远高唱我歌",
+      "背弃了理想谁人都可以"
+    ],
+    "correctAnswer": 0,
+    "explanation": "黄家驹词曲，收录于1993年专辑《乐与怒》，Beyond还为它录了日文版《遥かなる梦に》，制作完成不到两个月黄家驹就在日本意外身故。"
+  },
+  {
+    "id": "music-040",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "90年代",
+    "question": "「静静的村庄飘着白的雪」，下一句是？",
+    "options": [
+      "有一天战火烧到了家乡",
+      "他们发誓相爱用尽这一生",
+      "白桦树刻着那两个名字",
+      "阴霾的天空下鸽子飞翔"
+    ],
+    "correctAnswer": 3,
+    "explanation": "朴树词曲、张亚东担任制作人，收录于他1999年1月发行的首张个人专辑《我去2000年》。"
+  },
+  {
+    "id": "music-041",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "90年代",
+    "question": "「我的世界开始下雪」，下一句是？",
+    "options": [
+      "就连说过了再见也看不见你有些哀怨",
+      "冷得让我无法多爱一天",
+      "让风痴笑我不能拒绝",
+      "已经陌生不会再像从前"
+    ],
+    "correctAnswer": 1,
+    "explanation": "张学友1993年的同名国语专辑《吻别》，仅在台湾就卖出136万张，是当时台湾销量最高的专辑。"
+  },
+  {
+    "id": "music-042",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "90年代",
+    "question": "「留连的钟声，还在敲打我的无眠」，下一句是？",
+    "options": [
+      "尘封的日子，始终不会是一片云烟",
+      "久违的你，一定保存着那张笑脸",
+      "无助的我，已经疏远那份情感",
+      "月落乌啼，总是千年的风霜"
+    ],
+    "correctAnswer": 0,
+    "explanation": "陈小奇词曲，这首歌获得1994年第一届东方风云榜十大金曲和最佳作词奖。"
+  },
+  {
+    "id": "music-043",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "90年代",
+    "question": "「明天你是否会想起，昨天你写的日记」，下一句是？",
+    "options": [
+      "你总说毕业遥遥无期，转眼就各奔东西",
+      "那时候天总是很蓝，日子总过得太慢",
+      "明天你是否还惦记，曾经最爱哭的你",
+      "你从前总是很小心，问我借半块橡皮"
+    ],
+    "correctAnswer": 2,
+    "explanation": "高晓松创作，收录于老狼1995年5月发行的专辑《恋恋风尘》（太合麦田）。"
+  },
+  {
+    "id": "music-044",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "90年代",
+    "question": "「想你到无法呼吸」，下一句是？",
+    "options": [
+      "无声又无息，出没在心底",
+      "我无力抗拒，特别是夜里",
+      "大声地告诉你",
+      "恨不能立即，朝你狂奔去"
+    ],
+    "correctAnswer": 3,
+    "explanation": "姚谦作词、黄国伦作曲，收录于王菲1994年的专辑《迷》，至今仍是她知名度最高的歌之一。"
+  },
+  {
+    "id": "music-045",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "90年代",
+    "question": "「我和你吻别，在无人的街，让风痴笑我不能拒绝」出自哪位歌手的歌？",
+    "options": [
+      "张学友",
+      "刘德华",
+      "郭富城",
+      "黎明"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《吻别》专辑里另外两首《一路上有你》《每天爱你多一些》，都是把张学友的粤语老歌重新填词的国语版。"
+  },
+  {
+    "id": "music-046",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "00年代",
+    "question": "「枫叶将故事染色，结局我看透」这句歌词出自哪首歌？",
+    "options": [
+      "青花瓷",
+      "千里之外",
+      "东风破",
+      "菊花台"
+    ],
+    "correctAnswer": 2,
+    "explanation": "方文山作词，收录于周杰伦2003年的专辑《叶惠美》；歌名据说来自古代一种叫“曲破”的曲式。"
+  },
+  {
+    "id": "music-047",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代",
+    "question": "「天青色等烟雨，而我在等你」出自哪位歌手的歌？",
+    "options": [
+      "萧敬腾",
+      "王力宏",
+      "林俊杰",
+      "周杰伦"
+    ],
+    "correctAnswer": 3,
+    "explanation": "2008年周杰伦在央视春晚上演唱了这首歌，同年它拿下金曲奖年度歌曲、最佳作词和最佳作曲三项大奖。"
+  },
+  {
+    "id": "music-048",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代",
+    "question": "「你哭着对我说，童话里都是骗人的」，下一句是？",
+    "options": [
+      "也许你不会懂，从你说爱我以后",
+      "我不可能，是你的王子",
+      "我的天空，星星都亮了",
+      "我想了很久，我开始慌了"
+    ],
+    "correctAnswer": 1,
+    "explanation": "光良作词作曲，2005年1月发行的同名专辑《童话》的主打歌，被誉为2000年代中期最成功的华语歌曲之一，KTV点唱率极高。"
+  },
+  {
+    "id": "music-049",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代",
+    "question": "「冉冉檀香透过窗心事我了然」，下一句是？",
+    "options": [
+      "釉色渲染仕女图韵味被私藏",
+      "瓶身描绘的牡丹一如你初妆",
+      "而你嫣然的一笑如含苞待放",
+      "宣纸上走笔至此搁一半"
+    ],
+    "correctAnswer": 3,
+    "explanation": "方文山作词、周杰伦作曲。方文山最初想把歌名取作《青铜器》，后来考虑过《汝窑》，最终才定为《青花瓷》。"
+  },
+  {
+    "id": "music-050",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "00年代",
+    "question": "「唱着人们心肠的曲折」，下一句是？",
+    "options": [
+      "我想我很快乐，当有你的温热",
+      "唱着我们心头的白鸽",
+      "脚边的空气转了",
+      "我想我很适合，当一个歌颂者"
+    ],
+    "correctAnswer": 0,
+    "explanation": "吴青峰词曲，收录于苏打绿的专辑《小宇宙》；2007年苏打绿成为第一个在台北小巨蛋开唱的独立音乐团体。"
+  },
+  {
+    "id": "music-051",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代",
+    "question": "「最怕空气突然安静」，下一句是？",
+    "options": [
+      "想念，如果会有声音",
+      "事到如今，终于让自己属于，我自己",
+      "最怕朋友突然的关心",
+      "不愿，那是悲伤的，哭泣"
+    ],
+    "correctAnswer": 2,
+    "explanation": "阿信作词作曲，2008年推出的单曲，是电影《近在咫尺》的主题曲，收录于专辑《后青春期的诗》。"
+  },
+  {
+    "id": "music-052",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代",
+    "question": "「东边牧马，西边放羊」这句歌词出自哪首歌？",
+    "options": [
+      "最炫民族风",
+      "月亮之上",
+      "天路",
+      "荷塘月色"
+    ],
+    "correctAnswer": 1,
+    "explanation": "何沐阳词曲，收录于凤凰传奇2005年的同名专辑《月亮之上》，是他们最早的代表作。"
+  },
+  {
+    "id": "music-053",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代",
+    "question": "「一条条巨龙翻山越岭，为雪域高原送来安康」这句歌词出自哪首歌？",
+    "options": [
+      "曾经的你",
+      "蓝莲花",
+      "天路",
+      "月亮之上"
+    ],
+    "correctAnswer": 2,
+    "explanation": "屈塬作词、印青作曲，韩红演唱，唱的是青藏铁路给高原带来的变化。"
+  },
+  {
+    "id": "music-054",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "00年代",
+    "question": "「我唱得不够动人你别皱眉」，下一句是？",
+    "options": [
+      "还能凭甚么？要是爱不可感动人",
+      "我愿意和你约定至死",
+      "请你别嫌我将这煽情奉献给你",
+      "我只想嬉戏唱游到下世纪"
+    ],
+    "correctAnswer": 1,
+    "explanation": "林夕作词、陈辉阳作曲，收录于陈奕迅2000年9月的专辑《打得火热》。"
+  },
+  {
+    "id": "music-055",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代",
+    "question": "「天马行空的生涯，你的心了无牵挂」这句歌词出自哪首歌？",
+    "options": [
+      "曾经的你",
+      "北京北京",
+      "春天里",
+      "蓝莲花"
+    ],
+    "correctAnswer": 3,
+    "explanation": "许巍词曲，李延亮担任制作人，收录于他的专辑《时光·漫步》。"
+  },
+  {
+    "id": "music-056",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代",
+    "question": "「亲爱的，你慢慢飞」，下一句是？",
+    "options": [
+      "小心前面带刺的玫瑰",
+      "风中花香会让你沉醉",
+      "亲爱的，来跳个舞",
+      "亲爱的，你张张嘴"
+    ],
+    "correctAnswer": 0,
+    "explanation": "词曲作者是牛朝阳，庞龙演唱，是2000年代中期“网络神曲”的代表之一。"
+  },
+  {
+    "id": "music-057",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代",
+    "question": "「一群嗜血的蚂蚁，被腐肉所吸引」这句歌词出自哪首歌？",
+    "options": [
+      "夜曲",
+      "东风破",
+      "七里香",
+      "千里之外"
+    ],
+    "correctAnswer": 0,
+    "explanation": "方文山作词、周杰伦作曲，收录于2005年的专辑《11月的萧邦》，歌里弹奏的“萧邦”指的就是钢琴诗人肖邦。"
+  },
+  {
+    "id": "music-058",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代",
+    "question": "「我来到你的城市，走过你来时的路」这句歌词出自哪首歌？",
+    "options": [
+      "爱情转移",
+      "十年",
+      "红玫瑰",
+      "好久不见"
+    ],
+    "correctAnswer": 3,
+    "explanation": "施立作词、陈小霞作曲，收录于陈奕迅2007年的国语专辑《认了吧》。陈小霞同样是《十年》的作曲人。"
+  },
+  {
+    "id": "music-059",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代",
+    "question": "「徘徊过多少橱窗」，下一句是？",
+    "options": [
+      "才会觉得分离也并不冤枉",
+      "住过多少旅馆",
+      "还是用来珍藏",
+      "感情是用来浏览"
+    ],
+    "correctAnswer": 1,
+    "explanation": "林夕作词、Christopher Chak作曲，与《富士山下》出自同一对搭档，收录于陈奕迅2007年的国语专辑《认了吧》。"
+  },
+  {
+    "id": "music-060",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代",
+    "question": "「故事的小黄花」，下一句是？",
+    "options": [
+      "我想起花瓣试着掉落",
+      "吹着前奏望着天空",
+      "从出生那年就飘着",
+      "随记忆一直晃到现在"
+    ],
+    "correctAnswer": 2,
+    "explanation": "周杰伦作词作曲，收录于2003年7月发行的专辑《叶惠美》，歌词里甚至夹着一行“Re So So Si Do Si La”的唱名。"
+  },
+  {
+    "id": "music-061",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代",
+    "question": "「独自走下长坂坡，月光太温柔」这句歌词出自哪首歌？",
+    "options": [
+      "小酒窝",
+      "江南",
+      "曹操",
+      "一千年以后"
+    ],
+    "correctAnswer": 2,
+    "explanation": "林秋离作词、林俊杰作曲，同名专辑《曹操》于2006年2月发行，“不是英雄不读三国”是全曲金句。"
+  },
+  {
+    "id": "music-062",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代",
+    "question": "「就像老鼠爱大米」，下一句是？",
+    "options": [
+      "我想你想着你，不管有多么的苦",
+      "不管路有多么远，一定会让它实现",
+      "只要能让你开心，我什么都愿意",
+      "不管有多少风雨我都会依然陪着你"
+    ],
+    "correctAnswer": 3,
+    "explanation": "杨臣刚自己作词作曲并演唱，2004年10月的同名专辑《老鼠爱大米》，是2000年代中期“网络神曲”的代表。"
+  },
+  {
+    "id": "music-063",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "00年代",
+    "question": "「咖啡馆与广场有三个街区，就像霓虹灯到月亮的距离」这句歌词出自哪首歌？",
+    "options": [
+      "蓝莲花",
+      "北京北京",
+      "春天里",
+      "曾经的你"
+    ],
+    "correctAnswer": 1,
+    "explanation": "汪峰词曲，歌里反复唱着“我在这里欢笑，我在这里哭泣，我在这里活着，也在这里死去”。"
+  },
+  {
+    "id": "music-064",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代",
+    "question": "「我等的人，他在多远的未来」出自哪位歌手的歌？",
+    "options": [
+      "孙燕姿",
+      "张韶涵",
+      "梁静茹",
+      "蔡依林"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《遇见》是孙燕姿2003年专辑《The Moment》里的歌，也是电影《向左走·向右走》的主题曲，歌词里的“向左、向右、向前看”就是在呼应片名。"
+  },
+  {
+    "id": "music-065",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "00年代",
+    "question": "「怀抱既然不能逗留」，下一句是？",
+    "options": [
+      "怎么说出口，也不过是分手",
+      "成千上万个门口，总有一个人要先走",
+      "一边享受，一边泪流",
+      "何不在离开的时候"
+    ],
+    "correctAnswer": 3,
+    "explanation": "陈小霞作曲、林夕作词，粤语原曲收录于陈奕迅2003年4月的专辑《黑白灰》，歌词写的是“情人最后难免沦为朋友”。"
+  },
+  {
+    "id": "music-066",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代",
+    "question": "「你是电，你是光，你是唯一的神话」出自哪位歌手的歌？",
+    "options": [
+      "张韶涵",
+      "S.H.E",
+      "蔡依林",
+      "杨丞琳"
+    ],
+    "correctAnswer": 1,
+    "explanation": "S.H.E 2003年8月发行的同名专辑《Super Star》的主打歌，中文词由施人诚填写；旋律的作曲署名是Sweetbox组合的成员，属于“洋曲中词”。"
+  },
+  {
+    "id": "music-067",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代",
+    "question": "「天空好想下雨」，下一句是？",
+    "options": [
+      "哪怕多盆水往下淋",
+      "抬起头，数乌云",
+      "我好想住你隔壁",
+      "傻站在你家楼下"
+    ],
+    "correctAnswer": 2,
+    "explanation": "许嵩包办词曲，收录于他2009年1月的首张专辑《自定义》；歌里的“格洛米”是英国动画《超级无敌掌门狗》里的那只狗。"
+  },
+  {
+    "id": "music-068",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代",
+    "question": "「还记得许多年前的春天，那时的我还没剪去长发」这句歌词出自哪首歌？",
+    "options": [
+      "春天里",
+      "北京北京",
+      "曾经的你",
+      "蓝莲花"
+    ],
+    "correctAnswer": 0,
+    "explanation": "汪峰词曲，收录于2009年的专辑《信仰在空中飘扬》；后来农民工组合“旭日阳刚”翻唱它走红，让这首歌再度爆红。"
+  },
+  {
+    "id": "music-069",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "00年代",
+    "question": "「拦路雨偏似雪花，饮泣的你冻吗」，下一句是？",
+    "options": [
+      "这风褛我给你磨到有襟花",
+      "原谅我不再送花，伤口应要结疤",
+      "苦心选中今天想车你回家",
+      "连调了职也不怕，怎么始终牵挂"
+    ],
+    "correctAnswer": 0,
+    "explanation": "林夕作词、Christopher Chak作曲，收录于陈奕迅2006年的专辑《What's Going On...?》。“风褛”是粤语里的“风衣”。"
+  },
+  {
+    "id": "music-070",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代",
+    "question": "「曾梦想仗剑走天涯」，下一句是？",
+    "options": [
+      "曾让你心疼的姑娘",
+      "看一看世界的繁华",
+      "年少的心总有些轻狂",
+      "如今你四海为家"
+    ],
+    "correctAnswer": 1,
+    "explanation": "许巍词曲，李延亮编曲，歌里的“仗剑走天涯”后来成了许多人的青春标签。"
+  },
+  {
+    "id": "music-071",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代",
+    "question": "「有人问我，我就会讲，但是无人来」这句歌词出自哪首歌？",
+    "options": [
+      "富士山下",
+      "K歌之王",
+      "明年今日",
+      "浮夸"
+    ],
+    "correctAnswer": 3,
+    "explanation": "收录于陈奕迅2005年的专辑《U87》，这张专辑被美国《时代》杂志选为“2005年五大亚洲最值得购买的唱片之一”。"
+  },
+  {
+    "id": "music-072",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代",
+    "question": "「停靠在八楼的二路汽车，带走了最后一片飘落的黄叶」出自哪位歌手的歌？",
+    "options": [
+      "许巍",
+      "汪峰",
+      "刀郎",
+      "韩磊"
+    ],
+    "correctAnswer": 2,
+    "explanation": "刀郎原名罗林，2004年1月凭同名专辑《2002年的第一场雪》出道；歌里的“乌鲁木齐”是新疆首府。"
+  },
+  {
+    "id": "music-073",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代",
+    "question": "「窗外的麻雀，在电线杆上多嘴」，下一句是？",
+    "options": [
+      "我用几行字形容你是我的谁",
+      "手中的铅笔，在纸上来来回回",
+      "初恋的香味就这样被我们寻回",
+      "你说这一句，很有夏天的感觉"
+    ],
+    "correctAnswer": 3,
+    "explanation": "方文山作词、周杰伦作曲，收录于2004年8月发行的同名专辑《七里香》。七里香是一种开小白花的灌木，花香很浓。"
+  },
+  {
+    "id": "music-074",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "00年代",
+    "question": "「我终于翱翔，用心凝望不害怕」这句歌词出自哪首歌？",
+    "options": [
+      "暖暖",
+      "隐形的翅膀",
+      "勇气",
+      "童话"
+    ],
+    "correctAnswer": 1,
+    "explanation": "王雅君词曲，收录于张韶涵2006年的专辑《潘朵拉》，歌词曾被选作北京市2009年高考的作文题。"
+  },
+  {
+    "id": "music-075",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代",
+    "question": "「我的心一直温习说服自己」，下一句是？",
+    "options": [
+      "最怕你忽然说要放弃",
+      "我们都需要勇气，去相信会在一起",
+      "爱真的需要勇气，来面对流言蜚语",
+      "只要你一个眼神肯定，我的爱就有意义"
+    ],
+    "correctAnswer": 0,
+    "explanation": "梁静茹2000年8月发行的第二张中文专辑《勇气》的同名主打，让她被广泛熟知，专辑在亚洲卖出约120万张。"
+  },
+  {
+    "id": "music-076",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代",
+    "question": "「再美的花朵，盛开过就凋落，再亮眼的星，一闪过就坠落」出自哪位歌手的歌？",
+    "options": [
+      "田馥甄",
+      "张韶涵",
+      "邓紫棋",
+      "郁可唯"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《泡沫》词曲都出自邓紫棋自己之手，2012年发行时她才二十出头。"
+  },
+  {
+    "id": "music-077",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "10年代",
+    "question": "「假如把犯得起的错」，下一句是？",
+    "options": [
+      "那一场小风波",
+      "能错的都错过",
+      "应该还来得及去悔过",
+      "假如没把一切说破"
+    ],
+    "correctAnswer": 1,
+    "explanation": "林夕作词、林俊杰作曲，2014年12月发行，是专辑《新地球》的第二波主打歌。"
+  },
+  {
+    "id": "music-078",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "10年代",
+    "question": "「喝了几大碗米酒再离开是为了模仿」，下一句是？",
+    "options": [
+      "多么不流行的模样",
+      "你一天一口一个，亲爱的对方",
+      "一出门不小心吐的那幅是谁的书画",
+      "都应该练练书法再出门闯荡"
+    ],
+    "correctAnswer": 2,
+    "explanation": "李荣浩词曲编一人包办，收录于他2013年9月推出的首张个人专辑《模特》。"
+  },
+  {
+    "id": "music-079",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "10年代",
+    "question": "「阳光下的泡沫，是彩色的」，下一句是？",
+    "options": [
+      "就像被骗的我，是幸福的",
+      "美丽的泡沫，虽然一刹花火",
+      "基于你还爱我",
+      "追究什么对错，你的谎言"
+    ],
+    "correctAnswer": 0,
+    "explanation": "邓紫棋在《我是歌手2》首场竞演中唱了这首歌，随后在大陆爆红，歌曲收录于她的第三张专辑《Xposed》。"
+  },
+  {
+    "id": "music-080",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "10年代",
+    "question": "「原来你是我最想留住的幸运」这句歌词出自哪首歌？",
+    "options": [
+      "后来的我们",
+      "演员",
+      "可惜没如果",
+      "小幸运"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这首歌2015年7月发行，入围了第27届金曲奖最佳年度歌曲和最佳作曲人。"
+  },
+  {
+    "id": "music-081",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代",
+    "question": "「面对浩瀚的星海」，下一句是？",
+    "options": [
+      "漂浮在，一片无奈",
+      "我们微小得像尘埃",
+      "我们的爱微小却闪烁",
+      "宇宙磅礡而冷漠"
+    ],
+    "correctAnswer": 1,
+    "explanation": "邓紫棋词曲，2016年12月底发行，是美国电影《太空潜航者》的中国区主题曲；MV后来成为首个破亿的香港艺人MV。"
+  },
+  {
+    "id": "music-082",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "10年代",
+    "question": "「我曾经跨过山和大海」，下一句是？",
+    "options": [
+      "我曾经拥有着一切",
+      "我曾经失落失望失掉所有方向",
+      "转眼都飘散如烟",
+      "也穿过人山人海"
+    ],
+    "correctAnswer": 3,
+    "explanation": "词由韩寒与朴树合写、朴树作曲，是韩寒导演的电影《后会无期》（2014）的主题曲。"
+  },
+  {
+    "id": "music-083",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "10年代",
+    "question": "「让我掉下眼泪的，不止昨夜的酒」，下一句是？",
+    "options": [
+      "深秋嫩绿的垂柳，亲吻着我额头",
+      "雨路还要走多久，你攥着我的手",
+      "让我依依不舍的，不止你的温柔",
+      "让我感到为难的，是挣扎的自由"
+    ],
+    "correctAnswer": 2,
+    "explanation": "赵雷词曲，收录于2016年12月的专辑《无法长大》；歌里提到的“玉林路”是成都一条真实存在的街道。"
+  },
+  {
+    "id": "music-084",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "10年代",
+    "question": "「梦为努力浇了水，爱在背后往前推」这句歌词出自哪首歌？",
+    "options": [
+      "不为谁而作的歌",
+      "可惜没如果",
+      "江南",
+      "曹操"
+    ],
+    "correctAnswer": 0,
+    "explanation": "林秋离作词、林俊杰作曲，2015年12月发行，是专辑《和自己对话》的首波主打，还拿下了金曲奖最佳作曲人。"
+  },
+  {
+    "id": "music-085",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "10年代",
+    "question": "「呆呆地站在镜子前」，下一句是？",
+    "options": [
+      "将头发梳成大人模样",
+      "穿上一身帅气西装",
+      "笨拙系上红色领带的结",
+      "等会儿见你一定比想像美"
+    ],
+    "correctAnswer": 2,
+    "explanation": "九把刀作词、日本作曲家木村充利作曲，是电影《那些年，我们一起追的女孩》的主题曲，胡夏演唱。"
+  },
+  {
+    "id": "music-086",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代",
+    "question": "「分别总是在九月，回忆是思念的愁」出自哪位歌手的歌？",
+    "options": [
+      "薛之谦",
+      "许嵩",
+      "李荣浩",
+      "赵雷"
+    ],
+    "correctAnswer": 3,
+    "explanation": "赵雷2017年因参加湖南卫视《歌手》走红，《成都》是他最有名的代表作。"
+  },
+  {
+    "id": "music-087",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代",
+    "question": "「想说却还没说的，还很多，攒着是因为想写成歌」这句歌词出自哪首歌？",
+    "options": [
+      "梦醒时分",
+      "山丘",
+      "当爱已成往事",
+      "我是一只小小鸟"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2013年这首歌先在网络上曝光，10月正式发行，拿下第25届金曲奖的年度歌曲和最佳作词。"
+  },
+  {
+    "id": "music-088",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代",
+    "question": "「你在南方的艳阳里，大雪纷飞」，下一句是？",
+    "options": [
+      "我在北方的寒夜里，四季如春",
+      "穷极一生，做不完一场梦",
+      "他不再和谁谈论相逢的孤岛",
+      "如果天黑之前来得及，我要忘了你的眼睛"
+    ],
+    "correctAnswer": 0,
+    "explanation": "马頔词曲，“頔”读dí，收录于2014年11月的专辑《孤岛》。"
+  },
+  {
+    "id": "music-089",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "10年代",
+    "question": "「然后呢，他们说你的心，似乎痊愈了」，下一句是？",
+    "options": [
+      "我该心安或是，心痛呢",
+      "也开始有个人，为你守护着",
+      "其实我的日子，也还可以呢",
+      "庆幸还有眼泪，冲淡苦涩"
+    ],
+    "correctAnswer": 1,
+    "explanation": "阿信作词，作曲的却是团长怪兽，收录于五月天2016年7月的专辑《自传》。"
+  },
+  {
+    "id": "music-090",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "10年代",
+    "question": "「塞纳河畔，左岸的咖啡，我手一杯，品尝你的美」这句歌词出自哪首歌？",
+    "options": [
+      "晴天",
+      "说好不哭",
+      "告白气球",
+      "稻香"
+    ],
+    "correctAnswer": 2,
+    "explanation": "方文山作词、周杰伦作曲，2016年6月发行；据报道它的MV只用了289天就突破一亿播放。"
+  },
+  {
+    "id": "music-091",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代",
+    "question": "「董小姐，你从没忘记你的微笑」，下一句是？",
+    "options": [
+      "董小姐，你嘴角向下的时候很美",
+      "董小姐，我也是个复杂的动物",
+      "就像安和桥下，清澈的水",
+      "就算你和我一样，渴望着衰老"
+    ],
+    "correctAnswer": 3,
+    "explanation": "宋冬野词曲，收录于2013年的专辑《安和桥北》；歌里的“安和桥”“鼓楼”都是北京的地名。"
+  },
+  {
+    "id": "music-092",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "10年代",
+    "question": "「简单点，说话的方式简单点」，下一句是？",
+    "options": [
+      "递进的情绪请省略",
+      "你又不是个演员",
+      "没意见，我只想看看你怎么圆",
+      "别设计那些情节"
+    ],
+    "correctAnswer": 0,
+    "explanation": "薛之谦自己作词作曲，收录于他2015年6月的专辑《绅士》。"
+  },
+  {
+    "id": "music-093",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代",
+    "question": "「一部外国电影没听懂一句话，看完结局才是笑话」出自哪位歌手的歌？",
+    "options": [
+      "李荣浩",
+      "毛不易",
+      "赵雷",
+      "薛之谦"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《李白》和《模特》，是李荣浩首张专辑《模特》里最出名的两首歌。"
+  },
+  {
+    "id": "music-094",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代",
+    "question": "「海浪无声将夜幕深深淹没，漫过天空尽头的角落」这句歌词出自哪首歌？",
+    "options": [
+      "小幸运",
+      "后来的我们",
+      "大鱼",
+      "夜空中最亮的星"
+    ],
+    "correctAnswer": 2,
+    "explanation": "尹约作词、钱雷作曲，周深为动画电影《大鱼海棠》演唱。"
+  },
+  {
+    "id": "music-095",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "10年代",
+    "question": "「该配合你演出的我，演视而不见」出自哪位歌手的歌？",
+    "options": [
+      "许嵩",
+      "毛不易",
+      "李荣浩",
+      "薛之谦"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《演员》由薛之谦自己作词作曲，编曲是郑伟和张宝宇。"
+  },
+  {
+    "id": "music-096",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代",
+    "question": "「一杯敬朝阳，一杯敬月光」出自哪位歌手的歌？",
+    "options": [
+      "宋冬野",
+      "毛不易",
+      "赵雷",
+      "马頔"
+    ],
+    "correctAnswer": 1,
+    "explanation": "毛不易本名王维家，1994年生于黑龙江齐齐哈尔，由腾讯视频《明日之子》出道。"
+  },
+  {
+    "id": "music-097",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "10年代",
+    "question": "「当你走进这欢乐场」，下一句是？",
+    "options": [
+      "三巡酒过你在角落",
+      "各色的脸上各色的妆",
+      "背上所有的梦与想",
+      "没人记得你的模样"
+    ],
+    "correctAnswer": 2,
+    "explanation": "毛不易自己作词作曲，2017年在选秀节目《明日之子》中凭这首歌走红，制作人里还有李健。"
+  },
+  {
+    "id": "music-098",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "10年代",
+    "question": "「我祈祷拥有一颗透明的心灵，和会流泪的眼睛」这句歌词出自哪首歌？",
+    "options": [
+      "夜空中最亮的星",
+      "平凡之路",
+      "成都",
+      "董小姐"
+    ],
+    "correctAnswer": 0,
+    "explanation": "收录于逃跑计划2012年7月的专辑《世界》，当年获得迷笛奖“最佳年度摇滚歌曲”。"
+  },
+  {
+    "id": "music-099",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "10年代",
+    "question": "「我听见雨滴落在青青草地」，下一句是？",
+    "options": [
+      "认真，呼唤我姓名",
+      "我听见远方下课钟声响起",
+      "可是我没有听见你的声音",
+      "爱上你的时候还不懂感情"
+    ],
+    "correctAnswer": 1,
+    "explanation": "徐世珍、吴辉福作词，JerryC作曲，是电影《我的少女时代》的主题曲。"
+  },
+  {
+    "id": "music-100",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "10年代",
+    "question": "「越过山丘，虽然已白了头」，下一句是？",
+    "options": [
+      "越过山丘，才发现无人等候",
+      "就把自己先搞丢",
+      "还未如愿见着不朽",
+      "喋喋不休，时不我予的哀愁"
+    ],
+    "correctAnswer": 3,
+    "explanation": "两段副歌的第一句只差几个字：“虽然已白了头”与“才发现无人等候”，后面接的句子也各不相同，是全曲最容易记混的地方。"
+  }
+]
