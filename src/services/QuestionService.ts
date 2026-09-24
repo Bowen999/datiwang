@@ -89,7 +89,8 @@ export class QuestionService {
   /** 随机抽取题目（含排行榜动态排序题） */
   async getQuestions(opts: GetQuestionsOptions): Promise<QuizQuestion[]> {
     const { categories, difficulty = 'mixed', questionTypes = [], count, excludeIds = [] } = opts;
-    const cats = categories?.length ? categories : (await this.listCategories()).map((c) => c.id);
+    const allCats = (await this.listCategories()).map((c) => c.id);
+    const cats = categories?.length ? categories : allCats.filter((c) => c !== 'examscope');
     const pools = await Promise.all(cats.map((c) => this.getCategoryQuestions(c)));
     let all = pools.flat();
     if (difficulty !== 'mixed') all = all.filter((q) => q.difficulty === difficulty);
