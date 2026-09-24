@@ -1,0 +1,2844 @@
+[
+  {
+    "id": "arts-entertainment-001",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "「你跳，我也跳」——经典爱情片《泰坦尼克号》的导演是谁？",
+    "options": [
+      "史蒂文·斯皮尔伯格",
+      "詹姆斯·卡梅隆",
+      "克里斯托弗·诺兰",
+      "雷德利·斯科特"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《泰坦尼克号》由詹姆斯·卡梅隆执导，1998年在奥斯卡拿下11项大奖；同一套「沉船特效经验」他后来又用在了《阿凡达》的水下拍摄技术探索上。"
+  },
+  {
+    "id": "arts-entertainment-002",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "《肖申克的救赎》里，安迪用来挖地道的小石锤藏在了什么东西里？",
+    "options": [
+      "一幅丽塔·海华丝的海报夹层",
+      "一个象棋盒",
+      "一把旧吉他",
+      "一本挖空的《圣经》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "安迪把石锤藏在挖空的《圣经》里，典狱长查房时还拿起来翻看了却毫无察觉——讽刺的是，救赎之道恰恰就藏在圣经之中。海报是用来遮住墙上洞口的。"
+  },
+  {
+    "id": "arts-entertainment-003",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "奥斯卡史上有一部影片11项提名全部获奖、无一失手，「横扫」纪录至今无人能破，它是哪部？",
+    "options": [
+      "《泰坦尼克号》",
+      "《宾虚》",
+      "《指环王3：王者归来》",
+      "《西区故事》"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《指环王3》在2004年奥斯卡11提11中，命中率100%；《泰坦尼克号》是14提11中，《宾虚》是12提11中，获奖数同为11项但都「丢」了提名。"
+  },
+  {
+    "id": "arts-entertainment-004",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "周星驰的《唐伯虎点秋香》里，唐伯虎混进华府当低等下人，领到的终身编号是多少？",
+    "options": [
+      "8888",
+      "7414",
+      "007",
+      "9527"
+    ],
+    "correctAnswer": 3,
+    "explanation": "编号「9527」从此成了网络流行梗；后来在《逃学威龙》里周星驰的警员编号也是9527，堪称他的御用代号。"
+  },
+  {
+    "id": "arts-entertainment-005",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "周慕云把说不出口的秘密对着吴哥窟的树洞倾诉，再用草封住——这个名场面出自王家卫的哪部电影？",
+    "options": [
+      "《重庆森林》",
+      "《春光乍泄》",
+      "《花样年华》",
+      "《2046》"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《花样年华》结尾，梁朝伟饰演的周慕云远赴柬埔寨吴哥窟，把对苏丽珍的感情说进树洞。梁朝伟凭此片拿下戛纳影帝。"
+  },
+  {
+    "id": "arts-entertainment-006",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "黑泽明的《罗生门》讲述一桩命案四个当事人各说各话，它的主要情节其实改编自芥川龙之介的哪篇小说？",
+    "options": [
+      "《罗生门》",
+      "《竹林中》",
+      "《鼻子》",
+      "《河童》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "电影主体情节取自《竹林中》，只借用了《罗生门》小说的暴雨城门场景做框架——「罗生门」这个词反倒因此成了「真相各执一词」的代名词。"
+  },
+  {
+    "id": "arts-entertainment-007",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "《大话西游》里至尊宝那段经典告白：「如果非要在这份爱上加上一个期限，我希望是——」",
+    "options": [
+      "五百年",
+      "海枯石烂",
+      "生生世世",
+      "一万年"
+    ],
+    "correctAnswer": 3,
+    "explanation": "「曾经有一份真诚的爱情放在我面前……我希望是一万年」这段台词在片中说了两遍，第一次是谎话，第二次是真心，前后对照正是全片泪点。"
+  },
+  {
+    "id": "arts-entertainment-008",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "美剧《权力的游戏》改编自哪套奇幻小说，作者是谁？",
+    "options": [
+      "《冰与火之歌》，乔治·R·R·马丁",
+      "《魔戒》，托尔金",
+      "《时光之轮》，罗伯特·乔丹",
+      "《猎魔人》，安杰伊·萨普科夫斯基"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《权力的游戏》改编自乔治·R·R·马丁的《冰与火之歌》，剧集名其实只取了原著第一卷的书名；小说至今尚未完结，书迷已苦等第六卷多年。"
+  },
+  {
+    "id": "arts-entertainment-009",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "陪伴几代人长大的1986版电视剧《西游记》，总导演是谁？",
+    "options": [
+      "王扶林",
+      "杨洁",
+      "张绍林",
+      "蔡晓晴"
+    ],
+    "correctAnswer": 1,
+    "explanation": "杨洁导演带着一台摄像机、一个特技镜头，历时六年拍出25集《西游记》；王扶林执导的是87版《红楼梦》，两人堪称央视四大名著剧的双壁。"
+  },
+  {
+    "id": "arts-entertainment-010",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "《哈利·波特》系列电影里，戴着圆眼镜、额头有闪电伤疤的哈利是由哪位演员扮演的？",
+    "options": [
+      "鲁伯特·格林特",
+      "汤姆·费尔顿",
+      "丹尼尔·雷德克里夫",
+      "埃迪·雷德梅恩"
+    ],
+    "correctAnswer": 2,
+    "explanation": "丹尼尔·雷德克里夫从11岁演到21岁，八部影片全程出演哈利；鲁伯特·格林特演的是罗恩，汤姆·费尔顿演的是马尔福。"
+  },
+  {
+    "id": "arts-entertainment-011",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "宫崎骏的哪部动画拿下了奥斯卡最佳动画长片奖，还曾是日本影史票房冠军？",
+    "options": [
+      "《龙猫》",
+      "《幽灵公主》",
+      "《天空之城》",
+      "《千与千寻》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《千与千寻》2003年获奥斯卡最佳动画长片，此前还拿了柏林电影节金熊奖——是至今唯一一部同时摘得金熊和奥斯卡的动画电影。"
+  },
+  {
+    "id": "arts-entertainment-012",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "1973年奥斯卡颁奖典礼上，哪位影帝拒绝领奖，并派一位印第安原住民女子上台宣读声明抗议？",
+    "options": [
+      "阿尔·帕西诺",
+      "杰克·尼科尔森",
+      "达斯汀·霍夫曼",
+      "马龙·白兰度"
+    ],
+    "correctAnswer": 3,
+    "explanation": "马龙·白兰度凭《教父》获影帝，却拒领奖以抗议好莱坞对印第安人的丑化；次年阿尔·帕西诺因《教父2》提名时也拒绝出席以示声援。"
+  },
+  {
+    "id": "arts-entertainment-013",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "「臣妾做不到啊！」——《甄嬛传》里从常在一路逆袭成太后的甄嬛，扮演者是谁？",
+    "options": [
+      "蒋欣",
+      "蔡少芬",
+      "周迅",
+      "孙俪"
+    ],
+    "correctAnswer": 3,
+    "explanation": "甄嬛由孙俪饰演；「臣妾做不到啊」其实是蔡少芬饰演的皇后的台词，蒋欣演的华妃则贡献了「贱人就是矫情」——全剧名台词扎堆。"
+  },
+  {
+    "id": "arts-entertainment-014",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "诺兰的《盗梦空间》结尾，柯布转动什么图腾来分辨梦境与现实，而镜头在它倒下前就切黑了？",
+    "options": [
+      "灌铅骰子",
+      "陀螺",
+      "国际象棋棋子",
+      "怀表"
+    ],
+    "correctAnswer": 1,
+    "explanation": "柯布的图腾是陀螺——梦里它会永远转个不停。结尾陀螺似倒未倒时画面戛然而止，「柯布到底回没回到现实」成了影史最著名的开放式结局之一。"
+  },
+  {
+    "id": "arts-entertainment-015",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "迄今唯一摘得戛纳电影节金棕榈大奖的华语电影是哪部？",
+    "options": [
+      "《霸王别姬》",
+      "《活着》",
+      "《花样年华》",
+      "《一一》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "陈凯歌的《霸王别姬》1993年斩获金棕榈；《活着》同年拿了评审团大奖，《花样年华》帮梁朝伟拿了影帝，《一一》则为杨德昌赢得最佳导演。"
+  },
+  {
+    "id": "arts-entertainment-016",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "美剧《老友记》里，六个人几乎每集都要去报到的那家咖啡馆叫什么？",
+    "options": [
+      "中央公园咖啡馆",
+      "星巴克",
+      "莫娜咖啡馆",
+      "中央车站咖啡"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Central Perk（中央公园咖啡馆）那张橙色大沙发是六人的固定座位；现实中纽约并无此店，但布景太火，后来全球开起了多家同名主题咖啡馆。"
+  },
+  {
+    "id": "arts-entertainment-017",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "李安的《卧虎藏龙》在奥斯卡上为华语电影拿下了哪项历史性大奖？",
+    "options": [
+      "最佳影片",
+      "最佳导演",
+      "最佳外语片",
+      "最佳女主角"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《卧虎藏龙》2001年获奥斯卡最佳外语片，是首部获此奖的华语电影，当晚共拿下四座小金人；不过最佳影片和最佳导演都输给了《角斗士》。"
+  },
+  {
+    "id": "arts-entertainment-018",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "希区柯克的《惊魂记》中，那段只有45秒却剪了七天才完成的影史最著名谋杀戏，发生在哪里？",
+    "options": [
+      "旅馆前台",
+      "浴室",
+      "汽车里",
+      "楼梯拐角"
+    ],
+    "correctAnswer": 1,
+    "explanation": "浴室谋杀戏共70多个机位、剪了七天，刀其实从未碰到身体，全靠蒙太奇和尖利弦乐营造惊悚；血浆用的是巧克力糖浆——黑白片里看不出破绽。"
+  },
+  {
+    "id": "arts-entertainment-019",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "「我是想站着，还把钱挣了！」这句硬气台词出自姜文自导自演的哪部电影？",
+    "options": [
+      "《阳光灿烂的日子》",
+      "《鬼子来了》",
+      "《让子弹飞》",
+      "《一步之遥》"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《让子弹飞》里张麻子一手枪一手官印，喊出这句「站着把钱挣了」；影片2010年上映后金句频出，「让子弹飞一会儿」至今仍是网络热梗。"
+  },
+  {
+    "id": "arts-entertainment-020",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "葛优凭哪部电影拿下戛纳影帝，成为中国首位戛纳最佳男演员？该片导演又是谁？",
+    "options": [
+      "《活着》，张艺谋",
+      "《霸王别姬》，陈凯歌",
+      "《大红灯笼高高挂》，张艺谋",
+      "《秋菊打官司》，张艺谋"
+    ],
+    "correctAnswer": 0,
+    "explanation": "葛优凭张艺谋的《活着》在1994年戛纳称帝，是华人第一位戛纳影帝；片中他从纨绔子弟福贵演到白发老人，被评委会赞为「一个时代的缩影」。"
+  },
+  {
+    "id": "arts-entertainment-021",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "1929年第一届奥斯卡金像奖的最佳影片是哪部？",
+    "options": [
+      "《翼》",
+      "《爵士歌王》",
+      "《大都会》",
+      "《将军号》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "首届奥斯卡最佳影片是一战空战片《翼》（Wings），也是唯一获此奖的完全默片；《爵士歌王》虽是首部有声片，但只拿了荣誉奖。"
+  },
+  {
+    "id": "arts-entertainment-022",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "高分韩剧《请回答1988》里，五户邻居的故事发生在首尔的哪条胡同？",
+    "options": [
+      "三清洞",
+      "梨泰院",
+      "双门洞",
+      "明洞"
+    ],
+    "correctAnswer": 2,
+    "explanation": "故事发生在首尔道峰区双门洞的胡同里，「请回答」系列按年代命名，《请回答1988》是评分最高的一部，双门洞五人帮的友情看哭无数观众。"
+  },
+  {
+    "id": "arts-entertainment-023",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "李安是首位两夺奥斯卡最佳导演的华人导演，他获奖的两部影片是？",
+    "options": [
+      "《卧虎藏龙》和《色·戒》",
+      "《断背山》和《少年派的奇幻漂流》",
+      "《卧虎藏龙》和《断背山》",
+      "《饮食男女》和《少年派的奇幻漂流》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "李安2006年凭《断背山》、2013年凭《少年派的奇幻漂流》两获奥斯卡最佳导演；《卧虎藏龙》那年的最佳导演输给了《毒品网络》的索德伯格。"
+  },
+  {
+    "id": "arts-entertainment-024",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "奥斯卡奖杯的官方名称是「学院奖功绩奖」，但大家更爱叫它什么昵称？",
+    "options": [
+      "小金人",
+      "金面具",
+      "金棕榈",
+      "金狮"
+    ],
+    "correctAnswer": 0,
+    "explanation": "奖杯昵称「奥斯卡小金人」，金棕榈是戛纳电影节最高奖，金狮是威尼斯电影节最高奖——下次可别再把它们张冠李戴啦。"
+  },
+  {
+    "id": "arts-entertainment-025",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "电影《阿甘正传》里，那句'人生就像一盒巧克力，你永远不知道下一颗是什么味道'的阿甘，由哪位演员饰演？",
+    "options": [
+      "汤姆·汉克斯",
+      "罗宾·威廉姆斯",
+      "凯文·科斯特纳",
+      "梅尔·吉布森"
+    ],
+    "correctAnswer": 0,
+    "explanation": "汤姆·汉克斯凭这部戏拿下奥斯卡影帝，还是他继1993年《费城故事》后连续第二年蝉联影帝——这是继1930年代的史宾塞·屈塞之后，影史第二位连庄奥斯卡最佳男主角的演员。"
+  },
+  {
+    "id": "arts-entertainment-026",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "长期占据中国影史票房榜首的动作片《战狼2》，是由谁自导自演的？",
+    "options": [
+      "成龙",
+      "吴京",
+      "甄子丹",
+      "林超贤"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《战狼2》2017年上映后狂揽超56亿票房，稳坐中国影史票房冠军宝座多年，后来才被同样有吴京参演的《长津湖》超越。"
+  },
+  {
+    "id": "arts-entertainment-027",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "电影《你好，李焕英》是哪位喜剧演员自编自导自演、用来纪念已故母亲的作品？",
+    "options": [
+      "宋丹丹",
+      "蔡明",
+      "贾玲",
+      "沈腾"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这是贾玲执导的电影处女作，片中沈腾饰演的'沈光林'其实是她特意请来的老搭档客串。影片上映后一度冲上中国影史票房榜前列。"
+  },
+  {
+    "id": "arts-entertainment-028",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "迪士尼动画《狮子王》里，彭彭和丁满的口头禅'Hakuna Matata'是什么意思？",
+    "options": [
+      "勇往直前",
+      "一诺千金",
+      "生生不息",
+      "无忧无虑"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这是一句斯瓦希里语，意思是'没有烦恼'。有意思的是，迪士尼1994年电影上映后不久就申请注册了这个短语的商标，2019年还引发非洲文化维权人士发起请愿抗议。"
+  },
+  {
+    "id": "arts-entertainment-029",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "系列电影《唐人街探案》中，与刘昊然搭档、饰演糊涂又贱萌的侦探'唐仁'的演员是谁？",
+    "options": [
+      "王宝强",
+      "黄渤",
+      "徐峥",
+      "岳云鹏"
+    ],
+    "correctAnswer": 0,
+    "explanation": "王宝强饰演的唐仁自称'唐人街神探'，实际上大部分案子都是刘昊然饰演的秦风破的，这对'猪队友'组合成了系列电影的招牌。"
+  },
+  {
+    "id": "arts-entertainment-030",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "迪士尼动画《疯狂动物城》的主角朱迪·霍普斯，梦想成为动物城第一位什么职业？",
+    "options": [
+      "消防员",
+      "警察",
+      "市长",
+      "律师"
+    ],
+    "correctAnswer": 1,
+    "explanation": "朱迪是兔子家族里第一个当警察的，一路从交通协管员做起。影片里的动物城完全按体型分区设计，连地铁车厢大小都区分'仓鼠区'和'大象区'，细节满满。"
+  },
+  {
+    "id": "arts-entertainment-031",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "Netflix现象级韩剧《鱿鱼游戏》中，为巨额奖金参加生死游戏的456号参赛者、主角成奇勋的扮演者是谁？",
+    "options": [
+      "朴海秀",
+      "许成泰",
+      "李政宰",
+      "孔刘"
+    ],
+    "correctAnswer": 2,
+    "explanation": "李政宰凭这个角色拿下第74届艾美奖剧情类最佳男主角，是首位获得该奖项的亚洲男演员，也是首位凭非英语台词角色获封'视帝'的演员。"
+  },
+  {
+    "id": "arts-entertainment-032",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "电影《我不是药神》里徐峥饰演的程勇，代购的印度仿制药是为了治疗哪种疾病？",
+    "options": [
+      "肺癌",
+      "淋巴瘤",
+      "再生障碍性贫血",
+      "慢性粒细胞白血病"
+    ],
+    "correctAnswer": 3,
+    "explanation": "影片原型是无锡商人陆勇，他自己就是慢粒白血病患者，因正版靶向药太贵才走上代购仿制药之路。电影里的药名'格列宁'，对应现实中的正版药'格列卫'。"
+  },
+  {
+    "id": "arts-entertainment-033",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "周冬雨、易烊千玺主演的电影《少年的你》，聚焦的社会议题是？",
+    "options": [
+      "校园霸凌",
+      "高考压力",
+      "留守儿童",
+      "网络诈骗"
+    ],
+    "correctAnswer": 0,
+    "explanation": "影片上映后带动了全社会对校园霸凌的讨论，周冬雨凭此片同年拿下香港电影金像奖和内地金鸡奖两座影后奖杯，易烊千玺则完成了从偶像到实力派演员的转型。"
+  },
+  {
+    "id": "arts-entertainment-034",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "张艺谋执导的悬疑喜剧电影《满江红》，故事设定在哪个历史时期？",
+    "options": [
+      "北宋灭亡前夕",
+      "南宋，岳飞死后四年",
+      "明朝万历年间",
+      "唐朝安史之乱后"
+    ],
+    "correctAnswer": 1,
+    "explanation": "影片借用南宋岳飞抗金这一历史背景做框架，具体案件和人物却都是虚构的。片名和秦桧、岳飞的历史渊源，也让结尾全体齐诵《满江红》的桥段格外燃。"
+  },
+  {
+    "id": "arts-entertainment-035",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "登顶中国影史票房冠军的电影《长津湖》，取材于抗美援朝战争中的哪场战役？",
+    "options": [
+      "上甘岭战役",
+      "松骨峰战役",
+      "长津湖战役",
+      "铁原阻击战"
+    ],
+    "correctAnswer": 2,
+    "explanation": "长津湖战役发生在1950年冬季的极寒天气中，志愿军战士很多冻死在阵地上仍保持战斗姿势——电影里的'冰雕连'情节正是取材于此。"
+  },
+  {
+    "id": "arts-entertainment-036",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "《人在囧途之泰囧》中，徐峥和王宝强为了寻找一张配方，一路追到了哪个国家？",
+    "options": [
+      "新加坡",
+      "马来西亚",
+      "越南",
+      "泰国"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《泰囧》2012年上映后以12.67亿票房刷新当时的中国影史纪录，也带火了泰国清迈的旅游热潮，很多游客专门去打卡电影取景地。"
+  },
+  {
+    "id": "arts-entertainment-037",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "国产动画电影《大鱼海棠》的世界观设定，灵感来自庄子《逍遥游》中的哪句话？",
+    "options": [
+      "「北冥有鱼，其名为鲲」",
+      "「夏虫不可语冰」",
+      "「子非鱼，安知鱼之乐」",
+      "「庖丁解牛」"
+    ],
+    "correctAnswer": 0,
+    "explanation": "导演梁旋说这个故事的雏形来自他做过的一个梦：得到一条不断长大的鱼，最后只能放归大海。他联想到两千多年前庄子或许做过同样的梦，于是有了这部酝酿12年的作品。"
+  },
+  {
+    "id": "arts-entertainment-038",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "张艺谋与巩俐合作的经典电影《大红灯笼高高挂》，改编自作家苏童的哪部小说？",
+    "options": [
+      "《米》",
+      "《妻妾成群》",
+      "《红粉》",
+      "《河岸》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "影片把小说里江南水乡的故事搬到了北方深宅大院，'点灯''封灯''捶脚'等仪式感十足的规矩，其实都是电影自己发明的，小说里并没有。"
+  },
+  {
+    "id": "arts-entertainment-039",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "热播悬疑网剧《白夜追凶》中，潘粤明一人分饰两角，饰演的关宏峰和关宏宇是什么关系？",
+    "options": [
+      "师徒",
+      "仇人",
+      "双胞胎兄弟",
+      "上下级"
+    ],
+    "correctAnswer": 2,
+    "explanation": "哥哥关宏峰是刑警队长却患有'黑夜恐惧症'，只能白天办案；弟弟关宏宇则在夜里'顶替'哥哥上班，兄弟俩一明一暗破案，豆瓣评分一度高达9.0。"
+  },
+  {
+    "id": "arts-entertainment-040",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "《星球大战5：帝国反击战》里，那句被误传成'Luke, I am your father'的经典台词，达斯·维达实际说的原句其实并不包含哪个词？",
+    "options": [
+      "am",
+      "father",
+      "I",
+      "Luke"
+    ],
+    "correctAnswer": 3,
+    "explanation": "维达的原话其实是'No, I am your father'，压根没提卢克的名字。这个以讹传讹的案例太出名，还被《纽约客》评为影史头号误传台词。"
+  },
+  {
+    "id": "arts-entertainment-041",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "电影《阿凡达》里，潘多拉星球上那个身材高大、皮肤呈蓝色的外星原住民种族叫什么？",
+    "options": [
+      "纳美人（Na'vi）",
+      "克林贡人",
+      "阿凡达人",
+      "蓝血人"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'纳美语'是卡梅隆专门请语言学家从零设计的人造语言，词汇量超过千个，还有自己的语法规则，堪称电影界最较真的世界观搭建之一。"
+  },
+  {
+    "id": "arts-entertainment-042",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "《复仇者联盟4：终局之战》里，钢铁侠戴上无限手套牺牲自己前说出的最后一句台词是？",
+    "options": [
+      "We are Groot",
+      "I am Iron Man",
+      "This is the end game",
+      "Avengers, assemble"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这句话恰好呼应了2008年第一部《钢铁侠》里托尼首次公开身份时说的同一句台词，首尾呼应用了11年，被影迷称为最催泪的注脚。"
+  },
+  {
+    "id": "arts-entertainment-043",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "电影《楚门的世界》结尾，楚门走到摄影棚尽头，推开一扇写着什么字的门，走向真实世界？",
+    "options": [
+      "FREE",
+      "OPEN",
+      "EXIT",
+      "END"
+    ],
+    "correctAnswer": 2,
+    "explanation": "推门前他对着摄像机鞠躬说'以防我再也见不到你们，祝你们早安、午安、晚安'——这句话是他从小到大打招呼的口头禅，此刻听来格外唏嘘。"
+  },
+  {
+    "id": "arts-entertainment-044",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "《这个杀手不太冷》中，独来独往的杀手里昂随身携带、视若挚友的是一盆什么？",
+    "options": [
+      "怀表",
+      "口琴",
+      "一张旧照片",
+      "绿植盆栽"
+    ],
+    "correctAnswer": 3,
+    "explanation": "里昂说这盆植物是他'最好的朋友'，因为它没有根、没有过去，需要人照顾却从不抱怨，恰好照见了他自己漂泊无依的处境。"
+  },
+  {
+    "id": "arts-entertainment-045",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "根据真实故事改编的《忠犬八公的故事》，讲的是秋田犬在主人去世后，仍然每天准时到哪里等待主人归来？",
+    "options": [
+      "火车站",
+      "公园长椅",
+      "家门口",
+      "主人办公室"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这个故事原型是日本秋田犬八公，从1925年主人去世后，它风雨无阻在涩谷站等了近十年，如今涩谷站外还立着它的铜像，成了热门约会地标。"
+  },
+  {
+    "id": "arts-entertainment-046",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "韩国电影《熔炉》根据真实的聋哑学校性侵案改编，上映后引发的舆论直接推动了法律修订，因此被网友称为？",
+    "options": [
+      "素媛法",
+      "熔炉法",
+      "阳光法案",
+      "护苗法"
+    ],
+    "correctAnswer": 1,
+    "explanation": "电影2011年上映，连时任总统都去看了，之后韩国国会以207票赞成通过修订案，取消了对残障人士性暴力犯罪的追诉时效限制，被称为'熔炉法'。"
+  },
+  {
+    "id": "arts-entertainment-047",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "2023年电视剧版《三体》中，饰演物理学家汪淼的演员是谁？",
+    "options": [
+      "于和伟",
+      "王传君",
+      "张鲁一",
+      "黄渤"
+    ],
+    "correctAnswer": 2,
+    "explanation": "张鲁一在剧中饰演物理学家汪淼，于和伟则饰演刑警史强，两人的组合被观众称为'科幻版的名侦探搭档'。这部剧也是刘慈欣原著首次被改编成国产电视剧。"
+  },
+  {
+    "id": "arts-entertainment-048",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "热播剧《隐秘的角落》中，那句让全网细思极恐的'一起爬山吗'，是剧中哪个角色说的？",
+    "options": [
+      "朱朝阳",
+      "严良",
+      "普普",
+      "张东升"
+    ],
+    "correctAnswer": 3,
+    "explanation": "秦昊饰演的张东升在爬山时把岳父岳母推下悬崖，这句看似平常的邀请从此成了年度最细思极恐的台词，衍生出无数表情包和玩梗视频。"
+  },
+  {
+    "id": "arts-entertainment-049",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "贝多芬指挥《第九交响曲》首演时，因为已完全失聪，演出结束后他是怎么发现全场起立鼓掌的？",
+    "options": [
+      "女低音歌手拉他转身面对观众",
+      "乐队用力跺脚提醒他",
+      "有人举牌子告诉他",
+      "他看见观众席灯光闪烁"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1824年这场首演，贝多芬其实只是名义上「协助指挥」，全靠另一位指挥掌控节奏；曲终时他浑然不觉，直到女低音歌手轻拉他的手转过身，他才看见全场起立挥帽鼓掌的场面。"
+  },
+  {
+    "id": "arts-entertainment-050",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "贝多芬的《英雄交响曲》原本要题献给他心中的英雄，后来因对方称帝而愤怒撕毁了献词页，这个人是谁？",
+    "options": [
+      "拿破仑",
+      "威灵顿公爵",
+      "亚历山大一世",
+      "弗朗茨二世"
+    ],
+    "correctAnswer": 0,
+    "explanation": "贝多芬曾把拿破仑视为革命理想的化身，写下「献给波拿巴」；得知拿破仑称帝后，他勃然大怒，把封面撕成两半扔在地上，把标题改成了《纪念一位伟人》。"
+  },
+  {
+    "id": "arts-entertainment-051",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "莫扎特写出人生第一部交响曲的时候，年仅几岁？",
+    "options": [
+      "5岁",
+      "8岁",
+      "12岁",
+      "15岁"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1764年，还不满9岁的莫扎特在伦敦写下降E大调《第一交响曲》K.16，风格明显模仿巴赫，当时甚至有学者专门对他做了一系列测试，才确认这真是他自己写的。"
+  },
+  {
+    "id": "arts-entertainment-052",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "写出小提琴协奏曲《四季》的巴洛克作曲家维瓦尔第，还有一个特殊身份是？",
+    "options": [
+      "天主教神父",
+      "宫廷御医",
+      "造船工匠",
+      "威尼斯总督"
+    ],
+    "correctAnswer": 0,
+    "explanation": "维瓦尔第因一头红发被人称作「红发神父」，25岁受神职，后来因哮喘辞去主持弥撒的工作，转而专心作曲，一生写下了近五百首协奏曲。"
+  },
+  {
+    "id": "arts-entertainment-053",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "被称为「音乐之父」的巴赫，一生大约有多少个子女？",
+    "options": [
+      "约5个",
+      "约10个",
+      "约20个",
+      "约30个"
+    ],
+    "correctAnswer": 2,
+    "explanation": "巴赫的两任妻子先后为他生下约20个孩子，但受限于当时的医疗条件，只有约一半活到成年，其中还有4个儿子后来也成了知名的音乐家。"
+  },
+  {
+    "id": "arts-entertainment-054",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "波兰音乐家肖邦客死巴黎后，遵照遗愿被秘密运回华沙、如今嵌在教堂石柱里的身体部位是？",
+    "options": [
+      "心脏",
+      "一缕头发",
+      "右手",
+      "大脑"
+    ],
+    "correctAnswer": 0,
+    "explanation": "肖邦临终前留下「心脏必须归根」的遗言，他的心脏被泡在酒精里，由姐姐偷偷带回波兰，如今就封存在华沙圣十字教堂的一根石柱中。"
+  },
+  {
+    "id": "arts-entertainment-055",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "柴可夫斯基《1812序曲》在一些户外演出中，会动用一种交响乐团编制里极罕见的「乐器」来制造声效，是什么？",
+    "options": [
+      "真的大炮",
+      "教堂大钟",
+      "火车汽笛",
+      "军队礼炮"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首曲子是为纪念俄国击退拿破仑入侵而作，气势磅礴的结尾部分，不少演出真的会动用大炮配合乐团一起「演奏」，堪称古典乐里最「壕」的音效。"
+  },
+  {
+    "id": "arts-entertainment-056",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "拉威尔的《波莱罗舞曲》全曲十几分钟反复演奏同一段旋律，主要靠什么手法制造出强烈的听觉冲击？",
+    "options": [
+      "不断变调转调",
+      "持续的力度渐强",
+      "反复加快演奏速度",
+      "不断更换拍号"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《波莱罗》从几乎听不见的极弱一路渐强到极强，同一段旋律被不同乐器反复演奏了十几遍，拉威尔本人还开玩笑说这首曲子「没有音乐，只有配器」。"
+  },
+  {
+    "id": "arts-entertainment-057",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "制作小提琴的「神级」品牌斯特拉迪瓦里，其工坊所在的意大利小镇叫什么？",
+    "options": [
+      "威尼斯",
+      "克雷莫纳",
+      "佛罗伦萨",
+      "米兰"
+    ],
+    "correctAnswer": 1,
+    "explanation": "克雷莫纳至今仍是全球小提琴制作圣地，安东尼奥·斯特拉迪瓦里一生制作了约1100件乐器，现存约650件，每一把如今的市值都是天文数字。"
+  },
+  {
+    "id": "arts-entertainment-058",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "亨德尔清唱剧《弥赛亚》中的《哈利路亚大合唱》响起时，观众常常会自发做出什么举动？",
+    "options": [
+      "集体起立",
+      "挥舞白手帕",
+      "集体鼓掌打拍子",
+      "闭眼默祷"
+    ],
+    "correctAnswer": 0,
+    "explanation": "相传1743年英王乔治二世听到此曲时感动起身，全场随之站立，这个传统延续至今，不过史学家至今也没能证实国王那天真的在场。"
+  },
+  {
+    "id": "arts-entertainment-059",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "公认的世界第一部歌剧《达芙妮》诞生于1598年，改编自哪个希腊神话故事？",
+    "options": [
+      "阿波罗追求达芙妮",
+      "俄耳甫斯下地府",
+      "特洛伊木马",
+      "潘多拉的盒子"
+    ],
+    "correctAnswer": 0,
+    "explanation": "作曲家雅各布·佩里为了这部戏发明了「半念半唱」的宣叙调唱法，可惜这部开山之作的乐谱大多已经失传，两年后他和同一位编剧合作的《尤丽迪茜》才是现存最早的完整歌剧。"
+  },
+  {
+    "id": "arts-entertainment-060",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "1877年，爱迪生用留声机录下人类历史上第一段可回放的声音，他当时对着话筒唱的是什么？",
+    "options": [
+      "《玛丽有只小羊羔》",
+      "生日祝福歌",
+      "美国国歌",
+      "随口报的一串数字"
+    ],
+    "correctAnswer": 0,
+    "explanation": "爱迪生摇动曲柄，对着受话机念唱了这首英语童谣，短短几秒钟的声音成了世界录音史上的第一声，外界当时甚至称他为「科学界的拿破仑」。"
+  },
+  {
+    "id": "arts-entertainment-061",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "标准钢琴的键盘一共有多少个琴键？",
+    "options": [
+      "76个",
+      "85个",
+      "88个",
+      "96个"
+    ],
+    "correctAnswer": 2,
+    "explanation": "88键（52个白键+36个黑键）的配置从19世纪末逐渐成为钢琴制造业的标准，覆盖超过7个八度，几乎能弹出人耳可辨的大部分音高。"
+  },
+  {
+    "id": "arts-entertainment-062",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "小提琴一共有几根弦？",
+    "options": [
+      "3根",
+      "4根",
+      "5根",
+      "6根"
+    ],
+    "correctAnswer": 1,
+    "explanation": "小提琴四根弦由低到高依次是G、D、A、E，音域跨度不算大，却能靠揉弦和运弓拉出极富穿透力的高音，因此常被称为「弦乐之王」。"
+  },
+  {
+    "id": "arts-entertainment-063",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "吉他标准调音里，最粗的一根弦和最细的一根弦，音名其实是一样的，都是哪个音？",
+    "options": [
+      "E",
+      "A",
+      "G",
+      "C"
+    ],
+    "correctAnswer": 0,
+    "explanation": "标准调音从粗到细依次是E-A-D-G-B-E，首尾两根弦粗细天差地别，音名却都是E，只是相差了整整两个八度。"
+  },
+  {
+    "id": "arts-entertainment-064",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "萨克斯风常被误认为是铜管乐器，但因为吹嘴使用单簧片发声，在乐器分类上其实属于？",
+    "options": [
+      "木管乐器",
+      "铜管乐器",
+      "打击乐器",
+      "弦乐器"
+    ],
+    "correctAnswer": 0,
+    "explanation": "萨克斯风由比利时人阿道夫·萨克斯于19世纪40年代发明，是极少数以发明者名字命名的乐器；管身虽是黄铜，但发声原理靠簧片震动，所以学术上归为木管乐器。"
+  },
+  {
+    "id": "arts-entertainment-065",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "do、re、mi……这套唱名法最早来自中世纪一首赞美诗，发明者是哪位意大利音乐家？",
+    "options": [
+      "圭多·达雷佐",
+      "帕莱斯特里那",
+      "蒙特威尔第",
+      "乔斯坎"
+    ],
+    "correctAnswer": 0,
+    "explanation": "11世纪的圭多发现《圣约翰赞美诗》每句歌词开头的音节音高恰好依次升高，就摘出这些音节当唱名，17世纪后不好唱的「Ut」才被换成了更顺口的「Do」。"
+  },
+  {
+    "id": "arts-entertainment-066",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "交响乐团演出前统一调音时，通常由哪件乐器先吹出基准音A？",
+    "options": [
+      "双簧管",
+      "长笛",
+      "单簧管",
+      "小提琴"
+    ],
+    "correctAnswer": 0,
+    "explanation": "双簧管音色穿透力强、泛音丰富，其他乐器很容易「对上」它的音高，因此几百年来一直是整个管弦乐团调音时的「标准音叉」。"
+  },
+  {
+    "id": "arts-entertainment-067",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "小提琴大师帕格尼尼技巧惊人到什么程度，以至于当时坊间盛传他把灵魂出卖给了谁？",
+    "options": [
+      "魔鬼",
+      "教皇",
+      "国王",
+      "精灵"
+    ],
+    "correctAnswer": 0,
+    "explanation": "帕格尼尼超凡的演奏技巧让19世纪的欧洲观众瞠目结舌，各种「他和魔鬼签了契约」的传言四起，甚至有人说他杀人后用肠子做了琴弦，其实他只是把练习曲练到了极致。"
+  },
+  {
+    "id": "arts-entertainment-068",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "打击乐器里，定音鼓（Timpani）有一点和小军鼓、大鼓不太一样，是什么？",
+    "options": [
+      "可以像旋律乐器一样调出明确音高",
+      "是唯一用手直接拍打的鼓",
+      "必须两个人一起演奏",
+      "不需要用鼓槌敲击"
+    ],
+    "correctAnswer": 0,
+    "explanation": "定音鼓的鼓面可以通过脚踏板改变张力，从而拉出明确的音高，作曲家甚至会在总谱里专门给它标出具体音符，这在打击乐器里相当少见。"
+  },
+  {
+    "id": "arts-entertainment-069",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "邓丽君的经典金曲《甜蜜蜜》，最早收录于她哪一年发行的专辑中？",
+    "options": [
+      "1975年",
+      "1979年",
+      "1983年",
+      "1989年"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这首歌1979年先在台湾发行，同年底又被香港宝丽金公司收进专辑《甜蜜蜜》，当年就卖出超过百万张，拿下三张白金唱片。"
+  },
+  {
+    "id": "arts-entertainment-070",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "被称为「中国摇滚之父」的崔健，是在哪一年首唱《一无所有》，被视为中国摇滚诞生的时刻？",
+    "options": [
+      "1984年",
+      "1986年",
+      "1990年",
+      "1994年"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1986年5月9日，25岁的崔健在北京工人体育馆「让世界充满爱」演唱会上吼出这首歌，台下观众先是愣住，随即被彻底点燃。"
+  },
+  {
+    "id": "arts-entertainment-071",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "华语乐坛「四大天王」的封号，1992年最早是由香港哪家媒体率先叫响的？",
+    "options": [
+      "《东方日报》",
+      "《明报》",
+      "《壹周刊》",
+      "《南华早报》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《东方日报》借用佛教「四大天王」的说法，把刘德华、张学友、黎明、郭富城封为乐坛新一代领军人物，据说四人起初其实并不太想要这个称号。"
+  },
+  {
+    "id": "arts-entertainment-072",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "1988年，香港歌手谭咏麟做出一个此后坚持了几十年的决定，是什么？",
+    "options": [
+      "不再领取竞争性音乐奖项",
+      "不再举办演唱会",
+      "不再接受媒体采访",
+      "不再发行新专辑"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1987年「十大金曲」颁奖礼上一段插曲之后，谭咏麟宣布此后退出所有竞争性奖项的角逐，把机会留给年轻歌手，即便后来仍有资格获奖，他也一概不再领取。"
+  },
+  {
+    "id": "arts-entertainment-073",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "周杰伦的成名曲《双截棍》收录在他哪张专辑里，开创了华语乐坛「中国风」的先河？",
+    "options": [
+      "《范特西》",
+      "《叶惠美》",
+      "《七里香》",
+      "《十一月的萧邦》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《双截棍》由周杰伦自己作曲、方文山填词，收录在2001年发行的第二张专辑《范特西》里，灵感来自他从小就爱看的中国武打片。"
+  },
+  {
+    "id": "arts-entertainment-074",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "周杰伦很多充满古典意象的歌词，比如《青花瓷》《菊花台》，主要出自哪位词人之手？",
+    "options": [
+      "方文山",
+      "林夕",
+      "黄伟文",
+      "姚若龙"
+    ],
+    "correctAnswer": 0,
+    "explanation": "方文山和周杰伦从2000年前后就开始长期合作，把古诗词的意境揉进流行歌词，两人的组合被认为是华语「中国风」歌曲的开创者之一。"
+  },
+  {
+    "id": "arts-entertainment-075",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "被视为华语乐坛最高荣誉之一的台湾「金曲奖」，第一届是哪一年举办的？",
+    "options": [
+      "1985年",
+      "1990年",
+      "1995年",
+      "2000年"
+    ],
+    "correctAnswer": 1,
+    "explanation": "首届金曲奖于1990年由台湾「行政院新闻局」主办，最初更像是鼓励原创词曲的官方奖项，之后才逐渐演变成整个华语乐坛的年度盛典。"
+  },
+  {
+    "id": "arts-entertainment-076",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "李宗盛的名曲《山丘》，从写好旋律到最终填完词发行，前后经历了多少年？",
+    "options": [
+      "3年",
+      "5年",
+      "10年",
+      "20年"
+    ],
+    "correctAnswer": 2,
+    "explanation": "旋律早在2003年李宗盛旅居上海时就已经写好，直到2013年他才把歌词填完发行，因此《山丘》常被乐迷称为「十年磨一首歌」。"
+  },
+  {
+    "id": "arts-entertainment-077",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "台湾乐团五月天的主唱「阿信」，本名叫什么？",
+    "options": [
+      "陈信宏",
+      "蔡昇晏",
+      "石锦航",
+      "温尚翊"
+    ],
+    "correctAnswer": 0,
+    "explanation": "五月天五名成员分别是主唱阿信（陈信宏）、吉他手怪兽（温尚翊）和石头（石锦航）、贝斯手玛莎（蔡昇晏）、鼓手冠佑（刘冠佑）。"
+  },
+  {
+    "id": "arts-entertainment-078",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "罗大佑那首人人传唱的《童年》，最早其实是由哪位歌手率先唱红发行的？",
+    "options": [
+      "张艾嘉",
+      "齐豫",
+      "潘越云",
+      "蔡琴"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《童年》由罗大佑作词作曲，1981年先出现在张艾嘉的专辑里，直到1982年罗大佑才把自己演唱的版本，收进了他的首张专辑《之乎者也》。"
+  },
+  {
+    "id": "arts-entertainment-079",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "陈奕迅的经典金曲《十年》，创作顺序其实和大多数流行歌不太一样，是怎么完成的？",
+    "options": [
+      "先有林夕写好的词，作曲人再据词谱曲",
+      "先有编曲小样，再填词谱旋律",
+      "先写好副歌，再补主歌旋律",
+      "歌词和旋律由两拨人同时各写一半"
+    ],
+    "correctAnswer": 0,
+    "explanation": "通常流行歌是先谱曲再填词，但《十年》反过来——作曲人陈小霞是拿到林夕已经写好的歌词，花了两个晚上才把旋律谱出来。"
+  },
+  {
+    "id": "arts-entertainment-080",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "2023年，刀郎凭一首歌引爆全网热议，歌名和创作灵感直接来自《聊斋志异》里的哪一篇？",
+    "options": [
+      "《罗刹海市》",
+      "《画皮》",
+      "《婴宁》",
+      "《聂小倩》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首歌收录在刀郎的概念专辑《山歌寥哉》里，专辑名「寥哉」谐音「聊斋」，歌词直接借用了蒲松龄笔下「以丑为美、黑白颠倒」的罗刹国设定。"
+  },
+  {
+    "id": "arts-entertainment-081",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "汪峰成名之前，是哪支摇滚乐队的主唱，乐队的名字后来也成了他歌词里常怀念的对象？",
+    "options": [
+      "鲍家街43号",
+      "唐朝乐队",
+      "黑豹乐队",
+      "零点乐队"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1994年，汪峰在中央音乐学院组建了「鲍家街43号」乐队，直接用学校所在的街道命名；多年北漂的苦日子，后来都写进了他2009年的名曲《春天里》。"
+  },
+  {
+    "id": "arts-entertainment-082",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "在华语乐坛，被乐迷公认拿下「歌神」称号的代表歌手是谁？",
+    "options": [
+      "张学友",
+      "谭咏麟",
+      "许冠杰",
+      "罗文"
+    ],
+    "correctAnswer": 0,
+    "explanation": "张学友凭借扎实的唱功和大量情歌代表作赢得「歌神」美誉，他的专辑《吻别》至今仍是华语唱片销量的标杆之一。"
+  },
+  {
+    "id": "arts-entertainment-083",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "香港摇滚乐队Beyond的主唱黄家驹，1993年在哪座城市的一次舞台意外中不幸离世？",
+    "options": [
+      "东京",
+      "首尔",
+      "新加坡",
+      "曼谷"
+    ],
+    "correctAnswer": 0,
+    "explanation": "黄家驹在东京富士电视台录制一档综艺节目时，从舞台上意外跌落重伤，六天后不治，年仅31岁；他生前完成的最后一张专辑《乐与怒》，正收录着后来传唱两岸三地的《海阔天空》。"
+  },
+  {
+    "id": "arts-entertainment-084",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "周杰伦以个人名义发行的第一张专辑，是在哪一年发行的？",
+    "options": [
+      "1999年",
+      "2000年",
+      "2001年",
+      "2003年"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这张同名专辑《Jay》于2000年11月发行，全碟作曲都由周杰伦自己包办，正式开启了他此后二十多年的华语乐坛传奇。"
+  },
+  {
+    "id": "arts-entertainment-085",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "1996年，王菲登上美国《时代周刊》封面，成为第一位获此殊荣的什么身份的华人？",
+    "options": [
+      "华语歌手",
+      "华语演员",
+      "华人导演",
+      "华人运动员"
+    ],
+    "correctAnswer": 0,
+    "explanation": "那期《时代周刊》称她为「流行乐女王」，王菲是继巩俐之后第二位登上该杂志封面的华人明星，却是第一位以歌手身份登上封面的华语艺人。"
+  },
+  {
+    "id": "arts-entertainment-086",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "1964年，披头士乐队首次登上美国电视，是在哪个王牌节目上？",
+    "options": [
+      "《埃德·沙利文秀》",
+      "《今夜秀》",
+      "《周六夜现场》",
+      "《美国偶像》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "那场演出吸引了超过7000万美国观众收看，直接点燃了席卷全美的「披头士狂热」，而当时《周六夜现场》和《美国偶像》其实都还没诞生。"
+  },
+  {
+    "id": "arts-entertainment-087",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "公认的「史上销量最高专辑」，是迈克尔·杰克逊哪一张专辑？",
+    "options": [
+      "《Thriller》",
+      "《Bad》",
+      "《Dangerous》",
+      "《Off the Wall》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1982年发行的《Thriller》全球销量超过7000万张，同名歌曲长达13分钟的「僵尸舞」MV，至今仍是流行文化里最出圈的音乐录影带之一。"
+  },
+  {
+    "id": "arts-entertainment-088",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "皇后乐队主唱Freddie Mercury的本名其实并不是英文名，他出生时叫什么？",
+    "options": [
+      "法鲁克·布尔萨拉",
+      "法里德·哈基米",
+      "阿里·侯赛因",
+      "纳赛尔·侯赛尼"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mercury出生于东非桑给巴尔的一个帕西裔家庭，原名法鲁克·布尔萨拉，组建Queen乐队前后，他才把姓氏正式改成了更好记的「Mercury」。"
+  },
+  {
+    "id": "arts-entertainment-089",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "皇后乐队神曲《波西米亚狂想曲》在歌曲结构上有一点非常特别，几乎不符合流行歌曲惯例，是什么？",
+    "options": [
+      "全曲没有一句真正的副歌",
+      "全曲完全没有歌词",
+      "从头到尾只用一件乐器伴奏",
+      "全程没有鼓点"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首近6分钟的歌融合了叙事、无伴奏合唱、模拟歌剧、硬摇滚等好几段风格迥异的段落，却始终没有传统意义上重复的副歌，唱片公司一度认为它「太长太怪」不适合当单曲。"
+  },
+  {
+    "id": "arts-entertainment-090",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "瑞典组合ABBA凭哪首歌拿下1974年欧洲歌唱大赛冠军，从此走红全球？",
+    "options": [
+      "《Waterloo》",
+      "《Mamma Mia》",
+      "《Dancing Queen》",
+      "《SOS》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《Waterloo》让ABBA一炮而红，这首歌后来在欧洲歌唱大赛50周年纪念评选中，还被选为大赛史上最佳参赛歌曲。"
+  },
+  {
+    "id": "arts-entertainment-091",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "2016年，哪位民谣/摇滚歌手意外拿下了诺贝尔文学奖？",
+    "options": [
+      "鲍勃·迪伦",
+      "保罗·西蒙",
+      "伦纳德·科恩",
+      "尼尔·扬"
+    ],
+    "correctAnswer": 0,
+    "explanation": "评委会给出的理由是「在伟大的美国歌曲传统中创造了新的诗意表达」，迪伦也成了音乐人拿下诺贝尔文学奖的第一人。"
+  },
+  {
+    "id": "arts-entertainment-092",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "1991年，哪张专辑的爆红把「垃圾摇滚」（grunge）带向了主流舞台？",
+    "options": [
+      "Nirvana乐队《Nevermind》",
+      "Pearl Jam《Ten》",
+      "Soundgarden《Badmotorfinger》",
+      "Alice in Chains《Dirt》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "主打歌《Smells Like Teen Spirit》的歌名，其实来自寇特·柯本一位朋友随口提到的除臭剂品牌，柯本本人写歌时根本没意识到这个梗。"
+  },
+  {
+    "id": "arts-entertainment-093",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "1969年那场被称为「三天和平与音乐」的传奇音乐节叫什么名字？",
+    "options": [
+      "伍德斯托克音乐节",
+      "科切拉音乐节",
+      "格拉斯顿伯里音乐节",
+      "蒙特雷流行音乐节"
+    ],
+    "correctAnswer": 0,
+    "explanation": "音乐节其实并未办在伍德斯托克镇上，而是纽约州一个奶牛农场，却涌入近50万观众，冒着雨席地而坐听完了三天演出。"
+  },
+  {
+    "id": "arts-entertainment-094",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "被称为「音乐界奥斯卡」的格莱美奖，第一届颁奖礼是在哪一年举行的？",
+    "options": [
+      "1949年",
+      "1959年",
+      "1969年",
+      "1979年"
+    ],
+    "correctAnswer": 1,
+    "explanation": "首届格莱美颁奖礼于1959年5月在洛杉矶举行，当时只设了二十多个奖项类别，如今已经扩展到上百个门类。"
+  },
+  {
+    "id": "arts-entertainment-095",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "1981年美国音乐电视台MTV正式开播，播出的第一支音乐录影带来自哪首歌？",
+    "options": [
+      "《Video Killed the Radio Star》",
+      "《Thriller》",
+      "《Billie Jean》",
+      "《Like a Virgin》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首歌由英国乐队The Buggles演唱，「视频杀死了广播明星」这个歌名，仿佛提前预言了MTV时代给整个音乐行业带来的巨变。"
+  },
+  {
+    "id": "arts-entertainment-096",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "被称为「摇滚乐之王」（King of Rock and Roll）的美国歌手是谁？",
+    "options": [
+      "埃尔维斯·普雷斯利",
+      "查克·贝里",
+      "小理查德",
+      "巴迪·霍利"
+    ],
+    "correctAnswer": 0,
+    "explanation": "猫王把乡村、蓝调、福音等风格融合在一起，标志性的胯部摇摆舞台动作在1950年代曾被保守媒体骂上电视，反而让他更加走红。"
+  },
+  {
+    "id": "arts-entertainment-097",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "滚石乐队金曲《(I Can't Get No) Satisfaction》标志性的吉他前奏，据基思·理查兹自己说是怎么诞生的？",
+    "options": [
+      "睡梦中弹出后录在床边磁带机上",
+      "在录音棚里灵光乍现即兴弹出",
+      "为了给女友写情歌反复试出来的",
+      "乐队集体讨论了一整周才敲定"
+    ],
+    "correctAnswer": 0,
+    "explanation": "理查兹回忆，他半夜迷迷糊糊弹出这段前奏、录进床头的磁带机后倒头又睡；第二天早上倒带一听，前面是三十秒的经典riff，后面跟着将近一小时的呼噜声。"
+  },
+  {
+    "id": "arts-entertainment-098",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "Pink Floyd经典概念专辑《The Wall》的构思，最初来自主唱罗杰·沃特斯在巡演时的什么感受？",
+    "options": [
+      "对喧闹观众感到疏离甚至愤怒，萌生了筑一堵墙的念头",
+      "被唱片公司要求专辑主题必须是战争",
+      "梦到自己被困在墙后面",
+      "参观柏林墙后深受触动"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1977年巡演期间，沃特斯对体育场里嘈杂失控的观众越来越感到疏离甚至愤怒，萌生了「在乐队和观众之间砌一堵墙」的念头，这个意象后来发展成了整张概念专辑。"
+  },
+  {
+    "id": "arts-entertainment-099",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "欧洲歌唱大赛（Eurovision）第一届是在哪一年举办的？",
+    "options": [
+      "1951年",
+      "1956年",
+      "1962年",
+      "1968年"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1956年首届欧洲歌唱大赛在瑞士卢加诺举行，最初只有7个国家参赛，如今已发展成全球收视率最高的音乐赛事之一，ABBA就是从这里一战成名的。"
+  },
+  {
+    "id": "arts-entertainment-100",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "1970年披头士解散，公开宣布退出乐队、成为解散导火索的第一人是谁？",
+    "options": [
+      "保罗·麦卡特尼",
+      "约翰·列侬",
+      "乔治·哈里森",
+      "林戈·斯塔尔"
+    ],
+    "correctAnswer": 0,
+    "explanation": "其实列侬早在1969年9月就已私下向队友摊牌想退出，但他同意暂不公开；直到1970年4月麦卡特尼借发布个人首张专辑之机公开宣布单飞，这才成了媒体眼中「披头士解散」的正式时刻。"
+  },
+  {
+    "id": "arts-entertainment-101",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "艾尔顿·约翰的很多经典歌词，比如《Your Song》《Rocket Man》，其实主要出自谁的手笔？",
+    "options": [
+      "伯尼·陶宾",
+      "比利·乔尔",
+      "保罗·西蒙",
+      "埃尔维斯·科斯特洛"
+    ],
+    "correctAnswer": 0,
+    "explanation": "伯尼·陶宾从1960年代末就和艾尔顿·约翰搭档至今，通常是他先写好词、约翰再谱曲，这对搭档合作了半个多世纪，创作时却极少同处一室。"
+  },
+  {
+    "id": "arts-entertainment-102",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "1985年的慈善演唱会Live Aid上，哪支乐队的表现后来常被评为「史上最伟大的摇滚现场演出」？",
+    "options": [
+      "Queen",
+      "U2",
+      "The Who",
+      "Led Zeppelin"
+    ],
+    "correctAnswer": 0,
+    "explanation": "皇后乐队在伦敦温布利体育场的这场演出，主唱Freddie Mercury一人就能带动7万观众跟着拍手大合唱，2005年一项行业评选把它评为「史上最佳摇滚现场」。"
+  },
+  {
+    "id": "arts-entertainment-103",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "近几年Taylor Swift把自己早期专辑逐一重新录制发行，这些新版本专辑名字后面都会加上什么后缀？",
+    "options": [
+      "(Taylor's Version)",
+      "(Remastered)",
+      "(Deluxe)",
+      "(Reloaded)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "起因是她早期专辑的母带版权被前公司卖给了她不信任的经纪人，斯威夫特干脆一张张重新录音、拿回音乐的实际控制权，这场「夺回版权」行动也让「Taylor's Version」成了流行文化热词。"
+  },
+  {
+    "id": "arts-entertainment-104",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "电影《流浪地球》改编自哪位作家的同名小说？",
+    "options": [
+      "王晋康",
+      "刘慈欣",
+      "何夕",
+      "韩松"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《流浪地球》改编自刘慈欣的同名短篇科幻小说，他也是《三体》的作者。"
+  },
+  {
+    "id": "arts-entertainment-105",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "周杰伦的哪张专辑收录了歌曲《七里香》？",
+    "options": [
+      "《范特西》",
+      "《叶惠美》",
+      "《七里香》",
+      "《十一月的萧邦》"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《七里香》是周杰伦 2004 年同名专辑的主打歌，前奏的吉他声一响就是青春。"
+  },
+  {
+    "id": "arts-entertainment-106",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "宫崎骏执导、获得奥斯卡最佳动画长片的电影是？",
+    "options": [
+      "《龙猫》",
+      "《千与千寻》",
+      "《天空之城》",
+      "《幽灵公主》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《千与千寻》获 2003 年奥斯卡最佳动画长片，是日本影史票房传奇。"
+  },
+  {
+    "id": "arts-entertainment-107",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "获得华语电影戛纳电影节最高奖「金棕榈奖」的影片是？",
+    "options": [
+      "《花样年华》",
+      "《霸王别姬》",
+      "《卧虎藏龙》",
+      "《一一》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "陈凯歌执导的《霸王别姬》于 1993 年获得金棕榈奖，迄今仍是唯一获此殊荣的华语电影。"
+  },
+  {
+    "id": "arts-entertainment-108",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "被称为「中国说唱元年」的综艺《中国有嘻哈》首播于哪一年？",
+    "options": [
+      "2015 年",
+      "2016 年",
+      "2017 年",
+      "2018 年"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《中国有嘻哈》2017 年播出后引爆全网，「Freestyle」成为年度流行语。"
+  },
+  {
+    "id": "arts-entertainment-109",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "《大话西游》里至尊宝说「如果非要在这份爱上加上一个期限」，他希望是多久？",
+    "options": [
+      "一千年",
+      "一万年",
+      "十万年",
+      "三生三世"
+    ],
+    "correctAnswer": 1,
+    "explanation": "经典台词原句是「我希望是……一万年」，这段告白在片中出现了两次，第二次已是物是人非。"
+  },
+  {
+    "id": "arts-entertainment-110",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "电影《让子弹飞》中，葛优饰演的角色是？",
+    "options": [
+      "马邦德",
+      "黄四郎",
+      "张麻子",
+      "胡万"
+    ],
+    "correctAnswer": 0,
+    "explanation": "葛优饰演骗子师爷马邦德（老汤）。张麻子是姜文，黄四郎是周润发，胡万是陈坤。"
+  },
+  {
+    "id": "arts-entertainment-111",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "刷爆表情包的名台词「臣妾做不到啊」，出自《甄嬛传》中谁之口？",
+    "options": [
+      "甄嬛",
+      "华妃",
+      "皇后",
+      "安陵容"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这句台词出自蔡少芬饰演的皇后乌拉那拉·宜修，在真相败露时崩溃喊出，很多人误记成甄嬛说的。"
+  },
+  {
+    "id": "arts-entertainment-112",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "湖南卫视长寿综艺《快乐大本营》首播于哪一年？",
+    "options": [
+      "1994 年",
+      "1995 年",
+      "1996 年",
+      "1997 年"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《快乐大本营》1997 年 7 月开播，李湘、何炅先后主持，是国内最长寿的棚内综艺之一。"
+  },
+  {
+    "id": "arts-entertainment-113",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "Beyond 乐队的经典歌曲《光辉岁月》，是黄家驹为哪位人物创作的？",
+    "options": [
+      "纳尔逊·曼德拉",
+      "马丁·路德·金",
+      "甘地",
+      "特蕾莎修女"
+    ],
+    "correctAnswer": 0,
+    "explanation": "黄家驹 1990 年随香港电台赴巴布亚新几内亚探访后，读到曼德拉的事迹深受触动，写下《光辉岁月》致敬这位反种族隔离斗士。"
+  },
+  {
+    "id": "arts-entertainment-114",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "香港「四大天王」中，最早获得金马奖最佳男主角的是谁？",
+    "options": [
+      "刘德华",
+      "张学友",
+      "黎明",
+      "郭富城"
+    ],
+    "correctAnswer": 2,
+    "explanation": "黎明 2002 年凭《三更之回家》拿下金马影帝，是四人中最早的。有趣的是，演技公认的张学友从未拿过金马影帝。"
+  },
+  {
+    "id": "arts-entertainment-115",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "《灌篮高手》中，樱木花道在湘北篮球队穿的球衣号码是？",
+    "options": [
+      "4 号",
+      "10 号",
+      "7 号",
+      "11 号"
+    ],
+    "correctAnswer": 1,
+    "explanation": "樱木花道穿 10 号。4 号是赤木刚宪，7 号是宫城良田，11 号则是他的一生之敌流川枫。"
+  },
+  {
+    "id": "arts-entertainment-116",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "《灌篮高手》全国大赛篇中，湘北险胜卫冕冠军山王工业后，输给了哪支队伍？",
+    "options": [
+      "爱和学院",
+      "陵南高中",
+      "海南大附属",
+      "翔阳高中"
+    ],
+    "correctAnswer": 0,
+    "explanation": "湘北拼尽全队之力击败山王后元气大伤，第三轮惨败给爱和学院。井上雄彦说「不完美的结局才是青春」。"
+  },
+  {
+    "id": "arts-entertainment-117",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "爆款游戏《原神》的开发商米哈游，总部位于哪座城市？",
+    "options": [
+      "北京",
+      "上海",
+      "广州",
+      "深圳"
+    ],
+    "correctAnswer": 1,
+    "explanation": "米哈游 2011 年由三位上海交通大学学生创立，总部一直设在上海，《崩坏》系列和《原神》都出自这里。"
+  },
+  {
+    "id": "arts-entertainment-118",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "国产单机经典《仙剑奇侠传》初代（DOS 版）发行于哪一年？",
+    "options": [
+      "1992 年",
+      "1993 年",
+      "1994 年",
+      "1995 年"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《仙剑奇侠传》1995 年 7 月由大宇资讯发行，李逍遥与赵灵儿的故事成为一代玩家的集体回忆。"
+  },
+  {
+    "id": "arts-entertainment-119",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "「做人如果没有梦想，那跟咸鱼有什么分别？」这句台词出自哪部电影？",
+    "options": [
+      "《食神》",
+      "《喜剧之王》",
+      "《功夫》",
+      "《少林足球》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这句鸡汤味十足的台词出自周星驰 2001 年的《少林足球》，如今「咸鱼」梗已经火出了圈。"
+  },
+  {
+    "id": "arts-entertainment-120",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "《无间道》天台对峙戏中，说出「对不起，我是警察」的角色是？",
+    "options": [
+      "刘建明",
+      "黄志诚",
+      "陈永仁",
+      "韩琛"
+    ],
+    "correctAnswer": 2,
+    "explanation": "梁朝伟饰演的卧底陈永仁在天台对刘建明说出这句影史名台词，该片后来还被马丁·斯科塞斯翻拍为《无间行者》。"
+  },
+  {
+    "id": "arts-entertainment-121",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "《武林外传》中，掌柜佟湘玉的经典口头禅是？",
+    "options": [
+      "额滴神啊",
+      "子曾经曰过",
+      "葵花点穴手",
+      "排山倒海"
+    ],
+    "correctAnswer": 0,
+    "explanation": "佟湘玉一口陕西腔的「额滴神啊」深入人心。「子曾经曰过」是吕秀才，「葵花点穴手」是白展堂，「排山倒海」是郭芙蓉。"
+  },
+  {
+    "id": "arts-entertainment-122",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "《武林外传》的故事发生在一个虚构的小镇，这个镇叫？",
+    "options": [
+      "同福镇",
+      "七侠镇",
+      "平谷镇",
+      "广阳镇"
+    ],
+    "correctAnswer": 1,
+    "explanation": "故事发生在七侠镇的同福客栈——很多人记成「同福镇」，其实同福只是客栈的名字。"
+  },
+  {
+    "id": "arts-entertainment-123",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "先后执导 2008 年北京夏奥会和 2022 年北京冬奥会开闭幕式的导演是？",
+    "options": [
+      "陈凯歌",
+      "张艺谋",
+      "冯小刚",
+      "李安"
+    ],
+    "correctAnswer": 1,
+    "explanation": "张艺谋是世界上第一位执导过夏奥和冬奥开闭幕式的「双奥」导演，两场盛典相隔 14 年。"
+  },
+  {
+    "id": "arts-entertainment-124",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "「哥哥」张国荣于哪一年的 4 月 1 日离世？",
+    "options": [
+      "2003 年",
+      "2001 年",
+      "2002 年",
+      "2004 年"
+    ],
+    "correctAnswer": 0,
+    "explanation": "张国荣 2003 年 4 月 1 日在香港离世，因为恰逢愚人节，很多歌迷一度不愿相信这个消息。"
+  },
+  {
+    "id": "arts-entertainment-125",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "下列周杰伦的歌曲中，由周杰伦本人作词的是？",
+    "options": [
+      "《青花瓷》",
+      "《东风破》",
+      "《晴天》",
+      "《菊花台》"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《晴天》由周杰伦亲自作词作曲。另外三首都是方文山的词——「文山啊等你写完词，我都出下张专辑喽」。"
+  },
+  {
+    "id": "arts-entertainment-126",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "「我命由我不由天」这句燃爆的台词出自哪部国产动画电影？",
+    "options": [
+      "《西游记之大圣归来》",
+      "《白蛇：缘起》",
+      "《姜子牙》",
+      "《哪吒之魔童降世》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这句台词出自 2019 年饺子执导的《哪吒之魔童降世》，该片以超 50 亿票房登顶当时的国产动画影史第一。"
+  },
+  {
+    "id": "arts-entertainment-127",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "上海美术电影制片厂的经典动画长片《大闹天宫》，上下集完成于哪个年代？",
+    "options": [
+      "40 年代",
+      "50 年代",
+      "60 年代",
+      "70 年代"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《大闹天宫》上集 1961 年、下集 1964 年完成，由万籁鸣执导，手绘原画超过 10 万张，是中国动画的巅峰之作。"
+  },
+  {
+    "id": "arts-entertainment-128",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "电影《英雄本色》中，风衣墨镜、用美钞点烟的「小马哥」是谁饰演的？",
+    "options": [
+      "狄龙",
+      "周润发",
+      "张国荣",
+      "李子雄"
+    ],
+    "correctAnswer": 1,
+    "explanation": "周润发凭小马哥一角红遍亚洲并拿下金像奖影帝。狄龙演宋子豪，张国荣演弟弟宋子杰，李子雄演反派谭成。"
+  },
+  {
+    "id": "arts-entertainment-129",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "86 版电视剧《西游记》中，孙悟空的扮演者是？",
+    "options": [
+      "六小龄童",
+      "周星驰",
+      "张卫健",
+      "曹荣"
+    ],
+    "correctAnswer": 0,
+    "explanation": "六小龄童本名章金莱，出身「猴王世家」。周星驰演过至尊宝，张卫健演过港版齐天大圣，曹荣则是《西游记后传》的孙悟空。"
+  },
+  {
+    "id": "arts-entertainment-130",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "经典电视剧《还珠格格》里，古灵精怪的「小燕子」是谁演的？",
+    "options": [
+      "林心如",
+      "范冰冰",
+      "王艳",
+      "赵薇"
+    ],
+    "correctAnswer": 3,
+    "explanation": "赵薇凭小燕子一角红遍大江南北。林心如演紫薇，范冰冰演金锁，王艳演晴儿。"
+  },
+  {
+    "id": "arts-entertainment-131",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "「池塘边的榕树上，知了在声声叫着夏天」——校园民谣《童年》的词曲作者是？",
+    "options": [
+      "李宗盛",
+      "罗大佑",
+      "周华健",
+      "张雨生"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《童年》由罗大佑词曲创作，最早由张艾嘉演唱，罗大佑自己的版本也成了几代人的下课铃。"
+  },
+  {
+    "id": "arts-entertainment-132",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "《名侦探柯南》中，身体变小之前的柯南，真实身份是哪位高中生侦探？",
+    "options": [
+      "服部平次",
+      "毛利小五郎",
+      "工藤新一",
+      "黑羽快斗"
+    ],
+    "correctAnswer": 2,
+    "explanation": "工藤新一被黑衣组织灌下毒药后身体缩小，化名江户川柯南。黑羽快斗则是怪盗基德的真身。"
+  },
+  {
+    "id": "arts-entertainment-133",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "游戏界的顶流「超级马里奥」，官方设定里他的本职工作是？",
+    "options": [
+      "水管工",
+      "厨师",
+      "快递员",
+      "电工"
+    ],
+    "correctAnswer": 0,
+    "explanation": "马里奥的官方职业是水管工。不过他在 1981 年《大金刚》里初登场时其实是个木匠，当时还叫「Jumpman」。"
+  },
+  {
+    "id": "arts-entertainment-134",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "每年春晚一上台就喊「观众朋友们，我想死你们了」的相声演员是？",
+    "options": [
+      "赵本山",
+      "潘长江",
+      "郭冬临",
+      "冯巩"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这句开场白是冯巩的招牌，从 1995 年春晚沿用至今，成了比节目本身更让人期待的仪式感。"
+  },
+  {
+    "id": "arts-entertainment-135",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "2005 年现象级选秀《超级女声》的全国总冠军是？",
+    "options": [
+      "周笔畅",
+      "张靓颖",
+      "李宇春",
+      "何洁"
+    ],
+    "correctAnswer": 2,
+    "explanation": "李宇春以 352 万条短信投票夺冠，掀起全民选秀热潮。周笔畅、张靓颖分获亚军和季军。"
+  },
+  {
+    "id": "arts-entertainment-136",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "火遍全国的「撕名牌」综艺《奔跑吧兄弟》，原版引进自韩国哪档节目？",
+    "options": [
+      "《无限挑战》",
+      "《Running Man》",
+      "《两天一夜》",
+      "《家族诞生》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《奔跑吧兄弟》2014 年引进自韩国 SBS 的《Running Man》，撕名牌环节从此成了公司团建的保留项目。"
+  },
+  {
+    "id": "arts-entertainment-137",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "热血少年漫画《海贼王》中，主角蒙奇·D·路飞踏上伟大航路的终极梦想是？",
+    "options": [
+      "成为世界第一剑豪",
+      "找到长生不老泉",
+      "成为海贼王",
+      "成为海军大将"
+    ],
+    "correctAnswer": 2,
+    "explanation": "路飞的梦想就是找到传说中的宝藏ONE PIECE，成为新一代海贼王。有趣的是，连载二十多年，这个宝藏到底是什么，读者至今还在等答案。"
+  },
+  {
+    "id": "arts-entertainment-138",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "《哆啦A梦》里，那只蓝色机器猫最抵抗不了的美食是什么？",
+    "options": [
+      "寿司",
+      "拉面",
+      "章鱼烧",
+      "铜锣烧"
+    ],
+    "correctAnswer": 3,
+    "explanation": "哆啦A梦对铜锣烧毫无抵抗力，一提到就两眼放光。设定里他最怕的东西是老鼠——因为耳朵曾被老鼠咬掉，这也是他从黄色变成蓝色传说的由来。"
+  },
+  {
+    "id": "arts-entertainment-139",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "经典动画《猫和老鼠》里，那只总想抓老鼠却屡屡落空的猫，英文名叫什么？",
+    "options": [
+      "Tom",
+      "Butch",
+      "Spike",
+      "Oliver"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这只猫叫Tom，老鼠则叫Jerry。有意思的是，尽管Tom总被捉弄得很惨，但整部动画里他其实抓到过Jerry不少次，只是每次都倒霉收场。"
+  },
+  {
+    "id": "arts-entertainment-140",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "国民少年组合TFBOYS由王俊凯、王源和谁组成？",
+    "options": [
+      "鹿晗",
+      "黄子韬",
+      "张艺兴",
+      "易烊千玺"
+    ],
+    "correctAnswer": 3,
+    "explanation": "三人2013年在重庆组成组合出道，如今都已成年，从青涩的'少年团'成长为各自独当一面的演员、歌手。"
+  },
+  {
+    "id": "arts-entertainment-141",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "被誉为摇滚乐历史上最伟大乐队之一的「披头士」（The Beatles），组建于英国哪座城市？",
+    "options": [
+      "伦敦",
+      "利物浦",
+      "曼彻斯特",
+      "伯明翰"
+    ],
+    "correctAnswer": 1,
+    "explanation": "披头士1960年在英格兰港口城市利物浦组建，如今利物浦机场都以主唱之一列侬的名字命名（Liverpool John Lennon Airport），足见这支乐队对这座城市的意义。"
+  },
+  {
+    "id": "arts-entertainment-142",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "电视剧《士兵突击》里，主人公许三多常挂在嘴边、后来被无数职场人奉为座右铭的六个字是？",
+    "options": [
+      "生命不息，战斗不止",
+      "一个人不能死两次",
+      "不抛弃，不放弃",
+      "有意义就是好好活"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这句话最早是史今班长教给许三多的，后来成了整部剧的精神内核。剧里还有一句'好好活，就是有意义'，常被观众和它搞混顺序。"
+  },
+  {
+    "id": "arts-entertainment-143",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "很多人以为《塞尔达传说》里那位绿衣少年主角就叫'塞尔达'，其实他的真名是？",
+    "options": [
+      "加农（Ganon）",
+      "林克（Link）",
+      "维尔（Vaati）",
+      "米法（Mipha）"
+    ],
+    "correctAnswer": 1,
+    "explanation": "塞尔达其实是海拉尔王国的公主，真正由玩家操控的主角是林克。这个美丽的误会流传了快四十年，连官方周边都常被买家吐槽'名字买错了'。"
+  },
+  {
+    "id": "arts-entertainment-144",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "漫画《进击的巨人》的作者是谁？",
+    "options": [
+      "岸本齐史",
+      "久保带人",
+      "尾田荣一郎",
+      "谏山创"
+    ],
+    "correctAnswer": 3,
+    "explanation": "谏山创花了11年完成这部作品，结局的争议之大甚至一度冲上热搜。选项里另外三位分别是《火影忍者》《死神》《海贼王》的作者，堪称日漫黄金一代天团。"
+  },
+  {
+    "id": "arts-entertainment-145",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "87版电视剧《红楼梦》中，饰演林黛玉、之后几乎被观众认定为'不可超越'的演员是谁？",
+    "options": [
+      "陈晓旭",
+      "邓婕",
+      "欧阳奋强",
+      "张莉"
+    ],
+    "correctAnswer": 0,
+    "explanation": "陈晓旭为演好黛玉提前数月体验角色生活，选角时导演王扶林一眼就认定是她。她本人后来也感叹'黛玉这个角色几乎定义了我的一生'。"
+  },
+  {
+    "id": "arts-entertainment-146",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "有「华语流行音乐奥斯卡」之称的金曲奖，颁奖典礼固定在哪里举行？",
+    "options": [
+      "香港",
+      "台湾",
+      "新加坡",
+      "北京"
+    ],
+    "correctAnswer": 1,
+    "explanation": "金曲奖1990年创办，是华语乐坛历史最悠久、公信力最高的奖项之一，两岸三地及海外歌手都以获奖为荣。"
+  },
+  {
+    "id": "arts-entertainment-147",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "被誉为'日本漫画之神'、开创战后日本漫画黄金时代的漫画家是谁？",
+    "options": [
+      "鸟山明",
+      "藤子·F·不二雄",
+      "手冢治虫",
+      "宫崎骏"
+    ],
+    "correctAnswer": 2,
+    "explanation": "手冢治虫代表作《铁臂阿童木》不仅是日本首部电视动画连续剧，还确立了'一拍三格'等至今沿用的动画制作手法。他本人还是医学博士出身，弃医从漫。"
+  },
+  {
+    "id": "arts-entertainment-148",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "湖南卫视歌唱真人秀《我是歌手》第一季（2013年）的年度总冠军是谁？",
+    "options": [
+      "羽泉",
+      "黄绮珊",
+      "林志炫",
+      "韩磊"
+    ],
+    "correctAnswer": 0,
+    "explanation": "总决赛当晚，羽泉在演员邓超作为'帮帮唱'嘉宾的助阵下爆冷夺得'歌王'，台湾唱将林志炫屈居亚军，这也是节目'帮帮唱'环节最出圈的一次。"
+  },
+  {
+    "id": "arts-entertainment-149",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "上世纪80年代香港乐坛著名的「谭张争霸」，指的是谭咏麟与哪位巨星在唱片销量、颁奖礼奖项上的巅峰对决？",
+    "options": [
+      "张学友",
+      "黎明",
+      "许冠杰",
+      "张国荣"
+    ],
+    "correctAnswer": 3,
+    "explanation": "两人的歌迷阵营竞争激烈到近乎白热化，谭咏麟1987年宣布不再领取竞争性奖项以平息风波，张国荣也在1989年暂别歌坛转攻电影，可见当年这场'战争'有多惨烈。"
+  },
+  {
+    "id": "arts-entertainment-150",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "2016年，史无前例地因歌词的文学性获得诺贝尔文学奖的民谣摇滚音乐人是谁？",
+    "options": [
+      "列奥纳德·科恩",
+      "保罗·西蒙",
+      "鲍勃·迪伦",
+      "尼尔·扬"
+    ],
+    "correctAnswer": 2,
+    "explanation": "鲍勃·迪伦是首位获诺贝尔文学奖的音乐人，颁奖词称他'在伟大的美国歌曲传统中创造了新的诗歌表达'。据说他本人对领不领奖都不太上心，颁奖典礼当天都没现身。"
+  },
+  {
+    "id": "arts-entertainment-151",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "中央电视台春节联欢晚会（春晚）最早一届是在哪一年除夕播出的？",
+    "options": [
+      "1979年",
+      "1983年",
+      "1985年",
+      "1990年"
+    ],
+    "correctAnswer": 1,
+    "explanation": "首届春晚1983年除夕在央视演播厅直播，还首次设置了热线电话让观众点播节目。当年舞台简陋得像个联欢会，谁也没想到它会变成后来全球收视率最高的晚会之一。"
+  },
+  {
+    "id": "arts-entertainment-152",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "1986年在北京工人体育馆一曲《一无所有》唱响、被公认为'中国摇滚第一声'的音乐人是谁？",
+    "options": [
+      "崔健",
+      "窦唯",
+      "汪峰",
+      "许巍"
+    ],
+    "correctAnswer": 0,
+    "explanation": "崔健当晚穿着旧军装、背着吉他登台，一嗓子吼出中国摇滚乐的起点，也因此被称为'中国摇滚教父'。严格说那场演出是一场'百名歌星演唱会'，崔健只是众多表演者之一，却是唯一被记住的那个。"
+  },
+  {
+    "id": "arts-entertainment-153",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "2008年北京奥运会开幕式主题曲《我和你》，由刘欢与哪位国际歌手合唱？",
+    "options": [
+      "席琳·迪翁",
+      "阿黛尔",
+      "莎拉·布莱曼",
+      "碧昂丝"
+    ],
+    "correctAnswer": 2,
+    "explanation": "刘欢和'月光女神'莎拉·布莱曼一中一英对唱，旋律简单到只有几句歌词却传唱全球。有趣的是，鸟巢现场两人其实各自站在升降台上，全程都没站到同一块地面上过。"
+  },
+  {
+    "id": "arts-entertainment-154",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "“双十一”剁手节并不是自古就有的，淘宝商城（后来的天猫）最早在哪一年发起了这场大促？",
+    "options": [
+      "2007年",
+      "2008年",
+      "2009年",
+      "2011年"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2009年11月11日，淘宝商城（2012年更名天猫）首次发起“双十一”促销，当年只有27个品牌参加、成交额5200万元，如今再看真是“小目标”的起点。"
+  },
+  {
+    "id": "arts-entertainment-155",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "2009年那句火遍全网的“贾君鹏你妈妈喊你回家吃饭”，最早出现在百度哪个贴吧？",
+    "options": [
+      "李毅吧",
+      "魔兽世界吧",
+      "Dota吧",
+      "海贼王吧"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2009年7月16日，这个只有标题、正文空白的帖子出现在“魔兽世界吧”，一天内点击数百万、回复数十万。当时正值魔兽代理权从九城转交网易、国服停服，玩家们无聊到把一个空帖顶成了网络神话。"
+  },
+  {
+    "id": "arts-entertainment-156",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "2018年，哪支战队为LPL赛区捧回了第一座《英雄联盟》全球总决赛（S赛）冠军奖杯？",
+    "options": [
+      "RNG",
+      "EDG",
+      "WE",
+      "iG"
+    ],
+    "correctAnswer": 3,
+    "explanation": "2018年S8决赛，iG（Invictus Gaming）3:0横扫欧洲劲旅Fnatic夺冠，“登峰造极境”一夜刷屏，LPL苦等七年的首冠让无数玩家泪目。"
+  },
+  {
+    "id": "arts-entertainment-157",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "吉尼斯认证的全球销量最高录音室专辑是哪一张？",
+    "options": [
+      "AC/DC《Back in Black》",
+      "迈克尔·杰克逊《Thriller》",
+      "平克·弗洛伊德《The Dark Side of the Moon》",
+      "阿黛尔《21》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《Thriller》于1982年发行，全球销量超7000万张（部分统计口径破亿），至今无人能破。它的同名MV长达14分钟，还是第一部被美国国会图书馆国家影片登记表收录的音乐录影带。"
+  },
+  {
+    "id": "arts-entertainment-158",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "每年7月16日被歌迷称为“周杰伦日”，这个日子纪念的是什么？",
+    "options": [
+      "周杰伦的生日",
+      "首张专辑《Jay》的发行日",
+      "《以父之名》全亚洲电台同步首播",
+      "他第一次拿下金曲奖"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2003年7月16日，《以父之名》在全亚洲50多家电台同步首播，估计约8亿人同时收听，7月16日从此成了“周杰伦日”。顺带一提，他的生日其实是1月18日。"
+  },
+  {
+    "id": "arts-entertainment-159",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "爆款剧《狂飙》里，高启强发迹之前在旧厂街市场做什么营生？",
+    "options": [
+      "卖鱼",
+      "开大排档",
+      "卖手机",
+      "开出租车"
+    ],
+    "correctAnswer": 0,
+    "explanation": "高启强原本是个老实巴交的鱼贩，从卖鱼档一路“狂飙”成黑道大佬。剧火了之后，取景地江门的老街和他爱吃的猪脚面都成了打卡网红。"
+  },
+  {
+    "id": "arts-entertainment-160",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "创立潮流品牌Off-White、后来又执掌路易威登（LV）男装的设计师是谁？",
+    "options": [
+      "维吉尔·阿布洛（Virgil Abloh）",
+      "坎耶·维斯特（Kanye West）",
+      "法瑞尔·威廉姆斯（Pharrell Williams）",
+      "金·琼斯（Kim Jones）"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Virgil Abloh于2013年创立Off-White，2018年出任LV男装艺术总监，是LV史上首位非裔艺术总监。他的“3%理论”——只改动3%就能创造新设计——在潮流圈广为流传。"
+  },
+  {
+    "id": "arts-entertainment-161",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "电竞史上单届奖金池最高的赛事是哪一场？",
+    "options": [
+      "英雄联盟S11全球总决赛",
+      "2019年《堡垒之夜》世界杯",
+      "CS:GO的Major锦标赛",
+      "DOTA2国际邀请赛TI10"
+    ],
+    "correctAnswer": 3,
+    "explanation": "靠游戏内“勇士令状”玩家众筹，TI10（2021年举行）总奖金池突破4000万美元，冠军Team Spirit独揽约1820万美元，至今仍是电竞赛事的奖金天花板。"
+  },
+  {
+    "id": "arts-entertainment-162",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "《中国好声音》第一季（2012年）的年度总冠军是谁？",
+    "options": [
+      "吴莫愁",
+      "梁博",
+      "吉克隽逸",
+      "金志文"
+    ],
+    "correctAnswer": 1,
+    "explanation": "那英组的梁博力压吴莫愁、吉克隽逸夺冠。夺冠后他低调出国做音乐，多年后凭《男孩》《日落大道》等原创作品再度翻红，堪称“最佛系的冠军”。"
+  },
+  {
+    "id": "arts-entertainment-163",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "周杰伦的首张个人专辑《Jay》发行于哪一年？",
+    "options": [
+      "2000年",
+      "1998年",
+      "2002年",
+      "2004年"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2000年11月《Jay》横空出世，《星晴》《龙卷风》《可爱女人》首首能打，华语乐坛从此进入“周杰伦时代”，那年他才21岁。"
+  },
+  {
+    "id": "arts-entertainment-164",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "Supreme那个经典的红底白字Box Logo，设计风格公认借鉴了哪位艺术家？",
+    "options": [
+      "安迪·沃霍尔",
+      "杰夫·昆斯",
+      "芭芭拉·克鲁格",
+      "草间弥生"
+    ],
+    "correctAnswer": 2,
+    "explanation": "红白配色加Futura字体的Box Logo，公认是向美国观念艺术家芭芭拉·克鲁格（Barbara Kruger）的标志性海报风格“致敬”。后来围绕抄袭官司，克鲁格本人还亲自下场开怼，潮圈无人敢接话。"
+  },
+  {
+    "id": "arts-entertainment-165",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "天天挂在嘴边的“内卷”，最早是哪个学科的术语？",
+    "options": [
+      "经济学",
+      "心理学",
+      "物理学",
+      "人类学"
+    ],
+    "correctAnswer": 3,
+    "explanation": "“内卷化”（involution）原本是人类学术语，美国人类学家格尔茨在1963年研究印尼爪哇农业时将其发扬光大，指“没有质变的无效增长”。几十年后它漂洋过海，成了打工人和学生党的口头禅。"
+  },
+  {
+    "id": "arts-entertainment-166",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "弹幕网站bilibili（B站）的名字，源自哪部动漫里女主角的外号？",
+    "options": [
+      "《某科学的超电磁炮》御坂美琴",
+      "《新世纪福音战士》绫波丽",
+      "《凉宫春日的忧郁》凉宫春日",
+      "《魔法少女小圆》鹿目圆"
+    ],
+    "correctAnswer": 0,
+    "explanation": "“bilibili”是《魔法禁书目录》及外传《某科学的超电磁炮》中御坂美琴“放电妹”外号的拟声词。B站前身叫Mikufans（初音未来粉丝站），2010年改名bilibili，站内的“投币”“充电”等设定也都在玩炮姐的梗。"
+  },
+  {
+    "id": "arts-entertainment-167",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "皇后乐队那首近6分钟、结构神似歌剧的《波西米亚狂想曲》，最早收录在哪张专辑里？",
+    "options": [
+      "《News of the World》",
+      "《A Night at the Opera》",
+      "《Sheer Heart Attack》",
+      "《The Game》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《波西米亚狂想曲》收录于1975年发行的《A Night at the Opera》，这张专辑的名字就来自马克斯兄弟的同名喜剧电影。当年唱片公司嫌歌太长不给打单，结果它霸榜英国单曲榜九周，成了摇滚史上的传奇。"
+  },
+  {
+    "id": "arts-entertainment-168",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "漫威电影宇宙（MCU）庞大帝国的开山之作是哪一部？",
+    "options": [
+      "《美国队长》",
+      "《无敌浩克》",
+      "《雷神》",
+      "《钢铁侠》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "2008年的《钢铁侠》是MCU的第一部电影。当时漫威押上几乎全部身家，还启用了事业低谷的小罗伯特·唐尼，结果全球狂揽5.8亿美元票房，片尾尼克·弗瑞登场的一句彩蛋开启了长达十余年的“宇宙”。"
+  },
+  {
+    "id": "arts-entertainment-169",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "中国战队第一次捧起DOTA2国际邀请赛（TI）的不朽盾，是哪一届的哪支队伍？",
+    "options": [
+      "TI2的iG",
+      "TI4的Newbee",
+      "TI6的Wings",
+      "TI1的EHOME"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2012年TI2，iG战队3:1击败卫冕冠军Na'Vi，为中国DOTA拿下首座TI冠军。TI1时EHOME杀入决赛但输给了Na'Vi；Newbee（TI4）和Wings（TI6）则是后来的冠军。"
+  },
+  {
+    "id": "arts-entertainment-170",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "潮鞋圈顶流“椰子鞋”Yeezy，最早其实是坎耶·维斯特和哪个品牌联名的？",
+    "options": [
+      "耐克",
+      "阿迪达斯",
+      "锐步",
+      "彪马"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2009年侃爷先与耐克合作推出Air Yeezy系列，因版税和创意控制权谈不拢，2013年才转投阿迪达斯，才有了后来烂大街又抢不到的Yeezy Boost。早期耐克版Air Yeezy 2如今在二手市场已是天价收藏。"
+  },
+  {
+    "id": "arts-entertainment-171",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "第一支拿下美国公告牌（Billboard）Hot 100单曲榜冠军的K-pop歌曲是哪首？",
+    "options": [
+      "PSY《江南Style》",
+      "BTS《Dynamite》",
+      "BLACKPINK《DDU-DU DDU-DU》",
+      "BTS与Halsey合作的《Boy With Luv》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2020年BTS的全英文单曲《Dynamite》空降Hot 100冠军，创下K-pop历史。PSY的《江南Style》当年火遍全球却被卡在亚军整整七周，《Boy With Luv》最高第8名，《DDU-DU DDU-DU》最高第55名。"
+  },
+  {
+    "id": "arts-entertainment-172",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "刷遍全网的“yyds（永远的神）”，最早是主播山泥若在解说比赛时盛赞哪位电竞选手？",
+    "options": [
+      "Faker",
+      "TheShy",
+      "厂长Clearlove",
+      "Uzi"
+    ],
+    "correctAnswer": 3,
+    "explanation": "主播山泥若在直播解说RNG比赛时高呼“乌兹！永远的神！”，“乌兹”是Uzi的谐音外号。这句话被二创视频带火后破圈，连完全不玩游戏的网友也开始逢人就夸“yyds”。"
+  },
+  {
+    "id": "arts-entertainment-173",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "电影《流浪地球》里，人类为了推走地球，在全球建造了多少座行星发动机？",
+    "options": [
+      "一千座",
+      "五千座",
+      "一万座",
+      "十万座"
+    ],
+    "correctAnswer": 2,
+    "explanation": "设定中人类倾尽全球之力建造了一万座行星发动机，每座高达一万一千米，比珠穆朗玛峰还高两千多米，其中赤道附近的大型转向发动机负责调整地球航向。"
+  },
+  {
+    "id": "arts-entertainment-174",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "国产3A大作《黑神话：悟空》出自哪家游戏公司之手？",
+    "options": [
+      "网易游戏",
+      "腾讯天美",
+      "游戏科学",
+      "米哈游"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《黑神话：悟空》由游戏科学（Game Science）开发，创始团队来自腾讯《斗战神》项目。2020年首支实机演示直接引爆全球游戏圈，2024年8月正式发售后迅速成为现象级爆款，顺带还带火了山西的古建筑旅游。"
+  },
+  {
+    "id": "arts-entertainment-175",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "2020年爆款综艺《乘风破浪的姐姐》第一季，最终拿下第一名、C位成团的是谁？",
+    "options": [
+      "万茜",
+      "张雨绮",
+      "蓝盈莹",
+      "宁静"
+    ],
+    "correctAnswer": 3,
+    "explanation": "宁静以压倒性人气拿下第一名，成团夜还贡献了“我拿第一，不想成团”的名场面。这位手握金鸡百花双料影后的大姐大，在节目里一边喊着“还要自我介绍？那我这几十年白干了”，一边练舞练到吃速效救心丸。"
+  },
+  {
+    "id": "arts-entertainment-176",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "国民手游《王者荣耀》是腾讯旗下哪个工作室群开发的？",
+    "options": [
+      "光子工作室群",
+      "天美工作室群",
+      "魔方工作室群",
+      "北极光工作室群"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《王者荣耀》由天美工作室群（TiMi）开发，2015年上线后一路成为国民级手游。光子做了《和平精英》，魔方做了《火影忍者》手游，北极光则主攻端游，几家在腾讯内部是“赛马”竞争关系。"
+  },
+  {
+    "id": "arts-entertainment-177",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "“真香”这个传世名梗——上一秒放狠话绝食、下一秒吃得津津有味——出自哪档综艺节目？",
+    "options": [
+      "《变形计》",
+      "《爸爸去哪儿》",
+      "《奔跑吧兄弟》",
+      "《极限挑战》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2014年《变形计》第八季里，城市少年王境泽初到农村时撂下狠话“我王境泽就是饿死，死外边，从这跳下去，也不会吃你们一点东西”，结果转头端着饭碗直呼“真香”，成为打脸学的开山之作。"
+  },
+  {
+    "id": "arts-entertainment-178",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "让科技巨头们集体上头的“元宇宙”（Metaverse）一词，最早出自哪部科幻小说？",
+    "options": [
+      "尼尔·斯蒂芬森《雪崩》",
+      "威廉·吉布森《神经漫游者》",
+      "恩斯特·克莱恩《头号玩家》",
+      "菲利普·迪克《仿生人会梦见电子羊吗》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1992年尼尔·斯蒂芬森在小说《雪崩》中首创“Metaverse”一词，书中人类以虚拟化身生活在数字城市里。2021年Facebook为此直接改名Meta，让这个词从科幻圈火进了财报圈。"
+  },
+  {
+    "id": "arts-entertainment-179",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "“谁说站在光里的才算英雄”这句小学生都会唱的歌词，出自陈奕迅的哪首歌？",
+    "options": [
+      "《逆战》",
+      "《孤勇者》",
+      "《平凡之路》",
+      "《少年》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《孤勇者》是动画《双城之战》的中文主题曲，2021年上线后横扫各大榜单，还因为深受小学生喜爱被封为“儿歌顶流”，陈奕迅本人都调侃自己出了首儿歌。"
+  },
+  {
+    "id": "arts-entertainment-180",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "一句魔性口音的“栓Q”火遍全网，它到底是哪句英文的谐音？",
+    "options": [
+      "Sorry",
+      "Excuse me",
+      "Thank you",
+      "Goodbye"
+    ],
+    "correctAnswer": 2,
+    "explanation": "“栓Q”来自广西阳朔一位农民导游刘涛用方言口音说的“thank you”，土味中透着真诚，走红后成了网友表达“无语式感谢”的万能用语。"
+  },
+  {
+    "id": "arts-entertainment-181",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "“臣妾做不到啊！”这句表情包常客的名台词，出自哪部宫斗剧？",
+    "options": [
+      "《甄嬛传》",
+      "《如懿传》",
+      "《延禧攻略》",
+      "《芈月传》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这句台词出自《甄嬛传》里蔡少芬饰演的皇后乌拉那拉氏。播出十余年后，“臣妾做不到啊”依然是打工人拒绝加班、拒绝内卷的经典表情包素材。"
+  },
+  {
+    "id": "arts-entertainment-182",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "“大吉大利，今晚吃鸡！”这句口号是哪款游戏带火的？",
+    "options": [
+      "《英雄联盟》",
+      "《穿越火线》",
+      "《守望先锋》",
+      "《绝地求生》"
+    ],
+    "correctAnswer": 3,
+    "explanation": "在《绝地求生》（PUBG）里活到最后吃鸡时，屏幕会打出“Winner winner, chicken dinner”，国服翻译为“大吉大利，今晚吃鸡”。从此“吃鸡”成了这类大逃杀游戏的代名词。"
+  },
+  {
+    "id": "arts-entertainment-183",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "被称为“大魔王”的传奇电竞选手Faker（李相赫），打的是哪款游戏？",
+    "options": [
+      "《DOTA2》",
+      "《英雄联盟》",
+      "《CS》",
+      "《星际争霸2》"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Faker是《英雄联盟》T1战队的中单选手，多次夺得全球总决赛冠军，被公认为该项目的历史第一人。韩国媒体甚至把他和足球的孙兴慜并列为“韩国国宝”。"
+  },
+  {
+    "id": "arts-entertainment-184",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "“你是我天边最美的云彩，让我用心把你留下来”——广场舞神曲的原唱组合凤凰传奇，这首歌叫什么？",
+    "options": [
+      "《月亮之上》",
+      "《荷塘月色》",
+      "《最炫民族风》",
+      "《自由飞翔》"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《最炫民族风》2009年发行后制霸全国广场舞，还曾火到NBA赛场的中场表演。凤凰传奇的其他几首也都是“听着前奏就会唱”的级别。"
+  },
+  {
+    "id": "arts-entertainment-185",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "泡泡玛特带火的那种“付钱时不知道自己抽到哪一款”的潮玩销售形式，叫什么？",
+    "options": [
+      "众筹",
+      "预售",
+      "拼团",
+      "盲盒"
+    ],
+    "correctAnswer": 3,
+    "explanation": "盲盒把“开盒瞬间的惊喜感”做成了生意，泡泡玛特靠Molly等IP一路做到上市。抽到隐藏款的概率通常只有几十分之一，让无数人一边喊“戒盒”一边排队。"
+  },
+  {
+    "id": "arts-entertainment-186",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "综艺《奔跑吧兄弟》里最经典的环节，是明星们互相撕掉对方背后贴的什么？",
+    "options": [
+      "名牌",
+      "气球",
+      "帽子",
+      "手环"
+    ],
+    "correctAnswer": 0,
+    "explanation": "“撕名牌”环节源自韩国综艺《Running Man》，嘉宾背后贴上自己名字的名牌，被撕掉即淘汰。这个环节当年火到公司团建、校园活动都在模仿。"
+  },
+  {
+    "id": "arts-entertainment-187",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "弹幕、直播间里刷屏的'666'，最初是用数字谐音了哪个字，形容操作厉害？",
+    "options": [
+      "溜",
+      "牛",
+      "秀",
+      "强"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'666'最早在游戏直播弹幕里刷屏，用来夸奖'666=溜溜溜'的骚操作，后来泛化成万能彩虹屁，什么都能夸一句'666'。"
+  },
+  {
+    "id": "arts-entertainment-188",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "网络热词'破防了'，最初是游戏里的什么被打破，才被引申成'心理防线被击溃'？",
+    "options": [
+      "攻击力",
+      "防御力",
+      "能量条",
+      "装备耐久度"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'破防'原指游戏角色的防御力被击穿，如今多用来形容被感动、被扎心到情绪失控——比如看到毕业照突然就'破防了'。"
+  },
+  {
+    "id": "arts-entertainment-189",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "网络热词'凡尔赛文学'，形容的是一种什么样的说话方式？",
+    "options": [
+      "阴阳怪气地吐槽",
+      "故作深沉的文艺腔",
+      "先抑后扬、低调炫耀",
+      "夸张卖惨博同情"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这个梗源自网友对某博主'不经意间'晒豪门生活的调侃，因为像极了法国凡尔赛宫贵族的奢靡做派，所以得名'凡尔赛文学'。"
+  },
+  {
+    "id": "arts-entertainment-190",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "双十一购物节里，先付定金、苦等到最后一天才付余款的消费者，被网友戏称为什么'人'？",
+    "options": [
+      "定金人",
+      "剁手人",
+      "凑单人",
+      "尾款人"
+    ],
+    "correctAnswer": 3,
+    "explanation": "'尾款人'和'打工人'是同一批网络热词的产物，调侃的是熬夜蹲点付尾款、第二天顶着黑眼圈去上班的真实写照。"
+  },
+  {
+    "id": "arts-entertainment-191",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "网络热词'绝绝子'，最早是从哪个圈子流行开来，用来形容'好到极致'？",
+    "options": [
+      "饭圈（追星圈）",
+      "电竞圈",
+      "美食测评圈",
+      "职场社交圈"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'绝绝子'最早是粉丝夸偶像'绝了'的加强版说法，后来被泛用到各种场景，一度因为'万能又空洞'被吐槽为'文字失语症'的代表。"
+  },
+  {
+    "id": "arts-entertainment-192",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "网络热梗'蚌埠住了'，其实是哪句话的谐音？",
+    "options": [
+      "不服输了",
+      "绷不住了",
+      "笨死了",
+      "办不到了"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'蚌埠'是安徽的一座城市，纯粹因为和'绷不住'发音相近被网友借用玩梗，蚌埠本地文旅账号后来还顺势蹭了一波热度。"
+  },
+  {
+    "id": "arts-entertainment-193",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "网络热梗'尊嘟假嘟'，其实是哪句话的可爱化谐音？",
+    "options": [
+      "怎么可能",
+      "我不信",
+      "真的假的",
+      "这是真的"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这种把'zh/ch/sh'读成'z/c/s'的口音梗被称为'奶化音'，'尊嘟假嘟'走红后，一度让不少成年网友也跟风说起了'幼稚园腔'。"
+  },
+  {
+    "id": "arts-entertainment-194",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "被称为'口红一哥'的头部主播，那句魔性的'OMG，买它买它！'是谁的口头禅？",
+    "options": [
+      "薇娅",
+      "辛巴",
+      "罗永浩",
+      "李佳琦"
+    ],
+    "correctAnswer": 3,
+    "explanation": "李佳琦曾创下5分钟卖出15000支口红的纪录，'OMG'也从他的口头禅变成了全民直播带货的通用语气词。"
+  },
+  {
+    "id": "arts-entertainment-195",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "2023年因烧烤火出圈、被网友称为'进淄赶烤'的城市是哪里？",
+    "options": [
+      "淄博",
+      "潍坊",
+      "临沂",
+      "济南"
+    ],
+    "correctAnswer": 0,
+    "explanation": "淄博烧烤走红后，当地专门开通了'烧烤专列'和保障公交，把一场流量泼天富贵接得明明白白，也带火了'小饼卷万物'的吃法。"
+  },
+  {
+    "id": "arts-entertainment-196",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "2023年流行的高饱和度、色彩鲜艳撞色的穿搭风格，被称为什么'穿搭'？",
+    "options": [
+      "文艺复兴穿搭",
+      "多巴胺穿搭",
+      "静奢风穿搭",
+      "美拉德穿搭"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'多巴胺穿搭'借用了让人快乐的神经递质'多巴胺'命名，主打鲜艳撞色让人心情变好；同一年秋天流行的'美拉德穿搭'则完全走相反的大地色系路线。"
+  },
+  {
+    "id": "arts-entertainment-197",
+    "category": "arts-entertainment",
+    "difficulty": "medium",
+    "question": "刷屏全网的蜜雪冰城洗脑主题曲'你爱我，我爱你'，其旋律改编自哪首经典英文民谣？",
+    "options": [
+      "《Oh My Darling, Clementine》",
+      "《Jingle Bells》",
+      "《Oh! Susanna》",
+      "《Auld Lang Syne》"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这首19世纪美国民谣原名《哦，苏珊娜》，被策划团队填上洗脑中文词后传唱全球，甚至还出了十几种语言的翻唱版本。"
+  },
+  {
+    "id": "arts-entertainment-198",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "弹幕和社交平台上常见的缩写'awsl'，是哪句话的拼音首字母？",
+    "options": [
+      "啊，我睡了",
+      "爱我索罗",
+      "阿伟输了",
+      "啊，我死了"
+    ],
+    "correctAnswer": 3,
+    "explanation": "'awsl'表示被萌到、感动到'当场去世'，是弹幕文化里最早的一批拼音缩写梗之一，后来'yyds''nsdd'等缩写体都是同一套造词逻辑。"
+  },
+  {
+    "id": "arts-entertainment-199",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "2003年，国家体育总局正式将电子竞技批准为国内第几个正式开展的体育项目？",
+    "options": [
+      "第99个",
+      "第78个",
+      "第85个",
+      "第108个"
+    ],
+    "correctAnswer": 0,
+    "explanation": "电子竞技2003年被列为第99个体育项目，2008年体育总局重新调整项目序号，它又被改列为第78个——很多人只记住了后面这个数字。"
+  },
+  {
+    "id": "arts-entertainment-200",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "泡泡玛特头号顶流盲盒IP Molly，最初的原创设计师是谁？",
+    "options": [
+      "乐高之父",
+      "王信明（Kenny Wong）",
+      "高木直子",
+      "三浦春马"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Molly由香港设计师王信明2006年创作，2016年才与泡泡玛特开始合作，首个生肖系列上线天猫旗舰店仅4秒就被抢空。"
+  },
+  {
+    "id": "arts-entertainment-201",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "2018年现象级选秀《创造101》总决赛，以超1.8亿点赞数登顶C位成团的选手是谁？",
+    "options": [
+      "吴宣仪",
+      "杨超越",
+      "孟美岐",
+      "Yamy"
+    ],
+    "correctAnswer": 2,
+    "explanation": "孟美岐率领的'火箭少女101'是国内第一支由粉丝点赞投票直接成团的女团。杨超越虽然实力争议不断，却凭超高人气拿下第三名，成了那年最大的'黑马'话题。"
+  },
+  {
+    "id": "arts-entertainment-202",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "曾风靡一时、以夸张爆炸头著称的'杀马特'文化，这个名字其实是哪个英文单词的音译？",
+    "options": [
+      "star",
+      "smash",
+      "style",
+      "smart"
+    ],
+    "correctAnswer": 3,
+    "explanation": "'杀马特'音译自英文smart，本意是'时尚、聪明'，却被网友用来形容夸张浮夸的造型，充满了戏谑和反讽意味。"
+  },
+  {
+    "id": "arts-entertainment-203",
+    "category": "arts-entertainment",
+    "difficulty": "hard",
+    "question": "2021年，哪支LPL战队在冰岛雷克雅未克3:2逆转击败DK，捧起英雄联盟S11全球总决赛冠军奖杯？",
+    "options": [
+      "EDG",
+      "RNG",
+      "FPX",
+      "TES"
+    ],
+    "correctAnswer": 0,
+    "explanation": "EDG夺冠当晚，全国多所高校学生自发在操场燃放烟花庆祝，话题一度冲上热搜，被网友调侃'像高考出成绩一样全民狂欢'。"
+  }
+]
