@@ -782,5 +782,1307 @@
     ],
     "correctAnswer": 0,
     "explanation": "篮球发明者奈史密斯当年把桃筐钉在离地10英尺（约3.05米）的看台栏杆上，这个高度沿用至今，成了篮球场雷打不动的标准配置。"
+  },
+  {
+    "id": "sports-057",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "科比的名字来自父母在餐厅菜单上看到的什么？",
+    "options": [
+      "外公的家乡小镇",
+      "父亲效力过的球队",
+      "日本神户牛肉",
+      "意大利一位歌手"
+    ],
+    "correctAnswer": 2,
+    "explanation": "父亲乔·布莱恩特觉得“神户牛肉”（Kobe beef）的名字很好听，就拿来给儿子命名。科比后来在湖人先穿8号、再换24号，2017年球队把两个号码都退役了。"
+  },
+  {
+    "id": "sports-058",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "2016年总决赛，詹姆斯带领骑士从1比3落后逆转，击败了哪支球队夺冠？",
+    "options": [
+      "金州勇士",
+      "迈阿密热火",
+      "波士顿凯尔特人",
+      "圣安东尼奥马刺"
+    ],
+    "correctAnswer": 0,
+    "explanation": "骑士是NBA总决赛史上第一支在1比3落后后翻盘的球队，也给克利夫兰带来了52年来的首个职业体育冠军；对手勇士当季常规赛拿下73胜9负。"
+  },
+  {
+    "id": "sports-059",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "1998年总决赛第六场，乔丹在最后时刻投中制胜球，公牛拿下第六冠，被他绝杀的是？",
+    "options": [
+      "西雅图超音速",
+      "犹他爵士",
+      "洛杉矶湖人",
+      "休斯顿火箭"
+    ],
+    "correctAnswer": 1,
+    "explanation": "他先从马龙手里抢断，再晃开拉塞尔投中制胜跳投，公牛以87比86取胜；乔丹当晚得到45分，第六次当选总决赛MVP。"
+  },
+  {
+    "id": "sports-060",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "2016年姚明入选篮球名人堂，与他同一届入选的是哪两位巨星？",
+    "options": [
+      "科比和邓肯",
+      "马龙和斯托克顿",
+      "乔丹和皮蓬",
+      "奥尼尔和艾弗森"
+    ],
+    "correctAnswer": 3,
+    "explanation": "姚明是第一位入选名人堂的中国球员，他的11号球衣在2017年2月被火箭队退役。"
+  },
+  {
+    "id": "sports-061",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "首位拿到NBA总冠军戒指的中国球员是谁？",
+    "options": [
+      "王治郅",
+      "易建联",
+      "巴特尔",
+      "孙悦"
+    ],
+    "correctAnswer": 2,
+    "explanation": "巴特尔在2002-03赛季随马刺夺冠，虽然上场时间不多；首位登陆NBA的中国球员是王治郅，孙悦则是在2009年随湖人夺冠。"
+  },
+  {
+    "id": "sports-062",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "2016年库里成为NBA历史上第一位什么样的常规赛MVP？",
+    "options": [
+      "最年轻的MVP",
+      "连续三年当选的MVP",
+      "身高最矮的MVP",
+      "全票通过的MVP"
+    ],
+    "correctAnswer": 3,
+    "explanation": "那个赛季库里投进402记三分，刷新了单赛季三分球纪录，此前一年他刚拿到自己的第一个MVP。"
+  },
+  {
+    "id": "sports-063",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "2021年12月，库里在哪座球馆超越雷·阿伦，成为三分球历史第一人？",
+    "options": [
+      "波士顿TD花园",
+      "洛杉矶斯台普斯中心",
+      "纽约麦迪逊广场花园",
+      "芝加哥联合中心"
+    ],
+    "correctAnswer": 2,
+    "explanation": "那晚勇士以105比96击败尼克斯，库里投进5记三分，把生涯总数推到2977个，超过阿伦保持的2973个。"
+  },
+  {
+    "id": "sports-064",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "NBA总决赛MVP奖杯，是以哪位传奇的名字命名的？",
+    "options": [
+      "张伯伦",
+      "贾巴尔",
+      "迈克尔·乔丹",
+      "比尔·拉塞尔"
+    ],
+    "correctAnswer": 3,
+    "explanation": "该奖自2009年起以拉塞尔命名，他在13个赛季里拿了11个总冠军，是NBA历史上冠军最多的球员。"
+  },
+  {
+    "id": "sports-065",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "2004年总决赛，靠防守和团队爆冷击败“F4”湖人的黑马是？",
+    "options": [
+      "新泽西网队",
+      "底特律活塞",
+      "印第安纳步行者",
+      "圣安东尼奥马刺"
+    ],
+    "correctAnswer": 1,
+    "explanation": "湖人有奥尼尔、科比、马龙、佩顿四位未来名人堂球员，活塞却以4比1夺冠，比卢普斯当选总决赛MVP，被称为“大卫战胜歌利亚”。"
+  },
+  {
+    "id": "sports-066",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "2007年德国的诺维茨基当选常规赛MVP，创造了什么历史？",
+    "options": [
+      "首位替补出身的MVP",
+      "首位亚洲球员MVP",
+      "最年轻的MVP",
+      "首位欧洲球员MVP"
+    ],
+    "correctAnswer": 3,
+    "explanation": "2011年他带领小牛在总决赛击败了刚组成“三巨头”的热火，为球队拿到队史首个总冠军。"
+  },
+  {
+    "id": "sports-067",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "2004年麦迪上演“35秒13分”神迹，被他逆转的是哪支球队？",
+    "options": [
+      "洛杉矶湖人",
+      "圣安东尼奥马刺",
+      "菲尼克斯太阳",
+      "达拉斯小牛"
+    ],
+    "correctAnswer": 1,
+    "explanation": "麦迪连投4记三分，其中一记还造成了四分打，最后2秒命中绝杀三分，火箭以81比80完成逆转。"
+  },
+  {
+    "id": "sports-068",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "2008年，火箭队一口气打出22连胜，终结这一连胜的是哪支球队？",
+    "options": [
+      "达拉斯小牛",
+      "圣安东尼奥马刺",
+      "波士顿凯尔特人",
+      "洛杉矶湖人"
+    ],
+    "correctAnswer": 2,
+    "explanation": "22连胜始于1月29日，当时是NBA历史第二长的连胜；3月18日火箭在波士顿以74比94落败，连胜终结，凯尔特人当年夺冠。"
+  },
+  {
+    "id": "sports-069",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "2016-17赛季威少场均交出三双，上一位做到的传奇是谁？",
+    "options": [
+      "威尔特·张伯伦",
+      "奥斯卡·罗伯特森",
+      "魔术师约翰逊",
+      "拉里·伯德"
+    ],
+    "correctAnswer": 1,
+    "explanation": "“大O”罗伯特森是在1961-62赛季做到的，隔了半个多世纪才有人重现；威少当季还拿下42次三双，超过大O保持的单赛季41次纪录。"
+  },
+  {
+    "id": "sports-070",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "邓肯少年时想当奥运游泳选手，后来改打篮球，跟一场什么灾难有关？",
+    "options": [
+      "飓风摧毁了岛上唯一的奥运泳池",
+      "泳池被改建成篮球场",
+      "一次严重的溺水事故",
+      "泳馆遭遇大火"
+    ],
+    "correctAnswer": 0,
+    "explanation": "邓肯在美属维尔京群岛长大，1989年飓风“雨果”毁掉了泳池，他只能去海里练，又怕鲨鱼，这才转向篮球，后来为马刺拿了5个总冠军。"
+  },
+  {
+    "id": "sports-071",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "2023年2月，詹姆斯超越谁，成为NBA历史得分王？",
+    "options": [
+      "贾巴尔",
+      "乔丹",
+      "张伯伦",
+      "卡尔·马龙"
+    ],
+    "correctAnswer": 0,
+    "explanation": "贾巴尔靠招牌“天钩”把纪录保持了近39年，总得分是38387分。"
+  },
+  {
+    "id": "sports-072",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "2016年科比生涯谢幕战砍下60分，赛后他对全场说的最后一句话是？",
+    "options": [
+      "Kobe forever",
+      "Mamba out",
+      "That's all, folks",
+      "Thank you, LA"
+    ],
+    "correctAnswer": 1,
+    "explanation": "他带领湖人以101比96逆转爵士，用一场60分的大爆发告别20年生涯，“Mamba out”也成了他的招牌告别语。"
+  },
+  {
+    "id": "sports-073",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "2007-08赛季起，凯尔特人每次围圈打气结束时，会齐声喊出哪个词？",
+    "options": [
+      "All Hands",
+      "Ubuntu",
+      "Kumbaya",
+      "Green Machine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ubuntu是南非的一种理念，大意是“我因大家而存在”。球队靠它把加内特、皮尔斯、雷·阿伦拧成一股绳，当季4比2击败湖人，拿到队史第17冠。"
+  },
+  {
+    "id": "sports-074",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "张伯伦1962年单场砍下100分，那场比赛是在哪座小镇打的？",
+    "options": [
+      "马萨诸塞州斯普林菲尔德",
+      "北卡罗来纳州教堂山",
+      "宾夕法尼亚州赫尔希",
+      "俄亥俄州阿克伦"
+    ],
+    "correctAnswer": 2,
+    "explanation": "现场只有4000多名观众，没有电视转播，只留下第四节的广播录音；勇士以169比147击败尼克斯。"
+  },
+  {
+    "id": "sports-075",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "洛杉矶没什么湖，湖人队为什么叫“Lakers”？",
+    "options": [
+      "队标取自加州一个湖泊",
+      "球馆建在湖边",
+      "球队起源于“万湖之州”明尼苏达",
+      "老板是钓鱼爱好者"
+    ],
+    "correctAnswer": 2,
+    "explanation": "湖人1947年在明尼阿波利斯成立，名字取自明尼苏达“万湖之地”（Land of 10,000 Lakes）的别称；1960年迁到洛杉矶后，名字一直沿用至今。"
+  },
+  {
+    "id": "sports-076",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "1986年世界杯，马拉多纳的“上帝之手”进球，攻破的是哪国球门？",
+    "options": [
+      "英格兰",
+      "德国",
+      "意大利",
+      "巴西"
+    ],
+    "correctAnswer": 0,
+    "explanation": "赛后马拉多纳说这球“一半是上帝之手，一半是我的头”。四分钟后他又连过数人独进“世纪进球”，阿根廷2比1晋级并最终夺冠。"
+  },
+  {
+    "id": "sports-077",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "1994年世界杯决赛，罚失最后一个点球、让巴西夺冠的意大利球星是谁？",
+    "options": [
+      "德尔·皮耶罗",
+      "保罗·罗西",
+      "保罗·马尔蒂尼",
+      "罗伯托·巴乔"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这是世界杯历史上第一场靠点球大战决出冠军的决赛，巴乔那脚球高高飞过横梁，巴西点球3比2夺得队史第四冠。"
+  },
+  {
+    "id": "sports-078",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "2010年世界杯，德国“预言帝”章鱼保罗预测夺冠的是哪支球队？",
+    "options": [
+      "德国",
+      "西班牙",
+      "乌拉圭",
+      "荷兰"
+    ],
+    "correctAnswer": 1,
+    "explanation": "保罗要在两个分别贴着国旗、装着食物的水箱里选一个，8场预测全部命中，包括西班牙1比0击败荷兰的决赛。"
+  },
+  {
+    "id": "sports-079",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "2005年欧冠决赛，利物浦半场0比3落后，最终逆转击败了哪支球队？",
+    "options": [
+      "巴塞罗那",
+      "AC米兰",
+      "尤文图斯",
+      "皇家马德里"
+    ],
+    "correctAnswer": 1,
+    "explanation": "下半场利物浦在6分钟内连扳三球，最后点球大战3比2取胜，这场发生在伊斯坦布尔的比赛被称为“伊斯坦布尔奇迹”。"
+  },
+  {
+    "id": "sports-080",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "1999年欧冠决赛，曼联在补时阶段连进两球，逆转击败了谁完成三冠王？",
+    "options": [
+      "拜仁慕尼黑",
+      "皇家马德里",
+      "巴塞罗那",
+      "尤文图斯"
+    ],
+    "correctAnswer": 0,
+    "explanation": "比赛进行到第90分钟，曼联还0比1落后，两名替补谢林汉姆和索尔斯克亚在补时阶段先后破门，完成了极限逆转。"
+  },
+  {
+    "id": "sports-081",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "2016年莱斯特城童话夺冠，赛季开始前博彩公司开出的夺冠赔率约是多少？",
+    "options": [
+      "500比1",
+      "5000比1",
+      "50比1",
+      "100比1"
+    ],
+    "correctAnswer": 1,
+    "explanation": "带队的是拉涅利，瓦尔迪连续11场破门，马赫雷斯当选PFA年度最佳球员，球队最终拿下81分，被视为足球史上最大的冷门之一。"
+  },
+  {
+    "id": "sports-082",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "2003-04赛季，阿森纳在英超创下了怎样的奇迹？",
+    "options": [
+      "整个赛季联赛不败夺冠",
+      "全胜夺冠",
+      "主客场全部零封对手",
+      "单赛季进球破100个"
+    ],
+    "correctAnswer": 0,
+    "explanation": "阿森纳当季26胜12平，联赛保持不败，被称为“无敌之师”（The Invincibles），联赛方还专门为他们打造了一座金色奖杯。"
+  },
+  {
+    "id": "sports-083",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "2004年欧洲杯，赛前夺冠赔率高达150比1的希腊，决赛1比0击败了谁？",
+    "options": [
+      "西班牙",
+      "荷兰",
+      "英格兰",
+      "东道主葡萄牙"
+    ],
+    "correctAnswer": 3,
+    "explanation": "希腊主帅雷哈格尔是德国人，也是首位带领非本国球队夺得欧洲杯的教练；希腊一路1比0淘汰法国、捷克，决赛由查里斯特亚斯头球制胜。"
+  },
+  {
+    "id": "sports-084",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "13岁的梅西加盟巴萨时，第一份合同是写在什么东西上的？",
+    "options": [
+      "一张餐巾纸",
+      "一张机票背面",
+      "一页练习本",
+      "一张比赛门票"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2000年12月14日，巴萨技术负责人雷克萨奇担心夜长梦多，随手在餐巾纸上写下合约。梅西十岁时被诊断出生长激素缺乏症，巴萨愿意承担他的治疗费用。"
+  },
+  {
+    "id": "sports-085",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "C罗名字里的“罗纳尔多”，据说是因为父亲喜欢哪位美国名人？",
+    "options": [
+      "歌手猫王",
+      "拳王阿里",
+      "总统肯尼迪",
+      "总统里根"
+    ],
+    "correctAnswer": 3,
+    "explanation": "C罗的父亲是罗纳德·里根的崇拜者，就给儿子取了“罗纳尔多”（Ronaldo）作中间名；C罗出生在葡萄牙马德拉岛的丰沙尔。"
+  },
+  {
+    "id": "sports-086",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "2016年欧洲杯决赛，C罗第25分钟伤退，加时赛射入制胜球的是谁？",
+    "options": [
+      "夸雷斯马",
+      "纳尼",
+      "埃德尔",
+      "若昂·马里奥"
+    ],
+    "correctAnswer": 2,
+    "explanation": "埃德尔替补出场，加时赛中一脚远射洞穿洛里斯的十指关，葡萄牙1比0击败东道主法国，拿到队史首个大赛冠军；C罗则在场边一直呐喊指挥。"
+  },
+  {
+    "id": "sports-087",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "足球场上红黄牌的灵感，来自英国裁判阿斯顿看到的什么？",
+    "options": [
+      "消防车警灯",
+      "路边的警示牌",
+      "铁路信号旗",
+      "路口的红绿灯"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1966年世界杯后，阿斯顿开车经过肯辛顿大街的路口，突然想到黄灯提醒、红灯停止，这套办法不受语言限制，1970年世界杯首次亮相。"
+  },
+  {
+    "id": "sports-088",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "2012年英超最后一轮，阿圭罗补时绝杀帮曼城夺冠，被绝杀的是谁？",
+    "options": [
+      "斯旺西城",
+      "西布朗",
+      "桑德兰",
+      "女王公园巡游者"
+    ],
+    "correctAnswer": 3,
+    "explanation": "曼城当时1比2落后，补时阶段连进两球3比2逆转；他们与曼联同积89分，凭净胜球夺冠，阿圭罗的制胜球恰好发生在曼联比赛结束后不久。"
+  },
+  {
+    "id": "sports-089",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "利物浦球迷赛前在安菲尔德齐声高唱的传统歌曲是？",
+    "options": [
+      "《你永远不会独行》",
+      "《嘿，朱迪》",
+      "《我们是冠军》",
+      "《昨日》"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首歌原是1945年音乐剧《旋转木马》的插曲，1963年利物浦本地乐队Gerry and the Pacemakers翻唱后热销，球迷把它唱成了队歌，队徽上也印着这句话。"
+  },
+  {
+    "id": "sports-090",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "1999年女足世界杯决赛，中国女足与谁鏖战至点球大战，遗憾获得亚军？",
+    "options": [
+      "美国",
+      "巴西",
+      "挪威",
+      "德国"
+    ],
+    "correctAnswer": 0,
+    "explanation": "两队120分钟战成0比0，点球大战中国队4比5落败；比赛在玫瑰碗球场举行，现场超过9万名观众，孙雯当选赛事最佳球员（金球奖）。"
+  },
+  {
+    "id": "sports-091",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "2022年女足亚洲杯决赛，中国女足先丢球、再3比2逆转了哪支球队？",
+    "options": [
+      "朝鲜",
+      "韩国",
+      "日本",
+      "澳大利亚"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这是中国女足第9次捧起亚洲杯，创下赛事纪录，距离上一次夺冠（2006年）已经过去16年。"
+  },
+  {
+    "id": "sports-092",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "2002年带领中国男足首次打进世界杯的外籍主帅是谁？",
+    "options": [
+      "卡马乔",
+      "里皮",
+      "阿里·汉",
+      "米卢蒂诺维奇"
+    ],
+    "correctAnswer": 3,
+    "explanation": "中国队在2002年世界杯小组赛三战全败、一球未进，但米卢的“快乐足球”和“态度决定一切”成了流行语。他还曾带领五支不同的国家队打进世界杯。"
+  },
+  {
+    "id": "sports-093",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "2020年1月，武磊替补上场打入绝平球，成为首位攻破哪支豪门球门的中国球员？",
+    "options": [
+      "马德里竞技",
+      "巴塞罗那",
+      "塞维利亚",
+      "皇家马德里"
+    ],
+    "correctAnswer": 1,
+    "explanation": "那场比赛他在第88分钟破门，帮西班牙人与巴萨2比2战平；此前的2019年3月，他还成为首位在西甲进球的中国球员（对巴利亚多利德）。"
+  },
+  {
+    "id": "sports-094",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "2008年温网决赛，纳达尔在暮色中五盘鏖战击败了谁，被誉为最伟大的比赛？",
+    "options": [
+      "罗迪克",
+      "阿加西",
+      "德约科维奇",
+      "费德勒"
+    ],
+    "correctAnswer": 3,
+    "explanation": "决赛打了近5小时，决胜盘9比7，天黑得差点没法继续；纳达尔也终结了费德勒的温网五连冠。"
+  },
+  {
+    "id": "sports-095",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "纳达尔2005年首次征战法网就夺冠，他一生共拿了多少个法网男单冠军？",
+    "options": [
+      "15个",
+      "12个",
+      "14个",
+      "13个"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2005年他刚满19岁，决赛击败阿根廷的普埃尔塔；此后到2022年，他一共14次捧起火枪手杯。"
+  },
+  {
+    "id": "sports-096",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "2023年美网夺冠，德约科维奇的第24个大满贯，追平了谁保持的总纪录？",
+    "options": [
+      "小威廉姆斯",
+      "格拉芙",
+      "纳芙拉蒂洛娃",
+      "玛格丽特·考特"
+    ],
+    "correctAnswer": 3,
+    "explanation": "澳大利亚传奇考特在业余和公开赛时代一共拿到24个大满贯单打冠军；德约在那次决赛6比3、7比6、6比3击败梅德韦杰夫，也成为公开赛年代最年长的美网男单冠军。"
+  },
+  {
+    "id": "sports-097",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "1988年格拉芙包揽四大满贯后，又在哪项赛事夺冠，完成了单打历史上唯一的「年度金满贯」？",
+    "options": [
+      "汉堡公开赛",
+      "汉城奥运会",
+      "联合会杯",
+      "年终总决赛"
+    ],
+    "correctAnswer": 1,
+    "explanation": "格拉芙在奥运决赛6比3、6比3击败萨巴蒂尼；1988年是网球重返奥运会的第一年，她也成为唯一同年集齐四大满贯与奥运金牌的单打选手。"
+  },
+  {
+    "id": "sports-098",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "2006年，郑洁/晏紫这对中国组合，在哪两项大满贯赛事夺得女双冠军？",
+    "options": [
+      "澳网和温网",
+      "法网和美网",
+      "温网和美网",
+      "澳网和法网"
+    ],
+    "correctAnswer": 0,
+    "explanation": "两人两年后又在北京奥运会女双比赛中拿到铜牌，铜牌战6比2、6比2击败乌克兰的邦达连科姐妹。"
+  },
+  {
+    "id": "sports-099",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "2004年雅典奥运会，李婷/孙甜甜拿下了中国网球的首枚奥运金牌，项目是？",
+    "options": [
+      "女子单打",
+      "女子双打",
+      "男子双打",
+      "男子单打"
+    ],
+    "correctAnswer": 1,
+    "explanation": "她们在决赛中6比3、6比3击败西班牙的马丁内斯/鲁阿诺·帕斯夸尔，让中国网球第一次站上奥运最高领奖台。"
+  },
+  {
+    "id": "sports-100",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "2024年巴黎奥运会，郑钦文夺得女单金牌，创造了什么历史？",
+    "options": [
+      "首位包揽单双打金牌的选手",
+      "最年轻的奥运网球冠军",
+      "首位夺得大满贯单打冠军的中国人",
+      "首位夺得奥运网球单打金牌的亚洲选手"
+    ],
+    "correctAnswer": 3,
+    "explanation": "她在决赛中6比2、6比3击败克罗地亚的维基奇；同年年初她还打进了澳网决赛，输给了萨巴伦卡。"
+  },
+  {
+    "id": "sports-101",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "2022年费德勒的告别之战，他选择和哪位宿敌搭档打双打？",
+    "options": [
+      "纳达尔",
+      "穆雷",
+      "瓦林卡",
+      "德约科维奇"
+    ],
+    "correctAnswer": 0,
+    "explanation": "拉沃尔杯在伦敦O2球馆举行，两人组成欧洲队，在决胜盘抢十局9比11输给了索克和蒂亚福，赛后两位老对手在场上相拥落泪。"
+  },
+  {
+    "id": "sports-102",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "网球里的“大满贯”（Grand Slam）一词，最早借自哪种游戏？",
+    "options": [
+      "国际象棋",
+      "桥牌",
+      "扑克",
+      "麻将"
+    ],
+    "correctAnswer": 1,
+    "explanation": "桥牌里一方赢下全部13墩牌叫“大满贯”。1933年记者把杰克·克劳福德争取包揽四大赛的尝试称为“大满贯”，此后一直沿用。"
+  },
+  {
+    "id": "sports-103",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "1975年温网决赛，阿瑟·阿什（美网主球场以他命名）击败了大热门谁？",
+    "options": [
+      "麦肯罗",
+      "纳斯塔塞",
+      "博格",
+      "康纳斯"
+    ],
+    "correctAnswer": 3,
+    "explanation": "阿什四盘击败康纳斯，也是唯一赢得温网、美网、澳网男单冠军的黑人球员；美网主球场1997年落成，以他的名字命名。"
+  },
+  {
+    "id": "sports-104",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "德约科维奇少年时在战乱中的贝尔格莱德，曾把什么地方改成练球场？",
+    "options": [
+      "一座废弃的游泳池",
+      "楼顶天台",
+      "地下停车场",
+      "学校礼堂"
+    ],
+    "correctAnswer": 0,
+    "explanation": "在南斯拉夫战乱和制裁的年代，他仍坚持训练，后来成为集齐四大满贯冠军的传奇，并在2023年拿到第24个大满贯。"
+  },
+  {
+    "id": "sports-105",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "李宗伟三次打进奥运男单决赛却全部拿银牌，前两次输给的都是谁？",
+    "options": [
+      "谌龙",
+      "陶菲克",
+      "林丹",
+      "安赛龙"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2008年他12比21、8比21惨败，2012年在决胜局19比21惜败，2016年又输给谌龙；三块银牌让他成为马来西亚奥运史上成绩最出色的运动员之一。"
+  },
+  {
+    "id": "sports-106",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "2021年东京奥运会女单决赛，陈雨菲三局苦战击败了谁夺得金牌？",
+    "options": [
+      "安洗莹",
+      "山口茜",
+      "辛杜",
+      "戴资颖"
+    ],
+    "correctAnswer": 3,
+    "explanation": "决赛比分是21比18、19比21、21比18；2019年世界羽联巡回赛总决赛，陈雨菲也曾先失一局后逆转戴资颖夺冠。"
+  },
+  {
+    "id": "sports-107",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "1992年羽毛球首次成为奥运正式项目，印尼在这届拿到的两枚金牌有何特殊意义？",
+    "options": [
+      "让印尼取代中国成为羽坛霸主",
+      "囊括当届羽毛球全部金牌",
+      "是印尼在奥运会上的首枚奖牌",
+      "是印尼奥运史上的首批金牌"
+    ],
+    "correctAnswer": 3,
+    "explanation": "苏西·苏珊蒂和阿兰·布迪库苏马分别拿下女单、男单金牌，印尼也成为第一个夺得奥运金牌的东南亚国家；两位冠军后来还结为夫妻。"
+  },
+  {
+    "id": "sports-108",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "1977年世锦赛诞生之前，一直被视为羽毛球“非官方世锦赛”的是哪项赛事？",
+    "options": [
+      "苏迪曼杯",
+      "汤姆斯杯",
+      "全英公开赛",
+      "亚洲羽毛球锦标赛"
+    ],
+    "correctAnswer": 2,
+    "explanation": "全英赛创办于1899年，是世界上最古老的羽毛球赛事，直到1977年国际羽联才推出正式的世界锦标赛。"
+  },
+  {
+    "id": "sports-109",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "1982年中国男队首次参加汤姆斯杯就夺冠，5比4险胜的是哪支强队？",
+    "options": [
+      "丹麦",
+      "马来西亚",
+      "印度尼西亚",
+      "日本"
+    ],
+    "correctAnswer": 2,
+    "explanation": "此前汤姆斯杯的冠军只有马来亚/马来西亚和印尼两家；这项赛事以英国选手乔治·汤姆斯爵士命名，他受戴维斯杯和世界杯启发提出举办男子团体赛。"
+  },
+  {
+    "id": "sports-110",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "谌龙2016年里约奥运夺金，五年后东京奥运男单决赛输给了谁？",
+    "options": [
+      "桃田贤斗",
+      "安赛龙",
+      "李宗伟",
+      "陶菲克"
+    ],
+    "correctAnswer": 1,
+    "explanation": "安赛龙以21比15、21比12夺冠，2024年巴黎再度卫冕，成为林丹之后第二位男单奥运两连冠。"
+  },
+  {
+    "id": "sports-111",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "羽毛球的英文shuttlecock，其中的“shuttle”源自什么？",
+    "options": [
+      "发明者的姓氏",
+      "往返奔波的班车",
+      "印度语里的“飞鸟”",
+      "织布机上来回穿梭的梭子"
+    ],
+    "correctAnswer": 3,
+    "explanation": "羽毛球来回飞的样子像织布机的梭子，而“cock”则因羽毛像公鸡的尾羽而得名；一只标准羽毛球通常有16根羽毛。"
+  },
+  {
+    "id": "sports-112",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "2020年东京奥运会羽毛球混双决赛，是怎样的一场对决？",
+    "options": [
+      "印尼对韩国",
+      "中国对日本",
+      "两对选手都是中国人的内战",
+      "中国对印尼"
+    ],
+    "correctAnswer": 2,
+    "explanation": "王懿律/黄东萍击败郑思维/黄雅琼夺冠；三年后的巴黎奥运会，郑思维/黄雅琼拿到了混双金牌。"
+  },
+  {
+    "id": "sports-113",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "2020和2024年两届奥运男双金牌，都被来自中国台北的哪对组合夺得？",
+    "options": [
+      "阿山/塞蒂亚万",
+      "李洋/王齐麟",
+      "傅海峰/蔡赟",
+      "李俊慧/刘雨辰"
+    ],
+    "correctAnswer": 1,
+    "explanation": "李洋/王齐麟2020年东京夺冠后，2024年巴黎再次登顶，成功卫冕。"
+  },
+  {
+    "id": "sports-114",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "1971年“乒乓外交”的起点，是名古屋世乒赛上的哪一幕？",
+    "options": [
+      "美国选手误上了中国队的大巴",
+      "中国队向美国队赠送球拍",
+      "美国队向中国队发出挑战书",
+      "中美选手在餐厅偶遇合影"
+    ],
+    "correctAnswer": 0,
+    "explanation": "美国选手科恩误上中国队大巴，队长庄则栋主动送他一幅丝织的黄山风景画，照片传遍世界；几天后美国队受邀访华，为次年尼克松访华铺了路。"
+  },
+  {
+    "id": "sports-115",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "1959年谁在多特蒙德夺得世乒赛男单冠军，成为新中国第一位世界冠军？",
+    "options": [
+      "庄则栋",
+      "李富荣",
+      "容国团",
+      "徐寅生"
+    ],
+    "correctAnswer": 2,
+    "explanation": "容国团出生在香港，1957年回到内地；他在那届比赛里连胜七场夺冠，为新中国赢得了第一个世界冠军。"
+  },
+  {
+    "id": "sports-116",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "瑞典传奇瓦尔德内尔球风灵动，被外媒誉为乒乓球界的什么？",
+    "options": [
+      "莫扎特",
+      "达·芬奇",
+      "贝多芬",
+      "毕加索"
+    ],
+    "correctAnswer": 0,
+    "explanation": "他1992年夺得奥运男单金牌，是至今唯一拿过奥运乒乓球金牌的中日韩以外的选手，在中国被亲切地称为“老瓦”“常青树”。"
+  },
+  {
+    "id": "sports-117",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "2021年东京奥运会新增乒乓球混双，把中国队挡在这枚金牌之外的是谁？",
+    "options": [
+      "日本的水谷隼/伊藤美诚",
+      "德国组合",
+      "韩国组合",
+      "中国台北组合"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这是日本乒乓球史上首枚奥运金牌；中国队的许昕/刘诗雯屈居亚军，中国队在那届奥运会的另外4个项目全部夺冠。"
+  },
+  {
+    "id": "sports-118",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "乒乓球世乒赛男子团体冠军的奖杯，叫什么？",
+    "options": [
+      "汤姆斯杯",
+      "考比伦杯",
+      "斯韦思林杯",
+      "苏迪曼杯"
+    ],
+    "correctAnswer": 2,
+    "explanation": "女子团体的奖杯叫考比伦杯；汤姆斯杯和苏迪曼杯则是羽毛球团体赛的奖杯。"
+  },
+  {
+    "id": "sports-119",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "2000年起乒乓球从38毫米改成40毫米的“大球”，主要目的是什么？",
+    "options": [
+      "降低比赛用球成本",
+      "让初学者更容易上手",
+      "让球速变慢、回合变多",
+      "方便选手大力扣杀"
+    ],
+    "correctAnswer": 2,
+    "explanation": "当时球拍胶皮越来越厚，球速快得连电视观众都看不清，大球增加了空气阻力；2001年国际乒联又把21分制改成了11分制。"
+  },
+  {
+    "id": "sports-120",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "邓亚萍退役后继续深造，拿到了哪所世界名校的博士学位？",
+    "options": [
+      "剑桥大学",
+      "斯坦福大学",
+      "哈佛大学",
+      "牛津大学"
+    ],
+    "correctAnswer": 0,
+    "explanation": "邓亚萍2008年在剑桥完成土地经济学博士学位，论文谈的是奥运会对中国发展的影响；她9岁时还曾因个子太矮，在河南省队集训15天就被退回。"
+  },
+  {
+    "id": "sports-121",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "乒乓球是哪一年、在哪座城市的奥运会上首次成为正式项目？",
+    "options": [
+      "1992年巴塞罗那",
+      "1980年莫斯科",
+      "1984年洛杉矶",
+      "1988年汉城"
+    ],
+    "correctAnswer": 3,
+    "explanation": "首届奥运乒乓球男单金牌被韩国选手刘南奎夺得；此后的三十多年里，中国队拿走了绝大多数金牌。"
+  },
+  {
+    "id": "sports-122",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "1995年天津世乒赛，中国队交出了怎样的成绩单？",
+    "options": [
+      "男女单打冠军双双失守",
+      "丢掉了男团冠军",
+      "包揽全部7个项目的冠军",
+      "只拿到4个项目冠军"
+    ],
+    "correctAnswer": 2,
+    "explanation": "孔令辉夺得男单，邓亚萍夺得女单，还和乔红拿下女双，中国队七个项目全部登顶。"
+  },
+  {
+    "id": "sports-123",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "乒乓球名将张怡宁因场上气势逼人，被球迷送了什么外号？",
+    "options": [
+      "冷面杀手",
+      "铁娘子",
+      "大魔王",
+      "小旋风"
+    ],
+    "correctAnswer": 2,
+    "explanation": "张怡宁在2004年雅典和2008年北京奥运会上连夺女单金牌，还拿到了双打和团体金牌，一共4枚。"
+  },
+  {
+    "id": "sports-124",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "2008年北京奥运会男子100米蝶泳，菲尔普斯险胜卡维奇的差距是多少？",
+    "options": [
+      "0.1秒",
+      "0.01秒",
+      "1.5秒",
+      "0.5秒"
+    ],
+    "correctAnswer": 1,
+    "explanation": "最后一划卡维奇想滑行触壁，菲尔普斯却多划了半下，抢先摸到池壁；塞尔维亚队提出抗议，慢镜头回放确认菲尔普斯先到。这是他的第7枚金牌，追平了斯皮茨。"
+  },
+  {
+    "id": "sports-125",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "2008年男子4×100米自由泳接力，谁在最后一棒逆转法国，保住了菲尔普斯的八金梦？",
+    "options": [
+      "杰森·莱萨克",
+      "加勒特·韦伯-盖尔",
+      "瑞安·洛克特",
+      "阿兰·贝尔纳"
+    ],
+    "correctAnswer": 0,
+    "explanation": "莱萨克游出46秒06，是当时接力史上最快的分段，追回了法国贝尔纳近0.6秒的领先，美国队以0.08秒险胜并打破世界纪录。"
+  },
+  {
+    "id": "sports-126",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "中国游泳在奥运会的第一枚金牌，是1992年谁夺得的？",
+    "options": [
+      "庄泳",
+      "乐靖宜",
+      "罗雪娟",
+      "叶诗文"
+    ],
+    "correctAnswer": 0,
+    "explanation": "庄泳夺得女子100米自由泳金牌；四年前的汉城奥运会，她在同一项目拿到银牌，那是中国游泳的第一枚奥运奖牌。"
+  },
+  {
+    "id": "sports-127",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "蝶泳在成为独立泳姿之前，是靠钻哪个项目的规则空子发展起来的？",
+    "options": [
+      "仰泳",
+      "侧泳",
+      "蛙泳",
+      "自由泳"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1926年德国人拉德马赫在蛙泳中把双臂抬出水面前摆，规则里没有禁止；1952年国际泳联把两者分开，1956年蝶泳进入奥运会。"
+  },
+  {
+    "id": "sports-128",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "2008年风靡泳坛的“鲨鱼皮”泳衣，后来为何被国际泳联禁用？",
+    "options": [
+      "被认为是“技术兴奋剂”，有失公平",
+      "材料对皮肤有害",
+      "太紧导致选手缺氧",
+      "会造成泳池水质污染"
+    ],
+    "correctAnswer": 0,
+    "explanation": "北京奥运会的25项游泳世界纪录里，有23项是穿着LZR Racer泳衣打破的；2010年1月1日起，全身式聚氨酯泳衣被禁用。"
+  },
+  {
+    "id": "sports-129",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "2016年里约奥运会，傅园慧赛后一句什么话火遍全网？",
+    "options": [
+      "我今天状态一般！",
+      "我已经使出了洪荒之力！",
+      "我要回家吃火锅！",
+      "我只想拿金牌！"
+    ],
+    "correctAnswer": 1,
+    "explanation": "她在女子100米仰泳决赛游出58秒76，与加拿大选手并列第三，拿到铜牌，夸张又可爱的表情包一夜刷屏。"
+  },
+  {
+    "id": "sports-130",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "2024年巴黎奥运会男子100米自由泳，潘展乐夺冠的成绩有多惊人？",
+    "options": [
+      "打破世界纪录，领先亚军超1秒",
+      "以0.01秒险胜夺冠",
+      "未破纪录但首夺该项金牌",
+      "追平世界纪录"
+    ],
+    "correctAnswer": 0,
+    "explanation": "他游出46秒40，把世界纪录提高了0.40秒，还领先亚军1.08秒，在这个项目上堪称碾压。"
+  },
+  {
+    "id": "sports-131",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "“自由泳”项目其实可以用任何泳姿，为什么运动员几乎都游爬泳？",
+    "options": [
+      "爬泳是最容易学会的泳姿",
+      "其他泳姿会被直接判犯规",
+      "规则明文规定只能游爬泳",
+      "因为爬泳是速度最快的泳姿"
+    ],
+    "correctAnswer": 3,
+    "explanation": "自由泳比赛不限泳姿（混合泳中除外），谁快就用谁；爬泳速度最快，所以几乎所有人都用它，“自由泳”也就成了爬泳的代名词。"
+  },
+  {
+    "id": "sports-132",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "2019年，肯尼亚的基普乔格在维也纳做到了什么？",
+    "options": [
+      "跑进2小时大关，但不计入世界纪录",
+      "首次在奥运会上夺得马拉松金牌",
+      "一天内连续跑完两个全程马拉松",
+      "刷新了男子马拉松官方世界纪录"
+    ],
+    "correctAnswer": 0,
+    "explanation": "他用时1小时59分40秒，但因为有配速员轮换领跑、专用领跑车和场外补给，不符合正式比赛规则，只被视为非官方成绩；吉尼斯世界纪录则予以认可。"
+  },
+  {
+    "id": "sports-133",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "博尔特少年时，是谁最早发现他的速度、建议他改练田径？",
+    "options": [
+      "一位街头拳击手",
+      "牙买加国家队总教练",
+      "学校的板球教练",
+      "当地报社摄影记者"
+    ],
+    "correctAnswer": 2,
+    "explanation": "博尔特小时候爱和哥哥在街头踢球、打板球；学校的板球教练看到他在场上的速度，才劝他试试田径，后来他成了短跑史上最快的人。"
+  },
+  {
+    "id": "sports-134",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "2008年北京奥运会男子100米决赛，博尔特破纪录时有什么惊人细节？",
+    "options": [
+      "中途停下来系鞋带",
+      "赤脚跑完全程",
+      "起跑抢跑后重新开始",
+      "冲线前就放慢脚步、拍胸庆祝"
+    ],
+    "correctAnswer": 3,
+    "explanation": "他9秒69夺冠，教练估计要是没有提前庆祝，成绩还能再快一些；有趣的是，他的一只鞋带其实一直是松的。"
+  },
+  {
+    "id": "sports-135",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "如今跳高几乎人人使用的背越式过杆姿势，又叫什么？",
+    "options": [
+      "博尔特跳",
+      "福斯贝里跳",
+      "朱建华跳",
+      "索托马约尔跳"
+    ],
+    "correctAnswer": 1,
+    "explanation": "美国选手迪克·福斯贝里1968年在墨西哥城奥运会上用这种背对横杆、仰面过杆的方式夺冠，最初被当成怪招，如今已是跳高的主流技术。"
+  },
+  {
+    "id": "sports-136",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "1936年柏林奥运会，杰西·欧文斯在田径场上一共拿下几枚金牌？",
+    "options": [
+      "4枚",
+      "5枚",
+      "3枚",
+      "2枚"
+    ],
+    "correctAnswer": 0,
+    "explanation": "他包揽了100米、200米、跳远和4×100米接力四项金牌，在纳粹德国主办的奥运会上给“种族优越论”一记响亮的耳光；48年后，卡尔·刘易斯在1984年洛杉矶奥运会上再次包揽了这四项。"
+  },
+  {
+    "id": "sports-137",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "1904年圣路易斯奥运会马拉松，第一个冲线的选手后来被取消成绩，原因是？",
+    "options": [
+      "起跑时抢跑",
+      "抄近路少跑了一圈",
+      "中途搭了一段汽车",
+      "请人替跑了一段"
+    ],
+    "correctAnswer": 2,
+    "explanation": "美国人洛茨跑到9英里就体力不支，搭车回到体育场，汽车在19英里处抛锚后他又跑了回来，冲线后一度被当成冠军，事后他说这只是个玩笑。"
+  },
+  {
+    "id": "sports-138",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "撑杆跳世界纪录一再刷新的杜普兰蒂斯代表瑞典，他出生在哪个国家？",
+    "options": [
+      "挪威",
+      "瑞典",
+      "法国",
+      "美国"
+    ],
+    "correctAnswer": 3,
+    "explanation": "他出生在美国路易斯安那州，父亲是美国撑杆跳选手，母亲是瑞典七项全能选手；他4岁就在自家后院学撑杆跳，2020和2024年两夺奥运金牌。"
+  },
+  {
+    "id": "sports-139",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "公元前776年首届古代奥运会，只有一个比赛项目，是什么？",
+    "options": [
+      "掷铁饼",
+      "摔跤",
+      "短跑",
+      "战车赛"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这个项目叫“斯塔迪翁”（stadion），赛程只有一个赛场的长度，约192米；英文里的“体育场”（stadium）一词就来源于它。"
+  },
+  {
+    "id": "sports-140",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "巩立姣2021年东京奥运会女子铅球夺金，这枚金牌有何历史意义？",
+    "options": [
+      "中国首位奥运田径金牌得主",
+      "中国首位奥运会田赛项目冠军",
+      "首位打破铅球世界纪录的中国人",
+      "首位卫冕奥运铅球的中国人"
+    ],
+    "correctAnswer": 1,
+    "explanation": "她此前在2008年和2012年分别拿到铜牌和银牌，等了13年才登上最高领奖台；她还创下世锦赛连续8届上台领奖的纪录。"
+  },
+  {
+    "id": "sports-141",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "中国奥运史上的第一枚金牌，是1984年洛杉矶奥运会上谁拿下的？",
+    "options": [
+      "楼云",
+      "许海峰",
+      "郎平",
+      "李宁"
+    ],
+    "correctAnswer": 1,
+    "explanation": "许海峰在男子50米自由手枪比赛中夺冠，这是新中国参加奥运会以来的第一枚金牌；李宁、楼云、郎平等人后来也在同一届奥运会上夺金。"
+  },
+  {
+    "id": "sports-142",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "2002年盐湖城冬奥会，谁拿到了中国冬奥历史上的第一枚金牌？",
+    "options": [
+      "申雪",
+      "王濛",
+      "杨扬",
+      "叶乔波"
+    ],
+    "correctAnswer": 2,
+    "explanation": "杨扬在短道速滑女子500米夺冠，随后又拿下1000米金牌；在此之前，中国在冬奥会上只拿过银牌和铜牌。"
+  },
+  {
+    "id": "sports-143",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "2004年雅典奥运会女排决赛，中国女排先输两局后连扳三局，逆转了谁夺冠？",
+    "options": [
+      "古巴",
+      "美国",
+      "巴西",
+      "俄罗斯"
+    ],
+    "correctAnswer": 3,
+    "explanation": "前两局中国队以28比30、25比27惜败，之后连赢三局，决胜局15比12获胜；这是中国女排时隔20年再夺奥运金牌，主教练陈忠和，队长冯坤。"
+  },
+  {
+    "id": "sports-144",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "2019年张伟丽拿下UFC金腰带，成为首位中国籍UFC冠军，只用了多长时间？",
+    "options": [
+      "42秒",
+      "1分35秒",
+      "4分50秒",
+      "3分18秒"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2019年8月31日，张伟丽在深圳用膝击加拳头技术性击倒巴西的安德拉迪，拿下UFC女子草量级金腰带。"
+  },
+  {
+    "id": "sports-145",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "2005年，18岁的丁俊晖在北京夺得中国公开赛冠军，决赛击败了谁？",
+    "options": [
+      "怀特",
+      "亨得利",
+      "奥沙利文",
+      "戴维斯"
+    ],
+    "correctAnswer": 1,
+    "explanation": "亨得利是七届世锦赛冠军，丁俊晖以9比5取胜；那场决赛在CCTV-5的观众约1.1亿，被认为是斯诺克史上电视观众最多的一场比赛。"
+  },
+  {
+    "id": "sports-146",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "2022年成为首位征战F1的中国车手，周冠宇效力于哪支车队？",
+    "options": [
+      "红牛",
+      "阿尔法·罗密欧",
+      "迈凯伦",
+      "法拉利"
+    ],
+    "correctAnswer": 1,
+    "explanation": "他的F1首秀在巴林大奖赛，从第15位发车，最终跑到第10名，首战就拿到1个积分。"
+  },
+  {
+    "id": "sports-147",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "2013年，14岁的关天朗在美国大师赛上创造了什么纪录？",
+    "options": [
+      "首位打出一杆进洞的业余选手",
+      "首位夺得大师赛的亚洲人",
+      "大师赛历史最年轻冠军",
+      "大满贯赛事最年轻的晋级周末选手"
+    ],
+    "correctAnswer": 3,
+    "explanation": "他凭2012年亚太业余锦标赛冠军拿到参赛资格，成功晋级周末，但因为打得太慢挨了罚杆，最终名列第58。"
+  },
+  {
+    "id": "sports-148",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "F1中的“F”是Formula，“方程式”在这里指的是什么？",
+    "options": [
+      "所有赛车必须遵守的统一技术规则",
+      "发动机排量的计算公式",
+      "车手积分的换算公式",
+      "赛道设计的数学公式"
+    ],
+    "correctAnswer": 0,
+    "explanation": "国际汽联规定了赛车的尺寸、发动机等统一规格，各车队在这个“方程式”范围内各显神通，比拼设计和车手。"
+  },
+  {
+    "id": "sports-149",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "姚明在2004年雅典和2008年北京两届奥运会的开幕式上，担任了什么角色？",
+    "options": [
+      "礼仪嘉宾",
+      "火炬手",
+      "中国代表团旗手",
+      "运动员宣誓代表"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2008年北京奥运会开幕式上，姚明走在中国代表团最前面，身旁牵着汶川地震中的小英雄林浩。"
   }
 ]

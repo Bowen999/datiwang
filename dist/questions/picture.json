@@ -1,0 +1,6898 @@
+[
+  {
+    "id": "picture-001",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅举世闻名的肖像画，名字是什么？",
+    "image": "/questions/images/pic-art-01.jpg",
+    "imageCredit": "达·芬奇《蒙娜丽莎》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "抱银貂的女子",
+      "戴珍珠耳环的少女",
+      "蒙娜丽莎",
+      "椅中圣母"
+    ],
+    "correctAnswer": 2,
+    "explanation": "画中人被认为是佛罗伦萨丝绸商人的妻子丽莎·盖拉尔迪尼。1911年它被一名曾在卢浮宫干活的工人偷走，两年后才被找回，新闻轰动全球，画反而更出名了。"
+  },
+  {
+    "id": "picture-002",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅旋转的夜空令人过目难忘，它叫什么名字？",
+    "image": "/questions/images/pic-art-02.jpg",
+    "imageCredit": "梵高《星月夜》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "星月夜",
+      "夜晚的露天咖啡座",
+      "麦田群鸦",
+      "阿尔勒的卧室"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1889年6月，梵高住在圣雷米的精神病院里，凭着回忆和想象画下了这片夜空，画中的村庄是他想象出来的。这幅画如今收藏在纽约现代艺术博物馆。"
+  },
+  {
+    "id": "picture-003",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅充满焦虑感的表现主义名作，作者是谁？",
+    "image": "/questions/images/pic-art-03.jpg",
+    "imageCredit": "蒙克《呐喊》(1893)｜公有领域｜Wikimedia Commons",
+    "options": [
+      "埃贡·席勒",
+      "爱德华·蒙克",
+      "古斯塔夫·克里姆特",
+      "文森特·梵高"
+    ],
+    "correctAnswer": 1,
+    "explanation": "蒙克在日记里写道：他与朋友走在峡湾边，夕阳把天空染成血红，他忽然感到一声贯穿自然的巨大尖叫。眼前这个1893年的版本，1994年冬奥会开幕当天曾从奥斯陆国家美术馆被盗，几个月后才追回。"
+  },
+  {
+    "id": "picture-004",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "梵高为迎接好友高更来到阿尔勒，特意画了几幅这样的花瓶静物来装饰房间。这幅画叫什么？",
+    "image": "/questions/images/pic-art-04.jpg",
+    "imageCredit": "梵高《向日葵》(伦敦版)｜公有领域｜Wikimedia Commons",
+    "options": [
+      "玫瑰",
+      "杏花",
+      "向日葵",
+      "鸢尾花"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这幅1888年的作品几乎全靠深浅不同的黄色画成，花瓶上还签着“Vincent”。它现藏伦敦国家美术馆，梵高后来又照着它临摹了好几个版本。"
+  },
+  {
+    "id": "picture-005",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅日本浮世绘木版画的名字是什么？",
+    "image": "/questions/images/pic-art-05.jpg",
+    "imageCredit": "葛饰北斋《神奈川冲浪里》(局部)｜公有领域｜Wikimedia Commons",
+    "options": [
+      "山下白雨",
+      "大桥骤雨",
+      "凯风快晴",
+      "神奈川冲浪里"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这是葛饰北斋《富岳三十六景》中的一幅：巨浪张牙舞爪，远处的富士山却小小的、静静的。浓烈的蓝色来自当时刚传入日本的普鲁士蓝颜料，德彪西《大海》乐谱的初版封面用的就是这幅画。"
+  },
+  {
+    "id": "picture-006",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅画在米兰一座修道院食堂的墙上，出自文艺复兴大师达·芬奇之手。它叫什么？",
+    "image": "/questions/images/pic-art-06.jpg",
+    "imageCredit": "达·芬奇《最后的晚餐》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "岩间圣母",
+      "西斯廷圣母",
+      "雅典学院",
+      "最后的晚餐"
+    ],
+    "correctAnswer": 3,
+    "explanation": "达·芬奇没有采用传统的湿壁画技法，而是在干墙上试验新颜料，结果没过多久颜料就开始剥落，几百年来一修再修。二战中修道院遭轰炸，这面墙靠沙袋保护才幸存下来。"
+  },
+  {
+    "id": "picture-007",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅荷兰画家维米尔笔下回眸的少女像，常被称作“北方的蒙娜丽莎”。它叫什么？",
+    "image": "/questions/images/pic-art-07.jpg",
+    "imageCredit": "维米尔《戴珍珠耳环的少女》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "花边女工",
+      "戴珍珠耳环的少女",
+      "读信的蓝衣女子",
+      "倒牛奶的女仆"
+    ],
+    "correctAnswer": 1,
+    "explanation": "严格说这不是某位真人的肖像，而是一幅叫“特罗尼”（tronie）的人物头像习作，少女的身份至今是谜。她头巾上鲜亮的蓝色，用的是由青金石研磨而成、价格昂贵的天然群青。"
+  },
+  {
+    "id": "picture-008",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅描绘池塘水面与花叶的画作，作者是谁？",
+    "image": "/questions/images/pic-art-08.jpg",
+    "imageCredit": "莫奈《睡莲》(1906)｜公有领域｜Wikimedia Commons",
+    "options": [
+      "克劳德·莫奈",
+      "皮埃尔-奥古斯特·雷诺阿",
+      "卡米耶·毕沙罗",
+      "爱德华·马奈"
+    ],
+    "correctAnswer": 0,
+    "explanation": "莫奈晚年在吉维尼的自家花园里打造了睡莲池，前后画了约250幅《睡莲》，成为他最执着的主题。后来他患上白内障，画面里的色彩也变得越来越浓重模糊。"
+  },
+  {
+    "id": "picture-009",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅宋代长卷的局部，画的是一座拱桥上下的热闹景象。它叫什么名字？",
+    "image": "/questions/images/pic-art-09.jpg",
+    "imageCredit": "张择端《清明上河图》(局部)｜公有领域｜Wikimedia Commons",
+    "options": [
+      "清明上河图",
+      "韩熙载夜宴图",
+      "富春山居图",
+      "千里江山图"
+    ],
+    "correctAnswer": 0,
+    "explanation": "作者是北宋画家张择端。画中的虹桥是一座不用桥墩的木拱桥，一条大船正冒险过桥，船夫忙着放倒桅杆，桥上的看客围成一圈——这被认为是全卷最惊险的一幕。"
+  },
+  {
+    "id": "picture-010",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅出自伦勃朗之手的巨幅群像画，叫什么名字？",
+    "image": "/questions/images/pic-art-10.jpg",
+    "imageCredit": "伦勃朗《夜巡》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "夜巡",
+      "布商公会的理事们",
+      "杜尔普教授的解剖课",
+      "浪子回头"
+    ],
+    "correctAnswer": 0,
+    "explanation": "画的其实是白天的场景，只因表面的旧清漆年深日久发黑，后人才误称它为《夜巡》。1715年为了挂进阿姆斯特丹市政厅，画布四边被裁去一圈，左侧被裁得最多。"
+  },
+  {
+    "id": "picture-011",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅描绘雾气笼罩下清晨港口的画作，1872年画于法国勒阿弗尔。它叫什么名字？",
+    "image": "/questions/images/pic-art-11.jpg",
+    "imageCredit": "莫奈《日出·印象》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "睡莲",
+      "干草堆",
+      "鲁昂大教堂",
+      "日出·印象"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1874年首届印象派画展上，评论家勒鲁瓦嘲讽这幅画“只是一个印象”，“印象派”的名字就这样诞生了。1985年它还曾被武装劫匪从马摩丹博物馆抢走，五年后才追回。"
+  },
+  {
+    "id": "picture-012",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅描绘三位农妇弯腰劳作的19世纪法国名画，叫什么名字？",
+    "image": "/questions/images/pic-art-12.jpg",
+    "imageCredit": "米勒《拾穗者》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "晚钟",
+      "拾穗者",
+      "牧羊女",
+      "播种者"
+    ],
+    "correctAnswer": 1,
+    "explanation": "米勒画的是收割后被允许捡拾遗落麦穗的最贫穷的农妇，远处堆积如山的麦垛与前景的辛劳形成鲜明对比。1857年展出时，一些评论家觉得它在替穷人发声，很不高兴。"
+  },
+  {
+    "id": "picture-013",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅描绘英国乡村水边景色的名作，作者是谁？",
+    "image": "/questions/images/pic-art-13.jpg",
+    "imageCredit": "康斯太布尔《干草车》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "托马斯·庚斯博罗",
+      "约翰·康斯太布尔",
+      "乔舒亚·雷诺兹",
+      "约瑟夫·透纳"
+    ],
+    "correctAnswer": 1,
+    "explanation": "画名《干草车》，画的是萨福克郡斯陶尔河畔的农舍和一辆涉水而过的干草车。1824年它在巴黎沙龙获得金奖，据说德拉克罗瓦看后重新修改了自己参展的《希奥岛的屠杀》。"
+  },
+  {
+    "id": "picture-014",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅德国浪漫主义名作中，一个背对观众的男子站在山巅。它叫什么名字？",
+    "image": "/questions/images/pic-art-14.jpg",
+    "imageCredit": "弗里德里希《雾海上的旅人》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "橡树下的修道院",
+      "吕根岛的白垩崖",
+      "雾海上的旅人",
+      "海边的僧侣"
+    ],
+    "correctAnswer": 2,
+    "explanation": "弗里德里希用这个背影把观众的目光引向浩瀚的自然，成为浪漫主义的标志性画面。背景的群山其实是把德国萨克森瑞士一带的多处景观拼合而成，并非某一处实景。"
+  },
+  {
+    "id": "picture-015",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅19世纪末的名画由无数细小的彩色圆点拼成，画的是巴黎郊外河边休闲的人群。它叫什么？",
+    "image": "/questions/images/pic-art-15.jpg",
+    "imageCredit": "修拉《大碗岛的星期天下午》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "游船上的午餐",
+      "撑阳伞的女人",
+      "煎饼磨坊的舞会",
+      "大碗岛的星期天下午"
+    ],
+    "correctAnswer": 3,
+    "explanation": "修拉用并置的小色点，让观众的眼睛自己完成混色，这种技法叫点彩法。他为这幅画花了两年时间，还画了几十幅习作；画面右前方的贵妇牵着一只小猴子。"
+  },
+  {
+    "id": "picture-016",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅色彩浓丽的青绿山水长卷，画名是什么？",
+    "image": "/questions/images/pic-art-16.jpg",
+    "imageCredit": "王希孟《千里江山图》(局部)｜公有领域｜Wikimedia Commons",
+    "options": [
+      "早春图",
+      "千里江山图",
+      "万壑松风图",
+      "溪山行旅图"
+    ],
+    "correctAnswer": 1,
+    "explanation": "作者王希孟是宋徽宗时期的少年画家，据蔡京的题跋记载，他画此卷时只有十八岁，这也是他唯一传世的作品。全卷长近12米，鲜艳的蓝绿来自石青、石绿等矿物颜料，近千年后依然明亮。"
+  },
+  {
+    "id": "picture-017",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅元代的水墨山水长卷，画名是什么？",
+    "image": "/questions/images/pic-art-17.jpg",
+    "imageCredit": "黄公望《富春山居图》(局部)｜公有领域｜Wikimedia Commons",
+    "options": [
+      "鹊华秋色图",
+      "六君子图",
+      "渔庄秋霁图",
+      "富春山居图"
+    ],
+    "correctAnswer": 3,
+    "explanation": "作者黄公望晚年隐居富春江畔，花了数年才画成。明末收藏者吴洪裕临终要把它烧掉殉葬，被侄子从火中抢出，画卷因此断成两段：前一小段叫《剩山图》，藏浙江省博物馆；后一大段叫《无用师卷》，藏台北故宫。"
+  },
+  {
+    "id": "picture-018",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅五代南唐的人物画长卷（现存为宋代摹本）的局部，叫什么名字？",
+    "image": "/questions/images/pic-art-18.jpg",
+    "imageCredit": "顾闳中《韩熙载夜宴图》(宋摹本局部)｜公有领域｜Wikimedia Commons",
+    "options": [
+      "簪花仕女图",
+      "历代帝王图",
+      "韩熙载夜宴图",
+      "捣练图"
+    ],
+    "correctAnswer": 2,
+    "explanation": "南唐后主李煜想重用韩熙载，又听说他夜夜笙歌，便派画院的顾闳中夜里去他家观察，回来凭记忆画成此卷。一般认为，韩熙载是故意纵情声色来避祸。这一段画的是众人听琵琶，名为“听乐”。"
+  },
+  {
+    "id": "picture-019",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅唐代宫廷人物画（现存为宋代摹本）的局部，叫什么名字？",
+    "image": "/questions/images/pic-art-19.jpg",
+    "imageCredit": "阎立本《步辇图》(宋摹本局部)｜公有领域｜Wikimedia Commons",
+    "options": [
+      "簪花仕女图",
+      "历代帝王图",
+      "捣练图",
+      "步辇图"
+    ],
+    "correctAnswer": 3,
+    "explanation": "作者是初唐画家阎立本。画的是唐太宗接见吐蕃使者禄东赞，后来文成公主入藏和亲。画中皇帝被宫女簇拥着，身形格外高大，是古画“以大小显尊卑”的手法。"
+  },
+  {
+    "id": "picture-020",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这幅15世纪尼德兰绘画的墙上挂着一面凸面镜，映出了整个房间。它叫什么名字？",
+    "image": "/questions/images/pic-art-20.jpg",
+    "imageCredit": "扬·凡·艾克《阿尔诺芬尼夫妇像》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "阿尔诺芬尼夫妇像",
+      "农民的婚礼",
+      "大使们",
+      "查理四世一家"
+    ],
+    "correctAnswer": 0,
+    "explanation": "扬·凡·艾克在镜子上方题写了“扬·凡·艾克曾在此，1434年”，像一份签在画里的见证书。镜子里还映出两位站在门口的来客，其中一位可能就是画家本人。"
+  },
+  {
+    "id": "picture-021",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这幅17世纪西班牙宫廷名画里，画家把自己也画了进去，还用一面镜子藏了两位“画外人”。它叫什么？",
+    "image": "/questions/images/pic-art-21.jpg",
+    "imageCredit": "委拉斯凯兹《宫娥》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "教皇英诺森十世",
+      "纺织女",
+      "宫娥",
+      "查理四世一家"
+    ],
+    "correctAnswer": 2,
+    "explanation": "画中央的小公主是玛格丽特，镜子里映出的是国王腓力四世夫妇，仿佛就站在观众的位置上。委拉斯凯兹胸前的红色十字勋章，传说是后来由国王亲手补上的；毕加索还以这幅画为蓝本画了58幅变奏作品。"
+  },
+  {
+    "id": "picture-022",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这幅唐代画作里的牛神态各异、笔墨朴拙，它是唐代哪位画家的作品？",
+    "image": "/questions/images/pic-art-22.jpg",
+    "imageCredit": "韩滉《五牛图》(局部)｜公有领域｜Wikimedia Commons",
+    "options": [
+      "曹霸",
+      "戴嵩",
+      "韩滉",
+      "韩干"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《五牛图》的作者韩滉曾任唐德宗朝的宰相，画牛也许与他重视农事有关。这是中国现存最早的纸本绘画之一，五头牛的姿态、毛色和表情各不相同，笔法朴拙而生动。"
+  },
+  {
+    "id": "picture-023",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这幅长卷传为东晋大画家顾恺之所作，现存为宋代摹本。它叫什么名字？",
+    "image": "/questions/images/pic-art-23.jpg",
+    "imageCredit": "顾恺之《洛神赋图》(宋摹本局部)｜公有领域｜Wikimedia Commons",
+    "options": [
+      "洛神赋图",
+      "汉宫春晓图",
+      "女史箴图",
+      "列女仁智图"
+    ],
+    "correctAnswer": 0,
+    "explanation": "画的是曹植《洛神赋》里，他在洛水边邂逅洛神的故事。同一个人物在长卷里反复出现，让故事像连环画一样展开，这种手法叫“异时同图”。顾恺之的原作早已失传，如今能看到的都是后人的摹本。"
+  },
+  {
+    "id": "picture-024",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这幅唐代画作（传为宋徽宗摹本）中，一队贵族男女骑马缓缓而行。它叫什么名字？",
+    "image": "/questions/images/pic-art-24.jpg",
+    "imageCredit": "张萱《虢国夫人游春图》(传宋摹本局部)｜公有领域｜Wikimedia Commons",
+    "options": [
+      "挥扇仕女图",
+      "虢国夫人游春图",
+      "簪花仕女图",
+      "捣练图"
+    ],
+    "correctAnswer": 1,
+    "explanation": "画的是杨贵妃的姐姐虢国夫人一行春日出游。唐人以丰腴为美，画中的仕女和骏马都体态圆润；全画不画背景，全靠人物与马匹的姿态表现悠闲春意。张祜的诗说她“却嫌脂粉污颜色，淡扫蛾眉朝至尊”。"
+  },
+  {
+    "id": "picture-025",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位站在黑板前的物理学家是谁？",
+    "image": "/questions/images/pic-person-01.jpg",
+    "imageCredit": "爱因斯坦，1921年，摄影：费迪南德·施密茨｜公有领域｜Wikimedia Commons",
+    "options": [
+      "玻尔",
+      "麦克斯韦",
+      "普朗克",
+      "爱因斯坦"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这张1921年在维也纳讲学时拍下的照片，成了他最经典的肖像之一。有趣的是，他的诺贝尔物理学奖并非因为相对论，而是因为解释了光电效应。"
+  },
+  {
+    "id": "picture-026",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位思想家是谁？",
+    "image": "/questions/images/pic-person-02.jpg",
+    "imageCredit": "孔子，《孔子燕居像》，佚名画作｜公有领域｜Wikimedia Commons",
+    "options": [
+      "老子",
+      "孟子",
+      "孔子",
+      "庄子"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这幅《孔子燕居像》画的是他平日闲居的模样。《史记》记载他身高九尺六寸，人们都叫他“长人”。"
+  },
+  {
+    "id": "picture-027",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这幅自画像的作者是谁？",
+    "image": "/questions/images/pic-person-03.jpg",
+    "imageCredit": "梵高《自画像》，1887年｜公有领域｜Wikimedia Commons",
+    "options": [
+      "梵高",
+      "高更",
+      "莫奈",
+      "塞尚"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这幅1887年的自画像画于巴黎，细碎的彩色笔触受到了点彩派的启发。据说他请不起模特，常拿自己练手，一生留下三十多幅自画像。"
+  },
+  {
+    "id": "picture-028",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位仰首行吟的唐代诗人是谁？",
+    "image": "/questions/images/pic-person-04.jpg",
+    "imageCredit": "李白，《李白行吟图》，传南宋梁楷作｜公有领域｜Wikimedia Commons",
+    "options": [
+      "李白",
+      "杜甫",
+      "白居易",
+      "王维"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这幅《李白行吟图》传为南宋画家梁楷所作，只用寥寥几笔的“减笔”画法，就勾出诗人豪放洒脱的神态。原画现藏东京国立博物馆。"
+  },
+  {
+    "id": "picture-029",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位女科学家与丈夫共同发现了哪两种元素？",
+    "image": "/questions/images/pic-person-05.jpg",
+    "imageCredit": "居里夫人，约1920年，摄影：亨利·马努埃尔｜公有领域｜Wikimedia Commons",
+    "options": [
+      "钋和镭",
+      "氦和氖",
+      "氧和氮",
+      "钠和钾"
+    ],
+    "correctAnswer": 0,
+    "explanation": "她是唯一在物理学和化学两个不同领域都获得诺贝尔奖的人。“钋”这个名字，取自她的祖国波兰（Polonia）。"
+  },
+  {
+    "id": "picture-030",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这幅油画像描绘的是清朝的哪位大臣？",
+    "image": "/questions/images/pic-person-06.jpg",
+    "imageCredit": "林则徐，19世纪油画，关乔昌（Lam Qua）｜公有领域｜Wikimedia Commons",
+    "options": [
+      "李鸿章",
+      "林则徐",
+      "左宗棠",
+      "曾国藩"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这幅画像相传出自广州画家关乔昌之手。林则徐1839年在虎门销毁近两万箱鸦片，后来被流放新疆伊犁，仍在当地兴修水利。"
+  },
+  {
+    "id": "picture-031",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位手握铅笔的作曲家是谁？",
+    "image": "/questions/images/pic-person-07.jpg",
+    "imageCredit": "贝多芬，1820年，画家：约瑟夫·施蒂勒｜公有领域｜Wikimedia Commons",
+    "options": [
+      "贝多芬",
+      "莫扎特",
+      "巴赫",
+      "舒伯特"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这幅1820年的肖像，是画家施蒂勒在他创作《庄严弥撒》期间所绘。贝多芬晚年几乎完全失聪，却依然写出了第九交响曲。"
+  },
+  {
+    "id": "picture-032",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位头戴冕旒的帝王是谁？",
+    "image": "/questions/images/pic-person-08.jpg",
+    "imageCredit": "秦始皇，19世纪画册肖像，佚名｜公有领域｜Wikimedia Commons",
+    "options": [
+      "隋炀帝",
+      "秦始皇",
+      "汉武帝",
+      "唐太宗"
+    ],
+    "correctAnswer": 1,
+    "explanation": "秦始皇13岁即位秦王，公元前221年统一六国并自称“皇帝”。没有人知道他真正的长相，这类画像都是后人想象出来的。"
+  },
+  {
+    "id": "picture-033",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位坐在长椅上的俄国文豪是谁？",
+    "image": "/questions/images/pic-person-09.jpg",
+    "imageCredit": "托尔斯泰，1908年，摄影：普罗库金-戈尔斯基｜公有领域｜Wikimedia Commons",
+    "options": [
+      "托尔斯泰",
+      "屠格涅夫",
+      "陀思妥耶夫斯基",
+      "契诃夫"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这是1908年摄影师普罗库金-戈尔斯基用早期彩色摄影术拍下的托尔斯泰，当时他已近80岁，两年后离世。一张一百多年前的彩色照片，是不是很神奇？"
+  },
+  {
+    "id": "picture-034",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位近代历史人物是谁？",
+    "image": "/questions/images/pic-person-10.jpg",
+    "imageCredit": "孙中山，1922年，上海波尔照相馆｜公有领域｜Wikimedia Commons",
+    "options": [
+      "梁启超",
+      "黄兴",
+      "蔡元培",
+      "孙中山"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这是1922年在上海拍摄的肖像，流传最广，被称为他的“标准像”。他早年在香港学习西医，后来才走上革命道路。"
+  },
+  {
+    "id": "picture-035",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位科学家最出名的成就是？",
+    "image": "/questions/images/pic-person-11.jpg",
+    "imageCredit": "达尔文，约1854年，摄影：Maull & Fox｜公有领域｜Wikimedia Commons",
+    "options": [
+      "提出日心说与地动学说",
+      "提出自然选择的进化论",
+      "提出万有引力与运动定律",
+      "提出狭义与广义相对论"
+    ],
+    "correctAnswer": 1,
+    "explanation": "他乘“小猎犬号”环球考察近五年，途中的见闻给了他重要启发；他把想法压了二十多年，直到1859年才出版《物种起源》。"
+  },
+  {
+    "id": "picture-036",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位唐代诗人被后世尊称为什么？",
+    "image": "/questions/images/pic-person-12.jpg",
+    "imageCredit": "杜甫，清宫旧藏画像，佚名｜公有领域｜Wikimedia Commons",
+    "options": [
+      "诗佛",
+      "诗仙",
+      "诗圣",
+      "诗鬼"
+    ],
+    "correctAnswer": 2,
+    "explanation": "他一生颠沛流离，写下“安得广厦千万间，大庇天下寒士俱欢颜”的名句，诗风沉郁，因此被称为“诗圣”。“诗仙”是李白，“诗佛”是王维，“诗鬼”是李贺。"
+  },
+  {
+    "id": "picture-037",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位美国总统是谁？",
+    "image": "/questions/images/pic-person-13.jpg",
+    "imageCredit": "林肯，1863年，摄影：亚历山大·加德纳｜公有领域｜Wikimedia Commons",
+    "options": [
+      "杰斐逊",
+      "格兰特",
+      "华盛顿",
+      "林肯"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这张照片拍摄于1863年11月8日，十一天后他发表了著名的葛底斯堡演说。据说他留胡子，是听了一位11岁小女孩的来信建议。"
+  },
+  {
+    "id": "picture-038",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这幅朝服像的主人，在位期间平定三藩、收复台湾，他是谁？",
+    "image": "/questions/images/pic-person-14.jpg",
+    "imageCredit": "康熙帝朝服像，清代宫廷画家，故宫博物院藏｜公有领域｜Wikimedia Commons",
+    "options": [
+      "雍正帝",
+      "乾隆帝",
+      "康熙帝",
+      "顺治帝"
+    ],
+    "correctAnswer": 2,
+    "explanation": "康熙8岁登基，16岁时智擒权臣鳌拜，在位61年，是中国历史上在位时间最长的皇帝之一。"
+  },
+  {
+    "id": "picture-039",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这幅红粉笔头像，被认为是哪位文艺复兴巨匠的自画像？",
+    "image": "/questions/images/pic-person-15.jpg",
+    "imageCredit": "传达·芬奇自画像（红粉笔），约1510年代｜公有领域｜Wikimedia Commons",
+    "options": [
+      "拉斐尔",
+      "达·芬奇",
+      "提香",
+      "米开朗基罗"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这幅红粉笔素描约绘于1510年代，收藏在意大利都灵皇家图书馆，因纸张十分脆弱，很少公开展出。不过学界对它是否真是自画像仍有争议。"
+  },
+  {
+    "id": "picture-040",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位现代文学家、思想家是谁？",
+    "image": "/questions/images/pic-person-16.jpg",
+    "imageCredit": "鲁迅，1933年，雪怀照相馆｜公有领域(PD-China)｜Wikimedia Commons",
+    "options": [
+      "巴金",
+      "鲁迅",
+      "老舍",
+      "茅盾"
+    ],
+    "correctAnswer": 1,
+    "explanation": "“鲁迅”这个笔名，1918年首次用于发表《狂人日记》。他早年赴日本学医，后来弃医从文，想用笔唤醒国人。"
+  },
+  {
+    "id": "picture-041",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位科学家是谁？",
+    "image": "/questions/images/pic-person-17.jpg",
+    "imageCredit": "伽利略，1636年，画家：苏斯特曼斯｜公有领域｜Wikimedia Commons",
+    "options": [
+      "哥白尼",
+      "第谷",
+      "开普勒",
+      "伽利略"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1610年他用自制望远镜发现了木星的四颗卫星，后来因支持日心说被宗教裁判所审判，晚年被软禁在家。"
+  },
+  {
+    "id": "picture-042",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位清末的太后是谁？",
+    "image": "/questions/images/pic-person-18.jpg",
+    "imageCredit": "慈禧太后，清末，摄影：裕勋龄｜公有领域｜Wikimedia Commons",
+    "options": [
+      "孝庄太后",
+      "慈安太后",
+      "慈禧太后",
+      "隆裕太后"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这张照片出自宫廷摄影师裕勋龄之手。晚年的慈禧很爱拍照，还曾扮成观音留影。"
+  },
+  {
+    "id": "picture-043",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位发明家最出名的成就是？",
+    "image": "/questions/images/pic-person-19.jpg",
+    "imageCredit": "特斯拉，约1890年，摄影：拿破仑·萨罗尼｜公有领域｜Wikimedia Commons",
+    "options": [
+      "发明交流感应电动机",
+      "发明实用的白炽灯泡",
+      "发明实用的蒸汽机车",
+      "发明第一部电话机"
+    ],
+    "correctAnswer": 0,
+    "explanation": "他1884年来到美国，一度为爱迪生工作，后来两人因直流电与交流电的“电流之战”成为对手。如今磁感应强度的单位“特斯拉”就以他命名。"
+  },
+  {
+    "id": "picture-044",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位手持竹杖的宋代文学家是谁？",
+    "image": "/questions/images/pic-person-20.jpg",
+    "imageCredit": "苏轼像，元代赵孟頫绘，台北故宫藏｜公有领域｜Wikimedia Commons",
+    "options": [
+      "欧阳修",
+      "苏轼",
+      "辛弃疾",
+      "王安石"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这幅白描像出自元代书画大家赵孟頫之手。苏轼被贬黄州时在城东坡地垦荒，自号“东坡居士”，相传“东坡肉”也是他在黄州时的创制。"
+  },
+  {
+    "id": "picture-045",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位留着长卷发的科学家是谁？",
+    "image": "/questions/images/pic-person-21.jpg",
+    "imageCredit": "牛顿，1689年，画家：戈弗雷·内勒｜公有领域｜Wikimedia Commons",
+    "options": [
+      "哥白尼",
+      "伽利略",
+      "牛顿",
+      "开普勒"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这幅1689年的肖像出自英国宫廷画家戈弗雷·内勒之手，画中的牛顿46岁，《自然哲学的数学原理》已在两年前问世。"
+  },
+  {
+    "id": "picture-046",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位身穿军装、一手插在背心里的人物是谁？",
+    "image": "/questions/images/pic-person-22.jpg",
+    "imageCredit": "《书房中的拿破仑》，1812年，画家：雅克-路易·大卫｜公有领域｜Wikimedia Commons",
+    "options": [
+      "路易十四",
+      "腓特烈大帝",
+      "彼得大帝",
+      "拿破仑"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这是1812年大卫的名作《书房中的拿破仑》：画中蜡烛快燃尽，座钟指向凌晨4点13分，暗示这位皇帝彻夜勤政。"
+  },
+  {
+    "id": "picture-047",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位身穿红色礼服的作曲家是谁？",
+    "image": "/questions/images/pic-person-23.jpg",
+    "imageCredit": "莫扎特，1819年，画家：芭芭拉·克拉夫特｜公有领域｜Wikimedia Commons",
+    "options": [
+      "舒伯特",
+      "海顿",
+      "巴赫",
+      "莫扎特"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这幅画完成于1819年，那时莫扎特已去世近三十年，画家是根据其他画像和亲友回忆绘成的。他只活了35岁，却留下了600多部作品。"
+  },
+  {
+    "id": "picture-048",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位戴着耳环的剧作家是谁？",
+    "image": "/questions/images/pic-person-24.jpg",
+    "imageCredit": "莎士比亚（钱多斯肖像），传约翰·泰勒作｜公有领域｜Wikimedia Commons",
+    "options": [
+      "莫里哀",
+      "本·琼森",
+      "莎士比亚",
+      "马洛"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这幅“钱多斯肖像”约绘于17世纪初，1856年成为伦敦国家肖像馆的第一件藏品。画中人是否真是莎士比亚，学界至今仍有争论。"
+  },
+  {
+    "id": "picture-049",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这座著名的高塔叫什么名字？",
+    "image": "/questions/images/pic-place-01.jpg",
+    "imageCredit": "埃菲尔铁塔，摄影：Benh Lieu Song｜CC BY-SA 3.0｜Wikimedia Commons",
+    "options": [
+      "东方明珠塔",
+      "广州塔",
+      "东京塔",
+      "埃菲尔铁塔"
+    ],
+    "correctAnswer": 3,
+    "explanation": "埃菲尔铁塔为1889年巴黎世博会而建，原本只打算保留20年，后来因为能架设无线电天线才躲过拆除。夏天铁受热膨胀，塔尖会比冬天高出十几厘米。"
+  },
+  {
+    "id": "picture-050",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这座古代巨型金字塔，位于哪个国家？",
+    "image": "/questions/images/pic-place-02.jpg",
+    "imageCredit": "金字塔，摄影：Douwe C. van der Zee｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "秘鲁",
+      "墨西哥",
+      "苏丹",
+      "埃及"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这是吉萨的胡夫金字塔，约4500年前建成，原高约146.6米，保持“世界最高人造建筑”的纪录长达3800多年。有趣的是，苏丹境内的金字塔数量其实比埃及还多。"
+  },
+  {
+    "id": "picture-051",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这座矗立在港口岛上的巨大雕像，是哪座城市的象征？",
+    "image": "/questions/images/pic-place-03.jpg",
+    "imageCredit": "自由女神像，摄影：AskALotl｜CC0｜Wikimedia Commons",
+    "options": [
+      "旧金山",
+      "波士顿",
+      "纽约",
+      "华盛顿"
+    ],
+    "correctAnswer": 2,
+    "explanation": "自由女神像是1886年法国赠给美国的礼物，铜皮只有约2.4毫米厚。它刚落成时是闪亮的红铜色，几十年后氧化才变成如今的青绿色。"
+  },
+  {
+    "id": "picture-052",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这处蜿蜒于山岭之间的古代防御工程叫什么？",
+    "image": "/questions/images/pic-place-04.jpg",
+    "imageCredit": "长城金山岭段，摄影：Severin.stalder｜CC BY-SA 3.0｜Wikimedia Commons",
+    "options": [
+      "南京明城墙",
+      "西安城墙",
+      "长城",
+      "平遥古城墙"
+    ],
+    "correctAnswer": 2,
+    "explanation": "图中是河北滦平的金山岭长城，以敌楼密集著称，明代名将戚继光曾主持这一带长城的修筑。“太空中肉眼能看见长城”其实是个流传很广的误会，中国首位航天员杨利伟就说过自己没看到。"
+  },
+  {
+    "id": "picture-053",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这座白色帆壳造型的建筑，位于哪座城市？",
+    "image": "/questions/images/pic-place-05.jpg",
+    "imageCredit": "悉尼歌剧院，摄影：Bernard Spragg｜CC0｜Wikimedia Commons",
+    "options": [
+      "墨尔本",
+      "奥克兰",
+      "新加坡",
+      "悉尼"
+    ],
+    "correctAnswer": 3,
+    "explanation": "悉尼歌剧院1973年启用，设计者是丹麦建筑师约恩·乌松。他在工程中途因与政府发生争执离开澳大利亚，此后再也没有回来亲眼看到它建成。"
+  },
+  {
+    "id": "picture-054",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这座白色大理石建筑叫什么名字？",
+    "image": "/questions/images/pic-place-06.jpg",
+    "imageCredit": "泰姬陵，摄影：Yann（Jim Carter 编辑）｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "胡马雍陵",
+      "泰姬陵",
+      "金庙",
+      "红堡"
+    ],
+    "correctAnswer": 1,
+    "explanation": "泰姬陵是莫卧儿皇帝沙·贾汉为纪念爱妻慕塔兹·玛哈尔所建，从1632年起前后花了约22年。四座宣礼塔都微微向外倾斜，据说是为了万一倒塌也不会砸到主陵。"
+  },
+  {
+    "id": "picture-055",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这座倾斜的白色塔楼，位于意大利哪座城市？",
+    "image": "/questions/images/pic-place-07.jpg",
+    "imageCredit": "比萨斜塔，摄影：Arne Müseler｜CC BY-SA 3.0 DE｜Wikimedia Commons",
+    "options": [
+      "米兰",
+      "佛罗伦萨",
+      "比萨",
+      "威尼斯"
+    ],
+    "correctAnswer": 2,
+    "explanation": "比萨斜塔1173年动工，盖到第三层时因一侧地基松软开始倾斜，前后断断续续修了近200年。伽利略在塔上做落体实验的故事，多半只是后人的传说。"
+  },
+  {
+    "id": "picture-056",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这座残缺的椭圆形古建筑是什么？",
+    "image": "/questions/images/pic-place-08.jpg",
+    "imageCredit": "罗马斗兽场，摄影：FeaturedPics｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "卡拉卡拉浴场",
+      "万神殿",
+      "罗马斗兽场",
+      "帕特农神庙"
+    ],
+    "correctAnswer": 2,
+    "explanation": "罗马斗兽场约公元80年落成，可容纳数万名观众，拱门上刻有编号，观众凭票号找入口，相当于两千年前的“对号入座”。外墙缺了一大块，是中世纪地震和后人拆石取材造成的。"
+  },
+  {
+    "id": "picture-057",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这座橙红色的悬索大桥叫什么名字？",
+    "image": "/questions/images/pic-place-09.jpg",
+    "imageCredit": "金门大桥，摄影：Frank Schulenburg｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "伦敦塔桥",
+      "悉尼港湾大桥",
+      "布鲁克林大桥",
+      "金门大桥"
+    ],
+    "correctAnswer": 3,
+    "explanation": "金门大桥1937年通车，它的橙红色叫“国际橙”，本来只是钢材的防锈底漆色，因为与海岸景色相衬又便于在雾中辨认而被保留。美国海军当年还曾建议漆成黑黄条纹，被否决了。"
+  },
+  {
+    "id": "picture-058",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这片被红墙环绕的古代皇家宫殿建筑群叫什么？",
+    "image": "/questions/images/pic-place-10.jpg",
+    "imageCredit": "故宫，摄影：Pixelflake｜CC BY-SA 3.0｜Wikimedia Commons",
+    "options": [
+      "故宫",
+      "天坛",
+      "承德避暑山庄",
+      "颐和园"
+    ],
+    "correctAnswer": 0,
+    "explanation": "故宫又称紫禁城，1420年基本建成，相传共有9999间半房屋，比天宫少半间——因为只有玉皇大帝才配拥有整一万间。实际统计的数字则是八千多间。"
+  },
+  {
+    "id": "picture-059",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这座依山而建、红白相间的宫殿式建筑是哪里？",
+    "image": "/questions/images/pic-place-11.jpg",
+    "imageCredit": "布达拉宫，摄影：cattan2011（裁剪）｜CC BY 2.0｜Wikimedia Commons",
+    "options": [
+      "布达拉宫",
+      "扎什伦布寺",
+      "大昭寺",
+      "塔尔寺"
+    ],
+    "correctAnswer": 0,
+    "explanation": "布达拉宫海拔约3700米，是世界上海拔最高的宫殿之一，居中的红色部分是红宫，两侧的白色部分是白宫。现存主体主要由五世达赖喇嘛在17世纪中叶起重建。"
+  },
+  {
+    "id": "picture-060",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这座山顶积雪的锥形火山是哪座山？",
+    "image": "/questions/images/pic-place-12.jpg",
+    "imageCredit": "富士山，摄影：Suicasmo｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "埃特纳火山",
+      "富士山",
+      "乞力马扎罗山",
+      "玉山"
+    ],
+    "correctAnswer": 1,
+    "explanation": "富士山海拔3776米，是日本最高峰，也是一座至今仍被视为活火山的山，最近一次喷发在1707年，火山灰甚至落到了江户（今东京）。"
+  },
+  {
+    "id": "picture-061",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这座倒映在荷塘边的五塔寺庙群，位于哪个国家？",
+    "image": "/questions/images/pic-place-13.jpg",
+    "imageCredit": "吴哥窟，摄影：Bjørn Christian Tørrissen｜CC BY-SA 4.0｜Commons",
+    "options": [
+      "柬埔寨",
+      "泰国",
+      "缅甸",
+      "印度尼西亚"
+    ],
+    "correctAnswer": 0,
+    "explanation": "吴哥窟建于12世纪，最初是献给毗湿奴的印度教神庙，后来才逐渐转为佛教寺庙，占地约162公顷，是世界上最大的宗教建筑群。柬埔寨国旗上就印着它的剪影。"
+  },
+  {
+    "id": "picture-062",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这座建在山脊上的古城遗址，是哪个古文明的杰作？",
+    "image": "/questions/images/pic-place-14.jpg",
+    "imageCredit": "马丘比丘，摄影：Draceane｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "阿兹特克文明",
+      "纳斯卡文明",
+      "印加文明",
+      "玛雅文明"
+    ],
+    "correctAnswer": 2,
+    "explanation": "马丘比丘约建于15世纪中叶，据信是印加皇帝帕查库提的离宫。西班牙殖民者始终没有找到它，因此它躲过了劫掠，直到1911年才被美国探险家海勒姆·宾厄姆带向世界。"
+  },
+  {
+    "id": "picture-063",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这座直接凿刻在红色砂岩崖壁上的宏伟建筑，位于哪处著名遗址？",
+    "image": "/questions/images/pic-place-15.jpg",
+    "imageCredit": "佩特拉修道院，摄影：Azurfrog｜CC BY-SA 3.0｜Wikimedia Commons",
+    "options": [
+      "佩特拉",
+      "帕尔米拉",
+      "阿布辛拜勒",
+      "以弗所"
+    ],
+    "correctAnswer": 0,
+    "explanation": "图中是佩特拉最大的建筑“修道院”，宽约47米、高约48米，比更有名的“宝库”还大。“修道院”是后人的叫法，它其实更可能是纳巴泰人纪念国王奥博达斯一世的神庙。"
+  },
+  {
+    "id": "picture-064",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这尊依江边崖壁凿成的巨大石佛，位于中国哪个省份？",
+    "image": "/questions/images/pic-place-16.jpg",
+    "imageCredit": "乐山大佛，摄影：xiquinhosilva｜CC BY 2.0｜Wikimedia Commons",
+    "options": [
+      "四川",
+      "河南",
+      "甘肃",
+      "山西"
+    ],
+    "correctAnswer": 0,
+    "explanation": "乐山大佛高71米，是世界上最大的石刻佛像，由僧人海通发愿修建，从唐开元初年开凿，前后花了约90年才完工。佛像头部、耳后等处还暗藏排水系统，用来保护石身。"
+  },
+  {
+    "id": "picture-065",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag-01.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "孟加拉国",
+      "日本",
+      "韩国",
+      "帕劳"
+    ],
+    "correctAnswer": 1,
+    "explanation": "日本国旗叫“日章旗”，白底红日；“日本”这个国名的本意就是“日出之处”。不过直到1999年，日章旗才通过《国旗国歌法》正式成为法定国旗。"
+  },
+  {
+    "id": "picture-066",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag-02.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "新西兰",
+      "澳大利亚",
+      "斐济",
+      "英国"
+    ],
+    "correctAnswer": 3,
+    "explanation": "英国国旗俗称“米字旗”，由英格兰的圣乔治十字、苏格兰的圣安德鲁十字和爱尔兰的圣帕特里克十字叠合而成。威尔士的红龙没有出现在旗上，因为威尔士早已被并入英格兰王国。"
+  },
+  {
+    "id": "picture-067",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag-03.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "奥地利",
+      "加拿大",
+      "黎巴嫩",
+      "秘鲁"
+    ],
+    "correctAnswer": 1,
+    "explanation": "加拿大国旗于1965年启用，此前长期使用带有英国米字旗的旗帜，换旗前还掀起过一场激烈的“国旗大辩论”。枫叶有11个尖角，两侧红边常被解读为大西洋与太平洋。"
+  },
+  {
+    "id": "picture-068",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag-04.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "美国",
+      "乌拉圭",
+      "马来西亚",
+      "利比里亚"
+    ],
+    "correctAnswer": 0,
+    "explanation": "美国国旗上13道条纹代表最初的13个殖民地，50颗星代表50个州。现行的50星旗其实出自一位17岁高中生的历史课作业，老师最初只给了B-，设计入选后才改成A。"
+  },
+  {
+    "id": "picture-069",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag-05.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "澳大利亚",
+      "斐济",
+      "新西兰",
+      "图瓦卢"
+    ],
+    "correctAnswer": 2,
+    "explanation": "新西兰国旗上是4颗红色白边的南十字星，而澳大利亚的南十字星是白色的，另外还多一颗大七角联邦星。2016年新西兰曾就换旗举行全民公投，约57%的人选择保留现在的旗。"
+  },
+  {
+    "id": "picture-070",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag-06.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "波兰",
+      "摩纳哥",
+      "印度尼西亚",
+      "奥地利"
+    ],
+    "correctAnswer": 0,
+    "explanation": "波兰国旗上白下红，红白两色源自国徽——红底上的白鹰。印度尼西亚和摩纳哥的国旗则是上红下白，配色相同只是上下颠倒，而且这两面旗本身也几乎一模一样，只有长宽比不同。"
+  },
+  {
+    "id": "picture-071",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag-07.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "安道尔",
+      "罗马尼亚",
+      "摩尔多瓦",
+      "比利时"
+    ],
+    "correctAnswer": 1,
+    "explanation": "罗马尼亚国旗与乍得国旗几乎一模一样。1989年罗马尼亚革命时，示威者把旗子中央的共产党国徽剪掉，举着有洞的旗帜游行，这成为革命的象征。"
+  },
+  {
+    "id": "picture-072",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag-08.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "荷兰",
+      "克罗地亚",
+      "俄罗斯",
+      "卢森堡"
+    ],
+    "correctAnswer": 3,
+    "explanation": "卢森堡国旗是红白浅蓝三色，和荷兰国旗（红白深蓝）极其相似，区别在于蓝色更浅、旗面也更长（3:5对2:3）。颜色取自卢森堡大公国国徽上的红狮与蓝白条纹。"
+  },
+  {
+    "id": "picture-073",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag-09.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "老挝",
+      "尼泊尔",
+      "斯里兰卡",
+      "不丹"
+    ],
+    "correctAnswer": 1,
+    "explanation": "尼泊尔国旗是世界上唯一非四边形的国旗，由两面三角旗叠成，上面的月亮与太阳寄托着国家像日月一样长存的愿望。它的画法还被详细写进了宪法。"
+  },
+  {
+    "id": "picture-074",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag-10.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "津巴布韦",
+      "莫桑比克",
+      "安哥拉",
+      "肯尼亚"
+    ],
+    "correctAnswer": 1,
+    "explanation": "莫桑比克国旗上有一支AK-47步枪、一把锄头和一本书，分别象征保卫国家、农业和教育，是世界上最著名的“带枪国旗”。"
+  },
+  {
+    "id": "picture-075",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这颗行星表面最醒目的一道长约4000公里的大峡谷，叫什么？",
+    "image": "/questions/images/pic-space-01.jpg",
+    "imageCredit": "火星（水手号峡谷），NASA/USGS｜公有领域｜Wikimedia Commons",
+    "options": [
+      "伊萨卡峡谷",
+      "东非大裂谷",
+      "水手号峡谷",
+      "科罗拉多大峡谷"
+    ],
+    "correctAnswer": 2,
+    "explanation": "水手号峡谷长约4000公里、最深处约7公里，长度和深度都是美国大峡谷的好几倍。它得名于1971年抵达火星的水手9号探测器，图中这颗行星正是火星。"
+  },
+  {
+    "id": "picture-076",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这颗行星上有一场已被观测了一百多年的巨型风暴，右下方那个橙色的椭圆就是它，它叫什么？",
+    "image": "/questions/images/pic-space-02.jpg",
+    "imageCredit": "木星，NASA/ESA/A. Simon｜公有领域｜Wikimedia Commons",
+    "options": [
+      "大红斑",
+      "大暗斑",
+      "小红斑",
+      "大白斑"
+    ],
+    "correctAnswer": 0,
+    "explanation": "大红斑是木星上一场逆时针旋转的反气旋风暴：十九世纪时宽度约相当于三个地球并排，如今仍在缓慢缩小，但依然比一个地球还要宽。大暗斑出现在海王星上，大白斑则是土星上周期性爆发的风暴。"
+  },
+  {
+    "id": "picture-077",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这颗行星有一颗卫星，是太阳系中唯一拥有浓厚大气层的卫星，欧洲的惠更斯号探测器曾在它表面着陆。这颗卫星叫什么？",
+    "image": "/questions/images/pic-space-03.jpg",
+    "imageCredit": "土星，NASA/JPL/空间科学研究所｜公有领域｜Wikimedia Commons",
+    "options": [
+      "木卫二",
+      "木卫三",
+      "海卫一",
+      "土卫六"
+    ],
+    "correctAnswer": 3,
+    "explanation": "土卫六（泰坦）的大气比地球还厚，主要成分是氮气，表面有液态甲烷和乙烷汇成的湖泊与河流。2005年，惠更斯号成为第一个在外太阳系天体上着陆的探测器。"
+  },
+  {
+    "id": "picture-078",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "1972年，宇航员在飞往月球的途中拍下了这张地球全貌照，它常被称为史上流传最广的照片之一。这张照片的名字是？",
+    "image": "/questions/images/pic-space-04.jpg",
+    "imageCredit": "蓝色弹珠，NASA/阿波罗17号乘员｜公有领域｜Wikimedia Commons",
+    "options": [
+      "暗淡蓝点",
+      "地出",
+      "蓝色弹珠",
+      "哈勃极深空场"
+    ],
+    "correctAnswer": 2,
+    "explanation": "拍摄者是阿波罗17号的宇航员，当时飞船离地球约2.9万公里，太阳正好在他们背后，所以整个地球被照得通亮。原片其实是南极朝上，后来才翻转成我们熟悉的样子。"
+  },
+  {
+    "id": "picture-079",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "哈勃太空望远镜在1995年首次拍下、2014年又重拍的这幅照片，展示的是几根由气体和尘埃构成的“恒星摇篮”。它叫什么名字？",
+    "image": "/questions/images/pic-space-05.jpg",
+    "imageCredit": "创生之柱，NASA/ESA/哈勃遗产团队｜公有领域｜Wikimedia Commons",
+    "options": [
+      "蟹状星云",
+      "猎户座大星云",
+      "马头星云",
+      "创生之柱"
+    ],
+    "correctAnswer": 3,
+    "explanation": "它位于约6500到7000光年外的鹰状星云中，最高的一根“柱子”长约4到5光年。有研究推测，这些柱子可能早在几千年前就被超新星冲击波摧毁了，只是那一幕的光还没传到地球。"
+  },
+  {
+    "id": "picture-080",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "2019年公布的这张史上首张黑洞照片，拍的是哪个星系中心的黑洞？",
+    "image": "/questions/images/pic-space-06.jpg",
+    "imageCredit": "M87黑洞，事件视界望远镜合作组织/ESO｜CC BY 4.0｜Wikimedia Commons",
+    "options": [
+      "银河系",
+      "大麦哲伦云",
+      "仙女座星系",
+      "M87星系"
+    ],
+    "correctAnswer": 3,
+    "explanation": "M87在约5500万光年外，中心黑洞的质量约为65亿个太阳。照片中间的暗区是黑洞的“阴影”，周围的亮环是被引力扭曲的炽热气体，由全球多台射电望远镜联网组成的“事件视界望远镜”拍摄。2022年，同一团队又公布了银河系中心黑洞人马座A*的照片。"
+  },
+  {
+    "id": "picture-081",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这座在约400公里高空绕地飞行的大型太空设施是什么？",
+    "image": "/questions/images/pic-space-07.jpg",
+    "imageCredit": "国际空间站，NASA/STS-132乘员｜公有领域｜Wikimedia Commons",
+    "options": [
+      "和平号空间站",
+      "国际空间站",
+      "天空实验室",
+      "天宫空间站"
+    ],
+    "correctAnswer": 1,
+    "explanation": "国际空间站大约每90分钟绕地球一圈，宇航员一天能看到十几次日出日落。自2000年11月起，这里始终有人类在驻留。"
+  },
+  {
+    "id": "picture-082",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这张1968年平安夜拍下的照片，让人类第一次亲眼看到地球从月平线上升起。它出自哪次任务？",
+    "image": "/questions/images/pic-space-08.jpg",
+    "imageCredit": "地出，NASA/比尔·安德斯｜公有领域｜Wikimedia Commons",
+    "options": [
+      "阿波罗8号",
+      "阿波罗11号",
+      "阿波罗13号",
+      "阿波罗17号"
+    ],
+    "correctAnswer": 0,
+    "explanation": "拍摄者是宇航员比尔·安德斯，他和同伴是首批飞出近地轨道、环绕月球飞行的人。这一幕并不在原定的拍摄计划里，是他们被眼前的景象震撼后临时抓拍的，这张照片常被认为激发了后来的环保意识。"
+  },
+  {
+    "id": "picture-083",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "月亮遮住太阳后，图中黑色圆盘周围显现出一圈银白色的光晕，它是太阳最外层的大气。这圈光晕叫什么？",
+    "image": "/questions/images/pic-space-09.jpg",
+    "imageCredit": "日全食，NASA阿姆斯特朗飞行研究中心｜公有领域｜Wikimedia Commons",
+    "options": [
+      "光球层",
+      "日珥",
+      "日冕",
+      "色球层"
+    ],
+    "correctAnswer": 2,
+    "explanation": "日冕的温度高达上百万摄氏度，远比太阳表面（约5500摄氏度）更热，这个“日冕加热之谜”至今没有完全解开。它只有在日全食时才能被肉眼直接看到，图中边缘隐约可见的粉红色小点是日珥。"
+  },
+  {
+    "id": "picture-084",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这件1939年出土于河南安阳的商代青铜重器，重约832公斤，是已知中国古代最重的青铜器。它叫什么？",
+    "image": "/questions/images/pic-relic-01.jpg",
+    "imageCredit": "后母戊鼎，摄影：Mlogic｜CC BY-SA 3.0｜Wikimedia Commons",
+    "options": [
+      "毛公鼎",
+      "后母戊鼎",
+      "大盂鼎",
+      "大克鼎"
+    ],
+    "correctAnswer": 1,
+    "explanation": "它原名“司母戊鼎”，2011年国家博物馆依据铭文研究改称“后母戊鼎”。据说1939年出土后，为躲避日军搜掠，村民曾把它重新埋回地下。"
+  },
+  {
+    "id": "picture-085",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这件1938年出土于湖南宁乡的商代青铜礼器，被誉为“方尊之冠”。它叫什么？",
+    "image": "/questions/images/pic-relic-02.jpg",
+    "imageCredit": "四羊方尊，摄影：Gary Todd｜CC0｜Wikimedia Commons",
+    "options": [
+      "皿方罍",
+      "四羊方尊",
+      "大禾人面纹方鼎",
+      "龙虎尊"
+    ],
+    "correctAnswer": 1,
+    "explanation": "它高约58厘米、重约34.5公斤，是现存商代方尊中最大的一件。尊肩四角各铸一只卷角山羊，羊头和羊角是先分别铸好，再与器身铸接在一起，代表了商代青铜铸造工艺的巅峰。"
+  },
+  {
+    "id": "picture-086",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这尊姿势特殊的陶俑出土于秦始皇陵二号兵马俑坑，是保存最完整的兵马俑之一，因它的姿态而得名。它叫什么？",
+    "image": "/questions/images/pic-relic-03.jpg",
+    "imageCredit": "跪射俑，摄影：Windmemories｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "跪射俑",
+      "骑兵俑",
+      "将军俑",
+      "立射俑"
+    ],
+    "correctAnswer": 0,
+    "explanation": "它高约1.2米，出土时连铠甲上的甲片和彩绘痕迹都清晰可辨，鞋底还有细密的针脚纹路。右膝跪地、左腿蹲起，是为了让射箭时身体更稳。"
+  },
+  {
+    "id": "picture-087",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "1965年出土于湖北荆州楚墓的这把青铜剑，历经两千多年依然寒光逼人，剑身刻有八字鸟虫书铭文。它的主人是谁？",
+    "image": "/questions/images/pic-relic-04.jpg",
+    "imageCredit": "越王勾践剑，摄影：Windmemories｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "吴王夫差",
+      "越王勾践",
+      "楚庄王",
+      "吴王阖闾"
+    ],
+    "correctAnswer": 1,
+    "explanation": "剑身满布黑色菱形暗纹，出土时仍锋利无比，据说能轻松划破二十多层纸。铭文里的“鸠浅”就是勾践；这把越王的剑为什么会出现在楚国贵族墓中，学界众说纷纭。"
+  },
+  {
+    "id": "picture-088",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这套1978年出土于湖北随州的战国早期编钟共65件、总重约2.5吨，至今仍能奏出完整的乐曲。它的主人是谁？",
+    "image": "/questions/images/pic-relic-05.jpg",
+    "imageCredit": "曾侯乙编钟，摄影：Windmemories｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "晋文公",
+      "齐桓公",
+      "曾侯乙",
+      "楚惠王"
+    ],
+    "correctAnswer": 2,
+    "explanation": "编钟的每一件都能敲出相差三度的两个音，是古代“一钟双音”的杰作。其中有一件镈钟是楚惠王特地为曾侯乙铸造的，钟上铭文还记录了这件事。"
+  },
+  {
+    "id": "picture-089",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这盏1968年出土于河北满城汉墓的鎏金铜灯，铸成宫女执灯的模样，灯罩还能开合来调节光照方向。它叫什么？",
+    "image": "/questions/images/pic-relic-06.jpg",
+    "imageCredit": "长信宫灯，摄影：Windmemories｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "雁鱼灯",
+      "长信宫灯",
+      "当户灯",
+      "错银铜牛灯"
+    ],
+    "correctAnswer": 1,
+    "explanation": "宫女的一只袖管其实是导烟管，蜡烛的烟尘顺着手臂进入中空的身体、溶于水中，堪称两千年前的“环保设计”。灯上刻有“长信”字样，长信宫是窦太后的居所，因此得名。"
+  },
+  {
+    "id": "picture-090",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这件东汉青铜器于1969年出土于甘肃武威，后来被定为中国旅游标志的形象。它出土于哪座墓葬？",
+    "image": "/questions/images/pic-relic-07.jpg",
+    "imageCredit": "铜奔马，摄影：G41rn8｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "海昏侯墓",
+      "雷台汉墓",
+      "马王堆汉墓",
+      "满城汉墓"
+    ],
+    "correctAnswer": 1,
+    "explanation": "雷台汉墓位于武威城北的雷台观下，据推测墓主是一位张姓将军。墓中出土了99件铜车马仪仗俑，这件铜奔马（俗称马踏飞燕）就是其中之一。至于马蹄下的鸟究竟是燕子还是传说中的龙雀，学界至今仍有争论。"
+  },
+  {
+    "id": "picture-091",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这件三星堆青铜面具眼球呈柱状凸出，相传表现的是古蜀第一位王“其目纵”的形象。这位古蜀先王是谁？",
+    "image": "/questions/images/pic-relic-08.jpg",
+    "imageCredit": "三星堆青铜纵目面具，摄影：Gary Todd｜CC0｜Wikimedia Commons",
+    "options": [
+      "开明",
+      "鱼凫",
+      "蚕丛",
+      "杜宇"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《华阳国志》记载蚕丛“其目纵，始称王”，李白《蜀道难》里“蚕丛及鱼凫，开国何茫然”写的也是这段传说。这件面具宽约1.38米，是否真是蚕丛的形象无法证实，却是三星堆最震撼的青铜器之一。"
+  },
+  {
+    "id": "picture-092",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这件出土于西安的唐三彩骆驼载乐俑，原本是用来做什么的？",
+    "image": "/questions/images/pic-relic-09.jpg",
+    "imageCredit": "唐三彩骆驼载乐俑，摄影：Gary Todd｜CC0｜Wikimedia Commons",
+    "options": [
+      "祭祀天地的礼器",
+      "随葬的明器",
+      "佛寺供奉的法器",
+      "宫廷宴乐的陈设"
+    ],
+    "correctAnswer": 1,
+    "explanation": "唐三彩胎质疏松、用的是低温铅釉，并不适合日常使用，主要是为死者准备的随葬品，反映了唐代贵族的厚葬之风。这件骆驼载乐俑1957年出土于西安，生动体现了丝绸之路上中外音乐文化的交流。"
+  },
+  {
+    "id": "picture-093",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这件距今五六千年、出自红山文化的玉器，身体蜷曲成环，头部圆钝，被视为红山玉器的代表。它叫什么？",
+    "image": "/questions/images/pic-relic-10.jpg",
+    "imageCredit": "红山玉猪龙，摄影：Gary Todd｜CC0｜Wikimedia Commons",
+    "options": [
+      "玉璧",
+      "玉琮",
+      "玉玦",
+      "玉猪龙"
+    ],
+    "correctAnswer": 3,
+    "explanation": "因为头部像猪、身体蜷曲又类似龙，得名“玉猪龙”，不过它的原型究竟是什么，学界说法不一。红山文化分布在今辽宁、内蒙古一带，是探索中华文明起源的重要线索。"
+  },
+  {
+    "id": "picture-094",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这种爬树高手爱吃竹叶，蓬松的尾巴上有一圈圈环纹，是中国的国家二级保护动物。它是？",
+    "image": "/questions/images/pic-animal-01.jpg",
+    "imageCredit": "小熊猫，摄影：Sunuwargr｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "小熊猫",
+      "貉",
+      "浣熊",
+      "环尾狐猴"
+    ],
+    "correctAnswer": 0,
+    "explanation": "小熊猫其实比大熊猫更早被科学家发现：它在1825年就有了正式记录，大熊猫则是1869年才为西方所知。它们并不是近亲，小熊猫自成一个科。"
+  },
+  {
+    "id": "picture-095",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这种鼻梁塌陷、脸庞泛蓝的珍稀灵长类，是中国的国家一级保护动物。它是？",
+    "image": "/questions/images/pic-animal-02.jpg",
+    "imageCredit": "川金丝猴，摄影：Giovanni Mari｜CC BY-SA 2.0｜Wikimedia Commons",
+    "options": [
+      "白头叶猴",
+      "黑叶猴",
+      "川金丝猴",
+      "猕猴"
+    ],
+    "correctAnswer": 2,
+    "explanation": "川金丝猴生活在川、陕、甘、鄂一带的高山森林里，冬天食物匮乏时，主要靠松萝（一种地衣）和树皮度日。它们“鼻孔朝天”，其实是因为鼻梁骨退化塌陷。"
+  },
+  {
+    "id": "picture-096",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这只在雪地里漫步的大型猫科动物，通常被认为是现存体型最大的虎亚种。它是？",
+    "image": "/questions/images/pic-animal-03.jpg",
+    "imageCredit": "东北虎，摄影：Appaloosa｜CC BY-SA 3.0｜Wikimedia Commons",
+    "options": [
+      "东北虎",
+      "孟加拉虎",
+      "苏门答腊虎",
+      "华南虎"
+    ],
+    "correctAnswer": 0,
+    "explanation": "东北虎又叫西伯利亚虎，为了御寒，它的毛更厚，腹部还有一层厚厚的脂肪。中国的野生东北虎主要分布在吉林、黑龙江一带，与俄罗斯远东的种群相连。"
+  },
+  {
+    "id": "picture-097",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中两只成年企鹅身旁的灰色小家伙是它们的雏鸟，这种企鹅是现存体型最大的企鹅。它是？",
+    "image": "/questions/images/pic-animal-04.jpg",
+    "imageCredit": "帝企鹅，摄影：Ian Duffy｜CC BY 2.0｜Wikimedia Commons",
+    "options": [
+      "王企鹅",
+      "帝企鹅",
+      "巴布亚企鹅",
+      "阿德利企鹅"
+    ],
+    "correctAnswer": 1,
+    "explanation": "南极冬天最冷的时候，帝企鹅爸爸把蛋踩在脚背上，用腹部的育儿袋盖住，站着孵化约两个月，期间不吃不喝，体重明显下降；企鹅妈妈则出海觅食，再回来接班。"
+  },
+  {
+    "id": "picture-098",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这种小型狐狸生活在撒哈拉沙漠，是世界上体型最小的犬科动物。它是？",
+    "image": "/questions/images/pic-animal-05.jpg",
+    "imageCredit": "耳廓狐，摄影：Drew Avery｜CC BY 2.0｜Wikimedia Commons",
+    "options": [
+      "耳廓狐",
+      "北极狐",
+      "赤狐",
+      "沙狐"
+    ],
+    "correctAnswer": 0,
+    "explanation": "耳廓狐的大耳朵最长可达15厘米，除了听觉灵敏，还是散热的“空调”，帮助它在沙漠的酷热中降温。它们白天躲进洞穴，夜里才出来觅食。"
+  },
+  {
+    "id": "picture-099",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这种两栖动物成年后仍保留着羽毛状的外鳃，还能再生断掉的四肢甚至部分器官。它是？",
+    "image": "/questions/images/pic-animal-06.jpg",
+    "imageCredit": "墨西哥钝口螈，摄影：LoKiLeCh｜CC BY-SA 3.0｜Wikimedia Commons",
+    "options": [
+      "火蝾螈",
+      "墨西哥钝口螈",
+      "东方蝾螈",
+      "大鲵"
+    ],
+    "correctAnswer": 1,
+    "explanation": "它直到成年仍保持着幼体的特征，这种现象叫“幼态持续”。由于再生能力惊人，它成了科学研究的明星；可它在原产地墨西哥城附近的湖泊里已濒临灭绝，人工饲养的个体却遍布全球。"
+  },
+  {
+    "id": "picture-100",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这种爬行动物以能改变体色闻名，它变色的主要目的其实是？",
+    "image": "/questions/images/pic-animal-07.jpg",
+    "imageCredit": "变色龙，摄影：Rod Waddington｜CC BY-SA 2.0｜Wikimedia Commons",
+    "options": [
+      "吸引昆虫靠近的诱饵",
+      "躲避天敌的伪装",
+      "适应季节变化的换装",
+      "与同类交流情绪、调节体温"
+    ],
+    "correctAnswer": 3,
+    "explanation": "变色龙的体色本来就与环境接近，颜色变化主要在求偶、争斗时传递信号，同时也帮助调节体温。研究发现，它们皮肤里有含纳米晶体的细胞，改变晶体间距就能改变反射的光色。"
+  },
+  {
+    "id": "picture-101",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这种熊的毛看起来雪白，但它的皮肤其实是什么颜色？",
+    "image": "/questions/images/pic-animal-08.jpg",
+    "imageCredit": "北极熊，摄影：Alan Wilson｜CC BY-SA 3.0｜Wikimedia Commons",
+    "options": [
+      "粉色",
+      "白色",
+      "黑色",
+      "灰色"
+    ],
+    "correctAnswer": 2,
+    "explanation": "北极熊的毛发其实是无色透明的空心管，白色是光线散射的结果；黑色的皮肤则有利于吸收热量。它们是陆地上最大的食肉动物，主要以海豹为食。"
+  },
+  {
+    "id": "picture-102",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这种鸟身上的粉红色，其实来自它们吃下的藻类和小虾里的类胡萝卜素。它是？",
+    "image": "/questions/images/pic-animal-09.jpg",
+    "imageCredit": "火烈鸟，摄影：Valdiney Pimenta｜CC BY 2.0｜Wikimedia Commons",
+    "options": [
+      "朱鹮",
+      "白鹭",
+      "琵鹭",
+      "火烈鸟"
+    ],
+    "correctAnswer": 3,
+    "explanation": "火烈鸟的雏鸟刚出生时羽毛灰白，靠父母分泌的红色“嗉囊乳”喂养，之后才逐渐变红。它们常常单腿站立休息，这样能减少热量散失。"
+  },
+  {
+    "id": "picture-103",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这种原产南美洲的动物，是现存体型最大的啮齿动物。它是？",
+    "image": "/questions/images/pic-animal-10.jpg",
+    "imageCredit": "水豚，摄影：Giles Laurent｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "豚鼠",
+      "河狸",
+      "水豚",
+      "南美貘"
+    ],
+    "correctAnswer": 2,
+    "explanation": "水豚体重可达六十多公斤，是游泳高手，遇到危险时能潜入水中屏气好几分钟。它们性情温和，常有小鸟甚至猴子站在背上休息，日本一些动物园还让它们在冬天泡温泉。"
+  },
+  {
+    "id": "picture-104",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这种鸟是传统文化中“仙鹤”的原型，主要在中国东北的湿地繁殖，冬天南迁越冬。它是？",
+    "image": "/questions/images/pic-animal-11.jpg",
+    "imageCredit": "丹顶鹤，摄影：Alastair Rae｜CC BY-SA 2.0｜Wikimedia Commons",
+    "options": [
+      "灰鹤",
+      "白鹤",
+      "丹顶鹤",
+      "白枕鹤"
+    ],
+    "correctAnswer": 2,
+    "explanation": "丹顶鹤头顶的“红顶”并不是羽毛，而是裸露的皮肤，情绪兴奋时颜色会更红。它们一生通常只有一个伴侣，繁殖季常成对跳起“求偶舞”，吉林、黑龙江的扎龙等湿地是重要的繁殖地。"
+  },
+  {
+    "id": "picture-105",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这道北京名菜有“焖炉”和“挂炉”两大流派，其中以焖炉烤鸭闻名的老字号是？",
+    "image": "/questions/images/pic-food-01.jpg",
+    "imageCredit": "北京烤鸭，摄影：Zheng Zhou｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "便宜坊",
+      "东来顺",
+      "都一处",
+      "全聚德"
+    ],
+    "correctAnswer": 0,
+    "explanation": "便宜坊始创于明永乐十四年（1416年），特色是在封闭的炉中用余热焖烤；全聚德创办于1864年，以挂炉明火直烤出名。传统上一只好鸭子会被片成上百片，每一片都要带皮带肉。"
+  },
+  {
+    "id": "picture-106",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这道红亮鲜香的川菜名菜，据传最初出自清代成都万福桥边的一家小饭铺。它是？",
+    "image": "/questions/images/pic-food-02.jpg",
+    "imageCredit": "麻婆豆腐，摄影：ZhengZhou｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "麻婆豆腐",
+      "水煮牛肉",
+      "宫保鸡丁",
+      "鱼香肉丝"
+    ],
+    "correctAnswer": 0,
+    "explanation": "相传饭铺老板娘脸上有麻点，人称“陈麻婆”，这道菜也因此得名。它讲究“麻、辣、烫、香、酥、嫩、鲜、活”八字诀，其中的“麻”来自花椒。"
+  },
+  {
+    "id": "picture-107",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这种小笼包，咬开后为什么会有一包热汤？",
+    "image": "/questions/images/pic-food-03.jpg",
+    "imageCredit": "小笼包，摄影：Peachyeung316｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "馅里加了大量的清水",
+      "蒸制时竹笼里的水汽渗进馅里",
+      "馅里拌有肉皮冻，蒸熟后化成汤",
+      "面皮里事先灌进了高汤"
+    ],
+    "correctAnswer": 2,
+    "explanation": "汤汁其实来自拌进肉馅的肉皮冻，蒸熟后皮冻融化，被薄薄的皮包成了一包汤。吃法有句口诀：“轻轻提，慢慢移，先开窗，后喝汤”，就是教你别被烫到。"
+  },
+  {
+    "id": "picture-108",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这种在餐桌中央的锅里边煮边吃、食材以生的形式分盘摆上桌的吃法，叫做什么？",
+    "image": "/questions/images/pic-food-04.jpg",
+    "imageCredit": "火锅，摄影：Jonathan Lin｜CC BY-SA 2.0｜Wikimedia Commons",
+    "options": [
+      "麻辣烫",
+      "串串香",
+      "冒菜",
+      "火锅"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这种分成两半的锅叫“鸳鸯锅”，方便不同口味的人同桌吃饭。相传重庆火锅最早是码头船工用便宜的牛杂在江边煮着吃，后来才发展成风靡全国的美食。"
+  },
+  {
+    "id": "picture-109",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这碗日式拉面，属于哪种基本汤底？",
+    "image": "/questions/images/pic-food-05.jpg",
+    "imageCredit": "日式拉面，摄影：Quercus acuta｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "豚骨拉面",
+      "酱油拉面",
+      "味噌拉面",
+      "盐味拉面"
+    ],
+    "correctAnswer": 1,
+    "explanation": "酱油拉面的汤色清亮偏褐，是日本最传统的拉面口味之一；豚骨汤底乳白浓稠，味噌汤底则更浑浊、颜色更深。那片带旋涡花纹的粉白色鱼糕叫“鸣门卷”，名字来自德岛的鸣门海峡漩涡。"
+  },
+  {
+    "id": "picture-110",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这种表皮金黄、印着精致花纹、皮薄馅多的月饼，属于哪个流派？",
+    "image": "/questions/images/pic-food-06.jpg",
+    "imageCredit": "莲蓉月饼，摄影：Fanny Schertzer｜CC BY-SA 3.0｜Wikimedia Commons",
+    "options": [
+      "广式",
+      "苏式",
+      "滇式",
+      "京式"
+    ],
+    "correctAnswer": 0,
+    "explanation": "广式月饼用糖浆皮，需要用木模压出花纹，馅料以莲蓉、豆沙、蛋黄为主，皮软油润；苏式月饼则是层层起酥的酥皮，京式月饼有提浆、自来红等工艺。图中这块是莲蓉馅的。"
+  },
+  {
+    "id": "picture-111",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这碗铺着肉末、浇着红油的面，是四川的代表性小吃。它是？",
+    "image": "/questions/images/pic-food-07.jpg",
+    "imageCredit": "担担面，摄影：Steven G. Johnson｜CC BY-SA 3.0｜Wikimedia Commons",
+    "options": [
+      "兰州牛肉面",
+      "担担面",
+      "炸酱面",
+      "热干面"
+    ],
+    "correctAnswer": 1,
+    "explanation": "它最早是小贩挑着担子沿街叫卖的小吃，因此得名，相传创始于清道光年间的自贡。地道的做法讲究红油、花椒、芽菜和肉末的搭配，麻辣鲜香、汤不多。"
+  },
+  {
+    "id": "picture-112",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这座横跨泰晤士河、中间桥面可以抬升的大桥叫什么？",
+    "image": "/questions/images/pic-sight-01.jpg",
+    "imageCredit": "伦敦塔桥，摄影：Fuzzypiggy｜CC BY-SA 3.0｜Wikimedia Commons",
+    "options": [
+      "伦敦桥",
+      "威斯敏斯特桥",
+      "伦敦塔桥",
+      "千禧桥"
+    ],
+    "correctAnswer": 2,
+    "explanation": "游客常把它误称为“伦敦桥”，其实伦敦桥是上游不远处另一座外观朴素的桥。塔桥建成于1894年，两座塔楼之间的桥面可以抬起，好让高桅帆船通过。"
+  },
+  {
+    "id": "picture-113",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这座建在德国巴伐利亚山崖上的白色城堡，是迪士尼“睡美人城堡”的灵感来源之一。它叫什么？",
+    "image": "/questions/images/pic-sight-02.jpg",
+    "imageCredit": "新天鹅堡，摄影：Thomas Wolf｜CC BY-SA 3.0 DE｜Wikimedia Commons",
+    "options": [
+      "新天鹅堡",
+      "霍亨索伦城堡",
+      "海德堡城堡",
+      "瓦特堡"
+    ],
+    "correctAnswer": 0,
+    "explanation": "它由痴迷瓦格纳歌剧的国王路德维希二世下令修建，可惜他1886年离奇去世时城堡尚未完工，他本人在这里前后只住了约170天。"
+  },
+  {
+    "id": "picture-114",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这座矗立在莫斯科红场上、有着洋葱头式彩色穹顶的东正教教堂，叫什么？",
+    "image": "/questions/images/pic-sight-03.jpg",
+    "imageCredit": "圣瓦西里大教堂，摄影：Tsy1980｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "圣以撒大教堂",
+      "喀山大教堂",
+      "圣瓦西里大教堂",
+      "基督救世主大教堂"
+    ],
+    "correctAnswer": 2,
+    "explanation": "它由伊凡雷帝下令建造，用来纪念攻占喀山汗国。民间传说建成后伊凡雷帝为了让建筑师再也造不出如此杰作，把他们的眼睛弄瞎了，但这多半只是传说。"
+  },
+  {
+    "id": "picture-115",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这条江两岸奇峰林立，素有“舟行碧波上，人在画中游”的美誉，它是？",
+    "image": "/questions/images/pic-sight-04.jpg",
+    "imageCredit": "漓江，摄影：xiquinhosilva｜CC BY 2.0｜Wikimedia Commons",
+    "options": [
+      "富春江",
+      "九曲溪",
+      "楠溪江",
+      "漓江"
+    ],
+    "correctAnswer": 3,
+    "explanation": "漓江从桂林到阳朔的一段约八十公里，两岸是典型的喀斯特峰林地貌。第五套人民币20元纸币背面的图案，取景自漓江上的兴坪一带。"
+  },
+  {
+    "id": "picture-116",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这座始建于1882年、至今仍在建造中的教堂，叫什么？",
+    "image": "/questions/images/pic-sight-05.jpg",
+    "imageCredit": "圣家堂，摄影：Canaan｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "圣家堂",
+      "科隆大教堂",
+      "巴黎圣母院",
+      "米兰大教堂"
+    ],
+    "correctAnswer": 0,
+    "explanation": "它由西班牙建筑师安东尼·高迪主持设计，他1926年去世时工程还不到四分之一，如今建造仍在继续。据说高迪曾说：“我的客户（上帝）并不着急。”"
+  },
+  {
+    "id": "picture-117",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这片湖底沉着倒木、水色如翡翠般碧蓝的湖泊，位于四川的哪处著名景区？",
+    "image": "/questions/images/pic-sight-06.jpg",
+    "imageCredit": "九寨沟五花海，摄影：Chensiyuan｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "黄龙",
+      "稻城亚丁",
+      "卧龙",
+      "九寨沟"
+    ],
+    "correctAnswer": 3,
+    "explanation": "九寨沟因沟内有九个藏族村寨而得名，1992年被列入世界自然遗产。图中这片水域叫五花海，水下的倒木被钙化物包裹，千百年不腐，斑斓的水色与湖底沉积物、水藻和光线都有关系。"
+  },
+  {
+    "id": "picture-118",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这件琴筒蒙着蟒皮的拉弦乐器，弓毛夹在琴弦之间，无法与琴分开单独取下。它是？",
+    "image": "/questions/images/pic-inst-01.jpg",
+    "imageCredit": "二胡，纽约大都会艺术博物馆藏｜CC0｜Wikimedia Commons",
+    "options": [
+      "板胡",
+      "京胡",
+      "马头琴",
+      "二胡"
+    ],
+    "correctAnswer": 3,
+    "explanation": "二胡的弓子必须夹在琴弦之间，所以拉奏时弓和琴始终连在一起。它的祖先“胡琴”是从北方民族传入中原的乐器，名字里的“胡”就是这么来的。"
+  },
+  {
+    "id": "picture-119",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这件半梨形、竖抱弹奏的弹拨乐器，被誉为“弹拨乐器之王”。它是？",
+    "image": "/questions/images/pic-inst-02.jpg",
+    "imageCredit": "琵琶，纽约大都会艺术博物馆藏｜CC0｜Wikimedia Commons",
+    "options": [
+      "柳琴",
+      "三弦",
+      "阮",
+      "琵琶"
+    ],
+    "correctAnswer": 3,
+    "explanation": "白居易《琵琶行》里“大珠小珠落玉盘”，写的就是它的声音。它的名字来自演奏手法：向前弹出叫“批”，向后挑进叫“把”。"
+  },
+  {
+    "id": "picture-120",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这件由一束竹管插在一个吹嘴斗上、靠簧片发声的乐器，是中国最古老的吹奏乐器之一。它是？",
+    "image": "/questions/images/pic-inst-03.jpg",
+    "imageCredit": "笙，纽约大都会艺术博物馆藏｜CC0｜Wikimedia Commons",
+    "options": [
+      "排箫",
+      "笙",
+      "埙",
+      "唢呐"
+    ],
+    "correctAnswer": 1,
+    "explanation": "笙的簧片发声原理，据说启发了欧洲人发明口琴和手风琴。成语“滥竽充数”里的“竽”，就是一种体型更大的笙类乐器。"
+  },
+  {
+    "id": "picture-121",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这件长约一米六的弹拨乐器，常见的有二十一根弦，每根弦下都有一个可以移动的“雁柱”。它是？",
+    "image": "/questions/images/pic-inst-04.jpg",
+    "imageCredit": "古筝，摄影：Mojmir Churavy｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "古筝",
+      "扬琴",
+      "古琴",
+      "箜篌"
+    ],
+    "correctAnswer": 0,
+    "explanation": "古筝在战国时期已很流行，尤以秦地（今陕西一带）最盛，所以又叫“秦筝”。李斯《谏逐客书》里“弹筝搏髀，而歌呼呜呜快耳者，真秦之声也”，说的正是它。"
+  },
+  {
+    "id": "picture-122",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-01.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "越南",
+      "土耳其",
+      "摩洛哥",
+      "中国"
+    ],
+    "correctAnswer": 3,
+    "explanation": "五星红旗上的红色象征革命，黄色象征光明，一颗大星和四颗小星寓意全国人民团结在党的周围。设计者是上海市民曾联松，1949年从近三千份应征稿中脱颖而出。"
+  },
+  {
+    "id": "picture-123",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-02.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "俄罗斯",
+      "荷兰",
+      "斯洛文尼亚",
+      "法国"
+    ],
+    "correctAnswer": 0,
+    "explanation": "俄罗斯的白蓝红三色旗相传出自彼得大帝，他受荷兰红白蓝三色旗的启发，用它来标识俄国商船。1991年，这面旗恢复为俄罗斯的国旗。"
+  },
+  {
+    "id": "picture-124",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-03.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "乌干达",
+      "爱沙尼亚",
+      "比利时",
+      "德国"
+    ],
+    "correctAnswer": 3,
+    "explanation": "黑红金三色源自1813年反抗拿破仑的吕佐夫义勇军——黑色军服、红色镶边、金色纽扣，后来成了德意志追求统一与民主的象征。冷战时期东德也用这三色，只是旗上多了锤子与圆规的国徽。"
+  },
+  {
+    "id": "picture-125",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-04.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "意大利",
+      "荷兰",
+      "法国",
+      "罗马尼亚"
+    ],
+    "correctAnswer": 2,
+    "explanation": "法国三色旗诞生于1789年大革命时期：蓝、红是巴黎市的代表色，白色是波旁王室的颜色。这种三色竖条的设计后来影响了意大利、爱尔兰、罗马尼亚等许多国家的国旗。"
+  },
+  {
+    "id": "picture-126",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-05.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "意大利",
+      "匈牙利",
+      "墨西哥",
+      "保加利亚"
+    ],
+    "correctAnswer": 0,
+    "explanation": "意大利三色旗诞生于1797年，绿色取自米兰民兵的制服，红白两色取自米兰市徽，深受法国三色旗影响。人们也常把绿白红通俗地解读为原野、雪山和热血。"
+  },
+  {
+    "id": "picture-127",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-06.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "牙买加",
+      "阿根廷",
+      "葡萄牙",
+      "巴西"
+    ],
+    "correctAnswer": 3,
+    "explanation": "巴西国旗蓝色天球中的27颗星，代表26个州和1个联邦区，排布还原了1889年11月15日共和国成立当天清晨里约热内卢的星空。白色绶带上的葡萄牙语写着“秩序与进步”。"
+  },
+  {
+    "id": "picture-128",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-07.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "印度",
+      "孟加拉国",
+      "爱尔兰",
+      "巴基斯坦"
+    ],
+    "correctAnswer": 0,
+    "explanation": "印度国旗又称“三色旗”：橙色象征勇气与牺牲，白色象征和平与真理，绿色象征信心与繁荣。中央的蓝色法轮有24根轮辐，取自阿育王石柱；传统上这面旗还要用甘地推崇的手纺手织土布制作。"
+  },
+  {
+    "id": "picture-129",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-08.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "韩国",
+      "朝鲜",
+      "蒙古",
+      "日本"
+    ],
+    "correctAnswer": 0,
+    "explanation": "韩国国旗叫“太极旗”：白底象征纯洁与和平，中央红蓝相拥的太极象征阴阳和谐，四角的黑色卦象分别代表天、地、水、火。"
+  },
+  {
+    "id": "picture-130",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-09.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "斐济",
+      "新西兰",
+      "澳大利亚",
+      "图瓦卢"
+    ],
+    "correctAnswer": 2,
+    "explanation": "澳大利亚国旗左上角是英国米字旗，下方的七角“联邦星”代表六个州和联邦领地，右侧的南十字星由四颗七角星和一颗小五角星组成。它与新西兰国旗的区别就在于星星的颜色和数量。"
+  },
+  {
+    "id": "picture-131",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-10.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "西班牙",
+      "立陶宛",
+      "玻利维亚",
+      "葡萄牙"
+    ],
+    "correctAnswer": 0,
+    "explanation": "西班牙国旗红黄红三条中，黄色部分是红色部分的两倍宽。1785年国王卡洛斯三世选定红黄配色作为海军旗，原因是此前的白底旗在海上容易与其他国家的旗帜混淆。"
+  },
+  {
+    "id": "picture-132",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-11.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "西班牙",
+      "葡萄牙",
+      "巴西",
+      "摩洛哥"
+    ],
+    "correctAnswer": 1,
+    "explanation": "葡萄牙国旗中央的浑天仪象征大航海时代的探索成就，盾徽里的五个蓝色小盾据说代表被开国君主击败的五位摩尔国王。1910年推翻君主制后，绿红两色旗取代了原来的蓝白旗。"
+  },
+  {
+    "id": "picture-133",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-12.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "利比里亚",
+      "智利",
+      "捷克",
+      "古巴"
+    ],
+    "correctAnswer": 3,
+    "explanation": "古巴国旗的三道蓝条代表最初的三个行政区，两道白条象征独立事业的纯洁，红色三角代表争取独立的流血牺牲，白色“孤星”象征自由。波多黎各的旗帜就是把古巴旗的红蓝对调而成。"
+  },
+  {
+    "id": "picture-134",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-13.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "巴基斯坦",
+      "突尼斯",
+      "土耳其",
+      "阿尔及利亚"
+    ],
+    "correctAnswer": 2,
+    "explanation": "土耳其的红底白色新月星旗沿袭自奥斯曼帝国。民间传说，一场恶战之后，血泊中映出了天上的新月和星星，从此成了旗上的图案；现行的标准比例由1936年的《国旗法》确定。"
+  },
+  {
+    "id": "picture-135",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这面正方形的国旗属于哪个国家？",
+    "image": "/questions/images/pic-flag2-14.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "格鲁吉亚",
+      "瑞士",
+      "汤加",
+      "丹麦"
+    ],
+    "correctAnswer": 1,
+    "explanation": "瑞士与梵蒂冈是世界上仅有的两个使用正方形国旗的主权国家。红十字会的会徽，就是把瑞士国旗的红白颜色对调而成，以纪念创始人杜南是瑞士人。"
+  },
+  {
+    "id": "picture-136",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这面红白蓝三色旗最初其实是橙白蓝，它属于哪个国家？",
+    "image": "/questions/images/pic-flag2-15.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "荷兰",
+      "法国",
+      "俄罗斯",
+      "克罗地亚"
+    ],
+    "correctAnswer": 0,
+    "explanation": "荷兰国旗最早是橙白蓝，橙色取自奥兰治亲王的家族颜色；17世纪起红色逐渐取代了橙色，一种说法是橙色染料在海上容易褪色。它是持续使用至今的最古老的三色旗之一。"
+  },
+  {
+    "id": "picture-137",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这面蓝底黄十字的旗帜属于哪个国家？",
+    "image": "/questions/images/pic-flag2-16.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "瑞典",
+      "乌克兰",
+      "冰岛",
+      "芬兰"
+    ],
+    "correctAnswer": 0,
+    "explanation": "瑞典国旗的蓝底金黄相传取自国徽上的蓝底金色配色，十字的样式则效仿了丹麦国旗。北欧各国的国旗都采用十字偏向旗杆一侧的“北欧十字”。"
+  },
+  {
+    "id": "picture-138",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-17.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "瑞士",
+      "挪威",
+      "丹麦",
+      "冰岛"
+    ],
+    "correctAnswer": 1,
+    "explanation": "挪威国旗是在丹麦“红底白十字”的基础上加了一条蓝色十字，折射出两国曾长期联合的历史。红白蓝三色也被认为是向法国大革命的自由理想致意。"
+  },
+  {
+    "id": "picture-139",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "传说这面旗帜是在13世纪从天而降的，它是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-18.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "丹麦",
+      "挪威",
+      "格鲁吉亚",
+      "瑞士"
+    ],
+    "correctAnswer": 0,
+    "explanation": "相传1219年丹麦军队在爱沙尼亚作战陷入困境时，一面红底白十字旗从天而降，士气大振的丹麦人转败为胜。这面“丹尼布罗”旗被认为是世界上持续使用时间最长的国旗。"
+  },
+  {
+    "id": "picture-140",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这面白底蓝十字的旗帜属于哪个国家？",
+    "image": "/questions/images/pic-flag2-19.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "以色列",
+      "希腊",
+      "芬兰",
+      "瑞典"
+    ],
+    "correctAnswer": 2,
+    "explanation": "芬兰国旗的白色象征冬季的白雪，蓝色象征“千湖之国”的湖泊与天空。这面蓝十字旗在芬兰独立后的1918年正式采用。"
+  },
+  {
+    "id": "picture-141",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-20.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "乌拉圭",
+      "以色列",
+      "希腊",
+      "洪都拉斯"
+    ],
+    "correctAnswer": 2,
+    "explanation": "希腊国旗共有9道蓝白横条，据说对应希腊语口号“不自由，毋宁死”的9个音节。蓝色代表天空与大海，白色代表纯洁，左上角的十字则代表东正教。"
+  },
+  {
+    "id": "picture-142",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-21.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "也门",
+      "埃及",
+      "苏丹",
+      "叙利亚"
+    ],
+    "correctAnswer": 1,
+    "explanation": "红、白、黑三色是阿拉伯民族解放运动的颜色，常被解释为：红色象征革命与牺牲，白色象征光明的未来，黑色象征被压迫的过去。中间的金鹰叫“萨拉丁之鹰”，以12世纪统治埃及的英雄萨拉丁命名。"
+  },
+  {
+    "id": "picture-143",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-22.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "莫桑比克",
+      "南非",
+      "肯尼亚",
+      "巴哈马"
+    ],
+    "correctAnswer": 1,
+    "explanation": "南非国旗1994年首次升起，用了红、蓝、绿、黄、黑、白六种颜色，是世界上颜色最丰富的国旗之一。横放的“Y”形代表南非不同族群汇聚在一起、携手向前的道路。"
+  },
+  {
+    "id": "picture-144",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这面绿白红三色旗中央的图案取自一个建城传说，它属于哪个国家？",
+    "image": "/questions/images/pic-flag2-23.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "意大利",
+      "匈牙利",
+      "墨西哥",
+      "伊朗"
+    ],
+    "correctAnswer": 2,
+    "explanation": "阿兹特克人的神谕指示，要在看到一只站在仙人掌上叼着蛇的雄鹰的地方建城，那里后来成了特诺奇蒂特兰，也就是今天的墨西哥城。绿白红三色常被解读为希望、团结和英雄的鲜血。"
+  },
+  {
+    "id": "picture-145",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-24.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "乌拉圭",
+      "萨尔瓦多",
+      "危地马拉",
+      "阿根廷"
+    ],
+    "correctAnswer": 3,
+    "explanation": "阿根廷国旗中央长着人脸的太阳叫“五月太阳”，纪念1810年五月革命时太阳冲破乌云的传说。国旗由独立英雄贝尔格拉诺于1812年创制，浅蓝与白色据说象征天空与白云。"
+  },
+  {
+    "id": "picture-146",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-25.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "古巴",
+      "泰国",
+      "法国",
+      "哥斯达黎加"
+    ],
+    "correctAnswer": 1,
+    "explanation": "泰国国旗的红、白、蓝分别象征民族、宗教和王室，中间的蓝条宽度是其他条纹的两倍。1917年拉玛六世把国旗定为现在的红白蓝三色，据说也是因为泰国加入了协约国阵营，蓝色与协约国旗帜的颜色一致。"
+  },
+  {
+    "id": "picture-147",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-26.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "突尼斯",
+      "新加坡",
+      "土耳其",
+      "印度尼西亚"
+    ],
+    "correctAnswer": 1,
+    "explanation": "新加坡国旗的红色象征平等与四海一家，白色象征纯洁与美德；新月代表新兴的国家，五颗星代表民主、和平、进步、正义与平等。这面旗在1959年新加坡取得自治时启用。"
+  },
+  {
+    "id": "picture-148",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-27.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "阿根廷",
+      "洪都拉斯",
+      "希腊",
+      "以色列"
+    ],
+    "correctAnswer": 3,
+    "explanation": "以色列国旗的蓝白配色取自犹太教徒祈祷时披的“塔利特”披肩，中间的六芒星叫“大卫之星”。这套设计最早用于19世纪末的犹太复国主义运动，1948年建国后被正式采用。"
+  },
+  {
+    "id": "picture-149",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-28.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "瑞典",
+      "罗马尼亚",
+      "哈萨克斯坦",
+      "乌克兰"
+    ],
+    "correctAnswer": 3,
+    "explanation": "乌克兰国旗上蓝下黄，常被解读为蓝天与金黄的麦田——乌克兰素有“欧洲粮仓”之称。现行国旗于1992年正式采用。"
+  },
+  {
+    "id": "picture-150",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-29.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "菲律宾",
+      "波兰",
+      "捷克",
+      "古巴"
+    ],
+    "correctAnswer": 2,
+    "explanation": "捷克国旗的白红两色来自波希米亚，蓝色三角形取自摩拉维亚和斯洛伐克的纹章色，1920年加入，也让它不再与波兰的白红旗撞脸。1993年捷克与斯洛伐克分家后，捷克继续沿用了这面旗。"
+  },
+  {
+    "id": "picture-151",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-30.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "新加坡",
+      "秘鲁",
+      "奥地利",
+      "印度尼西亚"
+    ],
+    "correctAnswer": 3,
+    "explanation": "印度尼西亚国旗叫“红白旗”，红色象征勇气，白色象征纯洁，图案可追溯到13世纪的满者伯夷王国。它和摩纳哥国旗几乎一模一样，只有长宽比略有差别。"
+  },
+  {
+    "id": "picture-152",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-31.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "古巴",
+      "中国",
+      "摩洛哥",
+      "越南"
+    ],
+    "correctAnswer": 3,
+    "explanation": "越南国旗叫“金星红旗”：红色象征革命与牺牲，金色五角星象征社会各阶层的团结。它最早出现在1940年的南圻起义中，1945年被确定为国旗。"
+  },
+  {
+    "id": "picture-153",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-32.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "利比里亚",
+      "马来西亚",
+      "美国",
+      "土耳其"
+    ],
+    "correctAnswer": 1,
+    "explanation": "马来西亚国旗叫“辉煌条纹”，14道红白横条和14角星代表13个州加联邦直辖区的平等与团结；蓝色象征人民团结，黄色是马来统治者的皇室色，新月象征伊斯兰教。"
+  },
+  {
+    "id": "picture-154",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这面旗帜在战争时期会上下颠倒悬挂，它属于哪个国家？",
+    "image": "/questions/images/pic-flag2-33.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "菲律宾",
+      "捷克",
+      "智利",
+      "古巴"
+    ],
+    "correctAnswer": 0,
+    "explanation": "菲律宾国旗平时蓝色在上，战时则红色在上倒挂，这种做法极为罕见。白色三角象征平等，太阳的八道光芒代表最早起义反抗西班牙的八个省，三颗星代表吕宋、维萨亚斯和棉兰老。"
+  },
+  {
+    "id": "picture-155",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这面旗帜中央画着一座著名的古代建筑，它是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-34.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "缅甸",
+      "柬埔寨",
+      "老挝",
+      "泰国"
+    ],
+    "correctAnswer": 1,
+    "explanation": "柬埔寨国旗中央的白色建筑是吴哥窟，它被称为世界上唯一绘有建筑物的国旗。红色象征国家，蓝色象征王室，白色象征宗教。"
+  },
+  {
+    "id": "picture-156",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-35.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "意大利",
+      "印度",
+      "爱尔兰",
+      "科特迪瓦"
+    ],
+    "correctAnswer": 2,
+    "explanation": "爱尔兰国旗的绿色代表天主教与盖尔传统，橙色代表新教（奥兰治派），中间的白色象征两者之间的和平。科特迪瓦国旗的颜色顺序正好相反（橙白绿），意大利的则是绿白红。"
+  },
+  {
+    "id": "picture-157",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-36.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "保加利亚",
+      "伊朗",
+      "匈牙利",
+      "意大利"
+    ],
+    "correctAnswer": 2,
+    "explanation": "匈牙利国旗的红白绿三色源自国徽（红白条纹和绿色三座山），1848年革命时正式成为国家三色旗。它与意大利颜色相同但方向不同，也容易与保加利亚的白绿红旗混淆，记住“红色在最上”就不会错。"
+  },
+  {
+    "id": "picture-158",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-37.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "奥地利",
+      "黎巴嫩",
+      "秘鲁",
+      "拉脱维亚"
+    ],
+    "correctAnswer": 0,
+    "explanation": "奥地利的红白红旗是世界上最古老的国旗之一，传说1191年围攻阿克里时，公爵利奥波德五世的白色战袍被鲜血染红，只有系腰带的地方还是白的。拉脱维亚国旗也是红白红，但红色更暗，白条更窄，只占五分之一。"
+  },
+  {
+    "id": "picture-159",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这面画着一条白龙的旗帜属于哪个国家？",
+    "image": "/questions/images/pic-flag2-38.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "不丹",
+      "蒙古",
+      "斯里兰卡",
+      "尼泊尔"
+    ],
+    "correctAnswer": 0,
+    "explanation": "不丹国旗对角分成黄、橙两色，黄色象征国王的世俗权威，橙色象征佛教传统；中间的白龙象征纯洁，龙爪里抓着的宝珠代表国家财富。不丹人称自己的国家为“雷龙之国”。"
+  },
+  {
+    "id": "picture-160",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "旗上有一头手持宝剑的狮子，这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-39.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "孟加拉国",
+      "斯里兰卡",
+      "马尔代夫",
+      "缅甸"
+    ],
+    "correctAnswer": 1,
+    "explanation": "斯里兰卡国旗上执剑的狮子代表占多数的僧伽罗族，四角的菩提叶象征佛教慈、悲、喜、舍四种美德，左侧的绿色与橙色竖条分别代表穆斯林和泰米尔少数族群。"
+  },
+  {
+    "id": "picture-161",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这面天蓝色底、带有金色太阳与雄鹰的旗帜属于哪个国家？",
+    "image": "/questions/images/pic-flag2-40.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "乌兹别克斯坦",
+      "哈萨克斯坦",
+      "吉尔吉斯斯坦",
+      "乌克兰"
+    ],
+    "correctAnswer": 1,
+    "explanation": "哈萨克斯坦国旗的天蓝色象征天空与古代突厥民族，中央的太阳与草原雕代表自由与高远的志向，靠旗杆一侧是传统的羊角纹样。这面旗于1992年正式启用。"
+  },
+  {
+    "id": "picture-162",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这面旗上画着一幅岛屿的轮廓，它是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-41.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "冰岛",
+      "斯里兰卡",
+      "塞浦路斯",
+      "马耳他"
+    ],
+    "correctAnswer": 2,
+    "explanation": "塞浦路斯是世界上少有的把本国地图画上国旗的国家：白底上是铜黄色的岛屿轮廓，下方交叉着两枝橄榄枝，象征希腊族与土耳其族和平共处。设计者特意避开了希腊的蓝色和土耳其的红色，铜色则因该岛历史上盛产铜矿。"
+  },
+  {
+    "id": "picture-163",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这是哪个国家的国旗？",
+    "image": "/questions/images/pic-flag2-42.jpg",
+    "imageCredit": "国旗，公有领域｜Wikimedia Commons",
+    "options": [
+      "加纳",
+      "喀麦隆",
+      "马里",
+      "塞内加尔"
+    ],
+    "correctAnswer": 3,
+    "explanation": "塞内加尔国旗的绿、黄、红竖条是源自埃塞俄比亚国旗的“泛非色”，象征非洲的团结。它与邻国马里的国旗颜色相同，最主要的区别就是中央多了一颗绿色五角星。"
+  },
+  {
+    "id": "picture-164",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅文艺复兴名作下方那对托腮仰望的小天使，如今几乎和画面主角一样出名。整幅画叫什么？",
+    "image": "/questions/images/pic-art2-01.jpg",
+    "imageCredit": "拉斐尔《西斯廷圣母》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "雅典学院",
+      "西斯廷圣母",
+      "椅中圣母",
+      "岩间圣母"
+    ],
+    "correctAnswer": 1,
+    "explanation": "拉斐尔约1512年为意大利皮亚琴察的圣西斯托教堂所绘，画名来自左侧的教皇圣西斯笃二世。1754年被萨克森选帝侯买下，现藏德累斯顿；二战后一度被苏联运走，1955年才归还。"
+  },
+  {
+    "id": "picture-165",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅侧身端坐的黑衣老妇人像，被称为“美国的蒙娜丽莎”。它的作者是哪位旅居英国的美国画家？",
+    "image": "/questions/images/pic-art2-02.jpg",
+    "imageCredit": "惠斯勒《灰与黑的编排一号》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "爱德华·霍普",
+      "约翰·辛格·萨金特",
+      "温斯洛·霍默",
+      "詹姆斯·惠斯勒"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这是惠斯勒1871年的《灰与黑的编排一号》，画中人是他的母亲安娜。他特意起了个音乐般的标题，想强调这幅画的重点是色调与形式的“编排”；现藏巴黎奥赛博物馆。"
+  },
+  {
+    "id": "picture-166",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "1776年圣诞夜，一支军队在冰凌浮动的河面上乘船夜渡，准备奇袭对岸的敌军。描绘这一场景的名画叫什么？",
+    "image": "/questions/images/pic-art2-03.jpg",
+    "imageCredit": "洛伊茨《华盛顿横渡特拉华河》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "马拉之死",
+      "拿破仑翻越阿尔卑斯山",
+      "华盛顿横渡特拉华河",
+      "自由引导人民"
+    ],
+    "correctAnswer": 2,
+    "explanation": "德裔美国画家洛伊茨1851年在德国杜塞尔多夫画成，高约3.8米、宽约6.5米。细节颇有出入：星条旗要到1777年才诞生，画中的小船也比当年真正的渡船小；现藏纽约大都会艺术博物馆。"
+  },
+  {
+    "id": "picture-167",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅新古典主义骑马肖像里，统帅骑着扬蹄的白马翻越雪山，披风在风中飞扬。它的作者是谁？",
+    "image": "/questions/images/pic-art2-04.jpg",
+    "imageCredit": "大卫《拿破仑翻越阿尔卑斯山》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "欧仁·德拉克罗瓦",
+      "让-奥古斯特-多米尼克·安格尔",
+      "弗朗西斯科·戈雅",
+      "雅克-路易·大卫"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这是大卫的《拿破仑翻越阿尔卑斯山》（约1800—1801年），他共画了五个版本。现实中拿破仑是骑着骡子过山的，他却要求画成“平静地骑在烈马上”。岩石上还刻着“波拿巴”“汉尼拔”“查理大帝”的名字。"
+  },
+  {
+    "id": "picture-168",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅画风轻盈的洛可可名作里，粉裙少女在林间嬉戏，一只鞋子飞向空中。它的作者是谁？",
+    "image": "/questions/images/pic-art2-05.jpg",
+    "imageCredit": "弗拉戈纳尔《秋千》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "让-安托万·华托",
+      "弗朗索瓦·布歇",
+      "让-奥诺雷·弗拉戈纳尔",
+      "让-巴蒂斯特·西梅翁·夏尔丹"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这是弗拉戈纳尔1767年前后的《秋千》，据说订画的男爵提出了相当“出格”的要求，第一位受邀的画家拒绝了，才轮到他。被踢飞的鞋子和草丛里的年轻人，成了洛可可式轻佻趣味的象征；现藏伦敦华莱士收藏馆。"
+  },
+  {
+    "id": "picture-169",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅荷兰黄金时代的名作画的是一位在厨房里劳作的女子，桌上的面包被画出了颗粒般闪亮的高光。它叫什么？",
+    "image": "/questions/images/pic-art2-06.jpg",
+    "imageCredit": "维米尔《倒牛奶的女仆》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "窗边读信的少女",
+      "倒牛奶的女仆",
+      "削苹果的女人",
+      "织花边的女工"
+    ],
+    "correctAnswer": 1,
+    "explanation": "维米尔约1657—1658年所作，画幅只有约45×41厘米。面包上一粒粒“点彩”般的高光是他的招牌手法；现藏阿姆斯特丹国立博物馆。"
+  },
+  {
+    "id": "picture-170",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅16世纪的尼德兰名画描绘了严冬的村落：远处冰面上有人溜冰，近处几个人牵着猎犬、拖着疲惫的步伐归来。它的作者是谁？",
+    "image": "/questions/images/pic-art2-07.jpg",
+    "imageCredit": "老勃鲁盖尔《雪中猎人》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "老彼得·勃鲁盖尔",
+      "汉斯·荷尔拜因",
+      "希罗尼穆斯·博斯",
+      "扬·凡·艾克"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这是《雪中猎人》（1565年），属于表现一年不同时节的系列画，被公认为西方绘画中最经典的冬景，也被视为“小冰期”严寒岁月的写照。现藏维也纳艺术史博物馆。"
+  },
+  {
+    "id": "picture-171",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅16世纪末的肖像里，头发、面孔和衣服全是用水果、蔬菜和花卉拼成的。它的作者是谁？",
+    "image": "/questions/images/pic-art2-08.jpg",
+    "imageCredit": "阿尔钦博托《维尔图努斯》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "朱塞佩·阿尔钦博托",
+      "阿尔布雷希特·丢勒",
+      "提香·韦切利奥",
+      "希罗尼穆斯·博斯"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这是《维尔图努斯》（约1590年），画中人是神圣罗马帝国皇帝鲁道夫二世，被画成罗马神话里掌管四季与果实的神。皇帝看了非常满意。画作后来在三十年战争中被瑞典军队从布拉格掠走，现藏瑞典斯科克洛斯特城堡。"
+  },
+  {
+    "id": "picture-172",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅19世纪俄国现实主义名作里，一队衣衫褴褛的劳动者在河岸边拖着大船，艰难前行。它叫什么？",
+    "image": "/questions/images/pic-art2-09.jpg",
+    "imageCredit": "列宾《伏尔加河上的纤夫》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "三勇士",
+      "意外归来",
+      "伏尔加河上的纤夫",
+      "女贵族莫洛卓娃"
+    ],
+    "correctAnswer": 2,
+    "explanation": "列宾1870—1873年画成，他为此专程到伏尔加河边住了好几个月，还和其中几位纤夫成了朋友。画中共11人，领头的“康宁”是个被剥夺了神职的前神父。现藏圣彼得堡俄罗斯博物馆。"
+  },
+  {
+    "id": "picture-173",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅俄国海景名作里，朝阳穿透云层，照亮汹涌的巨浪和一群紧抱桅杆残骸的幸存者。它叫什么？",
+    "image": "/questions/images/pic-art2-10.jpg",
+    "imageCredit": "艾瓦佐夫斯基《九级浪》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "九级浪",
+      "被拖去解体的战舰无畏号",
+      "神奈川冲浪里",
+      "日出·印象"
+    ],
+    "correctAnswer": 0,
+    "explanation": "艾瓦佐夫斯基1850年所作。“第九个浪最大最凶”是水手中流传的说法，画名由此而来。他一生画了六千多幅画，大多是海景；这幅现藏圣彼得堡俄罗斯博物馆。"
+  },
+  {
+    "id": "picture-174",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅浮世绘版画捕捉了富士山的一个特殊瞬间：晴朗的清晨，山体被朝阳染成赤红。它叫什么？",
+    "image": "/questions/images/pic-art2-11.jpg",
+    "imageCredit": "葛饰北斋《凯风快晴》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "神奈川冲浪里",
+      "东海道五十三次·蒲原",
+      "凯风快晴",
+      "山下白雨"
+    ],
+    "correctAnswer": 2,
+    "explanation": "“凯风”指南风，“快晴”指晴朗无云。夏末秋初的清晨，斜射的朝阳会把富士山染成红色，故又称“红富士”。北斋约1831年创作，它与《神奈川冲浪里》《山下白雨》并称《富岳三十六景》三大名作。"
+  },
+  {
+    "id": "picture-175",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅19世纪法国名画里，一对农民夫妇在暮色笼罩的田野中低头默祷，远处隐约可见教堂的尖顶。它叫什么？",
+    "image": "/questions/images/pic-art2-12.jpg",
+    "imageCredit": "米勒《晚钟》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "播种者",
+      "吃土豆的人",
+      "碎石工",
+      "晚钟"
+    ],
+    "correctAnswer": 3,
+    "explanation": "米勒1857—1859年作，他说画的是儿时祖母一听到教堂的晚祷钟声，就让他停下活计祈祷的情景。达利对这幅画着了迷，还专门写了一本《米勒〈晚钟〉的悲剧神话》。现藏巴黎奥赛博物馆。"
+  },
+  {
+    "id": "picture-176",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅画作于1890年7月，压低的蓝色天空下，三条岔开的小路消失在金黄的田野里，黑色飞鸟盘旋。它叫什么？",
+    "image": "/questions/images/pic-art2-13.jpg",
+    "imageCredit": "梵高《麦田上的乌鸦》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "麦田上的乌鸦",
+      "麦田与柏树",
+      "奥维尔的教堂",
+      "收获"
+    ],
+    "correctAnswer": 0,
+    "explanation": "梵高1890年7月在奥维尔画成，长期被误传为他的“绝笔”，如今多认为他最后画的是《树根》。画布是罕见的1∶2长条，压抑与辽阔并存。"
+  },
+  {
+    "id": "picture-177",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅1844年的名作里，一列火车从桥上迎面驶来，整幅画几乎被光与雾溶解。它叫什么？",
+    "image": "/questions/images/pic-art2-14.jpg",
+    "imageCredit": "特纳《雨、蒸汽和速度》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "暴风雪：汽船驶离港口",
+      "雨、蒸汽和速度",
+      "迦太基帝国的衰亡",
+      "被拖去解体的战舰无畏号"
+    ],
+    "correctAnswer": 1,
+    "explanation": "特纳画的是驶过梅登黑德大桥的大西部铁路列车，全名《雨、蒸汽和速度——大西部铁路》。据说画面里隐约有一只在铁轨前奔跑的野兔，象征速度的较量。这种把形体“融化”在光与雾里的画风，被后来的印象派视为先声。现藏伦敦国家美术馆。"
+  },
+  {
+    "id": "picture-178",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "普鲁斯特在小说里称这幅荷兰名画为“世上最美的画”。画中描绘的是荷兰的哪座城市？",
+    "image": "/questions/images/pic-art2-15.jpg",
+    "imageCredit": "维米尔《代尔夫特一景》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "阿姆斯特丹",
+      "鹿特丹",
+      "海牙",
+      "代尔夫特"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这是维米尔约1660—1661年画下的《代尔夫特一景》，画的正是他的家乡。《追忆似水年华》里的作家贝戈特，在这幅画前被“一小块黄色的墙面”深深打动，随后倒地去世。现藏海牙毛里茨美术馆。"
+  },
+  {
+    "id": "picture-179",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这幅1533年的双人肖像里，前景有一块斜向的怪异“污迹”，只有从画面侧面看，才会认出它是一个骷髅。它叫什么？",
+    "image": "/questions/images/pic-art2-16.jpg",
+    "imageCredit": "荷尔拜因《大使们》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "阿尔诺芬尼夫妇像",
+      "亨利八世像",
+      "托马斯·莫尔像",
+      "大使们"
+    ],
+    "correctAnswer": 3,
+    "explanation": "荷尔拜因所作，画中是法国驻英大使让·德·丁特维尔和他的朋友、主教乔治·德·塞尔夫。前景的骷髅用“变形透视”画成，象征死亡；桌上的球仪、鲁特琴和书本则炫耀着两人的学识。现藏伦敦国家美术馆。"
+  },
+  {
+    "id": "picture-180",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这幅画属于一个共五幅的系列，其中一幅在2011年以据报道约2.5亿美元的价格售给卡塔尔王室，当时创下艺术品成交价的纪录。它的作者是谁？",
+    "image": "/questions/images/pic-art2-17.jpg",
+    "imageCredit": "塞尚《玩纸牌者》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "保罗·高更",
+      "保罗·塞尚",
+      "文森特·梵高",
+      "乔治·修拉"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这是塞尚1890年代的《玩纸牌者》系列，取材于普罗旺斯的农民。他让人物沉默而静止，把形体简化成近乎几何的块面，后来深深影响了毕加索等人。"
+  },
+  {
+    "id": "picture-181",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这幅1882年的名作里，一位神情疲惫的女招待站在酒瓶簇拥的柜台后，背后的大镜子映出热闹的人群，她的背影在镜中却偏到了一侧。它叫什么？",
+    "image": "/questions/images/pic-art2-18.jpg",
+    "imageCredit": "马奈《女神游乐厅的吧台》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "苦艾酒",
+      "煎饼磨坊的舞会",
+      "游船上的午餐",
+      "女神游乐厅的吧台"
+    ],
+    "correctAnswer": 3,
+    "explanation": "马奈1881—1882年病重时的最后一幅大作，又译《弗利-贝热尔的吧台》。镜中倒影的位置不合常理，让艺术史家争论了一个多世纪；女招待的原型据说是当时真有其人的酒吧女侍苏宗。现藏伦敦考陶尔德美术馆。"
+  },
+  {
+    "id": "picture-182",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这幅出自《名所江户百景》的浮世绘，用密密的细线画出一场倾盆大雨，画中的行人狼狈地赶路。它叫什么？",
+    "image": "/questions/images/pic-art2-19.jpg",
+    "imageCredit": "歌川广重《大桥骤雨》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "龟户梅屋铺",
+      "神奈川冲浪里",
+      "大桥骤雨",
+      "东海道五十三次·庄野"
+    ],
+    "correctAnswer": 2,
+    "explanation": "歌川广重1857年所作，用细密的斜线表现暴雨，又大胆地把桥身截取在画面前景。梵高十分着迷，1887年还用油画临摹过它。"
+  },
+  {
+    "id": "picture-183",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅17世纪荷兰巨作取材于《圣经》里的一则比喻，衣衫褴褛的儿子跪倒在父亲怀里，父亲双手轻抚他的肩背。它叫什么？",
+    "image": "/questions/images/pic-art2-20.jpg",
+    "imageCredit": "伦勃朗《浪子回头》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "浪子回头",
+      "以撒的牺牲",
+      "善良的撒玛利亚人",
+      "基督在加利利海的风暴中"
+    ],
+    "correctAnswer": 0,
+    "explanation": "伦勃朗晚年的巨作（约1661—1669年），现藏圣彼得堡冬宫。画中父亲的两只手一只宽大有力、一只纤细柔和，常被解读为父亲与母亲的双重慈爱。"
+  },
+  {
+    "id": "picture-184",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅俄罗斯名画里，几只小熊在倒伏的树干上嬉戏，薄雾弥漫在树木之间。它叫什么？",
+    "image": "/questions/images/pic-art2-21.jpg",
+    "imageCredit": "希施金《松林的早晨》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "黑麦",
+      "松林的早晨",
+      "金色的秋天",
+      "陌生女郎"
+    ],
+    "correctAnswer": 1,
+    "explanation": "希施金1889年所作，画中的小熊出自画家萨维茨基之手，起初两人都签了名，后来买下此画的收藏家特列季亚科夫把萨维茨基的签名擦掉，只留下希施金一人的名字。现藏莫斯科特列季亚科夫美术馆。"
+  },
+  {
+    "id": "picture-185",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅只有约24×33厘米的超现实主义名作里，软塌塌的钟表挂在树枝和桌沿上。它的作者是谁？",
+    "image": "/questions/images/pic-art2-22.jpg",
+    "imageCredit": "达利《记忆的永恒》｜私用｜来源：WikiArt",
+    "options": [
+      "马克斯·恩斯特",
+      "胡安·米罗",
+      "萨尔瓦多·达利",
+      "雷内·马格利特"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这幅《记忆的永恒》画于1931年，据说灵感来自达利看到一块在阳光下融化的卡蒙贝尔奶酪。现藏纽约现代艺术博物馆。"
+  },
+  {
+    "id": "picture-186",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅诞生于1908年的名作里，一对恋人被金箔与几何纹饰的长袍紧紧包裹在一起。它叫什么？",
+    "image": "/questions/images/pic-art2-23.jpg",
+    "imageCredit": "克里姆特《吻》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "吻",
+      "阿黛尔·布洛赫-鲍尔肖像一号",
+      "死亡与生命",
+      "生命之树"
+    ],
+    "correctAnswer": 0,
+    "explanation": "克里姆特“黄金时期”的代表作，用了大量金箔。1908年在维也纳艺术展上展出时，就被奥地利政府买下，现藏维也纳的美景宫。"
+  },
+  {
+    "id": "picture-187",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅满目蓝色的画里，一位瘦骨嶙峋的盲眼乐手弓着身子弹吉他，属于画家的“蓝色时期”。它的作者是谁？",
+    "image": "/questions/images/pic-art2-24.jpg",
+    "imageCredit": "毕加索《老吉他手》｜公有领域（PD-US）｜Wikipedia",
+    "options": [
+      "巴勃罗·毕加索",
+      "亨利·马蒂斯",
+      "马克·夏加尔",
+      "阿梅代奥·莫迪利亚尼"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这是《老吉他手》（1903—1904年），画于巴塞罗那。好友卡萨吉马斯自杀后，毕加索陷入贫困与悲伤，画面几乎只用蓝色，拉长的身形也让人想起格列柯。现藏芝加哥艺术博物馆。"
+  },
+  {
+    "id": "picture-188",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅1942年的美国名画描绘深夜里一家亮着灯的街角餐馆，几位顾客沉默地坐在吧台边。它叫什么？",
+    "image": "/questions/images/pic-art2-25.jpg",
+    "imageCredit": "霍普《夜游者》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "夜巡",
+      "夜晚的露天咖啡座",
+      "夜间咖啡馆",
+      "夜游者"
+    ],
+    "correctAnswer": 3,
+    "explanation": "爱德华·霍普所作，也有人译作《夜鹰》，英文“nighthawks”指深夜不睡的人。画中的餐馆看不到通往街道的门，孤独感因此更强。现藏芝加哥艺术博物馆。"
+  },
+  {
+    "id": "picture-189",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅1964年的超现实主义名作里，一个穿深色大衣、戴圆顶礼帽的男人，脸被一颗青苹果遮住。它叫什么？",
+    "image": "/questions/images/pic-art2-26.jpg",
+    "imageCredit": "马格利特《人之子》｜私用｜来源：WikiArt",
+    "options": [
+      "人之子",
+      "戈尔孔达",
+      "这不是一只烟斗",
+      "恋人"
+    ],
+    "correctAnswer": 0,
+    "explanation": "马格利特画的其实是他自己。他说：“我们看见的东西总是遮住另一些东西，人总想看见被遮住的部分。”画里的苹果，就是这句话的图解。"
+  },
+  {
+    "id": "picture-190",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅1930年的美国名画里，手持干草叉的农夫和身旁的女子站在一座带尖拱窗的白色农舍前。它叫什么？",
+    "image": "/questions/images/pic-art2-27.jpg",
+    "imageCredit": "格兰特·伍德《美国哥特式》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "美国哥特式",
+      "华盛顿横渡特拉华河",
+      "克里斯蒂娜的世界",
+      "夜游者"
+    ],
+    "correctAnswer": 0,
+    "explanation": "格兰特·伍德所作，“哥特式”指农舍那扇尖拱窗的建筑风格。画中的“农夫”其实是画家的牙医，“女子”是画家的妹妹，本意也不是夫妻而是父女。现藏芝加哥艺术博物馆。"
+  },
+  {
+    "id": "picture-191",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅抽象名作只用红、蓝、黄三种原色块和黑色直线构成。它的作者是谁？",
+    "image": "/questions/images/pic-art2-28.jpg",
+    "imageCredit": "蒙德里安《红、蓝、黄的构成》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "皮特·蒙德里安",
+      "瓦西里·康定斯基",
+      "卡济米尔·马列维奇",
+      "保罗·克利"
+    ],
+    "correctAnswer": 0,
+    "explanation": "荷兰画家蒙德里安倡导“新造型主义”，把绘画简化成水平与垂直的线条和三原色，这幅《红、蓝、黄的构成》（1930年）是其中的经典。1965年，圣罗兰还把这种格子图案做成了“蒙德里安裙”。"
+  },
+  {
+    "id": "picture-192",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这幅1905年的肖像里，脸上涂着绿、紫、粉等不合常理的色彩，让当年的观众大为震惊。它叫什么？",
+    "image": "/questions/images/pic-art2-29.jpg",
+    "imageCredit": "马蒂斯《戴帽子的女人》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "红色的和谐",
+      "戴帽子的女人",
+      "戴珍珠耳环的少女",
+      "绿色条纹"
+    ],
+    "correctAnswer": 1,
+    "explanation": "画中人是马蒂斯的妻子阿梅莉。1905年秋季沙龙上，批评家把这批色彩狂放的画称作“野兽”，“野兽派”由此得名。美国作家格特鲁德·斯泰因和哥哥利奥当年买下了这幅画，现藏旧金山现代艺术博物馆。"
+  },
+  {
+    "id": "picture-193",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这幅1948年的美国名画里，一位女子侧卧在荒草坡上，望向远处的农舍。它叫什么？",
+    "image": "/questions/images/pic-art2-30.jpg",
+    "imageCredit": "怀斯《克里斯蒂娜的世界》｜私用｜来源：WikiArt",
+    "options": [
+      "夜游者",
+      "克里斯蒂娜的世界",
+      "美国哥特式",
+      "墨西哥湾流"
+    ],
+    "correctAnswer": 1,
+    "explanation": "安德鲁·怀斯画的是缅因州的邻居克里斯蒂娜·奥尔森，她因肌肉退化的疾病无法行走，只能用手臂在田野上爬行。画里的农舍就是她的家。现藏纽约现代艺术博物馆。"
+  },
+  {
+    "id": "picture-194",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅北宋画作记录了一场发生在都城宫殿上空的祥瑞异象：天色如洗，群禽盘旋。它叫什么？",
+    "image": "/questions/images/pic-art2-31.jpg",
+    "imageCredit": "宋徽宗《瑞鹤图》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "双喜图",
+      "五色鹦鹉图",
+      "瑞鹤图",
+      "写生珍禽图"
+    ],
+    "correctAnswer": 2,
+    "explanation": "宋徽宗政和二年（1112年）上元节次夜，一群仙鹤忽然飞临汴京端门上空久久盘旋，其中两只还落在宫殿的鸱尾上，徽宗遂作此图并题诗。画中共二十只鹤，天空以石青平涂，装饰感极强。现藏辽宁省博物馆。"
+  },
+  {
+    "id": "picture-195",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅宋代花鸟画里，一只羽色艳丽的雉鸟停在花枝上，回首仰望一对翩翩飞来的蝴蝶，画上还有一首瘦金体题诗。它叫什么？",
+    "image": "/questions/images/pic-art2-32.jpg",
+    "imageCredit": "宋徽宗《芙蓉锦鸡图》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "五色鹦鹉图",
+      "写生珍禽图",
+      "池塘秋晚图",
+      "芙蓉锦鸡图"
+    ],
+    "correctAnswer": 3,
+    "explanation": "宋徽宗赵佶的作品。题诗里的“拒霜”是木芙蓉的别称，“已知全五德”则是说锦鸡像雄鸡一样，兼具文、武、勇、仁、信五种品德。现藏北京故宫博物院。"
+  },
+  {
+    "id": "picture-196",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这幅北宋巨幅山水立轴，巍峨的主峰占据了画面的大半，山脚下一支小小的驮队正在赶路。它叫什么？",
+    "image": "/questions/images/pic-art2-33.jpg",
+    "imageCredit": "范宽《溪山行旅图》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "千里江山图",
+      "万壑松风图",
+      "早春图",
+      "溪山行旅图"
+    ],
+    "correctAnswer": 3,
+    "explanation": "范宽所作，现藏台北故宫博物院。主峰高耸，瀑布像一条细线垂落，行旅的驮队小到几乎看不见，以此反衬山的雄浑。画家的签名“范宽”直到1958年才被人发现，藏在右下方行人旁的树叶间。"
+  },
+  {
+    "id": "picture-197",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这幅北宋山水以“卷云皴”和“蟹爪枝”闻名：山石如云翻卷，枯树枝像蟹爪。它的作者是谁？",
+    "image": "/questions/images/pic-art2-34.jpg",
+    "imageCredit": "郭熙《早春图》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "李成",
+      "郭熙",
+      "范宽",
+      "关仝"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这是郭熙1072年所作的《早春图》，现藏台北故宫博物院。他在《林泉高致》中提出山水画的“三远”——高远、深远、平远，这幅画正是范例；他还说，好的山水要让人“可行、可望、可游、可居”。"
+  },
+  {
+    "id": "picture-198",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅宋代人物画里，松荫下几位人物围坐一处，画上原有蔡京的题诗。它叫什么？",
+    "image": "/questions/images/pic-art2-35.jpg",
+    "imageCredit": "传宋徽宗《听琴图》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "十八学士图",
+      "文会图",
+      "听琴图",
+      "竹林七贤图"
+    ],
+    "correctAnswer": 2,
+    "explanation": "传为宋徽宗赵佶所作。画中的道装人物在抚琴，一般认为画的就是徽宗自己，两位听者着青衣、红衣。蔡京的题诗以“吟徵调商灶下桐”起句。现藏北京故宫博物院。"
+  },
+  {
+    "id": "picture-199",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅唐代仕女画（现存为宋徽宗摹本）画的是妇女们合力处理一匹刚织好的白绢，一个小女孩还钻在下面玩耍。它叫什么？",
+    "image": "/questions/images/pic-art2-36.jpg",
+    "imageCredit": "张萱（宋徽宗摹本）《捣练图》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "挥扇仕女图",
+      "宫乐图",
+      "捣练图",
+      "簪花仕女图"
+    ],
+    "correctAnswer": 2,
+    "explanation": "原作出自唐代画家张萱，现存的是宋徽宗的摹本，现藏美国波士顿美术馆。“练”是煮过、漂白的丝织品，“捣练”就是把它捣软；全卷描绘了捣练、络线、熨烫等丝绸加工的场面，这里是其中的“熨烫”一段。"
+  },
+  {
+    "id": "picture-200",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅明代水墨写意画的题诗写道：“笔底明珠无处卖，闲抛闲掷野藤中”，抒发了画家怀才不遇的愤懑。它叫什么？",
+    "image": "/questions/images/pic-art2-37.jpg",
+    "imageCredit": "徐渭《墨葡萄图》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "墨竹图",
+      "墨葡萄图",
+      "牡丹蕉石图",
+      "墨梅图"
+    ],
+    "correctAnswer": 1,
+    "explanation": "作者徐渭（号青藤）一生坎坷：屡试不第，还曾因精神失常误杀继室入狱，晚年靠卖画为生。他把满腔不平化作淋漓的水墨葡萄，画中的“明珠”既指葡萄，也是自比。现藏北京故宫博物院。"
+  },
+  {
+    "id": "picture-201",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这幅南宋山水画着山间农人载歌载舞、远处云雾中峰峦耸立，作者属于南宋画院的“四大家”之一。他是谁？",
+    "image": "/questions/images/pic-art2-38.jpg",
+    "imageCredit": "马远《踏歌图》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "夏圭",
+      "马远",
+      "李唐",
+      "刘松年"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这是马远的《踏歌图》，现藏北京故宫博物院。近景是田埂上踏歌而归的农人，画上题诗的最后一句“陌上踏歌行”便是画名的来源。马远常把主体放在画面一角，人称“马一角”，他与夏圭并称“马夏”。"
+  },
+  {
+    "id": "picture-202",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这幅宋代人物画里，一大一小两个孩子围着一只镂空的绣墩，正聚精会神地玩游戏。它叫什么？",
+    "image": "/questions/images/pic-art2-39.jpg",
+    "imageCredit": "苏汉臣《秋庭戏婴图》（局部）｜公有领域｜Wikimedia Commons",
+    "options": [
+      "冬日婴戏图",
+      "秋庭戏婴图",
+      "清明上河图",
+      "货郎图"
+    ],
+    "correctAnswer": 1,
+    "explanation": "作者苏汉臣是两宋之交的宫廷画家，以“婴戏”题材闻名。画中姐弟俩玩的是“推枣磨”——一种用枣子模拟推磨的儿童游戏。此画现藏台北故宫博物院。"
+  },
+  {
+    "id": "picture-203",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这幅北宋花鸟画里，一只野兔在坡下回首，枝头有两只鸟正对着它鸣叫，萧瑟中透着谐趣。它叫什么？",
+    "image": "/questions/images/pic-art2-40.jpg",
+    "imageCredit": "崔白《双喜图》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "芙蓉锦鸡图",
+      "寒雀图",
+      "双喜图",
+      "写生珍禽图"
+    ],
+    "correctAnswer": 2,
+    "explanation": "崔白1061年所作，现藏台北故宫博物院。喜鹊象征报喜，故名《双喜图》。他一改“黄家富贵”式的工整艳丽，以清新写实的画风开启了北宋花鸟画的新局面。"
+  },
+  {
+    "id": "picture-204",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅水墨群马图，出自一位以画马闻名的现代画家之手。他是谁？",
+    "image": "/questions/images/pic-art2-41.jpg",
+    "imageCredit": "徐悲鸿《三骏图》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "徐悲鸿",
+      "齐白石",
+      "张大千",
+      "黄胄"
+    ],
+    "correctAnswer": 0,
+    "explanation": "徐悲鸿（1895—1953）早年留学法国，主张用西方素描的造型功力改造中国画。他笔下的马骨骼结实、动势十足，抗战期间画马尤多，寄托着奋发图强的心愿。"
+  },
+  {
+    "id": "picture-205",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这幅水墨群虾图，出自一位木匠出身的现代大画家之手。他是谁？",
+    "image": "/questions/images/pic-art2-42.jpg",
+    "imageCredit": "齐白石《墨虾图》｜公有领域｜Wikimedia Commons",
+    "options": [
+      "吴昌硕",
+      "徐悲鸿",
+      "潘天寿",
+      "齐白石"
+    ],
+    "correctAnswer": 3,
+    "explanation": "齐白石（1864—1957）早年当过木匠，年过半百才定居北京、逐渐成名。他画的虾几经变法，虾身通透如水中活物。他说过：“作画妙在似与不似之间，太似为媚俗，不似为欺世。”"
+  },
+  {
+    "id": "picture-206",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位留着浓密大胡子、长发飘逸的化学家是谁？",
+    "image": "/questions/images/pic-person2-01.jpg",
+    "imageCredit": "门捷列夫，摄影者不详｜公有领域｜Wikimedia Commons",
+    "options": [
+      "本生",
+      "道尔顿",
+      "拉瓦锡",
+      "门捷列夫"
+    ],
+    "correctAnswer": 3,
+    "explanation": "门捷列夫在1869年发表元素周期表，并大胆预言了尚未发现的元素——后来镓、钪、锗相继被发现，性质与他的预言几乎吻合。"
+  },
+  {
+    "id": "picture-207",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位胸前绣着金龙的开国皇帝，出身贫苦，早年曾入寺为僧，后来建立了明朝。他是谁？",
+    "image": "/questions/images/pic-person2-02.jpg",
+    "imageCredit": "明太祖朱元璋像，明代佚名画师｜台北故宫藏｜公有领域",
+    "options": [
+      "朱元璋",
+      "刘邦",
+      "努尔哈赤",
+      "朱棣"
+    ],
+    "correctAnswer": 0,
+    "explanation": "朱元璋出身佃农家庭，年轻时在皇觉寺做过行脚僧，后来投身红巾军，1368年在应天府（今南京）称帝，是历史上少有的平民出身开国皇帝。"
+  },
+  {
+    "id": "picture-208",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这张约摄于1921年的肖像照里，神情专注的年轻人后来成为默片时代的喜剧之王。他是谁？",
+    "image": "/questions/images/pic-person2-03.jpg",
+    "imageCredit": "查理·卓别林，约1921年，摄影：Strauss-Peyton Studio｜公有领域",
+    "options": [
+      "哈罗德·劳埃德",
+      "巴斯特·基顿",
+      "斯坦·劳莱",
+      "卓别林"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1921年卓别林推出了他的首部长片《寻子遇仙记》。照片里没有那撮标志性的小胡子——那是他为“流浪汉”形象特意加上的。"
+  },
+  {
+    "id": "picture-209",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位戴着卷边白色假发的古典主义作曲家是谁？",
+    "image": "/questions/images/pic-person2-04.jpg",
+    "imageCredit": "约瑟夫·海顿，托马斯·哈代绘，1791年｜公有领域",
+    "options": [
+      "巴赫",
+      "海顿",
+      "亨德尔",
+      "格鲁克"
+    ],
+    "correctAnswer": 1,
+    "explanation": "海顿一生写下一百多部交响曲，被誉为“交响乐之父”；他与莫扎特是忘年好友，还教过年轻的贝多芬。"
+  },
+  {
+    "id": "picture-210",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位被后世尊称为“书圣”的东晋书法家是谁？",
+    "image": "/questions/images/pic-person2-05.jpg",
+    "imageCredit": "王羲之，《历代名人像》，清末佚名绘｜费城艺术博物馆｜公有领域",
+    "options": [
+      "颜真卿",
+      "张旭",
+      "王献之",
+      "王羲之"
+    ],
+    "correctAnswer": 3,
+    "explanation": "王羲之的《兰亭序》被誉为“天下第一行书”。相传他爱鹅成癖，曾为山阴道士抄写经书，换回一群白鹅。"
+  },
+  {
+    "id": "picture-211",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位一头金色卷发、身穿白色毛衣的好莱坞女星是谁？",
+    "image": "/questions/images/pic-person2-06.jpg",
+    "imageCredit": "玛丽莲·梦露，1953年11月，摄影：Bert Parry｜公有领域",
+    "options": [
+      "玛丽莲·梦露",
+      "碧姬·芭铎",
+      "金·诺瓦克",
+      "简·曼斯菲尔德"
+    ],
+    "correctAnswer": 0,
+    "explanation": "梦露本名诺玛·简·莫滕森，原本是浅棕色头发，出道后才染成标志性的金色。这张照片摄于1953年前后，正是她凭《尼亚加拉》《绅士爱美人》等片走红的一年。"
+  },
+  {
+    "id": "picture-212",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位单手托着头、神情沉静的英国科学家是谁？",
+    "image": "/questions/images/pic-person2-07.jpg",
+    "imageCredit": "迈克尔·法拉第，约1850年代，摄影者不详｜公有领域",
+    "options": [
+      "詹姆斯·焦耳",
+      "汉弗莱·戴维",
+      "开尔文勋爵",
+      "法拉第"
+    ],
+    "correctAnswer": 3,
+    "explanation": "法拉第出身贫寒，十几岁在书店当装订学徒，靠自学和听戴维的讲座走进科学殿堂；他发现的电磁感应，为发电机和变压器奠定了基础。"
+  },
+  {
+    "id": "picture-213",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位摄于1896年的晚清重臣，那年曾出访欧美各国，还在德国拜会了俾斯麦。他是谁？",
+    "image": "/questions/images/pic-person2-08.jpg",
+    "imageCredit": "李鸿章，1896年，摄影：Russell & Sons｜公有领域",
+    "options": [
+      "李鸿章",
+      "张之洞",
+      "奕䜣",
+      "左宗棠"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1896年李鸿章出席俄皇加冕典礼后，又走访德、法、英、美等国。在德国，他受到已退休的俾斯麦接待，西方媒体常称他为“东方俾斯麦”。"
+  },
+  {
+    "id": "picture-214",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位白发、留着灰白短须的俄国作曲家是谁？",
+    "image": "/questions/images/pic-person2-09.jpg",
+    "imageCredit": "柴可夫斯基，1888年，摄影：Émile Reutlinger｜公有领域",
+    "options": [
+      "穆索尔斯基",
+      "柴可夫斯基",
+      "里姆斯基-科萨科夫",
+      "拉赫玛尼诺夫"
+    ],
+    "correctAnswer": 1,
+    "explanation": "柴可夫斯基以《天鹅湖》《睡美人》《胡桃夹子》三部芭蕾舞剧闻名。《天鹅湖》1877年首演时反响平平，直到他去世后重新编排才成为经典。"
+  },
+  {
+    "id": "picture-215",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位晚年戴着圆框眼镜、留着飘逸白须，以画虾闻名的艺术大师是谁？",
+    "image": "/questions/images/pic-person2-10.jpg",
+    "imageCredit": "齐白石，1956年，摄影：郑景康｜Wikimedia Commons",
+    "options": [
+      "黄宾虹",
+      "齐白石",
+      "吴昌硕",
+      "张大千"
+    ],
+    "correctAnswer": 1,
+    "explanation": "齐白石出身农家，年轻时做过木匠，后来成为一代国画大师；他画的虾越到晚年越简练，只用几笔淡墨就画出通体透明的质感。"
+  },
+  {
+    "id": "picture-216",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这尊古罗马时期复制的大理石胸像，刻画的是曾担任亚历山大大帝老师的古希腊哲学家。他是谁？",
+    "image": "/questions/images/pic-person2-11.jpg",
+    "imageCredit": "亚里士多德胸像（罗马摹本，据留西波斯原作）｜罗马阿尔滕普斯宫｜摄影：Jastrow",
+    "options": [
+      "柏拉图",
+      "伊壁鸠鲁",
+      "苏格拉底",
+      "亚里士多德"
+    ],
+    "correctAnswer": 3,
+    "explanation": "亚里士多德17岁进入柏拉图学园，学习了近二十年；后来受马其顿国王腓力二世之邀，教导年轻的亚历山大。这尊胸像是罗马时期对古希腊铜像的摹本。"
+  },
+  {
+    "id": "picture-217",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位摄于约1910年的近代思想家，写下了《少年中国说》。他是谁？",
+    "image": "/questions/images/pic-person2-12.jpg",
+    "imageCredit": "梁启超，约1910年，摄影者不详｜公有领域",
+    "options": [
+      "康有为",
+      "梁启超",
+      "严复",
+      "章太炎"
+    ],
+    "correctAnswer": 1,
+    "explanation": "梁启超是戊戌变法的重要人物，“少年强则国强”出自《少年中国说》。他的九个子女中有三位成为院士：梁思成、梁思永、梁思礼。"
+  },
+  {
+    "id": "picture-218",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位在打字机前伏案写作、留着小胡子的美国作家是谁？",
+    "image": "/questions/images/pic-person2-13.jpg",
+    "imageCredit": "欧内斯特·海明威，1939年，摄影：Lloyd Arnold｜公有领域",
+    "options": [
+      "菲茨杰拉德",
+      "斯坦贝克",
+      "海明威",
+      "福克纳"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这张1939年的照片摄于美国爱达荷州。海明威以简洁的文风著称，他的“冰山理论”认为：文字只写出水面上的八分之一，其余靠读者去体会。"
+  },
+  {
+    "id": "picture-219",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位一生几乎没有离开过故乡柯尼斯堡的德国哲学家是谁？",
+    "image": "/questions/images/pic-person2-14.jpg",
+    "imageCredit": "伊曼努尔·康德，约翰·戈特利布·贝克尔绘，1768年｜公有领域",
+    "options": [
+      "费希特",
+      "黑格尔",
+      "康德",
+      "叔本华"
+    ],
+    "correctAnswer": 2,
+    "explanation": "康德作息极其规律，相传邻居们看到他出门散步，就知道该把钟表对准了。他的墓碑上刻着那句名言：头顶的星空与心中的道德律。"
+  },
+  {
+    "id": "picture-220",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位身穿白袍、蓄着黑色短须的蒙古大汗，于1271年定国号为“元”。他是谁？",
+    "image": "/questions/images/pic-person2-15.jpg",
+    "imageCredit": "元世祖忽必烈像，传尼泊尔工匠阿尼哥绘｜台北故宫藏｜公有领域",
+    "options": [
+      "忽必烈",
+      "成吉思汗",
+      "皇太极",
+      "窝阔台"
+    ],
+    "correctAnswer": 0,
+    "explanation": "“元”字取自《易经》“大哉乾元”。1279年元军灭南宋，统一了全国。这幅画像相传出自入元的尼泊尔工匠阿尼哥之手。"
+  },
+  {
+    "id": "picture-221",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位身穿露肩礼服、留着短刘海的女星是谁？",
+    "image": "/questions/images/pic-person2-16.jpg",
+    "imageCredit": "奥黛丽·赫本，1953年，摄影：Bud Fraker（派拉蒙宣传照）｜公有领域",
+    "options": [
+      "格蕾丝·凯利",
+      "英格丽·褒曼",
+      "奥黛丽·赫本",
+      "费雯·丽"
+    ],
+    "correctAnswer": 2,
+    "explanation": "赫本凭1953年的《罗马假日》夺得奥斯卡影后，这张彩色照片摄于同一年。晚年她担任联合国儿童基金会亲善大使，把大量时间投入救助儿童。"
+  },
+  {
+    "id": "picture-222",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位坐在椅子上的法国科学家，研制出了狂犬病疫苗。他是谁？",
+    "image": "/questions/images/pic-person2-17.jpg",
+    "imageCredit": "路易·巴斯德，摄影：Paul Nadar（1895年前）｜公有领域",
+    "options": [
+      "詹纳",
+      "科赫",
+      "李斯特",
+      "巴斯德"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1885年，巴斯德为一位被疯狗咬伤的九岁男孩接种狂犬病疫苗，男孩幸免于难。“巴氏消毒法”也源自他对酒类变酸原因的研究。"
+  },
+  {
+    "id": "picture-223",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位北宋宰相主持了“熙宁变法”。他是谁？",
+    "image": "/questions/images/pic-person2-18.jpg",
+    "imageCredit": "王安石，宋代画像（清宫旧藏），作者不详｜公有领域",
+    "options": [
+      "范仲淹",
+      "王安石",
+      "司马光",
+      "张居正"
+    ],
+    "correctAnswer": 1,
+    "explanation": "王安石位列“唐宋八大家”。他的诗句“春风又绿江南岸”里的“绿”字，据说是从“到”“过”“入”“满”等十多个字里反复推敲出来的。"
+  },
+  {
+    "id": "picture-224",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位凭一身条纹囚服和扭胯舞姿风靡1950年代的摇滚歌手是谁？",
+    "image": "/questions/images/pic-person2-19.jpg",
+    "imageCredit": "埃尔维斯·普雷斯利，1957年，米高梅《监狱摇滚》宣传照｜公有领域",
+    "options": [
+      "小理查德",
+      "查克·贝里",
+      "埃尔维斯·普雷斯利",
+      "巴迪·霍利"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这是1957年电影《监狱摇滚》的宣传照。片中他在牢房布景里的那段群舞，常被视为后来音乐录像的雏形。他也被誉为“摇滚之王”。"
+  },
+  {
+    "id": "picture-225",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位手持一页信笺、身穿深色礼服的德国文豪是谁？",
+    "image": "/questions/images/pic-person2-20.jpg",
+    "imageCredit": "歌德，约瑟夫·卡尔·施蒂勒绘，1828年｜公有领域",
+    "options": [
+      "莱辛",
+      "海涅",
+      "歌德",
+      "席勒"
+    ],
+    "correctAnswer": 2,
+    "explanation": "歌德从青年时代起构思诗剧《浮士德》，直到去世前一年才最终完成，前后耗时近六十年。这幅画像作于1828年，由巴伐利亚国王路德维希一世委托宫廷画师施蒂勒所绘。"
+  },
+  {
+    "id": "picture-226",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位晚清重臣创建了湘军，留下的家书被后人视为家教典范。他是谁？",
+    "image": "/questions/images/pic-person2-21.jpg",
+    "imageCredit": "曾国藩，1918年书刊插图，佚名｜公有领域",
+    "options": [
+      "曾国藩",
+      "胡林翼",
+      "左宗棠",
+      "张之洞"
+    ],
+    "correctAnswer": 0,
+    "explanation": "曾国藩律己极严，几十年坚持每天写日记、读书。他在家书里反复叮嘱子弟“勤”和“俭”，这些书信后来被编成家书集，流传很广。"
+  },
+  {
+    "id": "picture-227",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位摄于1974年、留着凌乱长发的英国音乐人，是披头士乐队的创始成员之一。他是谁？",
+    "image": "/questions/images/pic-person2-22.jpg",
+    "imageCredit": "约翰·列侬，1974年，摄影：Bob Gruen（Capitol宣传照）｜公有领域",
+    "options": [
+      "约翰·列侬",
+      "乔治·哈里森",
+      "林戈·斯塔尔",
+      "保罗·麦卡特尼"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这是1974年为专辑《墙与桥》拍摄的宣传照。列侬与麦卡特尼组成的“列侬-麦卡特尼”搭档，写下了披头士的大部分经典歌曲。"
+  },
+  {
+    "id": "picture-228",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位于1876年为电话机取得专利的发明家是谁？",
+    "image": "/questions/images/pic-person2-23.jpg",
+    "imageCredit": "亚历山大·格拉汉姆·贝尔，约1895年｜史密森尼国家肖像馆｜CC0",
+    "options": [
+      "马可尼",
+      "特斯拉",
+      "爱迪生",
+      "贝尔"
+    ],
+    "correctAnswer": 3,
+    "explanation": "贝尔的母亲和妻子都有听力障碍，他长期从事聋哑人教育。据说他与另一位发明家格雷在同一天递交了电话相关的专利申请，最终贝尔获得了专利。"
+  },
+  {
+    "id": "picture-229",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位身穿龙纹黄袍的皇帝，开创了“贞观之治”。他是谁？",
+    "image": "/questions/images/pic-person2-24.jpg",
+    "imageCredit": "唐太宗像，明代佚名画师｜台北故宫藏｜公有领域",
+    "options": [
+      "李隆基",
+      "李世民",
+      "杨坚",
+      "刘彻"
+    ],
+    "correctAnswer": 1,
+    "explanation": "李世民以人为镜，曾感叹：“以铜为镜，可以正衣冠；以古为镜，可以知兴替；以人为镜，可以明得失。”名臣魏徵去世后，他叹息自己失去了一面镜子。"
+  },
+  {
+    "id": "picture-230",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位戴着圆框眼镜、以地道北京话写作的作家，是“京味文学”的代表人物。他是谁？",
+    "image": "/questions/images/pic-person2-25.jpg",
+    "imageCredit": "老舍，1946年12月，摄影：Shelburne Studios｜公有领域",
+    "options": [
+      "老舍",
+      "钱钟书",
+      "沈从文",
+      "巴金"
+    ],
+    "correctAnswer": 0,
+    "explanation": "老舍的代表作有《骆驼祥子》《四世同堂》和话剧《茶馆》，被授予“人民艺术家”称号。这张照片摄于1946年12月，当时他正应邀旅居美国。"
+  },
+  {
+    "id": "picture-231",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位满头白发、身穿白色西装的美国作家是谁？",
+    "image": "/questions/images/pic-person2-26.jpg",
+    "imageCredit": "马克·吐温，1907年，摄影：A. F. Bradley｜公有领域",
+    "options": [
+      "沃尔特·惠特曼",
+      "欧·亨利",
+      "杰克·伦敦",
+      "马克·吐温"
+    ],
+    "correctAnswer": 3,
+    "explanation": "马克·吐温本名塞缪尔·克莱门斯，笔名取自密西西比河上水手报告水深的号子“mark twain”（两浔）。他晚年总爱穿一身白西装，成了标志性的形象。"
+  },
+  {
+    "id": "picture-232",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位明代思想家提出了“知行合一”“致良知”。他是谁？",
+    "image": "/questions/images/pic-person2-27.jpg",
+    "imageCredit": "王阳明，明代沈俊绘（《新建伯赠侯王文成公像》）｜公有领域",
+    "options": [
+      "陆九渊",
+      "王阳明",
+      "朱熹",
+      "张居正"
+    ],
+    "correctAnswer": 1,
+    "explanation": "王阳明被贬到贵州龙场时，在一个夜里“龙场悟道”，得出“心即理”的想法。他还带兵平定了宁王朱宸濠的叛乱，是少有的文武兼修的思想家。"
+  },
+  {
+    "id": "picture-233",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位手扶书本、留着长发的浪漫主义钢琴大师是谁？",
+    "image": "/questions/images/pic-person2-28.jpg",
+    "imageCredit": "弗朗茨·李斯特，1843年，摄影：Hermann Biow｜公有领域",
+    "options": [
+      "帕格尼尼",
+      "车尔尼",
+      "门德尔松",
+      "李斯特"
+    ],
+    "correctAnswer": 3,
+    "explanation": "李斯特被誉为“钢琴之王”，他被认为是最早举办钢琴独奏会的音乐家之一，还常常凭记忆背谱演奏。这是他1843年前后的银版照片。"
+  },
+  {
+    "id": "picture-234",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位在1972年电影《精武门》中饰演陈真的功夫巨星是谁？",
+    "image": "/questions/images/pic-person2-29.jpg",
+    "imageCredit": "李小龙，1972年《精武门》剧照｜National General Pictures｜公有领域",
+    "options": [
+      "李连杰",
+      "洪金宝",
+      "李小龙",
+      "成龙"
+    ],
+    "correctAnswer": 2,
+    "explanation": "李小龙融合多家武术之长，创立了截拳道；他主演的《龙争虎斗》（1973）让中国功夫风靡全球。"
+  },
+  {
+    "id": "picture-235",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位身穿红色外衣的天文学家是谁？",
+    "image": "/questions/images/pic-person2-30.jpg",
+    "imageCredit": "尼古拉·哥白尼，约1580年，佚名（托伦画像）｜公有领域",
+    "options": [
+      "第谷",
+      "布鲁诺",
+      "哥白尼",
+      "伽利略"
+    ],
+    "correctAnswer": 2,
+    "explanation": "哥白尼在《天体运行论》中提出日心说，相传他直到临终才见到刚印好的样书。他的本职其实是教会的教士和医生，天文学是他利用业余时间钻研的。"
+  },
+  {
+    "id": "picture-236",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位身穿白袍、头戴展脚幞头的开国皇帝，通过“杯酒释兵权”收回了将领兵权。他是谁？",
+    "image": "/questions/images/pic-person2-31.jpg",
+    "imageCredit": "宋太祖赵匡胤像，宋代佚名画师｜台北故宫藏｜公有领域",
+    "options": [
+      "杨坚",
+      "赵匡胤",
+      "柴荣",
+      "李渊"
+    ],
+    "correctAnswer": 1,
+    "explanation": "赵匡胤靠陈桥兵变黄袍加身，建立了宋朝。此后他通过“杯酒释兵权”和平解除了禁军将领的兵权，避免了五代时武将夺权的乱象重演。"
+  },
+  {
+    "id": "picture-237",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位留着浓密八字胡的德国哲学家是谁？",
+    "image": "/questions/images/pic-person2-32.jpg",
+    "imageCredit": "弗里德里希·尼采，约1875年，摄影：F. H. Hartmann｜公有领域",
+    "options": [
+      "马克斯·韦伯",
+      "尼采",
+      "叔本华",
+      "克尔凯郭尔"
+    ],
+    "correctAnswer": 1,
+    "explanation": "尼采写下了“上帝已死”和《查拉图斯特拉如是说》。这张约1875年的照片拍于他三十出头、任教于瑞士巴塞尔大学的时期。"
+  },
+  {
+    "id": "picture-238",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位摄于1969年的青涩少女，日后成为家喻户晓的华语歌后。她是谁？",
+    "image": "/questions/images/pic-person2-33.jpg",
+    "imageCredit": "邓丽君，1969年，台湾电影文化公司｜台中县好人好事代表联谊会｜OGDL",
+    "options": [
+      "凤飞飞",
+      "蔡琴",
+      "邓丽君",
+      "甄妮"
+    ],
+    "correctAnswer": 2,
+    "explanation": "邓丽君十几岁就出道，《甜蜜蜜》《月亮代表我的心》《小城故事》等歌曲传唱至今，素有“凡有华人处，就有邓丽君的歌声”之说。"
+  },
+  {
+    "id": "picture-239",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位额头宽阔、留着络腮胡须的英国作家是谁？",
+    "image": "/questions/images/pic-person2-34.jpg",
+    "imageCredit": "查尔斯·狄更斯，1867–68年，摄影：Jeremiah Gurney｜公有领域",
+    "options": [
+      "狄更斯",
+      "托马斯·哈代",
+      "柯南·道尔",
+      "萨克雷"
+    ],
+    "correctAnswer": 0,
+    "explanation": "狄更斯12岁时父亲入狱，他被迫到鞋油作坊做童工，这段经历深深影响了《大卫·科波菲尔》《雾都孤儿》等作品。这张照片摄于1867至1868年他赴美巡回朗读期间。"
+  },
+  {
+    "id": "picture-240",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位手持短剑、目光坚毅的近代女性是谁？",
+    "image": "/questions/images/pic-person2-35.jpg",
+    "imageCredit": "秋瑾，1908年前，摄影者不详｜公有领域",
+    "options": [
+      "秋瑾",
+      "何香凝",
+      "向警予",
+      "林徽因"
+    ],
+    "correctAnswer": 0,
+    "explanation": "秋瑾曾留学日本，回国后在绍兴主持大通学堂，自号“鉴湖女侠”。“秋风秋雨愁煞人”相传是她就义前所写的最后一句话。"
+  },
+  {
+    "id": "picture-241",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这张摄于1849年前后的银版照片，拍下了一位当年秋天去世的作曲家。他是谁？",
+    "image": "/questions/images/pic-person2-36.jpg",
+    "imageCredit": "肖邦，1849年，银版照片，摄影：Louis-Auguste Bisson｜公有领域",
+    "options": [
+      "肖邦",
+      "舒曼",
+      "柏辽兹",
+      "瓦格纳"
+    ],
+    "correctAnswer": 0,
+    "explanation": "肖邦生于波兰，身体一直孱弱，39岁便病逝于巴黎。他的姐姐把他的心脏带回了华沙，如今它就安放在圣十字教堂的立柱里。"
+  },
+  {
+    "id": "picture-242",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这幅出土于庞贝古城的马赛克局部，画中头发凌乱、目光凝视前方的主角是谁？",
+    "image": "/questions/images/pic-person2-37.jpg",
+    "imageCredit": "《亚历山大马赛克》局部，约公元前100年，庞贝｜那不勒斯国家考古博物馆",
+    "options": [
+      "恺撒",
+      "亚历山大大帝",
+      "汉尼拔",
+      "居鲁士大帝"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这幅《亚历山大马赛克》由上百万块小石片拼成，多认为画的是伊苏斯战役中亚历山大冲向波斯国王大流士三世的一幕，原作被认为出自公元前4世纪末的希腊画家之手。"
+  },
+  {
+    "id": "picture-243",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这幅明代画像中手持书卷的将领，是南宋抗金名将，民间传说母亲曾在他背上刺下“精忠报国”。他是谁？",
+    "image": "/questions/images/pic-person2-38.jpg",
+    "imageCredit": "岳飞像，明代佚名｜故宫博物院藏｜公有领域",
+    "options": [
+      "戚继光",
+      "郑成功",
+      "岳飞",
+      "韩世忠"
+    ],
+    "correctAnswer": 2,
+    "explanation": "据《宋史》记载，他背上的字其实是“尽忠报国”。岳家军军纪严明，有“冻死不拆屋，饿死不打掳”的军规；词作《满江红》相传也出自他之手。"
+  },
+  {
+    "id": "picture-244",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位红发、面容苍白的英国女王，被称为“童贞女王”。她是谁？",
+    "image": "/questions/images/pic-person2-39.jpg",
+    "imageCredit": "伊丽莎白一世（达恩利肖像），约1575年，佚名｜公有领域",
+    "options": [
+      "玛丽·斯图亚特",
+      "玛丽一世",
+      "维多利亚女王",
+      "伊丽莎白一世"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这幅约1575年的“达恩利肖像”是伊丽莎白一世的标准像之一，后来的许多画像都以它的面容为蓝本。她在位45年，其间英国击败西班牙无敌舰队，迎来文化繁荣。"
+  },
+  {
+    "id": "picture-245",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位年轻的清朝皇帝，在位时支持“戊戌变法”。他是谁？",
+    "image": "/questions/images/pic-person2-40.jpg",
+    "imageCredit": "光绪帝像，取自 Denby《China and Her People》（1906）｜公有领域",
+    "options": [
+      "咸丰帝",
+      "同治帝",
+      "光绪帝",
+      "宣统帝"
+    ],
+    "correctAnswer": 2,
+    "explanation": "光绪四岁即位，长期由慈禧太后掌握实权。1898年的戊戌变法只持续了103天，他随后被软禁在瀛台，1908年去世，年仅三十多岁。"
+  },
+  {
+    "id": "picture-246",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位年轻时被同门一拳打塌鼻梁的文艺复兴巨匠是谁？",
+    "image": "/questions/images/pic-person2-41.jpg",
+    "imageCredit": "米开朗基罗，传为丹尼尔·达·沃尔泰拉绘，约1545年｜大都会博物馆",
+    "options": [
+      "米开朗基罗",
+      "提香",
+      "拉斐尔",
+      "多纳泰罗"
+    ],
+    "correctAnswer": 0,
+    "explanation": "据说青年米开朗基罗因言语激怒了雕塑家托里贾尼，被对方一拳打断鼻梁，终身留下印记。他创作了《大卫》像和西斯廷礼拜堂天顶画；这幅画像被认为出自他的朋友丹尼尔·达·沃尔泰拉之手。"
+  },
+  {
+    "id": "picture-247",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这处位于美国与加拿大边境上的壮观瀑布，叫什么名字？",
+    "image": "/questions/images/pic-world-01.jpg",
+    "imageCredit": "尼亚加拉瀑布，摄影：Saffron Blaze｜CC BY-SA 3.0｜Wikimedia Commons",
+    "options": [
+      "尼亚加拉瀑布",
+      "维多利亚瀑布",
+      "黄果树瀑布",
+      "伊瓜苏瀑布"
+    ],
+    "correctAnswer": 0,
+    "explanation": "尼亚加拉瀑布由马蹄瀑布、美国瀑布和新娘面纱瀑布三部分组成，绝大部分水量从加拿大一侧的马蹄瀑布倾泻而下。1901年，63岁的安妮·泰勒钻进木桶从马蹄瀑布落下，成为第一个生还的人。"
+  },
+  {
+    "id": "picture-248",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这片被雨林环抱的宏大瀑布群，位于哪两个国家的边界上？",
+    "image": "/questions/images/pic-world-02.jpg",
+    "imageCredit": "伊瓜苏瀑布，摄影：Mariordo｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "委内瑞拉与圭亚那",
+      "赞比亚与津巴布韦",
+      "美国与加拿大",
+      "阿根廷与巴西"
+    ],
+    "correctAnswer": 3,
+    "explanation": "伊瓜苏在瓜拉尼语中意为“大水”，瀑布群由约275道大小瀑布组成，最壮观的“魔鬼咽喉”落差约80米。据说美国罗斯福总统夫人初见此景时感叹：“可怜的尼亚加拉！”"
+  },
+  {
+    "id": "picture-249",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这道从悬崖倾泻而下的巨大瀑布，当地土著语中的名字意为“雷鸣之烟”，它是哪一处？",
+    "image": "/questions/images/pic-world-03.jpg",
+    "imageCredit": "维多利亚瀑布，摄影：Diego Delso｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "安赫尔瀑布",
+      "维多利亚瀑布",
+      "伊瓜苏瀑布",
+      "尼亚加拉瀑布"
+    ],
+    "correctAnswer": 1,
+    "explanation": "维多利亚瀑布位于赞比亚与津巴布韦交界的赞比西河上，宽约1700米、最大落差约108米。1855年，苏格兰探险家利文斯通见到它，并以英国女王的名字命名。"
+  },
+  {
+    "id": "picture-250",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这道由科罗拉多河切割出的巨大峡谷，位于美国哪个州？",
+    "image": "/questions/images/pic-world-04.jpg",
+    "imageCredit": "科罗拉多大峡谷，摄影：Lennart Sikkema｜CC BY 3.0｜Wikimedia Commons",
+    "options": [
+      "科罗拉多州",
+      "亚利桑那州",
+      "犹他州",
+      "内华达州"
+    ],
+    "correctAnswer": 1,
+    "explanation": "科罗拉多河发源于科罗拉多州，却在亚利桑那州北部切出了这道长约446公里、最深约1800米的大峡谷。谷底最古老的岩石已有近20亿年历史。"
+  },
+  {
+    "id": "picture-251",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这座终年积雪的“非洲屋脊”是非洲最高峰，它位于哪个国家？",
+    "image": "/questions/images/pic-world-05.jpg",
+    "imageCredit": "乞力马扎罗山，摄影：Sergey Pesterev｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "肯尼亚",
+      "坦桑尼亚",
+      "埃塞俄比亚",
+      "乌干达"
+    ],
+    "correctAnswer": 1,
+    "explanation": "乞力马扎罗山主峰乌呼鲁峰海拔5895米，在坦桑尼亚境内。这张照片却是在肯尼亚的安博塞利国家公园拍的——那里正是眺望它的经典机位。"
+  },
+  {
+    "id": "picture-252",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这片连绵起伏的红色沙丘，位于世界上最大的热带沙漠。这片沙漠是？",
+    "image": "/questions/images/pic-world-06.jpg",
+    "imageCredit": "撒哈拉沙漠，摄影：Mustang Joe｜CC0｜Wikimedia Commons",
+    "options": [
+      "塔克拉玛干沙漠",
+      "撒哈拉沙漠",
+      "阿拉伯沙漠",
+      "卡拉哈里沙漠"
+    ],
+    "correctAnswer": 1,
+    "explanation": "撒哈拉沙漠面积约900多万平方公里，与中国或美国的国土面积相当。距今约1.1万至5000年前的湿润期，这里曾是草原和湖泊，被称为“绿色撒哈拉”。这张照片拍摄于摩洛哥。"
+  },
+  {
+    "id": "picture-253",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "雨季里，这片一望无际的白色盐沼会变成映照天空的“天空之镜”。它位于哪个国家？",
+    "image": "/questions/images/pic-world-07.jpg",
+    "imageCredit": "乌尤尼盐沼，摄影：Christopher Crouzet｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "阿根廷",
+      "玻利维亚",
+      "秘鲁",
+      "智利"
+    ],
+    "correctAnswer": 1,
+    "explanation": "乌尤尼盐沼面积超过1万平方公里，海拔约3650米，是世界上最大的盐沼。盐壳下的卤水里还富含锂，是电动车电池的重要原料来源。"
+  },
+  {
+    "id": "picture-254",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中极光下的这座尖顶山峰，山名在当地语言里意为“教堂山”，它位于哪个国家？",
+    "image": "/questions/images/pic-world-08.jpg",
+    "imageCredit": "冰岛教堂山，摄影：vaidyanathan｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "冰岛",
+      "挪威",
+      "加拿大",
+      "芬兰"
+    ],
+    "correctAnswer": 0,
+    "explanation": "教堂山（Kirkjufell）位于冰岛西部的斯奈山半岛，山前还有两道小瀑布，是冰岛被拍得最多的景点之一。《权力的游戏》第七季里的“箭头山”，取景就在这里。"
+  },
+  {
+    "id": "picture-255",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这处被冰川雕刻出的狭长海湾，是被列入世界遗产的盖朗厄尔峡湾，它位于哪个国家？",
+    "image": "/questions/images/pic-world-09.jpg",
+    "imageCredit": "盖朗厄尔峡湾，摄影：Andreas Trepte｜CC BY-SA 2.5｜Wikimedia Commons",
+    "options": [
+      "冰岛",
+      "智利",
+      "挪威",
+      "新西兰"
+    ],
+    "correctAnswer": 2,
+    "explanation": "盖朗厄尔峡湾长约15公里，两侧峭壁上挂着“七姐妹瀑布”等著名瀑布，2005年与纳柔依峡湾一起列入世界遗产。“峡湾（fjord）”这个词本身就来自挪威语。"
+  },
+  {
+    "id": "picture-256",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这片位于澳大利亚东北海岸外、从太空中也清晰可见的巨大珊瑚礁系统，叫什么？",
+    "image": "/questions/images/pic-world-10.jpg",
+    "imageCredit": "大堡礁，摄影：Ank Kumar｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "伯利兹堡礁",
+      "新喀里多尼亚堡礁",
+      "红海珊瑚礁",
+      "大堡礁"
+    ],
+    "correctAnswer": 3,
+    "explanation": "大堡礁绵延约2300公里，由2900多个独立礁体和900多个岛屿组成，1981年列入世界遗产。近年来海水升温，这里屡次发生大规模珊瑚白化。"
+  },
+  {
+    "id": "picture-257",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这处形如“巨眼”的彩色温泉，位于美国哪个国家公园？",
+    "image": "/questions/images/pic-world-11.jpg",
+    "imageCredit": "大棱镜温泉，摄影：Carsten Steger｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "大提顿国家公园",
+      "优胜美地国家公园",
+      "大峡谷国家公园",
+      "黄石国家公园"
+    ],
+    "correctAnswer": 3,
+    "explanation": "大棱镜温泉是美国最大、世界第三大的温泉，直径约90米。外圈的橙红色来自不同水温下生长的嗜热微生物，中心水温太高，几乎没有生物，只剩下深蓝色。"
+  },
+  {
+    "id": "picture-258",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "“冰山一角”常用来比喻事物的一小部分。图中这样的冰山，露出水面的部分大约占整体体积的多少？",
+    "image": "/questions/images/pic-world-12.jpg",
+    "imageCredit": "冰山，摄影：AWeith｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "约二分之一",
+      "约十分之一",
+      "约四分之一",
+      "约三分之一"
+    ],
+    "correctAnswer": 1,
+    "explanation": "冰的密度约为海水的九成，所以漂浮的冰山约90%的体积都藏在水下。图中海面平静，水下的冰体清晰可见；泰坦尼克号当年撞上的，就是这样“看不见的部分”。"
+  },
+  {
+    "id": "picture-259",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "每天清晨，成百上千只热气球会飘过这片奇特的岩石地貌，这里是哪里？",
+    "image": "/questions/images/pic-world-13.jpg",
+    "imageCredit": "卡帕多奇亚，摄影：MusikAnimal｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "卡帕多奇亚",
+      "佩特拉",
+      "帕慕克卡莱",
+      "圣托里尼"
+    ],
+    "correctAnswer": 0,
+    "explanation": "卡帕多奇亚位于土耳其中部，火山灰凝灰岩被风雨侵蚀成一根根“仙人烟囱”。古代居民在岩石中凿出洞穴教堂和地下城，最深的地下城深达数十米。"
+  },
+  {
+    "id": "picture-260",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这片海面上矗立着上千座石灰岩小岛的海湾，位于哪个国家？",
+    "image": "/questions/images/pic-world-14.jpg",
+    "imageCredit": "下龙湾，摄影：Taewangkorea｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "印度尼西亚",
+      "泰国",
+      "越南",
+      "菲律宾"
+    ],
+    "correctAnswer": 2,
+    "explanation": "“下龙”意为“龙降临”：传说神龙下凡，吐出宝珠与美玉，化作海中无数岛屿，替人们挡住外敌入侵。下龙湾于1994年列入世界遗产。"
+  },
+  {
+    "id": "picture-261",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这块孤零零立在荒漠中的巨大红色砂岩，是澳大利亚原住民的圣地，它叫什么？",
+    "image": "/questions/images/pic-world-15.jpg",
+    "imageCredit": "乌鲁鲁，摄影：Ek2030372672｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "魔鬼弹珠",
+      "乌鲁鲁（艾尔斯岩）",
+      "波浪岩",
+      "卡塔丘塔（奥尔加山）"
+    ],
+    "correctAnswer": 1,
+    "explanation": "乌鲁鲁高约348米，据推测露出地面的只是它的一小部分。日出日落时岩石会由橙红变成深红。自2019年10月起，为尊重原住民阿南古人的信仰，这里已禁止攀爬。"
+  },
+  {
+    "id": "picture-262",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这片由数万根六边形玄武岩石柱铺成的海岸奇观，位于哪里？",
+    "image": "/questions/images/pic-world-16.jpg",
+    "imageCredit": "巨人堤道，摄影：code poet｜CC BY-SA 2.0｜Wikimedia Commons",
+    "options": [
+      "苏格兰",
+      "法罗群岛",
+      "冰岛",
+      "北爱尔兰"
+    ],
+    "correctAnswer": 3,
+    "explanation": "巨人堤道约有4万根石柱，形成于五六千万年前的火山喷发。传说巨人芬·麦库尔为去苏格兰找对手决斗，修了这条跨海石堤；对岸苏格兰斯塔法岛上确实有同样的石柱。"
+  },
+  {
+    "id": "picture-263",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这处由温泉水中的碳酸钙层层沉积而成的洁白阶地，叫什么？",
+    "image": "/questions/images/pic-world-17.jpg",
+    "imageCredit": "棉花堡，摄影：Biologg｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "大棱镜温泉",
+      "棉花堡（帕慕克卡莱）",
+      "黄龙",
+      "羚羊峡谷"
+    ],
+    "correctAnswer": 1,
+    "explanation": "帕慕克卡莱在土耳其语中意为“棉花城堡”。温泉水沿山坡流淌，析出的碳酸钙凝成雪白的台地。山顶还有古罗马时期的温泉城希拉波利斯遗址，1988年一同列入世界遗产。"
+  },
+  {
+    "id": "picture-264",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这条被贡多拉和水上巴士往来穿梭的“大运河”，是哪座水城的“主街”？",
+    "image": "/questions/images/pic-world-18.jpg",
+    "imageCredit": "威尼斯大运河，摄影：Didier Descouens｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "布鲁日",
+      "圣彼得堡",
+      "阿姆斯特丹",
+      "威尼斯"
+    ],
+    "correctAnswer": 3,
+    "explanation": "威尼斯大运河全长约3.8公里，呈倒“S”形穿城而过，两岸有170多座古建筑，却只有4座桥横跨其上，其中最著名的是里亚托桥。"
+  },
+  {
+    "id": "picture-265",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这座哥特式大教堂在2019年4月遭遇大火，尖塔轰然坍塌，它是哪座教堂？",
+    "image": "/questions/images/pic-world-19.jpg",
+    "imageCredit": "巴黎圣母院，摄影：Ali Sabbagh｜CC0｜Wikimedia Commons",
+    "options": [
+      "科隆大教堂",
+      "巴黎圣母院",
+      "米兰大教堂",
+      "兰斯大教堂"
+    ],
+    "correctAnswer": 1,
+    "explanation": "巴黎圣母院始建于1163年，图中是火灾前的模样。经过五年多的修复，它于2024年12月重新对外开放，标志性的尖塔也已重建。"
+  },
+  {
+    "id": "picture-266",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这座玻璃金字塔，是哪座著名博物馆的入口？",
+    "image": "/questions/images/pic-world-20.jpg",
+    "imageCredit": "卢浮宫玻璃金字塔，摄影：Benh LIEU SONG｜CC BY-SA 3.0｜Wikimedia Commons",
+    "options": [
+      "卢浮宫",
+      "蓬皮杜艺术中心",
+      "奥赛博物馆",
+      "大英博物馆"
+    ],
+    "correctAnswer": 0,
+    "explanation": "玻璃金字塔由华裔建筑师贝聿铭设计，1989年落成，高约21米，刚建成时曾引来不少争议。坊间传说它由666块玻璃组成，实际是673块。"
+  },
+  {
+    "id": "picture-267",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这处由巨石排列成环形的神秘史前遗迹，叫什么？",
+    "image": "/questions/images/pic-world-21.jpg",
+    "imageCredit": "巨石阵，摄影：garethwiscombe｜CC BY 2.0｜Wikimedia Commons",
+    "options": [
+      "纽格兰奇墓",
+      "奥克尼石圈",
+      "巨石阵",
+      "卡尔纳克列石阵"
+    ],
+    "correctAnswer": 2,
+    "explanation": "巨石阵位于英格兰南部的索尔兹伯里平原，约建于5000年前。其中的“青石”产自约240公里外的威尔士，古人如何搬运这些重达数吨的巨石，至今仍是未解之谜。"
+  },
+  {
+    "id": "picture-268",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这座矗立在雅典卫城的古希腊神庙，供奉的是哪位女神？",
+    "image": "/questions/images/pic-world-22.jpg",
+    "imageCredit": "帕特农神庙，摄影：Steve Swayne｜CC BY 2.0｜Wikimedia Commons",
+    "options": [
+      "雅典娜",
+      "阿尔忒弥斯",
+      "赫拉",
+      "阿佛洛狄忒"
+    ],
+    "correctAnswer": 0,
+    "explanation": "帕特农神庙建于公元前5世纪，供奉雅典城的守护神雅典娜。神庙上的许多雕刻在19世纪初被英国的埃尔金勋爵运走，现藏大英博物馆，希腊至今仍在追讨。"
+  },
+  {
+    "id": "picture-269",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这座拥有巨大穹顶的建筑，曾先后是东正教大教堂和清真寺，位于哪座城市？",
+    "image": "/questions/images/pic-world-23.jpg",
+    "imageCredit": "圣索菲亚大教堂，摄影：Adli Wahid｜CC BY-SA 3.0｜Wikimedia Commons",
+    "options": [
+      "罗马",
+      "雅典",
+      "开罗",
+      "伊斯坦布尔"
+    ],
+    "correctAnswer": 3,
+    "explanation": "圣索菲亚大教堂由拜占庭皇帝查士丁尼一世下令修建，537年落成，中央穹顶直径约31米，此后近千年都是世界上最大的教堂。1453年被改为清真寺，四根宣礼塔是后来才加建的。"
+  },
+  {
+    "id": "picture-270",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这座矗立在泰晤士河畔的巨型摩天轮，叫什么名字？",
+    "image": "/questions/images/pic-world-24.jpg",
+    "imageCredit": "伦敦眼，摄影：Khamtran｜CC BY-SA 3.0｜Wikimedia Commons",
+    "options": [
+      "天津之眼",
+      "南昌之星",
+      "新加坡摩天轮",
+      "伦敦眼"
+    ],
+    "correctAnswer": 3,
+    "explanation": "伦敦眼高135米，2000年落成。它有32个观景舱，对应伦敦的32个行政区；舱号却编到33，因为特意跳过了不吉利的13。"
+  },
+  {
+    "id": "picture-271",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这座建在山丘上、以红褐色城墙闻名的摩尔式宫殿城堡群，位于西班牙哪座城市？",
+    "image": "/questions/images/pic-world-26.jpg",
+    "imageCredit": "阿尔罕布拉宫，摄影：Jebulon｜CC0｜Wikimedia Commons",
+    "options": [
+      "科尔多瓦",
+      "塞维利亚",
+      "格拉纳达",
+      "托莱多"
+    ],
+    "correctAnswer": 2,
+    "explanation": "阿尔罕布拉在阿拉伯语中意为“红色城堡”，是伊比利亚半岛上最后一个伊斯兰王朝——纳斯里德王朝的王宫。1492年格拉纳达陷落，同年哥伦布也获得王室支持启程远航。"
+  },
+  {
+    "id": "picture-272",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这座倒映在镜湖池中的三层楼阁，上面两层贴满金箔，位于日本哪座城市？",
+    "image": "/questions/images/pic-world-27.jpg",
+    "imageCredit": "金阁寺，摄影：Nacaru｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "奈良",
+      "镰仓",
+      "大阪",
+      "京都"
+    ],
+    "correctAnswer": 3,
+    "explanation": "金阁寺正式名称叫鹿苑寺，三岛由纪夫的小说《金阁寺》就取材于此。1950年金阁被一名见习僧人纵火烧毁，如今的建筑是1955年重建的。"
+  },
+  {
+    "id": "picture-273",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这种蓝顶白墙的教堂与民居，是希腊哪座海岛的标志性景观？",
+    "image": "/questions/images/pic-world-28.jpg",
+    "imageCredit": "圣托里尼，摄影：Giles Laurent｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "米克诺斯岛",
+      "罗德岛",
+      "圣托里尼岛",
+      "克里特岛"
+    ],
+    "correctAnswer": 2,
+    "explanation": "圣托里尼是火山喷发后塌陷形成的月牙形岛屿，图中的蓝色海湾就是被淹没的火山口。约公元前1600年的那次大喷发是人类历史上最猛烈的火山喷发之一，有人认为它与亚特兰蒂斯传说有关。"
+  },
+  {
+    "id": "picture-274",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这一排排巨大的石头人像，来自太平洋上的哪座岛屿？",
+    "image": "/questions/images/pic-world-29.jpg",
+    "imageCredit": "摩艾石像，摄影：Ian Sewell｜CC BY 2.5｜Wikimedia Commons",
+    "options": [
+      "关岛",
+      "塔希提岛",
+      "复活节岛",
+      "夏威夷岛"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这些石像叫“摩艾”，是拉帕努伊人在约13至16世纪雕凿的，岛上现存近千尊。图中是通加里基的15尊摩艾，多数石像背朝大海、面向村落，仿佛在守护族人。"
+  },
+  {
+    "id": "picture-275",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这幅刻在荒漠地面上的巨大猴子图案，只有从空中才能看清全貌，它位于哪个国家？",
+    "image": "/questions/images/pic-world-30.jpg",
+    "imageCredit": "纳斯卡线条·猴子，摄影：Diego Delso｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "墨西哥",
+      "玻利维亚",
+      "智利",
+      "秘鲁"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这是秘鲁纳斯卡荒漠里的“猴子”地画，长近百米，周围还有蜂鸟、蜘蛛等图案。古人拨开表面深色的石块、露出下面浅色的地面，就画出了这些线条，1994年列入世界遗产。"
+  },
+  {
+    "id": "picture-276",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这座矗立在海湾中、涨潮时四面环水的修道院岛屿，位于哪个国家？",
+    "image": "/questions/images/pic-world-31.jpg",
+    "imageCredit": "圣米歇尔山，摄影：Amaustan｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "法国",
+      "英国",
+      "意大利",
+      "西班牙"
+    ],
+    "correctAnswer": 0,
+    "explanation": "圣米歇尔山位于法国诺曼底海岸，这里的潮差可达十多米，涨潮时海水迅速漫过沙滩，把山变成孤岛。传说主教奥贝尔在公元708年梦见大天使米迦勒，才在山顶建起最初的小礼拜堂。"
+  },
+  {
+    "id": "picture-277",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这座台阶式玛雅金字塔是“新世界七大奇迹”之一，它位于哪个国家？",
+    "image": "/questions/images/pic-world-32.jpg",
+    "imageCredit": "奇琴伊察，摄影：Daniel Schwen｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "洪都拉斯",
+      "秘鲁",
+      "危地马拉",
+      "墨西哥"
+    ],
+    "correctAnswer": 3,
+    "explanation": "奇琴伊察的“库库尔坎金字塔”四面各有91级台阶，加上顶部平台正好是365级，对应一年的天数。每逢春分和秋分，阳光会在北面台阶上投下一条蜿蜒游动的“羽蛇”影子。"
+  },
+  {
+    "id": "picture-278",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这尊张开双臂的巨大耶稣像，俯瞰着哪座城市？",
+    "image": "/questions/images/pic-world-33.jpg",
+    "imageCredit": "里约基督像，摄影：Arne Müseler｜CC BY-SA 3.0 de｜Wikimedia Commons",
+    "options": [
+      "利马",
+      "里约热内卢",
+      "布宜诺斯艾利斯",
+      "圣保罗"
+    ],
+    "correctAnswer": 1,
+    "explanation": "基督像高约30米（不含8米基座），1931年落成，立在海拔约700米的科尔科瓦多山顶，是“新世界七大奇迹”之一。它常遭雷击，2014年一根手指就曾被劈损。"
+  },
+  {
+    "id": "picture-279",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这座红墙黄瓦的城楼，是1949年举行开国大典的地方，它叫什么？",
+    "image": "/questions/images/pic-world-34.jpg",
+    "imageCredit": "天安门，摄影：Balon Greyjoy｜CC0｜Wikimedia Commons",
+    "options": [
+      "太和门",
+      "午门",
+      "天安门",
+      "正阳门"
+    ],
+    "correctAnswer": 2,
+    "explanation": "天安门始建于明永乐年间，最初叫“承天门”，清初重建后改称“天安门”。1949年10月1日，毛泽东在城楼上宣告中华人民共和国成立。"
+  },
+  {
+    "id": "picture-280",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这座蓝色琉璃瓦、三重檐的圆形大殿，是北京天坛的主体建筑，它叫什么？",
+    "image": "/questions/images/pic-world-35.jpg",
+    "imageCredit": "祈年殿，摄影：Shujianyang｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "大成殿",
+      "皇穹宇",
+      "祈年殿",
+      "太和殿"
+    ],
+    "correctAnswer": 2,
+    "explanation": "祈年殿高约38米，全靠28根木柱支撑：中间4根“龙井柱”象征四季，中圈12根象征十二个月，外圈12根象征十二时辰。1889年它曾被雷火烧毁，次年按原样重建。"
+  },
+  {
+    "id": "picture-281",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这座依山傍湖的皇家园林，主体是万寿山和昆明湖，它是哪里？",
+    "image": "/questions/images/pic-world-36.jpg",
+    "imageCredit": "颐和园，摄影：xiquinhosilva｜CC BY 2.0｜Wikimedia Commons",
+    "options": [
+      "承德避暑山庄",
+      "圆明园",
+      "颐和园",
+      "北海公园"
+    ],
+    "correctAnswer": 2,
+    "explanation": "颐和园的前身是清漪园，1860年被英法联军焚毁，1888年慈禧太后挪用海军经费重修并改名。昆明湖是人工开挖的，挖出的土方堆成了万寿山。"
+  },
+  {
+    "id": "picture-282",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这座苏州园林里，远处的宝塔被巧妙地“借”进了园景，这种手法叫“借景”。它是下列哪座名园？",
+    "image": "/questions/images/pic-world-37.jpg",
+    "imageCredit": "拙政园，摄影：Zhangzhugang｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "沧浪亭",
+      "狮子林",
+      "留园",
+      "拙政园"
+    ],
+    "correctAnswer": 3,
+    "explanation": "拙政园是苏州最大的古典园林，始建于明正德年间。园外的报恩寺塔（俗称北寺塔）被纳入园中远景，是“借景”手法的经典案例。"
+  },
+  {
+    "id": "picture-283",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这座背靠雪山的古城，与山西平遥古城同在1997年列入世界遗产，它是哪座古城？",
+    "image": "/questions/images/pic-world-38.jpg",
+    "imageCredit": "丽江古城，摄影：Pavel Špindler｜CC BY 3.0｜Wikimedia Commons",
+    "options": [
+      "丽江古城",
+      "凤凰古城",
+      "阆中古城",
+      "大理古城"
+    ],
+    "correctAnswer": 0,
+    "explanation": "丽江古城没有城墙，相传是因为世代统治这里的木氏土司怕“木”字加上城墙的“口”变成“困”字。古城背后的雪山是玉龙雪山，纳西族的东巴文化在这里延续至今。"
+  },
+  {
+    "id": "picture-284",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这片拔地而起的石英砂岩石柱林，被认为是电影《阿凡达》悬浮山的灵感来源之一，它位于哪里？",
+    "image": "/questions/images/pic-world-39.jpg",
+    "imageCredit": "张家界，摄影：chensiyuan｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "张家界",
+      "丹霞山",
+      "云南石林",
+      "武夷山"
+    ],
+    "correctAnswer": 0,
+    "explanation": "张家界（武陵源）有三千多座砂岩石峰，1992年列入世界遗产。2010年，其中一座“乾坤柱”被正式更名为“阿凡达哈利路亚山”。"
+  },
+  {
+    "id": "picture-285",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这些外圆内方、像“飞碟”一样的巨大夯土建筑，是福建山区的传统民居，叫什么？",
+    "image": "/questions/images/pic-world-40.jpg",
+    "imageCredit": "福建土楼，摄影：Scott Edmunds｜CC BY 2.0｜Wikimedia Commons",
+    "options": [
+      "北京四合院",
+      "陕北窑洞",
+      "福建土楼",
+      "开平碉楼"
+    ],
+    "correctAnswer": 2,
+    "explanation": "土楼用生土夯筑，墙体厚达一米多，冬暖夏凉，还能防御外敌；大型土楼可让数百人聚族而居。2008年“福建土楼”列入世界遗产。"
+  },
+  {
+    "id": "picture-286",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这座宽约百米的大瀑布，是中国最著名的瀑布之一，位于哪个省份？",
+    "image": "/questions/images/pic-world-41.jpg",
+    "imageCredit": "黄果树瀑布，摄影：Kcx36｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "广西",
+      "云南",
+      "贵州",
+      "四川"
+    ],
+    "correctAnswer": 2,
+    "explanation": "黄果树瀑布高约77米、宽约101米，瀑布后面还有一条长约134米的“水帘洞”，可以从洞里穿行。1986年版电视剧《西游记》里花果山水帘洞的外景，就取自这里。"
+  },
+  {
+    "id": "picture-287",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这座仿佛“悬”在绝壁上的古寺，位于哪个省份？",
+    "image": "/questions/images/pic-world-42.jpg",
+    "imageCredit": "悬空寺，摄影：Charlie fong｜CC BY-SA 4.0｜Wikimedia Commons",
+    "options": [
+      "山西",
+      "河南",
+      "甘肃",
+      "陕西"
+    ],
+    "correctAnswer": 0,
+    "explanation": "悬空寺建在恒山金龙峡的峭壁上，始建于约1500年前的北魏，佛、道、儒三教的神像同殿供奉。它借岩壁凹处遮蔽风雨，靠插入岩石的横梁与木柱支撑，历经千年不倒。"
+  },
+  {
+    "id": "picture-288",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "中国有“四大石窟”，图中这处依山凿成的佛像群是其中的哪一处？",
+    "image": "/questions/images/pic-world-43.jpg",
+    "imageCredit": "云冈石窟，摄影：xiquinhosilva｜CC BY 2.0｜Wikimedia Commons",
+    "options": [
+      "云冈石窟",
+      "莫高窟",
+      "龙门石窟",
+      "麦积山石窟"
+    ],
+    "correctAnswer": 0,
+    "explanation": "云冈石窟位于山西大同，约在公元460年前后开凿，由高僧昙曜主持，现存主要洞窟45个，大小造像5万余尊。云冈、龙门、莫高窟和麦积山合称中国四大石窟。"
+  },
+  {
+    "id": "picture-289",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这座只剩下石头正立面的教堂遗迹，是中国哪座城市的标志性景点？",
+    "image": "/questions/images/pic-world-44.jpg",
+    "imageCredit": "大三巴牌坊，摄影：GG001213｜CC0｜Wikimedia Commons",
+    "options": [
+      "澳门",
+      "香港",
+      "广州",
+      "厦门"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这里是圣保禄教堂的遗迹，1835年一场大火烧毁了教堂主体，只留下这面精美的石质前壁，形似中式牌坊，因此叫“大三巴牌坊”。“三巴”据说是葡语“圣保罗”的音译。2005年它随澳门历史城区列入世界遗产。"
+  },
+  {
+    "id": "picture-290",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这座造型像竹节的摩天大楼，2004年落成时是世界最高的建筑，它位于哪座城市？",
+    "image": "/questions/images/pic-world-45.jpg",
+    "imageCredit": "台北101，摄影：AngMoKio｜CC BY-SA 3.0｜Wikimedia Commons",
+    "options": [
+      "迪拜",
+      "台北",
+      "上海",
+      "吉隆坡"
+    ],
+    "correctAnswer": 1,
+    "explanation": "台北101高508米，2004年至2010年一直是世界第一高楼，直到迪拜的哈利法塔建成。楼内悬挂着一颗重约660吨的巨型“阻尼球”，用来抵消台风和地震带来的晃动。"
+  },
+  {
+    "id": "picture-291",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位摆出功夫架势的华人影星是谁？",
+    "image": "/questions/images/pic-star-01.jpg",
+    "imageCredit": "成龙｜来源：维基共享资源（Segolene Liger，CC BY-SA 4.0）",
+    "options": [
+      "洪金宝",
+      "李连杰",
+      "成龙",
+      "甄子丹"
+    ],
+    "correctAnswer": 2,
+    "explanation": "成龙早年在《精武门》《龙争虎斗》里当过武打替身和龙套，后来凭《醉拳》《警察故事》成为国际动作巨星，2016年还获得了奥斯卡终身成就奖。"
+  },
+  {
+    "id": "picture-292",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位被称为香港娱乐圈“劳模”的艺人是谁？",
+    "image": "/questions/images/pic-star-02.jpg",
+    "imageCredit": "刘德华｜来源：维基共享资源（mR.Hom，CC BY 2.5）",
+    "options": [
+      "黎明",
+      "郭富城",
+      "张学友",
+      "刘德华"
+    ],
+    "correctAnswer": 3,
+    "explanation": "刘德华出道四十多年，主演过上百部电影，《无间道》系列是代表作；他还以《忘情水》《冰雨》等歌曲走红，1990年代与张学友、郭富城、黎明并称“四大天王”。"
+  },
+  {
+    "id": "picture-293",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位执导并主演了《少林足球》《功夫》的香港影人是谁？",
+    "image": "/questions/images/pic-star-03.jpg",
+    "imageCredit": "周星驰｜来源：维基共享资源（Kit Liew，CC BY 3.0）",
+    "options": [
+      "吴孟达",
+      "周星驰",
+      "刘青云",
+      "曾志伟"
+    ],
+    "correctAnswer": 1,
+    "explanation": "周星驰以“无厘头”喜剧风格影响了几代人，《喜剧之王》里那句“其实我是一个演员”成了经典台词；他执导并主演的《少林足球》《功夫》都曾拿下不错的票房。"
+  },
+  {
+    "id": "picture-294",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位在《卧虎藏龙》中饰演玉娇龙的女演员是谁？",
+    "image": "/questions/images/pic-star-04.jpg",
+    "imageCredit": "章子怡｜来源：维基共享资源（Harald Krichel，CC BY-SA 4.0）",
+    "options": [
+      "汤唯",
+      "周迅",
+      "章子怡",
+      "舒淇"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《卧虎藏龙》让二十出头的章子怡走向国际影坛；她后来又主演了《英雄》《艺伎回忆录》，并凭后者获得金球奖和英国电影学院奖提名。"
+  },
+  {
+    "id": "picture-295",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位唱过《红豆》《传奇》的歌手是谁？",
+    "image": "/questions/images/pic-star-05.jpg",
+    "imageCredit": "王菲｜来源：维基共享资源（Brandon Lim，CC BY-SA 2.0）",
+    "options": [
+      "王菲",
+      "孙燕姿",
+      "林忆莲",
+      "那英"
+    ],
+    "correctAnswer": 0,
+    "explanation": "王菲早年用艺名“王靖雯”在香港出道，后来凭空灵独特的嗓音成为华语乐坛的“天后”，《红豆》《传奇》《我愿意》都是她的代表作。"
+  },
+  {
+    "id": "picture-296",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位被歌迷尊称为“歌神”的香港歌手是谁？",
+    "image": "/questions/images/pic-star-06.jpg",
+    "imageCredit": "张学友｜来源：维基共享资源（am730，CC BY-SA 4.0）",
+    "options": [
+      "张学友",
+      "黎明",
+      "刘德华",
+      "谭咏麟"
+    ],
+    "correctAnswer": 0,
+    "explanation": "张学友凭《吻别》《一路上有你》等歌曲红遍华语乐坛。近年来多名在逃人员在他的演唱会上被警方抓获，他因此又多了个“逃犯克星”的外号。"
+  },
+  {
+    "id": "picture-297",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位以《十年》《K歌之王》闻名的香港歌手是谁？",
+    "image": "/questions/images/pic-star-07.jpg",
+    "imageCredit": "陈奕迅｜来源：维基共享资源（WoodmanT1，CC BY-SA 4.0）",
+    "options": [
+      "张敬轩",
+      "陈奕迅",
+      "李克勤",
+      "古巨基"
+    ],
+    "correctAnswer": 1,
+    "explanation": "陈奕迅昵称“Eason”，1995年在香港新秀歌唱大赛中夺冠出道；《十年》《浮夸》《富士山下》都是KTV点唱榜上的常客。"
+  },
+  {
+    "id": "picture-298",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位在《英雄本色》里饰演“小马哥”的影星是谁？",
+    "image": "/questions/images/pic-star-08.jpg",
+    "imageCredit": "周润发｜来源：维基共享资源（Sliceof，CC BY-SA 3.0）",
+    "options": [
+      "刘青云",
+      "周润发",
+      "狄龙",
+      "梁家辉"
+    ],
+    "correctAnswer": 1,
+    "explanation": "“小马哥”风衣、墨镜、嘴里叼火柴梗的形象，成了一代人的记忆。周润发外号“发哥”，还主演过《赌神》《卧虎藏龙》。"
+  },
+  {
+    "id": "picture-299",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位曾凭《花样年华》获得戛纳电影节影帝的演员是谁？",
+    "image": "/questions/images/pic-star-09.jpg",
+    "imageCredit": "梁朝伟｜来源：维基共享资源（Runawaymo，CC BY-SA 4.0）",
+    "options": [
+      "梁家辉",
+      "刘青云",
+      "梁朝伟",
+      "周润发"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2000年，梁朝伟凭《花样年华》成为首位获得戛纳影帝的华语演员；他还主演过《无间道》《春光乍泄》等名作。"
+  },
+  {
+    "id": "picture-300",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位以《泡沫》《光年之外》走红的女歌手是谁？",
+    "image": "/questions/images/pic-star-10.jpg",
+    "imageCredit": "邓紫棋｜来源：维基共享资源（GEM_Ady (GEM_brilliant)，CC BY 2.5）",
+    "options": [
+      "杨丞琳",
+      "郁可唯",
+      "张靓颖",
+      "邓紫棋"
+    ],
+    "correctAnswer": 3,
+    "explanation": "邓紫棋的艺名G.E.M.是“Get Everybody Moving”的缩写，她十几岁就出道，自己也创作词曲。"
+  },
+  {
+    "id": "picture-301",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位以《演员》《丑八怪》走红的歌手是谁？",
+    "image": "/questions/images/pic-star-11.jpg",
+    "imageCredit": "薛之谦｜来源：维基共享资源（想改名很久了xi，CC BY-SA 4.0）",
+    "options": [
+      "华晨宇",
+      "李荣浩",
+      "毛不易",
+      "薛之谦"
+    ],
+    "correctAnswer": 3,
+    "explanation": "薛之谦2005年出道，2013年前后凭《丑八怪》重新走红，之后《演员》《绅士》等歌曲接连成为热门，他也是综艺节目的常客。"
+  },
+  {
+    "id": "picture-302",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位2023年成为首位亚裔奥斯卡影后的华人女演员是谁？",
+    "image": "/questions/images/pic-star-12.jpg",
+    "imageCredit": "杨紫琼｜来源：维基共享资源（Harald Krichel，CC BY-SA 4.0）",
+    "options": [
+      "张曼玉",
+      "杨紫琼",
+      "章子怡",
+      "巩俐"
+    ],
+    "correctAnswer": 1,
+    "explanation": "杨紫琼凭《瞬息全宇宙》拿下第95届奥斯卡最佳女主角。她是马来西亚华人，早年当过选美冠军和舞者，在《警察故事3》里与成龙合作，亲自完成了不少高难度动作。"
+  },
+  {
+    "id": "picture-303",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位两度获得奥斯卡最佳导演奖的华人导演是谁？",
+    "image": "/questions/images/pic-star-13.jpg",
+    "imageCredit": "李安｜来源：维基共享资源（nicolas genin，CC BY-SA 2.0）",
+    "options": [
+      "李安",
+      "陈凯歌",
+      "张艺谋",
+      "王家卫"
+    ],
+    "correctAnswer": 0,
+    "explanation": "李安凭《断背山》和《少年派的奇幻漂流》两度获得奥斯卡最佳导演；他的《卧虎藏龙》还拿下了奥斯卡最佳外语片。"
+  },
+  {
+    "id": "picture-304",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位被称为“亚洲流行天王”的歌手是谁？",
+    "image": "/questions/images/pic-star-14.jpg",
+    "imageCredit": "周杰伦｜来源：维基共享资源（Play大明星，CC BY 3.0）",
+    "options": [
+      "陶喆",
+      "林俊杰",
+      "王力宏",
+      "周杰伦"
+    ],
+    "correctAnswer": 3,
+    "explanation": "周杰伦2000年发行首张专辑《Jay》，之后《七里香》《青花瓷》等歌曲风靡华语乐坛；他还自编自导自演过电影《不能说的秘密》。"
+  },
+  {
+    "id": "picture-305",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位2002年成为NBA选秀状元的中国篮球名将是谁？",
+    "image": "/questions/images/pic-star-15.jpg",
+    "imageCredit": "姚明｜来源：维基共享资源（World Travel & Tourism Council，CC BY 2.0）",
+    "options": [
+      "易建联",
+      "姚明",
+      "巴特尔",
+      "王治郅"
+    ],
+    "correctAnswer": 1,
+    "explanation": "姚明2002年被休斯敦火箭队选为NBA选秀状元，身高两米二以上；2016年他入选奈史密斯篮球名人堂。"
+  },
+  {
+    "id": "picture-306",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位曾带领中国女排夺得2016年里约奥运会金牌的教练是谁？",
+    "image": "/questions/images/pic-star-16.jpg",
+    "imageCredit": "郎平｜来源：维基共享资源（中国新闻网，CC BY 3.0）",
+    "options": [
+      "陈忠和",
+      "蔡斌",
+      "郎平",
+      "袁伟民"
+    ],
+    "correctAnswer": 2,
+    "explanation": "郎平当运动员时外号“铁榔头”，1984年洛杉矶奥运会夺冠；当教练后，她既带中国女排拿下里约奥运会金牌，也曾执教美国女排拿到2008年奥运会银牌。"
+  },
+  {
+    "id": "picture-307",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位2005年在斯诺克中国公开赛上夺冠的中国选手是谁？",
+    "image": "/questions/images/pic-star-17.jpg",
+    "imageCredit": "丁俊晖｜来源：维基共享资源（DerHexer，CC BY-SA 4.0）",
+    "options": [
+      "丁俊晖",
+      "颜丙涛",
+      "傅家俊",
+      "梁文博"
+    ],
+    "correctAnswer": 0,
+    "explanation": "丁俊晖十几岁就转入职业，2005年在中国公开赛上击败名将亨得利，拿下个人首个排名赛冠军，也带动了国内的斯诺克热。"
+  },
+  {
+    "id": "picture-308",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位2024年巴黎奥运会乒乓球男单冠军是谁？",
+    "image": "/questions/images/pic-star-18.jpg",
+    "imageCredit": "樊振东｜来源：维基共享资源（Peter Porai-Koshits，CC BY-SA 4.0）",
+    "options": [
+      "许昕",
+      "马龙",
+      "樊振东",
+      "王楚钦"
+    ],
+    "correctAnswer": 2,
+    "explanation": "樊振东在巴黎奥运会男单决赛中击败瑞典选手莫雷加德夺冠；三年前的东京奥运会，他曾在决赛中输给队友马龙，拿到银牌。"
+  },
+  {
+    "id": "picture-309",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位2004年雅典奥运会男子110米栏冠军是谁？",
+    "image": "/questions/images/pic-star-19.jpg",
+    "imageCredit": "刘翔｜来源：维基共享资源（LiuXiang_Fans，CC BY-SA 3.0）",
+    "options": [
+      "刘翔",
+      "张培萌",
+      "苏炳添",
+      "谢震业"
+    ],
+    "correctAnswer": 0,
+    "explanation": "刘翔在雅典奥运会跑出12秒91，平了当时的世界纪录，成为中国男子田径的第一个奥运冠军；2006年他又在洛桑跑出12秒88，刷新了世界纪录。"
+  },
+  {
+    "id": "picture-310",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位在2022年北京冬奥会上夺得两金一银的中国女运动员是谁？",
+    "image": "/questions/images/pic-star-20.jpg",
+    "imageCredit": "谷爱凌｜来源：维基共享资源（Jennifer 8. Lee/WikiPortraits，CC BY-SA 4.0）",
+    "options": [
+      "刘佳宇",
+      "谷爱凌",
+      "范可新",
+      "徐梦桃"
+    ],
+    "correctAnswer": 1,
+    "explanation": "谷爱凌在北京冬奥会上拿下大跳台、U型场地技巧两枚金牌和坡面障碍技巧一枚银牌，之后还进入斯坦福大学读书。"
+  },
+  {
+    "id": "picture-311",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位创办阿里巴巴的企业家是谁？",
+    "image": "/questions/images/pic-star-21.jpg",
+    "imageCredit": "马云｜来源：维基共享资源（世界经济论坛，CC BY 2.0）",
+    "options": [
+      "李彦宏",
+      "马云",
+      "雷军",
+      "马化腾"
+    ],
+    "correctAnswer": 1,
+    "explanation": "马云曾是杭州的一名英语老师，1999年他和伙伴在自己家里创办了阿里巴巴。"
+  },
+  {
+    "id": "picture-312",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位创办小米公司的企业家是谁？",
+    "image": "/questions/images/pic-star-22.jpg",
+    "imageCredit": "雷军｜来源：维基共享资源（中新社，CC BY 4.0）",
+    "options": [
+      "丁磊",
+      "刘强东",
+      "雷军",
+      "周鸿祎"
+    ],
+    "correctAnswer": 2,
+    "explanation": "雷军2010年创办小米，他那句“站在风口上，猪都能飞起来”广为流传。"
+  },
+  {
+    "id": "picture-313",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位创办腾讯的企业家是谁？",
+    "image": "/questions/images/pic-star-23.jpg",
+    "imageCredit": "马化腾｜来源：维基共享资源（中国新闻网，CC BY 3.0）",
+    "options": [
+      "李彦宏",
+      "马化腾",
+      "马云",
+      "张一鸣"
+    ],
+    "correctAnswer": 1,
+    "explanation": "腾讯1998年在深圳创办，QQ和微信都出自这家公司；马化腾的英文名叫Pony。"
+  },
+  {
+    "id": "picture-314",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位2015年获得诺贝尔生理学或医学奖的中国科学家是谁？",
+    "image": "/questions/images/pic-star-24.jpg",
+    "imageCredit": "屠呦呦｜来源：维基共享资源（Bengt Nyman，CC BY 2.0）",
+    "options": [
+      "屠呦呦",
+      "袁隆平",
+      "钟南山",
+      "杨振宁"
+    ],
+    "correctAnswer": 0,
+    "explanation": "屠呦呦从古籍《肘后备急方》里“青蒿一握”的记载中获得启发，提取出青蒿素，成为首位获得诺贝尔科学奖项的中国本土科学家。"
+  },
+  {
+    "id": "picture-315",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位2012年获得诺贝尔文学奖的中国作家是谁？",
+    "image": "/questions/images/pic-star-25.jpg",
+    "imageCredit": "莫言｜来源：维基共享资源（Johannes Kolfhaus，CC BY-SA 3.0）",
+    "options": [
+      "莫言",
+      "余华",
+      "刘慈欣",
+      "贾平凹"
+    ],
+    "correctAnswer": 0,
+    "explanation": "“莫言”是笔名，意思是“不要说话”，他的本名叫管谟业；代表作有《红高粱家族》《蛙》等。"
+  },
+  {
+    "id": "picture-316",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位被誉为“杂交水稻之父”的科学家是谁？",
+    "image": "/questions/images/pic-star-26.jpg",
+    "imageCredit": "袁隆平｜来源：维基共享资源（中新社，CC BY 3.0）",
+    "options": [
+      "吴孟超",
+      "钟南山",
+      "袁隆平",
+      "钱学森"
+    ],
+    "correctAnswer": 2,
+    "explanation": "袁隆平一生扎根稻田，培育出高产的杂交水稻，让许多人告别了饥饿；他于2021年去世。"
+  },
+  {
+    "id": "picture-317",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位阿根廷球星是谁？",
+    "image": "/questions/images/pic-star-27.jpg",
+    "imageCredit": "梅西｜来源：维基共享资源（Bryan Berlin，CC BY-SA 4.0）",
+    "options": [
+      "迪马利亚",
+      "劳塔罗",
+      "梅西",
+      "阿圭罗"
+    ],
+    "correctAnswer": 2,
+    "explanation": "梅西2022年带领阿根廷在卡塔尔世界杯夺冠，他一共八次获得金球奖，是历史上获奖次数最多的球员。"
+  },
+  {
+    "id": "picture-318",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位葡萄牙球星是谁？",
+    "image": "/questions/images/pic-star-28.jpg",
+    "imageCredit": "C罗｜来源：维基共享资源（Bryan Berlin，CC BY-SA 4.0）",
+    "options": [
+      "C罗",
+      "布鲁诺·费尔南德斯",
+      "菲戈",
+      "若昂·菲利克斯"
+    ],
+    "correctAnswer": 0,
+    "explanation": "C罗五次获得金球奖，同时也是国家队进球最多的球员，他和梅西长达十多年的对决被球迷称为“梅罗时代”。"
+  },
+  {
+    "id": "picture-319",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位被称为“飞人”的篮球传奇是谁？",
+    "image": "/questions/images/pic-star-29.jpg",
+    "imageCredit": "乔丹｜来源：维基共享资源（美国国防部，Public domain）",
+    "options": [
+      "魔术师约翰逊",
+      "拉里·伯德",
+      "沙奎尔·奥尼尔",
+      "迈克尔·乔丹"
+    ],
+    "correctAnswer": 3,
+    "explanation": "乔丹带领公牛两度完成三连冠，一共拿下6个总冠军和6次总决赛MVP；他还在1994年中途“转行”去打过一段时间的职业棒球。"
+  },
+  {
+    "id": "picture-320",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位曾八次夺得温网男单冠军的网球名将是谁？",
+    "image": "/questions/images/pic-star-30.jpg",
+    "imageCredit": "费德勒｜来源：维基共享资源（Tatiana from Moscow, Russia，CC BY-SA 2.0）",
+    "options": [
+      "拉斐尔·纳达尔",
+      "安迪·穆雷",
+      "罗杰·费德勒",
+      "斯坦·瓦林卡"
+    ],
+    "correctAnswer": 2,
+    "explanation": "费德勒一共拿过20个大满贯男单冠军，八夺温网是男子纪录；他与纳达尔的对决被公认为网坛经典。"
+  },
+  {
+    "id": "picture-321",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位2024年巴黎奥运会男单金牌得主是谁？",
+    "image": "/questions/images/pic-star-31.jpg",
+    "imageCredit": "德约科维奇｜来源：维基共享资源（Andymiah，CC BY-SA 4.0）",
+    "options": [
+      "诺瓦克·德约科维奇",
+      "卡洛斯·阿尔卡拉斯",
+      "扬尼克·辛纳",
+      "丹尼尔·梅德韦杰夫"
+    ],
+    "correctAnswer": 0,
+    "explanation": "巴黎奥运会决赛中，德约科维奇击败阿尔卡拉斯，补上了职业生涯中唯一缺失的奥运金牌；他的大满贯男单冠军数已超过20个。"
+  },
+  {
+    "id": "picture-322",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位拥有23枚奥运金牌的游泳名将是谁？",
+    "image": "/questions/images/pic-star-32.jpg",
+    "imageCredit": "菲尔普斯｜来源：维基共享资源（巴西通讯社，CC BY 2.0）",
+    "options": [
+      "瑞安·洛赫特",
+      "伊恩·索普",
+      "马克·斯皮茨",
+      "迈克尔·菲尔普斯"
+    ],
+    "correctAnswer": 3,
+    "explanation": "菲尔普斯一共拿下23枚奥运金牌，是历史第一；2008年北京奥运会他一人独揽8金，超过了斯皮茨保持多年的单届7金纪录。"
+  },
+  {
+    "id": "picture-323",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位以弧线任意球闻名的英格兰球星是谁？",
+    "image": "/questions/images/pic-star-33.jpg",
+    "imageCredit": "贝克汉姆｜来源：维基共享资源（Soccer Aid for UNICEF，CC BY 3.0）",
+    "options": [
+      "史蒂文·杰拉德",
+      "大卫·贝克汉姆",
+      "迈克尔·欧文",
+      "弗兰克·兰帕德"
+    ],
+    "correctAnswer": 1,
+    "explanation": "贝克汉姆的右脚任意球堪称一绝，他曾效力于曼联、皇马、洛杉矶银河、AC米兰和巴黎圣日耳曼，2000至2006年还担任过英格兰队队长。"
+  },
+  {
+    "id": "picture-324",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位自称“我是最伟大的”的传奇拳王是谁？",
+    "image": "/questions/images/pic-star-34.jpg",
+    "imageCredit": "穆罕默德·阿里｜来源：维基共享资源（Ira Rosenberg，Public domain）",
+    "options": [
+      "乔·弗雷泽",
+      "穆罕默德·阿里",
+      "迈克·泰森",
+      "乔治·福尔曼"
+    ],
+    "correctAnswer": 1,
+    "explanation": "阿里的名言是“飘如蝴蝶，蜇如蜜蜂”，他1960年在罗马奥运会上夺得拳击金牌，1996年亚特兰大奥运会上还手持火炬点燃了主火炬。"
+  },
+  {
+    "id": "picture-325",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位身穿巴西队球衣的足球传奇是谁？",
+    "image": "/questions/images/pic-star-35.jpg",
+    "imageCredit": "贝利｜来源：维基共享资源（El Gráfico，Public domain）",
+    "options": [
+      "贝利",
+      "济科",
+      "里瓦尔多",
+      "罗马里奥"
+    ],
+    "correctAnswer": 0,
+    "explanation": "贝利17岁就在1958年世界杯上夺冠并进球，一生三次捧起世界杯，至今无人能及。"
+  },
+  {
+    "id": "picture-326",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位科技界的传奇人物是谁？",
+    "image": "/questions/images/pic-star-36.jpg",
+    "imageCredit": "史蒂夫·乔布斯｜来源：维基共享资源（Matthew Yohe，CC BY-SA 3.0）",
+    "options": [
+      "拉里·埃里森",
+      "蒂姆·库克",
+      "史蒂夫·沃兹尼亚克",
+      "史蒂夫·乔布斯"
+    ],
+    "correctAnswer": 3,
+    "explanation": "乔布斯1985年被迫离开自己创办的苹果，之后收购了皮克斯；1997年回归后，他相继推出了iMac、iPod和iPhone。"
+  },
+  {
+    "id": "picture-327",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位创办微软的企业家是谁？",
+    "image": "/questions/images/pic-star-37.jpg",
+    "imageCredit": "比尔·盖茨｜来源：维基共享资源（Bogdan Hoyaux/欧盟，CC BY 4.0）",
+    "options": [
+      "蒂姆·库克",
+      "比尔·盖茨",
+      "沃伦·巴菲特",
+      "萨提亚·纳德拉"
+    ],
+    "correctAnswer": 1,
+    "explanation": "盖茨1975年从哈佛辍学，与保罗·艾伦一起创办了微软；后来他把大量精力投入到盖茨基金会的公益事业中。"
+  },
+  {
+    "id": "picture-328",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位同时执掌特斯拉和SpaceX的企业家是谁？",
+    "image": "/questions/images/pic-star-38.jpg",
+    "imageCredit": "埃隆·马斯克｜来源：维基共享资源（Gage Skidmore，CC BY-SA 4.0）",
+    "options": [
+      "埃隆·马斯克",
+      "杰夫·贝索斯",
+      "桑达尔·皮查伊",
+      "马克·扎克伯格"
+    ],
+    "correctAnswer": 0,
+    "explanation": "SpaceX的猎鹰9号火箭第一级可以回收重复使用，大大降低了发射成本；马斯克同时还是电动车公司特斯拉的CEO。"
+  },
+  {
+    "id": "picture-329",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位创办英伟达（NVIDIA）的企业家是谁？",
+    "image": "/questions/images/pic-star-39.jpg",
+    "imageCredit": "黄仁勋｜来源：维基共享资源（白宫，Public domain）",
+    "options": [
+      "帕特·基辛格",
+      "萨提亚·纳德拉",
+      "黄仁勋",
+      "桑达尔·皮查伊"
+    ],
+    "correctAnswer": 2,
+    "explanation": "黄仁勋1963年出生于台湾，小时候移居美国；他1993年联合创办英伟达，从显卡起家，如今英伟达的芯片已是AI热潮的核心。"
+  },
+  {
+    "id": "picture-330",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位创办亚马逊的企业家是谁？",
+    "image": "/questions/images/pic-star-40.jpg",
+    "imageCredit": "杰夫·贝索斯｜来源：维基共享资源（Seattle City Council，CC BY 2.0）",
+    "options": [
+      "蒂姆·库克",
+      "拉里·佩奇",
+      "杰夫·贝索斯",
+      "埃隆·马斯克"
+    ],
+    "correctAnswer": 2,
+    "explanation": "贝索斯1994年在西雅图郊外的车库里创办了亚马逊，最初只卖书；他后来还创办了航天公司蓝色起源。"
+  },
+  {
+    "id": "picture-331",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位被称为“奥马哈先知”的投资家是谁？",
+    "image": "/questions/images/pic-star-41.jpg",
+    "imageCredit": "沃伦·巴菲特｜来源：维基共享资源（美国国际贸易署，Public domain）",
+    "options": [
+      "查理·芒格",
+      "彼得·林奇",
+      "乔治·索罗斯",
+      "沃伦·巴菲特"
+    ],
+    "correctAnswer": 3,
+    "explanation": "巴菲特11岁就买入了人生的第一只股票；他每年拍卖一顿“巴菲特午餐”，成交价曾高达上千万美元，善款用于慈善。"
+  },
+  {
+    "id": "picture-332",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位曾凭《费城故事》《阿甘正传》连续两年获得奥斯卡影帝的演员是谁？",
+    "image": "/questions/images/pic-star-46.jpg",
+    "imageCredit": "汤姆·汉克斯｜来源：维基共享资源（Dick Thomas Johnson，CC BY-SA 2.5）",
+    "options": [
+      "凯文·科斯特纳",
+      "丹泽尔·华盛顿",
+      "摩根·弗里曼",
+      "汤姆·汉克斯"
+    ],
+    "correctAnswer": 3,
+    "explanation": "汉克斯在1994年和1995年连续两年捧起奥斯卡影帝奖杯，《阿甘正传》里那句“生活就像一盒巧克力”成了经典台词。"
+  },
+  {
+    "id": "picture-333",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位2016年凭《荒野猎人》首次夺得奥斯卡影帝的演员是谁？",
+    "image": "/questions/images/pic-star-47.jpg",
+    "imageCredit": "莱昂纳多｜来源：维基共享资源（Raph_PH，CC BY 4.0）",
+    "options": [
+      "马特·达蒙",
+      "克里斯蒂安·贝尔",
+      "汤姆·哈迪",
+      "莱昂纳多·迪卡普里奥"
+    ],
+    "correctAnswer": 3,
+    "explanation": "莱昂纳多此前多次提名奥斯卡却空手而归，直到2016年凭《荒野猎人》才终于捧起影帝奖杯，还因此成了网络热梗。"
+  },
+  {
+    "id": "picture-334",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位电影大师是谁？",
+    "image": "/questions/images/pic-star-48.jpg",
+    "imageCredit": "斯皮尔伯格｜来源：维基共享资源（Martin Kraft，CC BY-SA 4.0）",
+    "options": [
+      "史蒂文·斯皮尔伯格",
+      "詹姆斯·卡梅隆",
+      "乔治·卢卡斯",
+      "克里斯托弗·诺兰"
+    ],
+    "correctAnswer": 0,
+    "explanation": "斯皮尔伯格执导过《大白鲨》《E.T.外星人》《侏罗纪公园》，并凭《辛德勒的名单》和《拯救大兵瑞恩》两度获得奥斯卡最佳导演。"
+  },
+  {
+    "id": "picture-335",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位是皇后乐队（Queen）的主唱，他是谁？",
+    "image": "/questions/images/pic-star-49.jpg",
+    "imageCredit": "弗雷迪·墨丘利｜来源：维基共享资源（Carl Lender，CC BY-SA 3.0）",
+    "options": [
+      "大卫·鲍伊",
+      "罗伯特·普兰特",
+      "米克·贾格尔",
+      "弗雷迪·墨丘利"
+    ],
+    "correctAnswer": 3,
+    "explanation": "墨丘利的代表作《波西米亚狂想曲》长近六分钟，他在1985年Live Aid演唱会上的表演，被公认为摇滚现场的经典。图中是1977年的舞台照。"
+  },
+  {
+    "id": "picture-336",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这四个首尾相扣的圆环，是哪家汽车公司的标志？",
+    "image": "/questions/images/pic-logo-01.jpg",
+    "imageCredit": "奥迪标志｜来源：维基百科",
+    "options": [
+      "沃尔沃",
+      "大众",
+      "宝马",
+      "奥迪"
+    ],
+    "correctAnswer": 3,
+    "explanation": "四个圆环代表1932年合并成汽车联盟公司的四家德国车企：奥迪、DKW、霍希和漫游者。后来只有奥迪这个名字留了下来，四环则一直沿用至今。"
+  },
+  {
+    "id": "picture-337",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这颗被圆环圈住的三叉星，是哪个汽车品牌的标志？",
+    "image": "/questions/images/pic-logo-02.jpg",
+    "imageCredit": "奔驰标志（无文字版）｜来源：维基百科",
+    "options": [
+      "标致",
+      "奔驰",
+      "路虎",
+      "三菱"
+    ],
+    "correctAnswer": 1,
+    "explanation": "三个尖角象征戴姆勒的发动机要征服陆地、海洋和天空。据说灵感来自创始人戈特利布·戴姆勒当年在寄给妻子的明信片上，给自家房子标记的一颗星。"
+  },
+  {
+    "id": "picture-338",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "由三个椭圆交叠而成的这个标志，属于哪个汽车品牌？",
+    "image": "/questions/images/pic-logo-03.jpg",
+    "imageCredit": "丰田标志｜来源：维基百科",
+    "options": [
+      "本田",
+      "日产",
+      "马自达",
+      "丰田"
+    ],
+    "correctAnswer": 3,
+    "explanation": "两个相交的椭圆分别代表客户的心和丰田的心，彼此信赖；背后更大的椭圆象征世界。官方还说，整个图形里能拼出 TOYOTA 的每一个字母。"
+  },
+  {
+    "id": "picture-339",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这匹后腿站立、扬起前蹄的黑色骏马，是哪个超跑品牌的标志？",
+    "image": "/questions/images/pic-logo-04.jpg",
+    "imageCredit": "法拉利跃马标志｜来源：维基百科",
+    "options": [
+      "法拉利",
+      "阿斯顿·马丁",
+      "玛莎拉蒂",
+      "兰博基尼"
+    ],
+    "correctAnswer": 0,
+    "explanation": "跃马原本画在一战意大利空军王牌弗朗切斯科·巴拉卡的战机上，他的母亲建议恩佐·法拉利把它带上赛车当幸运符。标志背后常见的金丝雀黄，则是恩佐家乡摩德纳的代表色。"
+  },
+  {
+    "id": "picture-340",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这头低头冲撞的金色公牛，是哪个超跑品牌的标志？",
+    "image": "/questions/images/pic-logo-05.jpg",
+    "imageCredit": "兰博基尼标志（局部）｜来源：维基百科",
+    "options": [
+      "帕加尼",
+      "迈凯伦",
+      "布加迪",
+      "兰博基尼"
+    ],
+    "correctAnswer": 3,
+    "explanation": "创始人费鲁吉欧·兰博基尼是金牛座，还是个斗牛迷。后来 Miura、Murciélago、Aventador 等车型，都以斗牛饲养场或著名斗牛的名字命名。"
+  },
+  {
+    "id": "picture-341",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这个盾牌徽章里的雄狮头像，是哪个法国汽车品牌的标志？",
+    "image": "/questions/images/pic-logo-06.jpg",
+    "imageCredit": "标致标志（已去除文字）｜来源：维基百科",
+    "options": [
+      "标致",
+      "布加迪",
+      "雪铁龙",
+      "雷诺"
+    ],
+    "correctAnswer": 0,
+    "explanation": "19世纪中叶，标致家族就把狮子刻在锯条等钢铁制品上当商标：狮牙像锯齿，脊背像锯条一样有韧性，扑击像切割一样迅捷。这枚盾牌徽章是2021年启用的新款。"
+  },
+  {
+    "id": "picture-342",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "椭圆里的这两道人字形，是哪个汽车品牌的标志？",
+    "image": "/questions/images/pic-logo-07.jpg",
+    "imageCredit": "雪铁龙标志（局部）｜来源：维基百科",
+    "options": [
+      "雷诺",
+      "雪铁龙",
+      "欧宝",
+      "斯柯达"
+    ],
+    "correctAnswer": 1,
+    "explanation": "创始人安德烈·雪铁龙早年在波兰见到一种人字形齿轮，买下专利后先开了齿轮厂，这两个“人字”后来就成了汽车的标志。"
+  },
+  {
+    "id": "picture-343",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这个蓝色椭圆里的六颗星，是哪个日本汽车品牌的标志？",
+    "image": "/questions/images/pic-logo-08.jpg",
+    "imageCredit": "斯巴鲁标志（局部）｜来源：维基百科",
+    "options": [
+      "马自达",
+      "铃木",
+      "斯巴鲁",
+      "三菱"
+    ],
+    "correctAnswer": 2,
+    "explanation": "“斯巴鲁”是日语里对昴星团的称呼。一颗大星代表合并后的母公司富士重工，另外五颗小星代表合并前的五家公司。"
+  },
+  {
+    "id": "picture-344",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这个带箭头的圆环，属于哪个瑞典汽车品牌？",
+    "image": "/questions/images/pic-logo-09.jpg",
+    "imageCredit": "沃尔沃“铁标”（已去除文字）｜来源：维基百科",
+    "options": [
+      "极星",
+      "沃尔沃",
+      "柯尼塞格",
+      "萨博"
+    ],
+    "correctAnswer": 1,
+    "explanation": "圆环加箭头是炼金术里代表“铁”的古老符号，寓意瑞典钢铁般的坚固；“Volvo”在拉丁语里是“我滚动”。车头格栅上那道斜杠，最初只是用来固定这枚徽章的。"
+  },
+  {
+    "id": "picture-345",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这把三叉戟，是哪个意大利汽车品牌的标志？",
+    "image": "/questions/images/pic-logo-10.jpg",
+    "imageCredit": "玛莎拉蒂标志（局部）｜来源：维基百科",
+    "options": [
+      "玛莎拉蒂",
+      "阿尔法·罗密欧",
+      "菲亚特",
+      "法拉利"
+    ],
+    "correctAnswer": 0,
+    "explanation": "三叉戟取自意大利博洛尼亚广场上的海神喷泉，由创始家族中的画家马里奥·马塞拉蒂设计，象征力量与活力。"
+  },
+  {
+    "id": "picture-346",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这个红黄绿三色环绕着蓝色圆心的图标，是哪款浏览器？",
+    "image": "/questions/images/pic-logo-11.jpg",
+    "imageCredit": "Chrome 2011年版图标｜来源：维基百科",
+    "options": [
+      "Safari",
+      "Chrome",
+      "Edge",
+      "Opera"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chrome 在英文里指镀铬件，也是浏览器界面外框的行话；谷歌当年想把这层“外壳”做到最薄，才起了这个名字。图标里的红黄绿蓝，正是谷歌的品牌色。"
+  },
+  {
+    "id": "picture-347",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这只蓝色小鸟曾是哪个社交平台的标志？",
+    "image": "/questions/images/pic-logo-12.jpg",
+    "imageCredit": "推特小鸟标志｜来源：维基百科",
+    "options": [
+      "Pinterest",
+      "Tumblr",
+      "推特",
+      "领英"
+    ],
+    "correctAnswer": 2,
+    "explanation": "这只小鸟名叫 Larry，得名于 NBA 传奇球星拉里·伯德。2023年平台改名为 X，小鸟也随之退役。"
+  },
+  {
+    "id": "picture-348",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这个绿色的小机器人，是哪个操作系统的标志？",
+    "image": "/questions/images/pic-logo-13.jpg",
+    "imageCredit": "安卓机器人标志｜来源：维基百科",
+    "options": [
+      "安卓",
+      "Windows Phone",
+      "iOS",
+      "鸿蒙"
+    ],
+    "correctAnswer": 0,
+    "explanation": "它的外号叫 Bugdroid。设计师艾琳娜·布洛克说，灵感来自公共厕所门上的男女小人图标，而且谷歌允许大家随意改造它的样子。"
+  },
+  {
+    "id": "picture-349",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这个缺了一口、身上带着彩虹条纹的图案，是哪家公司早期的标志？",
+    "image": "/questions/images/pic-logo-14.jpg",
+    "imageCredit": "苹果早期彩虹标志（1977–1998）｜来源：维基百科",
+    "options": [
+      "苹果",
+      "惠普",
+      "微软",
+      "英特尔"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这是1977年设计的彩虹苹果，用来强调 Apple II 是最早能显示彩色的个人电脑之一。据设计师说，缺掉的那一口是为了不被误认成樱桃，还和 byte（字节）谐音。1998年它换成了单色版。"
+  },
+  {
+    "id": "picture-350",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这只环抱着地球的狐狸，是哪款浏览器的标志？",
+    "image": "/questions/images/pic-logo-15.jpg",
+    "imageCredit": "火狐标志｜来源：维基百科",
+    "options": [
+      "傲游",
+      "欧朋",
+      "火狐",
+      "360浏览器"
+    ],
+    "correctAnswer": 2,
+    "explanation": "“Firefox”其实是小熊猫的别称，但 Mozilla 明确表示标志画的是一只狐狸。它2004年发布1.0版，几年内从 IE 手里抢走了大片市场。"
+  },
+  {
+    "id": "picture-351",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这只圆滚滚的企鹅，是哪个操作系统的吉祥物？",
+    "image": "/questions/images/pic-logo-16.jpg",
+    "imageCredit": "Linux 吉祥物 Tux｜来源：维基百科",
+    "options": [
+      "macOS",
+      "鸿蒙",
+      "Linux",
+      "Windows"
+    ],
+    "correctAnswer": 2,
+    "explanation": "它叫 Tux，1996年被选为 Linux 的吉祥物。林纳斯·托瓦兹自称在澳大利亚被一只小企鹅咬过，从此对企鹅有了好感。"
+  },
+  {
+    "id": "picture-352",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这个蓝色的横躺“8”字形无限符号，是哪家科技公司的标志？",
+    "image": "/questions/images/pic-logo-17.jpg",
+    "imageCredit": "Meta 标志｜来源：维基百科",
+    "options": [
+      "高通",
+      "谷歌",
+      "Meta",
+      "微软"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2021年10月，Facebook 公司改名 Meta 并启用了这个标志：它像一个横躺的“∞”，也被看作字母 M，寄托着对元宇宙“无限可能”的想象。"
+  },
+  {
+    "id": "picture-353",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这个蓝底的奇怪符号，是哪种无线技术的标志？",
+    "image": "/questions/images/pic-logo-18.jpg",
+    "imageCredit": "蓝牙标志（局部）｜来源：维基百科",
+    "options": [
+      "蓝牙",
+      "Wi-Fi",
+      "NFC",
+      "红外"
+    ],
+    "correctAnswer": 0,
+    "explanation": "它是北欧如尼文字 ᚼ 和 ᛒ 的合体，分别是丹麦国王“蓝牙”哈拉尔名字的首字母。他曾统一丹麦与挪威，寓意这项技术要把各种设备“统一”起来。"
+  },
+  {
+    "id": "picture-354",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这个圆圈里半猫半章鱼的剪影，是哪个代码托管平台的标志？",
+    "image": "/questions/images/pic-logo-19.jpg",
+    "imageCredit": "GitHub 标志｜来源：维基百科",
+    "options": [
+      "Bitbucket",
+      "GitHub",
+      "Gitee",
+      "GitLab"
+    ],
+    "correctAnswer": 1,
+    "explanation": "它叫 Octocat（章鱼猫），原型是设计师 Simon Oxley 的一幅插画，被 GitHub 改造成了吉祥物。放进圆圈里的这个版本，叫 Invertocat。"
+  },
+  {
+    "id": "picture-355",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这两条首尾相接的蓝黄小蛇，是哪种编程语言的标志？",
+    "image": "/questions/images/pic-logo-20.jpg",
+    "imageCredit": "Python 标志｜来源：维基百科",
+    "options": [
+      "Java",
+      "Python",
+      "Go",
+      "Ruby"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Python 的名字并不来自蟒蛇，而是创始人吉多·范罗苏姆爱看的英国喜剧《蒙提·派森的飞行马戏团》；官方标志却偏偏画了两条蟒蛇。"
+  },
+  {
+    "id": "picture-356",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这个橙白相间的交通锥，是哪款播放器的标志？",
+    "image": "/questions/images/pic-logo-21.jpg",
+    "imageCredit": "VLC 标志｜来源：维基百科",
+    "options": [
+      "迅雷影音",
+      "暴风影音",
+      "VLC",
+      "PotPlayer"
+    ],
+    "correctAnswer": 2,
+    "explanation": "VLC 起源于法国巴黎中央理工学院的学生项目 VideoLAN。据说学生们爱把路上的交通锥捡回宿舍摆着，于是交通锥就成了播放器的标志。"
+  },
+  {
+    "id": "picture-357",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这个咧嘴笑的小怪物头像，是哪款语音聊天软件的标志？",
+    "image": "/questions/images/pic-logo-22.jpg",
+    "imageCredit": "Discord 标志（局部）｜来源：维基百科",
+    "options": [
+      "TeamSpeak",
+      "Discord",
+      "Slack",
+      "Skype"
+    ],
+    "correctAnswer": 1,
+    "explanation": "它叫 Clyde，造型像一只游戏手柄。Discord 2015年推出时主打玩家开黑语音，后来成了各种兴趣社群的据点。"
+  },
+  {
+    "id": "picture-358",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这对金色的拱门，是哪家快餐连锁的标志？",
+    "image": "/questions/images/pic-logo-23.jpg",
+    "imageCredit": "麦当劳金拱门标志｜来源：维基百科",
+    "options": [
+      "赛百味",
+      "汉堡王",
+      "麦当劳",
+      "肯德基"
+    ],
+    "correctAnswer": 2,
+    "explanation": "金拱门最初是1950年代麦当劳门店两侧真实的拱形建筑，后来被抽象成了标志。2017年，麦当劳（中国）的公司名称也改成了“金拱门”。"
+  },
+  {
+    "id": "picture-359",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这位长着双尾的美人鱼，是哪家咖啡连锁的标志？",
+    "image": "/questions/images/pic-logo-24.jpg",
+    "imageCredit": "星巴克2011年版标志｜来源：维基百科",
+    "options": [
+      "Costa",
+      "星巴克",
+      "太平洋咖啡",
+      "瑞幸咖啡"
+    ],
+    "correctAnswer": 1,
+    "explanation": "她是希腊神话里用歌声迷惑水手的塞壬（Siren）。“星巴克”这个名字则取自小说《白鲸》里的大副 Starbuck。2011年改版时，标志外圈的文字被删掉了，只留下这位“海妖”。"
+  },
+  {
+    "id": "picture-360",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这个红白蓝三色的圆球，是哪个饮料品牌的标志？",
+    "image": "/questions/images/pic-logo-25.jpg",
+    "imageCredit": "百事可乐标志（局部）｜来源：维基百科",
+    "options": [
+      "可口可乐",
+      "百事可乐",
+      "芬达",
+      "七喜"
+    ],
+    "correctAnswer": 1,
+    "explanation": "红白蓝的配色在20世纪40年代随着爱国热潮出现在百事的瓶盖上，此后逐渐演变成这颗圆球。"
+  },
+  {
+    "id": "picture-361",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这两头正在对撞的公牛与一轮金色的太阳，是哪个饮料品牌的标志？",
+    "image": "/questions/images/pic-logo-26.jpg",
+    "imageCredit": "红牛标志（局部）｜来源：维基百科",
+    "options": [
+      "魔爪",
+      "东鹏特饮",
+      "乐虎",
+      "红牛"
+    ],
+    "correctAnswer": 3,
+    "explanation": "红牛的灵感来自泰国的功能饮料 Krating Daeng（“红色水牛”）。奥地利商人迪特里希·马特希茨1984年与泰国原厂合伙创立红牛公司，标志里的公牛与太阳也源自泰国原版。"
+  },
+  {
+    "id": "picture-362",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这枚红黄相间的扇贝，是哪家石油公司的标志？",
+    "image": "/questions/images/pic-logo-27.jpg",
+    "imageCredit": "壳牌扇贝标志｜来源：维基百科",
+    "options": [
+      "埃克森美孚",
+      "壳牌",
+      "英国石油",
+      "道达尔"
+    ],
+    "correctAnswer": 1,
+    "explanation": "壳牌的前身是19世纪伦敦一家卖贝壳工艺品的小店，后来老板的儿子转做石油运输，便拿贝壳作了商标。如今这个图案连字都不用写，也能被一眼认出。"
+  },
+  {
+    "id": "picture-363",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这个鸟巢里母鸟喂着雏鸟的图案，是哪家食品公司的标志？",
+    "image": "/questions/images/pic-logo-28.jpg",
+    "imageCredit": "雀巢鸟巢标志（局部）｜来源：维基百科",
+    "options": [
+      "联合利华",
+      "亿滋",
+      "玛氏",
+      "雀巢"
+    ],
+    "correctAnswer": 3,
+    "explanation": "创始人亨利·雀巢的姓氏 Nestlé，在德语方言里的意思就是“小巢”，鸟巢原本就是他家的家徽，后来被他用作婴儿麦片的商标。"
+  },
+  {
+    "id": "picture-364",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这块蓝红相间的多米诺骨牌，是哪家披萨连锁的标志？",
+    "image": "/questions/images/pic-logo-29.jpg",
+    "imageCredit": "达美乐标志（局部）｜来源：维基百科",
+    "options": [
+      "萨莉亚",
+      "棒约翰",
+      "达美乐",
+      "必胜客"
+    ],
+    "correctAnswer": 2,
+    "explanation": "达美乐最初只有三家店，标志上的三个点就代表这三家。原本打算每开一家新店加一个点，后来店越开越多，标志就一直没再改。"
+  },
+  {
+    "id": "picture-365",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这个像对勾的标志，是哪个运动品牌的？",
+    "image": "/questions/images/pic-logo-30.jpg",
+    "imageCredit": "耐克 Swoosh 标志｜来源：维基百科",
+    "options": [
+      "耐克",
+      "阿迪达斯",
+      "彪马",
+      "锐步"
+    ],
+    "correctAnswer": 0,
+    "explanation": "它叫 Swoosh（“嗖”的一声），1971年由波特兰州立大学的学生卡罗琳·戴维森设计，只收了35美元；灵感来自希腊胜利女神耐克的翅膀。"
+  },
+  {
+    "id": "picture-366",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这三道斜杠组成的“小山”，是哪个运动品牌的标志？",
+    "image": "/questions/images/pic-logo-31.jpg",
+    "imageCredit": "阿迪达斯三条杠标志（局部）｜来源：维基百科",
+    "options": [
+      "阿迪达斯",
+      "安德玛",
+      "彪马",
+      "新百伦"
+    ],
+    "correctAnswer": 0,
+    "explanation": "据说1952年，阿迪·达斯勒用1600欧元加两瓶威士忌，从芬兰品牌 Karhu 手里买下了“三条杠”的使用权。组成山形的这版标志，象征着要不断攀越的挑战。"
+  },
+  {
+    "id": "picture-367",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这只腾跃的猫科动物，是哪个运动品牌的标志？",
+    "image": "/questions/images/pic-logo-32.jpg",
+    "imageCredit": "彪马标志（局部）｜来源：维基百科",
+    "options": [
+      "彪马",
+      "斐乐",
+      "锐步",
+      "新百伦"
+    ],
+    "correctAnswer": 0,
+    "explanation": "彪马与阿迪达斯是亲兄弟创立的：哥哥鲁道夫办了彪马，弟弟阿迪办了阿迪达斯。两家公司都在德国小镇赫尔佐格奥拉赫，中间只隔着一条河。"
+  },
+  {
+    "id": "picture-368",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这个腾空跃起、准备扣篮的剪影，是哪个球鞋品牌的标志？",
+    "image": "/questions/images/pic-logo-33.jpg",
+    "imageCredit": "Air Jordan Jumpman 标志｜来源：维基百科",
+    "options": [
+      "李宁",
+      "Air Jordan",
+      "匹克",
+      "安德玛"
+    ],
+    "correctAnswer": 1,
+    "explanation": "这个剪影的灵感来自1984年乔丹腾空跃起的一张照片，如今属于耐克旗下的乔丹品牌。中国还有一家名字相近的“乔丹体育”，与它并没有关系。"
+  },
+  {
+    "id": "picture-369",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这只绿色的小鳄鱼，是哪个服装品牌的标志？",
+    "image": "/questions/images/pic-logo-34.jpg",
+    "imageCredit": "拉科斯特鳄鱼标志（局部）｜来源：维基百科",
+    "options": [
+      "乔治·阿玛尼（Armani）",
+      "拉夫·劳伦（Ralph Lauren）",
+      "汤米·希尔费格（Tommy Hilfiger）",
+      "拉科斯特（Lacoste）"
+    ],
+    "correctAnswer": 3,
+    "explanation": "创始人是法国网球名将勒内·拉科斯特，他在球场上斗志顽强，被媒体称作“鳄鱼”，于是把鳄鱼绣到了球衣上。这个1933年推出的鳄鱼网球衫，也被认为是最早把品牌标志绣在衣服正面的服装之一。"
+  },
+  {
+    "id": "picture-370",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这个“菱形套菱形”的标志，是哪个足球装备品牌的？",
+    "image": "/questions/images/pic-logo-35.jpg",
+    "imageCredit": "茵宝双菱形标志（局部）｜来源：维基百科",
+    "options": [
+      "乐途",
+      "卡帕",
+      "茵宝",
+      "迪亚多纳"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Umbro 这个名字是“Humphrey Brothers”（汉弗莱兄弟）的缩写。它是英国老牌足球装备商，曾长期为英格兰国家队制作球衣。"
+  },
+  {
+    "id": "picture-371",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这四个符号是哪个游戏主机品牌手柄上的标志性按键？",
+    "image": "/questions/images/pic-logo-36.jpg",
+    "imageCredit": "PlayStation 按键符号｜来源：维基百科",
+    "options": [
+      "任天堂 Switch",
+      "Steam Deck",
+      "PlayStation",
+      "Xbox"
+    ],
+    "correctAnswer": 2,
+    "explanation": "设计师后藤禎祐给它们各配了含义和颜色：绿色三角是“视角”，红色圆圈是“确认”，蓝色叉是“取消”，粉色方块是“纸张/菜单”。"
+  },
+  {
+    "id": "picture-372",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这个绿色的镂空球体，是哪个游戏主机品牌的标志？",
+    "image": "/questions/images/pic-logo-37.jpg",
+    "imageCredit": "Xbox 标志｜来源：维基百科",
+    "options": [
+      "任天堂 Switch",
+      "Xbox",
+      "世嘉 Dreamcast",
+      "PlayStation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Xbox 的名字来自它最初的代号“DirectX Box”——微软的图形技术 DirectX 加上“盒子”。首代 Xbox 2001年发布，标志就是这颗绿色球体。"
+  },
+  {
+    "id": "picture-373",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这个紫色的对话框脸谱，是哪个直播平台的标志？",
+    "image": "/questions/images/pic-logo-38.jpg",
+    "imageCredit": "Twitch 标志｜来源：维基百科",
+    "options": [
+      "斗鱼",
+      "YouTube",
+      "虎牙",
+      "Twitch"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Twitch 由 Justin.tv 的游戏分区独立而成，2014年被亚马逊以约9.7亿美元收购，紫色成了它的标志色。"
+  },
+  {
+    "id": "picture-374",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这个圆形图标里的活塞与连杆图案，是哪个游戏平台的标志？",
+    "image": "/questions/images/pic-logo-39.jpg",
+    "imageCredit": "Steam 图标｜来源：维基百科",
+    "options": [
+      "Epic 游戏商城",
+      "Origin",
+      "战网",
+      "Steam"
+    ],
+    "correctAnswer": 3,
+    "explanation": "“Steam”是“蒸汽”，标志里的活塞连杆就是蒸汽机的意象。V 社2003年推出它，最初只是为了给《反恐精英》等自家游戏做自动更新。"
+  },
+  {
+    "id": "picture-375",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这个红底上的白色“富士山”图案，是哪个游戏公司的标志？",
+    "image": "/questions/images/pic-logo-40.jpg",
+    "imageCredit": "雅达利 Fuji 标志（局部）｜来源：维基百科",
+    "options": [
+      "世嘉",
+      "任天堂",
+      "雅达利",
+      "南梦宫"
+    ],
+    "correctAnswer": 2,
+    "explanation": "“Atari”在围棋里是“叫吃”的意思。这枚1972年由乔治·奥珀曼设计的 Fuji 标志，既像字母 A，也像《乓》游戏里两名玩家隔着球网对打的示意图。"
+  },
+  {
+    "id": "picture-376",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这朵红色的花瓣状图案，是哪家中国科技公司的标志？",
+    "image": "/questions/images/pic-logo-41.jpg",
+    "imageCredit": "华为标志（局部）｜来源：维基百科",
+    "options": [
+      "中兴",
+      "小米",
+      "OPPO",
+      "华为"
+    ],
+    "correctAnswer": 3,
+    "explanation": "“华为”取自“中华有为”。这朵由红色花瓣聚拢而成的花是2006年启用的新标志，网友常戏称它是“菊花”。"
+  },
+  {
+    "id": "picture-377",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这两个相叠的对话气泡，是哪款App的标志？",
+    "image": "/questions/images/pic-logo-42.jpg",
+    "imageCredit": "微信标志（局部）｜来源：维基百科",
+    "options": [
+      "微信",
+      "QQ",
+      "钉钉",
+      "陌陌"
+    ],
+    "correctAnswer": 0,
+    "explanation": "微信2011年1月上线，最初只能发文字和图片。图标里的两个气泡各长着一对小“眼睛”，像是两个人在聊天。"
+  },
+  {
+    "id": "picture-378",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "这只戴着红围巾的小企鹅，是哪款聊天软件的标志？",
+    "image": "/questions/images/pic-logo-43.jpg",
+    "imageCredit": "QQ 企鹅标志｜来源：维基百科",
+    "options": [
+      "钉钉",
+      "飞信",
+      "QQ",
+      "微信"
+    ],
+    "correctAnswer": 2,
+    "explanation": "QQ 前身叫 OICQ，1999年上线；因为被 ICQ 的母公司 AOL 起诉，2000年改名为 QQ。"
+  },
+  {
+    "id": "picture-379",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这个带着红青错位拖影的音符，是哪款短视频App的标志？",
+    "image": "/questions/images/pic-logo-44.jpg",
+    "imageCredit": "抖音标志（局部）｜来源：维基百科",
+    "options": [
+      "抖音",
+      "快手",
+      "微视",
+      "小红书"
+    ],
+    "correctAnswer": 0,
+    "explanation": "抖音2016年9月上线时叫 A.me，同年12月才改名“抖音”。图标里错位的红青双色制造出“抖动”的视觉效果，海外版叫 TikTok。"
+  },
+  {
+    "id": "picture-380",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这个戴着王冠、手持冰淇淋权杖的雪人，是哪个茶饮品牌的形象？",
+    "image": "/questions/images/pic-logo-45.jpg",
+    "imageCredit": "蜜雪冰城雪王形象（局部）｜来源：维基百科",
+    "options": [
+      "古茗",
+      "沪上阿姨",
+      "书亦烧仙草",
+      "蜜雪冰城"
+    ],
+    "correctAnswer": 3,
+    "explanation": "他叫“雪王”。蜜雪冰城1997年从河南郑州的一个刨冰小摊起家，2021年那首“你爱我，我爱你”的主题曲火遍全网。"
+  },
+  {
+    "id": "picture-381",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这个头顶两根天线的小电视，是哪个视频网站的标志？",
+    "image": "/questions/images/pic-logo-46.jpg",
+    "imageCredit": "哔哩哔哩小电视标志（局部）｜来源：维基百科",
+    "options": [
+      "腾讯视频",
+      "优酷",
+      "爱奇艺",
+      "哔哩哔哩"
+    ],
+    "correctAnswer": 3,
+    "explanation": "“哔哩哔哩”的名字来自动画《某科学的超电磁炮》里主角御坂美琴的外号（指放电的拟声）。它的前身是2009年创办的 Mikufans。"
+  },
+  {
+    "id": "picture-382",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这个蓝色的鹿头，是哪个咖啡连锁品牌的标志？",
+    "image": "/questions/images/pic-logo-47.jpg",
+    "imageCredit": "瑞幸咖啡小鹿标志（局部）｜来源：维基百科",
+    "options": [
+      "瑞幸咖啡",
+      "库迪咖啡",
+      "星巴克",
+      "Costa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "标志里的小鹿象征“幸运”（luck 就是幸运）。瑞幸2017年才成立，到2018年底门店就超过了两千家，扩张速度惊人。"
+  },
+  {
+    "id": "picture-383",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这个黑色剪影是哪位经典卡通形象？",
+    "image": "/questions/images/pic-char-01.jpg",
+    "imageCredit": "米老鼠（剪影处理）｜来源：PNGimg",
+    "options": [
+      "唐老鸭",
+      "米妮",
+      "高飞",
+      "米老鼠"
+    ],
+    "correctAnswer": 3,
+    "explanation": "米老鼠1928年随动画《汽船威利号》走红。据说华特·迪士尼最初想叫他“莫蒂默”，是妻子莉莲嫌太拗口，才改成了“米奇”。"
+  },
+  {
+    "id": "picture-384",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这只獠牙外露的疣猪，是《狮子王》里辛巴的哪位好友？",
+    "image": "/questions/images/pic-char-02.jpg",
+    "imageCredit": "彭彭（狮子王）｜来源：Fandom",
+    "options": [
+      "丁满",
+      "彭彭",
+      "沙祖",
+      "拉飞奇"
+    ],
+    "correctAnswer": 1,
+    "explanation": "彭彭（Pumbaa）在斯瓦希里语里有“傻乎乎”的意思。它和狐獴丁满奉行的“Hakuna Matata（无忧无虑）”，陪辛巴度过了流亡岁月。"
+  },
+  {
+    "id": "picture-385",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这只总是垂头丧气的蓝灰色小毛驴，是《小熊维尼》里的谁？",
+    "image": "/questions/images/pic-char-03.jpg",
+    "imageCredit": "屹耳（小熊维尼）｜来源：thekimfoundation.org（矢量插画）",
+    "options": [
+      "小猪皮杰",
+      "兔子",
+      "跳跳虎",
+      "屹耳"
+    ],
+    "correctAnswer": 3,
+    "explanation": "屹耳（Eeyore）的名字模仿的是驴叫声“咿——呦”。他的尾巴是钉上去的，还三天两头弄丢，小伙伴们没少帮他找尾巴。"
+  },
+  {
+    "id": "picture-386",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这只黑鬃毛、绿眼睛的狮子，是《狮子王》里的谁？",
+    "image": "/questions/images/pic-char-04.jpg",
+    "imageCredit": "刀疤（狮子王）｜来源：Fandom",
+    "options": [
+      "沙祖",
+      "刀疤",
+      "木法沙",
+      "辛巴"
+    ],
+    "correctAnswer": 1,
+    "explanation": "刀疤是辛巴的叔叔，1994年原版里由英国演员杰瑞米·艾恩斯配音。他那首阴森华丽的反派歌曲《Be Prepared》，是迪士尼最经典的反派唱段之一。"
+  },
+  {
+    "id": "picture-387",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这只趴着的蓝色圆脸卡通形象是谁？",
+    "image": "/questions/images/pic-char-05.jpg",
+    "imageCredit": "哆啦A梦｜来源：Wallpaper Cave",
+    "options": [
+      "哆啦A梦",
+      "蓝猫",
+      "史迪奇",
+      "蓝精灵"
+    ],
+    "correctAnswer": 0,
+    "explanation": "哆啦A梦最爱吃铜锣烧，最怕老鼠——设定里他的耳朵被机器鼠啃掉，伤心大哭后连身体都哭成了蓝色。他的生日是2112年9月3日。"
+  },
+  {
+    "id": "picture-388",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位戴眼镜的小学生侦探是谁？",
+    "image": "/questions/images/pic-char-06.jpg",
+    "imageCredit": "江户川柯南｜来源：Fandom",
+    "options": [
+      "金田一一",
+      "怪盗基德",
+      "江户川柯南",
+      "服部平次"
+    ],
+    "correctAnswer": 2,
+    "explanation": "“江户川柯南”这个名字取自推理作家江户川乱步和柯南·道尔。他其实是被黑衣组织灌下药物、身体缩小的高中生侦探工藤新一。"
+  },
+  {
+    "id": "picture-389",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位戴草帽的少年，是《海贼王》里的谁？",
+    "image": "/questions/images/pic-char-07.jpg",
+    "imageCredit": "蒙奇·D·路飞（海贼王）｜来源：Pinterest",
+    "options": [
+      "山治",
+      "艾斯",
+      "乌索普",
+      "路飞"
+    ],
+    "correctAnswer": 3,
+    "explanation": "路飞吃了橡胶果实，成了不会游泳的橡胶人，却也因此对电击免疫。他头上的草帽，是红发香克斯托付给他的。"
+  },
+  {
+    "id": "picture-390",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这只戴粉色帽子的小驯鹿，是草帽海贼团的哪位成员？",
+    "image": "/questions/images/pic-char-08.jpg",
+    "imageCredit": "托尼托尼·乔巴（海贼王）｜来源：Fandom",
+    "options": [
+      "弗兰奇",
+      "乔巴",
+      "布鲁克",
+      "乌索普"
+    ],
+    "correctAnswer": 1,
+    "explanation": "乔巴吃了“人人果实”，从普通驯鹿变成能说话、能变身的半人半兽，是草帽团的船医，梦想是成为能治百病的名医。"
+  },
+  {
+    "id": "picture-391",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位身穿蓝色战斗服的赛亚人，是《龙珠》里的谁？",
+    "image": "/questions/images/pic-char-09.jpg",
+    "imageCredit": "贝吉塔（龙珠）｜来源：PNG Mart",
+    "options": [
+      "孙悟空",
+      "特兰克斯",
+      "孙悟饭",
+      "贝吉塔"
+    ],
+    "correctAnswer": 3,
+    "explanation": "赛亚人的名字大多取自蔬菜：Vegeta 来自 vegetable，悟空的赛亚名 Kakarot 来自 carrot。贝吉塔是赛亚人的王子，从死对头一路变成悟空的宿敌兼盟友。"
+  },
+  {
+    "id": "picture-392",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位面无表情、戴着木叶护额的黑发少年，是《火影忍者》里的谁？",
+    "image": "/questions/images/pic-char-10.jpg",
+    "imageCredit": "宇智波佐助（火影忍者）｜来源：Fandom",
+    "options": [
+      "宇智波带土",
+      "旗木卡卡西",
+      "宇智波鼬",
+      "宇智波佐助"
+    ],
+    "correctAnswer": 3,
+    "explanation": "佐助的名字取自日本传说中的忍者“猿飞佐助”。他出身宇智波一族，那双能看穿招式的“写轮眼”是家族的标志。"
+  },
+  {
+    "id": "picture-393",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位三丽鸥的“头牌明星”是谁？",
+    "image": "/questions/images/pic-char-11.jpg",
+    "imageCredit": "Hello Kitty｜来源：FreePNGLogo",
+    "options": [
+      "玉桂狗",
+      "美乐蒂",
+      "Hello Kitty",
+      "布丁狗"
+    ],
+    "correctAnswer": 2,
+    "explanation": "据三丽鸥的官方说法，Hello Kitty 其实不是猫，而是来自伦敦郊外的小女孩，全名凯蒂·怀特，生日是11月1日。"
+  },
+  {
+    "id": "picture-394",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位蘑菇头、穿红裙背带裙的小学生是谁？",
+    "image": "/questions/images/pic-char-12.jpg",
+    "imageCredit": "樱桃小丸子｜来源：DeviantArt",
+    "options": [
+      "樱桃小丸子",
+      "千寻",
+      "小樱",
+      "静香"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《樱桃小丸子》是漫画家樱桃子以自己的童年为原型创作的，故事发生在静冈县清水市，动画自1990年开播，至今仍是日本国民级作品。"
+  },
+  {
+    "id": "picture-395",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这只灰蓝色的猫是谁？",
+    "image": "/questions/images/pic-char-13.jpg",
+    "imageCredit": "汤姆猫｜来源：CartoniOnline",
+    "options": [
+      "汤姆猫",
+      "蓝猫",
+      "菲力猫",
+      "加菲猫"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《猫和老鼠》1940年首播，先后拿下7次奥斯卡最佳动画短片奖。汤姆在第一部短片里其实叫“杰斯珀”，全片几乎没有对白，全靠动作和配乐。"
+  },
+  {
+    "id": "picture-396",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这个毛茸茸的“森林守护者”是宫崎骏动画里的谁？",
+    "image": "/questions/images/pic-char-14.jpg",
+    "imageCredit": "龙猫｜来源：Fandom",
+    "options": [
+      "无脸男",
+      "黑猫吉吉",
+      "龙猫",
+      "卡尔西法"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《龙猫》1988年与《萤火虫之墓》同场公映。“托托罗”这个名字来自小梅：她把故事里的“巨魔（troll）”念成了“托托罗”。"
+  },
+  {
+    "id": "picture-397",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这只独眼绿色怪物，是《怪兽电力公司》里的谁？",
+    "image": "/questions/images/pic-char-15.jpg",
+    "imageCredit": "大眼仔（怪兽电力公司）｜来源：SeekPNG",
+    "options": [
+      "阿布",
+      "三眼仔",
+      "毛怪",
+      "大眼仔"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《怪兽电力公司》2001年上映，大眼仔由比利·克里斯特尔配音，搭档毛怪由约翰·古德曼配音。前者负责幕后当助理，后者才是公司的金牌吓人员。"
+  },
+  {
+    "id": "picture-398",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这个躺在雪地里做“雪天使”的小雪人，出自哪部迪士尼动画？",
+    "image": "/questions/images/pic-char-16.jpg",
+    "imageCredit": "雪宝（冰雪奇缘）｜来源：Wallpaper Cave",
+    "options": [
+      "冰雪奇缘",
+      "疯狂动物城",
+      "海洋奇缘",
+      "魔发奇缘"
+    ],
+    "correctAnswer": 0,
+    "explanation": "雪宝由乔许·盖德配音，最大的梦想是体验夏天和暖暖的拥抱——虽然他是个雪人。他是艾莎童年造出的雪人，被魔法唤醒后有了生命。"
+  },
+  {
+    "id": "picture-399",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这个粉色圆球，是《任天堂明星大乱斗》里的哪位选手？",
+    "image": "/questions/images/pic-char-17.jpg",
+    "imageCredit": "星之卡比｜来源：Super Mario Wiki",
+    "options": [
+      "胖丁",
+      "卡比",
+      "耀西",
+      "皮卡丘"
+    ],
+    "correctAnswer": 1,
+    "explanation": "星之卡比由樱井政博创作，1992年在 Game Boy 上首次登场，开发时的代号叫“Popopo”。他能把敌人吸进肚子，还能复制对方的能力。"
+  },
+  {
+    "id": "picture-400",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这只绿色小恐龙，最早出现在哪部游戏里？",
+    "image": "/questions/images/pic-char-18.jpg",
+    "imageCredit": "耀西｜来源：Super Mario Wiki",
+    "options": [
+      "超级马里奥64",
+      "超级马里奥兄弟",
+      "超级马里奥世界",
+      "超级马里奥兄弟3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "耀西1990年在《超级马里奥世界》首次登场。据说宫本茂早在1985年做初代时就想让马里奥骑上恐龙般的坐骑，受限于当时的机能，五年后才实现。"
+  },
+  {
+    "id": "picture-401",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位穿黄紫配色的家伙，是马里奥的哪位死对头？",
+    "image": "/questions/images/pic-char-19.jpg",
+    "imageCredit": "瓦里奥｜来源：StickPNG",
+    "options": [
+      "库巴",
+      "瓦里奥",
+      "瓦路易吉",
+      "大金刚"
+    ],
+    "correctAnswer": 1,
+    "explanation": "瓦里奥的名字来自日语“warui（坏）”加上“马里奥”，意思就是“坏马里奥”。他贪财、爱大蒜，1992年首次登场，后来自己也主演了系列游戏。"
+  },
+  {
+    "id": "picture-402",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位戴白色尖刺拳套的红色角色，是《索尼克》系列里的谁？",
+    "image": "/questions/images/pic-char-20.jpg",
+    "imageCredit": "纳克鲁斯（索尼克）｜来源：PNG Mart",
+    "options": [
+      "塔尔斯",
+      "蛋头博士",
+      "艾米",
+      "纳克鲁斯"
+    ],
+    "correctAnswer": 3,
+    "explanation": "纳克鲁斯是索尼克系列里的针鼹，负责看守漂浮岛上的“主宝石”。他1994年在《刺猬索尼克3》里首次登场，最初还被蛋头博士骗去当了索尼克的对手。"
+  },
+  {
+    "id": "picture-403",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这只蓝色刺猬，是哪家游戏公司的招牌角色？",
+    "image": "/questions/images/pic-char-21.jpg",
+    "imageCredit": "索尼克｜来源：Zerochan",
+    "options": [
+      "万代南梦宫",
+      "卡普空",
+      "世嘉（SEGA）",
+      "任天堂"
+    ],
+    "correctAnswer": 2,
+    "explanation": "索尼克诞生于1991年，是世嘉为了与任天堂的马里奥竞争而推出的吉祥物，名字取自“音速（Sonic）”，招牌能力就是跑得极快。"
+  },
+  {
+    "id": "picture-404",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位蓝色的机器人英雄是谁？",
+    "image": "/questions/images/pic-char-22.jpg",
+    "imageCredit": "洛克人（Mega Man）｜来源：PNG Mart",
+    "options": [
+      "超人",
+      "洛克人",
+      "铁臂阿童木",
+      "索尼克"
+    ],
+    "correctAnswer": 1,
+    "explanation": "洛克人1987年诞生于卡普空，日版名叫“Rockman”，妹妹叫Roll，合起来正是“Rock and Roll”。美版才改名为 Mega Man。"
+  },
+  {
+    "id": "picture-405",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这株绿色植物战士叫什么？",
+    "image": "/questions/images/pic-char-23.jpg",
+    "imageCredit": "豌豆射手（植物大战僵尸）｜来源：Fandom",
+    "options": [
+      "豌豆射手",
+      "寒冰射手",
+      "双发射手",
+      "机枪射手"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《植物大战僵尸》2009年由宝开公司发布，主设计师是乔治·范。豌豆射手是玩家最先拿到的攻击植物，第一关就靠它守住草坪。"
+  },
+  {
+    "id": "picture-406",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这张方块脸，属于《我的世界》里的哪种怪物？",
+    "image": "/questions/images/pic-char-24.jpg",
+    "imageCredit": "苦力怕（我的世界）｜来源：TurboSquid",
+    "options": [
+      "苦力怕",
+      "骷髅",
+      "末影人",
+      "僵尸"
+    ],
+    "correctAnswer": 0,
+    "explanation": "据开发者诺奇自己说，苦力怕是他做“猪”的模型时不小心把长和高弄反了，猪变成了细长的绿色怪物，反而成了游戏最出名的形象。"
+  },
+  {
+    "id": "picture-407",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位漂浮的白发小向导，出自哪款游戏？",
+    "image": "/questions/images/pic-char-25.jpg",
+    "imageCredit": "派蒙（原神）｜来源：Wallhere",
+    "options": [
+      "明日方舟",
+      "原神",
+      "鸣潮",
+      "崩坏：星穹铁道"
+    ],
+    "correctAnswer": 1,
+    "explanation": "派蒙是《原神》里陪伴旅行者的向导，名字与西方魔神学中的恶魔“帕伊蒙”同源。玩家还给她起了个梗外号“应急食品”。"
+  },
+  {
+    "id": "picture-408",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位扛着金箍棒的猴形主角，来自哪款国产3A游戏？",
+    "image": "/questions/images/pic-char-26.jpg",
+    "imageCredit": "天命人（黑神话：悟空）｜来源：UHDPaper",
+    "options": [
+      "王者荣耀",
+      "黑神话：悟空",
+      "永劫无间",
+      "原神"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《黑神话：悟空》由游戏科学开发，2024年8月20日发售，取材自《西游记》，首发三天全球销量就突破1000万套。"
+  },
+  {
+    "id": "picture-409",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这个剪影是哪只宝可梦？",
+    "image": "/questions/images/pic-char-27.jpg",
+    "imageCredit": "皮卡丘（剪影处理）｜来源：PokeAPI（宝可梦官方立绘）",
+    "options": [
+      "皮卡丘",
+      "皮丘",
+      "雷丘",
+      "电击兽"
+    ],
+    "correctAnswer": 0,
+    "explanation": "皮卡丘的名字来自日语拟声词：“ピカ”是闪电的光，“チュウ”是老鼠的叫声。它在图鉴里的编号是025，日语版配音一直是大谷育江。"
+  },
+  {
+    "id": "picture-410",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这只总是抱头发愁的宝可梦是谁？",
+    "image": "/questions/images/pic-char-28.jpg",
+    "imageCredit": "可达鸭｜来源：PokeAPI（宝可梦官方立绘）",
+    "options": [
+      "呆呆兽",
+      "可达鸭",
+      "哥达鸭",
+      "胖丁"
+    ],
+    "correctAnswer": 1,
+    "explanation": "据图鉴记载，可达鸭总被头痛困扰，一旦头痛到极限，就会使出神秘的力量。在动画里，它是小霞的宝可梦，还老是自己从精灵球里跑出来。"
+  },
+  {
+    "id": "picture-411",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这个粉色的“太空豆子人”，是哪款游戏的角色？",
+    "image": "/questions/images/pic-char-29.jpg",
+    "imageCredit": "Among Us 船员｜来源：Wallpapers.com",
+    "options": [
+      "第五人格",
+      "Among Us",
+      "糖豆人",
+      "蛋仔派对"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《Among Us》2018年上线，直到2020年借着主播联机才突然爆红，中文玩家叫它“太空狼人杀”。"
+  },
+  {
+    "id": "picture-412",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "这个披着斗篷的黑色剪影是谁？",
+    "image": "/questions/images/pic-char-30.jpg",
+    "imageCredit": "蝙蝠侠（剪影处理）｜来源：PNGall",
+    "options": [
+      "黑豹",
+      "蝙蝠侠",
+      "德古拉",
+      "超人"
+    ],
+    "correctAnswer": 1,
+    "explanation": "蝙蝠侠1939年首次登场于《侦探漫画》第27期，由鲍勃·凯恩和比尔·芬格创作。据说蝙蝠造型的灵感来自达·芬奇画的扑翼机草图。"
+  },
+  {
+    "id": "picture-413",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这副红金配色的头盔，属于漫威的哪位超级英雄？",
+    "image": "/questions/images/pic-char-31.jpg",
+    "imageCredit": "钢铁侠｜来源：Wallpapers.com",
+    "options": [
+      "蚁人",
+      "猎鹰",
+      "战争机器",
+      "钢铁侠"
+    ],
+    "correctAnswer": 3,
+    "explanation": "2008年的《钢铁侠》由小罗伯特·唐尼主演，正是这部电影拉开了漫威电影宇宙的序幕。"
+  },
+  {
+    "id": "picture-414",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这位一发怒就会变身的绿色巨人是谁？",
+    "image": "/questions/images/pic-char-32.jpg",
+    "imageCredit": "绿巨人｜来源：Pinterest",
+    "options": [
+      "绿巨人",
+      "灭霸",
+      "史莱克",
+      "毒液"
+    ],
+    "correctAnswer": 0,
+    "explanation": "绿巨人的真身是科学家布鲁斯·班纳。1962年漫画创刊号里他其实是灰色皮肤，因为印刷效果不稳定，第二期起才改成了绿色。"
+  },
+  {
+    "id": "picture-415",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这个蓝白相间的小机器人，是《星球大战》里的谁？",
+    "image": "/questions/images/pic-char-33.jpg",
+    "imageCredit": "R2-D2｜来源：Fandom",
+    "options": [
+      "C-3PO",
+      "K-2SO",
+      "R2-D2",
+      "BB-8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "R2-D2 只会“哔哔”叫，却和金色的 C-3PO 一起出现在《星球大战》全部九部主线电影里，堪称系列里最资深的“演员”。"
+  },
+  {
+    "id": "picture-416",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位长脖子的外星访客，是哪部电影的主角？",
+    "image": "/questions/images/pic-char-34.jpg",
+    "imageCredit": "E.T.｜来源：Pinterest",
+    "options": [
+      "异形",
+      "独立日",
+      "第三类接触",
+      "E.T.外星人"
+    ],
+    "correctAnswer": 3,
+    "explanation": "斯皮尔伯格的《E.T.外星人》1982年上映，曾长期稳坐影史票房冠军。E.T.那把沙哑的嗓音来自一位烟瘾很大的老太太佩特·韦尔什。"
+  },
+  {
+    "id": "picture-417",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "这双像望远镜一样的大眼睛，属于哪位动画片里的机器人？",
+    "image": "/questions/images/pic-char-35.jpg",
+    "imageCredit": "瓦力（WALL·E，局部）｜来源：NicePNG",
+    "options": [
+      "瓦力",
+      "铁巨人",
+      "大白",
+      "伊芙"
+    ],
+    "correctAnswer": 0,
+    "explanation": "WALL·E 是“Waste Allocation Load Lifter – Earth-Class”的缩写，意为“地球级垃圾分配搬运机”。这部2008年的影片前半段几乎没有对白。"
+  },
+  {
+    "id": "picture-418",
+    "category": "picture",
+    "difficulty": "easy",
+    "question": "图中这个白色大眼罩的红色面罩，属于哪位英雄？",
+    "image": "/questions/images/pic-char-36.jpg",
+    "imageCredit": "蜘蛛侠（面罩局部）｜来源：Wallpapers.com",
+    "options": [
+      "死侍",
+      "毒液",
+      "蜘蛛侠",
+      "黑豹"
+    ],
+    "correctAnswer": 2,
+    "explanation": "蜘蛛侠彼得·帕克1962年首次亮相时只是个高中生，打破了当时“少年只能给成年英雄当助手”的惯例。"
+  },
+  {
+    "id": "picture-419",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这只背鳍泛着蓝光的巨兽是谁？",
+    "image": "/questions/images/pic-char-37.jpg",
+    "imageCredit": "哥斯拉｜来源：Future plc 图库（futurecdn.net）",
+    "options": [
+      "哥斯拉",
+      "金刚",
+      "魔斯拉",
+      "加美拉"
+    ],
+    "correctAnswer": 0,
+    "explanation": "哥斯拉1954年诞生于日本东宝，日文名“ゴジラ”由“大猩猩（ゴリラ）”和“鲸（クジラ）”拼合而成，最初象征着核武器的恐怖。"
+  },
+  {
+    "id": "picture-420",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这只穿棕色长袍的小绿人，是《曼达洛人》里的哪个角色？",
+    "image": "/questions/images/pic-char-38.jpg",
+    "imageCredit": "格罗古（曼达洛人）｜来源：HDWallpapers.in",
+    "options": [
+      "尤达大师",
+      "伊沃克",
+      "楚巴卡",
+      "格罗古"
+    ],
+    "correctAnswer": 3,
+    "explanation": "格罗古2019年随《曼达洛人》首播走红，被观众叫作“尤达宝宝”。他看起来像个婴儿，其实已经50岁了。"
+  },
+  {
+    "id": "picture-421",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位紫色皮肤的宇宙级反派是谁？",
+    "image": "/questions/images/pic-char-39.jpg",
+    "imageCredit": "灭霸｜来源：Vox Media",
+    "options": [
+      "灭霸",
+      "达克赛德",
+      "毒液",
+      "洛基"
+    ],
+    "correctAnswer": 0,
+    "explanation": "灭霸（Thanos）的名字来自希腊神话中的死神塔纳托斯（Thanatos）。在漫画里，他收集无限宝石的动机是要向“死亡”女神表达爱意。"
+  },
+  {
+    "id": "picture-422",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位戴着白色制服帽的小猫是谁？",
+    "image": "/questions/images/pic-char-40.jpg",
+    "imageCredit": "黑猫警长｜来源：中国新闻网",
+    "options": [
+      "蓝猫",
+      "加菲猫",
+      "黑猫警长",
+      "汤姆猫"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《黑猫警长》1984年由上海美术电影制片厂推出，只拍了五集。反派“一只耳”是一只狡猾的老鼠，成了几代人的童年阴影。"
+  },
+  {
+    "id": "picture-423",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这位白胡子的羊村长老是谁？",
+    "image": "/questions/images/pic-char-41.jpg",
+    "imageCredit": "慢羊羊（喜羊羊与灰太狼）｜来源：萌娘百科",
+    "options": [
+      "慢羊羊",
+      "沸羊羊",
+      "懒羊羊",
+      "暖羊羊"
+    ],
+    "correctAnswer": 0,
+    "explanation": "慢羊羊是羊村的村长，也是位发明家，常拿出各种奇怪发明。《喜羊羊与灰太狼》2005年首播，是国产动画里最长寿的系列之一。"
+  },
+  {
+    "id": "picture-424",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这只脸上缝着针线的狼是谁？",
+    "image": "/questions/images/pic-char-42.jpg",
+    "imageCredit": "灰太狼（喜羊羊与灰太狼）｜来源：萌娘百科",
+    "options": [
+      "灰太狼",
+      "懒羊羊",
+      "小灰灰",
+      "红太狼"
+    ],
+    "correctAnswer": 0,
+    "explanation": "灰太狼的口头禅是“我一定会回来的！”，而红太狼手里那口平底锅，是国产动画里最有名的“武器”之一。"
+  },
+  {
+    "id": "picture-425",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位戴橙色安全帽的伐木工是谁？",
+    "image": "/questions/images/pic-char-43.jpg",
+    "imageCredit": "光头强（熊出没）｜来源：萌娘百科",
+    "options": [
+      "李老板",
+      "吉吉国王",
+      "光头强",
+      "灰太狼"
+    ],
+    "correctAnswer": 2,
+    "explanation": "光头强是《熊出没》里的伐木工，总想砍光森林，却每次都被熊大熊二搅黄。《熊出没》2012年开播，同名贺岁电影自2014年起几乎每年上映。"
+  },
+  {
+    "id": "picture-426",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这只憨憨的黄褐色大熊是谁？",
+    "image": "/questions/images/pic-char-44.jpg",
+    "imageCredit": "熊二（熊出没）｜来源：百度图片",
+    "options": [
+      "熊本熊",
+      "熊二",
+      "熊大",
+      "小熊维尼"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《熊出没》里，熊大聪明沉稳，熊二憨厚贪吃、最爱蜂蜜。两兄弟和伐木工光头强斗智斗勇，是一代孩子的童年回忆。"
+  },
+  {
+    "id": "picture-427",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位穿着树叶裙的小英雄，出自哪部经典国产动画？",
+    "image": "/questions/images/pic-char-45.jpg",
+    "imageCredit": "大娃（葫芦娃）｜来源：37网游",
+    "options": [
+      "哪吒闹海",
+      "小蝌蚪找妈妈",
+      "宝莲灯",
+      "葫芦兄弟"
+    ],
+    "correctAnswer": 3,
+    "explanation": "《葫芦兄弟》（俗称“葫芦娃”）由上海美术电影制片厂1986年推出，共13集。七个兄弟各有神通，大娃力大无穷，二娃能千里眼顺风耳，三娃是铜头铁臂。"
+  },
+  {
+    "id": "picture-428",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位顶着“烟熏妆”的魔童，是谁？",
+    "image": "/questions/images/pic-char-46.jpg",
+    "imageCredit": "哪吒（哪吒之魔童降世）｜来源：石桥科技",
+    "options": [
+      "杨戬",
+      "敖丙",
+      "哪吒",
+      "太乙真人"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2019年《哪吒之魔童降世》上映，票房约50亿元，创下当时国产动画电影的纪录。片中“烟熏妆、痞帅”的哪吒造型，颠覆了传统的正派小英雄形象。"
+  },
+  {
+    "id": "picture-429",
+    "category": "picture",
+    "difficulty": "hard",
+    "question": "图中这对握手的小老鼠搭档，是童话大王郑渊洁笔下的谁？",
+    "image": "/questions/images/pic-char-47.jpg",
+    "imageCredit": "舒克和贝塔｜来源：界面新闻",
+    "options": [
+      "米奇和米妮",
+      "汤姆和杰瑞",
+      "舒克和贝塔",
+      "蓝皮鼠和大脸猫"
+    ],
+    "correctAnswer": 2,
+    "explanation": "舒克是开飞机的飞行员，贝塔是开坦克的坦克手，两只小老鼠一起开着飞机和坦克闯荡世界，出自郑渊洁的童话。"
+  },
+  {
+    "id": "picture-430",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这只神气十足的美猴王，出自哪部经典国产动画？",
+    "image": "/questions/images/pic-char-48.jpg",
+    "imageCredit": "孙悟空（大闹天宫）｜来源：哔哩哔哩",
+    "options": [
+      "天书奇谭",
+      "宝莲灯",
+      "大闹天宫",
+      "哪吒闹海"
+    ],
+    "correctAnswer": 2,
+    "explanation": "《大闹天宫》由万籁鸣执导，上海美术电影制片厂1961年推出上集、1964年推出下集，画风借鉴了京剧脸谱和中国传统绘画，孙悟空的形象至今是国产动画的标杆。"
+  },
+  {
+    "id": "picture-431",
+    "category": "picture",
+    "difficulty": "medium",
+    "question": "图中这位扛着金箍棒的“美猴王”，是哪位演员的经典扮相？",
+    "image": "/questions/images/pic-char-49.jpg",
+    "imageCredit": "86版《西游记》孙悟空（剧照）｜来源：搜狐",
+    "options": [
+      "周星驰",
+      "甄子丹",
+      "郭富城",
+      "六小龄童"
+    ],
+    "correctAnswer": 3,
+    "explanation": "六小龄童出身猴戏世家，在1986年版电视剧《西游记》里饰演孙悟空，前后耗时数年拍摄。周星驰、甄子丹、郭富城也都在影视作品里演过孙悟空。"
+  }
+]
