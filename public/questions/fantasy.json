@@ -1,0 +1,702 @@
+[
+  {
+    "id": "fantasy-001",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "史莱克七怪中食物系魂师是？",
+    "options": [
+      "唐三",
+      "马红俊",
+      "奥斯卡",
+      "戴沐白"
+    ],
+    "correctAnswer": 2,
+    "explanation": "奥斯卡武魂香肠，是食物系天才魂师。"
+  },
+  {
+    "id": "fantasy-002",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "叶凡的体质是？",
+    "options": [
+      "苍天霸体",
+      "先天道胎",
+      "荒古圣体",
+      "混沌体"
+    ],
+    "correctAnswer": 2,
+    "explanation": "荒古圣体号称大成可叫板大帝。"
+  },
+  {
+    "id": "fantasy-003",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "白小纯毕生追求的是？",
+    "options": [
+      "美女如云",
+      "富甲天下",
+      "长生不死",
+      "权倾朝野"
+    ],
+    "correctAnswer": 2,
+    "explanation": "白小纯修仙的唯一目标就是长生不死。"
+  },
+  {
+    "id": "fantasy-004",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "天才战中被称为“疯子”的是？",
+    "options": [
+      "陇云",
+      "伯兰",
+      "戎钧",
+      "罗峰"
+    ],
+    "correctAnswer": 3,
+    "explanation": "罗峰战斗疯狂，被称为疯子。"
+  },
+  {
+    "id": "fantasy-005",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "罗峰最终奴役的界兽名叫？",
+    "options": [
+      "漠河",
+      "贝迪",
+      "齐亚",
+      "摩罗撒"
+    ],
+    "correctAnswer": 3,
+    "explanation": "罗峰奴役界兽摩罗撒，平定界兽之劫。"
+  },
+  {
+    "id": "fantasy-006",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "唐三的第一武魂是？",
+    "options": [
+      "蓝银皇",
+      "昊天锤",
+      "修罗剑",
+      "蓝银草"
+    ],
+    "correctAnswer": 3,
+    "explanation": "蓝银草看似废武魂，实则是蓝银皇血脉。"
+  },
+  {
+    "id": "fantasy-007",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "王林神识的极致杀手锏境界是？",
+    "options": [
+      "玄境",
+      "道境",
+      "极境",
+      "空境"
+    ],
+    "correctAnswer": 2,
+    "explanation": "极境是王林神识达到的极致境界，杀人于无形。"
+  },
+  {
+    "id": "fantasy-008",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "人称“缺德道士”的是？",
+    "options": [
+      "叶凡",
+      "黑皇",
+      "段德",
+      "庞博"
+    ],
+    "correctAnswer": 2,
+    "explanation": "段德是缺德道士，专挖坟掘墓。"
+  },
+  {
+    "id": "fantasy-009",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "“元婴”之后的境界是？",
+    "options": [
+      "窥涅",
+      "婴变",
+      "问鼎",
+      "化神"
+    ],
+    "correctAnswer": 3,
+    "explanation": "元婴之后为化神，再后是婴变。"
+  },
+  {
+    "id": "fantasy-010",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "王林进入过的仙界是？",
+    "options": [
+      "风之仙界",
+      "电之仙界",
+      "雷之仙界",
+      "雨之仙界"
+    ],
+    "correctAnswer": 3,
+    "explanation": "仙界崩溃后，王林进入过雨之仙界碎片。"
+  },
+  {
+    "id": "fantasy-011",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "合并成逆河宗的四宗是？",
+    "options": [
+      "丹溪、器溪、符溪、阵溪",
+      "灵溪、血溪、风溪、云溪",
+      "通天、逆河、星空、道极",
+      "灵溪、血溪、丹溪、玄溪"
+    ],
+    "correctAnswer": 3,
+    "explanation": "四宗合并，共抗强敌，成立逆河宗。"
+  },
+  {
+    "id": "fantasy-012",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "唐三的第二武魂是？",
+    "options": [
+      "蓝银草",
+      "八蛛矛",
+      "海神戟",
+      "昊天锤"
+    ],
+    "correctAnswer": 3,
+    "explanation": "昊天锤是天下第一器武魂，唐三为双生武魂。"
+  },
+  {
+    "id": "fantasy-013",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "身法斗技“三千雷动”得自？",
+    "options": [
+      "风雷阁",
+      "星陨阁",
+      "古族",
+      "焚炎谷"
+    ],
+    "correctAnswer": 0,
+    "explanation": "三千雷动是风雷阁镇阁身法斗技。"
+  },
+  {
+    "id": "fantasy-014",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "白小纯“炼灵”所用的宝贝是？",
+    "options": [
+      "龟纹锅",
+      "炼丹炉",
+      "聚灵阵",
+      "丹鼎"
+    ],
+    "correctAnswer": 0,
+    "explanation": "白小纯用龟纹锅炼灵，无往不利。"
+  },
+  {
+    "id": "fantasy-015",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "朱雀星属于哪个星域？",
+    "options": [
+      "罗天星域",
+      "云海星域",
+      "昆虚星域",
+      "联盟星域"
+    ],
+    "correctAnswer": 3,
+    "explanation": "朱雀星是联盟星域的修真星。"
+  },
+  {
+    "id": "fantasy-016",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "不死长生功带给白小纯最大的好处是？",
+    "options": [
+      "速度无双",
+      "攻击无敌",
+      "极强的保命能力",
+      "炼丹加速"
+    ],
+    "correctAnswer": 2,
+    "explanation": "不死长生功让白小纯生命力顽强，最难杀死。"
+  },
+  {
+    "id": "fantasy-017",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "唐三继承的第一个神位是？",
+    "options": [
+      "修罗神",
+      "罗刹神",
+      "海神",
+      "天使神"
+    ],
+    "correctAnswer": 2,
+    "explanation": "唐三通过海神九考继承海神神位。"
+  },
+  {
+    "id": "fantasy-018",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "叶凡在地球的好友是？",
+    "options": [
+      "李小曼",
+      "张文昌",
+      "刘云志",
+      "庞博"
+    ],
+    "correctAnswer": 3,
+    "explanation": "庞博是叶凡的死党，一同登上九龙拉棺。"
+  },
+  {
+    "id": "fantasy-019",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "叶凡的妻子是？",
+    "options": [
+      "秦瑶",
+      "姬紫月",
+      "安妙依",
+      "颜如玉"
+    ],
+    "correctAnswer": 1,
+    "explanation": "姬紫月是姬家明珠，与叶凡结为道侣。"
+  },
+  {
+    "id": "fantasy-020",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "太虚古龙一族的小女孩是？",
+    "options": [
+      "紫妍",
+      "琥嘉",
+      "韩雪",
+      "青鳞"
+    ],
+    "correctAnswer": 0,
+    "explanation": "紫妍是太虚古龙皇族，力大无穷爱吃药材。"
+  },
+  {
+    "id": "fantasy-021",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "修真第二步的第一个境界是？",
+    "options": [
+      "窥涅",
+      "净涅",
+      "碎涅",
+      "问鼎"
+    ],
+    "correctAnswer": 0,
+    "explanation": "第二步为窥涅、净涅、碎涅，之后是第三步。"
+  },
+  {
+    "id": "fantasy-022",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "黑皇曾经的主人是？",
+    "options": [
+      "无始大帝",
+      "恒宇大帝",
+      "狠人大帝",
+      "青帝"
+    ],
+    "correctAnswer": 0,
+    "explanation": "黑皇曾追随无始大帝，镇守紫山。"
+  },
+  {
+    "id": "fantasy-023",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "背叛药老、投靠魂殿的弟子是？",
+    "options": [
+      "韩枫",
+      "慕骨老人",
+      "云山",
+      "鹜护法"
+    ],
+    "correctAnswer": 0,
+    "explanation": "韩枫人称药皇，为夺焚诀背叛药老。"
+  },
+  {
+    "id": "fantasy-024",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "修真“结丹”之后的境界是？",
+    "options": [
+      "婴变",
+      "筑基",
+      "化神",
+      "元婴"
+    ],
+    "correctAnswer": 3,
+    "explanation": "结丹之后为元婴，再后是化神。"
+  },
+  {
+    "id": "fantasy-025",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "石昊的弟弟是？",
+    "options": [
+      "石毅",
+      "秦昊",
+      "石昊没有弟弟",
+      "石子陵"
+    ],
+    "correctAnswer": 1,
+    "explanation": "秦昊是石昊的弟弟，被植入仙骨。"
+  },
+  {
+    "id": "fantasy-026",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "帝关大长老、石昊的师傅是？",
+    "options": [
+      "孟天正",
+      "金太君",
+      "齐道临",
+      "王长生"
+    ],
+    "correctAnswer": 0,
+    "explanation": "孟天正坐镇帝关，是石昊的师傅。"
+  },
+  {
+    "id": "fantasy-027",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "唐门绝学中属于眼功的是？",
+    "options": [
+      "鬼影迷踪",
+      "紫极魔瞳",
+      "控鹤擒龙",
+      "玄玉手"
+    ],
+    "correctAnswer": 1,
+    "explanation": "紫极魔瞳眼功，玄玉手手功，鬼影迷踪轻功，控鹤擒龙擒拿。"
+  },
+  {
+    "id": "fantasy-028",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "韩立收服的灵兽是？",
+    "options": [
+      "豹麟兽",
+      "风希",
+      "土甲龙",
+      "啼魂兽"
+    ],
+    "correctAnswer": 3,
+    "explanation": "啼魂兽专克阴魂厉鬼，被韩立收服。"
+  },
+  {
+    "id": "fantasy-029",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "“元婴”之后的境界是？",
+    "options": [
+      "大乘",
+      "半神",
+      "结丹",
+      "天人"
+    ],
+    "correctAnswer": 3,
+    "explanation": "元婴之后为天人境。"
+  },
+  {
+    "id": "fantasy-030",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "《完美世界》的主角是？",
+    "options": [
+      "石毅",
+      "石昊",
+      "石子陵",
+      "秦昊"
+    ],
+    "correctAnswer": 1,
+    "explanation": "石昊天生至尊骨，被誉为荒天帝。"
+  },
+  {
+    "id": "fantasy-031",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "唐三的第二个神位是？",
+    "options": [
+      "海神",
+      "修罗神",
+      "食神",
+      "九彩神女"
+    ],
+    "correctAnswer": 1,
+    "explanation": "唐三双神共存，海神加修罗神。"
+  },
+  {
+    "id": "fantasy-032",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "石昊的小名是？",
+    "options": [
+      "大块头",
+      "小石头",
+      "小不点",
+      "小胖子"
+    ],
+    "correctAnswer": 2,
+    "explanation": "石昊自幼被称为小不点，最爱吃兽奶。"
+  },
+  {
+    "id": "fantasy-033",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "石昊曾成为一国之主，他是？",
+    "options": [
+      "石国人皇",
+      "云国人皇",
+      "秦国人皇",
+      "火国人皇"
+    ],
+    "correctAnswer": 0,
+    "explanation": "石昊平定动乱后成为石国人皇。"
+  },
+  {
+    "id": "fantasy-034",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "韩立修炼的灵目神通是？",
+    "options": [
+      "幻目术",
+      "血目瞳",
+      "灵犀眼",
+      "明清灵眼"
+    ],
+    "correctAnswer": 3,
+    "explanation": "明清灵眼可看破幻术隐匿。"
+  },
+  {
+    "id": "fantasy-035",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "天才战第一、被称为“死神”的是？",
+    "options": [
+      "将莫",
+      "伯兰",
+      "罗峰",
+      "戎钧"
+    ],
+    "correctAnswer": 1,
+    "explanation": "死神伯兰是本届天才战第一，罗峰与其齐名。"
+  },
+  {
+    "id": "fantasy-036",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "恒岳派所在的修真国是？",
+    "options": [
+      "燕国",
+      "赵国",
+      "楚国",
+      "齐国"
+    ],
+    "correctAnswer": 1,
+    "explanation": "恒岳派是赵国的修真门派。"
+  },
+  {
+    "id": "fantasy-037",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "“魂圣”对应的魂力等级是？",
+    "options": [
+      "70级",
+      "60级",
+      "90级",
+      "80级"
+    ],
+    "correctAnswer": 0,
+    "explanation": "70级为魂圣，80级魂斗罗，90级以上封号斗罗。"
+  },
+  {
+    "id": "fantasy-038",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "不死长生功分为？",
+    "options": [
+      "天地卷、玄黄卷",
+      "不死卷、长生卷",
+      "阴阳卷、五行卷",
+      "上下卷、内外卷"
+    ],
+    "correctAnswer": 1,
+    "explanation": "不死长生功分不死卷与长生卷。"
+  },
+  {
+    "id": "fantasy-039",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "千仞雪继承的神位是？",
+    "options": [
+      "海神",
+      "天使之神",
+      "修罗神",
+      "罗刹神"
+    ],
+    "correctAnswer": 1,
+    "explanation": "千仞雪武魂六翼天使，继承天使之神。"
+  },
+  {
+    "id": "fantasy-040",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "韩立被古传送阵送到的海外修仙界是？",
+    "options": [
+      "大晋",
+      "慕兰",
+      "乱星海",
+      "天南"
+    ],
+    "correctAnswer": 2,
+    "explanation": "韩立误入古传送阵，来到乱星海。"
+  },
+  {
+    "id": "fantasy-041",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "白小纯炼药时经常发生？",
+    "options": [
+      "炸炉",
+      "丹劫",
+      "异香",
+      "成丹"
+    ],
+    "correctAnswer": 0,
+    "explanation": "白小纯炼药经常炸炉，是书中经典笑点。"
+  },
+  {
+    "id": "fantasy-042",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "王林曾前往的星域是？",
+    "options": [
+      "云海星域",
+      "仙罡星域",
+      "罗天星域",
+      "昆虚星域"
+    ],
+    "correctAnswer": 2,
+    "explanation": "王林离开联盟星域后前往过罗天星域。"
+  },
+  {
+    "id": "fantasy-043",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "唐三的父亲是？",
+    "options": [
+      "唐昊",
+      "唐啸",
+      "玉小刚",
+      "唐晨"
+    ],
+    "correctAnswer": 0,
+    "explanation": "唐昊是昊天斗罗，斗罗大陆最年轻的封号斗罗之一。"
+  },
+  {
+    "id": "fantasy-044",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "石村的祭灵是？",
+    "options": [
+      "河神",
+      "树神",
+      "柳神",
+      "山神"
+    ],
+    "correctAnswer": 2,
+    "explanation": "柳神是一株柳树，是石村的祭灵。"
+  },
+  {
+    "id": "fantasy-045",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "叶凡建立的势力是？",
+    "options": [
+      "天庭",
+      "奇士府",
+      "人欲道",
+      "地府"
+    ],
+    "correctAnswer": 0,
+    "explanation": "叶凡在北斗建立天庭，号令群雄。"
+  },
+  {
+    "id": "fantasy-046",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "萧炎自创的斗技是？",
+    "options": [
+      "佛怒火莲",
+      "八极崩",
+      "大天造化掌",
+      "帝印诀"
+    ],
+    "correctAnswer": 0,
+    "explanation": "佛怒火莲融合多种异火，是萧炎的招牌杀招。"
+  },
+  {
+    "id": "fantasy-047",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "罗峰在混沌城参悟的混沌碑是？",
+    "options": [
+      "宇宙混沌碑",
+      "九宇混沌碑",
+      "心痕混沌碑",
+      "巨斧混沌碑"
+    ],
+    "correctAnswer": 1,
+    "explanation": "九宇混沌碑对应空间本源法则，罗峰借此崛起。"
+  },
+  {
+    "id": "fantasy-048",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "异域不朽之王安澜的名场面是？",
+    "options": [
+      "“无殇救我”",
+      "“赤王救我”",
+      "“安澜救我”",
+      "“俞陀救我”"
+    ],
+    "correctAnswer": 3,
+    "explanation": "安澜被石昊击败时大喊俞陀救我，成为名场面。"
+  },
+  {
+    "id": "fantasy-049",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "石昊的称号是？",
+    "options": [
+      "无始大帝",
+      "楚天帝",
+      "荒天帝",
+      "叶天帝"
+    ],
+    "correctAnswer": 2,
+    "explanation": "石昊号荒天帝，独断万古。"
+  },
+  {
+    "id": "fantasy-050",
+    "category": "fantasy",
+    "difficulty": "medium",
+    "question": "李青候是灵溪宗掌门的？",
+    "options": [
+      "师弟",
+      "师兄",
+      "师傅",
+      "徒弟"
+    ],
+    "correctAnswer": 0,
+    "explanation": "李青候是掌门郑远东的师弟。"
+  }
+]
