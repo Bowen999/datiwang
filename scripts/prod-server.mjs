@@ -3,14 +3,16 @@
  * Datiwang 生产静态服务器
  * - 服务 dist/ 构建产物（SPA 回退到 index.html）
  * - gzip 压缩、静态资源长缓存、index.html 不缓存
+ * - 支持 Range（206 分段），音频不做 gzip：Safari 播放 <audio> 必须能 Range 取流
  * - 由 systemd 守护，开机自启、崩溃自愈
  *
  * 用法: node scripts/prod-server.mjs  (可用环境变量 PORT / HOST 覆盖)
  */
 import { createServer } from 'node:http';
 import { createReadStream } from 'node:fs';
-import { readFile, stat } from 'node:fs/promises';
+import { stat } from 'node:fs/promises';
 import { join, extname, normalize, resolve } from 'node:path';
+import { pipeline } from 'node:stream';
 import { createGzip } from 'node:zlib';
 
 const ROOT = resolve(import.meta.dirname, '..', 'dist');
@@ -31,6 +33,10 @@ const MIME = {
   '.gif': 'image/gif',
   '.webp': 'image/webp',
   '.ico': 'image/x-icon',
+  '.mp3': 'audio/mpeg',
+  '.m4a': 'audio/mp4',
+  '.ogg': 'audio/ogg',
+  '.wav': 'audio/wav',
   '.woff': 'font/woff',
   '.woff2': 'font/woff2',
   '.ttf': 'font/ttf',
@@ -50,6 +56,29 @@ async function safeStat(p) {
   } catch {
     return null;
   }
+}
+
+/**
+ * 解析单段 Range 头（bytes=a-b / a- / -n）。
+ * 无 Range、多段、语法不合法 → null（忽略 Range，整文件 200）；起点越界 → 'unsatisfiable'（416）。
+ */
+function parseRange(header, size) {
+  const m = /^bytes=(\d*)-(\d*)$/.exec(header || '');
+  if (!m || (!m[1] && !m[2]) || size === 0) return null;
+  let start;
+  let end;
+  if (!m[1]) {
+    const n = Number(m[2]);
+    if (n === 0) return 'unsatisfiable';
+    start = Math.max(0, size - n);
+    end = size - 1;
+  } else {
+    start = Number(m[1]);
+    if (m[2] && Number(m[2]) < start) return null;
+    if (start >= size) return 'unsatisfiable';
+    end = m[2] ? Math.min(Number(m[2]), size - 1) : size - 1;
+  }
+  return { start, end };
 }
 
 createServer(async (req, res) => {
@@ -91,11 +120,19 @@ createServer(async (req, res) => {
 
   const isIndex = pathname === '/' || pathname === `/${INDEX}` || filePath.endsWith(INDEX);
 
+  const mime = MIME[extname(filePath)] || 'application/octet-stream';
+  const range = isIndex ? null : parseRange(req.headers.range, info.size);
+  if (range === 'unsatisfiable') {
+    res.writeHead(416, { 'Content-Range': `bytes */${info.size}` }).end();
+    return;
+  }
+
+  // 带 Range 的请求要按原始字节切片，不能压缩；音频本身已压缩，gzip 没收益
   const acceptGzip = (req.headers['accept-encoding'] || '').includes('gzip');
-  const useGzip = acceptGzip && info.size > 1024 && !isIndex;
+  const useGzip = acceptGzip && info.size > 1024 && !isIndex && !range && !mime.startsWith('audio/');
 
   const headers = {
-    'Content-Type': MIME[extname(filePath)] || 'application/octet-stream',
+    'Content-Type': mime,
     'X-Content-Type-Options': 'nosniff',
     'Vary': 'Accept-Encoding',
     'Cache-Control': isIndex
@@ -103,25 +140,27 @@ createServer(async (req, res) => {
       : ASSETS_RE.test(pathname)
         ? 'public, max-age=31536000, immutable'
         : 'public, max-age=300',
-    ...(useGzip ? { 'Content-Encoding': 'gzip' } : {}),
+    ...(useGzip
+      ? { 'Content-Encoding': 'gzip' }
+      : {
+          'Content-Length': range ? range.end - range.start + 1 : info.size,
+          ...(isIndex ? {} : { 'Accept-Ranges': 'bytes' }),
+          ...(range ? { 'Content-Range': `bytes ${range.start}-${range.end}/${info.size}` } : {}),
+        }),
   };
 
-  res.writeHead(200, headers);
+  res.writeHead(range ? 206 : 200, headers);
   if (req.method === 'HEAD') {
     res.end();
     return;
   }
 
-  if (useGzip) {
-    const gz = createGzip();
-    const stream = createReadStream(filePath);
-    stream.on('error', () => res.destroy());
-    stream.pipe(gz).pipe(res);
-  } else {
-    res.end(await readFile(filePath));
-  }
+  // pipeline 会在客户端中途断开（Safari 常这样）时销毁文件流，避免泄漏文件句柄
+  const stream = createReadStream(filePath, range ? { start: range.start, end: range.end } : undefined);
+  if (useGzip) pipeline(stream, createGzip(), res, () => {});
+  else pipeline(stream, res, () => {});
 
-  log(`${req.method} ${pathname} -> ${info.size} bytes${acceptGzip && info.size > 1024 && !isIndex ? ' (gzip)' : ''}`);
+  log(`${req.method} ${pathname} -> ${range ? `206 ${range.start}-${range.end}/${info.size}` : `${info.size} bytes`}${useGzip ? ' (gzip)' : ''}`);
 }).listen(PORT, HOST, () => {
   log(`Datiwang production server listening on http://${HOST}:${PORT} (root: ${ROOT})`);
 });
