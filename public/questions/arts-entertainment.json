@@ -1470,34 +1470,6 @@
     "explanation": "《七里香》是周杰伦 2004 年同名专辑的主打歌，前奏的吉他声一响就是青春。"
   },
   {
-    "id": "arts-entertainment-106",
-    "category": "arts-entertainment",
-    "difficulty": "medium",
-    "question": "宫崎骏执导、获得奥斯卡最佳动画长片的电影是？",
-    "options": [
-      "《龙猫》",
-      "《千与千寻》",
-      "《天空之城》",
-      "《幽灵公主》"
-    ],
-    "correctAnswer": 1,
-    "explanation": "《千与千寻》获 2003 年奥斯卡最佳动画长片，是日本影史票房传奇。"
-  },
-  {
-    "id": "arts-entertainment-107",
-    "category": "arts-entertainment",
-    "difficulty": "hard",
-    "question": "获得华语电影戛纳电影节最高奖「金棕榈奖」的影片是？",
-    "options": [
-      "《花样年华》",
-      "《霸王别姬》",
-      "《卧虎藏龙》",
-      "《一一》"
-    ],
-    "correctAnswer": 1,
-    "explanation": "陈凯歌执导的《霸王别姬》于 1993 年获得金棕榈奖，迄今仍是唯一获此殊荣的华语电影。"
-  },
-  {
     "id": "arts-entertainment-108",
     "category": "arts-entertainment",
     "difficulty": "hard",
@@ -1510,20 +1482,6 @@
     ],
     "correctAnswer": 2,
     "explanation": "《中国有嘻哈》2017 年播出后引爆全网，「Freestyle」成为年度流行语。"
-  },
-  {
-    "id": "arts-entertainment-109",
-    "category": "arts-entertainment",
-    "difficulty": "medium",
-    "question": "《大话西游》里至尊宝说「如果非要在这份爱上加上一个期限」，他希望是多久？",
-    "options": [
-      "一千年",
-      "一万年",
-      "十万年",
-      "三生三世"
-    ],
-    "correctAnswer": 1,
-    "explanation": "经典台词原句是「我希望是……一万年」，这段告白在片中出现了两次，第二次已是物是人非。"
   },
   {
     "id": "arts-entertainment-110",
@@ -2086,20 +2044,6 @@
     "explanation": "两人的歌迷阵营竞争激烈到近乎白热化，谭咏麟1987年宣布不再领取竞争性奖项以平息风波，张国荣也在1989年暂别歌坛转攻电影，可见当年这场'战争'有多惨烈。"
   },
   {
-    "id": "arts-entertainment-150",
-    "category": "arts-entertainment",
-    "difficulty": "hard",
-    "question": "2016年，史无前例地因歌词的文学性获得诺贝尔文学奖的民谣摇滚音乐人是谁？",
-    "options": [
-      "列奥纳德·科恩",
-      "保罗·西蒙",
-      "鲍勃·迪伦",
-      "尼尔·扬"
-    ],
-    "correctAnswer": 2,
-    "explanation": "鲍勃·迪伦是首位获诺贝尔文学奖的音乐人，颁奖词称他'在伟大的美国歌曲传统中创造了新的诗歌表达'。据说他本人对领不领奖都不太上心，颁奖典礼当天都没现身。"
-  },
-  {
     "id": "arts-entertainment-151",
     "category": "arts-entertainment",
     "difficulty": "hard",
@@ -2184,20 +2128,6 @@
     "explanation": "2018年S8决赛，iG（Invictus Gaming）3:0横扫欧洲劲旅Fnatic夺冠，“登峰造极境”一夜刷屏，LPL苦等七年的首冠让无数玩家泪目。"
   },
   {
-    "id": "arts-entertainment-157",
-    "category": "arts-entertainment",
-    "difficulty": "hard",
-    "question": "吉尼斯认证的全球销量最高录音室专辑是哪一张？",
-    "options": [
-      "AC/DC《Back in Black》",
-      "迈克尔·杰克逊《Thriller》",
-      "平克·弗洛伊德《The Dark Side of the Moon》",
-      "阿黛尔《21》"
-    ],
-    "correctAnswer": 1,
-    "explanation": "《Thriller》于1982年发行，全球销量超7000万张（部分统计口径破亿），至今无人能破。它的同名MV长达14分钟，还是第一部被美国国会图书馆国家影片登记表收录的音乐录影带。"
-  },
-  {
     "id": "arts-entertainment-158",
     "category": "arts-entertainment",
     "difficulty": "hard",
@@ -2266,20 +2196,6 @@
     ],
     "correctAnswer": 1,
     "explanation": "那英组的梁博力压吴莫愁、吉克隽逸夺冠。夺冠后他低调出国做音乐，多年后凭《男孩》《日落大道》等原创作品再度翻红，堪称“最佛系的冠军”。"
-  },
-  {
-    "id": "arts-entertainment-163",
-    "category": "arts-entertainment",
-    "difficulty": "medium",
-    "question": "周杰伦的首张个人专辑《Jay》发行于哪一年？",
-    "options": [
-      "2000年",
-      "1998年",
-      "2002年",
-      "2004年"
-    ],
-    "correctAnswer": 0,
-    "explanation": "2000年11月《Jay》横空出世，《星晴》《龙卷风》《可爱女人》首首能打，华语乐坛从此进入“周杰伦时代”，那年他才21岁。"
   },
   {
     "id": "arts-entertainment-164",
@@ -3680,5 +3596,33 @@
     ],
     "correctAnswer": 1,
     "explanation": "《未来へ》1998年由玉城千春作词作曲；刘若英2000年1月推出国语版《后来》，收录在专辑《我等你》里，成了她最广为人知的代表作。"
+  },
+  {
+    "id": "arts-entertainment-264",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "电影《2001太空漫游》里，对宇航员说“对不起，戴夫，我恐怕不能那样做”的 AI 叫什么？",
+    "options": [
+      "贾维斯（Jarvis）",
+      "红后（Red Queen）",
+      "HAL 9000",
+      "天网（Skynet）"
+    ],
+    "correctAnswer": 2,
+    "explanation": "网上常说 HAL 每个字母各往后一位就是 IBM，但原作者克拉克说这纯属巧合，还说如果早发现就会改名。他给 HAL 的解释是“启发式编程的算法计算机”。"
+  },
+  {
+    "id": "arts-entertainment-265",
+    "category": "arts-entertainment",
+    "difficulty": "easy",
+    "question": "《终结者》系列里，觉醒后发动核战争、要灭绝人类的 AI 系统叫什么？",
+    "options": [
+      "钢铁巨人",
+      "天网",
+      "大白",
+      "矩阵"
+    ],
+    "correctAnswer": 1,
+    "explanation": "天网（Skynet）最早出现在 1984 年的电影《终结者》里，原本是为军方防务系统建造的 AI，在“觉醒”后把人类视为威胁，随即发动核战争。"
   }
 ]

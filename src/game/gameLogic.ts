@@ -16,17 +16,20 @@ export const REVEAL_MS = 6000;
 /** 排序题比选择题多出的作答时间（秒） */
 export const RANKING_EXTRA_SECONDS = 10;
 
-/** 题型对应的作答窗口（毫秒）：排序题在基础答题时间上 +10s */
-export function questionTimeMs(kind: QuestionKind, roundSeconds: number): number {
-  return (roundSeconds + (kind === 'ranking' ? RANKING_EXTRA_SECONDS : 0)) * 1000;
+/** 听音题多出的作答时间（秒）：留出让玩家点开并听完片段的时间 */
+export const AUDIO_EXTRA_SECONDS = 5;
+
+/** 题型对应的作答窗口（毫秒）：排序题 +10s，带音频的题 +5s（两者可叠加） */
+export function questionTimeMs(kind: QuestionKind, roundSeconds: number, hasAudio = false): number {
+  return (roundSeconds + (kind === 'ranking' ? RANKING_EXTRA_SECONDS : 0) + (hasAudio ? AUDIO_EXTRA_SECONDS : 0)) * 1000;
 }
 
 export function toPublicQuestion(q: QuizQuestion): PublicQuestion {
   if (q.kind === 'ranking') {
-    const { correctOrder: _c, explanation: _e, imageCredit: _i, ...rest } = q;
+    const { correctOrder: _c, explanation: _e, imageCredit: _i, audioCredit: _a, ...rest } = q;
     return rest;
   }
-  const { correctAnswer: _c, explanation: _e, imageCredit: _i, ...rest } = q;
+  const { correctAnswer: _c, explanation: _e, imageCredit: _i, audioCredit: _a, ...rest } = q;
   return rest;
 }
 
@@ -102,7 +105,7 @@ export function launchQuestion(state: RoomState, question: QuizQuestion, now: nu
     ...state,
     phase: 'question',
     activeQuestion: toPublicQuestion(question),
-    questionEndsAt: now + questionTimeMs(question.kind, state.settings.roundSeconds),
+    questionEndsAt: now + questionTimeMs(question.kind, state.settings.roundSeconds, !!question.audio),
     countdownEndsAt: undefined,
     answeredIds: [],
     reveal: undefined,
@@ -117,7 +120,7 @@ export function computeReveal(
   answers: ReadonlyMap<string, { optionIndex?: number; order?: number[]; timeMs: number }>,
   now: number,
 ): { state: RoomState; results: AnswerRecord[] } {
-  const roundMs = questionTimeMs(question.kind, state.settings.roundSeconds);
+  const roundMs = questionTimeMs(question.kind, state.settings.roundSeconds, !!question.audio);
   const players = state.players.map((p) => {
     const raw = answers.get(p.id);
     let optionIndex = -1;
@@ -165,6 +168,7 @@ export function computeReveal(
       correctOrder: question.kind === 'ranking' ? question.correctOrder : undefined,
       explanation: question.explanation,
       imageCredit: question.imageCredit,
+      audioCredit: question.audioCredit,
       results,
       endsAt: now + REVEAL_MS,
     },

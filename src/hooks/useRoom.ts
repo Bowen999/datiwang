@@ -69,6 +69,9 @@ const COLORS = ['#FFC800', '#FF5D8F', '#4D96FF', '#3ECF8E', '#9B5DE5', '#FF7A1A'
 /** 大厅中玩家离线超过该时长（毫秒）即视为残留幽灵，房主自动清理 */
 const OFFLINE_PRUNE_MS = 15000;
 
+/** 预载的音频元素挂在这里，防止被 GC 回收导致下载中断 */
+const preloadedAudioPool: HTMLAudioElement[] = [];
+
 /**
  * 房间 Hook：把实时服务、房主权威逻辑与 React 状态粘合起来。
  * 所有游戏状态变更都通过房主广播 RoomState 完成。
@@ -531,6 +534,18 @@ export function useRoom() {
     for (const src of preloadKey.split('|')) new Image().src = src;
   }, [preloadKey]);
 
+  // 听音题：同理预载音频。挂在模块级数组上防止被 GC 中断下载
+  const preloadAudioKey = room?.preloadAudio?.join('|') ?? '';
+  useEffect(() => {
+    if (!preloadAudioKey) return;
+    for (const src of preloadAudioKey.split('|')) {
+      const a = new Audio();
+      a.preload = 'auto';
+      a.src = src;
+      preloadedAudioPool.push(a);
+    }
+  }, [preloadAudioKey]);
+
   // 房主专用：大厅清理长时间掉线的幽灵玩家（关标签页/断网遗留的残留会显示为「离线」）
   useEffect(() => {
     if (!isHost || !room || room.phase !== 'lobby') return;
@@ -744,6 +759,7 @@ export function useRoom() {
         ...next,
         usedQuestionIds: [...st.usedQuestionIds, ...next.questionIds],
         preloadImages: shuffled.map((q) => q.image).filter((src): src is string => !!src),
+        preloadAudio: shuffled.map((q) => q.audio).filter((src): src is string => !!src),
       });
       visitStats.track('game_start', {
         players: st.players.filter((p) => p.connected || p.isHost).length || st.players.length,
@@ -760,7 +776,7 @@ export function useRoom() {
       const st = roomRef.current;
       if (!st || st.phase !== 'question' || !st.activeQuestion || !st.questionEndsAt) return;
       const isRanking = st.activeQuestion.kind === 'ranking';
-      const timeMs = Math.max(0, questionTimeMs(st.activeQuestion.kind, st.settings.roundSeconds) - (st.questionEndsAt - now()));
+      const timeMs = Math.max(0, questionTimeMs(st.activeQuestion.kind, st.settings.roundSeconds, !!st.activeQuestion.audio) - (st.questionEndsAt - now()));
       // 重复提交同一答案忽略；修改则覆盖（时间以最后一次为准）
       const same =
         myAnswer != null &&

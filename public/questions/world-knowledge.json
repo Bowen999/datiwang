@@ -1414,20 +1414,6 @@
     "explanation": "川端康成1968年凭《雪国》《古都》《千只鹤》等作品获奖。大江健三郎1994年才成为第二位获奖的日本作家，而村上春树至今仍是著名的「陪跑选手」。"
   },
   {
-    "id": "world-knowledge-102",
-    "category": "world-knowledge",
-    "difficulty": "hard",
-    "question": "鲁迅的下列小说中，哪一篇收录在《彷徨》而不是《呐喊》里？",
-    "options": [
-      "《孔乙己》",
-      "《阿Q正传》",
-      "《药》",
-      "《祝福》"
-    ],
-    "correctAnswer": 3,
-    "explanation": "写祥林嫂悲剧的《祝福》收录于鲁迅第二本小说集《彷徨》；其余三篇都在他的第一本小说集《呐喊》里。"
-  },
-  {
     "id": "world-knowledge-103",
     "category": "world-knowledge",
     "difficulty": "medium",
@@ -1470,34 +1456,6 @@
     "explanation": "博尔赫斯1955年起任阿根廷国家图书馆馆长近18年，几乎与此同时双目失明。他感叹上帝同时赐给了他八十万册书与黑暗。"
   },
   {
-    "id": "world-knowledge-106",
-    "category": "world-knowledge",
-    "difficulty": "medium",
-    "question": "《围城》中，方鸿渐回国前买了一张假博士文凭，文凭出自哪所「大学」？",
-    "options": [
-      "牛津大学",
-      "克莱登大学",
-      "巴黎大学",
-      "柏林大学"
-    ],
-    "correctAnswer": 1,
-    "explanation": "方鸿渐向一个爱尔兰骗子买了「克莱登大学」的博士文凭，这所子虚乌有的学校从此成了假学历的代名词。"
-  },
-  {
-    "id": "world-knowledge-107",
-    "category": "world-knowledge",
-    "difficulty": "hard",
-    "question": "「生命是一袭华美的袍，爬满了蚤子。」张爱玲这句名言出自她的哪篇作品？",
-    "options": [
-      "《倾城之恋》",
-      "《金锁记》",
-      "《天才梦》",
-      "《红玫瑰与白玫瑰》"
-    ],
-    "correctAnswer": 2,
-    "explanation": "这句话出自张爱玲19岁时写的散文《天才梦》，其余三部都是她的小说。容易记混的是，「蚊子血与饭黏子」的名句才出自《红玫瑰与白玫瑰》。"
-  },
-  {
     "id": "world-knowledge-108",
     "category": "world-knowledge",
     "difficulty": "hard",
@@ -1512,34 +1470,6 @@
     "explanation": "赛珍珠在中国镇江长大，《大地》先拿下普利策奖再拿诺奖。其余三位都是报道中国革命的著名美国女记者，但都与文学奖无缘。"
   },
   {
-    "id": "world-knowledge-109",
-    "category": "world-knowledge",
-    "difficulty": "medium",
-    "question": "1918年，中国第一篇现代白话小说《狂人日记》最早刊登在哪本刊物上？",
-    "options": [
-      "《小说月报》",
-      "《新潮》",
-      "《少年中国》",
-      "《新青年》"
-    ],
-    "correctAnswer": 3,
-    "explanation": "《狂人日记》发表于1918年5月的《新青年》，「鲁迅」这个笔名也是从这篇文章才开始使用的。"
-  },
-  {
-    "id": "world-knowledge-110",
-    "category": "world-knowledge",
-    "difficulty": "hard",
-    "question": "下列小说中，哪一部获得过茅盾文学奖？",
-    "options": [
-      "《活着》",
-      "《白鹿原》",
-      "《废都》",
-      "《黄金时代》"
-    ],
-    "correctAnswer": 1,
-    "explanation": "陈忠实的《白鹿原》（修订版）获第四届茅盾文学奖。余华《活着》拿的是意大利文学奖，王小波《黄金时代》拿的是台湾《联合报》文学奖，《废都》当年则争议缠身、与奖项无缘。"
-  },
-  {
     "id": "world-knowledge-111",
     "category": "world-knowledge",
     "difficulty": "medium",
@@ -1552,34 +1482,6 @@
     ],
     "correctAnswer": 2,
     "explanation": "整整八十四天空手而归，第八十五天他才钓上那条大马林鱼。选一百零八天的朋友，《水浒传》看得不错。"
-  },
-  {
-    "id": "world-knowledge-112",
-    "category": "world-knowledge",
-    "difficulty": "hard",
-    "question": "中国当代文学史上，「伤痕文学」这个说法直接得名于哪部作品？",
-    "options": [
-      "卢新华《伤痕》",
-      "刘心武《班主任》",
-      "从维熙《大墙下的红玉兰》",
-      "王亚平《神圣的使命》"
-    ],
-    "correctAnswer": 0,
-    "explanation": "名称来自卢新华1978年的短篇小说《伤痕》。刘心武的《班主任》虽被公认为伤痕文学的开山之作，却是「起了大早、没赶上冠名」。"
-  },
-  {
-    "id": "world-knowledge-113",
-    "category": "world-knowledge",
-    "difficulty": "hard",
-    "question": "莫言的哪部长篇小说获得了第八届茅盾文学奖？",
-    "options": [
-      "《红高粱家族》",
-      "《蛙》",
-      "《丰乳肥臀》",
-      "《檀香刑》"
-    ],
-    "correctAnswer": 1,
-    "explanation": "《蛙》2011年获第八届茅盾文学奖，写的是乡村妇产科医生与计划生育的往事；第二年莫言就捧回了诺贝尔文学奖。"
   },
   {
     "id": "world-knowledge-114",
@@ -1610,34 +1512,6 @@
     "explanation": "普鲁斯特把玛德莱娜蛋糕蘸进椴树花茶，一口下去，整个贡布雷的记忆全回来了，这就是文学史上最著名的「普鲁斯特时刻」。"
   },
   {
-    "id": "world-knowledge-116",
-    "category": "world-knowledge",
-    "difficulty": "medium",
-    "question": "沈从文《边城》中，翠翠心里真正爱慕的人是谁？",
-    "options": [
-      "傩送（二老）",
-      "天保（大老）",
-      "顺顺",
-      "杨马兵"
-    ],
-    "correctAnswer": 0,
-    "explanation": "翠翠爱的是唱情歌的傩送二老；哥哥天保大老也提亲求娶，失意后闯滩溺亡。顺顺是两兄弟的父亲、船总，杨马兵则是爷爷的老友。"
-  },
-  {
-    "id": "world-knowledge-117",
-    "category": "world-knowledge",
-    "difficulty": "hard",
-    "question": "巴金《家》中，被高家做主嫁给冯乐山、最终投湖自尽的丫鬟是谁？",
-    "options": [
-      "瑞珏",
-      "梅表姐",
-      "鸣凤",
-      "琴"
-    ],
-    "correctAnswer": 2,
-    "explanation": "丫鬟鸣凤与三少爷觉慧相恋，宁死不肯给冯乐山做妾，投湖自尽。瑞珏难产而死，梅表姐郁郁而终，琴则是争取新式教育的进步小姐。"
-  },
-  {
     "id": "world-knowledge-118",
     "category": "world-knowledge",
     "difficulty": "medium",
@@ -1664,20 +1538,6 @@
     ],
     "correctAnswer": 3,
     "explanation": "贝克特长居巴黎，先用法语写成《En attendant Godot》（1952年），之后才亲自译回英语。他1969年获诺贝尔文学奖，英法双语写作堪称一绝。"
-  },
-  {
-    "id": "world-knowledge-120",
-    "category": "world-knowledge",
-    "difficulty": "medium",
-    "question": "老舍话剧《茶馆》只有三幕，却横跨近半个世纪。三幕戏依次展现的是哪三个时代？",
-    "options": [
-      "戊戌变法失败后的清末 → 军阀混战的民国初年 → 抗战胜利后的国民党统治时期",
-      "太平天国时期 → 辛亥革命时期 → 北伐战争时期",
-      "洋务运动时期 → 清末新政时期 → 抗日战争时期",
-      "五四运动时期 → 土地革命时期 → 新中国成立初期"
-    ],
-    "correctAnswer": 0,
-    "explanation": "裕泰茶馆三幕分别落在1898年戊戌变法失败后、民国初年军阀混战、抗战胜利后三个节点，老掌柜王利发眼看着茶馆一步步走向衰败。"
   },
   {
     "id": "world-knowledge-121",
@@ -1708,34 +1568,6 @@
     "explanation": "法国莫泊桑、俄国契诃夫、美国欧·亨利并称三大短篇小说巨匠。欧·亨利最出名的就是「意料之外、情理之中」的结尾反转，比如《麦琪的礼物》。"
   },
   {
-    "id": "world-knowledge-123",
-    "category": "world-knowledge",
-    "difficulty": "hard",
-    "question": "老舍《骆驼祥子》里，祥子被乱兵抓走后趁乱逃回，顺手牵走了几匹骆驼，从此落下「骆驼祥子」的外号？",
-    "options": [
-      "一匹",
-      "三匹",
-      "四匹",
-      "五匹"
-    ],
-    "correctAnswer": 1,
-    "explanation": "祥子连人带车被大兵掳走，逃出兵营时牵回三匹骆驼，卖了三十五块钱。他省吃俭用就为再买一辆车，「三起三落」的命运也就此开始。"
-  },
-  {
-    "id": "world-knowledge-124",
-    "category": "world-knowledge",
-    "difficulty": "medium",
-    "question": "曹禺1933年写成名剧《雷雨》时年仅23岁，当时他的身份是什么？",
-    "options": [
-      "清华大学的学生",
-      "中学国文教师",
-      "报馆编辑",
-      "职业话剧演员"
-    ],
-    "correctAnswer": 0,
-    "explanation": "曹禺（原名万家宝）当时就读清华大学西洋文学系，《雷雨》基本是他在图书馆里泡出来的毕业之作，一出手就被誉为中国话剧成熟的标志。"
-  },
-  {
     "id": "world-knowledge-125",
     "category": "world-knowledge",
     "difficulty": "hard",
@@ -1748,20 +1580,6 @@
     ],
     "correctAnswer": 2,
     "explanation": "失眠症蔓延后人们干脆不用睡觉，可随之而来的是集体失忆——布恩迪亚家只好给每样东西贴上标签，连「这是牛，每天要挤奶」都得写上。"
-  },
-  {
-    "id": "world-knowledge-126",
-    "category": "world-knowledge",
-    "difficulty": "easy",
-    "question": "写出《活着》《许三观卖血记》的作家是谁？",
-    "options": [
-      "莫言",
-      "贾平凹",
-      "余华",
-      "陈忠实"
-    ],
-    "correctAnswer": 2,
-    "explanation": "余华早年是牙医，后来弃医从文。《活着》里福贵和那头老牛的故事，让无数读者边看边抹眼泪。"
   },
   {
     "id": "world-knowledge-127",
@@ -1792,20 +1610,6 @@
     "explanation": "海明威凭《老人与海》拿下1954年诺贝尔文学奖。这位硬汉作家站着写作，认为这样文字才够简练有力。"
   },
   {
-    "id": "world-knowledge-129",
-    "category": "world-knowledge",
-    "difficulty": "easy",
-    "question": "大文豪鲁迅其实是个笔名，他的原名是什么？",
-    "options": [
-      "周树人",
-      "周作人",
-      "周建人",
-      "周而复"
-    ],
-    "correctAnswer": 0,
-    "explanation": "鲁迅原名周树人，「鲁迅」取自母亲鲁瑞的姓。周作人和周建人是他的两个弟弟，也都是文化名人。"
-  },
-  {
     "id": "world-knowledge-130",
     "category": "world-knowledge",
     "difficulty": "easy",
@@ -1832,20 +1636,6 @@
     ],
     "correctAnswer": 3,
     "explanation": "保尔·柯察金那句「人最宝贵的是生命」曾印在无数课本里。作者奥斯特洛夫斯基本人也是双目失明、全身瘫痪后口述完成此书的。"
-  },
-  {
-    "id": "world-knowledge-132",
-    "category": "world-knowledge",
-    "difficulty": "easy",
-    "question": "课本里那篇父亲翻月台买橘子的《背影》，作者是谁？",
-    "options": [
-      "朱自清",
-      "老舍",
-      "冰心",
-      "巴金"
-    ],
-    "correctAnswer": 0,
-    "explanation": "《背影》是朱自清1925年写的散文，「我买几个橘子去」如今成了全网流行的「父爱梗」。"
   },
   {
     "id": "world-knowledge-133",
@@ -1904,20 +1694,6 @@
     "explanation": "阿加莎·克里斯蒂被誉为「侦探小说女王」，她笔下的大侦探波洛和马普尔小姐家喻户晓。她的作品销量据称仅次于《圣经》和莎士比亚全集。"
   },
   {
-    "id": "world-knowledge-137",
-    "category": "world-knowledge",
-    "difficulty": "easy",
-    "question": "「轻轻的我走了，正如我轻轻的来」的下一句是？",
-    "options": [
-      "面朝大海，春暖花开",
-      "我轻轻的招手，作别西天的云彩",
-      "撑着油纸伞，独自彷徨在悠长的雨巷",
-      "你站在桥上看风景，看风景人在楼上看你"
-    ],
-    "correctAnswer": 1,
-    "explanation": "出自徐志摩《再别康桥》，写的是他重游英国剑桥的离别情绪。「康桥」就是今天的剑桥大学，徐志摩曾在那里游学，对这片校园感情极深。"
-  },
-  {
     "id": "world-knowledge-138",
     "category": "world-knowledge",
     "difficulty": "easy",
@@ -1974,48 +1750,6 @@
     "explanation": "卡西莫多是巴黎圣母院里相貌丑陋却心地善良的敲钟人。弗罗洛是道貌岸然的副主教，腓比斯是英俊却薄情的卫队长，两人都爱慕吉普赛女郎爱斯梅拉达。"
   },
   {
-    "id": "world-knowledge-142",
-    "category": "world-knowledge",
-    "difficulty": "medium",
-    "question": "作家三毛在《撒哈拉的故事》里写下与丈夫的沙漠生活，她丈夫的名字是？",
-    "options": [
-      "米格尔",
-      "保罗",
-      "安东尼",
-      "荷西"
-    ],
-    "correctAnswer": 3,
-    "explanation": "荷西是三毛的西班牙丈夫，两人在撒哈拉沙漠结婚定居，成就了《撒哈拉的故事》里那些浪漫又艰苦的生活片段。荷西后来潜水意外去世，成了三毛一生难以走出的伤痛。"
-  },
-  {
-    "id": "world-knowledge-143",
-    "category": "world-knowledge",
-    "difficulty": "medium",
-    "question": "钱钟书的夫人杨绛晚年写下一部回忆录，记述与丈夫、女儿一家三口的生活，书名是？",
-    "options": [
-      "《我们仨》",
-      "《干校六记》",
-      "《洗澡》",
-      "《走到人生边上》"
-    ],
-    "correctAnswer": 0,
-    "explanation": "《我们仨》是杨绛在女儿钱瑗和丈夫钱钟书相继去世后写下的回忆录，用近乎梦境的笔法追忆一家三口的寻常岁月，朴素却催泪。"
-  },
-  {
-    "id": "world-knowledge-144",
-    "category": "world-knowledge",
-    "difficulty": "medium",
-    "question": "路遥的长篇小说《平凡的世界》获得了第几届茅盾文学奖？",
-    "options": [
-      "第一届",
-      "第三届",
-      "第五届",
-      "第七届"
-    ],
-    "correctAnswer": 1,
-    "explanation": "《平凡的世界》获得第三届茅盾文学奖。路遥写这部百万字小说时几乎住在煤矿和窑洞里，几年后他也因肝硬化英年早逝，年仅42岁。"
-  },
-  {
     "id": "world-knowledge-145",
     "category": "world-knowledge",
     "difficulty": "medium",
@@ -2028,20 +1762,6 @@
     ],
     "correctAnswer": 2,
     "explanation": "东野圭吾大学学的是电气工程，毕业后在汽车零部件公司当了好几年工程师，直到凭借《放学后》获得江户川乱步奖，才辞职专心写作。"
-  },
-  {
-    "id": "world-knowledge-146",
-    "category": "world-knowledge",
-    "difficulty": "medium",
-    "question": "郭沫若的第一部新诗集，也是中国新诗的奠基之作，叫什么名字？",
-    "options": [
-      "《星空》",
-      "《瓶》",
-      "《凤凰涅槃》",
-      "《女神》"
-    ],
-    "correctAnswer": 3,
-    "explanation": "《女神》是郭沫若的第一部新诗集，也是中国新诗的奠基之作，收录了《凤凰涅槃》等名篇。他早年留学日本学的其实是医学，后来才转向文学。"
   },
   {
     "id": "world-knowledge-147",
@@ -2168,5 +1888,61 @@
     ],
     "correctAnswer": 3,
     "explanation": "1837年，普希金为妻子的名誉与一名法国军官决斗，腹部中弹，两天后不治身亡，年仅37岁。这位「俄罗斯诗歌的太阳」，竟是这样戏剧性地陨落的。"
+  },
+  {
+    "id": "world-knowledge-156",
+    "category": "world-knowledge",
+    "difficulty": "medium",
+    "question": "世界上面积最大的国家是？",
+    "options": [
+      "中国",
+      "加拿大",
+      "美国",
+      "俄罗斯"
+    ],
+    "correctAnswer": 3,
+    "explanation": "俄罗斯国土面积约 1709 万平方公里，横跨欧亚两大洲。"
+  },
+  {
+    "id": "world-knowledge-157",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "世界上海拔最高的山峰珠穆朗玛峰位于哪两个国家的边界？",
+    "options": [
+      "中国与印度",
+      "中国与尼泊尔",
+      "尼泊尔与不丹",
+      "中国与巴基斯坦"
+    ],
+    "correctAnswer": 1,
+    "explanation": "珠峰位于中国与尼泊尔边界，2020 年两国共同宣布其最新高程为 8848.86 米。"
+  },
+  {
+    "id": "world-knowledge-158",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "世界上第一枚正式发行的邮票，是1840年英国发行的哪一枚？",
+    "options": [
+      "蓝便士",
+      "黑便士",
+      "红便士",
+      "金便士"
+    ],
+    "correctAnswer": 1,
+    "explanation": "『黑便士』（Penny Black）1840年在英国发行，票面印着维多利亚女王头像，开创了『先购票、后寄信』的现代邮政制度，如今是集邮界的传奇藏品。"
+  },
+  {
+    "id": "world-knowledge-159",
+    "category": "world-knowledge",
+    "difficulty": "hard",
+    "question": "按母语使用人数统计，全世界使用人数最多的语言是？",
+    "options": [
+      "英语",
+      "西班牙语",
+      "汉语（普通话）",
+      "印地语"
+    ],
+    "correctAnswer": 2,
+    "explanation": "按母语人数排名，汉语普通话长期位居世界第一；但如果按『会说的总人数』（含第二语言使用者）统计，英语常常反超，两种统计口径经常被人混为一谈。"
   }
 ]

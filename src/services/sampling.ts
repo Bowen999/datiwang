@@ -8,8 +8,8 @@ export const SAMPLER_BETA = 1;
 /** 混合局里排名题名额换成动态榜单题的概率；纯排序局用它决定榜单题占比 */
 export const CHART_SHARE = 0.5;
 
-/** 分类保底占比：该分类被选中时，期望题数至少占整局这个比例（看图题每局 25 题约 2-3 道） */
-export const CATEGORY_MIN_SHARE: Readonly<Record<string, number>> = { picture: 0.1 };
+/** 分类保底占比：该分类被选中时，期望题数至少占整局这个比例（看图/听音题每局 25 题约 2-3 道） */
+export const CATEGORY_MIN_SHARE: Readonly<Record<string, number>> = { picture: 0.1, music: 0.1 };
 
 export type Rng = () => number;
 

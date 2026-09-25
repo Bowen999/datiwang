@@ -1,19 +1,5 @@
 [
   {
-    "id": "general-001",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "世界上面积最大的国家是？",
-    "options": [
-      "中国",
-      "加拿大",
-      "美国",
-      "俄罗斯"
-    ],
-    "correctAnswer": 3,
-    "explanation": "俄罗斯国土面积约 1709 万平方公里，横跨欧亚两大洲。"
-  },
-  {
     "id": "general-002",
     "category": "general",
     "difficulty": "medium",
@@ -42,48 +28,6 @@
     "explanation": "古人所说的「棋」特指围棋，起源于中国，已有四千多年历史。"
   },
   {
-    "id": "general-004",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "世界上海拔最高的山峰珠穆朗玛峰位于哪两个国家的边界？",
-    "options": [
-      "中国与印度",
-      "中国与尼泊尔",
-      "尼泊尔与不丹",
-      "中国与巴基斯坦"
-    ],
-    "correctAnswer": 1,
-    "explanation": "珠峰位于中国与尼泊尔边界，2020 年两国共同宣布其最新高程为 8848.86 米。"
-  },
-  {
-    "id": "general-005",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "国际标准的成年人正常静息心率范围大约是每分钟多少次？",
-    "options": [
-      "40～60 次",
-      "60～100 次",
-      "100～120 次",
-      "120～140 次"
-    ],
-    "correctAnswer": 1,
-    "explanation": "医学上一般认为成年人静息心率在 60～100 次/分钟之间属于正常范围。"
-  },
-  {
-    "id": "general-006",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "按照通行的医学标准，成年人血压达到或超过哪个数值，通常会被诊断为高血压？",
-    "options": [
-      "120/80 毫米汞柱",
-      "130/85 毫米汞柱",
-      "140/90 毫米汞柱",
-      "160/100 毫米汞柱"
-    ],
-    "correctAnswer": 2,
-    "explanation": "诊室血压≥140/90 毫米汞柱即达到高血压诊断标准；120/80 左右才是理想血压。"
-  },
-  {
     "id": "general-007",
     "category": "general",
     "difficulty": "hard",
@@ -96,20 +40,6 @@
     ],
     "correctAnswer": 3,
     "explanation": "《民法典》第一百八十八条规定普通诉讼时效为三年；旧《民法通则》曾规定两年，很有迷惑性。"
-  },
-  {
-    "id": "general-008",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "大熊猫一天中花费时间最多的事情是什么？",
-    "options": [
-      "啃竹子",
-      "睡大觉",
-      "爬树",
-      "游泳玩水"
-    ],
-    "correctAnswer": 0,
-    "explanation": "大熊猫每天约一半时间都在进食，能吃掉 10～20 公斤竹子，剩下时间大多用来休息消化。"
   },
   {
     "id": "general-009",
@@ -126,20 +56,6 @@
     "explanation": "《消法》第五十五条规定「退一赔三」，增加赔偿不足 500 元的按 500 元算；十倍赔偿是食品安全领域的规则。"
   },
   {
-    "id": "general-010",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "正式羽毛球比赛采用三局两胜制，每局先得多少分（且领先至少 2 分）的一方获胜？",
-    "options": [
-      "11 分",
-      "15 分",
-      "21 分",
-      "25 分"
-    ],
-    "correctAnswer": 2,
-    "explanation": "现行羽毛球规则每局 21 分，打到 20 平后须领先 2 分，先到 30 分者胜。"
-  },
-  {
     "id": "general-011",
     "category": "general",
     "difficulty": "hard",
@@ -152,62 +68,6 @@
     ],
     "correctAnswer": 3,
     "explanation": "《道路交通安全法实施条例》规定：能见度小于 50 米时限速 20 公里/小时，并应从最近出口尽快驶离高速。"
-  },
-  {
-    "id": "general-012",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "人体长期缺乏维生素 C，最容易患上哪种疾病？",
-    "options": [
-      "夜盲症",
-      "坏血病",
-      "佝偻病",
-      "脚气病"
-    ],
-    "correctAnswer": 1,
-    "explanation": "缺维生素 C 致坏血病，缺维生素 A 致夜盲症，缺维生素 D 致佝偻病，缺维生素 B1 致脚气病。大航海时代坏血病曾是水手的噩梦。"
-  },
-  {
-    "id": "general-013",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "正常成年人全身共有多少块骨头？",
-    "options": [
-      "206 块",
-      "106 块",
-      "256 块",
-      "306 块"
-    ],
-    "correctAnswer": 0,
-    "explanation": "成年人有 206 块骨骼；婴儿出生时有 300 多块，成长过程中部分骨骼会逐渐融合。"
-  },
-  {
-    "id": "general-014",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "章鱼的身体里有几颗心脏？",
-    "options": [
-      "一颗",
-      "两颗",
-      "四颗",
-      "三颗"
-    ],
-    "correctAnswer": 3,
-    "explanation": "章鱼有三颗心脏：两颗负责给鳃供血，一颗供给全身。它游泳时主心脏会停跳，所以章鱼其实更爱「爬」着走。"
-  },
-  {
-    "id": "general-015",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "2001 年起，国际乒乓球正式比赛将每局 21 分制改为了多少分制？",
-    "options": [
-      "15 分",
-      "11 分",
-      "25 分",
-      "7 分"
-    ],
-    "correctAnswer": 1,
-    "explanation": "国际乒联自 2001 年 9 月起改用 11 分制，同时每人连续发球从 5 个改为 2 个，比赛节奏明显加快。"
   },
   {
     "id": "general-016",
@@ -224,20 +84,6 @@
     "explanation": "已满 16 周岁须对所有犯罪担责；已满 14 周岁不满 16 周岁仅对故意杀人、抢劫等八种重罪担责。"
   },
   {
-    "id": "general-017",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "经济新闻里天天提到的「GDP」，指的是什么？",
-    "options": [
-      "国内生产总值",
-      "国民生产总值",
-      "居民消费价格指数",
-      "国民可支配收入"
-    ],
-    "correctAnswer": 0,
-    "explanation": "GDP 是国内生产总值，按「国土原则」统计；GNP 才是国民生产总值，按「国民原则」统计，两者经常被人混淆。"
-  },
-  {
     "id": "general-018",
     "category": "general",
     "difficulty": "medium",
@@ -250,20 +96,6 @@
     ],
     "correctAnswer": 3,
     "explanation": "「禁止驶入」常见于单行路出口或禁止机动车进入的路段；注意它和红圈白底的「禁止通行」不是同一个标志。"
-  },
-  {
-    "id": "general-019",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "马拉松比赛的全程精确距离是多少？",
-    "options": [
-      "40.195 公里",
-      "41.195 公里",
-      "42.195 公里",
-      "43.195 公里"
-    ],
-    "correctAnswer": 2,
-    "explanation": "马拉松全程 42.195 公里，这个零头源自 1908 年伦敦奥运会为方便英国王室观赛而调整的赛道长度。"
   },
   {
     "id": "general-020",
@@ -306,20 +138,6 @@
     ],
     "correctAnswer": 0,
     "explanation": "发芽土豆的芽眼和变绿表皮富含龙葵素（茄碱），高温烹煮也难以完全破坏，最好别吃。"
-  },
-  {
-    "id": "general-023",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "篮球比赛中，进攻方从控球开始必须在多少秒内完成投篮出手？",
-    "options": [
-      "12 秒",
-      "24 秒",
-      "30 秒",
-      "8 秒"
-    ],
-    "correctAnswer": 1,
-    "explanation": "NBA 与国际篮联均采用 24 秒进攻时限；8 秒是带球过半场的时限，很容易被记混。"
   },
   {
     "id": "general-024",
@@ -390,34 +208,6 @@
     ],
     "correctAnswer": 0,
     "explanation": "骆驼的驼峰储存脂肪，一次能喝下上百升水，是沙漠里的老牌运输担当。"
-  },
-  {
-    "id": "general-029",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "一场标准足球比赛，每支球队同时在场上的球员是多少人？",
-    "options": [
-      "9 人",
-      "10 人",
-      "12 人",
-      "11 人"
-    ],
-    "correctAnswer": 3,
-    "explanation": "每队 11 人，含 1 名守门员；篮球是 5 人，排球是 6 人，别记混哦。"
-  },
-  {
-    "id": "general-030",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "植物进行光合作用时，主要吸收空气中的哪种气体？",
-    "options": [
-      "氧气",
-      "二氧化碳",
-      "氮气",
-      "氢气"
-    ],
-    "correctAnswer": 1,
-    "explanation": "植物吸收二氧化碳、释放氧气，和动物的呼吸正好相反，堪称地球的「绿色肺叶」。"
   },
   {
     "id": "general-031",
@@ -504,20 +294,6 @@
     "explanation": "国标规定血液酒精含量20~80毫克/100毫升属于饮酒驾驶，达到或超过80毫克/100毫升即构成醉驾，已经涉嫌刑事犯罪。"
   },
   {
-    "id": "general-037",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "由于红细胞表面几乎不含A、B抗原，紧急情况下可输给绝大多数患者、因此常被称为『万能供血者』的血型是？",
-    "options": [
-      "A型",
-      "O型",
-      "AB型",
-      "B型"
-    ],
-    "correctAnswer": 1,
-    "explanation": "O型红细胞缺少A、B抗原，紧急抢救时常被当作通用血源；不过严格配血仍需同时核对Rh因子，『万能』只是通俗说法，并非绝对安全。"
-  },
-  {
     "id": "general-038",
     "category": "general",
     "difficulty": "medium",
@@ -530,20 +306,6 @@
     ],
     "correctAnswer": 0,
     "explanation": "1英寸精确等于2.54厘米，所以『55英寸』电视对角线约140厘米；这个换算值是1959年英美等国统一敲定的国际英寸标准。"
-  },
-  {
-    "id": "general-039",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "现代学界普遍认为，世界上最早的纸币诞生于中国哪个朝代？",
-    "options": [
-      "唐朝",
-      "元朝",
-      "北宋",
-      "明朝"
-    ],
-    "correctAnswer": 2,
-    "explanation": "北宋初年四川成都的商人发行了『交子』，被公认为世界最早的纸币，比欧洲最早的纸币早了六百多年。"
   },
   {
     "id": "general-040",
@@ -574,20 +336,6 @@
     "explanation": "『三包』即包修、包换、包退，是产品出现质量问题时经营者应承担的售后责任，法律依据主要来自《消费者权益保护法》和《产品质量法》。"
   },
   {
-    "id": "general-042",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "拳击比赛中，裁判或队医因一方选手明显无法安全继续比赛而叫停、判对方获胜，这种结果被称为？",
-    "options": [
-      "TKO（技术性击倒）",
-      "KO（击倒）",
-      "点数判负",
-      "犯规判负"
-    ],
-    "correctAnswer": 0,
-    "explanation": "TKO即Technical Knockout（技术性击倒），选手并没有被真正数秒倒地，而是裁判或医生出于安全考虑主动终止了比赛；被数满10秒未能起身的才叫KO。"
-  },
-  {
     "id": "general-043",
     "category": "general",
     "difficulty": "easy",
@@ -616,20 +364,6 @@
     "explanation": "血糖、血脂等常见血液检测一般要求空腹8~12小时，时间太短食物残留会干扰数值，空腹太久又可能因为低血糖影响结果。"
   },
   {
-    "id": "general-045",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "人体全身最小的一块骨头，藏在身体的哪个部位？",
-    "options": [
-      "手指关节",
-      "脚趾末端",
-      "鼻腔深处",
-      "耳朵中耳内"
-    ],
-    "correctAnswer": 3,
-    "explanation": "这块骨头叫『镫骨』，位于中耳，长度只有约3毫米，负责把声音震动传给内耳，别看它小，是听觉传导链条上的最后一棒。"
-  },
-  {
     "id": "general-046",
     "category": "general",
     "difficulty": "easy",
@@ -642,34 +376,6 @@
     ],
     "correctAnswer": 2,
     "explanation": "《未成年人保护法》和《民法典》均规定，未满十八周岁的公民为未成年人，年满十八周岁即成为完全民事行为能力人。"
-  },
-  {
-    "id": "general-047",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "普通感冒大多由病毒引起，这种情况下吃抗生素（消炎药）对治好感冒有没有用？",
-    "options": [
-      "没用，抗生素只对细菌感染有效",
-      "有用，能直接杀死感冒病毒",
-      "有用，但只对儿童有效",
-      "没用，只有输液才有效"
-    ],
-    "correctAnswer": 0,
-    "explanation": "抗生素只能对付细菌，对病毒完全无能为力，而九成以上的普通感冒都是病毒引起的；滥用抗生素不仅没用，还可能带来耐药性问题。"
-  },
-  {
-    "id": "general-048",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "健康成年人在空腹状态下，血糖的正常参考范围大约是多少？",
-    "options": [
-      "1.5~3.5 mmol/L",
-      "3.9~6.1 mmol/L",
-      "7.0~9.0 mmol/L",
-      "10.0~12.0 mmol/L"
-    ],
-    "correctAnswer": 1,
-    "explanation": "空腹血糖正常范围一般是3.9~6.1 mmol/L，超过7.0 mmol/L就需要警惕糖尿病了，这也是体检报告里最常被圈出来提醒的一项指标。"
   },
   {
     "id": "general-049",
@@ -686,20 +392,6 @@
     "explanation": "现行第二代身份证号码为18位，最后一位是根据前17位数字算出来的校验码，偶尔会用字母X表示；老式第一代身份证曾是15位。"
   },
   {
-    "id": "general-050",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "在网球比赛的计分规则里，一局比赛中0分通常被称为什么？",
-    "options": [
-      "Zero",
-      "Nil",
-      "Nothing",
-      "Love"
-    ],
-    "correctAnswer": 3,
-    "explanation": "网球计分里0分说成『Love』，据说源自法语『l'œuf』（鸡蛋），因为『0』的形状像颗鸡蛋——算是网球赛场上最浪漫的一个数字。"
-  },
-  {
     "id": "general-051",
     "category": "general",
     "difficulty": "hard",
@@ -712,20 +404,6 @@
     ],
     "correctAnswer": 1,
     "explanation": "『乳酸堆积导致酸痛』是流传很广的误解，乳酸其实运动后一小时左右就代谢掉了；真正的酸痛感来自肌纤维微损伤后修复过程中的炎症反应。"
-  },
-  {
-    "id": "general-052",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "根据国际乒联规则，比赛用球拍两面胶皮必须是什么颜色组合？",
-    "options": [
-      "一面红色、一面黑色",
-      "两面都是红色",
-      "两面都是黑色",
-      "颜色不限，选手自定"
-    ],
-    "correctAnswer": 0,
-    "explanation": "国际乒联规定球拍两面必须一红一黑，方便对手和裁判分辨不同胶皮的旋转特性，这项规则从1980年代沿用至今。"
   },
   {
     "id": "general-053",
@@ -744,71 +422,15 @@
   {
     "id": "general-054",
     "category": "general",
-    "difficulty": "medium",
-    "question": "铁人三项比赛的三个项目，标准比赛顺序是？",
+    "difficulty": "easy",
+    "question": "雷雨天气时，下列做法正确的是？",
     "options": [
-      "跑步→自行车→游泳",
-      "自行车→游泳→跑步",
-      "游泳→自行车→跑步",
-      "游泳→跑步→自行车"
+      "躲在大树下避雨",
+      "在空旷处打伞行走",
+      "尽快进入有避雷设施的建筑内",
+      "在水边逗留"
     ],
     "correctAnswer": 2,
-    "explanation": "铁人三项固定顺序是游泳、自行车、跑步，选手要在换项区快速脱下泳装换装备，这段换项时间同样会计入最终比赛成绩。"
-  },
-  {
-    "id": "general-055",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "世界上第一枚正式发行的邮票，是1840年英国发行的哪一枚？",
-    "options": [
-      "蓝便士",
-      "黑便士",
-      "红便士",
-      "金便士"
-    ],
-    "correctAnswer": 1,
-    "explanation": "『黑便士』（Penny Black）1840年在英国发行，票面印着维多利亚女王头像，开创了『先购票、后寄信』的现代邮政制度，如今是集邮界的传奇藏品。"
-  },
-  {
-    "id": "general-056",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "NBA正式比赛通常分为几节，每节比赛时间是多少分钟？",
-    "options": [
-      "4节，每节12分钟",
-      "4节，每节10分钟",
-      "2节，每节24分钟",
-      "3节，每节15分钟"
-    ],
-    "correctAnswer": 0,
-    "explanation": "NBA比赛为4节、每节12分钟，总时长48分钟；国际篮联（FIBA）比赛则是每节10分钟，这也是国际比赛和NBA节奏看起来不太一样的原因之一。"
-  },
-  {
-    "id": "general-057",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "按母语使用人数统计，全世界使用人数最多的语言是？",
-    "options": [
-      "英语",
-      "西班牙语",
-      "汉语（普通话）",
-      "印地语"
-    ],
-    "correctAnswer": 2,
-    "explanation": "按母语人数排名，汉语普通话长期位居世界第一；但如果按『会说的总人数』（含第二语言使用者）统计，英语常常反超，两种统计口径经常被人混为一谈。"
-  },
-  {
-    "id": "general-058",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "奥运会举重比赛的两个比赛项目分别叫什么？",
-    "options": [
-      "推举和卧举",
-      "硬拉和深蹲",
-      "抓举和卧举",
-      "抓举和挺举"
-    ],
-    "correctAnswer": 3,
-    "explanation": "举重比赛由抓举（一把举过头顶）和挺举（先提到肩再举过头）两个动作组成，最终成绩取两项动作中各自的最好成绩相加。"
+    "explanation": "大树、空旷高地和水边都容易遭雷击，应尽快进入装有避雷装置的房屋或汽车内。"
   }
 ]

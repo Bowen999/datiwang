@@ -29,12 +29,16 @@
       "name": "艺术娱乐"
     },
     {
-      "id": "music",
-      "name": "华语金曲"
-    },
-    {
       "id": "picture",
       "name": "看图猜猜"
+    },
+    {
+      "id": "music",
+      "name": "听歌猜猜"
+    },
+    {
+      "id": "lyrics",
+      "name": "华语金曲"
     },
     {
       "id": "sports",

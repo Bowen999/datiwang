@@ -283,7 +283,7 @@
     "id": "sports-021",
     "category": "sports",
     "difficulty": "easy",
-    "question": "2026年世界杯首次由几个国家联合承办？",
+    "question": "2026年世界杯将由几个国家联合承办？",
     "options": [
       "1个",
       "2个",
@@ -711,7 +711,7 @@
       "裁判判罚点球绝杀"
     ],
     "correctAnswer": 0,
-    "explanation": "常规时间3比3战平（姆巴佩上演帽子戏法），加时赛也是3比3，最终阿根廷在点球大战中4比2获胜，梅西终于捧起了梦寐以求的大力神杯。"
+    "explanation": "常规时间2比2战平，加时赛双方各入一球打成3比3（姆巴佩上演帽子戏法），最终阿根廷在点球大战中4比2获胜，梅西终于捧起了梦寐以求的大力神杯。"
   },
   {
     "id": "sports-052",
@@ -2084,5 +2084,159 @@
     ],
     "correctAnswer": 2,
     "explanation": "2008年北京奥运会开幕式上，姚明走在中国代表团最前面，身旁牵着汶川地震中的小英雄林浩。"
+  },
+  {
+    "id": "sports-150",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "正式羽毛球比赛采用三局两胜制，每局先得多少分（且领先至少 2 分）的一方获胜？",
+    "options": [
+      "11 分",
+      "15 分",
+      "21 分",
+      "25 分"
+    ],
+    "correctAnswer": 2,
+    "explanation": "现行羽毛球规则每局 21 分，打到 20 平后须领先 2 分，先到 30 分者胜。"
+  },
+  {
+    "id": "sports-151",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "2001 年起，国际乒乓球正式比赛将每局 21 分制改为了多少分制？",
+    "options": [
+      "15 分",
+      "11 分",
+      "25 分",
+      "7 分"
+    ],
+    "correctAnswer": 1,
+    "explanation": "国际乒联自 2001 年 9 月起改用 11 分制，同时每人连续发球从 5 个改为 2 个，比赛节奏明显加快。"
+  },
+  {
+    "id": "sports-152",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "马拉松比赛的全程精确距离是多少？",
+    "options": [
+      "40.195 公里",
+      "41.195 公里",
+      "42.195 公里",
+      "43.195 公里"
+    ],
+    "correctAnswer": 2,
+    "explanation": "马拉松全程 42.195 公里，这个零头源自 1908 年伦敦奥运会为方便英国王室观赛而调整的赛道长度。"
+  },
+  {
+    "id": "sports-153",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "篮球比赛中，进攻方从控球开始必须在多少秒内完成投篮出手？",
+    "options": [
+      "12 秒",
+      "24 秒",
+      "30 秒",
+      "8 秒"
+    ],
+    "correctAnswer": 1,
+    "explanation": "NBA 与国际篮联均采用 24 秒进攻时限；8 秒是带球过半场的时限，很容易被记混。"
+  },
+  {
+    "id": "sports-154",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "一场标准足球比赛，每支球队同时在场上的球员是多少人？",
+    "options": [
+      "9 人",
+      "10 人",
+      "12 人",
+      "11 人"
+    ],
+    "correctAnswer": 3,
+    "explanation": "每队 11 人，含 1 名守门员；篮球是 5 人，排球是 6 人，别记混哦。"
+  },
+  {
+    "id": "sports-155",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "拳击比赛中，裁判或队医因一方选手明显无法安全继续比赛而叫停、判对方获胜，这种结果被称为？",
+    "options": [
+      "TKO（技术性击倒）",
+      "KO（击倒）",
+      "点数判负",
+      "犯规判负"
+    ],
+    "correctAnswer": 0,
+    "explanation": "TKO即Technical Knockout（技术性击倒），选手并没有被真正数秒倒地，而是裁判或医生出于安全考虑主动终止了比赛；被数满10秒未能起身的才叫KO。"
+  },
+  {
+    "id": "sports-156",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "在网球比赛的计分规则里，一局比赛中0分通常被称为什么？",
+    "options": [
+      "Zero",
+      "Nil",
+      "Nothing",
+      "Love"
+    ],
+    "correctAnswer": 3,
+    "explanation": "网球计分里0分说成『Love』，据说源自法语『l'œuf』（鸡蛋），因为『0』的形状像颗鸡蛋——算是网球赛场上最浪漫的一个数字。"
+  },
+  {
+    "id": "sports-157",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "根据国际乒联规则，比赛用球拍两面胶皮必须是什么颜色组合？",
+    "options": [
+      "一面红色、一面黑色",
+      "两面都是红色",
+      "两面都是黑色",
+      "颜色不限，选手自定"
+    ],
+    "correctAnswer": 0,
+    "explanation": "国际乒联规定球拍两面必须一红一黑，方便对手和裁判分辨不同胶皮的旋转特性，这项规则从1980年代沿用至今。"
+  },
+  {
+    "id": "sports-158",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "铁人三项比赛的三个项目，标准比赛顺序是？",
+    "options": [
+      "跑步→自行车→游泳",
+      "自行车→游泳→跑步",
+      "游泳→自行车→跑步",
+      "游泳→跑步→自行车"
+    ],
+    "correctAnswer": 2,
+    "explanation": "铁人三项固定顺序是游泳、自行车、跑步，选手要在换项区快速脱下泳装换装备，这段换项时间同样会计入最终比赛成绩。"
+  },
+  {
+    "id": "sports-159",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "NBA正式比赛通常分为几节，每节比赛时间是多少分钟？",
+    "options": [
+      "4节，每节12分钟",
+      "4节，每节10分钟",
+      "2节，每节24分钟",
+      "3节，每节15分钟"
+    ],
+    "correctAnswer": 0,
+    "explanation": "NBA比赛为4节、每节12分钟，总时长48分钟；国际篮联（FIBA）比赛则是每节10分钟，这也是国际比赛和NBA节奏看起来不太一样的原因之一。"
+  },
+  {
+    "id": "sports-160",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "奥运会举重比赛的两个比赛项目分别叫什么？",
+    "options": [
+      "推举和卧举",
+      "硬拉和深蹲",
+      "抓举和卧举",
+      "抓举和挺举"
+    ],
+    "correctAnswer": 3,
+    "explanation": "举重比赛由抓举（一把举过头顶）和挺举（先提到肩再举过头）两个动作组成，最终成绩取两项动作中各自的最好成绩相加。"
   }
 ]

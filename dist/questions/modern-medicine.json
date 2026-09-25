@@ -698,5 +698,117 @@
     ],
     "correctAnswer": 1,
     "explanation": "姑息治疗通过控制疼痛和其他身心症状，改善患者及家庭生活质量，可在疾病任何阶段与根治性治疗并行。"
+  },
+  {
+    "id": "modern-medicine-051",
+    "category": "modern-medicine",
+    "difficulty": "hard",
+    "question": "国际标准的成年人正常静息心率范围大约是每分钟多少次？",
+    "options": [
+      "40～60 次",
+      "60～100 次",
+      "100～120 次",
+      "120～140 次"
+    ],
+    "correctAnswer": 1,
+    "explanation": "医学上一般认为成年人静息心率在 60～100 次/分钟之间属于正常范围。"
+  },
+  {
+    "id": "modern-medicine-052",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "按照通行的医学标准，成年人血压达到或超过哪个数值，通常会被诊断为高血压？",
+    "options": [
+      "120/80 毫米汞柱",
+      "130/85 毫米汞柱",
+      "140/90 毫米汞柱",
+      "160/100 毫米汞柱"
+    ],
+    "correctAnswer": 2,
+    "explanation": "诊室血压≥140/90 毫米汞柱即达到高血压诊断标准；120/80 左右才是理想血压。"
+  },
+  {
+    "id": "modern-medicine-053",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "人体长期缺乏维生素 C，最容易患上哪种疾病？",
+    "options": [
+      "夜盲症",
+      "坏血病",
+      "佝偻病",
+      "脚气病"
+    ],
+    "correctAnswer": 1,
+    "explanation": "缺维生素 C 致坏血病，缺维生素 A 致夜盲症，缺维生素 D 致佝偻病，缺维生素 B1 致脚气病。大航海时代坏血病曾是水手的噩梦。"
+  },
+  {
+    "id": "modern-medicine-054",
+    "category": "modern-medicine",
+    "difficulty": "hard",
+    "question": "正常成年人全身共有多少块骨头？",
+    "options": [
+      "206 块",
+      "106 块",
+      "256 块",
+      "306 块"
+    ],
+    "correctAnswer": 0,
+    "explanation": "成年人有 206 块骨骼；婴儿出生时有 300 多块，成长过程中部分骨骼会逐渐融合。"
+  },
+  {
+    "id": "modern-medicine-055",
+    "category": "modern-medicine",
+    "difficulty": "easy",
+    "question": "由于红细胞表面几乎不含A、B抗原，紧急情况下可输给绝大多数患者、因此常被称为『万能供血者』的血型是？",
+    "options": [
+      "A型",
+      "O型",
+      "AB型",
+      "B型"
+    ],
+    "correctAnswer": 1,
+    "explanation": "O型红细胞缺少A、B抗原，紧急抢救时常被当作通用血源；不过严格配血仍需同时核对Rh因子，『万能』只是通俗说法，并非绝对安全。"
+  },
+  {
+    "id": "modern-medicine-056",
+    "category": "modern-medicine",
+    "difficulty": "hard",
+    "question": "人体全身最小的一块骨头，藏在身体的哪个部位？",
+    "options": [
+      "手指关节",
+      "脚趾末端",
+      "鼻腔深处",
+      "耳朵中耳内"
+    ],
+    "correctAnswer": 3,
+    "explanation": "这块骨头叫『镫骨』，位于中耳，长度只有约3毫米，负责把声音震动传给内耳，别看它小，是听觉传导链条上的最后一棒。"
+  },
+  {
+    "id": "modern-medicine-057",
+    "category": "modern-medicine",
+    "difficulty": "medium",
+    "question": "普通感冒大多由病毒引起，这种情况下吃抗生素（消炎药）对治好感冒有没有用？",
+    "options": [
+      "没用，抗生素只对细菌感染有效",
+      "有用，能直接杀死感冒病毒",
+      "有用，但只对儿童有效",
+      "没用，只有输液才有效"
+    ],
+    "correctAnswer": 0,
+    "explanation": "抗生素只能对付细菌，对病毒完全无能为力，而九成以上的普通感冒都是病毒引起的；滥用抗生素不仅没用，还可能带来耐药性问题。"
+  },
+  {
+    "id": "modern-medicine-058",
+    "category": "modern-medicine",
+    "difficulty": "hard",
+    "question": "健康成年人在空腹状态下，血糖的正常参考范围大约是多少？",
+    "options": [
+      "1.5~3.5 mmol/L",
+      "3.9~6.1 mmol/L",
+      "7.0~9.0 mmol/L",
+      "10.0~12.0 mmol/L"
+    ],
+    "correctAnswer": 1,
+    "explanation": "空腹血糖正常范围一般是3.9~6.1 mmol/L，超过7.0 mmol/L就需要警惕糖尿病了，这也是体检报告里最常被圈出来提醒的一项指标。"
   }
 ]

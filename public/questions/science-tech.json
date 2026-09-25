@@ -1540,20 +1540,6 @@
     "explanation": "海尔蒙特严谨地在实验前后都称重了柳树和土壤，是科学史上最早的定量实验之一，虽然他没能认识到二氧化碳和光合作用的作用，但「树的重量主要不是来自土壤」这个结论是对的。"
   },
   {
-    "id": "science-tech-111",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "《本草纲目》的作者李时珍生活在哪个朝代？",
-    "options": [
-      "唐代",
-      "宋代",
-      "明代",
-      "清代"
-    ],
-    "correctAnswer": 2,
-    "explanation": "李时珍是明代本草学家，他历时二十七年、三易其稿写成《本草纲目》，收载药物1892种，被称为「东方医药巨典」；不少人误记成唐代或清代。"
-  },
-  {
     "id": "science-tech-112",
     "category": "science-tech",
     "difficulty": "easy",
@@ -1566,34 +1552,6 @@
     ],
     "correctAnswer": 0,
     "explanation": "明代宋应星的《天工开物》系统记录了农业和手工业的各种生产技术，是世界上最早的综合性科技著作之一；《梦溪笔谈》是沈括的笔记，很多人会把两者记混。"
-  },
-  {
-    "id": "science-tech-113",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "1950年图灵提出著名的「图灵测试」，它的核心内容是什么？",
-    "options": [
-      "通过文字问答，让裁判难以分辨对方是人还是机器",
-      "通过语音打分，检验机器的发音是否标准",
-      "让机器人完成家务，检验其动手能力",
-      "测试机器能否在围棋等棋类中战胜人类"
-    ],
-    "correctAnswer": 0,
-    "explanation": "如果裁判隔着屏幕问答仍无法可靠区分对方是人还是机器，就认为机器通过了测试、算得上「会思考」。图灵因此在人工智能领域被誉为「人工智能之父」。"
-  },
-  {
-    "id": "science-tech-114",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "2016年3月，人工智能围棋程序AlphaGo在五番棋人机大战中4:1战胜的人类棋手是谁？",
-    "options": [
-      "柯洁",
-      "李世石",
-      "聂卫平",
-      "申真谞"
-    ],
-    "correctAnswer": 1,
-    "explanation": "AlphaGo以4:1击败韩国棋手李世石，震动世界棋坛；次年5月它又零封当时世界排名第一的柯洁。"
   },
   {
     "id": "science-tech-115",
@@ -2098,20 +2056,6 @@
     ],
     "correctAnswer": 2,
     "explanation": "国际天文学联合会1928年划定全天88个星座；黄道十二宫只是其中一部分。"
-  },
-  {
-    "id": "science-tech-151",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "太阳系中体积最大的行星是？",
-    "options": [
-      "土星",
-      "木星",
-      "天王星",
-      "海王星"
-    ],
-    "correctAnswer": 1,
-    "explanation": "木星质量约为其他七大行星总和的2.5倍，体积是地球的1300多倍。"
   },
   {
     "id": "science-tech-152",
@@ -2702,20 +2646,6 @@
     "explanation": "银河系是有四条旋臂的棒旋星系，中心有一个恒星棒状结构。"
   },
   {
-    "id": "science-tech-194",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "光谱线向红端移动（红移）说明天体在？",
-    "options": [
-      "靠近我们",
-      "远离我们",
-      "变冷",
-      "变热"
-    ],
-    "correctAnswer": 1,
-    "explanation": "远离我们的光源发出的光波波长被拉长，谱线向红端移动，称为多普勒红移。"
-  },
-  {
     "id": "science-tech-195",
     "category": "science-tech",
     "difficulty": "easy",
@@ -2982,20 +2912,6 @@
     "explanation": "1969年7月20日，阿波罗11号宇航员阿姆斯特朗成为第一个踏上月球的人。"
   },
   {
-    "id": "science-tech-214",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "第一位进入太空的地球人是？",
-    "options": [
-      "阿姆斯特朗",
-      "加加林",
-      "杨利伟",
-      "艾伦·谢泼德"
-    ],
-    "correctAnswer": 1,
-    "explanation": "1961年苏联宇航员加加林乘东方1号首次进入太空；阿姆斯特朗是第一个登月的人。"
-  },
-  {
     "id": "science-tech-215",
     "category": "science-tech",
     "difficulty": "easy",
@@ -3136,20 +3052,6 @@
     "explanation": "19世纪天文学家根据天王星轨道异常计算出未知行星位置，随后用望远镜找到了海王星。"
   },
   {
-    "id": "science-tech-225",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "“银心”在天球上位于哪个星座方向？",
-    "options": [
-      "人马座",
-      "猎户座",
-      "仙女座",
-      "天鹅座"
-    ],
-    "correctAnswer": 0,
-    "explanation": "银河系的中心方向落在人马座，那里有超大质量黑洞人马座A*。"
-  },
-  {
     "id": "science-tech-226",
     "category": "science-tech",
     "difficulty": "easy",
@@ -3192,20 +3094,6 @@
     "explanation": "FAST是世界最大的单口径射电望远镜，位于贵州，口径达500米。"
   },
   {
-    "id": "science-tech-229",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "中国首位进入太空的航天员是？",
-    "options": [
-      "杨利伟",
-      "翟志刚",
-      "景海鹏",
-      "刘洋"
-    ],
-    "correctAnswer": 0,
-    "explanation": "2003年杨利伟乘神舟五号进入太空，成为中国飞天第一人；刘洋是首位女航天员。"
-  },
-  {
     "id": "science-tech-230",
     "category": "science-tech",
     "difficulty": "easy",
@@ -3218,216 +3106,6 @@
     ],
     "correctAnswer": 0,
     "explanation": "凌日时小天体的视直径小于背景天体，只是从圆面前经过，如水星凌日、金星凌日；若完全遮住则叫“掩”。"
-  },
-  {
-    "id": "science-tech-231",
-    "category": "science-tech",
-    "difficulty": "hard",
-    "question": "苹果公司成立仅12天，某位联合创始人就把自己10%的股份卖了，换了多少钱？",
-    "options": [
-      "800美元",
-      "8000美元",
-      "80美元",
-      "8万美元"
-    ],
-    "correctAnswer": 0,
-    "explanation": "被遗忘的“第三位创始人”罗纳德·韦恩，因担心公司欠款连累自己，1976年只用800美元就卖掉了10%股份，这笔股份如今价值数千亿美元。"
-  },
-  {
-    "id": "science-tech-232",
-    "category": "science-tech",
-    "difficulty": "medium",
-    "question": "苹果那个被咬了一口的彩虹logo，设计师当初“咬”这一口的真正原因是？",
-    "options": [
-      "致敬“byte”字节的谐音梗",
-      "防止图案缩小后被认成樱桃",
-      "象征知识之果被咬的典故",
-      "纯粹是设计师的随手签名"
-    ],
-    "correctAnswer": 1,
-    "explanation": "设计师罗布·雅诺夫最初只是想让苹果图案在印得很小时也不会被误认成樱桃，“咬一口”和“字节”（byte）的谐音梗其实是同事事后才发现的意外巧合。"
-  },
-  {
-    "id": "science-tech-233",
-    "category": "science-tech",
-    "difficulty": "hard",
-    "question": "微软公司1975年创立时，第一个总部设在哪座城市？",
-    "options": [
-      "华盛顿州西雅图",
-      "加州硅谷",
-      "新墨西哥州阿尔伯克基",
-      "华盛顿州贝尔维尤"
-    ],
-    "correctAnswer": 2,
-    "explanation": "比尔·盖茨和保罗·艾伦为了给Altair 8800电脑的制造商MITS写软件，把公司开在了阿尔伯克基，直到1979年才因招不到顶尖程序员搬去西雅图附近。"
-  },
-  {
-    "id": "science-tech-234",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "谷歌搜索引擎刚被开发出来时，创始人给它起的名字其实是？",
-    "options": [
-      "PageRank",
-      "BackRub",
-      "SearchIt",
-      "WebCrawler"
-    ],
-    "correctAnswer": 1,
-    "explanation": "佩奇和布林当年的算法主要靠分析网页间的“反向链接”打分，因此最初取名BackRub（背部按摩），1998年公司成立时才改名Google。"
-  },
-  {
-    "id": "science-tech-235",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "“Google”这个名字，其实是哪个数学术语拼写错误后将错就错的结果？",
-    "options": [
-      "无穷大 infinity",
-      "十的一百次方 googol",
-      "二进制 binary",
-      "万维网 web"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Googol指1后面跟100个零的天文数字，寓意搜索引擎能处理海量信息，创始人注册域名时手滑拼错成Google，结果将错就错沿用至今。"
-  },
-  {
-    "id": "science-tech-236",
-    "category": "science-tech",
-    "difficulty": "hard",
-    "question": "亚马逊差点被注册成另一个名字，后来因律师听岔了才紧急改名，那个原名是？",
-    "options": [
-      "阿拉丁 Aladdin",
-      "咒语 Cadabra",
-      "精灵 Genie",
-      "芝麻开门 Sesame"
-    ],
-    "correctAnswer": 1,
-    "explanation": "贝索斯本想取名Cadabra（取自魔咒Abracadabra），律师却听成了“Cadaver”（尸体），他立刻改主意，转而用世界最大的河流“亚马逊”来命名公司。"
-  },
-  {
-    "id": "science-tech-237",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "腾讯QQ最早并不叫QQ，它1999年上线时用的名字是什么？",
-    "options": [
-      "OICQ",
-      "QICQ",
-      "TQ通讯",
-      "ICQ中国版"
-    ],
-    "correctAnswer": 0,
-    "explanation": "OICQ是模仿以色列即时通讯软件ICQ做的产品，上线后一炮而红，却因此惹上ICQ母公司AOL的商标诉讼，腾讯被迫在2000年把它改名为QQ。"
-  },
-  {
-    "id": "science-tech-238",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "百度这个名字，其实是从哪首宋词里“摘”出来的？",
-    "options": [
-      "苏轼《水调歌头》",
-      "李清照《声声慢》",
-      "辛弃疾《青玉案·元夕》",
-      "柳永《雨霖铃》"
-    ],
-    "correctAnswer": 2,
-    "explanation": "词中名句“众里寻他千百度，蓦然回首，那人却在，灯火阑珊处”，李彦宏借“千百度”比喻反复搜寻的过程，百度公司至今有间会议室就叫“青玉案”。"
-  },
-  {
-    "id": "science-tech-239",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "1999年，马云和“十八罗汉”是在哪里开会决定创立阿里巴巴的？",
-    "options": [
-      "杭州一间写字楼会议室",
-      "马云自己家的公寓",
-      "杭州电子科技大学教室",
-      "深圳一间仓库"
-    ],
-    "correctAnswer": 1,
-    "explanation": "十八个人挤在杭州湖畔花园马云家里，屋里只有一张旧沙发，大部分人席地而坐，马云足足讲了两个小时——这间“陋室”后来被完整搬进了阿里园区。"
-  },
-  {
-    "id": "science-tech-240",
-    "category": "science-tech",
-    "difficulty": "medium",
-    "question": "微信的最初开发团队设在哪座城市，而不是腾讯总部深圳？",
-    "options": [
-      "上海",
-      "广州",
-      "北京",
-      "杭州"
-    ],
-    "correctAnswer": 1,
-    "explanation": "微信之父张小龙此前开发的Foxmail被腾讯收购，他本人不愿搬去深圳，马化腾干脆在广州为他设了研发中心，2011年微信就在那里不到70天做出了第一版。"
-  },
-  {
-    "id": "science-tech-241",
-    "category": "science-tech",
-    "difficulty": "hard",
-    "question": "字节跳动公司成立于2012年，这其实是创始人张一鸣的第几次创业？",
-    "options": [
-      "第二次",
-      "第三次",
-      "第五次",
-      "第一次"
-    ],
-    "correctAnswer": 2,
-    "explanation": "张一鸣2012年3月在北京一间民宅开启了第五次创业，此前他先后在酷讯、微软、饭否等公司或自己的项目里摸爬滚打过好几轮。"
-  },
-  {
-    "id": "science-tech-242",
-    "category": "science-tech",
-    "difficulty": "medium",
-    "question": "大疆无人机创始人汪滔，最初是在哪里捣鼓出第一代飞行控制器原型的？",
-    "options": [
-      "深圳的一间出租屋",
-      "香港科技大学的宿舍",
-      "清华大学实验室",
-      "硅谷的车库"
-    ],
-    "correctAnswer": 1,
-    "explanation": "汪滔在港科大读研时为做毕业课题经常逃课、熬夜到凌晨，硬是在宿舍里捣鼓出了飞控原型机，2006年才正式在深圳创立大疆。"
-  },
-  {
-    "id": "science-tech-243",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "华为这个名字，据说是任正非创业初期从哪里“顺手”拿来用的？",
-    "options": [
-      "一本商业杂志的封面",
-      "办公室墙上的标语",
-      "一位投资人的建议",
-      "工商注册处随机分配"
-    ],
-    "correctAnswer": 1,
-    "explanation": "任正非当年注册公司时一时想不出名字，看着墙上“中华有为”的标语响亮好记，就直接拿来用了，后来他解释这寓意“中国人做的东西不比外国人差”。"
-  },
-  {
-    "id": "science-tech-244",
-    "category": "science-tech",
-    "difficulty": "hard",
-    "question": "网飞（Netflix）创始人常讲的“迟还录像带被罚40美元、一怒之下创业”的故事，后来被证实是？",
-    "options": [
-      "完全真实，有罚款单为证",
-      "另一位联合创始人自曝这是编出来的动听故事",
-      "罚款其实只有4美元",
-      "罚的是别的电影，故事被记错了"
-    ],
-    "correctAnswer": 1,
-    "explanation": "联合创始人马克·伦道夫在回忆录里承认，这个“迟还费之痛”只是公司编出来的动听故事，真实起因是两人想做“卖DVD版的亚马逊”，早期Netflix甚至照样收滞纳金。"
-  },
-  {
-    "id": "science-tech-245",
-    "category": "science-tech",
-    "difficulty": "medium",
-    "question": "任天堂公司创立于1889年，最初的主营业务其实是什么？",
-    "options": [
-      "制造木质玩具",
-      "手工制作日式花牌",
-      "经营米店",
-      "生产钟表"
-    ],
-    "correctAnswer": 1,
-    "explanation": "创始人山内房治郎在京都开店手工制作“花札”纸牌，直到20世纪60年代才开始做玩具，70年代才转型成游戏公司——卖了近百年纸牌才轮到卖游戏机。"
   },
   {
     "id": "science-tech-246",
@@ -3598,104 +3276,6 @@
     "explanation": "开发团队内部最初把这台主机叫作“DirectX Box”，本想以后再换个正式名字，结果“Xbox”这个简称反而一路沿用到了正式发售。"
   },
   {
-    "id": "science-tech-258",
-    "category": "science-tech",
-    "difficulty": "hard",
-    "question": "游戏公司世嘉（SEGA）这个名字，其实是哪个英文短语的缩写？",
-    "options": [
-      "Service Games",
-      "Super Entertainment Game",
-      "Sensational Electronic Game",
-      "创始人的姓氏缩写"
-    ],
-    "correctAnswer": 0,
-    "explanation": "世嘉前身是二战后为驻日美军基地提供投币游戏机、点唱机的美国公司“Service Games”，后来才发展成日本本土的电子游戏巨头。"
-  },
-  {
-    "id": "science-tech-259",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "史蒂夫·乔布斯的身世里有一个冷知识：他其实是被谁抚养长大的？",
-    "options": [
-      "亲生父母",
-      "一对普通的养父母，养父靠卖二手车为生",
-      "祖父母",
-      "孤儿院集体抚养"
-    ],
-    "correctAnswer": 1,
-    "explanation": "乔布斯的生母因家人反对她和男友的恋情，将他送养给保罗和克拉拉·乔布斯夫妇，养父是靠卖二手车为生的普通工人，这对夫妇甚至没读过大学。"
-  },
-  {
-    "id": "science-tech-260",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "马云创业前有一段广为流传的求职“黑历史”：他去应聘肯德基服务员，结果怎样？",
-    "options": [
-      "顺利入选，做了半年就辞职",
-      "24人应聘23人被录取，只有他被刷了",
-      "因学历太高被婉拒",
-      "面试官认出他是老师直接录用"
-    ],
-    "correctAnswer": 1,
-    "explanation": "1992年肯德基刚进杭州，马云带着学生一起去应聘，结果学生全被录取，唯独带队的他被淘汰，这段“全场唯一落选者”的经历后来常被他当作段子讲给创业者听。"
-  },
-  {
-    "id": "science-tech-261",
-    "category": "science-tech",
-    "difficulty": "hard",
-    "question": "小米这个名字，据雷军回忆，灵感来自他很喜欢的哪句话？",
-    "options": [
-      "一屋不扫，何以扫天下",
-      "佛观一粒米，大如须弥山",
-      "不积跬步，无以至千里",
-      "海纳百川，有容乃大"
-    ],
-    "correctAnswer": 1,
-    "explanation": "团队本想叫“大米”，投资人建议互联网创业要“避大就小”，于是改成“小米”，恰好呼应了雷军这句偈语，寓意从小处也能做出大事业。"
-  },
-  {
-    "id": "science-tech-262",
-    "category": "science-tech",
-    "difficulty": "medium",
-    "question": "联想集团的英文名“Lenovo”，是2003年从原来的哪个英文名改过来的？",
-    "options": [
-      "Legend",
-      "Innova",
-      "SinoTech",
-      "GreatWall"
-    ],
-    "correctAnswer": 0,
-    "explanation": "联想原英文名Legend（传奇）在海外多国已被别的公司注册，为扫清国际化路上的商标障碍，2003年改成了“Le”接拉丁语“novo”（新）拼成的Lenovo。"
-  },
-  {
-    "id": "science-tech-263",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "京东创始人刘强东，是因为哪场突发公共卫生事件，被迫把线下柜台生意搬到网上？",
-    "options": [
-      "2003年非典疫情",
-      "2008年汶川地震",
-      "2009年甲流疫情",
-      "1998年亚洲金融危机"
-    ],
-    "correctAnswer": 0,
-    "explanation": "非典期间中关村没人敢出门逛店，刘强东被迫关掉全部线下柜台，员工提议干脆去论坛发帖、用QQ谈生意，这次“被逼上梁山”的转型意外造就了后来的京东商城。"
-  },
-  {
-    "id": "science-tech-264",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "淘宝网2003年上线，它诞生的一大背景是为了对抗当时占据国内C2C市场九成份额的哪家公司？",
-    "options": [
-      "亚马逊",
-      "eBay旗下易趣",
-      "雅虎",
-      "沃尔玛"
-    ],
-    "correctAnswer": 1,
-    "explanation": "淘宝上线时eBay旗下的易趣几乎垄断了国内网购市场，马云秘密开发淘宝，主打免费而非收费模式，两年后就反超了易趣。"
-  },
-  {
     "id": "science-tech-265",
     "category": "science-tech",
     "difficulty": "medium",
@@ -3708,20 +3288,6 @@
     ],
     "correctAnswer": 0,
     "explanation": "抖音和TikTok虽然界面相似、同属字节跳动，但服务器和数据分别存放在中国和海外，主要是为了适配各地不同的监管要求。"
-  },
-  {
-    "id": "science-tech-266",
-    "category": "science-tech",
-    "difficulty": "medium",
-    "question": "诺基亚（Nokia）在转型做手机之前，最早其实是靠什么生意起家的？",
-    "options": [
-      "造纸和木浆生意",
-      "汽车零部件制造",
-      "军工武器生产",
-      "银行金融服务"
-    ],
-    "correctAnswer": 0,
-    "explanation": "诺基亚1865年创立于芬兰一条河边，最初是家木浆造纸厂，后来又并入橡胶厂和电缆厂，直到20世纪80年代才推出第一款移动电话，堪称“跨界老字号”。"
   },
   {
     "id": "science-tech-267",
@@ -3752,20 +3318,6 @@
     "explanation": "被称为“电子游戏之父”的拉尔夫·贝尔设计了这台售价99.95美元的主机，能连电视玩乒乓、赛车等简单游戏，比任天堂红白机还早了十多年。"
   },
   {
-    "id": "science-tech-269",
-    "category": "science-tech",
-    "difficulty": "medium",
-    "question": "马斯克参与创办、后来发展成PayPal的公司，最初的名字是什么？",
-    "options": [
-      "X.com",
-      "PayNet",
-      "ClickCash",
-      "eBank"
-    ],
-    "correctAnswer": 0,
-    "explanation": "马斯克1999年创办的网上银行X.com，2000年与开发出支付功能的Confinity合并，他出任CEO后不久就因经营分歧被董事会罢免，公司2001年才正式改名PayPal。"
-  },
-  {
     "id": "science-tech-270",
     "category": "science-tech",
     "difficulty": "medium",
@@ -3780,34 +3332,6 @@
     "explanation": "这条名叫《Me at the zoo》、只有19秒的视频，是联合创始人贾维德·卡里姆站在大象前随口聊了几句象鼻子，如今播放量已超过4亿次。"
   },
   {
-    "id": "science-tech-271",
-    "category": "science-tech",
-    "difficulty": "medium",
-    "question": "腾讯公司1998年创立时，一共有几位联合创始人？",
-    "options": [
-      "2位",
-      "3位",
-      "5位",
-      "7位"
-    ],
-    "correctAnswer": 2,
-    "explanation": "马化腾联合深大同学张志东，以及曾李青、许晨晔、陈一丹共5人创立了腾讯，业内称他们为“腾讯五虎将”，分管技术、市场、行政等不同板块。"
-  },
-  {
-    "id": "science-tech-272",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "Facebook在2004年刚上线时，它的名字其实是？",
-    "options": [
-      "Facebook",
-      "TheFacebook",
-      "MyFace",
-      "CampusBook"
-    ],
-    "correctAnswer": 1,
-    "explanation": "扎克伯格在哈佛宿舍上线时把它叫作“TheFacebook”，模仿的是大学新生入学发的纸质通讯录“Face Book”，2005年才去掉开头的“The”，简化成Facebook。"
-  },
-  {
     "id": "science-tech-273",
     "category": "science-tech",
     "difficulty": "medium",
@@ -3820,34 +3344,6 @@
     ],
     "correctAnswer": 1,
     "explanation": "初代iPhone只能用苹果自带的应用，乔布斯当时甚至建议开发者做“网页应用”凑合用，直到2008年7月苹果才推出App Store，第三方应用生态从此才算起步。"
-  },
-  {
-    "id": "science-tech-274",
-    "category": "science-tech",
-    "difficulty": "hard",
-    "question": "苹果1998年发布的iMac，其名字里的“i”被乔布斯在发布会上解释为代表什么？",
-    "options": [
-      "仅代表internet互联网",
-      "internet以及individual、instruct等多重含义",
-      "创始人名字的首字母",
-      "intelligent智能的缩写"
-    ],
-    "correctAnswer": 1,
-    "explanation": "乔布斯在发布会上一口气列了五个以i开头的词来解释这个字母，不过后来大家还是习惯性地把它简单理解成“互联网”，“i”系列产品从此成了苹果的命名传统。"
-  },
-  {
-    "id": "science-tech-275",
-    "category": "science-tech",
-    "difficulty": "hard",
-    "question": "苹果公司1976年最初的logo（还没有彩虹苹果咬一口那个），画的是什么内容？",
-    "options": [
-      "一个简单的字母A",
-      "牛顿坐在苹果树下看书",
-      "一台电脑的剪影",
-      "一条咬了一口的蛇"
-    ],
-    "correctAnswer": 1,
-    "explanation": "这个由“第三位创始人”罗纳德·韦恩手绘的复杂徽标，画的是牛顿坐在苹果树下，还配了一句华兹华斯的诗，因过于繁复不适合印刷，一年后就被彩虹苹果取代了。"
   },
   {
     "id": "science-tech-276",
@@ -3878,48 +3374,6 @@
     "explanation": "2009年8月新浪微博开始内测，很快在国内掀起了“围观改变中国”的微博热潮，比腾讯微博还早了差不多一年。"
   },
   {
-    "id": "science-tech-278",
-    "category": "science-tech",
-    "difficulty": "medium",
-    "question": "Instagram在2012年被Facebook以10亿美元收购时，公司总共只有多少名员工？",
-    "options": [
-      "13人",
-      "130人",
-      "300人",
-      "50人"
-    ],
-    "correctAnswer": 0,
-    "explanation": "这笔收购当年轰动一时，一个仅成立18个月、只有13名员工的小团队就卖出了10亿美元，事后来看堪称Facebook历史上最划算的收购之一。"
-  },
-  {
-    "id": "science-tech-279",
-    "category": "science-tech",
-    "difficulty": "hard",
-    "question": "Snapchat（阅后即焚照片应用）最初上线时用的并不是这个名字，而是？",
-    "options": [
-      "Picaboo",
-      "FlashChat",
-      "SelfDestruct",
-      "Boo"
-    ],
-    "correctAnswer": 0,
-    "explanation": "这个名字玩的是英文“Peekaboo”（躲猫猫）的谐音，无奈已被一家做照片相册的公司注册了商标，创始团队上线两个月后就只好改名Snapchat。"
-  },
-  {
-    "id": "science-tech-280",
-    "category": "science-tech",
-    "difficulty": "hard",
-    "question": "WhatsApp两位创始人创业前都曾在同一家公司工作，还都被这家公司拒过一次社招，是哪家？",
-    "options": [
-      "谷歌",
-      "雅虎",
-      "微软",
-      "eBay"
-    ],
-    "correctAnswer": 1,
-    "explanation": "两人都是雅虎前员工，离职后曾一起申请过Facebook的工作却都被拒，谁能想到几年后，正是这家拒绝过他们的公司花190亿美元把WhatsApp买了下来。"
-  },
-  {
     "id": "science-tech-281",
     "category": "science-tech",
     "difficulty": "medium",
@@ -3932,62 +3386,6 @@
     ],
     "correctAnswer": 0,
     "explanation": "工作人员把这只飞蛾从继电器里取出来，贴在工作日志上并写下“这是发现真正bug的第一个实例”，这份带着“证物”的日志如今被史密森尼博物馆收藏。"
-  },
-  {
-    "id": "science-tech-282",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "阿里巴巴最早（1999年）做的业务其实是什么？",
-    "options": [
-      "面向中小企业的B2B外贸信息平台",
-      "淘宝网这样的C2C网购平台",
-      "支付宝这样的第三方支付",
-      "云计算服务"
-    ],
-    "correctAnswer": 0,
-    "explanation": "阿里巴巴起家靠的是alibaba.com，帮中国中小外贸企业和海外买家牵线搭桥，淘宝、支付宝这些如今更有名的业务都是2003年之后才陆续孵化出来的。"
-  },
-  {
-    "id": "science-tech-283",
-    "category": "science-tech",
-    "difficulty": "medium",
-    "question": "支付宝最初是为解决淘宝网买卖双方互不信任的问题而设计的，它的核心机制是什么？",
-    "options": [
-      "担保交易，买家确认收货后才放款给卖家",
-      "全额先赔付平台保险",
-      "买家先付定金、收货后再付尾款",
-      "由银行直接担保每笔交易"
-    ],
-    "correctAnswer": 0,
-    "explanation": "买家把钱先付给支付宝“托管”，确认收货没问题后钱才会打给卖家，这套模式极大缓解了早期网购互不信任的难题，后来被国内几乎所有电商平台效仿。"
-  },
-  {
-    "id": "science-tech-284",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "京东最早是从哪种实体生意起家的？",
-    "options": [
-      "中关村的光磁产品柜台",
-      "图书批发",
-      "服装零售",
-      "水果批发"
-    ],
-    "correctAnswer": 0,
-    "explanation": "1998年刘强东从人大毕业后在中关村租下柜台，主营刻录机、光碟等“光磁产品”，取名“京东多媒体”，一路做到12家连锁店，直到2003年非典才被迫转型电商。"
-  },
-  {
-    "id": "science-tech-285",
-    "category": "science-tech",
-    "difficulty": "hard",
-    "question": "字节跳动2017年斥资近10亿美元收购、后来直接并入TikTok的海外短视频App叫什么？",
-    "options": [
-      "Musical.ly",
-      "Vine",
-      "Dubsmash",
-      "Triller"
-    ],
-    "correctAnswer": 0,
-    "explanation": "这是今日头条系当年最大的一笔海外并购，2018年8月Musical.ly正式与TikTok合并、账号数据全部迁移，“Musical.ly”这个名字就此退出历史舞台。"
   },
   {
     "id": "science-tech-286",
@@ -4900,20 +4298,6 @@
     "explanation": "声音传播需要介质，真空中没有介质，声音无法传播，所以太空是寂静的。"
   },
   {
-    "id": "science-tech-351",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "光在真空中的速度约为每秒多少千米？",
-    "options": [
-      "3万千米",
-      "30万千米",
-      "300万千米",
-      "3000万千米"
-    ],
-    "correctAnswer": 1,
-    "explanation": "光速约为30万千米/秒（精确为299792千米/秒），是目前已知最快的速度。"
-  },
-  {
     "id": "science-tech-352",
     "category": "science-tech",
     "difficulty": "easy",
@@ -4996,20 +4380,6 @@
     ],
     "correctAnswer": 1,
     "explanation": "平面镜成像利用光的反射，所成的是正立等大的虚像。"
-  },
-  {
-    "id": "science-tech-358",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "晴朗的天空呈蔚蓝色，主要原因是光的？",
-    "options": [
-      "直线传播",
-      "反射",
-      "散射",
-      "折射"
-    ],
-    "correctAnswer": 2,
-    "explanation": "大气分子对阳光中的短波光（蓝光）散射更强，所以天空看起来是蓝色的。"
   },
   {
     "id": "science-tech-359",
@@ -5180,20 +4550,6 @@
     "explanation": "车减速而人由于惯性仍保持原来的运动状态，所以上身向前倾。"
   },
   {
-    "id": "science-tech-371",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "牛顿第一定律又叫什么定律？",
-    "options": [
-      "惯性定律",
-      "万有引力定律",
-      "作用力定律",
-      "能量守恒定律"
-    ],
-    "correctAnswer": 0,
-    "explanation": "牛顿第一定律指出物体在不受外力时保持静止或匀速直线运动，也叫惯性定律。"
-  },
-  {
     "id": "science-tech-372",
     "category": "science-tech",
     "difficulty": "easy",
@@ -5234,20 +4590,6 @@
     ],
     "correctAnswer": 0,
     "explanation": "摩擦使衣物带电，电荷放电时产生噼啪声，属于静电现象。"
-  },
-  {
-    "id": "science-tech-375",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "雷雨天气时，下列做法正确的是？",
-    "options": [
-      "躲在大树下避雨",
-      "在空旷处打伞行走",
-      "尽快进入有避雷设施的建筑内",
-      "在水边逗留"
-    ],
-    "correctAnswer": 2,
-    "explanation": "大树、空旷高地和水边都容易遭雷击，应尽快进入装有避雷装置的房屋或汽车内。"
   },
   {
     "id": "science-tech-376",
@@ -5390,20 +4732,6 @@
     "explanation": "二氧化碳与石灰水中的氢氧化钙反应生成白色碳酸钙沉淀，使石灰水变浑浊，这是检验CO2的常用方法。"
   },
   {
-    "id": "science-tech-386",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "空气中含量最多的气体是？",
-    "options": [
-      "氧气",
-      "氮气",
-      "二氧化碳",
-      "稀有气体"
-    ],
-    "correctAnswer": 1,
-    "explanation": "氮气约占空气体积的78%，氧气约占21%。"
-  },
-  {
     "id": "science-tech-387",
     "category": "science-tech",
     "difficulty": "easy",
@@ -5418,20 +4746,6 @@
     "explanation": "氧气能支持燃烧和供给呼吸，约占空气体积的21%。"
   },
   {
-    "id": "science-tech-388",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "水的化学式是？",
-    "options": [
-      "CO2",
-      "H2O",
-      "O2",
-      "H2O2"
-    ],
-    "correctAnswer": 1,
-    "explanation": "一个水分子由两个氢原子和一个氧原子构成，化学式为H2O。"
-  },
-  {
     "id": "science-tech-389",
     "category": "science-tech",
     "difficulty": "easy",
@@ -5444,20 +4758,6 @@
     ],
     "correctAnswer": 3,
     "explanation": "地壳中含量前四的元素依次是：氧、硅、铝、铁，氧约占一半。"
-  },
-  {
-    "id": "science-tech-390",
-    "category": "science-tech",
-    "difficulty": "easy",
-    "question": "人体胃液的主要成分是？",
-    "options": [
-      "硫酸",
-      "盐酸",
-      "醋酸",
-      "硝酸"
-    ],
-    "correctAnswer": 1,
-    "explanation": "胃液中含有盐酸，能帮助消化食物、杀灭细菌。"
   },
   {
     "id": "science-tech-391",
@@ -5780,5 +5080,47 @@
     ],
     "correctAnswer": 1,
     "explanation": "气体的溶解度随压强减小而减小，开盖后压强骤降，溶解的二氧化碳大量逸出形成气泡。"
+  },
+  {
+    "id": "science-tech-414",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "大熊猫一天中花费时间最多的事情是什么？",
+    "options": [
+      "啃竹子",
+      "睡大觉",
+      "爬树",
+      "游泳玩水"
+    ],
+    "correctAnswer": 0,
+    "explanation": "大熊猫每天约一半时间都在进食，能吃掉 10～20 公斤竹子，剩下时间大多用来休息消化。"
+  },
+  {
+    "id": "science-tech-415",
+    "category": "science-tech",
+    "difficulty": "medium",
+    "question": "章鱼的身体里有几颗心脏？",
+    "options": [
+      "一颗",
+      "两颗",
+      "四颗",
+      "三颗"
+    ],
+    "correctAnswer": 3,
+    "explanation": "章鱼有三颗心脏：两颗负责给鳃供血，一颗供给全身。它游泳时主心脏会停跳，所以章鱼其实更爱「爬」着走。"
+  },
+  {
+    "id": "science-tech-416",
+    "category": "science-tech",
+    "difficulty": "easy",
+    "question": "植物进行光合作用时，主要吸收空气中的哪种气体？",
+    "options": [
+      "氧气",
+      "二氧化碳",
+      "氮气",
+      "氢气"
+    ],
+    "correctAnswer": 1,
+    "explanation": "植物吸收二氧化碳、释放氧气，和动物的呼吸正好相反，堪称地球的「绿色肺叶」。"
   }
 ]

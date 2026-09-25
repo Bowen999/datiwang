@@ -18,6 +18,10 @@ interface QuestionBase {
   image?: string;
   /** 配图署名（作者/许可证/来源），揭晓答案时显示 */
   imageCredit?: string;
+  /** 听音题的音频（站内路径，如 /questions/audio/song-01.mp3） */
+  audio?: string;
+  /** 音频署名（作者/许可证/来源），揭晓答案时显示 */
+  audioCredit?: string;
 }
 
 /** 选择题：选项 + 正确下标 */
@@ -58,10 +62,10 @@ export interface CategoryMeta {
   name: string;
 }
 
-/** 下发给客户端的题目（不含正确答案） */
+/** 下发给客户端的题目（不含正确答案；署名常含答案线索，同样到揭晓才下发） */
 export type PublicQuestion =
-  | Omit<ChoiceQuestion, 'correctAnswer' | 'explanation' | 'imageCredit'>
-  | Omit<RankingQuestion, 'correctOrder' | 'explanation' | 'imageCredit'>;
+  | Omit<ChoiceQuestion, 'correctAnswer' | 'explanation' | 'imageCredit' | 'audioCredit'>
+  | Omit<RankingQuestion, 'correctOrder' | 'explanation' | 'imageCredit' | 'audioCredit'>;
 
 export interface Player {
   id: string;
@@ -116,6 +120,8 @@ export interface RevealData {
   explanation?: string;
   /** 配图署名：常含答案，所以答题阶段不下发，揭晓时才带上 */
   imageCredit?: string;
+  /** 音频署名：同理，揭晓时才下发 */
+  audioCredit?: string;
   results: AnswerRecord[];
   endsAt: number;
 }
@@ -136,6 +142,8 @@ export interface RoomState {
   usedQuestionIds: string[];
   /** 本局看图题的图片地址，开局时下发，各端提前预加载以免答题时才开始下载 */
   preloadImages?: string[];
+  /** 本局听音题的音频地址，开局时下发，各端提前预加载 */
+  preloadAudio?: string[];
   /** 被房主移出房间的玩家 id（房间存续期内禁止直接加入） */
   kickedIds?: string[];
   /** 被踢玩家的重新加入申请（待房主审批） */

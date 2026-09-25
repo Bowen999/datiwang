@@ -2,6 +2,7 @@ import { AnimatePresence, motion } from 'motion/react';
 import { useEffect, useState } from 'react';
 import { AnswerButton, type AnswerState } from '../components/AnswerButton';
 import { CountdownOverlay } from '../components/CountdownOverlay';
+import { QuestionAudio } from '../components/QuestionAudio';
 import { QuestionImage } from '../components/QuestionImage';
 import { RankingBoard } from '../components/RankingBoard';
 import { RankingList } from '../components/RankingList';
@@ -50,7 +51,7 @@ export function QuizScreen({ room, selfId, isHost, categories, myAnswer, now, on
   if (!q) return null;
 
   const isRanking = q.kind === 'ranking';
-  const roundMs = questionTimeMs(q.kind, room.settings.roundSeconds);
+  const roundMs = questionTimeMs(q.kind, room.settings.roundSeconds, !!q.audio);
   const remainMs = Math.max(0, (room.questionEndsAt ?? 0) - now());
   const secondsLeft = Math.ceil(remainMs / 1000);
   const isReveal = room.phase === 'reveal';
@@ -142,6 +143,7 @@ export function QuizScreen({ room, selfId, isHost, categories, myAnswer, now, on
           </div>
           <h2 className="break-words text-xl font-black leading-relaxed sm:text-2xl md:text-3xl">{q.question}</h2>
           {q.image && <QuestionImage key={q.image} src={q.image} credit={room.reveal?.imageCredit} showCredit={isReveal} />}
+          {q.audio && <QuestionAudio key={q.audio} src={q.audio} credit={room.reveal?.audioCredit} showCredit={isReveal} />}
         </NeoCard>
       </motion.div>
 

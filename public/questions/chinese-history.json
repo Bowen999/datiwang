@@ -812,20 +812,6 @@
     "explanation": "皮影戏至少在宋代就已流行，艺人一边操纵影人一边配唱，2011年被列入人类非物质文化遗产代表作名录。有意思的是，它还被认为是世界上最早的「屏幕影像艺术」之一。"
   },
   {
-    "id": "chinese-history-059",
-    "category": "chinese-history",
-    "difficulty": "medium",
-    "question": "科举制度正式诞生于哪个朝代？",
-    "options": [
-      "汉朝",
-      "隋朝",
-      "唐朝",
-      "宋朝"
-    ],
-    "correctAnswer": 1,
-    "explanation": "隋炀帝时期正式设置进士科，标志着科举制度诞生。这套选官制度此后延续约1300年，直到1905年清末新政时才被废除。"
-  },
-  {
     "id": "chinese-history-060",
     "category": "chinese-history",
     "difficulty": "hard",
@@ -1176,20 +1162,6 @@
     "explanation": "孔子名丘，字仲尼，是春秋末期鲁国人，创办私学、有教无类，据说弟子三千、贤者七十二。他生前没能实现政治抱负，身后却成了影响中国两千多年的「顶流」。"
   },
   {
-    "id": "chinese-history-085",
-    "category": "chinese-history",
-    "difficulty": "easy",
-    "question": "西汉时两次出使西域、为开辟丝绸之路立下大功的使者是谁？",
-    "options": [
-      "卫青",
-      "霍去病",
-      "班超",
-      "张骞"
-    ],
-    "correctAnswer": 3,
-    "explanation": "汉武帝派张骞两次出使西域，打通了连接中原与西域的通道，后人称为「凿空」。葡萄、苜蓿、核桃等物产据说就是那时传入中原的。"
-  },
-  {
     "id": "chinese-history-086",
     "category": "chinese-history",
     "difficulty": "easy",
@@ -1202,20 +1174,6 @@
     ],
     "correctAnswer": 1,
     "explanation": "105年蔡伦总结前人经验，用树皮、麻头、破布等造出便宜好用的纸，人称「蔡侯纸」。造纸术后来传遍世界，被列为我国古代四大发明之一。"
-  },
-  {
-    "id": "chinese-history-087",
-    "category": "chinese-history",
-    "difficulty": "easy",
-    "question": "被后人尊称为「诗圣」的唐代大诗人是谁？",
-    "options": [
-      "李白",
-      "白居易",
-      "杜甫",
-      "王维"
-    ],
-    "correctAnswer": 2,
-    "explanation": "杜甫一生写下大量反映战乱与民生疾苦的诗篇，被称为「诗圣」，他的诗也被称为「诗史」。和他齐名的李白则是「诗仙」，二人合称「李杜」。"
   },
   {
     "id": "chinese-history-088",
@@ -1244,34 +1202,6 @@
     ],
     "correctAnswer": 1,
     "explanation": "北宋庆历年间，平民毕昇发明泥活字印刷术，比德国古登堡的铅活字早了约四百年。这件事被沈括记在了《梦溪笔谈》里。"
-  },
-  {
-    "id": "chinese-history-090",
-    "category": "chinese-history",
-    "difficulty": "easy",
-    "question": "讲述唐僧师徒西天取经的神魔小说《西游记》，作者是谁？",
-    "options": [
-      "罗贯中",
-      "施耐庵",
-      "吴承恩",
-      "蒲松龄"
-    ],
-    "correctAnswer": 2,
-    "explanation": "《西游记》一般认为是明代吴承恩所著，是我国古代四大名著之一。罗贯中写《三国演义》，施耐庵写《水浒传》，蒲松龄写的则是《聊斋志异》。"
-  },
-  {
-    "id": "chinese-history-091",
-    "category": "chinese-history",
-    "difficulty": "easy",
-    "question": "被誉为中国古典小说巅峰之作的《红楼梦》，作者是谁？",
-    "options": [
-      "曹雪芹",
-      "吴敬梓",
-      "李汝珍",
-      "汤显祖"
-    ],
-    "correctAnswer": 0,
-    "explanation": "清代曹雪芹「披阅十载，增删五次」写成《红楼梦》前八十回，后四十回一般认为是高鹗续写。研究这本书甚至形成了一门专门的学问——「红学」。"
   },
   {
     "id": "chinese-history-092",
@@ -1932,20 +1862,6 @@
     "explanation": "617年李渊在太原起兵，618年称帝建唐，即唐高祖；李世民是他的儿子（唐太宗），李治是高宗，李隆基是唐玄宗。"
   },
   {
-    "id": "chinese-history-139",
-    "category": "chinese-history",
-    "difficulty": "easy",
-    "question": "李白被后人尊称为什么？",
-    "options": [
-      "诗圣",
-      "诗魔",
-      "诗鬼",
-      "诗仙"
-    ],
-    "correctAnswer": 3,
-    "explanation": "李白诗风豪放飘逸，被尊为'诗仙'；'诗圣'是杜甫，'诗魔'是白居易，'诗鬼'是晚唐诗人李贺。"
-  },
-  {
     "id": "chinese-history-140",
     "category": "chinese-history",
     "difficulty": "easy",
@@ -2436,20 +2352,6 @@
     "explanation": "孔子把「仁」视为儒家思想的核心，主张「仁者爱人」「克己复礼为仁」。「仁」后来成为中华伦理传统中最重要的价值之一。"
   },
   {
-    "id": "chinese-history-237",
-    "category": "chinese-history",
-    "difficulty": "easy",
-    "question": "道家学派的开创者，相传著有《道德经》的是谁？",
-    "options": [
-      "庄子",
-      "列子",
-      "老子",
-      "杨朱"
-    ],
-    "correctAnswer": 2,
-    "explanation": "老子被尊为道家创始人，《道德经》（又称《老子》）以「道」为核心，主张「无为而治」「上善若水」。"
-  },
-  {
     "id": "chinese-history-238",
     "category": "chinese-history",
     "difficulty": "medium",
@@ -2476,34 +2378,6 @@
     ],
     "correctAnswer": 2,
     "explanation": "孟子主张「性善论」，认为人有「恻隐、羞恶、辞让、是非」四端，仁义礼智根植于人心。"
-  },
-  {
-    "id": "chinese-history-240",
-    "category": "chinese-history",
-    "difficulty": "medium",
-    "question": "与孟子「性善论」相对，提出「性恶论」的儒家思想家是谁？",
-    "options": [
-      "孔子",
-      "荀子",
-      "韩非子",
-      "告子"
-    ],
-    "correctAnswer": 1,
-    "explanation": "荀子主张「人之性恶，其善者伪也」，认为人的善性来自后天的礼义教化和学习积累。"
-  },
-  {
-    "id": "chinese-history-241",
-    "category": "chinese-history",
-    "difficulty": "medium",
-    "question": "法家思想的集大成者，著有《韩非子》的是谁？",
-    "options": [
-      "商鞅",
-      "李斯",
-      "申不害",
-      "韩非"
-    ],
-    "correctAnswer": 3,
-    "explanation": "韩非综合商鞅的「法」、申不害的「术」、慎到的「势」，形成系统的法家理论，对秦统一六国影响深远。"
   },
   {
     "id": "chinese-history-242",
@@ -3736,5 +3610,198 @@
     ],
     "correctAnswer": 0,
     "explanation": "1908年光绪、慈禧相继去世，年幼的溥仪被抱上龙椅，登基大典上他哭闹不止，父亲载沣哄他“快完了，快完了”。1912年2月12日隆裕太后代六岁的他颁布退位诏书，结束了清朝入关后二百六十多年的统治，也终结了两千多年的帝制。"
+  },
+  {
+    "id": "chinese-history-330",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "question": "现代学界普遍认为，世界上最早的纸币诞生于中国哪个朝代？",
+    "options": [
+      "唐朝",
+      "元朝",
+      "北宋",
+      "明朝"
+    ],
+    "correctAnswer": 2,
+    "explanation": "北宋初年四川成都的商人发行了『交子』，被公认为世界最早的纸币，比欧洲最早的纸币早了六百多年。"
+  },
+  {
+    "id": "chinese-history-331",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "topic": "三国",
+    "question": "魏、蜀、吴三国正式称帝的顺序有先后，其中最晚称帝的是谁？",
+    "options": [
+      "曹丕",
+      "刘备",
+      "孙权",
+      "司马昭"
+    ],
+    "correctAnswer": 2,
+    "explanation": "曹丕220年称帝、刘备221年称帝，孙权却拖到229年才登基，此前还一度接受曹丕册封的「吴王」。而司马昭一生都没称帝，称帝的是他儿子司马炎。"
+  },
+  {
+    "id": "chinese-history-332",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "topic": "三国",
+    "question": "曹操一生「挟天子以令诸侯」却始终没有称帝，那么他生前获得的最高爵位封号是什么？",
+    "options": [
+      "魏武帝",
+      "丞相",
+      "魏王",
+      "魏公"
+    ],
+    "correctAnswer": 2,
+    "explanation": "曹操213年封魏公、216年进爵魏王，这是两汉人臣的爵位天花板。「魏武帝」是他死后曹丕称帝时追尊的庙号称谓，而「丞相」是官职不是爵位。"
+  },
+  {
+    "id": "chinese-history-333",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "topic": "三国",
+    "question": "关羽字「云长」人尽皆知，但《三国志》记载他最早其实另有一个字，后来才改为云长。关羽的「本字」是什么？",
+    "options": [
+      "文长",
+      "长生",
+      "汉升",
+      "仲达"
+    ],
+    "correctAnswer": 1,
+    "explanation": "《三国志·关羽传》开篇就写「关羽字云长，本字长生」。顺便送个冷知识：正史里张飞字「益德」，而不是演义里的「翼德」。"
+  },
+  {
+    "id": "chinese-history-334",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "topic": "三国",
+    "question": "诸葛亮去世后，蜀汉有一个官职从此再未授予任何人，蒋琬、费祎、姜维都无缘担任。这个官职是？",
+    "options": [
+      "丞相",
+      "大将军",
+      "大司马",
+      "尚书令"
+    ],
+    "correctAnswer": 0,
+    "explanation": "诸葛亮死后蜀汉不再设丞相，蒋琬以大司马、费祎与姜维以大将军先后主政，尚书令也一直有人担任（如蒋琬、费祎、董允）。「丞相」二字从此成了诸葛亮的专属标签。"
+  },
+  {
+    "id": "chinese-history-335",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "topic": "三国",
+    "question": "汉献帝刘协将皇位「禅让」给曹丕后，被降封为什么？",
+    "options": [
+      "安乐公",
+      "山阳公",
+      "陈留王",
+      "魏公"
+    ],
+    "correctAnswer": 1,
+    "explanation": "刘协被封为山阳公，仍可用天子礼仪、食邑一万户，一直活到234年才去世，比曹丕还长寿了几年。有意思的是，三个亡国之君三种归宿各不相同：刘协封山阳公，蜀汉刘禅降魏后封安乐公，魏末代皇帝曹奂禅位给司马炎后则被封为陈留王。"
+  },
+  {
+    "id": "chinese-history-336",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "topic": "三国",
+    "question": "奠定三国鼎立局面基础的著名战役是？",
+    "options": [
+      "官渡之战",
+      "赤壁之战",
+      "夷陵之战",
+      "淝水之战"
+    ],
+    "correctAnswer": 1,
+    "explanation": "208年孙刘联军在赤壁大败曹操主力，曹操退回北方，此后形成曹操据北方、孙权据江东、刘备据荆益的大势，三分格局逐渐奠定。"
+  },
+  {
+    "id": "chinese-history-337",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "topic": "三国",
+    "question": "曹操'挟天子以令诸侯'，其迎奉的'天子'是？",
+    "options": [
+      "汉质帝",
+      "汉献帝",
+      "汉灵帝",
+      "汉少帝"
+    ],
+    "correctAnswer": 1,
+    "explanation": "196年曹操迎汉献帝刘协至许都，取得'奉天子以令不臣'的政治优势；质帝、灵帝、少帝均为此前在位皇帝。"
+  },
+  {
+    "id": "chinese-history-338",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "topic": "三国",
+    "question": "曹丕代汉建魏后，曹魏的都城定于？",
+    "options": [
+      "洛阳",
+      "许昌",
+      "邺城",
+      "长安"
+    ],
+    "correctAnswer": 0,
+    "explanation": "曹操为汉相时曾奉天子都许，并以邺城为根本之地；220年曹丕称帝后正式定都洛阳。"
+  },
+  {
+    "id": "chinese-history-339",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "topic": "三国",
+    "question": "公元249年'高平陵之变'中，司马懿诛除的曹魏宗室权臣是？",
+    "options": [
+      "曹植",
+      "曹真",
+      "曹爽",
+      "曹彰"
+    ],
+    "correctAnswer": 2,
+    "explanation": "249年司马懿趁曹爽随魏帝曹芳出谒高平陵之机发动政变，诛杀曹爽及其党羽，从此曹魏大权尽归司马氏。"
+  },
+  {
+    "id": "chinese-history-340",
+    "category": "chinese-history",
+    "difficulty": "medium",
+    "topic": "三国",
+    "question": "刘备于成都称帝后，其政权正式的国号是？",
+    "options": [
+      "蜀",
+      "汉",
+      "蜀汉",
+      "汉中"
+    ],
+    "correctAnswer": 1,
+    "explanation": "刘备以续承汉统自居，国号仍为'汉'（史称蜀汉、季汉）；'蜀'是《三国志》等后世史书及曹魏方面的称呼。"
+  },
+  {
+    "id": "chinese-history-341",
+    "category": "chinese-history",
+    "difficulty": "hard",
+    "topic": "说岳",
+    "question": "岳飞被「十二道金牌」从前线召回，宋代所谓的「金牌」其实是什么？",
+    "options": [
+      "金国送来的议和文书",
+      "纯金铸成的皇家令牌",
+      "皇帝御赐的免死金牌",
+      "朱漆金字的木质急递牌"
+    ],
+    "correctAnswer": 3,
+    "explanation": "「金字牌」是宋代最紧急的官方文书传递凭证，朱漆木牌上刻金字，据说能日行四五百里、昼夜不停，路人见了无不避让。至于是否真在一天内连发十二道，历史上也有不同说法。"
+  },
+  {
+    "id": "chinese-history-342",
+    "category": "chinese-history",
+    "difficulty": "easy",
+    "question": "《本草纲目》的作者李时珍生活在哪个朝代？",
+    "options": [
+      "唐代",
+      "宋代",
+      "明代",
+      "清代"
+    ],
+    "correctAnswer": 2,
+    "explanation": "李时珍是明代本草学家，他历时二十七年、三易其稿写成《本草纲目》，收载药物1892种，被称为「东方医药巨典」；不少人误记成唐代或清代。"
   }
 ]
