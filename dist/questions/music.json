@@ -8345,5 +8345,6465 @@
     ],
     "correctAnswer": 0,
     "explanation": "《执着》是田震的经典歌曲。"
+  },
+  {
+    "id": "music-500",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-116.mp3",
+    "audioCredit": "《流星雨》F4 · Apple iTunes 试听片段",
+    "options": [
+      "F4",
+      "S.H.E",
+      "新裤子",
+      "凤凰传奇"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《流星雨》由F4演唱（2001 年）。电视剧《流星花园》片头曲"
+  },
+  {
+    "id": "music-501",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-300.mp3",
+    "audioCredit": "《叶子》阿桑 · Apple iTunes 试听片段",
+    "options": [
+      "叶子",
+      "一直很安静",
+      "如果你也听说",
+      "无条件为你"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《叶子》是阿桑的经典歌曲。"
+  },
+  {
+    "id": "music-502",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-452.mp3",
+    "audioCredit": "《一直很安静》阿桑 · Apple iTunes 试听片段",
+    "options": [
+      "阿桑",
+      "蔡健雅",
+      "金海心",
+      "陈绮贞"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《一直很安静》由阿桑演唱。"
+  },
+  {
+    "id": "music-503",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-453.mp3",
+    "audioCredit": "《寂寞在唱歌》阿桑 · Apple iTunes 试听片段",
+    "options": [
+      "寂寞在唱歌",
+      "叶子",
+      "像风一样自由",
+      "他还是不懂"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《寂寞在唱歌》是阿桑的经典歌曲。"
+  },
+  {
+    "id": "music-504",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-454.mp3",
+    "audioCredit": "《手放开》李圣杰 · Apple iTunes 试听片段",
+    "options": [
+      "李圣杰",
+      "汪峰",
+      "热狗",
+      "东来东往"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《手放开》由李圣杰演唱。"
+  },
+  {
+    "id": "music-505",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-455.mp3",
+    "audioCredit": "《痴心绝对》李圣杰 · Apple iTunes 试听片段",
+    "options": [
+      "李圣杰",
+      "汤潮",
+      "杨坤",
+      "沙宝亮"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《痴心绝对》由李圣杰演唱。"
+  },
+  {
+    "id": "music-506",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-456.mp3",
+    "audioCredit": "《背叛》曹格 · Apple iTunes 试听片段",
+    "options": [
+      "曹格",
+      "杨坤",
+      "李健",
+      "陈楚生"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《背叛》由曹格演唱。"
+  },
+  {
+    "id": "music-507",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-457.mp3",
+    "audioCredit": "《当你孤单你会想起谁》张栋梁 · Apple iTunes 试听片段",
+    "options": [
+      "当你孤单你会想起谁",
+      "北极星的眼泪",
+      "遇上爱",
+      "背叛"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《当你孤单你会想起谁》是张栋梁的经典歌曲。"
+  },
+  {
+    "id": "music-508",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-458.mp3",
+    "audioCredit": "《北极星的眼泪》张栋梁 · Apple iTunes 试听片段",
+    "options": [
+      "北极星的眼泪",
+      "当你孤单你会想起谁",
+      "背叛",
+      "奔跑"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《北极星的眼泪》是张栋梁的经典歌曲。"
+  },
+  {
+    "id": "music-509",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-459.mp3",
+    "audioCredit": "《最初的梦想》范玮琪 · Apple iTunes 试听片段",
+    "options": [
+      "最初的梦想",
+      "是非题",
+      "中学时代",
+      "那女孩对我说"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《最初的梦想》是范玮琪的经典歌曲。"
+  },
+  {
+    "id": "music-510",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-460.mp3",
+    "audioCredit": "《是非题》范玮琪 · Apple iTunes 试听片段",
+    "options": [
+      "范玮琪",
+      "张惠妹",
+      "吴雨霏",
+      "李宇春"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《是非题》由范玮琪演唱。"
+  },
+  {
+    "id": "music-511",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-461.mp3",
+    "audioCredit": "《你要的爱》戴佩妮 · Apple iTunes 试听片段",
+    "options": [
+      "你要的爱",
+      "街角的祝福",
+      "空白格",
+      "秋天不回来"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《你要的爱》是戴佩妮的经典歌曲。"
+  },
+  {
+    "id": "music-512",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-462.mp3",
+    "audioCredit": "《怎样》戴佩妮 · Apple iTunes 试听片段",
+    "options": [
+      "怎样",
+      "街角的祝福",
+      "忘记时间",
+      "爱我还是他"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《怎样》是戴佩妮的经典歌曲。"
+  },
+  {
+    "id": "music-513",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-463.mp3",
+    "audioCredit": "《街角的祝福》戴佩妮 · Apple iTunes 试听片段",
+    "options": [
+      "街角的祝福",
+      "怎样",
+      "我要的幸福",
+      "木乃伊"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《街角的祝福》是戴佩妮的经典歌曲。"
+  },
+  {
+    "id": "music-514",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-464.mp3",
+    "audioCredit": "《最熟悉的陌生人》萧亚轩 · Apple iTunes 试听片段",
+    "options": [
+      "最熟悉的陌生人",
+      "类似爱情",
+      "你到底爱谁",
+      "单车恋人"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《最熟悉的陌生人》是萧亚轩的经典歌曲。"
+  },
+  {
+    "id": "music-515",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-465.mp3",
+    "audioCredit": "《类似爱情》萧亚轩 · Apple iTunes 试听片段",
+    "options": [
+      "类似爱情",
+      "最熟悉的陌生人",
+      "布拉格广场",
+      "我难过"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《类似爱情》是萧亚轩的经典歌曲。"
+  },
+  {
+    "id": "music-516",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-466.mp3",
+    "audioCredit": "《爱的主打歌》萧亚轩 · Apple iTunes 试听片段",
+    "options": [
+      "爱的主打歌",
+      "最熟悉的陌生人",
+      "身骑白马",
+      "自由飞翔"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《爱的主打歌》是萧亚轩的经典歌曲。"
+  },
+  {
+    "id": "music-517",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-467.mp3",
+    "audioCredit": "《那女孩对我说》黄义达 · Apple iTunes 试听片段",
+    "options": [
+      "黄义达",
+      "潘玮柏",
+      "汤潮",
+      "阿牛"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《那女孩对我说》由黄义达演唱。"
+  },
+  {
+    "id": "music-518",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-468.mp3",
+    "audioCredit": "《蓝天》黄义达 · Apple iTunes 试听片段",
+    "options": [
+      "蓝天",
+      "那女孩对我说",
+      "类似爱情",
+      "爱的主打歌"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《蓝天》是黄义达的经典歌曲。"
+  },
+  {
+    "id": "music-519",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-469.mp3",
+    "audioCredit": "《第一次爱的人》王心凌 · Apple iTunes 试听片段",
+    "options": [
+      "王心凌",
+      "温岚",
+      "徐佳莹",
+      "梁静茹"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《第一次爱的人》由王心凌演唱。"
+  },
+  {
+    "id": "music-520",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-470.mp3",
+    "audioCredit": "《月光》王心凌 · Apple iTunes 试听片段",
+    "options": [
+      "月光",
+      "睫毛弯弯",
+      "单车恋人",
+      "如果你也听说"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《月光》是王心凌的经典歌曲。"
+  },
+  {
+    "id": "music-521",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-471.mp3",
+    "audioCredit": "《花的嫁纱》王心凌 · Apple iTunes 试听片段",
+    "options": [
+      "花的嫁纱",
+      "爱你",
+      "偏爱",
+      "你到底爱谁"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《花的嫁纱》是王心凌的经典歌曲。"
+  },
+  {
+    "id": "music-522",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-472.mp3",
+    "audioCredit": "《彩虹的微笑》王心凌 · Apple iTunes 试听片段",
+    "options": [
+      "彩虹的微笑",
+      "月光",
+      "木乃伊",
+      "向天再借五百年"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《彩虹的微笑》是王心凌 2006 年发行的经典歌曲。电视剧《微笑Pasta》片头曲。"
+  },
+  {
+    "id": "music-523",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-473.mp3",
+    "audioCredit": "《落叶归根》王力宏 · Apple iTunes 试听片段",
+    "options": [
+      "落叶归根",
+      "花田错",
+      "有一种爱叫做放手",
+      "我的生活"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《落叶归根》是王力宏的经典歌曲。"
+  },
+  {
+    "id": "music-524",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-474.mp3",
+    "audioCredit": "《一首简单的歌》王力宏 · Apple iTunes 试听片段",
+    "options": [
+      "王力宏",
+      "何炅",
+      "后弦",
+      "刀郎"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《一首简单的歌》由王力宏演唱。"
+  },
+  {
+    "id": "music-525",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-475.mp3",
+    "audioCredit": "《你是我心内的一首歌》王力宏 · Apple iTunes 试听片段",
+    "options": [
+      "你是我心内的一首歌",
+      "心中的日月",
+      "雨爱",
+      "背叛"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《你是我心内的一首歌》是王力宏的经典歌曲。"
+  },
+  {
+    "id": "music-526",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-476.mp3",
+    "audioCredit": "《爱我还是他》陶喆 · Apple iTunes 试听片段",
+    "options": [
+      "爱我还是他",
+      "黑色柳丁",
+      "老鼠爱大米",
+      "不得不爱"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《爱我还是他》是陶喆的经典歌曲。"
+  },
+  {
+    "id": "music-527",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-477.mp3",
+    "audioCredit": "《今天你要嫁给我》陶喆 · Apple iTunes 试听片段",
+    "options": [
+      "今天你要嫁给我",
+      "爱我还是他",
+      "天下",
+      "奔跑"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《今天你要嫁给我》是陶喆的经典歌曲。"
+  },
+  {
+    "id": "music-528",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-478.mp3",
+    "audioCredit": "《黑色柳丁》陶喆 · Apple iTunes 试听片段",
+    "options": [
+      "黑色柳丁",
+      "Melody",
+      "你一定要幸福",
+      "不得不爱"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《黑色柳丁》是陶喆 2002 年发行的经典歌曲。"
+  },
+  {
+    "id": "music-529",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-479.mp3",
+    "audioCredit": "《寓言》张韶涵 · Apple iTunes 试听片段",
+    "options": [
+      "张韶涵",
+      "弦子",
+      "徐佳莹",
+      "刘若英"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《寓言》由张韶涵演唱。"
+  },
+  {
+    "id": "music-530",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-480.mp3",
+    "audioCredit": "《亲爱的那不是爱情》张韶涵 · Apple iTunes 试听片段",
+    "options": [
+      "亲爱的那不是爱情",
+      "遗失的美好",
+      "六月的雨",
+      "蓝天"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《亲爱的那不是爱情》是张韶涵的经典歌曲。"
+  },
+  {
+    "id": "music-531",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-481.mp3",
+    "audioCredit": "《遗失的美好》张韶涵 · Apple iTunes 试听片段",
+    "options": [
+      "遗失的美好",
+      "寓言",
+      "风吹麦浪",
+      "暗香"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《遗失的美好》是张韶涵的经典歌曲。"
+  },
+  {
+    "id": "music-532",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-482.mp3",
+    "audioCredit": "《雨爱》杨丞琳 · Apple iTunes 试听片段",
+    "options": [
+      "雨爱",
+      "暧昧",
+      "痴心绝对",
+      "自由飞翔"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《雨爱》是杨丞琳的经典歌曲。"
+  },
+  {
+    "id": "music-533",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-483.mp3",
+    "audioCredit": "《理想情人》杨丞琳 · Apple iTunes 试听片段",
+    "options": [
+      "理想情人",
+      "雨爱",
+      "坚持到底",
+      "花的嫁纱"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《理想情人》是杨丞琳的经典歌曲。"
+  },
+  {
+    "id": "music-534",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-484.mp3",
+    "audioCredit": "《遇上爱》杨丞琳 · Apple iTunes 试听片段",
+    "options": [
+      "遇上爱",
+      "雨爱",
+      "手放开",
+      "披着羊皮的狼"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《遇上爱》是杨丞琳的经典歌曲。"
+  },
+  {
+    "id": "music-535",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-485.mp3",
+    "audioCredit": "《候鸟》S.H.E · Apple iTunes 试听片段",
+    "options": [
+      "S.H.E",
+      "5566",
+      "飞儿乐团",
+      "新裤子"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《候鸟》由S.H.E演唱。"
+  },
+  {
+    "id": "music-536",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-486.mp3",
+    "audioCredit": "《他还是不懂》S.H.E · Apple iTunes 试听片段",
+    "options": [
+      "他还是不懂",
+      "你曾是少年",
+      "西海情歌",
+      "龙虎人丹"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《他还是不懂》是S.H.E的经典歌曲。"
+  },
+  {
+    "id": "music-537",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-487.mp3",
+    "audioCredit": "《触电》S.H.E · Apple iTunes 试听片段",
+    "options": [
+      "触电",
+      "我爱你",
+      "无所谓",
+      "有一种爱叫做放手"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《触电》是S.H.E的经典歌曲。"
+  },
+  {
+    "id": "music-538",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-488.mp3",
+    "audioCredit": "《花都开好了》S.H.E · Apple iTunes 试听片段",
+    "options": [
+      "花都开好了",
+      "触电",
+      "偏爱",
+      "深呼吸"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《花都开好了》是S.H.E的经典歌曲。"
+  },
+  {
+    "id": "music-539",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-489.mp3",
+    "audioCredit": "《第一次》光良 · Apple iTunes 试听片段",
+    "options": [
+      "第一次",
+      "童话",
+      "最炫民族风",
+      "像风一样自由"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《第一次》是光良的经典歌曲。"
+  },
+  {
+    "id": "music-540",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-490.mp3",
+    "audioCredit": "《千年之恋》飞儿乐团 · Apple iTunes 试听片段",
+    "options": [
+      "飞儿乐团",
+      "羽泉",
+      "五月天",
+      "S.H.E"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《千年之恋》由飞儿乐团演唱。"
+  },
+  {
+    "id": "music-541",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-491.mp3",
+    "audioCredit": "《月牙湾》飞儿乐团 · Apple iTunes 试听片段",
+    "options": [
+      "月牙湾",
+      "我们的爱",
+      "蜀绣",
+      "春天里"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《月牙湾》是飞儿乐团的经典歌曲。"
+  },
+  {
+    "id": "music-542",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-492.mp3",
+    "audioCredit": "《离歌》信乐团 · Apple iTunes 试听片段",
+    "options": [
+      "信乐团",
+      "痛仰乐队",
+      "孙楠&韩红",
+      "五月天"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《离歌》由信乐团演唱。"
+  },
+  {
+    "id": "music-543",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-493.mp3",
+    "audioCredit": "《天高地厚》信乐团 · Apple iTunes 试听片段",
+    "options": [
+      "信乐团",
+      "羽泉",
+      "水木年华",
+      "5566"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《天高地厚》由信乐团演唱。"
+  },
+  {
+    "id": "music-544",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-494.mp3",
+    "audioCredit": "《天亮以后说分手》信乐团 · Apple iTunes 试听片段",
+    "options": [
+      "信乐团",
+      "飞儿乐团",
+      "新裤子",
+      "孙楠&韩红"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《天亮以后说分手》由信乐团演唱（2004 年）。"
+  },
+  {
+    "id": "music-545",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-495.mp3",
+    "audioCredit": "《布拉格广场》蔡依林 · Apple iTunes 试听片段",
+    "options": [
+      "蔡依林",
+      "孙燕姿",
+      "张芸京",
+      "弦子"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《布拉格广场》由蔡依林演唱。"
+  },
+  {
+    "id": "music-546",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-496.mp3",
+    "audioCredit": "《假装》蔡依林 · Apple iTunes 试听片段",
+    "options": [
+      "假装",
+      "Play我呸",
+      "奔跑",
+      "自由飞翔"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《假装》是蔡依林的经典歌曲。"
+  },
+  {
+    "id": "music-547",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-497.mp3",
+    "audioCredit": "《不得不爱》潘玮柏 · Apple iTunes 试听片段",
+    "options": [
+      "不得不爱",
+      "快乐崇拜",
+      "一辈子的孤单",
+      "双栖动物"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《不得不爱》是潘玮柏的经典歌曲。"
+  },
+  {
+    "id": "music-548",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-498.mp3",
+    "audioCredit": "《下一个天亮》郭静 · Apple iTunes 试听片段",
+    "options": [
+      "郭静",
+      "王心凌",
+      "韩红",
+      "徐佳莹"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《下一个天亮》由郭静演唱。"
+  },
+  {
+    "id": "music-549",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-499.mp3",
+    "audioCredit": "《我不想忘记你》郭静 · Apple iTunes 试听片段",
+    "options": [
+      "我不想忘记你",
+      "心墙",
+      "简简单单",
+      "你要的爱"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《我不想忘记你》是郭静的经典歌曲。"
+  },
+  {
+    "id": "music-550",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-500.mp3",
+    "audioCredit": "《鱼仔》卢广仲 · Apple iTunes 试听片段",
+    "options": [
+      "鱼仔",
+      "背叛",
+      "光明",
+      "当你孤单你会想起谁"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《鱼仔》是卢广仲的经典歌曲。"
+  },
+  {
+    "id": "music-551",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-501.mp3",
+    "audioCredit": "《宝贝》张悬 · Apple iTunes 试听片段",
+    "options": [
+      "宝贝",
+      "流星雨",
+      "第一次爱的人",
+      "明天过后"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《宝贝》是张悬的经典歌曲。"
+  },
+  {
+    "id": "music-552",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-502.mp3",
+    "audioCredit": "《如果你也听说》张惠妹 · Apple iTunes 试听片段",
+    "options": [
+      "如果你也听说",
+      "我可以抱你吗",
+      "你不是真正的快乐",
+      "彩虹的微笑"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《如果你也听说》是张惠妹的经典歌曲。"
+  },
+  {
+    "id": "music-553",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-503.mp3",
+    "audioCredit": "《屋顶》温岚 · Apple iTunes 试听片段",
+    "options": [
+      "屋顶",
+      "和你一样",
+      "你到底爱谁",
+      "北京北京"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《屋顶》是温岚的经典歌曲。"
+  },
+  {
+    "id": "music-554",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-504.mp3",
+    "audioCredit": "《简简单单》林俊杰 · Apple iTunes 试听片段",
+    "options": [
+      "简简单单",
+      "交换余生",
+      "有一种爱叫做放手",
+      "寂寞在唱歌"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《简简单单》是林俊杰的经典歌曲。"
+  },
+  {
+    "id": "music-555",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-505.mp3",
+    "audioCredit": "《木乃伊》林俊杰 · Apple iTunes 试听片段",
+    "options": [
+      "林俊杰",
+      "陈楚生",
+      "杨臣刚",
+      "周杰伦"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《木乃伊》由林俊杰演唱。"
+  },
+  {
+    "id": "music-556",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-506.mp3",
+    "audioCredit": "《背对背拥抱》林俊杰 · Apple iTunes 试听片段",
+    "options": [
+      "背对背拥抱",
+      "木乃伊",
+      "狮子座",
+      "狼爱上羊"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《背对背拥抱》是林俊杰的经典歌曲。"
+  },
+  {
+    "id": "music-557",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-507.mp3",
+    "audioCredit": "《你不是真正的快乐》五月天 · Apple iTunes 试听片段",
+    "options": [
+      "五月天",
+      "痛仰乐队",
+      "孙楠&韩红",
+      "新裤子"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《你不是真正的快乐》由五月天演唱。"
+  },
+  {
+    "id": "music-558",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-508.mp3",
+    "audioCredit": "《人生海海》五月天 · Apple iTunes 试听片段",
+    "options": [
+      "五月天",
+      "信乐团",
+      "新裤子",
+      "F4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《人生海海》由五月天演唱。"
+  },
+  {
+    "id": "music-559",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-509.mp3",
+    "audioCredit": "《最重要的小事》五月天 · Apple iTunes 试听片段",
+    "options": [
+      "最重要的小事",
+      "知足",
+      "春天里",
+      "爱情三十六计"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《最重要的小事》是五月天的经典歌曲。"
+  },
+  {
+    "id": "music-560",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-510.mp3",
+    "audioCredit": "《亲爱的你怎么不在身边》江美琪 · Apple iTunes 试听片段",
+    "options": [
+      "亲爱的你怎么不在身边",
+      "背对背拥抱",
+      "情歌",
+      "栀子花开"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《亲爱的你怎么不在身边》是江美琪的经典歌曲。"
+  },
+  {
+    "id": "music-561",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-511.mp3",
+    "audioCredit": "《太聪明》陈绮贞 · Apple iTunes 试听片段",
+    "options": [
+      "太聪明",
+      "旅行的意义",
+      "爱我还是他",
+      "背对背拥抱"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《太聪明》是陈绮贞的经典歌曲。"
+  },
+  {
+    "id": "music-562",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-512.mp3",
+    "audioCredit": "《任性》孙燕姿 · Apple iTunes 试听片段",
+    "options": [
+      "任性",
+      "天黑黑",
+      "龙虎人丹",
+      "猜不透"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《任性》是孙燕姿的经典歌曲。"
+  },
+  {
+    "id": "music-563",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-513.mp3",
+    "audioCredit": "《我要的幸福》孙燕姿 · Apple iTunes 试听片段",
+    "options": [
+      "我要的幸福",
+      "我不难过",
+      "一辈子的孤单",
+      "两只蝴蝶"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《我要的幸福》是孙燕姿的经典歌曲。"
+  },
+  {
+    "id": "music-564",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-514.mp3",
+    "audioCredit": "《我也很想他》孙燕姿 · Apple iTunes 试听片段",
+    "options": [
+      "孙燕姿",
+      "金海心",
+      "江美琪",
+      "温岚"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《我也很想他》由孙燕姿演唱。"
+  },
+  {
+    "id": "music-565",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-515.mp3",
+    "audioCredit": "《情歌》梁静茹 · Apple iTunes 试听片段",
+    "options": [
+      "情歌",
+      "宁夏",
+      "画心",
+      "我爱他"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《情歌》是梁静茹的经典歌曲。"
+  },
+  {
+    "id": "music-566",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-516.mp3",
+    "audioCredit": "《无条件为你》梁静茹 · Apple iTunes 试听片段",
+    "options": [
+      "无条件为你",
+      "暖暖",
+      "理想情人",
+      "落叶归根"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《无条件为你》是梁静茹的经典歌曲。"
+  },
+  {
+    "id": "music-567",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-517.mp3",
+    "audioCredit": "《第三者》梁静茹 · Apple iTunes 试听片段",
+    "options": [
+      "第三者",
+      "暖暖",
+      "想你的夜",
+      "披着羊皮的狼"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《第三者》是梁静茹的经典歌曲。"
+  },
+  {
+    "id": "music-568",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-518.mp3",
+    "audioCredit": "《陌生人》蔡健雅 · Apple iTunes 试听片段",
+    "options": [
+      "陌生人",
+      "无底洞",
+      "失落沙洲",
+      "我难过"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《陌生人》是蔡健雅的经典歌曲。"
+  },
+  {
+    "id": "music-569",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-519.mp3",
+    "audioCredit": "《双栖动物》蔡健雅 · Apple iTunes 试听片段",
+    "options": [
+      "双栖动物",
+      "无底洞",
+      "向天再借五百年",
+      "遇上爱"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《双栖动物》是蔡健雅的经典歌曲。"
+  },
+  {
+    "id": "music-570",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-520.mp3",
+    "audioCredit": "《空白格》蔡健雅 · Apple iTunes 试听片段",
+    "options": [
+      "蔡健雅",
+      "张悬",
+      "吴雨霏",
+      "萧亚轩"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《空白格》由蔡健雅演唱（2007 年）。"
+  },
+  {
+    "id": "music-571",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-521.mp3",
+    "audioCredit": "《偏爱》张芸京 · Apple iTunes 试听片段",
+    "options": [
+      "偏爱",
+      "不能说的秘密",
+      "该死的温柔",
+      "落叶归根"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《偏爱》是张芸京的经典歌曲。"
+  },
+  {
+    "id": "music-572",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-522.mp3",
+    "audioCredit": "《你是我的眼》萧煌奇 · Apple iTunes 试听片段",
+    "options": [
+      "萧煌奇",
+      "曹格",
+      "唐磊",
+      "光良"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《你是我的眼》由萧煌奇演唱。"
+  },
+  {
+    "id": "music-573",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-523.mp3",
+    "audioCredit": "《国境之南》范逸臣 · Apple iTunes 试听片段",
+    "options": [
+      "范逸臣",
+      "张栋梁",
+      "黄义达",
+      "誓言"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《国境之南》由范逸臣演唱（2008 年）。电影《海角七号》插曲"
+  },
+  {
+    "id": "music-574",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-524.mp3",
+    "audioCredit": "《猜不透》丁当 · Apple iTunes 试听片段",
+    "options": [
+      "猜不透",
+      "我爱他",
+      "自由飞翔",
+      "我要的幸福"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《猜不透》是丁当的经典歌曲。"
+  },
+  {
+    "id": "music-575",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-525.mp3",
+    "audioCredit": "《我爱他》丁当 · Apple iTunes 试听片段",
+    "options": [
+      "我爱他",
+      "猜不透",
+      "旅行",
+      "背叛"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《我爱他》是丁当 2009 年发行的经典歌曲。"
+  },
+  {
+    "id": "music-577",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-527.mp3",
+    "audioCredit": "《深呼吸》羽泉 · Apple iTunes 试听片段",
+    "options": [
+      "深呼吸",
+      "奔跑",
+      "手放开",
+      "雨爱"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《深呼吸》是羽泉的经典歌曲。"
+  },
+  {
+    "id": "music-578",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-528.mp3",
+    "audioCredit": "《冷酷到底》羽泉 · Apple iTunes 试听片段",
+    "options": [
+      "冷酷到底",
+      "奔跑",
+      "天亮了",
+      "美丽的神话"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《冷酷到底》是羽泉的经典歌曲。"
+  },
+  {
+    "id": "music-579",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-529.mp3",
+    "audioCredit": "《彩虹》羽泉 · Apple iTunes 试听片段",
+    "options": [
+      "羽泉",
+      "F4",
+      "信乐团",
+      "孙楠&韩红"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《彩虹》由羽泉演唱。"
+  },
+  {
+    "id": "music-580",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-530.mp3",
+    "audioCredit": "《奔跑》羽泉 · Apple iTunes 试听片段",
+    "options": [
+      "奔跑",
+      "冷酷到底",
+      "偏爱",
+      "我难过"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《奔跑》是羽泉的经典歌曲。"
+  },
+  {
+    "id": "music-581",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-531.mp3",
+    "audioCredit": "《中学时代》水木年华 · Apple iTunes 试听片段",
+    "options": [
+      "中学时代",
+      "在他乡",
+      "生生世世爱",
+      "我要的幸福"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《中学时代》是水木年华 2001 年发行的经典歌曲。"
+  },
+  {
+    "id": "music-582",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-532.mp3",
+    "audioCredit": "《旅行》许巍 · Apple iTunes 试听片段",
+    "options": [
+      "旅行",
+      "完美生活",
+      "你要的爱",
+      "如果你也听说"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《旅行》是许巍的经典歌曲。"
+  },
+  {
+    "id": "music-583",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-533.mp3",
+    "audioCredit": "《完美生活》许巍 · Apple iTunes 试听片段",
+    "options": [
+      "完美生活",
+      "蓝莲花",
+      "春天里",
+      "遇上爱"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《完美生活》是许巍的经典歌曲。"
+  },
+  {
+    "id": "music-584",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-534.mp3",
+    "audioCredit": "《像风一样自由》许巍 · Apple iTunes 试听片段",
+    "options": [
+      "像风一样自由",
+      "蓝莲花",
+      "背对背拥抱",
+      "寓言"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《像风一样自由》是许巍的经典歌曲。"
+  },
+  {
+    "id": "music-585",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-535.mp3",
+    "audioCredit": "《天下》张杰 · Apple iTunes 试听片段",
+    "options": [
+      "张杰",
+      "李健",
+      "卢广仲",
+      "阿杜"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《天下》由张杰演唱（2008 年）。"
+  },
+  {
+    "id": "music-586",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-536.mp3",
+    "audioCredit": "《明天过后》张杰 · Apple iTunes 试听片段",
+    "options": [
+      "张杰",
+      "Tank",
+      "何炅",
+      "后弦"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《明天过后》由张杰演唱（2008 年）。"
+  },
+  {
+    "id": "music-587",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-537.mp3",
+    "audioCredit": "《画心》张靓颖 · Apple iTunes 试听片段",
+    "options": [
+      "画心",
+      "天下无双",
+      "布拉格广场",
+      "那一天"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《画心》是张靓颖 2008 年发行的经典歌曲。"
+  },
+  {
+    "id": "music-588",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-538.mp3",
+    "audioCredit": "《天下无双》张靓颖 · Apple iTunes 试听片段",
+    "options": [
+      "天下无双",
+      "终于等到你",
+      "你是我心内的一首歌",
+      "天亮了"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《天下无双》是张靓颖 2006 年发行的经典歌曲。电视剧《神雕侠侣》片头曲。"
+  },
+  {
+    "id": "music-589",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-539.mp3",
+    "audioCredit": "《你一定要幸福》何洁 · Apple iTunes 试听片段",
+    "options": [
+      "你一定要幸福",
+      "猪之歌",
+      "西海情歌",
+      "遗失的美好"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《你一定要幸福》是何洁 2006 年发行的经典歌曲。"
+  },
+  {
+    "id": "music-590",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-540.mp3",
+    "audioCredit": "《有没有人告诉你》陈楚生 · Apple iTunes 试听片段",
+    "options": [
+      "有没有人告诉你",
+      "如果你也听说",
+      "候鸟",
+      "不能说的秘密"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《有没有人告诉你》是陈楚生 2007 年发行的经典歌曲。"
+  },
+  {
+    "id": "music-591",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-541.mp3",
+    "audioCredit": "《和你一样》李宇春 · Apple iTunes 试听片段",
+    "options": [
+      "和你一样",
+      "下个路口见",
+      "亲爱的你怎么不在身边",
+      "最初的梦想"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《和你一样》是李宇春 2007 年发行的经典歌曲。"
+  },
+  {
+    "id": "music-592",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-542.mp3",
+    "audioCredit": "《蜀绣》李宇春 · Apple iTunes 试听片段",
+    "options": [
+      "蜀绣",
+      "和你一样",
+      "不能说的秘密",
+      "怎样"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《蜀绣》是李宇春的经典歌曲。"
+  },
+  {
+    "id": "music-593",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-543.mp3",
+    "audioCredit": "《谁动了我的琴弦》周笔畅 · Apple iTunes 试听片段",
+    "options": [
+      "谁动了我的琴弦",
+      "笔记",
+      "向天再借五百年",
+      "千年之恋"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《谁动了我的琴弦》是周笔畅的经典歌曲。"
+  },
+  {
+    "id": "music-594",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-544.mp3",
+    "audioCredit": "《该死的温柔》马天宇 · Apple iTunes 试听片段",
+    "options": [
+      "该死的温柔",
+      "我不想忘记你",
+      "最重要的小事",
+      "最炫民族风"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《该死的温柔》是马天宇 2007 年发行的经典歌曲。"
+  },
+  {
+    "id": "music-595",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-545.mp3",
+    "audioCredit": "《红颜》胡彦斌 · Apple iTunes 试听片段",
+    "options": [
+      "红颜",
+      "月光",
+      "爱我还是他",
+      "有一种爱叫做放手"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《红颜》是胡彦斌的经典歌曲。"
+  },
+  {
+    "id": "music-596",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-546.mp3",
+    "audioCredit": "《月光》胡彦斌 · Apple iTunes 试听片段",
+    "options": [
+      "胡彦斌",
+      "张栋梁",
+      "庞龙",
+      "周杰伦"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《月光》由胡彦斌演唱。"
+  },
+  {
+    "id": "music-597",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-547.mp3",
+    "audioCredit": "《男人KTV》胡彦斌 · Apple iTunes 试听片段",
+    "options": [
+      "男人KTV",
+      "月光",
+      "我爱他",
+      "理想情人"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《男人KTV》是胡彦斌的经典歌曲。"
+  },
+  {
+    "id": "music-598",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-548.mp3",
+    "audioCredit": "《单车恋人》后弦 · Apple iTunes 试听片段",
+    "options": [
+      "单车恋人",
+      "西海情歌",
+      "六月的雨",
+      "那一天"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《单车恋人》是后弦的经典歌曲。"
+  },
+  {
+    "id": "music-599",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-549.mp3",
+    "audioCredit": "《两只蝴蝶》庞龙 · Apple iTunes 试听片段",
+    "options": [
+      "两只蝴蝶",
+      "穷开心",
+      "画心",
+      "今天你要嫁给我"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《两只蝴蝶》是庞龙的经典歌曲。"
+  },
+  {
+    "id": "music-600",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-550.mp3",
+    "audioCredit": "《香水有毒》胡杨林 · Apple iTunes 试听片段",
+    "options": [
+      "香水有毒",
+      "像风一样自由",
+      "旅行",
+      "花都开好了"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《香水有毒》是胡杨林的经典歌曲。"
+  },
+  {
+    "id": "music-601",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-551.mp3",
+    "audioCredit": "《别说我的眼泪你无所谓》东来东往 · Apple iTunes 试听片段",
+    "options": [
+      "别说我的眼泪你无所谓",
+      "蓝天",
+      "光明",
+      "谁动了我的琴弦"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《别说我的眼泪你无所谓》是东来东往的经典歌曲。"
+  },
+  {
+    "id": "music-602",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-552.mp3",
+    "audioCredit": "《求佛》誓言 · Apple iTunes 试听片段",
+    "options": [
+      "誓言",
+      "阿木",
+      "陈楚生",
+      "汪峰"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《求佛》由誓言演唱。"
+  },
+  {
+    "id": "music-603",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-553.mp3",
+    "audioCredit": "《狼爱上羊》汤潮 · Apple iTunes 试听片段",
+    "options": [
+      "狼爱上羊",
+      "无所谓",
+      "猜不透",
+      "你要的爱"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《狼爱上羊》是汤潮的经典歌曲。"
+  },
+  {
+    "id": "music-604",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-554.mp3",
+    "audioCredit": "《秋天不回来》王强 · Apple iTunes 试听片段",
+    "options": [
+      "秋天不回来",
+      "是非题",
+      "狮子座",
+      "我要的飞翔"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《秋天不回来》是王强的经典歌曲。"
+  },
+  {
+    "id": "music-605",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-555.mp3",
+    "audioCredit": "《你到底爱谁》刘嘉亮 · Apple iTunes 试听片段",
+    "options": [
+      "刘嘉亮",
+      "东来东往",
+      "陶喆",
+      "刀郎"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《你到底爱谁》由刘嘉亮演唱。"
+  },
+  {
+    "id": "music-606",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-556.mp3",
+    "audioCredit": "《有一种爱叫做放手》阿木 · Apple iTunes 试听片段",
+    "options": [
+      "有一种爱叫做放手",
+      "背对背拥抱",
+      "嘻唰唰",
+      "蓝天"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《有一种爱叫做放手》是阿木的经典歌曲。"
+  },
+  {
+    "id": "music-607",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-557.mp3",
+    "audioCredit": "《2002年的第一场雪》刀郎 · Apple iTunes 试听片段",
+    "options": [
+      "2002年的第一场雪",
+      "西海情歌",
+      "偏爱",
+      "求佛"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《2002年的第一场雪》是刀郎 2004 年发行的经典歌曲。"
+  },
+  {
+    "id": "music-608",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-558.mp3",
+    "audioCredit": "《西海情歌》刀郎 · Apple iTunes 试听片段",
+    "options": [
+      "西海情歌",
+      "2002年的第一场雪",
+      "画心",
+      "嘻唰唰"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《西海情歌》是刀郎的经典歌曲。"
+  },
+  {
+    "id": "music-609",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-559.mp3",
+    "audioCredit": "《冲动的惩罚》刀郎 · Apple iTunes 试听片段",
+    "options": [
+      "冲动的惩罚",
+      "披着羊皮的狼",
+      "你到底爱谁",
+      "我要的飞翔"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《冲动的惩罚》是刀郎 2004 年发行的经典歌曲。"
+  },
+  {
+    "id": "music-610",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-560.mp3",
+    "audioCredit": "《披着羊皮的狼》刀郎 · Apple iTunes 试听片段",
+    "options": [
+      "披着羊皮的狼",
+      "西海情歌",
+      "布拉格广场",
+      "蓝天"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《披着羊皮的狼》是刀郎的经典歌曲。"
+  },
+  {
+    "id": "music-611",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-561.mp3",
+    "audioCredit": "《自由飞翔》凤凰传奇 · Apple iTunes 试听片段",
+    "options": [
+      "自由飞翔",
+      "最炫民族风",
+      "旅行",
+      "忘记时间"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《自由飞翔》是凤凰传奇的经典歌曲。"
+  },
+  {
+    "id": "music-612",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-562.mp3",
+    "audioCredit": "《最炫民族风》凤凰传奇 · Apple iTunes 试听片段",
+    "options": [
+      "凤凰传奇",
+      "飞儿乐团",
+      "五月天",
+      "水木年华"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《最炫民族风》由凤凰传奇演唱（2009 年）。"
+  },
+  {
+    "id": "music-614",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-564.mp3",
+    "audioCredit": "《穷开心》花儿乐队 · Apple iTunes 试听片段",
+    "options": [
+      "穷开心",
+      "嘻唰唰",
+      "男人KTV",
+      "宝贝"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《穷开心》是花儿乐队 2007 年发行的经典歌曲。"
+  },
+  {
+    "id": "music-616",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-566.mp3",
+    "audioCredit": "《无所谓》杨坤 · Apple iTunes 试听片段",
+    "options": [
+      "无所谓",
+      "那一天",
+      "我难过",
+      "完美生活"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《无所谓》是杨坤 2002 年发行的经典歌曲。"
+  },
+  {
+    "id": "music-617",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-567.mp3",
+    "audioCredit": "《那一天》杨坤 · Apple iTunes 试听片段",
+    "options": [
+      "杨坤",
+      "马天宇",
+      "庞龙",
+      "王力宏"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《那一天》由杨坤演唱。"
+  },
+  {
+    "id": "music-618",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-568.mp3",
+    "audioCredit": "《暗香》沙宝亮 · Apple iTunes 试听片段",
+    "options": [
+      "暗香",
+      "彩虹",
+      "谁动了我的琴弦",
+      "求佛"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《暗香》是沙宝亮 2003 年发行的经典歌曲。"
+  },
+  {
+    "id": "music-619",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-569.mp3",
+    "audioCredit": "《栀子花开》何炅 · Apple iTunes 试听片段",
+    "options": [
+      "栀子花开",
+      "花都开好了",
+      "背叛",
+      "谁动了我的琴弦"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《栀子花开》是何炅 2004 年发行的经典歌曲。"
+  },
+  {
+    "id": "music-620",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-570.mp3",
+    "audioCredit": "《舍不得》弦子 · Apple iTunes 试听片段",
+    "options": [
+      "舍不得",
+      "宝贝",
+      "最熟悉的陌生人",
+      "假装"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《舍不得》是弦子的经典歌曲。"
+  },
+  {
+    "id": "music-621",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-571.mp3",
+    "audioCredit": "《风吹麦浪》李健 · Apple iTunes 试听片段",
+    "options": [
+      "李健",
+      "胡歌",
+      "杨臣刚",
+      "誓言"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《风吹麦浪》由李健演唱（2007 年）。"
+  },
+  {
+    "id": "music-622",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-572.mp3",
+    "audioCredit": "《坚持到底》阿杜 · Apple iTunes 试听片段",
+    "options": [
+      "坚持到底",
+      "他一定很爱你",
+      "理想情人",
+      "国境之南"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《坚持到底》是阿杜的经典歌曲。"
+  },
+  {
+    "id": "music-623",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-573.mp3",
+    "audioCredit": "《撕夜》阿杜 · Apple iTunes 试听片段",
+    "options": [
+      "撕夜",
+      "坚持到底",
+      "街角的祝福",
+      "双栖动物"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《撕夜》是阿杜的经典歌曲。"
+  },
+  {
+    "id": "music-624",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-574.mp3",
+    "audioCredit": "《桃花朵朵开》阿牛 · Apple iTunes 试听片段",
+    "options": [
+      "桃花朵朵开",
+      "寓言",
+      "龙虎人丹",
+      "我的生活"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《桃花朵朵开》是阿牛 2006 年发行的经典歌曲。"
+  },
+  {
+    "id": "music-626",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-576.mp3",
+    "audioCredit": "《一辈子的孤单》刘若英 · Apple iTunes 试听片段",
+    "options": [
+      "一辈子的孤单",
+      "很爱很爱你",
+      "和你一样",
+      "两只蝴蝶"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《一辈子的孤单》是刘若英 2002 年发行的经典歌曲。电视剧《粉红女郎》片尾曲。"
+  },
+  {
+    "id": "music-627",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-577.mp3",
+    "audioCredit": "《向天再借五百年》韩磊 · Apple iTunes 试听片段",
+    "options": [
+      "向天再借五百年",
+      "不能说的秘密",
+      "专属天使",
+      "爱情三十六计"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《向天再借五百年》是韩磊 2001 年发行的经典歌曲。电视剧《康熙王朝》片头曲。"
+  },
+  {
+    "id": "music-628",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-578.mp3",
+    "audioCredit": "《专属天使》Tank · Apple iTunes 试听片段",
+    "options": [
+      "专属天使",
+      "北极星的眼泪",
+      "冲动的惩罚",
+      "别说我的眼泪你无所谓"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《专属天使》是Tank 2006 年发行的经典歌曲。电视剧《花样少年少女》片尾曲。"
+  },
+  {
+    "id": "music-629",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-579.mp3",
+    "audioCredit": "《六月的雨》胡歌 · Apple iTunes 试听片段",
+    "options": [
+      "胡歌",
+      "汪峰",
+      "王强",
+      "刀郎"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《六月的雨》由胡歌演唱（2005 年）。电视剧《仙剑奇侠传》插曲。"
+  },
+  {
+    "id": "music-630",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-580.mp3",
+    "audioCredit": "《逍遥叹》胡歌 · Apple iTunes 试听片段",
+    "options": [
+      "胡歌",
+      "热狗",
+      "胡杨林",
+      "张杰"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《逍遥叹》由胡歌演唱（2005 年）。电视剧《仙剑奇侠传》插曲。"
+  },
+  {
+    "id": "music-631",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-581.mp3",
+    "audioCredit": "《忘记时间》胡歌 · Apple iTunes 试听片段",
+    "options": [
+      "忘记时间",
+      "六月的雨",
+      "舍不得",
+      "香水有毒"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《忘记时间》是胡歌 2009 年发行的经典歌曲。电视剧《仙剑奇侠传三》片尾曲。"
+  },
+  {
+    "id": "music-632",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-582.mp3",
+    "audioCredit": "《我要的飞翔》许飞 · Apple iTunes 试听片段",
+    "options": [
+      "许飞",
+      "何洁",
+      "曾轶可",
+      "张悬"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《我要的飞翔》由许飞演唱（2009 年）。电视剧《一起来看流星雨》片尾曲。"
+  },
+  {
+    "id": "music-633",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-583.mp3",
+    "audioCredit": "《不能说的秘密》周杰伦 · Apple iTunes 试听片段",
+    "options": [
+      "周杰伦",
+      "卢广仲",
+      "陶喆",
+      "沙宝亮"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《不能说的秘密》由周杰伦演唱（2007 年）。电影《不能说的秘密》主题曲。"
+  },
+  {
+    "id": "music-634",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-584.mp3",
+    "audioCredit": "《霍元甲》周杰伦 · Apple iTunes 试听片段",
+    "options": [
+      "周杰伦",
+      "Tank",
+      "阿木",
+      "马天宇"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《霍元甲》由周杰伦演唱（2006 年）。电影《霍元甲》主题曲。"
+  },
+  {
+    "id": "music-635",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-585.mp3",
+    "audioCredit": "《身骑白马》徐佳莹 · Apple iTunes 试听片段",
+    "options": [
+      "身骑白马",
+      "失落沙洲",
+      "流星雨",
+      "霍元甲"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《身骑白马》是徐佳莹 2009 年发行的经典歌曲。"
+  },
+  {
+    "id": "music-636",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-586.mp3",
+    "audioCredit": "《失落沙洲》徐佳莹 · Apple iTunes 试听片段",
+    "options": [
+      "失落沙洲",
+      "身骑白马",
+      "中学时代",
+      "雨爱"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《失落沙洲》是徐佳莹 2009 年发行的经典歌曲。"
+  },
+  {
+    "id": "music-637",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-587.mp3",
+    "audioCredit": "《公路之歌》痛仰乐队 · Apple iTunes 试听片段",
+    "options": [
+      "痛仰乐队",
+      "新裤子",
+      "孙楠&韩红",
+      "F4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《公路之歌》由痛仰乐队演唱（2008 年）。"
+  },
+  {
+    "id": "music-638",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-588.mp3",
+    "audioCredit": "《再见杰克》痛仰乐队 · Apple iTunes 试听片段",
+    "options": [
+      "再见杰克",
+      "公路之歌",
+      "专属天使",
+      "第一次"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《再见杰克》是痛仰乐队 2008 年发行的经典歌曲。"
+  },
+  {
+    "id": "music-639",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-589.mp3",
+    "audioCredit": "《我难过》5566 · Apple iTunes 试听片段",
+    "options": [
+      "5566",
+      "凤凰传奇",
+      "羽泉",
+      "飞儿乐团"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《我难过》由5566演唱。"
+  },
+  {
+    "id": "music-640",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-590.mp3",
+    "audioCredit": "《荷塘月色》凤凰传奇 · Apple iTunes 试听片段",
+    "options": [
+      "凤凰传奇",
+      "筷子兄弟",
+      "告五人",
+      "烟把儿乐队"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《荷塘月色》由凤凰传奇演唱（2010 年）。"
+  },
+  {
+    "id": "music-641",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-591.mp3",
+    "audioCredit": "《爱情买卖》慕容晓晓 · Apple iTunes 试听片段",
+    "options": [
+      "慕容晓晓",
+      "徐佳莹",
+      "邓紫棋",
+      "曲婉婷"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《爱情买卖》由慕容晓晓演唱。"
+  },
+  {
+    "id": "music-642",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-592.mp3",
+    "audioCredit": "《明天你好》牛奶咖啡 · Apple iTunes 试听片段",
+    "options": [
+      "明天你好",
+      "去大理",
+      "我们没有在一起",
+      "想见你想见你想见你"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《明天你好》是牛奶咖啡的热门歌曲。"
+  },
+  {
+    "id": "music-643",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-593.mp3",
+    "audioCredit": "《那些年》胡夏 · Apple iTunes 试听片段",
+    "options": [
+      "胡夏",
+      "陈势安",
+      "张杰",
+      "王铮亮"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《那些年》由胡夏演唱（2011 年）。电影《那些年，我们一起追的女孩》主题曲。"
+  },
+  {
+    "id": "music-644",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-594.mp3",
+    "audioCredit": "《知否知否》胡夏 · Apple iTunes 试听片段",
+    "options": [
+      "胡夏",
+      "陈势安",
+      "蔡徐坤",
+      "隔壁老樊"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《知否知否》由胡夏演唱（2018 年）。电视剧《知否知否应是绿肥红瘦》主题曲。"
+  },
+  {
+    "id": "music-645",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-595.mp3",
+    "audioCredit": "《知否知否》胡夏&郁可唯 · Apple iTunes 试听片段",
+    "options": [
+      "知否知否",
+      "微光",
+      "想见你想见你想见你",
+      "别说没爱过"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《知否知否》是胡夏&郁可唯 2018 年发行的热门歌曲。电视剧《知否？知否？应是绿肥红瘦》主题曲。"
+  },
+  {
+    "id": "music-646",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-596.mp3",
+    "audioCredit": "《致青春》王菲 · Apple iTunes 试听片段",
+    "options": [
+      "王菲",
+      "张靓颖",
+      "梁静茹",
+      "袁娅维"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《致青春》由王菲演唱（2013 年）。电影《致我们终将逝去的青春》主题曲。"
+  },
+  {
+    "id": "music-647",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-597.mp3",
+    "audioCredit": "《匆匆那年》王菲 · Apple iTunes 试听片段",
+    "options": [
+      "匆匆那年",
+      "约定",
+      "客官不可以",
+      "Wait Wait Wait"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《匆匆那年》是王菲 2014 年发行的热门歌曲。电影《匆匆那年》主题曲。"
+  },
+  {
+    "id": "music-648",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-598.mp3",
+    "audioCredit": "《后会无期》邓紫棋 · Apple iTunes 试听片段",
+    "options": [
+      "邓紫棋",
+      "刘珂矣",
+      "岑宁儿",
+      "陈粒"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《后会无期》由邓紫棋演唱（2014 年）。电影《后会无期》主题曲。"
+  },
+  {
+    "id": "music-649",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-599.mp3",
+    "audioCredit": "《多远都要在一起》邓紫棋 · Apple iTunes 试听片段",
+    "options": [
+      "邓紫棋",
+      "莫文蔚",
+      "范玮琪",
+      "陈雪凝"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《多远都要在一起》由邓紫棋演唱（2015 年）。"
+  },
+  {
+    "id": "music-650",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-600.mp3",
+    "audioCredit": "《说散就散》袁娅维 · Apple iTunes 试听片段",
+    "options": [
+      "说散就散",
+      "世间美好与你环环相扣",
+      "漂向北方",
+      "烂泥"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《说散就散》是袁娅维 2017 年发行的热门歌曲。电影《前任3：再见前任》主题曲。"
+  },
+  {
+    "id": "music-651",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-601.mp3",
+    "audioCredit": "《有一种悲伤》A-Lin · Apple iTunes 试听片段",
+    "options": [
+      "有一种悲伤",
+      "给我一个理由忘记",
+      "男孩",
+      "秋酿"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《有一种悲伤》是A-Lin 2018 年发行的热门歌曲。电影《比悲伤更悲伤的故事》主题曲。"
+  },
+  {
+    "id": "music-652",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-602.mp3",
+    "audioCredit": "《给我一个理由忘记》A-Lin · Apple iTunes 试听片段",
+    "options": [
+      "给我一个理由忘记",
+      "有一种悲伤",
+      "我的歌声里",
+      "别说没爱过"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《给我一个理由忘记》是A-Lin 2010 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-653",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-603.mp3",
+    "audioCredit": "《寂寞不痛》A-Lin · Apple iTunes 试听片段",
+    "options": [
+      "寂寞不痛",
+      "给我一个理由忘记",
+      "斑马,斑马",
+      "路过人间"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《寂寞不痛》是A-Lin 2010 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-654",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-604.mp3",
+    "audioCredit": "《悄悄告诉你》范玮琪 · Apple iTunes 试听片段",
+    "options": [
+      "范玮琪",
+      "徐佳莹",
+      "田馥甄",
+      "许飞"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《悄悄告诉你》由范玮琪演唱（2013 年）。电影《被偷走的那五年》主题曲。"
+  },
+  {
+    "id": "music-655",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-605.mp3",
+    "audioCredit": "《想见你想见你想见你》八三夭 · Apple iTunes 试听片段",
+    "options": [
+      "想见你想见你想见你",
+      "老街",
+      "作曲家",
+      "三寸天堂"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《想见你想见你想见你》是八三夭 2019 年发行的热门歌曲。电视剧《想见你》片尾曲。"
+  },
+  {
+    "id": "music-656",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-606.mp3",
+    "audioCredit": "《红颜劫》姚贝娜 · Apple iTunes 试听片段",
+    "options": [
+      "红颜劫",
+      "巴赫旧约",
+      "父亲写的散文诗",
+      "爱不单行"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《红颜劫》是姚贝娜 2011 年发行的热门歌曲。电视剧《甄嬛传》片头曲。"
+  },
+  {
+    "id": "music-657",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-607.mp3",
+    "audioCredit": "《凤凰于飞》刘欢 · Apple iTunes 试听片段",
+    "options": [
+      "凤凰于飞",
+      "千万次的问",
+      "荷塘月色",
+      "秋酿"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《凤凰于飞》是刘欢 2011 年发行的热门歌曲。电视剧《甄嬛传》片尾曲。"
+  },
+  {
+    "id": "music-658",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-608.mp3",
+    "audioCredit": "《风起时》胡歌 · Apple iTunes 试听片段",
+    "options": [
+      "风起时",
+      "六月的雨",
+      "你曾是少年",
+      "傻子"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《风起时》是胡歌 2015 年发行的热门歌曲。电视剧《琅琊榜》主题曲。"
+  },
+  {
+    "id": "music-659",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-609.mp3",
+    "audioCredit": "《三寸天堂》严艺丹 · Apple iTunes 试听片段",
+    "options": [
+      "三寸天堂",
+      "爱了很久的朋友",
+      "寻人启事",
+      "说了再见"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《三寸天堂》是严艺丹 2011 年发行的热门歌曲。电视剧《步步惊心》片尾曲。"
+  },
+  {
+    "id": "music-660",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-610.mp3",
+    "audioCredit": "《爱的供养》杨幂 · Apple iTunes 试听片段",
+    "options": [
+      "爱的供养",
+      "纸短情长",
+      "永不失联的爱",
+      "董小姐"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《爱的供养》是杨幂 2011 年发行的热门歌曲。电视剧《宫锁心玉》片头曲。"
+  },
+  {
+    "id": "music-661",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-611.mp3",
+    "audioCredit": "《三生三世》张杰 · Apple iTunes 试听片段",
+    "options": [
+      "三生三世",
+      "My Sunshine",
+      "不可说",
+      "路过人间"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《三生三世》是张杰 2017 年发行的热门歌曲。电视剧《三生三世十里桃花》片头曲。"
+  },
+  {
+    "id": "music-662",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-612.mp3",
+    "audioCredit": "《My Sunshine》张杰 · Apple iTunes 试听片段",
+    "options": [
+      "My Sunshine",
+      "天下",
+      "亲爱的路人",
+      "翅膀"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《My Sunshine》是张杰的热门歌曲。"
+  },
+  {
+    "id": "music-663",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-613.mp3",
+    "audioCredit": "《爱,不解释》张杰 · Apple iTunes 试听片段",
+    "options": [
+      "爱,不解释",
+      "这就是爱",
+      "去大理",
+      "寻人启事"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《爱,不解释》是张杰 2013 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-664",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-614.mp3",
+    "audioCredit": "《他不懂》张杰 · Apple iTunes 试听片段",
+    "options": [
+      "他不懂",
+      "这就是爱",
+      "画",
+      "永不失联的爱"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《他不懂》是张杰 2013 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-665",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-615.mp3",
+    "audioCredit": "《不染》毛不易 · Apple iTunes 试听片段",
+    "options": [
+      "不染",
+      "借",
+      "我的歌声里",
+      "下山"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《不染》是毛不易 2018 年发行的热门歌曲。电视剧《香蜜沉沉烬如霜》片头曲。"
+  },
+  {
+    "id": "music-666",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-616.mp3",
+    "audioCredit": "《平凡的一天》毛不易 · Apple iTunes 试听片段",
+    "options": [
+      "毛不易",
+      "周兴哲",
+      "郭顶",
+      "宋冬野"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《平凡的一天》由毛不易演唱（2018 年）。"
+  },
+  {
+    "id": "music-667",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-617.mp3",
+    "audioCredit": "《借》毛不易 · Apple iTunes 试听片段",
+    "options": [
+      "借",
+      "像我这样的人",
+      "爱情买卖",
+      "世间美好与你环环相扣"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《借》是毛不易 2018 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-668",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-618.mp3",
+    "audioCredit": "《无问》毛不易 · Apple iTunes 试听片段",
+    "options": [
+      "无问",
+      "像我这样的人",
+      "我最亲爱的",
+      "素颜"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《无问》是毛不易 2017 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-669",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-619.mp3",
+    "audioCredit": "《追光者》岑宁儿 · Apple iTunes 试听片段",
+    "options": [
+      "岑宁儿",
+      "杨幂",
+      "范玮琪",
+      "许飞"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《追光者》由岑宁儿演唱。"
+  },
+  {
+    "id": "music-670",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-620.mp3",
+    "audioCredit": "《老男孩》筷子兄弟 · Apple iTunes 试听片段",
+    "options": [
+      "老男孩",
+      "小苹果",
+      "岁月神偷",
+      "少年锦时"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《老男孩》是筷子兄弟 2010 年发行的热门歌曲。微电影《老男孩》主题曲。"
+  },
+  {
+    "id": "music-671",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-621.mp3",
+    "audioCredit": "《父亲》筷子兄弟 · Apple iTunes 试听片段",
+    "options": [
+      "父亲",
+      "老男孩",
+      "勋章",
+      "倍儿爽"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《父亲》是筷子兄弟的热门歌曲。"
+  },
+  {
+    "id": "music-672",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-622.mp3",
+    "audioCredit": "《时间都去哪儿了》王铮亮 · Apple iTunes 试听片段",
+    "options": [
+      "时间都去哪儿了",
+      "作曲家",
+      "永不失联的爱",
+      "今后我与自己流浪"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《时间都去哪儿了》是王铮亮的热门歌曲。"
+  },
+  {
+    "id": "music-673",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-623.mp3",
+    "audioCredit": "《去大理》郝云 · Apple iTunes 试听片段",
+    "options": [
+      "郝云",
+      "胡夏",
+      "郭顶",
+      "周兴哲"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《去大理》由郝云演唱。"
+  },
+  {
+    "id": "music-674",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-624.mp3",
+    "audioCredit": "《还是会》韦礼安 · Apple iTunes 试听片段",
+    "options": [
+      "还是会",
+      "如果可以",
+      "傲寒",
+      "大梦想家"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《还是会》是韦礼安的热门歌曲。"
+  },
+  {
+    "id": "music-675",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-625.mp3",
+    "audioCredit": "《在你身边》韦礼安 · Apple iTunes 试听片段",
+    "options": [
+      "在你身边",
+      "如果可以",
+      "红颜劫",
+      "后会无期"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《在你身边》是韦礼安 2013 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-676",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-626.mp3",
+    "audioCredit": "《别说没爱过》韦礼安 · Apple iTunes 试听片段",
+    "options": [
+      "别说没爱过",
+      "还是会",
+      "亲爱的路人",
+      "小星星"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《别说没爱过》是韦礼安 2015 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-677",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-627.mp3",
+    "audioCredit": "《翅膀》林依晨 · Apple iTunes 试听片段",
+    "options": [
+      "翅膀",
+      "天后",
+      "纸短情长",
+      "安和桥"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《翅膀》是林依晨 2011 年发行的热门歌曲。电视剧《我可能不会爱你》片尾曲。"
+  },
+  {
+    "id": "music-678",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-628.mp3",
+    "audioCredit": "《帅到分手》周汤豪 · Apple iTunes 试听片段",
+    "options": [
+      "帅到分手",
+      "寂寞不痛",
+      "红颜劫",
+      "知否知否"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《帅到分手》是周汤豪 2016 年发行的热门歌曲。电视剧《飞鱼高校生》片头曲。"
+  },
+  {
+    "id": "music-679",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-629.mp3",
+    "audioCredit": "《一笑倾城》汪苏泷 · Apple iTunes 试听片段",
+    "options": [
+      "一笑倾城",
+      "巴赫旧约",
+      "爱的供养",
+      "世间美好与你环环相扣"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《一笑倾城》是汪苏泷 2016 年发行的热门歌曲。电视剧《微微一笑很倾城》主题曲。"
+  },
+  {
+    "id": "music-680",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-630.mp3",
+    "audioCredit": "《小星星》汪苏泷 · Apple iTunes 试听片段",
+    "options": [
+      "小星星",
+      "一笑倾城",
+      "寻人启事",
+      "让我留在你身边"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《小星星》是汪苏泷 2010 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-681",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-631.mp3",
+    "audioCredit": "《巴赫旧约》汪苏泷 · Apple iTunes 试听片段",
+    "options": [
+      "巴赫旧约",
+      "小星星",
+      "风起时",
+      "爱的供养"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《巴赫旧约》是汪苏泷的热门歌曲。"
+  },
+  {
+    "id": "music-682",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-632.mp3",
+    "audioCredit": "《无羁》肖战&王一博 · Apple iTunes 试听片段",
+    "options": [
+      "肖战&王一博",
+      "八三夭",
+      "音阙诗听",
+      "TFBOYS"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《无羁》由肖战&王一博演唱（2019 年）。电视剧《陈情令》主题曲。"
+  },
+  {
+    "id": "music-683",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-633.mp3",
+    "audioCredit": "《不可说》霍建华&赵丽颖 · Apple iTunes 试听片段",
+    "options": [
+      "不可说",
+      "他不懂",
+      "在你身边",
+      "寂寞不痛"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《不可说》是霍建华&赵丽颖 2015 年发行的热门歌曲。电视剧《花千骨》片尾曲。"
+  },
+  {
+    "id": "music-684",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-634.mp3",
+    "audioCredit": "《说了再见》周杰伦 · Apple iTunes 试听片段",
+    "options": [
+      "周杰伦",
+      "大张伟",
+      "宋冬野",
+      "李宗盛"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《说了再见》由周杰伦演唱（2010 年）。"
+  },
+  {
+    "id": "music-685",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-635.mp3",
+    "audioCredit": "《渺小》田馥甄 · Apple iTunes 试听片段",
+    "options": [
+      "田馥甄",
+      "曲婉婷",
+      "袁娅维",
+      "张靓颖"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《渺小》由田馥甄演唱（2013 年）。"
+  },
+  {
+    "id": "music-686",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-636.mp3",
+    "audioCredit": "《还是要幸福》田馥甄 · Apple iTunes 试听片段",
+    "options": [
+      "还是要幸福",
+      "寂寞寂寞就好",
+      "奇妙能力歌",
+      "动物世界"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《还是要幸福》是田馥甄 2011 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-687",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-637.mp3",
+    "audioCredit": "《爱了很久的朋友》田馥甄 · Apple iTunes 试听片段",
+    "options": [
+      "爱了很久的朋友",
+      "你就不要想起我",
+      "他不懂",
+      "赤伶"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《爱了很久的朋友》是田馥甄 2018 年发行的热门歌曲。电影《后来的我们》插曲。"
+  },
+  {
+    "id": "music-688",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-638.mp3",
+    "audioCredit": "《怎么了》周兴哲 · Apple iTunes 试听片段",
+    "options": [
+      "怎么了",
+      "你,好不好",
+      "没有理想的人不伤心",
+      "傻子"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《怎么了》是周兴哲 2019 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-689",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-639.mp3",
+    "audioCredit": "《永不失联的爱》周兴哲 · Apple iTunes 试听片段",
+    "options": [
+      "永不失联的爱",
+      "你,好不好",
+      "今后我与自己流浪",
+      "红颜劫"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《永不失联的爱》是周兴哲 2017 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-690",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-640.mp3",
+    "audioCredit": "《如果雨之后》周兴哲 · Apple iTunes 试听片段",
+    "options": [
+      "如果雨之后",
+      "你,好不好",
+      "爱的供养",
+      "多远都要在一起"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《如果雨之后》是周兴哲 2017 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-691",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-641.mp3",
+    "audioCredit": "《煎熬》李佳薇 · Apple iTunes 试听片段",
+    "options": [
+      "李佳薇",
+      "A-Lin",
+      "陈粒",
+      "姚贝娜"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《煎熬》由李佳薇演唱（2011 年）。"
+  },
+  {
+    "id": "music-692",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-642.mp3",
+    "audioCredit": "《天后》陈势安 · Apple iTunes 试听片段",
+    "options": [
+      "天后",
+      "我最亲爱的",
+      "下山",
+      "纸短情长"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《天后》是陈势安的热门歌曲。"
+  },
+  {
+    "id": "music-693",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-643.mp3",
+    "audioCredit": "《寻人启事》徐佳莹 · Apple iTunes 试听片段",
+    "options": [
+      "寻人启事",
+      "失落沙洲",
+      "倍儿爽",
+      "画"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《寻人启事》是徐佳莹 2014 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-694",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-644.mp3",
+    "audioCredit": "《你敢不敢》徐佳莹 · Apple iTunes 试听片段",
+    "options": [
+      "你敢不敢",
+      "失落沙洲",
+      "怎么了",
+      "关于郑州的记忆"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《你敢不敢》是徐佳莹 2012 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-695",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-645.mp3",
+    "audioCredit": "《我们没有在一起》刘若英 · Apple iTunes 试听片段",
+    "options": [
+      "我们没有在一起",
+      "幸福不是情歌",
+      "红颜劫",
+      "漂向北方"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《我们没有在一起》是刘若英 2010 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-696",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-646.mp3",
+    "audioCredit": "《幸福不是情歌》刘若英 · Apple iTunes 试听片段",
+    "options": [
+      "刘若英",
+      "王菲",
+      "范玮琪",
+      "林依晨"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《幸福不是情歌》由刘若英演唱（2013 年）。"
+  },
+  {
+    "id": "music-697",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-647.mp3",
+    "audioCredit": "《亲爱的路人》刘若英 · Apple iTunes 试听片段",
+    "options": [
+      "刘若英",
+      "陈雪凝",
+      "邓紫棋",
+      "徐佳莹"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《亲爱的路人》由刘若英演唱（2013 年）。"
+  },
+  {
+    "id": "music-698",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-648.mp3",
+    "audioCredit": "《山丘》李宗盛 · Apple iTunes 试听片段",
+    "options": [
+      "山丘",
+      "凡人歌",
+      "终于等到你",
+      "少年锦时"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《山丘》是李宗盛 2013 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-699",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-649.mp3",
+    "audioCredit": "《你被写在我的歌里》苏打绿 · Apple iTunes 试听片段",
+    "options": [
+      "苏打绿",
+      "S.H.E",
+      "八三夭",
+      "告五人"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《你被写在我的歌里》由苏打绿演唱（2011 年）。"
+  },
+  {
+    "id": "music-700",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-650.mp3",
+    "audioCredit": "《当我们一起走过》苏打绿 · Apple iTunes 试听片段",
+    "options": [
+      "当我们一起走过",
+      "小情歌",
+      "说了再见",
+      "奇妙能力歌"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《当我们一起走过》是苏打绿 2011 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-701",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-651.mp3",
+    "audioCredit": "《你曾是少年》S.H.E · Apple iTunes 试听片段",
+    "options": [
+      "S.H.E",
+      "房东的猫",
+      "告五人",
+      "苏打绿"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《你曾是少年》由S.H.E演唱（2015 年）。电影《少年班》主题曲。"
+  },
+  {
+    "id": "music-702",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-652.mp3",
+    "audioCredit": "《我最亲爱的》张惠妹 · Apple iTunes 试听片段",
+    "options": [
+      "我最亲爱的",
+      "记得",
+      "让我留在你身边",
+      "南山南"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《我最亲爱的》是张惠妹 2011 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-703",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-653.mp3",
+    "audioCredit": "《慢慢喜欢你》莫文蔚 · Apple iTunes 试听片段",
+    "options": [
+      "慢慢喜欢你",
+      "阴天",
+      "老街",
+      "去大理"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《慢慢喜欢你》是莫文蔚 2018 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-704",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-654.mp3",
+    "audioCredit": "《让我留在你身边》陈奕迅 · Apple iTunes 试听片段",
+    "options": [
+      "让我留在你身边",
+      "K歌之王",
+      "赤伶",
+      "今后我与自己流浪"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《让我留在你身边》是陈奕迅 2016 年发行的热门歌曲。电影《摆渡人》主题曲。"
+  },
+  {
+    "id": "music-705",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-655.mp3",
+    "audioCredit": "《漂向北方》黄明志 · Apple iTunes 试听片段",
+    "options": [
+      "黄明志",
+      "蔡徐坤",
+      "马頔",
+      "林宥嘉"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《漂向北方》由黄明志演唱。"
+  },
+  {
+    "id": "music-706",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-656.mp3",
+    "audioCredit": "《山海》草东没有派对 · Apple iTunes 试听片段",
+    "options": [
+      "山海",
+      "烂泥",
+      "他不懂",
+      "男孩"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《山海》是草东没有派对 2016 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-707",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-657.mp3",
+    "audioCredit": "《烂泥》草东没有派对 · Apple iTunes 试听片段",
+    "options": [
+      "烂泥",
+      "山海",
+      "多余的解释",
+      "想自由"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《烂泥》是草东没有派对 2016 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-708",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-658.mp3",
+    "audioCredit": "《需要人陪》王力宏 · Apple iTunes 试听片段",
+    "options": [
+      "需要人陪",
+      "心中的日月",
+      "今后我与自己流浪",
+      "天后"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《需要人陪》是王力宏 2010 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-709",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-659.mp3",
+    "audioCredit": "《带我去找夜生活》告五人 · Apple iTunes 试听片段",
+    "options": [
+      "带我去找夜生活",
+      "披星戴月的想你",
+      "春风十里",
+      "幸福不是情歌"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《带我去找夜生活》是告五人 2019 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-710",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-660.mp3",
+    "audioCredit": "《想自由》林宥嘉 · Apple iTunes 试听片段",
+    "options": [
+      "想自由",
+      "说谎",
+      "平凡的一天",
+      "爱的供养"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《想自由》是林宥嘉 2011 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-711",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-661.mp3",
+    "audioCredit": "《傻子》林宥嘉 · Apple iTunes 试听片段",
+    "options": [
+      "傻子",
+      "说谎",
+      "你敢不敢",
+      "愿得一人心"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《傻子》是林宥嘉 2012 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-712",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-662.mp3",
+    "audioCredit": "《爱久见人心》梁静茹 · Apple iTunes 试听片段",
+    "options": [
+      "爱久见人心",
+      "情歌",
+      "你敢不敢",
+      "犯贱"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《爱久见人心》是梁静茹 2012 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-713",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-663.mp3",
+    "audioCredit": "《有何不可》许嵩 · Apple iTunes 试听片段",
+    "options": [
+      "有何不可",
+      "多余的解释",
+      "煎熬",
+      "不说再见"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《有何不可》是许嵩的热门歌曲。"
+  },
+  {
+    "id": "music-714",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-664.mp3",
+    "audioCredit": "《素颜》许嵩 · Apple iTunes 试听片段",
+    "options": [
+      "素颜",
+      "有何不可",
+      "傻子",
+      "犯贱"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《素颜》是许嵩 2010 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-715",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-665.mp3",
+    "audioCredit": "《半城烟沙》许嵩 · Apple iTunes 试听片段",
+    "options": [
+      "半城烟沙",
+      "断桥残雪",
+      "山海",
+      "爱的供养"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《半城烟沙》是许嵩 2010 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-716",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-666.mp3",
+    "audioCredit": "《城府》许嵩 · Apple iTunes 试听片段",
+    "options": [
+      "城府",
+      "多余的解释",
+      "路过人间",
+      "宠爱"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《城府》是许嵩的热门歌曲。"
+  },
+  {
+    "id": "music-717",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-667.mp3",
+    "audioCredit": "《多余的解释》许嵩 · Apple iTunes 试听片段",
+    "options": [
+      "多余的解释",
+      "半城烟沙",
+      "出山",
+      "动物世界"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《多余的解释》是许嵩的热门歌曲。"
+  },
+  {
+    "id": "music-718",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-668.mp3",
+    "audioCredit": "《客官不可以》徐良 · Apple iTunes 试听片段",
+    "options": [
+      "徐良",
+      "张紫豪",
+      "刘欢",
+      "华晨宇"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《客官不可以》由徐良演唱（2010 年）。"
+  },
+  {
+    "id": "music-719",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-669.mp3",
+    "audioCredit": "《后会无期》徐良 · Apple iTunes 试听片段",
+    "options": [
+      "徐良",
+      "张紫豪",
+      "隔壁老樊",
+      "鹿晗"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《后会无期》由徐良演唱（2011 年）。"
+  },
+  {
+    "id": "music-720",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-670.mp3",
+    "audioCredit": "《犯贱》徐良 · Apple iTunes 试听片段",
+    "options": [
+      "犯贱",
+      "客官不可以",
+      "斑马,斑马",
+      "我的歌声里"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《犯贱》是徐良 2010 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-721",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-671.mp3",
+    "audioCredit": "《作曲家》李荣浩 · Apple iTunes 试听片段",
+    "options": [
+      "作曲家",
+      "爸爸妈妈",
+      "爱了很久的朋友",
+      "傲寒"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《作曲家》是李荣浩 2014 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-722",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-672.mp3",
+    "audioCredit": "《动物世界》薛之谦 · Apple iTunes 试听片段",
+    "options": [
+      "动物世界",
+      "刚刚好",
+      "天后",
+      "世间美好与你环环相扣"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《动物世界》是薛之谦 2017 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-723",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-673.mp3",
+    "audioCredit": "《微光》华晨宇 · Apple iTunes 试听片段",
+    "options": [
+      "华晨宇",
+      "花粥",
+      "李宗盛",
+      "周汤豪"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《微光》由华晨宇演唱。"
+  },
+  {
+    "id": "music-724",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-674.mp3",
+    "audioCredit": "《画》赵雷 · Apple iTunes 试听片段",
+    "options": [
+      "画",
+      "成都",
+      "带我去找夜生活",
+      "勋章"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《画》是赵雷的热门歌曲。"
+  },
+  {
+    "id": "music-725",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-675.mp3",
+    "audioCredit": "《南方姑娘》赵雷 · Apple iTunes 试听片段",
+    "options": [
+      "南方姑娘",
+      "少年锦时",
+      "董小姐",
+      "后会无期"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《南方姑娘》是赵雷的热门歌曲。"
+  },
+  {
+    "id": "music-726",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-676.mp3",
+    "audioCredit": "《少年锦时》赵雷 · Apple iTunes 试听片段",
+    "options": [
+      "少年锦时",
+      "成都",
+      "半城烟沙",
+      "带我去找夜生活"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《少年锦时》是赵雷 2014 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-727",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-677.mp3",
+    "audioCredit": "《董小姐》宋冬野 · Apple iTunes 试听片段",
+    "options": [
+      "董小姐",
+      "莉莉安",
+      "还是会",
+      "爱情买卖"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《董小姐》是宋冬野的热门歌曲。"
+  },
+  {
+    "id": "music-728",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-678.mp3",
+    "audioCredit": "《斑马,斑马》宋冬野 · Apple iTunes 试听片段",
+    "options": [
+      "斑马,斑马",
+      "安和桥",
+      "没有理想的人不伤心",
+      "致青春"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《斑马,斑马》是宋冬野的热门歌曲。"
+  },
+  {
+    "id": "music-729",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-679.mp3",
+    "audioCredit": "《安和桥》宋冬野 · Apple iTunes 试听片段",
+    "options": [
+      "安和桥",
+      "董小姐",
+      "他不懂",
+      "秋酿"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《安和桥》是宋冬野的热门歌曲。"
+  },
+  {
+    "id": "music-730",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-680.mp3",
+    "audioCredit": "《莉莉安》宋冬野 · Apple iTunes 试听片段",
+    "options": [
+      "宋冬野",
+      "徐良",
+      "赵雷",
+      "要不要买菜"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《莉莉安》由宋冬野演唱。"
+  },
+  {
+    "id": "music-731",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-681.mp3",
+    "audioCredit": "《走着走着就散了》庄心妍 · Apple iTunes 试听片段",
+    "options": [
+      "走着走着就散了",
+      "烂泥",
+      "让我留在你身边",
+      "幸福不是情歌"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《走着走着就散了》是庄心妍 2015 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-732",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-682.mp3",
+    "audioCredit": "《终于等到你》张靓颖 · Apple iTunes 试听片段",
+    "options": [
+      "终于等到你",
+      "天下无双",
+      "寻人启事",
+      "少年锦时"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《终于等到你》是张靓颖的热门歌曲。"
+  },
+  {
+    "id": "music-733",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-683.mp3",
+    "audioCredit": "《Wait Wait Wait》蔡徐坤 · Apple iTunes 试听片段",
+    "options": [
+      "Wait Wait Wait",
+      "斑马,斑马",
+      "世间美好与你环环相扣",
+      "匆匆那年"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《Wait Wait Wait》是蔡徐坤 2018 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-734",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-684.mp3",
+    "audioCredit": "《宠爱》TFBOYS · Apple iTunes 试听片段",
+    "options": [
+      "宠爱",
+      "大梦想家",
+      "犯贱",
+      "爱情买卖"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《宠爱》是TFBOYS 2015 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-735",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-685.mp3",
+    "audioCredit": "《大梦想家》TFBOYS · Apple iTunes 试听片段",
+    "options": [
+      "大梦想家",
+      "样",
+      "南方姑娘",
+      "爱了很久的朋友"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《大梦想家》是TFBOYS 2015 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-736",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-686.mp3",
+    "audioCredit": "《魔法城堡》TFBOYS · Apple iTunes 试听片段",
+    "options": [
+      "魔法城堡",
+      "青春修炼手册",
+      "荷塘月色",
+      "无人之岛"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《魔法城堡》是TFBOYS 2014 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-737",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-687.mp3",
+    "audioCredit": "《我们的明天》鹿晗 · Apple iTunes 试听片段",
+    "options": [
+      "我们的明天",
+      "勋章",
+      "你的酒馆对我打了烊",
+      "别说没爱过"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《我们的明天》是鹿晗 2014 年发行的热门歌曲。电影《重返20岁》主题曲。"
+  },
+  {
+    "id": "music-738",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-688.mp3",
+    "audioCredit": "《勋章》鹿晗 · Apple iTunes 试听片段",
+    "options": [
+      "勋章",
+      "我们的明天",
+      "犯贱",
+      "后会无期"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《勋章》是鹿晗的热门歌曲。"
+  },
+  {
+    "id": "music-739",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-689.mp3",
+    "audioCredit": "《奇妙能力歌》陈粒 · Apple iTunes 试听片段",
+    "options": [
+      "陈粒",
+      "张碧晨",
+      "郁可唯",
+      "袁娅维"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《奇妙能力歌》由陈粒演唱（2015 年）。"
+  },
+  {
+    "id": "music-740",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-690.mp3",
+    "audioCredit": "《走马》陈粒 · Apple iTunes 试听片段",
+    "options": [
+      "走马",
+      "小半",
+      "大梦想家",
+      "男孩"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《走马》是陈粒 2015 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-741",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-691.mp3",
+    "audioCredit": "《路过人间》郁可唯 · Apple iTunes 试听片段",
+    "options": [
+      "路过人间",
+      "时间煮雨",
+      "有何不可",
+      "漂向北方"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《路过人间》是郁可唯 2019 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-742",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-692.mp3",
+    "audioCredit": "《我曾》隔壁老樊 · Apple iTunes 试听片段",
+    "options": [
+      "我曾",
+      "多想在平庸的生活拥抱你",
+      "给我一个理由忘记",
+      "一笑倾城"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《我曾》是隔壁老樊 2019 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-743",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-693.mp3",
+    "audioCredit": "《秋酿》房东的猫 · Apple iTunes 试听片段",
+    "options": [
+      "房东的猫",
+      "八三夭",
+      "告五人",
+      "TFBOYS"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《秋酿》由房东的猫演唱（2015 年）。"
+  },
+  {
+    "id": "music-744",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-694.mp3",
+    "audioCredit": "《出山》花粥 · Apple iTunes 试听片段",
+    "options": [
+      "出山",
+      "愿得一人心",
+      "三寸天堂",
+      "我最亲爱的"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《出山》是花粥 2018 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-745",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-695.mp3",
+    "audioCredit": "《我的歌声里》曲婉婷 · Apple iTunes 试听片段",
+    "options": [
+      "我的歌声里",
+      "不说再见",
+      "不染",
+      "荷塘月色"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《我的歌声里》是曲婉婷 2012 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-746",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-696.mp3",
+    "audioCredit": "《红昭愿》音阙诗听 · Apple iTunes 试听片段",
+    "options": [
+      "红昭愿",
+      "芒种",
+      "城府",
+      "别说没爱过"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《红昭愿》是音阙诗听 2017 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-747",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-697.mp3",
+    "audioCredit": "《你的酒馆对我打了烊》陈雪凝 · Apple iTunes 试听片段",
+    "options": [
+      "陈雪凝",
+      "张碧晨",
+      "HITA",
+      "郁可唯"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《你的酒馆对我打了烊》由陈雪凝演唱（2019 年）。"
+  },
+  {
+    "id": "music-748",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-698.mp3",
+    "audioCredit": "《凄美地》郭顶 · Apple iTunes 试听片段",
+    "options": [
+      "凄美地",
+      "水星记",
+      "没有理想的人不伤心",
+      "我的滑板鞋"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《凄美地》是郭顶 2016 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-749",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-699.mp3",
+    "audioCredit": "《无人之岛》任然 · Apple iTunes 试听片段",
+    "options": [
+      "无人之岛",
+      "飞鸟和蝉",
+      "天后",
+      "宠爱"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《无人之岛》是任然 2017 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-750",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-700.mp3",
+    "audioCredit": "《下山》要不要买菜 · Apple iTunes 试听片段",
+    "options": [
+      "下山",
+      "董小姐",
+      "三生三世",
+      "悄悄告诉你"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《下山》是要不要买菜 2019 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-751",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-701.mp3",
+    "audioCredit": "《可不可以》张紫豪 · Apple iTunes 试听片段",
+    "options": [
+      "可不可以",
+      "他不懂",
+      "寂寞不痛",
+      "魔法城堡"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《可不可以》是张紫豪 2018 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-752",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-702.mp3",
+    "audioCredit": "《纸短情长》烟把儿乐队 · Apple iTunes 试听片段",
+    "options": [
+      "纸短情长",
+      "父亲写的散文诗",
+      "有何不可",
+      "如果雨之后"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《纸短情长》是烟把儿乐队 2017 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-753",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-703.mp3",
+    "audioCredit": "《世间美好与你环环相扣》柏松 · Apple iTunes 试听片段",
+    "options": [
+      "世间美好与你环环相扣",
+      "你曾是少年",
+      "安和桥",
+      "半壶纱"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《世间美好与你环环相扣》是柏松 2019 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-754",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-704.mp3",
+    "audioCredit": "《生僻字》陈柯宇 · Apple iTunes 试听片段",
+    "options": [
+      "生僻字",
+      "寻人启事",
+      "凄美地",
+      "还是会"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《生僻字》是陈柯宇 2017 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-755",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-705.mp3",
+    "audioCredit": "《父亲写的散文诗》许飞 · Apple iTunes 试听片段",
+    "options": [
+      "许飞",
+      "严艺丹",
+      "庄心妍",
+      "王菲"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《父亲写的散文诗》由许飞演唱。"
+  },
+  {
+    "id": "music-756",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-706.mp3",
+    "audioCredit": "《愿得一人心》李行亮 · Apple iTunes 试听片段",
+    "options": [
+      "愿得一人心",
+      "寂寞不痛",
+      "致青春",
+      "知否知否"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《愿得一人心》是李行亮 2012 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-757",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-707.mp3",
+    "audioCredit": "《南山南》马頔 · Apple iTunes 试听片段",
+    "options": [
+      "南山南",
+      "傲寒",
+      "你敢不敢",
+      "Wait Wait Wait"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《南山南》是马頔 2014 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-758",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-708.mp3",
+    "audioCredit": "《傲寒》马頔 · Apple iTunes 试听片段",
+    "options": [
+      "马頔",
+      "庞麦郎",
+      "陈势安",
+      "毛不易"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《傲寒》由马頔演唱（2014 年）。"
+  },
+  {
+    "id": "music-759",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-709.mp3",
+    "audioCredit": "《关于郑州的记忆》李志 · Apple iTunes 试听片段",
+    "options": [
+      "关于郑州的记忆",
+      "平凡的一天",
+      "说散就散",
+      "巴赫旧约"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《关于郑州的记忆》是李志 2010 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-760",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-710.mp3",
+    "audioCredit": "《春风十里》鹿先森乐队 · Apple iTunes 试听片段",
+    "options": [
+      "春风十里",
+      "想见你想见你想见你",
+      "三生三世",
+      "追光者"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《春风十里》是鹿先森乐队 2015 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-761",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-711.mp3",
+    "audioCredit": "《没有理想的人不伤心》新裤子 · Apple iTunes 试听片段",
+    "options": [
+      "没有理想的人不伤心",
+      "龙虎人丹",
+      "老男孩",
+      "奇妙能力歌"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《没有理想的人不伤心》是新裤子 2013 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-762",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-712.mp3",
+    "audioCredit": "《半壶纱》刘珂矣 · Apple iTunes 试听片段",
+    "options": [
+      "半壶纱",
+      "斑马,斑马",
+      "客官不可以",
+      "去大理"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《半壶纱》是刘珂矣 2014 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-763",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-713.mp3",
+    "audioCredit": "《赤伶》HITA · Apple iTunes 试听片段",
+    "options": [
+      "赤伶",
+      "红昭愿",
+      "走着走着就散了",
+      "南方姑娘"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《赤伶》是HITA 2018 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-765",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-715.mp3",
+    "audioCredit": "《爱不单行》罗志祥 · Apple iTunes 试听片段",
+    "options": [
+      "罗志祥",
+      "郭顶",
+      "李行亮",
+      "胡夏"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《爱不单行》由罗志祥演唱（2010 年）。"
+  },
+  {
+    "id": "music-766",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-716.mp3",
+    "audioCredit": "《我的滑板鞋》庞麦郎 · Apple iTunes 试听片段",
+    "options": [
+      "庞麦郎",
+      "隔壁老樊",
+      "徐良",
+      "李志"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《我的滑板鞋》由庞麦郎演唱。"
+  },
+  {
+    "id": "music-767",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-717.mp3",
+    "audioCredit": "《未完成》孙燕姿 · Apple iTunes 试听片段",
+    "options": [
+      "未完成",
+      "我不难过",
+      "冷酷到底",
+      "花蝴蝶"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《未完成》是孙燕姿的经典歌曲。"
+  },
+  {
+    "id": "music-768",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-718.mp3",
+    "audioCredit": "《花蝴蝶》蔡依林 · Apple iTunes 试听片段",
+    "options": [
+      "蔡依林",
+      "香香",
+      "杨丞琳",
+      "范玮琪"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《花蝴蝶》由蔡依林演唱。"
+  },
+  {
+    "id": "music-769",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-719.mp3",
+    "audioCredit": "《海盗》蔡依林 · Apple iTunes 试听片段",
+    "options": [
+      "海盗",
+      "爱无赦",
+      "北极星的眼泪",
+      "你到底爱谁"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《海盗》是蔡依林的经典歌曲。"
+  },
+  {
+    "id": "music-770",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-720.mp3",
+    "audioCredit": "《梦里花》张韶涵 · Apple iTunes 试听片段",
+    "options": [
+      "梦里花",
+      "欧若拉",
+      "如果的事",
+      "当你"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《梦里花》是张韶涵的经典歌曲。"
+  },
+  {
+    "id": "music-771",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-721.mp3",
+    "audioCredit": "《当你》王心凌 · Apple iTunes 试听片段",
+    "options": [
+      "当你",
+      "彩虹的微笑",
+      "为你写诗",
+      "最重要的小事"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《当你》是王心凌的经典歌曲。"
+  },
+  {
+    "id": "music-772",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-722.mp3",
+    "audioCredit": "《如果的事》范玮琪 · Apple iTunes 试听片段",
+    "options": [
+      "范玮琪",
+      "何洁",
+      "张靓颖",
+      "金海心"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《如果的事》由范玮琪演唱。"
+  },
+  {
+    "id": "music-773",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-723.mp3",
+    "audioCredit": "《言不由衷》徐佳莹 · Apple iTunes 试听片段",
+    "options": [
+      "言不由衷",
+      "身骑白马",
+      "那女孩对我说",
+      "亲爱的你怎么不在身边"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《言不由衷》是徐佳莹的经典歌曲。"
+  },
+  {
+    "id": "music-774",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-724.mp3",
+    "audioCredit": "《华丽的冒险》陈绮贞 · Apple iTunes 试听片段",
+    "options": [
+      "华丽的冒险",
+      "旅行的意义",
+      "猪之歌",
+      "月光"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《华丽的冒险》是陈绮贞的经典歌曲。"
+  },
+  {
+    "id": "music-775",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-725.mp3",
+    "audioCredit": "《After 17》陈绮贞 · Apple iTunes 试听片段",
+    "options": [
+      "陈绮贞",
+      "金海心",
+      "张韶涵",
+      "曾轶可"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《After 17》由陈绮贞演唱。"
+  },
+  {
+    "id": "music-776",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-726.mp3",
+    "audioCredit": "《鱼》陈绮贞 · Apple iTunes 试听片段",
+    "options": [
+      "陈绮贞",
+      "蔡依林",
+      "曾轶可",
+      "郭静"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《鱼》由陈绮贞演唱。"
+  },
+  {
+    "id": "music-777",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-727.mp3",
+    "audioCredit": "《达尔文》蔡健雅 · Apple iTunes 试听片段",
+    "options": [
+      "蔡健雅",
+      "张韶涵",
+      "张悬",
+      "王菲"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《达尔文》由蔡健雅演唱。"
+  },
+  {
+    "id": "music-778",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-728.mp3",
+    "audioCredit": "《爱疯了》戴佩妮 · Apple iTunes 试听片段",
+    "options": [
+      "爱疯了",
+      "你要的爱",
+      "夏天的风",
+      "我要的飞翔"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《爱疯了》是戴佩妮的经典歌曲。"
+  },
+  {
+    "id": "music-779",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-729.mp3",
+    "audioCredit": "《受了点伤》阿桑 · Apple iTunes 试听片段",
+    "options": [
+      "阿桑",
+      "彭佳慧",
+      "王心凌",
+      "陈绮贞"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《受了点伤》由阿桑演唱。"
+  },
+  {
+    "id": "music-780",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-730.mp3",
+    "audioCredit": "《趁早》张惠妹 · Apple iTunes 试听片段",
+    "options": [
+      "趁早",
+      "连名带姓",
+      "背叛",
+      "预谋"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《趁早》是张惠妹的经典歌曲。"
+  },
+  {
+    "id": "music-781",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-731.mp3",
+    "audioCredit": "《连名带姓》张惠妹 · Apple iTunes 试听片段",
+    "options": [
+      "连名带姓",
+      "三天三夜",
+      "夏天的风",
+      "花都开好了"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《连名带姓》是张惠妹的经典歌曲。"
+  },
+  {
+    "id": "music-782",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-732.mp3",
+    "audioCredit": "《原来你什么都不要》张惠妹 · Apple iTunes 试听片段",
+    "options": [
+      "张惠妹",
+      "范玮琪",
+      "王菲",
+      "周笔畅"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《原来你什么都不要》由张惠妹演唱。"
+  },
+  {
+    "id": "music-783",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-733.mp3",
+    "audioCredit": "《Remember》S.H.E · Apple iTunes 试听片段",
+    "options": [
+      "Remember",
+      "他还是不懂",
+      "街角的祝福",
+      "天亮了"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《Remember》是S.H.E的经典歌曲。"
+  },
+  {
+    "id": "music-784",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-734.mp3",
+    "audioCredit": "《沿海公路的出口》S.H.E · Apple iTunes 试听片段",
+    "options": [
+      "S.H.E",
+      "飞儿乐团",
+      "F4",
+      "新裤子"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《沿海公路的出口》由S.H.E演唱。"
+  },
+  {
+    "id": "music-785",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-735.mp3",
+    "audioCredit": "《酸酸甜甜就是我》张含韵 · Apple iTunes 试听片段",
+    "options": [
+      "酸酸甜甜就是我",
+      "手放开",
+      "你到底爱谁",
+      "情歌"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《酸酸甜甜就是我》是张含韵的经典歌曲。"
+  },
+  {
+    "id": "music-786",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-736.mp3",
+    "audioCredit": "《走在红毯那一天》彭佳慧 · Apple iTunes 试听片段",
+    "options": [
+      "彭佳慧",
+      "郭静",
+      "温岚",
+      "张韶涵"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《走在红毯那一天》由彭佳慧演唱。"
+  },
+  {
+    "id": "music-787",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-737.mp3",
+    "audioCredit": "《小手拉大手》梁静茹 · Apple iTunes 试听片段",
+    "options": [
+      "梁静茹",
+      "杨丞琳",
+      "韩红",
+      "弦子"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《小手拉大手》由梁静茹演唱。"
+  },
+  {
+    "id": "music-788",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-738.mp3",
+    "audioCredit": "《刀马旦》李玟 · Apple iTunes 试听片段",
+    "options": [
+      "刀马旦",
+      "Di Da Di",
+      "痴心绝对",
+      "街角的祝福"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《刀马旦》是李玟的经典歌曲。"
+  },
+  {
+    "id": "music-789",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-739.mp3",
+    "audioCredit": "《千里之外》周杰伦 · Apple iTunes 试听片段",
+    "options": [
+      "千里之外",
+      "反方向的钟",
+      "无条件为你",
+      "Kiss Goodbye"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《千里之外》是周杰伦的经典歌曲。"
+  },
+  {
+    "id": "music-790",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-740.mp3",
+    "audioCredit": "《蒲公英的约定》周杰伦 · Apple iTunes 试听片段",
+    "options": [
+      "蒲公英的约定",
+      "说好不哭",
+      "亲爱的那不是爱情",
+      "最重要的小事"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《蒲公英的约定》是周杰伦的经典歌曲。"
+  },
+  {
+    "id": "music-791",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-741.mp3",
+    "audioCredit": "《星晴》周杰伦 · Apple iTunes 试听片段",
+    "options": [
+      "星晴",
+      "千里之外",
+      "落叶归根",
+      "我也很想他"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《星晴》是周杰伦的经典歌曲。"
+  },
+  {
+    "id": "music-792",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-742.mp3",
+    "audioCredit": "《第二天堂》林俊杰 · Apple iTunes 试听片段",
+    "options": [
+      "第二天堂",
+      "修炼爱情",
+      "理想情人",
+      "第三者"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《第二天堂》是林俊杰的经典歌曲。"
+  },
+  {
+    "id": "music-793",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-743.mp3",
+    "audioCredit": "《盖世英雄》王力宏 · Apple iTunes 试听片段",
+    "options": [
+      "王力宏",
+      "后弦",
+      "关喆",
+      "韩磊"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《盖世英雄》由王力宏演唱。"
+  },
+  {
+    "id": "music-794",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-744.mp3",
+    "audioCredit": "《Kiss Goodbye》王力宏 · Apple iTunes 试听片段",
+    "options": [
+      "王力宏",
+      "关喆",
+      "欧得洋",
+      "韩磊"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《Kiss Goodbye》由王力宏演唱。"
+  },
+  {
+    "id": "music-795",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-745.mp3",
+    "audioCredit": "《公转自转》王力宏 · Apple iTunes 试听片段",
+    "options": [
+      "公转自转",
+      "你是我心内的一首歌",
+      "原来你什么都不要",
+      "飞机场的10:30"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《公转自转》是王力宏的经典歌曲。"
+  },
+  {
+    "id": "music-796",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-746.mp3",
+    "audioCredit": "《小镇姑娘》陶喆 · Apple iTunes 试听片段",
+    "options": [
+      "小镇姑娘",
+      "寂寞的季节",
+      "霍元甲",
+      "一万个理由"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《小镇姑娘》是陶喆的经典歌曲。"
+  },
+  {
+    "id": "music-797",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-747.mp3",
+    "audioCredit": "《天天》陶喆 · Apple iTunes 试听片段",
+    "options": [
+      "天天",
+      "飞机场的10:30",
+      "Forever",
+      "再见杰克"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《天天》是陶喆的经典歌曲。"
+  },
+  {
+    "id": "music-798",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-748.mp3",
+    "audioCredit": "《找自己》陶喆 · Apple iTunes 试听片段",
+    "options": [
+      "找自己",
+      "爱很简单",
+      "宝贝",
+      "光明"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《找自己》是陶喆的经典歌曲。"
+  },
+  {
+    "id": "music-799",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-749.mp3",
+    "audioCredit": "《飞机场的10:30》陶喆 · Apple iTunes 试听片段",
+    "options": [
+      "飞机场的10:30",
+      "今天你要嫁给我",
+      "太聪明",
+      "手放开"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《飞机场的10:30》是陶喆的经典歌曲。"
+  },
+  {
+    "id": "music-800",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-750.mp3",
+    "audioCredit": "《反转地球》潘玮柏 · Apple iTunes 试听片段",
+    "options": [
+      "反转地球",
+      "壁虎漫步",
+      "原来你什么都不要",
+      "彩虹的微笑"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《反转地球》是潘玮柏的经典歌曲。"
+  },
+  {
+    "id": "music-801",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-751.mp3",
+    "audioCredit": "《壁虎漫步》潘玮柏 · Apple iTunes 试听片段",
+    "options": [
+      "壁虎漫步",
+      "反转地球",
+      "国境之南",
+      "看月亮爬上来"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《壁虎漫步》是潘玮柏的经典歌曲。"
+  },
+  {
+    "id": "music-802",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-752.mp3",
+    "audioCredit": "《寂寞先生》曹格 · Apple iTunes 试听片段",
+    "options": [
+      "曹格",
+      "方大同",
+      "张宇",
+      "杨臣刚"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《寂寞先生》由曹格演唱。"
+  },
+  {
+    "id": "music-803",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-753.mp3",
+    "audioCredit": "《无可救药》品冠 · Apple iTunes 试听片段",
+    "options": [
+      "品冠",
+      "李健",
+      "杨臣刚",
+      "胡杨林"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《无可救药》由品冠演唱。"
+  },
+  {
+    "id": "music-804",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-754.mp3",
+    "audioCredit": "《天黑》阿杜 · Apple iTunes 试听片段",
+    "options": [
+      "天黑",
+      "撕夜",
+      "一直很安静",
+      "趁早"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《天黑》是阿杜的经典歌曲。"
+  },
+  {
+    "id": "music-805",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-755.mp3",
+    "audioCredit": "《看月亮爬上来》张杰 · Apple iTunes 试听片段",
+    "options": [
+      "张杰",
+      "林志炫",
+      "方大同",
+      "阿牛"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《看月亮爬上来》由张杰演唱。"
+  },
+  {
+    "id": "music-806",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-756.mp3",
+    "audioCredit": "《特别的人》方大同 · Apple iTunes 试听片段",
+    "options": [
+      "方大同",
+      "周杰伦",
+      "热狗",
+      "光良"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《特别的人》由方大同演唱。"
+  },
+  {
+    "id": "music-807",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-757.mp3",
+    "audioCredit": "《再见》张震岳 · Apple iTunes 试听片段",
+    "options": [
+      "再见",
+      "小宇",
+      "第二天堂",
+      "千里之外"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《再见》是张震岳的经典歌曲。"
+  },
+  {
+    "id": "music-808",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-758.mp3",
+    "audioCredit": "《小宇》张震岳 · Apple iTunes 试听片段",
+    "options": [
+      "小宇",
+      "爱我别走",
+      "特别的人",
+      "After 17"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《小宇》是张震岳的经典歌曲。"
+  },
+  {
+    "id": "music-809",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-759.mp3",
+    "audioCredit": "《你要的全拿走》胡彦斌 · Apple iTunes 试听片段",
+    "options": [
+      "你要的全拿走",
+      "男人KTV",
+      "和你一样",
+      "鱼仔"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《你要的全拿走》是胡彦斌的经典歌曲。"
+  },
+  {
+    "id": "music-810",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-760.mp3",
+    "audioCredit": "《一万个理由》郑源 · Apple iTunes 试听片段",
+    "options": [
+      "一万个理由",
+      "人生海海",
+      "我不想忘记你",
+      "是非题"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《一万个理由》是郑源的经典歌曲。"
+  },
+  {
+    "id": "music-811",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-761.mp3",
+    "audioCredit": "《我相信》杨培安 · Apple iTunes 试听片段",
+    "options": [
+      "我相信",
+      "天使的翅膀",
+      "寂寞先生",
+      "最美的期待"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《我相信》是杨培安的经典歌曲。"
+  },
+  {
+    "id": "music-812",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-762.mp3",
+    "audioCredit": "《为你写诗》吴克群 · Apple iTunes 试听片段",
+    "options": [
+      "为你写诗",
+      "盖世英雄",
+      "雨爱",
+      "单车恋人"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《为你写诗》是吴克群的经典歌曲。"
+  },
+  {
+    "id": "music-813",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-763.mp3",
+    "audioCredit": "《在木星》朴树 · Apple iTunes 试听片段",
+    "options": [
+      "在木星",
+      "我去2000年",
+      "华丽的冒险",
+      "千年之恋"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《在木星》是朴树的经典歌曲。"
+  },
+  {
+    "id": "music-814",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-764.mp3",
+    "audioCredit": "《时光》许巍 · Apple iTunes 试听片段",
+    "options": [
+      "时光",
+      "曾经的你",
+      "爱疯了",
+      "你要的爱"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《时光》是许巍的经典歌曲。"
+  },
+  {
+    "id": "music-815",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-765.mp3",
+    "audioCredit": "《悠远的天空》许巍 · Apple iTunes 试听片段",
+    "options": [
+      "许巍",
+      "庞龙",
+      "张杰",
+      "萧煌奇"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《悠远的天空》由许巍演唱。"
+  },
+  {
+    "id": "music-816",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-766.mp3",
+    "audioCredit": "《没离开过》林志炫 · Apple iTunes 试听片段",
+    "options": [
+      "林志炫",
+      "关喆",
+      "郑源",
+      "誓言"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《没离开过》由林志炫演唱。"
+  },
+  {
+    "id": "music-817",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-767.mp3",
+    "audioCredit": "《盛夏光年》五月天 · Apple iTunes 试听片段",
+    "options": [
+      "盛夏光年",
+      "私奔到月球",
+      "狼爱上羊",
+      "陌生人"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《盛夏光年》是五月天的经典歌曲。"
+  },
+  {
+    "id": "music-818",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-768.mp3",
+    "audioCredit": "《伤心的人别听慢歌》五月天 · Apple iTunes 试听片段",
+    "options": [
+      "伤心的人别听慢歌",
+      "拥抱",
+      "第三者",
+      "撕夜"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《伤心的人别听慢歌》是五月天的经典歌曲。"
+  },
+  {
+    "id": "music-819",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-769.mp3",
+    "audioCredit": "《疯狂世界》五月天 · Apple iTunes 试听片段",
+    "options": [
+      "疯狂世界",
+      "伤心的人别听慢歌",
+      "任性",
+      "流星雨"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《疯狂世界》是五月天的经典歌曲。"
+  },
+  {
+    "id": "music-820",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-770.mp3",
+    "audioCredit": "《无限》飞儿乐团 · Apple iTunes 试听片段",
+    "options": [
+      "无限",
+      "月牙湾",
+      "想你的365天",
+      "背叛"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《无限》是飞儿乐团的经典歌曲。"
+  },
+  {
+    "id": "music-821",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-771.mp3",
+    "audioCredit": "《越来越爱》飞轮海 · Apple iTunes 试听片段",
+    "options": [
+      "越来越爱",
+      "只对你有感觉",
+      "没离开过",
+      "我的生活"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《越来越爱》是飞轮海的经典歌曲。"
+  },
+  {
+    "id": "music-822",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-772.mp3",
+    "audioCredit": "《掌心》无印良品 · Apple iTunes 试听片段",
+    "options": [
+      "掌心",
+      "他还是不懂",
+      "After 17",
+      "月牙湾"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《掌心》是无印良品的经典歌曲。"
+  },
+  {
+    "id": "music-823",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-773.mp3",
+    "audioCredit": "《因为爱情》王菲 · Apple iTunes 试听片段",
+    "options": [
+      "因为爱情",
+      "执迷不悔",
+      "双栖动物",
+      "你要的全拿走"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《因为爱情》是王菲的经典歌曲。"
+  },
+  {
+    "id": "music-825",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-775.mp3",
+    "audioCredit": "《天使的翅膀》安琥 · Apple iTunes 试听片段",
+    "options": [
+      "天使的翅膀",
+      "北极星的眼泪",
+      "穷开心",
+      "想你的365天"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《天使的翅膀》是安琥的经典歌曲。"
+  },
+  {
+    "id": "music-826",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-776.mp3",
+    "audioCredit": "《好运来》祖海 · Apple iTunes 试听片段",
+    "options": [
+      "好运来",
+      "痴心绝对",
+      "手放开",
+      "为你写诗"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《好运来》是祖海的经典歌曲。"
+  },
+  {
+    "id": "music-827",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-777.mp3",
+    "audioCredit": "《曲终人散》张宇 · Apple iTunes 试听片段",
+    "options": [
+      "张宇",
+      "郑源",
+      "唐磊",
+      "欧得洋"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《曲终人散》由张宇演唱。"
+  },
+  {
+    "id": "music-828",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-778.mp3",
+    "audioCredit": "《我的心太乱》周传雄 · Apple iTunes 试听片段",
+    "options": [
+      "我的心太乱",
+      "青花",
+      "我相信",
+      "风吹麦浪"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《我的心太乱》是周传雄的经典歌曲。"
+  },
+  {
+    "id": "music-830",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-780.mp3",
+    "audioCredit": "《再见》邓紫棋 · Apple iTunes 试听片段",
+    "options": [
+      "再见",
+      "句号",
+      "男孩",
+      "意外"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《再见》是邓紫棋的热门歌曲。"
+  },
+  {
+    "id": "music-831",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-781.mp3",
+    "audioCredit": "《差不多姑娘》邓紫棋 · Apple iTunes 试听片段",
+    "options": [
+      "差不多姑娘",
+      "画",
+      "样",
+      "爱久见人心"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《差不多姑娘》是邓紫棋的热门歌曲。"
+  },
+  {
+    "id": "music-832",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-782.mp3",
+    "audioCredit": "《睡公主》邓紫棋 · Apple iTunes 试听片段",
+    "options": [
+      "睡公主",
+      "喜欢你",
+      "知否知否",
+      "关键词"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《睡公主》是邓紫棋的热门歌曲。"
+  },
+  {
+    "id": "music-833",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-783.mp3",
+    "audioCredit": "《一笑而过》那英 · Apple iTunes 试听片段",
+    "options": [
+      "一笑而过",
+      "征服",
+      "生僻字",
+      "山海"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《一笑而过》是那英的热门歌曲。"
+  },
+  {
+    "id": "music-834",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-784.mp3",
+    "audioCredit": "《这世界那么多人》莫文蔚 · Apple iTunes 试听片段",
+    "options": [
+      "这世界那么多人",
+      "盛夏的果实",
+      "斗牛",
+      "耳朵"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《这世界那么多人》是莫文蔚的热门歌曲。"
+  },
+  {
+    "id": "music-835",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-785.mp3",
+    "audioCredit": "《爱丫爱丫》BY2 · Apple iTunes 试听片段",
+    "options": [
+      "爱丫爱丫",
+      "My Sunshine",
+      "慢慢喜欢你",
+      "刚好遇见你"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《爱丫爱丫》是BY2的热门歌曲。"
+  },
+  {
+    "id": "music-836",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-786.mp3",
+    "audioCredit": "《关键词》林俊杰 · Apple iTunes 试听片段",
+    "options": [
+      "关键词",
+      "木乃伊",
+      "有一种悲伤",
+      "借"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《关键词》是林俊杰的热门歌曲。"
+  },
+  {
+    "id": "music-837",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-787.mp3",
+    "audioCredit": "《不流泪的机场》林俊杰 · Apple iTunes 试听片段",
+    "options": [
+      "不流泪的机场",
+      "一千年以后",
+      "知否知否",
+      "父亲写的散文诗"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《不流泪的机场》是林俊杰的热门歌曲。"
+  },
+  {
+    "id": "music-838",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-788.mp3",
+    "audioCredit": "《其实》薛之谦 · Apple iTunes 试听片段",
+    "options": [
+      "其实",
+      "你还要我怎样",
+      "宠爱",
+      "带我去找夜生活"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《其实》是薛之谦的热门歌曲。"
+  },
+  {
+    "id": "music-839",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-789.mp3",
+    "audioCredit": "《初学者》薛之谦 · Apple iTunes 试听片段",
+    "options": [
+      "初学者",
+      "我好像在哪见过你",
+      "这世界那么多人",
+      "耳朵"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《初学者》是薛之谦的热门歌曲。"
+  },
+  {
+    "id": "music-840",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-790.mp3",
+    "audioCredit": "《意外》薛之谦 · Apple iTunes 试听片段",
+    "options": [
+      "意外",
+      "初学者",
+      "山丘",
+      "傲寒"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《意外》是薛之谦的热门歌曲。"
+  },
+  {
+    "id": "music-841",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-791.mp3",
+    "audioCredit": "《耳朵》李荣浩 · Apple iTunes 试听片段",
+    "options": [
+      "李荣浩",
+      "卢广仲",
+      "庞麦郎",
+      "花粥"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《耳朵》由李荣浩演唱。"
+  },
+  {
+    "id": "music-842",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-792.mp3",
+    "audioCredit": "《戒烟》李荣浩 · Apple iTunes 试听片段",
+    "options": [
+      "戒烟",
+      "耳朵",
+      "宠爱",
+      "凄美地"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《戒烟》是李荣浩的热门歌曲。"
+  },
+  {
+    "id": "music-843",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-793.mp3",
+    "audioCredit": "《乌梅子酱》李荣浩 · Apple iTunes 试听片段",
+    "options": [
+      "李荣浩",
+      "陈鸿宇",
+      "杨宗纬",
+      "罗志祥"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《乌梅子酱》由李荣浩演唱。"
+  },
+  {
+    "id": "music-844",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-794.mp3",
+    "audioCredit": "《齐天》华晨宇 · Apple iTunes 试听片段",
+    "options": [
+      "齐天",
+      "烟火里的尘埃",
+      "风起时",
+      "父亲写的散文诗"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《齐天》是华晨宇的热门歌曲。"
+  },
+  {
+    "id": "music-845",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-795.mp3",
+    "audioCredit": "《斗牛》华晨宇 · Apple iTunes 试听片段",
+    "options": [
+      "斗牛",
+      "齐天",
+      "还是会",
+      "远走高飞"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《斗牛》是华晨宇的热门歌曲。"
+  },
+  {
+    "id": "music-846",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-796.mp3",
+    "audioCredit": "《我管你》华晨宇 · Apple iTunes 试听片段",
+    "options": [
+      "我管你",
+      "好想爱这个世界啊",
+      "傻子",
+      "后来遇见他"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《我管你》是华晨宇的热门歌曲。"
+  },
+  {
+    "id": "music-847",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-797.mp3",
+    "audioCredit": "《牧马城市》毛不易 · Apple iTunes 试听片段",
+    "options": [
+      "毛不易",
+      "刘欢",
+      "陈鸿宇",
+      "张杰"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《牧马城市》由毛不易演唱。"
+  },
+  {
+    "id": "music-848",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-798.mp3",
+    "audioCredit": "《如果有一天我变得很有钱》毛不易 · Apple iTunes 试听片段",
+    "options": [
+      "如果有一天我变得很有钱",
+      "不染",
+      "想见你想见你想见你",
+      "凤凰于飞"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《如果有一天我变得很有钱》是毛不易的热门歌曲。"
+  },
+  {
+    "id": "music-849",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-799.mp3",
+    "audioCredit": "《理想》赵雷 · Apple iTunes 试听片段",
+    "options": [
+      "理想",
+      "阿刁",
+      "动物世界",
+      "春风十里"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《理想》是赵雷的热门歌曲。"
+  },
+  {
+    "id": "music-850",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-800.mp3",
+    "audioCredit": "《我记得》赵雷 · Apple iTunes 试听片段",
+    "options": [
+      "赵雷",
+      "刘欢",
+      "林俊杰",
+      "毛不易"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《我记得》由赵雷演唱。"
+  },
+  {
+    "id": "music-851",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-801.mp3",
+    "audioCredit": "《鼓楼》赵雷 · Apple iTunes 试听片段",
+    "options": [
+      "鼓楼",
+      "我记得",
+      "如果有一天我变得很有钱",
+      "有一种悲伤"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《鼓楼》是赵雷的热门歌曲。"
+  },
+  {
+    "id": "music-852",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-802.mp3",
+    "audioCredit": "《阿刁》赵雷 · Apple iTunes 试听片段",
+    "options": [
+      "赵雷",
+      "黄明志",
+      "汪苏泷",
+      "张杰"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《阿刁》由赵雷演唱。"
+  },
+  {
+    "id": "music-853",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-803.mp3",
+    "audioCredit": "《玫瑰花的葬礼》许嵩 · Apple iTunes 试听片段",
+    "options": [
+      "玫瑰花的葬礼",
+      "如果当时",
+      "意外",
+      "漂向北方"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《玫瑰花的葬礼》是许嵩的热门歌曲。"
+  },
+  {
+    "id": "music-854",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-804.mp3",
+    "audioCredit": "《惊鸿一面》许嵩 · Apple iTunes 试听片段",
+    "options": [
+      "惊鸿一面",
+      "素颜",
+      "山丘",
+      "渺小"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《惊鸿一面》是许嵩的热门歌曲。"
+  },
+  {
+    "id": "music-855",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-805.mp3",
+    "audioCredit": "《如果当时》许嵩 · Apple iTunes 试听片段",
+    "options": [
+      "许嵩",
+      "胡歌",
+      "林俊杰",
+      "刘欢"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《如果当时》由许嵩演唱。"
+  },
+  {
+    "id": "music-856",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-806.mp3",
+    "audioCredit": "《浪费》林宥嘉 · Apple iTunes 试听片段",
+    "options": [
+      "林宥嘉",
+      "陈鸿宇",
+      "黄明志",
+      "李健"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《浪费》由林宥嘉演唱。"
+  },
+  {
+    "id": "music-857",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-807.mp3",
+    "audioCredit": "《天真有邪》林宥嘉 · Apple iTunes 试听片段",
+    "options": [
+      "天真有邪",
+      "想自由",
+      "My Sunshine",
+      "一笑倾城"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《天真有邪》是林宥嘉的热门歌曲。"
+  },
+  {
+    "id": "music-858",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-808.mp3",
+    "audioCredit": "《越过山丘》杨宗纬 · Apple iTunes 试听片段",
+    "options": [
+      "越过山丘",
+      "洋葱",
+      "房间",
+      "我们没有在一起"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《越过山丘》是杨宗纬的热门歌曲。"
+  },
+  {
+    "id": "music-859",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-809.mp3",
+    "audioCredit": "《刚好遇见你》李玉刚 · Apple iTunes 试听片段",
+    "options": [
+      "李玉刚",
+      "郭顶",
+      "鹿晗",
+      "李志"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《刚好遇见你》由李玉刚演唱。"
+  },
+  {
+    "id": "music-860",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-810.mp3",
+    "audioCredit": "《远走高飞》金志文 · Apple iTunes 试听片段",
+    "options": [
+      "远走高飞",
+      "为你写诗",
+      "初学者",
+      "借一生"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《远走高飞》是金志文的热门歌曲。"
+  },
+  {
+    "id": "music-861",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-811.mp3",
+    "audioCredit": "《当你老了》赵照 · Apple iTunes 试听片段",
+    "options": [
+      "赵照",
+      "隔壁老樊",
+      "柏松",
+      "林俊杰"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《当你老了》由赵照演唱。"
+  },
+  {
+    "id": "music-862",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-812.mp3",
+    "audioCredit": "《几分之几》卢广仲 · Apple iTunes 试听片段",
+    "options": [
+      "卢广仲",
+      "马頔",
+      "李健",
+      "毛不易"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《几分之几》由卢广仲演唱。"
+  },
+  {
+    "id": "music-863",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-813.mp3",
+    "audioCredit": "《假如爱有天意》李健 · Apple iTunes 试听片段",
+    "options": [
+      "假如爱有天意",
+      "向往",
+      "你被写在我的歌里",
+      "愿得一人心"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《假如爱有天意》是李健的热门歌曲。"
+  },
+  {
+    "id": "music-864",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-814.mp3",
+    "audioCredit": "《向往》李健 · Apple iTunes 试听片段",
+    "options": [
+      "李健",
+      "张杰",
+      "张紫豪",
+      "胡夏"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《向往》由李健演唱。"
+  },
+  {
+    "id": "music-865",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-815.mp3",
+    "audioCredit": "《清白之年》朴树 · Apple iTunes 试听片段",
+    "options": [
+      "清白之年",
+      "那些花儿",
+      "纸短情长",
+      "这世界那么多人"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《清白之年》是朴树的热门歌曲。"
+  },
+  {
+    "id": "music-866",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-816.mp3",
+    "audioCredit": "《去年夏天》王大毛 · Apple iTunes 试听片段",
+    "options": [
+      "去年夏天",
+      "幸运符号",
+      "需要人陪",
+      "还是要幸福"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《去年夏天》是王大毛的热门歌曲。"
+  },
+  {
+    "id": "music-867",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-817.mp3",
+    "audioCredit": "《河流》汪峰 · Apple iTunes 试听片段",
+    "options": [
+      "河流",
+      "光明",
+      "错位时空",
+      "董小姐"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《河流》是汪峰的热门歌曲。"
+  },
+  {
+    "id": "music-868",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-818.mp3",
+    "audioCredit": "《幸运符号》TFBOYS · Apple iTunes 试听片段",
+    "options": [
+      "幸运符号",
+      "大梦想家",
+      "男孩",
+      "作曲家"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《幸运符号》是TFBOYS的热门歌曲。"
+  },
+  {
+    "id": "music-869",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-819.mp3",
+    "audioCredit": "《Bye Bye Disco》新裤子 · Apple iTunes 试听片段",
+    "options": [
+      "Bye Bye Disco",
+      "龙虎人丹",
+      "多余的解释",
+      "天真有邪"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《Bye Bye Disco》是新裤子的热门歌曲。"
+  },
+  {
+    "id": "music-870",
+    "category": "music",
+    "difficulty": "hard",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-820.mp3",
+    "audioCredit": "《愿爱无忧》痛仰乐队 · Apple iTunes 试听片段",
+    "options": [
+      "愿爱无忧",
+      "公路之歌",
+      "傻子",
+      "永不失联的爱"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《愿爱无忧》是痛仰乐队的热门歌曲。"
+  },
+  {
+    "id": "music-871",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-821.mp3",
+    "audioCredit": "《陪你度过漫长岁月》陈奕迅 · Apple iTunes 试听片段",
+    "options": [
+      "陪你度过漫长岁月",
+      "淘汰",
+      "微光",
+      "走着走着就散了"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《陪你度过漫长岁月》是陈奕迅的热门歌曲。"
+  },
+  {
+    "id": "music-872",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-822.mp3",
+    "audioCredit": "《伤不起》王麟 · Apple iTunes 试听片段",
+    "options": [
+      "王麟",
+      "卢广仲",
+      "王铮亮",
+      "陈奕迅"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《伤不起》由王麟演唱。"
+  },
+  {
+    "id": "music-873",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-823.mp3",
+    "audioCredit": "《光的方向》张碧晨 · Apple iTunes 试听片段",
+    "options": [
+      "光的方向",
+      "年轮",
+      "睡公主",
+      "无羁"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《光的方向》是张碧晨的热门歌曲。"
+  },
+  {
+    "id": "music-874",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-824.mp3",
+    "audioCredit": "《点歌的人》海来阿木 · Apple iTunes 试听片段",
+    "options": [
+      "海来阿木",
+      "庞麦郎",
+      "萧忆情Alex",
+      "周杰伦"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《点歌的人》由海来阿木演唱。"
+  },
+  {
+    "id": "music-875",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-825.mp3",
+    "audioCredit": "《不谓侠》萧忆情Alex · Apple iTunes 试听片段",
+    "options": [
+      "萧忆情Alex",
+      "李行亮",
+      "胡歌",
+      "黄明志"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《不谓侠》由萧忆情Alex演唱。"
+  },
+  {
+    "id": "music-878",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-828.mp3",
+    "audioCredit": "《野子》苏运莹 · Apple iTunes 试听片段",
+    "options": [
+      "野子",
+      "走着走着就散了",
+      "城府",
+      "慢慢喜欢你"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《野子》是苏运莹的热门歌曲。"
+  },
+  {
+    "id": "music-879",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-829.mp3",
+    "audioCredit": "《错位时空》艾辰 · Apple iTunes 试听片段",
+    "options": [
+      "艾辰",
+      "严艺丹",
+      "袁娅维",
+      "曲婉婷"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《错位时空》由艾辰演唱。"
+  },
+  {
+    "id": "music-880",
+    "category": "music",
+    "difficulty": "easy",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-830.mp3",
+    "audioCredit": "《爱情36计》蔡依林 · Apple iTunes 试听片段",
+    "options": [
+      "爱情36计",
+      "大艺术家",
+      "飞机场的10:30",
+      "流星雨"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《爱情36计》是蔡依林的经典歌曲。"
+  },
+  {
+    "id": "music-881",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-831.mp3",
+    "audioCredit": "《第三人称》蔡依林 · Apple iTunes 试听片段",
+    "options": [
+      "蔡依林",
+      "韩红",
+      "香香",
+      "张悬"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《第三人称》由蔡依林演唱。"
+  },
+  {
+    "id": "music-882",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-832.mp3",
+    "audioCredit": "《如果这就是爱情》张靓颖 · Apple iTunes 试听片段",
+    "options": [
+      "张靓颖",
+      "曾轶可",
+      "彭佳慧",
+      "戴佩妮"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《如果这就是爱情》由张靓颖演唱。"
+  },
+  {
+    "id": "music-883",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-833.mp3",
+    "audioCredit": "《孤芳不自赏》杨小壮 · Apple iTunes 试听片段",
+    "options": [
+      "杨小壮",
+      "汪苏泷",
+      "华晨宇",
+      "鹿晗"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《孤芳不自赏》由杨小壮演唱。"
+  },
+  {
+    "id": "music-884",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-526.mp3",
+    "audioCredit": "《想你的夜》关喆 · Apple iTunes 试听片段",
+    "options": [
+      "想你的夜",
+      "傀儡",
+      "谢谢你的爱1999",
+      "鱼仔"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《想你的夜》是关喆 2009 年发行的经典歌曲。"
+  },
+  {
+    "id": "music-885",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-563.mp3",
+    "audioCredit": "《倍儿爽》大张伟 · Apple iTunes 试听片段",
+    "options": [
+      "倍儿爽",
+      "犯贱",
+      "小星星",
+      "致青春"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《倍儿爽》是大张伟 2014 年发行的热门歌曲。"
+  },
+  {
+    "id": "music-886",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "00年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-565.mp3",
+    "audioCredit": "《孤单北半球》欧得洋 · Apple iTunes 试听片段",
+    "options": [
+      "孤单北半球",
+      "身骑白马",
+      "为你写诗",
+      "盛夏光年"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《孤单北半球》是欧得洋的经典歌曲。"
+  },
+  {
+    "id": "music-887",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，它的歌名是？",
+    "audio": "/questions/audio/hit-575.mp3",
+    "audioCredit": "《房间》刘瑞琦 · Apple iTunes 试听片段",
+    "options": [
+      "房间",
+      "去年夏天",
+      "别说没爱过",
+      "勋章"
+    ],
+    "correctAnswer": 0,
+    "explanation": "《房间》是刘瑞琦的热门歌曲。"
+  },
+  {
+    "id": "music-888",
+    "category": "music",
+    "difficulty": "medium",
+    "topic": "10年代金曲",
+    "question": "仔细听这段歌曲，演唱者是谁？",
+    "audio": "/questions/audio/hit-714.mp3",
+    "audioCredit": "《后来遇见他》胡66 · Apple iTunes 试听片段",
+    "options": [
+      "胡66",
+      "卢广仲",
+      "徐良",
+      "王铮亮"
+    ],
+    "correctAnswer": 0,
+    "explanation": "这首《后来遇见他》由胡66演唱。"
   }
 ]

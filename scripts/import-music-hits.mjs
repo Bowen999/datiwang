@@ -28,9 +28,9 @@ const CLIP_SS = 2;   // 跳过试听开头 2 秒
 const CLIP_LEN = 13; // 截取 13 秒
 const SEARCH_GAP_MS = Number(process.env.SEARCH_GAP_MS || 2500); // iTunes 搜索接口约每分钟 20 次，超了会 403，保持间隔
 const CREDIT_SUFFIX = ' · Apple iTunes 试听片段';
-const TOPICS = new Set(['华语8090', '港台流行', '华语流行', '热歌榜']);
+const TOPICS = new Set(['华语8090', '港台流行', '华语流行', '热歌榜', '00年代金曲', '10年代金曲']);
 const DIFF = { e: 'easy', m: 'medium', h: 'hard' };
-const LABEL = { 热歌榜: '热门歌曲' };
+const LABEL = { 热歌榜: '热门歌曲', '10年代金曲': '热门歌曲' };
 
 const limitArg = process.argv.indexOf('--limit');
 const LIMIT = limitArg > 0 ? Number(process.argv[limitArg + 1]) : Infinity;
@@ -74,7 +74,7 @@ function parseHits(text) {
 
 // ---------------- 搜索 / 下载 / 转码 ----------------
 // iTunes 返回繁体，过滤前先转简体；曲名和专辑名都要查（现场专辑里的曲名可能不带 live 字样）
-const BAD_TRACK = /live|现场|演唱会|concert|cover|翻唱|instrumental|karaoke|伴奏|伴唱|纯音乐|演奏|配乐|钢琴|piano|remix|\bdj\b|demo|铃声|acoustic|unplugged|乡[摇谣]|摇滚版|重生版/i;
+const BAD_TRACK = /live|现场|演唱会|concert|cover|翻唱|instrumental|karaoke|伴奏|伴唱|纯音乐|演奏|配乐|钢琴|piano|remix|\bdj\b|demo|铃声|acoustic|unplugged|乡[摇谣]|摇滚版|重生版|好声音|\d\.\dx|trance|混音|新版|重遇版|未眠版|春晚版/i;
 const BAD_ALBUM = /live|现场|演唱会|concert|巡回|remix|karaoke|伴奏|钢琴|piano|翻唱|cover/i;
 
 /** 去掉括号后缀的简体曲名，如「同桌的你 (95年红星版)」→「同桌的你」 */
