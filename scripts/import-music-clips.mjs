@@ -11,6 +11,13 @@ import path from 'node:path';
 const OUT_DIR = new URL('../public/questions/audio/', import.meta.url).pathname;
 const MUSIC_JSON = new URL('../public/questions/music.json', import.meta.url).pathname;
 const TMP_DIR = '/tmp/music-import';
+
+// 本脚本会整体重写 music.json（只含下面 42 首）。放量之后的新歌由 import-music-hits.mjs 追加，
+// 一旦 music.json 里已有 hit-* 题目就拒绝运行，免得把它们覆盖掉。
+if (fs.existsSync(MUSIC_JSON) && fs.readFileSync(MUSIC_JSON, 'utf8').includes('/hit-') && !process.argv.includes('--force')) {
+  console.error('music.json 已包含 import-music-hits.mjs 导入的题目，本脚本会将其覆盖，已中止（确需重来请加 --force）。');
+  process.exit(1);
+}
 fs.mkdirSync(OUT_DIR, { recursive: true });
 fs.mkdirSync(TMP_DIR, { recursive: true });
 
